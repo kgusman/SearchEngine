@@ -9,6 +9,7 @@ def lemmatize(words):
     wordnet_lemmatizer = WordNetLemmatizer()
     res_lemma = []
     for word in words:
+        word = re.sub(r"([0-9])|(\\)|(\?)|(\/)|(\%)|(\<)|(\>)|(\_)|(\$)|(\-)|(\&)|(\))|(\()|(\+)", "", word)
         res_lemma.append(wordnet_lemmatizer.lemmatize(word))
 
     return res_lemma
