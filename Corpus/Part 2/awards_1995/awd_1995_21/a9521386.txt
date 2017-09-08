@@ -1,0 +1,41 @@
+Title       : Reliable Main-Memory Storage Systems
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : November 8,  2000   
+File        : a9521386
+
+Award Number: 9521386
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1995   
+Expires     : November 30,  2001   (Estimated)
+Expected
+Total Amt.  : $1439901            (Estimated)
+Investigator: Willy Zwaenepoel willy@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0108000   Software Development                    
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project investigates the use of non-volatile semiconductor  memory (such as
+              flash memory) as a storage system to replace some  of the functions currently
+              assigned to disks.  A board (eNVy)  incorporating a large (128MB) flash memory
+              is being designed at  Rice University; concurrently, a log-structured file
+              system (Rio)  that can use the flash memory board as a cache between main
+              memory  and disk is being developed at the University of Michigan.  In  later
+              stages of the project these research prototypes will be  integrated.  Research
+              issues in hardware development include space  reclamation (garbage collection),
+              and tradeoffs between memory  size, performance, and memory lifetimes. 
+              Research issues in file  system development include optimization of the sizes
+              of cache and  main memory, algorithms for compression of data in the cache, 
+              protection of memory from software faults, and exploration of file  system
+              index structures.  Integration of the prototypes will  provide insight into the
+              protability of these techniques to new  systems.

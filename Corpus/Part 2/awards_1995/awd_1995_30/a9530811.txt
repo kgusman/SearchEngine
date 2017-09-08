@@ -1,0 +1,46 @@
+Title       : Data Acquisition Systems with User Configurable Hardware
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 28,  1998  
+File        : a9530811
+
+Award Number: 9530811
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1996     
+Expires     : March 31,  1999      (Estimated)
+Expected
+Total Amt.  : $162295             (Estimated)
+Investigator: Bradley A. Minch minch@ee.cornell.edu  (Principal Investigator current)
+              Geoffrey M. Brown  (Principal Investigator former)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project develops a new class of data acquisition systems with user 
+              configurable hardware.  The primary development effort is the creation of 
+              software tools which will enable scientists and engineers who are not skilled 
+              hardware designers to utilize such systems.  Some of the primary research
+              issues  are the development of techniques for specifying and analyzing timing
+              behavior  between fixed and configurable hardware and the development of
+              techniques for  designing robust interfaces.    A typical application of this
+              work is a reconfigurable data acquisition card  consisting of a fixed analog
+              section and a configurable digital section built  from one or more field
+              programmable gate arrays (FPGAs) and static RAM chips.   Existing data
+              acquisition cards are generally used by scientists and engineers  who are not
+              skilled hardware designers; however, the currently available tools  for FPGAs
+              require significant digital design experience.  For a reconfigurable  data
+              acquisition card to be useful, it is necessary that the configuration tools 
+              accept as input high level programming language which is accessible to a 
+              competent programmer.  Any custom hardware necessary to interface the analog 
+              sections or host CPU must be provided in the form of libraries which can be 
+              conveniently linked to the user's code.

@@ -1,0 +1,68 @@
+Title       : Numerical Nonlinear and Optimal Control Using Wavelets
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0084954
+
+Award Number: 0084954
+Award Instr.: Continuing grant                             
+Prgm Manager: Alison Flatau                           
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $173222             (Estimated)
+Investigator: Panagiotis Tsiotras   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1632      DYNAMIC SYSTEMS AND CONTROL
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 1057,CVIS,
+Abstract    :
+              PI's Name: Panagiotis Tsiotras
+
+Institution: School of Aerospace Engineering,
+              Georgia Institute of Technology
+
+Proposal Number: 0084954
+
+Proposal Title:
+              Numerical Nonlinear and Optimal Control Using Wavelets
+
+Abstract: The
+              development of optimal feedback control laws for nonlinear systems has been the
+              topic of intense research over the past half a century. The cornerstone of this
+              theory is the so-called Hamilton-Jacobi-Bellman partial differential equation,
+              the solution of which provides an analytic expression for the optimal feedback
+              control. Unfortunately, the analytic solution of the Hamilton-Jacobi-Bellman
+              equation is a formidable task. Solutions can be obtained only for some special
+              cases of very low dimension. Even traditional numerical methods for solving the
+              Hamilton-Jacobi-Bellman equation are often inadequate due to the ``curse of
+              dimensionality''. That is, the number of computations involved increases
+              tremendously with the state of the system. In this project, we propose to use
+              wavelets for solving the Hamilton-Jacobi-Bellman equation numerically. Wavelets
+              are orthogonal basis functions that use the concept of multiresolution.  
+              Namely, they are able to capture the local behaviour of signals both in
+              frequency and time. Using translations and dilations, they decompose the
+              solution space into finer and finer subspaces and the final solution is
+              computed as an aggregation of the solutions in these finer subspaces.   Only
+              the subspaces which significantly contribute to the solution have non-zero
+              coefficients in the final Fourier/Wavelet series expansion. Therefore, given a
+              level of accuracy for the solution, only few non-zero Fourier coefficients are
+              needed to capture the exact solution.  As a result, solutions can be obtained
+              much more efficiently than with other methods. This research will have an
+              immediate impact on the area of embedded control systems. Dedicated computer
+              chips running the developed algorithms will be able to calculate optimal
+              feedback control laws on-line, thus achieving unprecedented levels of
+              intelligence, autonomy and versatility for several applications such as,
+              automobile control, aircraft navigation, autonomous mobile robot control, etc.
+              In addition, the multiresolution property of wavelet expansions implies a
+              decoupling of the solutions in the different resolution levels. Therefore,
+              wavelet-based solutions are uniquely suited to parallel processing for computer
+              implementation.
+

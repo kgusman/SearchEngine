@@ -1,0 +1,43 @@
+Title       : Postdoc: Parallel hp Adaptive Finite Elements for Viscous Incompressible 3D
+               Flows
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 2,  1998       
+File        : a9504075
+
+Award Number: 9504075
+Award Instr.: Standard Grant                               
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $45040              (Estimated)
+Investigator: J. Tinsley Oden oden@ticam.utexas.edu  (Principal Investigator current)
+              James C. Browne  (Co-Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9218,HPCC,
+Abstract    :
+              9504075  Oden  The almost simultaneous development, over the last decade, of hp
+              adaptive finite elements and multi-processor computing as means of dramatically
+              improving fluid flow simulations makes the possibility of combining them very
+              intriguing.  The potential payoffs are very high but there are many challenges
+              before such a combination can be achieved.  Promising new developments in data
+              structures, adaptive strategies, problem decomposition and robust parallel
+              equation solvers, albeit in the context of model elliptic problems, make this
+              problem tractable.  In this project an attempt will be made to extend most of
+              these developments onto solving complex three dimensional viscous
+              incompressible flows. In particular this project will develop a new hp adaptive
+              finite element code built on top of an extendable hash table based data
+              structure and equipped with sophisticated a posteriori error estimators,
+              adaptive strategies for generating optimal meshes, and customized
+              preconditioned conjugate gradient type parallel equation solvers.

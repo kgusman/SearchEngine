@@ -1,0 +1,51 @@
+Title       : Parallel Implicit Solution-Adaptive Schemes for Space Weather and Geospace
+               Environmental Modeling
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 27,  2001      
+File        : a9876943
+
+Award Number: 9876943
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $360000             (Estimated)
+Investigator: Darren L. De Zeeuw darrens@umich.edu  (Principal Investigator current)
+              Clinton P. Groth  (Co-Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project studies robust and efficient methods for the numerical solution of
+              ideal and resistive magnetohydrodynamics (MHD), with applications to a variety
+              of space physics applications. This will allow users to routinely perform
+              simulations of such phenomena as cometary x-ray emission, the Earth's
+              magnetosphere, and coronal mass ejections on current and future generations of
+              massively parallel computer architectures. These MHD simulations are performed
+              by block-based hierarchical adaptive mesh refinement (AMR) techniques for which
+              the investigators have developed a highly efficient parallel implementation.
+              Future applications to resistive MHD, however, require a more sophisticated
+              time integration procedure to effectively deal with the large disparities of
+              time scale associated with convection, magnetosonic and Alfven waves, and
+              thermal transport. The researchers will investigate parallel implementations of
+              both implicit Newton-Krylov-Schwarz (NKS) and full approximate storage (FAS)
+              multigrid strategies in this context.  In summary, the combination of robust
+              finite-volume discretization of the governing equations, block-based AMR,
+              domain decomposition, and parallel implementation of implicit NKS and/or
+              multigrid strategies should yield an efficient, reliable, and powerful
+              numerical method for large-scale simulation of MHD flows on high-performance
+              parallel machines.  Moreover, the resulting method should represent a
+              significant improvement over the current generation of space plasma simulation
+              tools and permit the study of a wider class of problems.
+
+

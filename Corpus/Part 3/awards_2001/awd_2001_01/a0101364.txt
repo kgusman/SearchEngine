@@ -1,0 +1,132 @@
+Title       : FRG: Topological methods in data analysis
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 19,  2001      
+File        : a0101364
+
+Award Number: 0101364
+Award Instr.: Standard Grant                               
+Prgm Manager: Benjamin M. Mann                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $996396             (Estimated)
+Investigator: Gunnar E. Carlsson gunnar@math.stanford.edu  (Principal Investigator current)
+              Persi Diaconis  (Co-Principal Investigator current)
+              Joshua Tenenbaum  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1267      TOPOLOGY
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1616,9263,OTHR,
+Abstract    :
+              DMS-0101364
+Gunnar Carlsson
+
+The overall goal of this project is to develop
+              flexible 
+topological methods which will allow the analysis of data 
+which is
+              difficult to analyze using classical linear methods. 
+Data obtained by
+              sampling from highly curved manifolds or 
+singular algebraic varieties in
+              Euclidean space are typical 
+examples where our methods will be useful.  We
+              intend to 
+develop and refine two pieces of software which have been 
+written
+              by members of our research group, ISOMAP (Tenenbaum) 
+and PLEX (de
+              Silva-Carlsson).  ISOMAP is a tool for dimension 
+reduction and
+              parameterization of high dimensional data sets, 
+and PLEX is a homology
+              computing tool which we will use in 
+locating and analyzing singular points in
+              data sets, as well 
+as estimating dimension in situations where standard
+              methods 
+do not work well.  We plan to extend the range of 
+applicability of
+              both tools, in the case of ISOMAP by 
+studying embeddings into spaces with
+              non-Euclidean metrics, 
+and in the case of PLEX by building in the
+              Mayer-Vietoris 
+spectral sequence as a tool  Both ISOMAP and PLEX will be
+              
+adapted for parallel computing. We will also begin the 
+theoretical study of
+              statistical questions relating to 
+topology.  For instance, we will initiate
+              the study of 
+higher dimensional homology of subsets sampled from 
+Euclidean
+              space under various sampling hypotheses.  
+The key object of study will be the
+              family of Cech 
+complexes constructed using the distance function in
+              
+Euclidean space together with a randomly chosen finite 
+set of points in
+              Euclidean space.  
+
+The goal of this project is to develop tools for
+              
+understanding data sets which are not easy to understand 
+using standard
+              methods.  This kind of data might include 
+singular points, or might be
+              strongly curved.  The 
+data is also high dimensional, in the sense that each
+              
+data point has many coordinates.  For instance, we might 
+have a data set
+              whose points each of which is an image, 
+which has one coordinate for each
+              pixel.  Many standard 
+tools rely on linear approximations,  which do not work
+              
+well in strongly curved or singular problems.  The kind 
+of tools we have in
+              mind are in part topological, in 
+the sense that they measure more qualitative
+              properties 
+of the spaces involved, such as connectedness, or the 
+number of
+              holes in a space, and so on.  This group of 
+methods has the capability of
+              recognizing the number 
+of parameters required to describe a space, without
+              
+actually parameterizing it.   These methods also have the 
+capability of
+              recognizing singular points (like points 
+where two non-parallel planes or
+              non-parallel lines 
+intersect), without actually having to construct
+              
+coordinates on the space.  We will also be further 
+developing and refining
+              methods we have already 
+constructed which can actually find good
+              parameterizations 
+for many high dimensional data sets.  Both projects will
+              
+involve the adaptation for the computer of many methods 
+which have
+              heretofore been used in by-hand calculations 
+for solving theoretical
+              problems.  We will also initiate 
+the theoretical development of topological
+              tools in a setting 
+which includes errors and sampling.  
+
+

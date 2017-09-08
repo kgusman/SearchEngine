@@ -1,0 +1,78 @@
+Title       : KDI: Learning Complex Motor Tasks in Natural and Artifical Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 24,  1998 
+File        : a9873474
+
+Award Number: 9873474
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1998    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $1200000            (Estimated)
+Investigator: Stuart J. Russell russell@cs.berkeley.edu  (Principal Investigator current)
+              Richard Ivry  (Co-Principal Investigator current)
+              Claire T. Farley  (Co-Principal Investigator current)
+              Ronald S. Fearing  (Co-Principal Investigator current)
+              S. Shankar Sastry  (Co-Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+              0116000   Human Subjects                          
+Program Ref : 0000,1096,1337,8888,OTHR,
+Abstract    :
+              9873474
+Russell
+This project will develop a unified theory of how natural and
+              artificial systems can learn to solve complex motor tasks, such as running,
+              diving, throwing, and flying, that entail significant sensory input and the
+              coordination., sequencing, and fine-tuning of many low-level activities.  Such
+              a project is possible because of significant experimental advances in our
+              understanding of motor control systems in humans and other animals, and because
+              of increased sophistication in our mathematical models of control learning. 
+              These models will be used not only to analyze and predict natural phenomena in
+              motor control, but also to derive effective adaptive controllers for artificial
+              systems carrying out complex tasks.
+To generate complex behaviors, natural and
+              artificial systems must be organized hierarchically with multiple layers of
+              abstraction.  The first research task will therefore be to identify appropriate
+              levels of representation at which the physical system can be modclled and at
+              which control actions can be defined.  For example, in describing an insect
+              flying from A to B, possible levels might be 1) nerve signals and mechanical
+              properties controlling the detailed shaping of each wingbcat 2) basic wingbeat
+              cycle 3) 11 steering" the cycle to direct flight 4) takeoff, navigation,
+              landing.  Detailed motion, force, and/or airflow measurements will be made
+              under a variety of experimental circumstances and tasks to establish the
+              correspondence between formal models and physical systems.  These experiments
+              will be carried out for a variety of organisms, possibly including flying in
+              insects, running in cockroaches, and for running, diving, and throwing in
+              humans.  These studies (and, in the case of insects, neurophysiological
+              studies) will also establish the sensory inputs that are available at each
+              level of the control system.
+Given the general structure of the control system
+              and the appropriate sensory inputs, the next step is to design learning
+              algorithms capable of learning to perform the given task successfully.  The
+              learning method to be used is reinforcement learning, a technique designed to
+              adjust the control algorithm to optimize an objective function-that is, the
+              long-term accumulated value of a specified reward signal.  The reward is
+              supplied to the learning algorithm as part of the sensory input.  New
+              reinforcement learning algorithms will be developed that operate using both
+              local and global reward signals within a hierarchical control structure;
+              furthermore, these algorithms will be proved to converge even using nonlinear
+              representations of the overall objective function.  This research should shed
+              light on the central question of whether this form of learning in animals and
+              humans can be viewed as driven by optimization or by some other principle, such
+              as the preservation of fixed interface characteristics among the various levels
+              of the system.  Discovery of consistent reward functions in animals, especially
+              humans, would have significant consequences for general theories of
+              learning.
+
+

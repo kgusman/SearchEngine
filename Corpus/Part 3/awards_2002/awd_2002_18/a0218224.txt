@@ -1,0 +1,69 @@
+Title       : ITR: Implementation of Functional Logic Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 22,  2002    
+File        : a0218224
+
+Award Number: 0218224
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $399380             (Estimated)
+Investigator: Sergio Antoy antoy@cs.pdx.edu  (Principal Investigator current)
+Sponsor     : Portland State University
+	      P O BOX 751
+	      Portland, OR  972070751    503/725-3423
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Functional logic (FL) programming languages provide several
+advantages over
+              declarative languages based on either functions or
+predicates only.  A
+              narrowing engine is an essential component of
+FL languages.  Narrowing engines
+              available to date are all
+prototypical and almost universally incomplete.  The
+              goal of this
+research is the design and development of a general, efficient
+              and
+complete narrowing engine for FL languages.
+
+This research will define
+              both internal and external
+representations of executable FL programs---the
+              latter in XML.
+This approach will decouple the frontends of different
+              compilers
+and interpreters of FL languages from the narrowing engine. 
+              This
+separation will enable frontends for different languages to use
+the same
+              backend.  By contrast to other contemporary research
+efforts, the proposed
+              narrowing engine will map narrowing
+computations to computations in an
+              imperative language.  The
+internal representation of the executable code will
+              be a
+thin-layer bytecode over the mapping of narrowing computations
+              to
+computations in an imperative language.  This approach promises a
+good
+              efficiency without sacrificing tasks, such as tracing,
+debugging and
+              profiling, that are more easily implemented in an
+interpreter.  An integral
+              part of the implementation will be a
+run-time environment for using the
+              narrowing engine in the backend
+of a compiler/interpreter of FL languages.
+

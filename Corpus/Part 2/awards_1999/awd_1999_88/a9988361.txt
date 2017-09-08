@@ -1,0 +1,55 @@
+Title       : Transparent Middleware Support for Shared State on Heterogeneous Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 31,  2002       
+File        : a9988361
+
+Award Number: 9988361
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $250923             (Estimated)
+Investigator: Sandhya Dwarkadas sandhya@cs.rochester.edu  (Principal Investigator current)
+              Michael L. Scott  (Co-Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The explosive growth of both large and small scale distributed systems is
+              leading to a host of new applications, most of which employ some notion of
+              distributed shared state: information required
+at more than one location. 
+              Building on the experience of the PIs, this research will develop convenient,
+              efficient middleware for applications running on heterogeneous platforms.  The
+              goal is to dramatically reduce the programmer effort required to develop
+              distributed applications, and in particular to make it as easy to run
+              applications on a local-area cluster as it is to to run them on
+a
+              shared-memory multiprocessor.  The proposed research will therefore employ a
+              shared-memory programming model.  The PIs will extend their previous work in
+              software distributed shared memory (S-DSM) to accommodate heterogeneous
+              languages and machine types,
+and to transparently provide shared state for
+              independently-deployed processes. They will introduce application-specific
+              notions of when a cached copy of data is ``recent enough'' to use, thereby
+              facilitating optimized communication in more globally distributed
+              environments.
+
+The applications driving the research include both scientific
+              simulations and codes developed by local colleagues in the areas of datamining
+              and intelligent multi-sense environments.
+The research will facilitate the
+              effective distribution of these applications across the resources they
+              require.
+
+

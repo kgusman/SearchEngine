@@ -1,0 +1,89 @@
+Title       : Biodiversity and Ecosystem Informatics - BDEI - Overcoming nomenclatural
+               complications while searching in a distributed database environment: One step
+               toward true interoperability
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : October 11,  2002   
+File        : a0131928
+
+Award Number: 0131928
+Award Instr.: Standard Grant                               
+Prgm Manager: Lawrence Brandt                         
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Meredith A. Lane   (Principal Investigator current)
+              Steven O. Shattuck  (Co-Principal Investigator current)
+Sponsor     : Acad of Nat Sci of Phila
+	      1900 Benjamin Franklin Parkway
+	      Philadelphia, PA  191031195    215/299-1036
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1718,9218,HPCC,
+Abstract    :
+              EIA-0131928
+Lane, Meredith 
+Academy of Natural Sciences -
+              Philadelphia
+
+
+BDEI: Overcoming nomenclatural complications while searching
+              in a distributed database environment: One step toward true
+              interoperability.
+
+Summary
+
+With biological information content growing
+              exponentially on the Web, the average member of the public
+(and for that
+              matter, many scientists) may not be able to access all of the high-quality
+              information actually
+available and/or that they need because organisms are
+              often known by more than one scientific name (many of which will perhaps be
+              unknown to the user), and different information providers may use different
+              names for the same organism.
+
+Important international projects such as the
+              Global Biodiversity Information Facility (see www.gbif.org)
+have identified
+              organism names as the core means for interconnecting databases from different
+              domains
+(e.g., specimen databases with GenBank or ecological databases, etc.)
+              because the organism name is
+highly likely to be the only database field
+              common to both databases. True interoperability among
+databases is required to
+              answer complex biological questions. This goal cannot be reached without
+              a
+mechanism to allow access to all available information on a particular
+              organism.
+
+Therefore, a foundation component in the development of the GBIF
+              and associated national efforts
+must be a means to provide a list of all the
+              names that should be searched for a given organism. The need
+for this
+              component of interoperability was clearly recognized by the proposers of GBIF,
+              but to date there
+have been no efforts specifically directed at providing
+              software tools to make it possible. In this project,
+we will implement such a
+              mechanism. It will allow even the most naive Web user to obtain
+              biological
+information without needing to understand the complexities of
+              nomenclature and associated arcana. To do
+this, we will develop a query
+              interface/portal understandable to any user; a set of standards and protocols
+              for representing search requests (which will be sent as a URL) and result sets
+              (which will be returned as XML using HTTP) that is platform-independent; and a
+              set of platform-specific translators and search routines for retrieving data
+              from participating
+nomenclatural data providers.
+
+

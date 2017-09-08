@@ -1,0 +1,146 @@
+Title       : Collaborative Research: Compiler-Supported Simulation of Scalable Applications
+               for Wide-Area Distributed Computing Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 12,  2002      
+File        : a9988482
+
+Award Number: 9988482
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Vikram S. Adve vadve@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Wide-area distributed computing systems represent the future of scientific
+and
+              commercial computing. Such systems will enable a wide range of
+              futuristic
+applications with the potential for enormous economic and social
+              impact
+applications such as distributed multimedia services, Web-based
+              collaboration,
+distributed supercomputing, and teleimmersion. Before this
+              vision can be
+realized, however, extensive research will be required in
+              virtually all
+aspects of software system design, implementation, and
+              evaluation.
+
+Discrete-event simulation has been an essential tool for the
+              design and
+analysis of traditional computational systems and applications.
+              Realistic
+simulation of applications executing on wide-area distributed
+              systems,
+however, is a challenging task because of the scale of the software,
+              hardware
+and network subsystems that must be simulated. Nevertheless, the
+              intricacy of
+these components and their complex, closed-loop interactions
+              require the
+components and their interactions to be modeled in sufficient
+              detail to
+appropriately predict their impact on overall system
+              performance.
+In recent work, the PIs have collaboratively obtained some
+              exciting but
+preliminary results showing that specific compiler information
+              can greatly
+enhance the efficiency and scalability of simulation of
+              message-passing
+programs. For instance, it was shown that simulation of a
+              scalable ASCI kernel
+benchmark application called SWEEP3D executing on up to
+              128 processors could
+be simulated faster than real-time by using parallel
+              simulations together
+with the type of compiler optimizations that are the
+              subject of this proposal.
+Also, the compiler-optimized simulation can evaluate
+              very large data
+sets on thousands of processors: it was possible to simulate
+              the performance
+of a 40 million-problem size Sweep3D for up to 10,000
+              processors. There are
+potentially a number of other strategies to dramatically
+              improve simulation
+scalability and performance by using compiler information,
+              none of which have
+been studied so far. A comprehensive program of research is
+              required to
+develop their potential and evaluate their impact on simulation of
+              real world
+applications.
+
+The focus of the current proposal is to develop
+              compiler-based techniques for
+improving the efficiency of parallel discrete
+              event simulation, and to use
+these techniques to evaluate application and
+              system software performance for
+wide-area distributed systems. There are three
+              key components to this
+proposal:
+1. To explore a range of compiler-supported
+              strategies for highly efficient
+simulation of dynamic, large-scale systems and
+              applications.
+2. To implement and evaluate these strategies for wide-area
+              distributed
+systems, by extending our existing compiler and simulation
+              infrastructure.
+This requires addressing additional challenges raised by the
+              dynamic nature
+of these systems and the lack of well-defined metrics to
+              measure effective
+application level performance in such environments.
+3. To
+              evaluate the effectiveness of these strategies for real world
+              
+distributed
+applications that have already been developed, such as a
+              distributed 
+multimedia
+application and distributed versions of tightly
+              coupled applications such as
+Sweep3D and the NAS parallel benchmarks.
+
+The
+              proposed research program builds on a collaboration of several years
+              
+between
+the PIs' research groups, and brings together key strengths in
+              parallel
+simulation of large-scale parallel programs, parallel simulation of
+              wide-area
+networks, and in parallelizing compilers and their use for
+              supporting
+performance evaluation.
+
+This program of research also
+              complements the ongoing software efforts for
+wide-area systems that are aimed
+              at developing operating system services
+(e.g., Globus, Legion, and WebOS) and
+              programming environments (e.g., Legion,
+Globe, and GrADS). As such, the
+              proposed research program represents an
+essential third leg of software
+              support for the development and deployment
+of successful wide-area distributed
+              systems.
+

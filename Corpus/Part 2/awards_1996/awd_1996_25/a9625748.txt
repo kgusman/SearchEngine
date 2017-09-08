@@ -1,0 +1,49 @@
+Title       : Postdoc: Teletraffic Modelling and Analysis of Communications Networks with
+               Parallelizable Algorithms and Their Implementation
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : December 29,  1998  
+File        : a9625748
+
+Award Number: 9625748
+Award Instr.: Standard Grant                               
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Khosrow Sohraby sohraby@cstp.umkc.edu  (Principal Investigator current)
+Sponsor     : U of Missouri Kansas City
+	      5100 Rockhill Road
+	      Kansas City, MO  641102446    816/235-1303
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9178,9192,9218,HPCC,
+Abstract    :
+              Design, dimensioning and control of high-speed telecommunication networks
+              requires a thorough understanding of traffic characteristics of various types
+              of communication services and the ability to use these characteristics for
+              performance assessment.  Teletraffic modeling techniques existing in the
+              literature either lead to very large-scale structured Markov chain solution
+              problems for which available algorithmic approaches suffer from huge CPU time
+              requirements, or to models for which, at this time, there are no pratically
+              analytical results for queuing analysis.  The PIs do teletraffic modeling
+              consisting of simple, general and systematic algorithms to model building based
+              on D-BMAP's (discrete-time Batch Markovian Arrival Process).  The modeling
+              process is desired to capture the first and second order statistics of the
+              original traffic streams that are known to play the dominant role in
+              teletraffic performance. Moreover, the PIs propose parallel algorithms for
+              modeling as an alternative to techniques based on serial procedures for
+              large-scale nonlinear optimization problems.  Such traffic models when fed into
+              single server queues can be analyzed by the paradigm of M/G/1 or G/M/1 type
+              Markov chains.  They propose to use matrix sign function based algorithms for
+              the associated invariant subspace computation .   These algorithms have high
+              convergence rates (unlike the linear convergence rates of existing algorithms),
+              they are amenable to parallelization and, therefore, it is now possible to
+              efficiently analyze moderately sized M/G/1 and G/M/1 type Markov chains.

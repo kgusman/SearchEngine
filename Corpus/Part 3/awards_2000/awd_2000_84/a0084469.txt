@@ -1,0 +1,65 @@
+Title       : Feedback Synthesis for Infinite Dimensional Systems Dominated by Nonlinearities
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 13,  2000 
+File        : a0084469
+
+Award Number: 0084469
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: Miroslav Krstic krstic@ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              This proposal outlines a comprehensive program in an emerging area of control of
+              nonlinear distributed parameter systems.  The motivating practical problems
+              come from stabilization of unstable fluid flows, ubiquitous in today's advanced
+              consumer products and automotive, aerospace, and marine vehicles.  These
+              applications abound with nonlinearities of superlinear growth and instabilities
+              in the interior of a spatial domain where controls can act only from the
+              boundary.  These issues have successfully been dealt with in a
+              finite-dimensional setting, and are uniquely positioned to address them for
+              distributed parameter systems.
+
+This proposal advocates the development of
+              two types of methods.  First, methods based on backstepping, which employ
+              either the measurement of the state in the interior of the spatial domain, or a
+              nonlinear observer, for stabilization of highly unstable systems with boundary
+              controls.  The control action is typically propageted from the boundary into
+              the interior of the domain by viscosity/diffusion mechanisms present in many
+              disstributed parameter systems.
+
+The second method is based on simple
+              feedbacks involving only boundary measurements.  Such feedbacks are in the form
+              of Jurdjevic-Quinn feedback laws that add damping for asymptotic stabilization
+              of systems with known control Lyapunov functions.  An example is shown of a
+              fluid flow problem in which a J-Q type controller is developed for low Reynolds
+              number and demonstrate its effectiveness for a high, realistic value of
+              Reynolds number, many orders of magnitude higher than the design value.  In the
+              same setting, this proposal proposes to go beyond equilibrium stablization, to
+              enforcement of non-equilibrium quasi-steady motion.  An example of such a
+              control objective is mixing in fluids where one wants to achieve random motion
+              of particles by deterministic means.  This proposal plans to dramatically
+              depart from conventional approaches to this problem which are all of
+              open-loop/motion-planning type.  A feedback law will be shown  that raises both
+              the turbulent kinetic energy and the vorticity of the fluid (uniformly in
+              space).
+
+Several theoretical advances have been produced in stabilization of
+              uncertain nonlinear systems (resulting in several best paper awards and a new
+              book on this topic), as well as transition (industrial experiments with our
+              control algorithms and a patent offered for licensing consideration to a
+              leading aeroengine manufacturer.

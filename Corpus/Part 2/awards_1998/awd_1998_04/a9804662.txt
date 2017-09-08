@@ -1,0 +1,47 @@
+Title       : CISE-PostDoc: Design and Analysis of Symmetric, Hybrid Procedure-calling
+               Protocols
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : April 10,  1998     
+File        : a9804662
+
+Award Number: 9804662
+Award Instr.: Standard Grant                               
+Prgm Manager: Kenneth C. Whang                        
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1998     
+Expires     : March 31,  2001      (Estimated)
+Expected
+Total Amt.  : $66000              (Estimated)
+Investigator: Harry G. Mairson mairson@cs.brandeis.edu  (Principal Investigator current)
+Sponsor     : Brandeis University
+	      P.O. Box 549110
+	      Waltham, MA  024549110    781/736-2121
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9192,9218,HPCC,
+Abstract    :
+              9804662  Mairson, Harry G.  Brandeis University    CISE PostDoc: Design and
+              Analysis of Symmetric, Hybrid Procedure-Calling Protocols    This research has
+              the ultimate goal of increasing the effective functionality of programming
+              languages without sacrificing practical efficiency concerns. To this effect,
+              the PI and Postdoctoral Associate intend to design, analyze, and implement a
+              novel prototype procedure-calling protocol for programming languages,
+              integrating the components of correctness, optimality, and symmetry.  A correct
+              implementation never diverges on procedure inputs that are not used; an optimal
+              implementation never ``duplicates work'' by copying unevaluated procedure
+              calls.  A symmetric implementation facilitates programming with values and
+              continuations in an identical manner.  The fundamental approach carries over to
+              any language that has standard procedure-calling protocols.    This hybrid
+              protocol encompasses the best features of call-by-value and call-by-name,
+              together with a facility by which values and control contexts can be
+              manipulated in an entirely dual fashion.  The technology that supports the
+              implementation depends on basic ideas from graph reduction, as reinterpreted
+              using very recent new ideas about optimal evaluation.  We intend to implement a
+              prototype version of this protocol on top of the Scheme language.  Several
+              technical and implementation questions remain to be resolved in order that we
+              may bring this idea from concept to implementation.

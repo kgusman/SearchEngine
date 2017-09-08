@@ -1,0 +1,50 @@
+Title       : Integration of Information from Internet Sources
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 23,  1999 
+File        : a9712239
+
+Award Number: 9712239
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $249860             (Estimated)
+Investigator: Yannis Papakonstantinou yannis@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              Integration of multiple Internet sources poses many novel challenges such as
+              handling semistructured data, creating views without complete knowledge of the
+              source structure, adapting to the limited query interfaces (capabilities) of
+              the sources, and answering queries referring to virtual objects which are the
+              result of complex information fusion operations. Recent works have provided
+              flexible, though very often inefficient, ways to rapidly develop mediators that
+              achieve the above goals. This research develops data structures, algorithms and
+              systems which can enhance the performance, often by orders of magnitude, and
+              improve the user interface without compromising the development flexibility.
+              Data guides are proposed for describing the concepts (or combinations of
+              concepts) that significantly appear in each source and in the integrated view
+              created by the mediator. Data guide computation algorithms use (1) the mediator
+              specification, (2) the parser of the source data, and (3) actual data of query
+              results. Mediators and user interfaces are extended to make use of the data
+              guides upon query processing and query formulation. This research also develops
+              algorithms that (1) further extend the mediator's ability to adapt to the
+              limited capabilities of the sources, (2) use knowledge (e.g., dependencies) of
+              the source data to enhance the performance of object fusion queries, and (3)
+              optimize the delivery of partial answers. This research will demonstrate how
+              flexible integration systems (such as systems for constructing virtual malls by
+              integrating multiple Web shopping sites or systems for fusing all available
+              financial information relating to a company) can be rapidly developed while
+              still achieving the performance of hard-to-built custom made integration
+              systems.

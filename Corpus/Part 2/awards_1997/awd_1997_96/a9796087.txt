@@ -1,0 +1,50 @@
+Title       : Numerical Algorithms for Sensitivity Estimation in Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 21,  1998      
+File        : a9796087
+
+Award Number: 9796087
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1996    
+Expires     : September 30,  2000  (Estimated)
+Expected
+Total Amt.  : $165000             (Estimated)
+Investigator: Alan J. Laub laub@ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              9633326  Laub    Standard approaches to measuring the condition of various 
+              problems in control theory, such as solving an algebraic   Riccati equation
+              (ARE), compress all sensitivity information into  a single condition number. 
+              Thus, a loss of information can occur  in situations in which this standard
+              condition number does not  accurately reflect the actual sensitivity of a
+              solution or  particular entries of a solution.  In this project we shall 
+              investigate a new method that overcomes these and other common  deficiencies. 
+              The new procedure measures the effects on the  solution of small random changes
+              in the input data and, by  properly scaling the results, obtains condition
+              estimates for  each entry of a computed solution. This approach, which is 
+              referred to as small-sample statistical condition estimation  (SCE), applies to
+              both linear and nonlinear problems.  In the  former case (for example, when
+              solving a system of linear  equations or a linear least squares problem), an
+              explicit Frechet  derivative of the computed quantity is available.  Thus the 
+              method is especially efficient and, in fact, costs no more than  standard
+              normwise or componentwise estimates. Even in the  nonlinear case (for example,
+              solving AREs), considerable  efficiencies are gained when iterative improvement
+              by, say,  Newton's method is available. SCE also has the advantage of 
+              considerable flexibility.  For example, it easily accommodates  restrictions
+              on, or structure associated with, allowable  perturbations. The method has a
+              rigorous statistical theory  available for the probability of accuracy of the
+              condition  estimates. Finally,it is emphasized that SCE lends itself readily 
+              to straightforward implementation into many existing computer-  aided control
+              system design software packages.  ***

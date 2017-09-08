@@ -1,0 +1,69 @@
+Title       : ITR/SY: A High Performance Memory Manager for Multithreaded Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  2001     
+File        : a0113335
+
+Award Number: 0113335
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $269922             (Estimated)
+Investigator: Morris J. Chang   (Principal Investigator current)
+Sponsor     : Illinois Inst of Tech
+	      3300 South Federal Street,
+	      Chicago, IL  606163793    312/567-3035
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Abstract:
+Recent advances in software engineering, such as graphical user
+              interfaces
+and object-oriented programming, have caused applications to become
+              more
+memory intensive. These applications tend to allocate dynamic
+              memory
+prolifically. Moreover, automatic dynamic memory reclamation
+              (garbage
+collection, GC) has become a popular feature in modern
+              programming
+languages such as Java. As a result, the time consumed by dynamic
+              storage
+management can be up to one-third of the program execution time.
+              The
+Dynamic Memory Management Unit (DMMU), a special-purpose
+              hardware
+mechanism based on bitmaps and combinational logic can greatly
+              diminish
+this overhead. The preliminary results show that the hit ratio for
+              2
+Kbits and 8 Kbits buffer range from 84-99% and 95-99%, respectively.
+              The
+hardware complexity of the proposed scheme is O(n), where n is the size
+              of
+the bit-vector. For a design with 20K gates and 97% miss rate, the
+              overall
+speedup can be as high as 1.41. This proposal calls for the
+              integration of
+this hardware unit into SMP systems, which would allow
+              concurrent garbage
+collection in multithreaded-multiprocessors environments.
+              This can speed
+up the performance of server applications written in
+              Object-oriented
+languages such as C++ and Java. Additionally, this proposal
+              also calls
+for the study of garbage collection triggering points. The
+              preliminary
+study indicates that time-based triggering point may yield higher
+              garbage
+collection efficiency than the traditional space-based approach.
+

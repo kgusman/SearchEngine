@@ -1,0 +1,80 @@
+Title       : Video Compression Algorithms and Related Transport Protocols for Real Time,
+               Unicast and Multicast Video over internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 24,  2001 
+File        : a9905799
+
+Award Number: 9905799
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $420000             (Estimated)
+Investigator: Avideh Zakhor avz@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9102,9218,HPCC,
+Abstract    :
+              Supporting low latency video communication over the Internet is an important yet
+              challenging task.  A few possible applications include video conferencing,
+              tele-medicine, and interactive access to pre-recorded videos stored in remote
+              databases.  There are two main requirements for internet video communication:
+              (1) bandwidth scalability; (2) error-resilient.  Lack of bandwidth scalability
+              results in non-adaptive streams with two sets of disadvantages.  First, it 
+              leads to congestion collapse when the aggregate bandwidth
+of the video traffic
+              exceeds network capacity.  Second, it competes unfairly with other adaptive
+              traffic, such as TCP, which reduces transmission rate in face of network
+              congestion.  Lack of error resilience results in error propagation, and hence
+              widely varying video quality as a function of time.  Current approaches to
+              mitigate the effects of error propagation include error control mechanisms at
+              the transport level.  This typically takes the form of retransmissions or
+              forward error correction (FEC).  Retransmission based error control methods
+              often fail to be real-time, particularly when round-trip propagation delay is
+              large.
+FEC schemes on the other hand, are often ineffective when losses are
+              bursty.
+
+The main goal of this proposal is to investigate video compression
+              techniques and transport protocols needed for real time delivery of unicast and
+              multicast video over best effort networks such as the internet. Our approach
+              for the unicast case is to combine a novel compression method that is error
+              resilient and bandwidth scalable with a low-delay TCP-friendly transport
+              protocol.  Specifically, compressed video is packetized into individually
+              decodable packets of equal expected visual importance.  Consequently,
+              relatively constant video quality can be achieved at the receiver under lossy
+              conditions.  Furthermore, the packets can be truncated to instantaneously meet
+              the time varying bandwidth imposed by a TCP-friendly transport protocol.  As a
+              result,
+adaptive flows that are friendly to other Internet traffic are
+              produced.  Actual Internet experiments together with simulations are used to
+              evaluate the performance of the compression, transport, and the combined
+              schemes.
+
+Our approach to multicast video transmission is to combine
+              bandwidth scalable video compression scheme with hierarchical FEC.  By
+              hierarchical FEC, we mean the production of embedded FEC or
+              redundancy
+streams, each of which belongs to a different multicast group. 
+              This way, subscribing to more groups corresponds to higher level of protection,
+              but larger delays.  There are two advantages to this approach.  First, each
+              receiver can independently adjust the desired level of protection based on past
+              reception statistics and loss characteristics.  This receiver-driven approach
+              to FEC is more flexible than most existing FEC schemes for multicast where the
+              source determines a set of redundancy packets which are then multicast to every
+              recipient.  Second, each receiver will subscribe to only as many redundancy
+              layers as necessary, reducing overall bandwidth utilization.  Furthermore, the
+              hierarchical nature of the FEC layers ensures
+minimum network utilization
+              through sharing of common redundancy streams.  Actual internet experiments will
+              be done to examine the effectiveness of our approach.

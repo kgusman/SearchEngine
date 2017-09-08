@@ -1,0 +1,105 @@
+Title       : Model Reference Current Injection: A High-Speed Next-Generation Dynamic Clamp
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : May 20,  2002       
+File        : a9987074
+
+Award Number: 9987074
+Award Instr.: Continuing grant                             
+Prgm Manager: Gerald Selzer                           
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 15,  2000    
+Expires     : October 31,  2003    (Estimated)
+Expected
+Total Amt.  : $278594             (Estimated)
+Investigator: Robert J. Butera rbutera@ece.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1108      INSTRUMENTAT & INSTRUMENT DEVP
+Fld Applictn: 0203000   Health                                  
+Program Ref : 9184,BIOT,
+Abstract    :
+              Abstract Butera
+
+The "dynamic-clamp" is an electrophysiological technique
+              developed in the
+past decade that utilizes real-time voltage-measurements from
+              electrically
+excitable cells, such as neurons and cardiac myocytes.  These
+              measurements
+are used by a computational model running in real-time to compute
+              artificial
+ionic currents that are injected into (the same or another)
+              excitable cells. 
+Applications of this technique include augmenting the
+              intrinsic electrical
+properties of a single cell or using the computer to
+              connect isolated cells
+to create an artificial network consisting of real
+              neurons and computed
+synapses.  This approach has seen growing use in the
+              neuroscience and
+cardiac electrophysiology communities.  However, the
+              technique is nontrivial
+to implement and off-the-shelf (turnkey) approaches
+              have not kept pace with
+rapidly changing computing technologies.  Furthermore,
+              although many
+laboratories have used this technique, little research has been
+              done to
+evaulate its accuracy and validity.
+
+The objective of this
+              application is to develop a next-generation system
+that implements the
+              dynamic-clamp tecnique and utilizes currently avaiable
+computing technologies.
+               This technique will be low-cost, using computers
+and electrophysiolgical
+              hardware available in most neurophysiological
+laboratories; fully-featured,
+              allowing for very high speeds (with a goal of
+100 kHz), arbitrary model
+              specifications, and real-time data logging on the
+control computer; and
+              open-source, meaning that the software and operating
+system upon which it is
+              based are freely distributable and freely modifiable
+to suit a laboratory's
+              specific needs. Conventional desktop operating
+systems are unsuitable for
+              real-time performance in the 10's of kHz range,
+thus this project will use
+              Real-Time Linux, a derivative of the Linux
+operating system modified for
+              performing real-time tasks, to achieve these
+goals.  The specific objectives
+              of this project are to develop a core
+real-time control computational engine
+              based on Real-Time Linux, develop a
+user interface and mechanism for arbitrary
+              model specification, and perform
+rigorous testing of the accuracy and validity
+              of the technique.
+
+This technology will impact the neuroscience and
+              electrophysiology fields of
+research in several ways.  First, it will make the
+              technique available to
+more researchers, with a greater array of features
+              available.  Second, the
+increased speed of this approach will allow new
+              experiments to be performed
+using the dynamic clamp, such as those involving
+              membrane processes with
+submillisecond time-constants, such as sodium currents
+              in cardiac myocytes
+and synaptic currents from fast AMPA synapses.
+
+
+

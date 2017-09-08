@@ -1,0 +1,62 @@
+Title       : Optimal Bidding Strategies in Transmission Limited Electric Power Markets
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 5,  2000  
+File        : a0080279
+
+Award Number: 0080279
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Thomas Overbye overbye@ece.uiuc.edu  (Principal Investigator current)
+              Ian A. Hiskens  (Co-Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              The electricity industry in the United States and throughout the world is
+              undergoing radical restructuring.  These changes require new analysis
+              techniques, both for market participants and for regulators.  The goal of this
+              proposal is to investigate appropriate analysis concepts.
+
+The underlying
+              transmission system plays a significant role in all market structures.  Under
+              certain conditions, transmission congestion can subdivide even relatively large
+              power pools, constraining the generation dispatch.  Tools are needed to help
+              market participants devise optimal bidding strategies. Conversely, regulators
+              must be vigilant against anti-competitive acts.
+
+Investigation of a market
+              solution algorithm that bridges the gap between and economic analysis is
+              proposed.  Ultimately, such an algorithm will facilitate analysis of the impact
+              of underlying engineering constraints on the market. A complete model of the
+              transmission system will be embedded in the market simulation. The starting
+              point is an Optimal Power Flow that maximizes the social welfare of the
+              electricity market.
+
+The research will determine the best algorithm for
+              individual welfare optimization.  One promising approach is to formulate the
+              problem as a nested optimization: an individual must maximize welfare subject
+              to the fact that their price and dispatch are determined by the pool operator,
+              who is, in turn, attempting to maximize overall social welfare.  This algorithm
+              motivates an iterative approach to obtaining Nash equilibria.
+
+The algorithm
+              for finding Nash equilibria describes a dynamic process that involves switched
+              algebraic constraints.  The insights that are provided by this dynamical
+              systems view of market behavior should facilitate a systematic definition of
+              market power.
+
+
+

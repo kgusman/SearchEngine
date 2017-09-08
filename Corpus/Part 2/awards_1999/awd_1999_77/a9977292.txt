@@ -1,0 +1,75 @@
+Title       : Secure Multicast Services and Applications
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 25,  2002 
+File        : a9977292
+
+Award Number: 9977292
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $262985             (Estimated)
+Investigator: Kenneth Calvert   (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      109 Kinkead Hall
+	      Lexington, KY  405060057    859/257-8311
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Most Internet applications are based upon the client-server paradigm and make
+              use of unicast delivery of data sent as independent packets.  The technical
+              issues of securing unicast communications for client-server computing is fairly
+              well understood.  However, many emerging Internet applications are based upon a
+              group communications model.  In particular, they require packet delivery from
+              one or more authorized senders to a large number of authorized receivers. 
+              Furthermore, the data of many of these applications should be viewed as flows
+              rather than as independent packets.  Conceptually, since every
+              point-to-multipoint communication can be represented as a set of point-to-point
+              communications, and every flow can be treated as a sequence of individual
+              packets, the current technology base for securing unicast packets can be
+              extended in a straightforward manner to securing applications that employ flows
+              and multicasts.  Such extensions, however, would be highly inefficient.  They
+              will not be applicable to high-speed transmission and delay-sensitive flows,
+              nor scalable to large groups.
+
+The objectives of this proposal are to
+              investigate architectures and protocols for securing multicast and flow
+              applications with emphasis on efficiency, latency, and scalability.  The
+              researchers have obtained some preliminary results on scalable group key
+              management and efficient digital signatures.  These are essential ingredients
+              for designing and implementing secure multicast services.  However, to design a
+              scalable service for secure multicast on the Internet, even with just
+              best-effort delivery, several research issues remain, namely, performance
+              comparison of alternative architectures, efficient and reliable delivery of
+              rekey messages (and their impact on a wide area network), and deployment of
+              trusted components and active agents.
+
+The researchers next propose to
+              investigate the more difficult problem of reliable secure multicast. For the
+              Internet, this problem has been largely unexplored.  Initially, they plan to
+              approach this problem from two directions, namely, (i) how to make reliable
+              multicast secure, and (ii) how to make secure multicast reliable. In addressing
+              this problem, our concerns are, first, correctness, and second, performance
+              issues such as latency and scalability.
+
+There are many applications that can
+              benefit from techniques and services for securing flows and multicasts, e.g.,
+              teleconference, pay per view, information services, virtual private networks,
+              collaborative work, software distribution, etc.  The researchers propose to
+              experiment with some of these applications.  In particular, they propose to
+              investigate a less obvious application, namely, active networks, which raises
+              some interesting research issues.  Securing active networks is an important
+              problem with many different concerns, some of which are being addressed by
+              other researchers.  In the proposed project, the researchers are primarily
+              concerned with characterizing the authenticity and confidentiality requirements
+              of mobile code distribution in active networks and ensuring their satisfaction
+              using efficient methods.
+

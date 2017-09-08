@@ -1,0 +1,45 @@
+Title       : Analytical and Empirical Tools for Advanced Query Optimizer Engineering
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 20,  2000 
+File        : a9632629
+
+Award Number: 9632629
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $381939             (Estimated)
+Investigator: Stanley B. Zdonik sbz@cs.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Database query optimizers are complex systems prone to bugs.  The intention is
+              to counter this phenomenon by developing a design process that separates the
+              areas that can be formalized and reasoned about from those that require
+              crafting and experimentation.  Formal techniques are applied to the
+              specification of optimizer modules (or rule blocks), which can be constructed
+              by expressing provable rules and rule firing strategies.  Rules are expressed
+              declaratively (i.e., without code) to permit theorem prover verification.  Rule
+              blocks group related rules and propose an order for firing them and a strategy
+              for deciding when firing is appropriate.  Associated tools automate rule
+              verification, and permit the effects of rules and rule blocks on queries to be
+              visualized.  Assembly of proven modules into a workable whole requires
+              experimentation and evaluation. Tools to assist in this process permit
+              visualization of the assembled optimizer's flow of control on given query sets,
+              and measurement of the performance improvements as a result of transformations
+              of queries.  The aim of the project is to develop a methodology and associated
+              suite of tools for the development of effective, correct and extensible query
+              optimizers.  This work contributes to the specification, design, verification
+              and empirical evaluation of query optimizers.

@@ -1,0 +1,55 @@
+Title       : Data Warehouse Maintenance over Dynamic Distributed Information Sources
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 2,  2002       
+File        : a9988776
+
+Award Number: 9988776
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $225000             (Estimated)
+Investigator: Elke A. Rundensteiner rundenst@cs.wpi.edu  (Principal Investigator current)
+Sponsor     : Worcester Polytech Inst
+	      100 Institute Road
+	      Worcester, MA  016092247    508/831-5000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              As digital repositories of information are springing up everywhere and
+              interconnectivity between computers around the world is being established, the
+              construction and maintenance of data warehouses (views) over such distributed
+              data sources has been recognized to be of great importance for modern
+              applications. However, data sources continuously evolve by modifying not only
+              their content but also their query capabilities and schema and by joining or
+              leaving the environment. This research addresses this critical and timely
+              problem of how to rewrite view definitions synchronously with the schema
+              changes of data sources, coined the "view synchronization" problem. The
+              Evolvable View Environment (EVE) solution is based on a preference model for
+              view evolution and a meta model for capturing data source interrelationships.
+              Algorithms that exploit different types of metadata and view evolution
+              preferences to synchronize views are designed. Measures for ranking alternative
+              view rewritings based on their quality are established. To assure survivability
+              in any dynamic environment, a strategy for coordinating view synchronization
+              under schema changes and the more traditional view maintenance under data
+              changes is incorporated. Implementation of the EVE software system serves as a
+              proof of concept and as an experimental test bed. Experimental evaluations are
+              conducted to assess performance, applicability, and quality of the rewritings.
+              A case study on applying the technology to Web and E-commerce applications
+              helps to determine the applicability as well as the limitation of the
+              technology. In summary, this project will advance not only the state-of-the-art
+              in data warehousing, a core area of database technology, but the benefits are
+              potentially far-reaching by providing techniques and software tools for
+              simplifying access to large sets of dynamic distributed data
+              sources.
+http://davis.wpi.edu/dsrg/EVE
+
+

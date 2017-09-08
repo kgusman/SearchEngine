@@ -1,0 +1,77 @@
+Title       : Investigation of a microscopic-based model for polymeric fluids using
+               micro-macro simulations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 17,  2001      
+File        : a0096847
+
+Award Number: 0096847
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Kathleen A. Feigl feigl@mtu.edu  (Principal Investigator current)
+Sponsor     : Mich Technological Univ
+	      1400 Townsend Drive
+	      Houghton, MI  499311295    906/487-1885
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              The goal of this project is the analysis and further development of a class of
+              microscopic-based, stochastic models for polymeric fluids previously introduced
+              by the PI. In this class of models, the dynamics of the macromolecules is
+              described by two independent Gaussian stochastic processes, one based in
+              network theory and the other in reptation theory for concentrated polymer
+              solutions and polymer melts, while the expression for the stress tensor is
+              given as the expectation of a function of these dynamics. Previous work of the
+              PI has established the good performance of this model in predicting some
+              material functions of several polymer melts in rheometric flows. In this work,
+              the ability of the model to describe quantitatively the behavior of polymeric
+              liquids in engineering flow fields is evaluated. This is achieved by developing
+              a micro-macro simulation program and solving a flow problem in an engineering
+              geometry. In the micro-macro simulation approach, the coarse-grained molecular
+              model is coupled to the conservation equations from continuum mechanics. The
+              system is then solved by iterating the following two steps: (1) The polymer
+              stress field is computed from a known discrete velocity field using stochastic
+              simulation techniques, and (2) Updated velocity and pressure fields are found
+              using the finite element method to solve the conservation equations, where the
+              polymer stress from the first step enters the momentum equation as a known body
+              force. The model is further developed by modifying its dynamics as represented
+              by the stochastic processes. Examples of modifications are the inclusion of
+              terms to account for nonaffine deformation of the configuration vectors and the
+              introduction of noise into the time evolution of the stochastic processes. 
+              
+
+Polymeric fluids have a complex microstructure formed by their molecules
+              which gives them both viscous and elastic properties. Among the unresolved
+              challenges in viscoelastic fluid mechanics and the related fields of rheology,
+              materials science and polymer physics are the development of accurate
+              rheological, or stress, models for viscoelastic fluids and the development of
+              good numerical simulation techniques for solving flow problems in engineering
+              applications. This research project aims to advance both of these developments.
+              Such developments are needed for understanding the physics of these complex
+              fluids and for establishing the relevant connections between an engineering
+              flow process and the material behavior and microstructure of the fluid being
+              processed. It is known that the quality and efficiency of an engineering
+              processing procedure and the properties of the processed material are affected
+              strongly by the stresses experienced by the fluid during processing. Since the
+              stress experienced by a polymeric fluid during processing is determined by the
+              flow-induced microstructure within the fluid, it is desirable that stress
+              models for such fluids take microstructure into account. The goal of this
+              research is the analysis and further development of a class of
+              microscopic-based models for polymeric fluids previously introduced by the PI.
+              Toward this goal, a micro-macro simulation program is developed which combines
+              the microscopic-based description of the molecules' dynamics and related stress
+              with a macroscopic description of the flow field. This program is then used to
+              analyze the model in an engineering flow process. The model is also further
+              developed through the inclusion of additional physics by modifying its
+              dynamics. 
+

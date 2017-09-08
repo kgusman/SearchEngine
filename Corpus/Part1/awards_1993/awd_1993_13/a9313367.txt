@@ -1,0 +1,55 @@
+Title       : Explanation-Based Neural Network Learning
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 10,  1997      
+File        : a9313367
+
+Award Number: 9313367
+Award Instr.: Continuing grant                             
+Prgm Manager: Larry H. Reeker                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1993  
+Expires     : October 31,  1997    (Estimated)
+Expected
+Total Amt.  : $355860             (Estimated)
+Investigator: Tom M. Mitchell Tom.Mitchell@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              This  research  seeks  to combine the two primary  paradigms  for  machine  
+              learning: inductive and analytical learning.  Inductive  methods   such as
+              instance-based and neural network learning  can  reliably   learn  simple
+              functions from noisy data,  but  require  vast  numbers of  training examples
+              in order to scale up to  very  complex  functions.  In  contrast,  analytical 
+              methods  such  as  explanation-based learning  can learn complex functions from
+              much  less  data, but rely upon strong prior knowledge on the  part  of  the
+              learner.  Much current research in machine learning seeks  to  combine the best
+              of both approaches, to obtain methods that learn  more  correct 
+              generalizations from approximate  prior  knowledge  together with observed
+              data.  The proposed research takes a novel  approach to  this problem: 
+              unifying neural network learning  and  explanation-   based learning.  More
+              specifically, this  research  will  build  on  the recently developed
+              explanation-based  neural  network  (EBNN)  learning   method.   Preliminary 
+              research   has  demonstrated experimentally that  EBNN can generalize better
+              from  fewer  examples  than pure inductive learning if accurate  domain 
+              knowledge is available, and that it degrades gracefully with  the  quality  of 
+              the  learner's prior knowledge. This  research  will  explore  more  fully  the
+               space  of   combined  neural  net  and  explanation-based methods, focusing on
+              issues such as scaling  up  to  more complex learning tasks, alternative types
+              of information  that   can  be  extracted  from   explanations  based  on 
+              neural  networks, operating robustly over the  entire spectrum from  very 
+              strong   to   very   weak  prior  knowledge,   and    alternative 
+              representations for the domain theory and target  function.  EBNN  learning 
+              will  be  applied  to two different  task  domains.  If  successful,  this 
+              research could produce learning  methods  that  scale  up  to  more practical
+              problems, and lead  to  a   clearer  understanding of the  correspondence
+              between symbolic  and  neural  network approaches.

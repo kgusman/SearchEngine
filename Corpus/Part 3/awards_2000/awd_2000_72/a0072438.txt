@@ -1,0 +1,150 @@
+Title       : Analysis and Computation of Shape Sensitivities for Elliptic Interface Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 24,  2000      
+File        : a0072438
+
+Award Number: 0072438
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $72832              (Estimated)
+Investigator: Lisa G. Stanley stanley@math.montana.edu  (Principal Investigator current)
+Sponsor     : Montana State University
+	      
+	      Bozeman, MT  597172470    406/994-0211
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9150,OTHR,
+Abstract    :
+              ABSTRACT.
+
+DMS-0072438
+Lisa G. Stanley
+Department of Mathematics
+Univeristy
+              of Montana
+
+
+Engineers, mathematicians and other scientists who use
+              mathematical 
+models to describe physical systems often need to answer the
+              question: 
+``How does the system response change as system parameters
+              change?'' 
+For example, how does the airflow around an airplane wing change
+              as
+the shape of the wing changes, and how does this affect drag? 
+Sensitivity
+              analysis seeks to answer such questions.  The sensitivity
+provides
+              quantitative information which can be useful as a 
+mathematical tool to gain
+              insight into the behavior of a system.
+This proposal deals with the analysis
+              and design of
+computational methods for approximating sensitivities for a very
+              specific 
+class of problems.  The research focuses on shape sensitivity
+              calculations
+for interface problems.  These problems arise in the analysis
+of
+              a variety of physical systems such as groundwater flow through 
+different
+              types of sediment as well as manufacturing processes such as die 
+casting
+              problems and alloy solifidification problems.
+In die casting, for example,
+              there is an interface
+between the solidifying part and the mold itself.
+When
+              analyzing such a process, the mold and the part may be considered 
+as one
+              composite material, and in order to optimize the casting process, 
+the
+              designer needs to determine the sensitivity of the temperature 
+throughout the
+              composite material to small changes in the thickness 
+of the respective
+              component materials.   Since the mold and the 
+manufactured part consist of
+              different materials which have different 
+heat conductivity properties, the
+              mathematical equation governing 
+the cooling process has a solution which
+              lacks smoothness at the 
+interface.  For these types of problems, computing
+              the sensitivity 
+requires a different, and more clever, approximation scheme
+              than 
+that which is typically used to determine the temperature.  The
+              
+current research attempts to analyze and exploit the mathematical 
+structure
+              of these problems and to modify existing numerical methods 
+in order to
+              develop a computational algorithm which is accurate, 
+efficient and reasonable
+              to implement.  Estimates regarding inclusion 
+of such techniques in the design
+              of rocket engines show that design 
+cycle time could be reduced from one year
+              to one month.  Results
+of this magnitude make the development of such
+              
+computational tools critical for the national interest
+both in cost savings
+              during the design stage and in remaining
+on the forefront of new
+              technology.
+
+This project investigates the use of
+domain decomposition
+              techniques for the development of 
+accurate and efficient computational
+              algorithms for shape 
+sensitivity calculations.  Specifically, the work
+              involves
+the implementation of Continuous Sensitivity Equation
+Methods
+              (C-SEMs) in order to derive infinite dimensional
+sensitivity equations which
+              usually take the form of
+partial differential equations.  The research
+              focuses
+on elliptic interface problems containing 
+parameters which determine
+              the spatial 
+location or the shape of the interface.  The  resulting shape
+              
+sensitivities exhibit discontinuities across the interface.  
+Efficient
+              computational algorithms for this
+class of problems rely on two essential
+              components.  The first 
+is the mathematical analysis needed to establish
+              fundamental 
+properties such as existence, uniqueness and regularity.  
+The
+              second component is 
+the clever choice of a numerical method which is
+              suitable
+for solving the equations.  The theoretical analysis guides
+the
+              construction of a computational method which exploits 
+the problem structure. 
+              Specifically, an iterative, nonoverlapping
+domain decomposition algorithm is
+              used to accurately capture 
+discontinuities in the sensitivity variable. 
+              
+
+
+

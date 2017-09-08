@@ -1,0 +1,90 @@
+Title       : Reliable multicast for Core-Based Multicast Routing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : October 2,  2001    
+File        : a9903160
+
+Award Number: 9903160
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $200483             (Estimated)
+Investigator: Yuan F. Zheng   (Principal Investigator current)
+              Chao-Ju Hou  (Principal Investigator former)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Road
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Reliable multicast is an important and challenging problem which is yet to be
+              solved in order to deploy multicast services on the Internet.  In this
+              proposal, the researchers propose to design, implement, and evaluate a reliable
+              multicast scheme for core-based multicast routing, with the objectives of
+              avoiding NAK implosion and duplicate replies, reducing recovery latency,
+              achieving recovery isolation, and providing adaptivity to dynamic
+              topology/membership changes.
+
+Most exsiting reliable multicast schemes focus
+              on source-based multicast trees.  They either cannot be directly deployed in
+              core-based multicast trees or may render sub-optimal performance when directly
+              deployed.  The major difficulty lies in that an on-tree router on a core-based
+              tree does not know, due to lack of the per-source information, how to direct a
+              retransmission request toward the source or some designated replier router. The
+              researchers propose to design a simple, yet effective scheme that facilitates
+              routers on a core-based tree to properly direct retransmission requests so as
+              to closely emulate the optimal recovery scenario achieved in the turning point
+              approach.  Specifically, the researchers consider the following
+research
+              issues:
+
+(1) To solve the problem of identifying upstream/downstream
+              interfaces (with respect to a source), The researchers  will (i) define a new
+              path_info IP Option that carries the path information and have some of the data
+              packets in a connection carry this IP Option. Each receiver that receives a
+              data packet with this IP Option stores the path information for future use; and
+              (ii) define a new TP_info IP Option to be carried in the retransmission
+              requests so that a router knows how to direct retransmission requests.
+
+(2)
+              To conduct local recovery in the case of membership and topology changes,the
+              researchers will carefully devise a mechanism, with the use of on-line error
+              statistics collection, soft state caching, and Bayesian analysis, for selecting
+              designated hosts (called repliers) to which direct retransmission requests will
+              be forwarded.  A router now keeps track of error statistics over each of its
+              interfaces and selects, with the use of
+Bayesian analysis, the most reliable
+              links as replier links.
+
+(3) As indicated in [levine:98], a pure NAK-based
+              scheme requires an infinite buffer at the source for correct operation.  The
+              researchers  will devise a delayed ACK approach so that both sources and
+              repliers can purge data packets that have been received by all the group
+              members.
+
+(4) For the proposed scheme to work in the existence of routers
+              that do not have the reliable multicast capability, the researchers  will
+              devise a mechanism to detect clouds and to properly direct retransmission
+              routers and reply messages through them, without loss of recovery
+              isolation.
+
+The proposed research is a combination of two synergistic
+              components:  development of all the component mechanisms in an analytic
+              framework and their validation with software system building and experiments.
+              We will pursue this research by taking advantage of the GateD Multicast source
+              code (developed by the GateD Consortium, Merit Network, Inc.) as a software
+              platform, and prototyping the proposed reliable multicast scheme (partially in
+              the core-based multicast routing daemon and partially as the routing functions
+              provided in the kernel).  With the help of the Ohio Supercomputing Center (OSC)
+              and OSU Medical Center, the researchers will use asdatabase/server centered on
+              large amounts of patient images acquired from MR and CT as a representative
+              multicast application to illustrate the key functional, reliable, scalable, and
+              adaptive characteristics of the prototype software.

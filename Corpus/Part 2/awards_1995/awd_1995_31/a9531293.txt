@@ -1,0 +1,71 @@
+Title       : Mathematical Sciences: A Common Framework for Curve Evolution and Image
+               Segmentation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 1,  1996     
+File        : a9531293
+
+Award Number: 9531293
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1996     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $67000              (Estimated)
+Investigator: Jayant Shah shah@neu.edu  (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9531293  Shah       In recent years, curve evolution has developed into an 
+              important tool in Computer Vision and has been applied to a wide  variety of
+              problems such as smoothing of shapes, shape analysis  and shape recovery.  The
+              underlying principle is the evolution of  a simple closed curve whose points
+              move in the direction of the  normal with a prescribed velocity.  A fundamental
+              limitation of  the method as it stands is that it cannot deal with important 
+              image features such as triple points.  The method also requires a  choice of an
+              "edge-strength" function, defined over the image  domain, indicating the
+              likelihood of an object boundary being  present at any point in the image
+              domain.  This implies a separate  preprocessing step that is in essence
+              precomputing approximate  boundaries in the presence of noise.  The initial
+              curve also has  to be preselected.  The investigator demonstrates that the 
+              different versions of curve evolution used in Computer Vision  together with
+              the preprocessing step and the choice of the  initial curve can be integrated
+              in the form of a new segmentation  functional that unifies and extends curve
+              evolution models.  Moreover, the numerical solutions obtained retain sharp 
+              discontinuities or "shocks," thus providing sharp demarcation of  object
+              boundaries.  The new functional described provides a  unified approach to the
+              segmentation problem and shape analysis.  The principal objective of the
+              proposed research is to carry out  a mathematical analysis of the new
+              functional, apply it to real  images, and study its possible extensions.      
+              This project is in the field of machine vision, with  applications especially
+              in medical imaging.  The underlying  mathematical theory proposed here is
+              potentially applicable also  to seemingly unrelated fields such as liquid
+              crystal technology,  metallurgy, flame propagation and combustion.  A computer
+              receives  visual information through a camera in the form of millions of 
+              numbers per picture frame, each number describing th e intensity  and the color
+              of light at a point in the scene.  The sheer volume  of the visual information
+              makes the task of its interpretation by  the computer extremely difficult.  The
+              first processing task for  the computer before it can begin to recognize an
+              object in a  scene is to find the object's outline.  This is what is called the
+               segmentation problem.  The fundamental difficulty here is how to  separate the
+              object's outline from the rest of a cluttered scene.  Even when the computer
+              has successfully located the object  outline, it is difficult to identify the
+              object because its  appearance changes depending on its orientation as the
+              object and  the camera move.  Worse, the object might be partially obscured. 
+              Therefore, characteristic features that distinguish one object  from another
+              and that remain unchanged as the appearance of the  object changes must be
+              defined and calculated.  This is the  problem of shape analysis.  This project
+              formulates a new unified  approach to the fundamental mathematical questions
+              underlying the  two problems.  It develops new mathematical tools based upon
+              this  approach and applies them to specific classes of practical  problems, in
+              particular to analysis of biomedical images.

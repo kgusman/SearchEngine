@@ -1,0 +1,43 @@
+Title       : RIA: Multivariate Decision Trees via Optimization
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : May 10,  1996       
+File        : a9409427
+
+Award Number: 9409427
+Award Instr.: Continuing grant                             
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1994       
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $97542              (Estimated)
+Investigator: Kristin P. Bennett bennek@rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+              9409427  Bennett       This research examines multivariate decision tree
+              induction as  a mathematical program solved in serial or parallel.  Depending
+              on  the splitting criterion or objective function minimized, the  problem of
+              constructing each decision node in the tree is a linear,  piecewise-quadratic,
+              bilinear, or multilinear program.  Unlike  previous perceptron-type and
+              randomized algorithms, the proposed  mathematical programs exactly characterize
+              an optimal solution of  the decision node problem.  A new splitting criterion,
+              subtree  optimization, is proposed.  Subtree optimization differs from 
+              previous greedy decision tree algorithms in that it explicitly  considers all
+              subsequent decisions when constructing the current  decision node.  Subtree
+              optimization can be used to generate a  globally optimal tree with a fixed
+              topology.  The goals of this  work are to create better decision tree
+              algorithms, gain a better  mathematical understanding of the bias of splitting
+              criteria,  develop new mathematical programming theory and techniques for 
+              solving these problems, and implement and test these algorithms on  serial and
+              parallel computers.

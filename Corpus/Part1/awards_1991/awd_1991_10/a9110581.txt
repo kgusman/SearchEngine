@@ -1,0 +1,48 @@
+Title       : Dynamic Integrity Constraints In Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 8,  1992       
+File        : a9110581
+
+Award Number: 9110581
+Award Instr.: Continuing grant                             
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1991     
+Expires     : July 31,  1994       (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Jan Chomicki   (Principal Investigator current)
+Sponsor     : Kansas State University
+	      2 Fairchild Hall
+	      Manhattan, KS  665061103    913/532-6222
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 6855,9264,
+Abstract    :
+              Dynamic integrity constraints arise in many traditional and non-               
+              traditional database applications; however, such constraints are               
+              not supported by current database management systems.  This                    
+              project focuses on efficient methods for checking dynamic                      
+              integrity constraints in databases.  Past Temporal Logic and Past              
+              Metric Temporal Logic are proposed as constraint languages,                    
+              making it possible to formulate both qualitative and quantitative              
+              temporal conditions.  The project includes the development and                 
+              the implementation of a method to reduce dynamic integrity                     
+              checking to static integrity checking.  If this method is used,                
+              past database states do not have to be stored for the purpose of               
+              dynamic integrity checking.  Instead, compressed historical                    
+              information is stored in every database state as auxiliary                     
+              relations.  The definitions of the needed auxiliary relations are              
+              automatically derived from the constraints.  Techniques that                   
+              optimize constraint checking and issues that arise from the                    
+              integration of this new method with existing database management               
+              systems will also be addressed.  The proposed research will                    
+              significantly enlarge the application scope of database                        
+              management systems and will make it easier to integrate these                  
+              systems with real-time processes.

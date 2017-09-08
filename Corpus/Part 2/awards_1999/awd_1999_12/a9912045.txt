@@ -1,0 +1,65 @@
+Title       : Decentralized Control and Computation of Large Power Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 31,  2000    
+File        : a9912045
+
+Award Number: 9912045
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $79984              (Estimated)
+Investigator: Dragoslav Siljak dsiljak@scu.edu  (Principal Investigator current)
+              Aleksandar I. Zecevic  (Co-Principal Investigator current)
+Sponsor     : Santa Clara University
+	      500 El Camino Real
+	      Santa Clara, CA  950530250    408/554-4764
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              Rapidly increasing demand for power in the newly formed competitive environment
+              of open access transmission can dramatically magnify the undesirable
+              consequences of contingencies, and alter the way we look at system security
+              requirements.  This concern presents a number of challenges to the computation
+              and control of large power systems.  An important problem in this context is
+              the development of new algorithms that will speed up the computation of control
+              parameters and the simulation of transient phenomena through the use of
+              parallel computing.  In order to achieve this objective, it is necessary to
+              develop powerful decomposition schemes which can properly identify dominant
+              subsystems and their interconnections.
+
+Epsilon decomposition was developed
+              as a flexible universal algorithm with linear complexity that can identify
+              weakly coupled subsystems.  This decomposition was successfully used to
+              identify coherent groups of generators in transient stability studies, as well
+              as to enhance the parallelization of load flow calculations.  An important goal
+              of the proposed research will be to develop new variants of epsilon
+              decomposition for a variety of numerical and control applications.  We will
+              focus on transient stability analysis by waveform relaxation and parallel
+              solutions of large sparse Riccari equations.
+
+In parallelizing transient
+              stability simulation, we propose to apply multilevel epsilon decomposition to
+              the Jacobian of the discretized differential-algebraic equations that describe
+              the machine dynamics.  The resulting partitioning will then be used to
+              optimally combine Gauss-Jacobi and Gauss-Seidel waveform relaxation. 
+              Particular attention will be devoted to scheduling schemes, which establish the
+              order in which subsystems should be processed, and determine which groups of
+              variables can be updated simultaneously.
+
+The parallel solution of large,
+              spare Riccati equations requires a different type of decomposition, one which
+              will simultaneously partition the state and input matrices.  In this context,
+              we propose to utilize epsilon decomposition as a preconditioner for the
+              iterative solution of the Riccati equation, in conjunction with Krylov subspace
+              techniques.  We will also develop optimal schemes for interprocessor
+              communication, which is a prerequisite for efficient parallel computation.
+

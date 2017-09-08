@@ -1,0 +1,64 @@
+Title       : Regression Quantiles Computation and Applications
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 2,  1999       
+File        : a9703758
+
+Award Number: 9703758
+Award Instr.: Continuing grant                             
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1997       
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $172402             (Estimated)
+Investigator: Stephen Portnoy portnoy@stat.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9197,9218,EGCH,HPCC,OTHR,
+Abstract    :
+                Portnoy  9703758:    Traditional Statistical Linear Modeling seeks to explain
+              a response variable (e.g., wages) in terms of  predictor variables (e.g.,
+              education, job training, social characteristics, etc.).  The classical approach
+              uses  "lease squares" to estimate the mean of the responses conditional on the
+              predictors.  It is often found,  however, that those with higher responses
+              depend very differently on the predictors than those with  middle or lower
+              responses.  This variability is completely lost by the classical approach. 
+              Thus, modern  regression quantile methods have become increasingly popular. 
+              These methods seek to estimate the conditional quantiles (percentiles) of the
+              response in terms of the predictors.  For example, it has been  found that high
+              wages depend much more strongly on education than lower wages.  That is, not
+              only are  high wages associated with more education, but the rate of return on
+              education is significantly higher for  high wage earners than for lower wage
+              earners.  Similarly, high electricity consumers during the summer  show a much
+              greater difference between daytime peak use and nighttime use than lower users
+              (presumably  because of air conditioners), and the length of long hospital
+              stays depends more strongly on the severity of  the disease than does the
+              length of shorter stays.  This ability to distinguish models on the basis of
+              the size  of the response is finding extensive application in economics, social
+              sciences, biostatistics, and other  areas.    Inevitably, successful continued
+              diffusion of these methods is linked closely to the availability of  convenient
+              and efficient software.  For modestly large problems, existing algorithms
+              require  computational effort comparable to least squares.  However, as problem
+              size grows, the computational  burden of the previous methods becomes heavy. 
+              For large problems common in empirical labor  economics, large biomedical
+              surveys, and other areas, new and more efficient computational techniques 
+              would be highly des irable.  Thus, recent research proposes a two-pronged
+              attack that has been shown to  yield dramatic improvements in computational
+              efficiency.  One prong is the use of recently developed  interior point methods
+              for linear programming.  The second is a form of stochastic preprocessing which
+               can drastically reduce the effective size of most statistical regression
+              quantile problems.  Together, these   ideas appear capable of bringing the
+              computational effort down to the level of least squares for problems  with
+              sample sizes up to several million observations.  In even larger problems,
+              theoretical evidence  indicates that regression quantile methods are even
+              faster than least squares.  Practical realization of this  theoretical
+              improvement would have significant consequences in the area of high performance
+               computation for large and massive data sets.

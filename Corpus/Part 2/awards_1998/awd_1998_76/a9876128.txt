@@ -1,0 +1,85 @@
+Title       : CAREER: Application-Driven Memory Hierarchy Management
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 2,  2002        
+File        : a9876128
+
+Award Number: 9876128
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Vijay Karamcheti vijayk@cs.nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              
+CCR-9876128
+CAREER: Application-Driven Memory Hierarchy Management
+Vijay
+              Karamcheti
+
+The widening gap between processor and memory performance has
+              reduced
+the effectiveness of reactive memory hierarchy management
+              techniques
+such as demand-driven caching.  Application-driven
+              proactive
+techniques (such as prefetching) have been shown to be effective,
+              but
+require extensive programmer involvement.  This proposal
+              investigates
+automating such techniques for a general programming
+              context,
+specifically object-based distributed shared-memory
+              (DSM)
+implementations on clusters of commodity workstations. 
+              Integrated
+compiler and run-time techniques first develop a model of
+              thread
+interactions in the program, and then, using this model,
+              construct
+per-thread custom coherence protocols that optimize DSM
+              performance.
+Static analyses augmented with run-time profiling determine
+              the
+concurrently-active thread portions and their side-effects. 
+              The
+per-thread custom protocols overcome compile-time imprecision by
+relying
+              on flexible run-time coherence and scheduling primitives,
+speculative
+              optimizations, and improved utilization of available
+architectural support. 
+              Educational plans focus on emphasizing the
+interplay among applications,
+              system software, and hardware in
+existing computer systems courses, and
+              developing new hands-on courses
+in adaptive computer systems (which allow
+              hardware and software
+configurability under compiler and/or application
+              control).  Expected
+project outcomes include technology for automatic
+              application-driven
+memory-hierarchy management, its incorporation into
+              compiler and
+run-time infrastructure for optimizing program performance on
+              cluster
+platforms, and students trained in application-aware computer
+              system
+design.
+
+
+

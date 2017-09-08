@@ -1,0 +1,45 @@
+Title       : Orchestrating Communication in High-Latency Parallel Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1997  
+File        : a9710367
+
+Award Number: 9710367
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $224998             (Estimated)
+Investigator: Arnold L. Rosenberg rsnbrg@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Technological advances in computer architecture  and communication technology,
+              coupled with  economic factors, have led to the development of  a variety of
+              parallel computing environments  with high message latencies. Examples include 
+              mesh- and hierarchical-ring-based  multiprocessors, and networks of
+              workstations.  Many  algorithmic techniques that ensured efficient 
+              interprocessor communication (at least with high  probability) in the tightly
+              coupled, small-  diameter parallel machines of the past no longer  guarantee
+              efficiency in the new environments.  This project is dedicated to developing
+              and  analyzing communication-scheduling algorithms  that ensure: (A) efficient
+              parallel computation  in networks of workstations; (B) efficient  execution of
+              dynamically evolving computations  in "ring-like" multiprocessors (including 
+              chordal rings, express rings and hierarchical  ring networks); efficient
+              orchestration of  variable-length communications  on ring-like networks.  Both
+              analytical and  experimental methods will be invoked to craft  and evaluate
+              algorithms that achieve these  goals. This project has complementary goals: (1)
+               to gain theoretical understanding of factors  that enhance --- and detract
+              from --- efficiency  of interprocessor communication in high-latency  parallel
+              environments, and (2) to develop  algorithmic techniques that translate such 
+              understanding into provably efficient  communication strategies.

@@ -1,0 +1,119 @@
+Title       : Improving Sequence Proximity Search
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 23,  2002 
+File        : a0209145
+
+Award Number: 0209145
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $185001             (Estimated)
+Investigator: S. Cenk Sahinalp cenk@eecs.cwru.edu  (Principal Investigator current)
+              Piotr Indyk  (Co-Principal Investigator current)
+              Z. Meral Ozsoyoglu  (Co-Principal Investigator current)
+Sponsor     : Case Western Reserve
+	      Adelber Hall Rm. 4
+	      Cleveland, OH  441067015    216/368-4510
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              Finding sequences similar to a given query sequence in a large data set
+is a
+              fundamental problem in many database applications including
+computational
+              genomics and proteomics, computational finance, audio, text
+and multimedia
+              image processing.  This proposal considers proximity search
+problems for
+              strings and sequences in such applications where existing
+methods typically
+              employ distance functions based on character edits only
+(commonly unweighted
+              edit distance) and modify off-the shelf index
+structures to improve search
+              efficiency.  However, in many applications
+block edit operations such as
+              translocations, deletions and copies, as well
+as linear transformations on
+              strings are as common and important
+as character edits.
+
+Unfortunately,
+              computation of distance measures that allow block edits
+are generally known to
+              be NP-hard.  Thus the investigators propose to work
+on practical methods for
+              approximating the block edit distances and performing
+approximate searches
+              under such measures.  These measures are many times
+not symmetric
+              (transforming a long sequence to a short one may be
+performed through a single
+              deletion whereas transforming the short
+sequence to the long one may require
+              many copy operations) or do not
+satisfy the triangular inequality (string
+              space under edit operations is
+fundamentally different from Euclidean space)
+              and thus do not provide a metric.
+
+However many of them can be proven to be
+              almost-metrics, i.e.,
+the symmetry and/or the triangular inequalities may be
+              satisfied within
+multiplicative constants. This property can be fundamental in
+              sequence
+proximity search as it seems possible that known distance based
+              indexing
+methods for metric spaces could be extended for use in
+              almost-metric
+spaces.  Thus a main component of the proposal is the
+              investigation of
+the limitations and extendibility of distance based indexes
+              for
+almost-metrics and other string/sequence measures which may
+              be
+non-symmetric or fail to satisfy the triangular inequality because
+              they
+allow block edits.
+
+An alternative/complementary approach to distance
+              based indexing is based
+on approximate random mappings of the space of items
+              to be searched to
+Euclidean spaces. This general strategy has received
+              considerable
+attention in the context of vector spaces. The mappings used
+              guarantee
+(with high probability) to reduce the number of comparisons during
+              search
+from linear to poly-logarithmic, provided some error of approximation
+              can
+be tolerated in the answers obtained. This approach was later
+              generalized
+to sequence spaces through a mapping of sequences under block edit
+              distance
+to binary strings under Hamming distance. The error tolerance is
+              not
+very practical. Thus a second component of this proposal is to
+              obtain
+novel mappings of sequence spaces to Euclidean spaces within
+              smaller
+approximation errors. The goal is to generalize such mappings to
+              both
+character and block based edit distances, especially those which
+              assign
+weights to edit operations (that reflect the likeliness of
+              that
+particular edit).
+
+

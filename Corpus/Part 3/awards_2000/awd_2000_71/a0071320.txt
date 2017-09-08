@@ -1,0 +1,63 @@
+Title       : GOALI: Optimization Based Design and Plantwide Control Systems
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : July 24,  2000      
+File        : a0071320
+
+Award Number: 0071320
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $203005             (Estimated)
+Investigator: Thomas J. McAvoy mcavoy@isr.umd.edu  (Principal Investigator current)
+              Phillip D. Schnelle  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              Abstract - McAvoy - 0071320
+
+Plantwide control involves the issue of which
+              variables should be measured, controlled, and manipulated, and how these
+              variables should be linked together.  For some plants a decentralized
+              proportional-integral-derivative (PID) approach produces acceptable results,
+              while in others it does not.  At present there is no systematic methodology
+              that allows a designer to determine how well a particular plantwide control
+              architecture can be expected to perform.  The basic question addressed in this
+              research is: given a dynamic process model and expected set point
+              changes/disturbances, is a decentralized architecture sufficient for acceptable
+              performance, or should an interacting model predictive control (MPC)
+              architecture be used for all or part of the plant?
+
+The PI has developed two
+              optimization-based approaches to answering this question.  One involves optimal
+              control (OC) and it is the focus of the research planned here, while the other
+              makes use of a mixed integer linear programming (MILP) formulation.  The
+              approach to be studied assumes that a dynamic process model is available, since
+              such models are becoming more and more common in practice.  The objective of
+              the approach is to extract information from the process model about what type
+              of architecture is required to control the plant that the model represents. 
+              The PI's OC research used initial state forcing, full state feedback, and it
+              required tuning PID feedback and P feedforward controllers for each candidate
+              decentralized architecture.  This OC approach was applied successfully to two
+              DuPont examples.  The research to be done under this grant uses output
+              feedback, step forcing for either set points or loads, and no PID tuning is
+              required during the architecture screening process.  The PI plans to apply the
+              new methodology to the two DuPont examples, as well as to several other, larger
+              plantwide examples.  These other examples include the Tennessee Eastman
+              process, a vinyl acetate process, and possibly an HAD process.  Dynamic
+              simulation software has been provided by DuPont and by Aspen Technology and
+              will be used in this research.  The DuPont collaborators will provide
+              assistance in developing model predictive controllers for the processes
+              studied.
+

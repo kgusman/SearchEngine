@@ -1,0 +1,60 @@
+Title       : ITR: Volume Illustration: Non-Photorealistic Rendering of Volume Models
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 7,  2000  
+File        : a0081581
+
+Award Number: 0081581
+Award Instr.: Standard Grant                               
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $448863             (Estimated)
+Investigator: Penny Rheingans rheingans@cs.umbc.edu  (Principal Investigator current)
+              David S. Ebert  (Co-Principal Investigator current)
+Sponsor     : U of MD Baltimore County
+	      1000 Hilltop Circle
+	      Baltimore, MD  21250    301/455-1000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              This project studies the process of visualizing information at every point in
+              space through volume rendering. Traditionally, volume rendering has employed
+              one of two approaches. The first attempts a physically accurate simulation of a
+              process such as X-rays passing through tissue or light passing through a fog,
+              producing the most realistic views of volume data (at least for data with an
+              appropriate physical meaning). The second approach is only loosely based on the
+              physical behavior of light, using instead an arbitrary appearance of each value
+              in space and an accumulation process through space to create a wider range of
+              appearances for the volume in the visualization. This project proposes a new
+              approach to volume rendering: the augmentation of a physics-based rendering
+              process with non-photorealistic rendering (NPR) techniques to enhance the
+              expressiveness of the visualization. NPR draws inspiration from such fields as
+              art and technical illustration to develop automatic methods to synthesize
+              images with an illustrated look from geometric surface models. The new
+              approach, called volume illustration, combines the familiarity of a
+              physics-based illumination model with the ability to enhance important features
+              using non-photorealistic rendering techniques.
+
+Technically, the project
+              faces several challenges. In surface-based NPR, the surfaces (features) are
+              well defined, whereas with volumes, volumetric feature areas are often
+              amorphous regions that must be determined through analysis of local volumetric
+              properties. Once these volumetric feature volumes are identified, user selected
+              parametric properties can be used to enhance and illustrate them. Volume
+              illustration provides a flexible unified framework for enhancing structural
+              perception of volume models through the amplification of features, the addition
+              of illumination effects, and the application of procedural textures. Volume
+              illustration will work on both presampled and procedurally defined volume
+              models, enabling a range of image styles from practical technical illustrations
+              to more abstract painterly effects. The project will develop a collection of
+              volume illustration techniques, including novel volume illustration techniques
+              and techniques that adapt and extend NPR techniques to volume objects.
+

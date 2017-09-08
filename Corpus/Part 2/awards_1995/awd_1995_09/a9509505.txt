@@ -1,0 +1,57 @@
+Title       : Parallel Architectures for Speech Recognition: Nonlinear Optimization of
+               Expectation-Maximization (EM) Training of Hidden Markov Models (HMMs) in a
+               Reconfigurable Environment
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 26,  1998   
+File        : a9509505
+
+Award Number: 9509505
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $279022             (Estimated)
+Investigator: Harvey F. Silverman hfs@lems.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research involves the development, construction and testing of  new
+              architectures for high-speed computing. The idea being  exploited is that of
+              combining in a loosely-coupled fashion,  general-purpose, RISC-based processing
+              nodes each with multiple  field-programmable-logic-array(FPLA) based
+              coprocessor systems.  With this kind of system, one has the hardware properties
+              of a  general-purpose computer, but the advantage, brought about by  suitable
+              reconfigurability, of performance more akin to that of a  special-purpose
+              engine. In particular, the 20-node Armstrong III  system has been built and is
+              operational and provides nearly  two-orders of magnitude improvement over
+              current advanced  workstations. The hardware system, combined with its
+              configuration  compiler, a program that automatically translates a C function 
+              subroutine to both machine code and to the hardware design of the 
+              reconfigurable coprocessors, are the basic building blocks for this  class of
+              architectures. Thus, this research is directly focused on  one of the strategic
+              areas of national concern, that of high  performance computing.    There is
+              uniqueness to this program in that not only has the  hardware/software system
+              been built, but it is also being tested on  important, real applications. In
+              particular, the training of a  modern hidden Markov model(HMM) based speech
+              recognition system  requires hundreds of hours, even with some of the variants 
+              developed recently at Brown and elsewhere. The reduction of this  training time
+              to ten or so minutes means that research progress in  this area may be made at
+              a faster rate and/or that expensive  nonlinear optimization techniques may now
+              be applied to the  problem. Also, this means that data from a less cumbersome
+              sensor  system (the microphone array systems in place and being developed  at
+              Brown) can be suitably incorporated into a more robust speech  recognition
+              system. Currently, eight PhD students, two ScM students  and five
+              undergraduates are involved with this project; ni ne PhD's  have been graduated
+              from this project under past funding.

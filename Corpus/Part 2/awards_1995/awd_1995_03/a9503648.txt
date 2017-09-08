@@ -1,0 +1,55 @@
+Title       : Designing Fast Parts Feeders Using Acceleration-Based Non-Prehensile
+               Manipulation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 30,  1999    
+File        : a9503648
+
+Award Number: 9503648
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 15,  1995  
+Expires     : October 31,  2001    (Estimated)
+Expected
+Total Amt.  : $439678             (Estimated)
+Investigator: Michael A. Erdmann me@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9146,MANU,
+Abstract    :
+              The goals of this research are to design fast, precise parts  feeders  and  to
+              improve nonprehensile robotic manipulation.  The  two goals are closely
+              related.  A good architecture for  a   parts  feeder  exploits  both 
+              parallelism  and  dynamic  contact,  by  pipelining fast-acting low-degree  of 
+              freedom  manipulators  along the feeder.  Nonprehensile  manipulation  of 
+              objects  by  humans  or animals often  involves  dynamic  contact  in  which
+              the object undergoes a series of  partial  grasps,  shuffled  back and forth
+              between various  contacts.  The  key  to  fast  nonprehensilemanipulation  of 
+              parts  is  controlling  part  motions through moving  and  accelerating 
+              contacts.  This research builds a set of analysis tools that  describe how the
+              motions of accelerating constraints  affect  the  effective  forces felt by the
+              parts being  manipulated.  These analyses take careful account of contact and
+              friction,  plus any forces already acting on the part, such as gravity.  The 
+              resulting tools will allow a planner to produce control  algorithms  for the
+              feeder, and thus dynamically reconfigure  the  feeder  as  part shapes change
+              or  errors  appear.   In  traditional feeder design, much of the mechanics of
+              the task  has been compiled into hardware, in the form of fixed feeder  gates 
+              and orienting shapes.  At the other extreme,  general  purpose  robots  have
+              suffered from too much generality  and  too  little  reliable  software.  An
+              important  intermediate  architecture  consists of a sequence of simple 
+              manipulators  under  software control.  This research will explore feeders 
+              using  the   palm  manipulation  paradigm.   As  parts  pass  through  a 
+              feeder,  a  sequence of  low-degree  of  freedom  devices  will  orient the
+              parts using nonprehensile  dynamic  contacts.   Since  the configurations  and 
+              motions  of  the  devices are under software control and since the devices are 
+              easy  to program by virtue of having low degrees of freedom,  the  feeder 
+              should be able to accomodate  las t-minute  part  changes with relative ease.

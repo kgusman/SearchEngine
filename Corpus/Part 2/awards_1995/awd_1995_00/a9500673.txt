@@ -1,0 +1,53 @@
+Title       : Data Distribution Independent Parallel Processing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 28,  1997   
+File        : a9500673
+
+Award Number: 9500673
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1995        
+Expires     : April 30,  1998      (Estimated)
+Expected
+Total Amt.  : $299756             (Estimated)
+Investigator: Jose A. Fortes   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              This project is exploring the possibility of a parallel programming  paradigm
+              that is data-distribution independent (DDI) in the sense  that the user would
+              not be required to program or even invoke data  communication routines (hereon
+              called modules).  The need for data  redistribution would either be eliminated
+              or transparent to the  user.  The emphasis this work is on the systematic
+              design of  computational modules so that either there is no need to 
+              redistribute input data or, when this cannot be achieved, the cost  of
+              (automatic) redistributionis minimized.  In this context,  source-to-source
+              program transformations, called modular mappings,  and properties that allow
+              commutative parallel processing are being  explored as techniques and concepts
+              that enable DDI computation.   The extent to which a DDI paradigm could replace
+              existing  approaches, complement them or merely apply to special application 
+              domains is unclear and this is one of the issues under  investigation.  In
+              addition, hardware and architecture features  that support DDI computation on
+              both general and special purpose  aprallel processors are being investigated. 
+              The experimental  validation is being done in the context of three application
+              areas  and program implementations on a fine-grain distributed memory SIMD 
+              machine (Maspar MP-1 with 16 thousand processors) and a coarse-  grain
+              distributed memory MIMD machine (Intel Paragon with 140  processors).  The
+              areas of interest are dense linear algebra,  sparse linear algebra and symbolic
+              compute algebra which can be  applied to numerous scientific and engineering
+              computing problems.   For these three areas, DDI modules are being developed as
+              well as  entire programs built of several modules.  Performance comparisons 
+              are being made between DDI implementation and their non-DDI  counterparts.

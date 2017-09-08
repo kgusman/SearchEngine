@@ -1,0 +1,71 @@
+Title       : Approximation Algorithms, with an Emphasis on LP-Duality Methods
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  2001       
+File        : a9820896
+
+Award Number: 9820896
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $263597             (Estimated)
+Investigator: Vijay V. Vazirani vazirani@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9820896
+Vazirani
+
+This project pursues research in the following
+              areas:
+
+1. The metric Steiner tree problem and its generalizations: 
+              Developing an algorithm using the bidirected cut relaxation for the metric
+              Steiner tree problem and determining the integrality gap of this remarkable
+              relaxation - this is widely believed to be the most promising avenue for better
+              algorithms for this central problem.  Developing a combinatorial factor 2
+              algorithm for the generalized Steiner network problem.
+
+2. Extending the
+              scope of the primal-dual schema:  Several problems are identified, that appear
+              to be waiting for the "right kind" of primal-dual approach, including a
+              facility location problem, metric TSP and integer multicommodity flow in planar
+              graphs; besides the problems mentioned in (1) above.  The RV-algorithm extends
+              the schema in two ways: for the first time the dual growth process is not
+              greedy, and the algorithm does not use the usual mechanism of relaxing
+              complementary slackness conditions.
+
+3. Efficient construction of an FPRAS
+              using an unbiased estimator:  This research concerns the foundations of
+              randomized approximation algorithms and its relationship with parametric
+              statistical inference.  Issues of computational efficiency, and a conjecture on
+              the degree of improvement provided by a variant on the standard "median"
+              method, are studied.
+
+4. Industry targeted implementation of Steiner tree
+              algorithms:  None of the currently known Steiner tree algorithms with proven
+              guarantee is appropriate as the core algorithmic idea for use in the VLSI
+              design industry.  The goal is not just to present experimental evidence, but to
+              develop, around sophisticated ideas, a package that competes with commercial
+              Steiner tree code.
+
+5. Coding theory:  Coordinate permutation can drastically
+              reduce the size of a minimal trellis for a given code.  Recently, the problem
+              of finding the optimal permutation was shown to be NP-hard, thus partially
+              resolving a long standing open problem.  It is now important to seek good
+              approximation algorithms.
+
+
+
+

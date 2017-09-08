@@ -1,0 +1,61 @@
+Title       : Adaptive Wavelet Element Methods for Highly Parallel Computations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 9,  2001      
+File        : a9972251
+
+Award Number: 9972251
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $322146             (Estimated)
+Investigator: Wei Cai wcai@uncc.edu  (Principal Investigator current)
+Sponsor     : U of NC Charlotte
+	      U N C C Station
+	      Charlotte, NC  28223    704/597-2000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              The Adaptive Wavelet element method is a new mathematical method which is
+              fundamentally more appropriate for highly parallel computing than existing
+              methods.  This project studies scalable parallel algorithms and simulations
+              based on adaptive wavelet methods for the investigation of combustion flow
+              problems.  The project isa driven by the need for large scale simulation
+              capability required by the intrinsic physical property of industrial
+              applications.
+
+The focus of this research is on parallel wavelet simulation
+              of combustion flow problems, which includes the associated
+              algorithmic/mathematical development and software implementation.  A new method
+              - the Wavelet Element Method - is introduced based on wavelet and domain
+              decomposition methods.  The new method extends the applicability of wavelet
+              methods to combustion problems and other viscous flow problems in more complex
+              geometries and provides a coarse grain parallelism based on domain
+              decomposition.  It is efficient, stable, highly accurate, and highly parallel,
+              and it has good data locality.  Wavelets support localization in both space and
+              frequency domain which makes adaptive grid generation possible.  Wavelet
+              coefficients uniquely indicate the workload variation across subdomains, and
+              parallelism in the wavelet element method comes from two levels - the level of
+              domain decomposition and the level of parallel solution of Spline Wavelet ADI
+              in each subdomain.
+
+Four main tasks will be performed: 1) Develop a two level
+              parallelized wavelet element method, which combines the domain decomposition
+              and wavelet ADI methods, to maximize parallelism, locality, and scalability. 2)
+              Investigate interface conditions among elements (subdomains) in the context of
+              wavelet element and investigate their effects on solution accuracy, workload
+              balance, and communication cost. 3) Study dynamic workload balance based on
+              wavelet coefficients on both domain decomposition level and on ADI wavelet
+              solution in each subdomain. 4) Test the scalable parallel adaptive wavelet
+              element methods on the Deflagration to Detonation Transition Problems for
+              multidimensional premixed flames.
+
+

@@ -1,0 +1,47 @@
+Title       : An Effective Framework for Implementing Derivation Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 17,  1998      
+File        : a9803971
+
+Award Number: 9803971
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $69988              (Estimated)
+Investigator: Dale A. Miller dale@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9803971  Many reasoning and specification tasks require the analysis of 
+              logically complex syntactic objects. Such tasks arise, for  instance, in using
+              typing systems, in describing and prototyping  programming languages, in
+              effecting program transformations, in  demonstrating program correctness, in
+              realizing theorem provers,  in describing the semantics of natural languages
+              and in  constructing corresponding parsers for them.  A satisfactory  framework
+              for performing such tasks is obtained from using lambda-  terms to represent
+              the objects that are of interest and a  constructive logic to describe their
+              properties. This research  addresses questions of implementation and use of
+              lambda Prolog, a  programming language that provides such a framework. The
+              starting  point for this work is an implementation of lambda Prolog that 
+              embodies the first serious attempt to realize many of its new  features in an
+              efficient manner. Using this system, the project  conducts an extensive
+              empirical study of the impact on efficiency  of choices in the representation
+              of lambda terms and in the  compilation of unification and other operations on
+              these terms.  Refinements to the structure of lambda terms and to other 
+              language features are considered towards understanding the  tradeoffs between
+              efficiency and expressiveness. Issues relevant  to constructing a flexible
+              programming system around the language  are studied. Finally, the strength of
+              the programming system and  of the methods supported by it are tested by
+              employing them to  implement a compiler for lambda Prolog.***

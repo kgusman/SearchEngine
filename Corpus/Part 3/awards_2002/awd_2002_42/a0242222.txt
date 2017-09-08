@@ -1,0 +1,50 @@
+Title       : ITR-SY: System Hardening through Security Aware Compilation and Processor
+               Architecture
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  2003   
+File        : a0242222
+
+Award Number: 0242222
+Award Instr.: Continuing grant                             
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2002       
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $411469             (Estimated)
+Investigator: Gyungho Lee ghlee@ece.uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1667,9215,HPCC,
+Abstract    :
+              Networked computer systems are vulnerable to malicious attack. These
+              attacks
+try to take over the control of a victim computer system by
+              re-pointing the processor program counter (PC) to the attacker's code.  This
+              proposal explores a role for security aware compilation and processor
+              microarchitecture in preventing unauthorized PC modifications.  The two most
+              common instances of PC compromise arise from the corruption of (1) the return
+              address in an activation record and (2) function pointers.  The basic approach
+              to guarding PC is to apply an encoding function before any potential PC value
+              (such as return address, or function pointer table entry) is stored in any
+              memory location (such as a stack frame or function pointer table in the data or
+              heap space). 
+
+Any read of a memory value into the PC first has to go through
+              a decoding function. A compromised PC value would go only through the decoding
+              function and hence would render the malicious attack ineffective.  This
+              research investigates several variations of PC encoding/decoding schemes and
+              evaluates computational overhead of these schemes and their effectiveness. 
+              This research plans to build a hardened Linux system, gcc compiler and other
+              public domain utilities such as Apache web server incorporating the proposed
+              return address and function pointer protection schemes.
+
+

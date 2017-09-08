@@ -1,0 +1,80 @@
+Title       : Adaptive Software Implemented Fault-Tolerance for Networked Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 14,  1999 
+File        : a9902026
+
+Award Number: 9902026
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Ravishankar Iyer iyer@crhc.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Adaptive Software-Implemented Fault Tolerance for Networked Systems
+           
+                          (Project Summary)
+
+This project will conduct an experimental
+              study to investigate
+developing a set of general-purpose, fault tolerance
+              services in a
+networked environment.  The research will focus on designing
+              a
+software-implemented fault tolerance (SIFT) layer, Chameleon,
+which will
+              provide fault tolerance services to user applications,
+manage user processes
+              across the network, provide rapid error
+detection, and initiate recovery from
+              errors in the hardware,
+the operating system, applications, and the SIFT
+              layer.  In other
+words, Chameleon will protect all of the key components in
+              a
+distributed system, including itself.
+
+Our primary objective in developing
+              Chameleon is to define
+and demonstrate the SIFT architecture, which includes
+              static and
+dynamic reconfigurability and an extensive suite of
+              error
+detection and recovery protocols in an integrated environment.
+
+We
+              will investigate ways to make Chameleon both statically and
+dynamically
+              reconfigurable.  Dynamic reconfigurability will allow
+Chameleon to change the
+              level of reliability services that it
+provides during the lifetime of the
+              target.  In addition,
+Chameleon will be constructed to facilitate the creation
+              of new
+fault tolerance techniques for the hardware, operating system,
+and
+              applications.  For static reconfigurability, we envision
+providing a library
+              of fault tolerance techniques from which a
+customized fault tolerance solution
+              can be provided to a target
+application.  A specific solution will be composed
+              of a range of
+distributed error detection and recovery techniques to
+              provide
+the level of dependability required by the application.
+

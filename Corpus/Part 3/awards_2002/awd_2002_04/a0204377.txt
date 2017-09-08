@@ -1,0 +1,60 @@
+Title       : Animating Viscoplastic Materials with Dynamically Changing Meshes
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 28,  2002      
+File        : a0204377
+
+Award Number: 0204377
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $510001             (Estimated)
+Investigator: Jonathan R. Shewchuk jrs@cs.berkeley.edu  (Principal Investigator current)
+              James F. O'Brien  (Co-Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0204377
+Shewchuk, Jonathan
+U of Calif Berkeley
+
+We intend to
+              develop fast, versatile, and visually accurate computational models for
+              viscoplas-tic
+materials ranging from stiff, non-compliant solids to low
+              viscosity fluids. We are designing
+these models for applications where visual
+              realism, computation speed, and robustness are the
+predominant requirements
+              (with numerical accuracy being subordinate). Examples of such
+applications
+              include real-time interactive training simulations (e.g. surgical simulation or
+              haz-ardous
+duty simulations) and off-line generation of visualizations (e.g.
+              cinematic effects or
+accident reenactment).
+To achieve this goal, we must
+              develop fast, guaranteed-quality methods for generating and
+              in-crementally
+updating unstructured (irregular) triangular and tetrahedral
+              meshes. Dynamically changing meshes are a necessity to model the complete range
+              of viscoplastic materials, espe-cially where large deformations and mixing may
+              occur. Thus, the actions of the numerical simulation and the remeshing
+              algorithms must be tightly integrated, especially if we wish to minimize errors
+              due to interpolation and reinterpolation. To ensure that our dynamic meshing
+              algorithms and implementations are useful for other applications as well, we
+              will develop a general methodology for communicating information between the
+              numerical simulation and
+the mesh generator.

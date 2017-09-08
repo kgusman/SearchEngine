@@ -1,0 +1,53 @@
+Title       : Refining Program Specifications by Automatic Transformation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 21,  1998       
+File        : a9803880
+
+Award Number: 9803880
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1998       
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $116295             (Estimated)
+Investigator: Richard B. Kieburtz   (Principal Investigator current)
+              Tim Sheard  (Co-Principal Investigator current)
+Sponsor     : Oregon Grad Inst of S&
+	      20000 NW Walker Road
+	      Beaverton, OR  970068921    503/645-1121
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9803880  Productivity benefits and quality improvement have come  about as a
+              result of designing and implementing software at  ever higher levels of
+              abstraction. So called "executable  specifications"-high level functional
+              descriptions of  software-represent the current state of language development 
+              for software design.  However, software is rarely  implemented by directly
+              translating such specifications, as  the performance of the resulting product
+              is usually poor. To  remedy the performance problem without requiring human 
+              effort to reprogram a specification as an implementation,  the use of program
+              transformation has often been suggested,  rewriting the specification according
+              to rules that preserve  its meaning but change its form. The technology of 
+              transformational improvement has made progress over a span  of twenty years.
+              Several functional language compilers now  achieve substantial performance
+              gains through the use of  source-language transformations. Many improvements
+              remain to  be made, however. This research will build on recent and  promising
+              results that improve the performance of  recursively defined functions by
+              applying transformations  based upon their underlying mathematics. Prototype
+              systems  have shown the potential of some of these methods, but these  systems
+              have never been fully implemented, integrated, or  tested. In particular, this
+              research will integrate a  variety of known techniques that are expected to
+              work more  powerfully in concert than individually. In this project, a 
+              prototype transformation system will be extended so that it  can be applied to
+              programs written in a core subset of the  programming language Standard ML, as
+              well as in CAML, an ML  dialect widely used in Europe. The research will help
+              to  determine whether high-level transformations can be  effective enough in
+              improving the performance of high-level  specifications that software designers
+              might quit worrying  about many details of programming.***

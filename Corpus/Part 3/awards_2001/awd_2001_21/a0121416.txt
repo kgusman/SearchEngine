@@ -1,0 +1,104 @@
+Title       : ITR/SI: Cooperative Computing for Distributed Embedded Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : January 29,  2003   
+File        : a0121416
+
+Award Number: 0121416
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $1409852            (Estimated)
+Investigator: Liviu Iftode Iftode@cs.rutgers.edu  (Principal Investigator current)
+              Michael S. Hsiao  (Co-Principal Investigator current)
+              Ulrich Kremer  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+                   The objective of the proposed work is to develop an integrated
+              computational-communication a chitecture
+for large scale netwo ks of embedded
+              systems,called cooperative computin .Unlike distributed comput-
+ing,coope
+              ative computing is pe formed ove a dynamic ad-hoc network with volatile nodes
+              and connections,
+and expects statistically correct executions.E .ective
+              esource management,in pa ticula power and energy
+management,will be c ucial
+              since most devices in the netwo k will be mobile and will ely on batte
+              y.The
+basic idea in coope ative computing is that nodes coope ate in pe
+              forming a global task in an ad-hoc manne
+using thei local esou ces and state
+              information to att act task 's computation o
+              communication.Caching,
+routing,topology discove y,o any speci .c use -de .ned
+              application,can be implemented as a global task
+over the cooperative computing
+              model.
+     To effectively cooperate,the nodes that are involved need to know
+              the esources and constraints they face
+in successfully accomplishing the ta
+              get task.In such a power and esource constrained environment,the
+coope ating
+              nodes must intelligently make the best decisions to ensu e the quality of esult
+              (QoR).
+With these goals in mind,the p oposed esea ch is to develop a system a
+              chitectu e to support coope ative
+computing ove dynamic netwo ks of embedded
+              systems.Our resea ch will address the following issues:
+How to de .ne a global
+              task at the application and ope ating system levels?
+How to prog am very large
+              networks of embedded systems to execute a global task without handling
+each
+              node individually?
+How to implement self-outing using peer-to-peer
+              communication only?
+How to measure a pa tially successful execution?
+How to
+              predict the powe dissipation and energy consumption of individual nodes,and
+              nodes cooper-
+ating ac oss the network?
+How to optimize a task to reduce its
+              powe and ene gy budget running on individual nodes,and across
+nodes in
+              network?
+     The system a chitectu e for coope ative computing is based on
+              Smart Messages (SM),which can be
+viewed as intelligent ca ie s of data in a
+              netwo k.Sma t Messages a e collections of code and mobile data
+that migrate th
+              ough the netwo k,a single network hop at a time,executing at each step.Smart
+              Messages
+a e self-outing,namely they a e esponsible fo dete mining thei own
+              paths th ough the netwo k,utilizing a
+minimal set of facilities p ovided by
+              nodes in the netwo k.An SM may be denied a equest to oute th ough
+a node due
+              to the node 's esou ce limitations,in pa ticula its emaining ene gy level.We
+              conjectu e that
+Smart Messages p ovide a .exible support for a wide variety of
+              applications,anging from data collection
+and dissemination,content-based
+              outing and object t acking,to more t aditional dist ibuted
+              computing
+applications in which execution of a task is sp ead across a
+              collection of devices.
+     As pa t of this p oposal we plan to implement and
+              extensively evaluate seve al p ototype implementations
+of the Smart Message a
+              chitectu e.Ou testbed will consist of networks of embedded multicontrollers
+              and
+PDAs based on Bluetooth sho t-range wi eless communication.

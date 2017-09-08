@@ -1,0 +1,52 @@
+Title       : FAW: Graphical Specification Techniques for Parallel Programming
+Type        : Award
+NSF Org     : HRD 
+Latest
+Amendment
+Date        : April 25,  1996     
+File        : a9596163
+
+Award Number: 9596163
+Award Instr.: Continuing grant                             
+Prgm Manager: Margrete S. Klein                       
+	      HRD  DIVISION OF HUMAN RESOURCE DEVELOPMENT  
+	      EHR  DIRECT FOR EDUCATION AND HUMAN RESOURCES
+Start Date  : March 1,  1995      
+Expires     : October 31,  1997    (Estimated)
+Expected
+Total Amt.  : $168400             (Estimated)
+Investigator: Janice E. Cuny cuny@cs.uoregon.edu  (Principal Investigator current)
+Sponsor     : U of Oregon Eugene
+	      5219 University of Oregon
+	      Eugene, OR  974035219    541/346-5131
+
+NSF Program : 9292      FACULTY AWARDS FOR WOMEN
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              When programming massively parallel computations, programmers must             
+              specify large numbers of processes and their interactions, efficiently         
+              map their logical structures onto disparate hardware structures, and           
+              debug in the absence of reproducibility and consistent global states.          
+              Some of these activities can be supported by extensions of sequential          
+              tools, but most require development of novel techniques specific to            
+              parallelism.  This development is made even more challenging by the            
+              diversity of target architectures, the relative lack of experience             
+              with parallelism, and the range in degree and granularity of available         
+              parallelism.  This research focuses on support for message-passing             
+              architectures.  During the funding period, work will continue on               
+              parallel program specification and debugging, and begin on programming         
+              support specific to the Connection Machine.                                    
+                                                                                             
+              The abstractions provided by a programming environment determine a             
+              programmer's effectiveness in implementing and debugging algorithms,           
+              yet few abstractions support massive parallelism.  A graph grammar-            
+              based editor can facilitate the concise, scalable specification of             
+              parallel programs as annotated graph families.  Specification,                 
+              however, is not enough.  Program graphs must be available to other             
+              tools - such as debuggers, animators, and mappers - within the                 
+              environment.  This work will investigate the applicability of existing         
+              techniques, to design methods of partial visualization, and determine          
+              the feasibility and utility of lazy graph generation.  It is intended          
+              to explore the adaptation of these graphical specification techniques          
+              for the Connection Machine.

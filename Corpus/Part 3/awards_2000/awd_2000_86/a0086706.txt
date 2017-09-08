@@ -1,0 +1,66 @@
+Title       : Stochastic OPF and Transaction Monitoring in Deregulated Power Markets
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 3,  2002  
+File        : a0086706
+
+Award Number: 0086706
+Award Instr.: Continuing grant                             
+Prgm Manager: James Momoh                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 1,  2001       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $239874             (Estimated)
+Investigator: Kevin A. Clements clements@wpi.edu  (Principal Investigator current)
+              Paul W. Davis  (Co-Principal Investigator current)
+Sponsor     : Worcester Polytech Inst
+	      100 Institute Road
+	      Worcester, MA  016092247    508/831-5000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              The deregulated electric power industry requires new optimal power flow (OPF)
+              and state estimation tools to maintain high levels of security while operating
+              near full capacity in competitive markets.  
+Stochastic OPF problems
+              incorporate operating contingencies and random effects such as uncertainty in
+              demand or energy prices.  No operator in today's markets can afford the cost of
+              operating so that its system can withstand fully every contingency, regardless
+              of the probability of its occurrence. 
+Because so many contingencies are
+              included, these problems are massive, to large for direct methods. We propose
+              the use of  Monte Carlo-based importance sampling coupled with Benders
+              decomposition, techniques that produce subproblems of tractable size.  
+The
+              proposed work will first develop Monte Carlo-based stochastic OPF algorithms
+              for a DC network subject to random failures of lines and generators.  The
+              second stage will add uncertainty to loads, requiring separate importance
+              sampling for the two sources of uncertainty.  Finally, the stochastic model
+              will be extended to include day-ahead purchase of spinning reserve in the face
+              of uncertain loads and energy prices.  The algorithmic methods for these three
+              classes of OPF will then be extended to a full AC network.  
+A number of
+              public discussions have identified a growing problem arising from undisclosed
+              bilateral energy transactions that distort a network's planned operating point
+              as they pass through it.  The task of identifying such "rough" transactions can
+              be formulated as a problem in hypothesis testing in power system state
+              estimation.  The potentially daunting number of undisclosed buyer-seller
+              combinations to be tested can be accommodated by careful problem formulation
+              and by efficient computational techniques such as low rank updates.  The
+              central conceptual step is proper use of all a priori information.
+The
+              proposers will draw on their experience in state estimation-observ-ability,
+              efficient computation, bad data detection and identification-and in
+              time-coupled dynamic  dispatch, unit commitment, and price-responsive load
+              modeling to develop efficient algorithms for both classes of problems by
+              exploiting common aspects of their problem structure.  This work will lead to
+              new estimation and hypothesis-testing paradigms, robust approached to
+              stochastic OPF, and efficient, practical computation algorithms.   
+
+

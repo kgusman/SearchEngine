@@ -1,0 +1,83 @@
+Title       : Next Generation Software: Supporting Complex Application Requirements in
+               Metasystems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 23,  2002 
+File        : a9974968
+
+Award Number: 9974968
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $999930             (Estimated)
+Investigator: Marty A. Humphrey humphrey@cs.virginia.edu  (Principal Investigator current)
+              Andrew S. Grimshaw  (Principal Investigator former)
+Sponsor     : University of Virginia
+	      Post Office Box 400195
+	      Charlottesville, VA  229044195    434/924-4275
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2884,9218,HPCC,
+Abstract    :
+               
+EIA-9974968
+Grimshaw, Andrew S.
+University of Virginia
+
+Next Generation
+              Software: Supporting Complex Application Requirements in Metasystems  
+
+The
+              proposed work addresses two critical problems facing metasystems applications
+              designers: a lack of a sufficient set of tools by which to structure their
+              applications, predict performance, and make scheduling decisions; and a lack of
+              application-level fault-tolerance techniques.  This proposal will address these
+              problems by building upon our past experiences with Legion, which is an
+              architecture for designing and building system services that provides to users
+              the illusion of a single virtual machine with secure shared objects and shared
+              name spaces.  The single virtual machine may consist of hundreds of distributed
+              and heterogeneous resources in multiple administration domains.
+
+IDAEMA
+              (Integrated Design, Analysis, and Execution of Metasystems Applications) is a
+              multi-stage advice and performance prediction tool for metasystems.  During
+              application design, IDAEMA uses a library of cataloged research results based
+              on application characteristics and high-level application requirements to
+              provide analysis and advice regarding how to structure the program.  This
+              advice provides multiple views that describe the implications of design choices
+              on application requirements, software engineering costs, and predicted
+              performance-from advice in how to get started programming in a metasystems
+              environment to code templates and existing components upon which to base the
+              functionality of the application.  At run-time, IDAEMA uses static and dynamic
+              information about the hardware and software of the target metasystem in
+              combination with the application user's security, fault-tolerance,
+              predictability and cost requirements to provide assistance and performance
+              prediction at multiple levels of abstraction and resolution.  Our approach to
+              fault-tolerance is based upon our use of the RFE model (Reflective Graph and
+              Event) and the conviction that no single fault-tolerance mechanism is
+              appropriate for all applications.  Instead application must be free to use a
+              variety of different techniques, all in the same system.  RGE provides a
+              flexible, configurable mechanism for attaching arbitrary computation in the
+              form of program graphs to events.  Exoevents, Exoevent Interests, and Exoevent
+              Interest Sets are used to dynamically configure application-specific
+              fault-tolerance techniques.  Together, these two components provide new
+              flexibility and predictability for metasystems application development and
+              execution.  IDAEMA and the RGE model are validated through proposed
+              modifications to Legion in combination with collaborators at NPACI site
+              developing applications that include a coupled ocean-climate model and a
+              full-scale simulation of an integrated system for intelligent processing of
+              materials.
+
+
+
+
+
+
+

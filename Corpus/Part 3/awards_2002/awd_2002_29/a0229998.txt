@@ -1,0 +1,68 @@
+Title       : Log-based Middleware for Pervasive Application Sharing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 9,  2002  
+File        : a0229998
+
+Award Number: 0229998
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas J. Greene                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $359999             (Estimated)
+Investigator: Prasun Dewan dewan@cs.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9217,HPCC,
+Abstract    :
+              Pervasive application-sharing allows users to collaborate regardless of their
+              computing device, network, application, and location. More specifically, it
+              allows distributed users sharing an application to (i) use stationary and
+              mobile computers with varying capabilities such as servers, PCs, hand-helds,
+              palmtops, and cell phones; (ii) dynamically switch computers based on their
+              location, migrating session state from one computer to another; (iii)
+              efficiently switch between offline and online modes; (iv) use a minimal network
+              connecting only the computers of the currently active collaborators, and (v)
+              change the sharing architecture to adapt to changes in network connectivity.
+              Existing application-sharing infrastructures have not been designed to support
+              all of these properties.
+
+The hypothesis is "it is possible to support all of
+              these requirements by developing a novel log-based mechanism for distributing
+              I/O events across the network". More specifically, one can support these
+              requirements by (I) designing a new form of logging, called object-based
+              logging, that combines benefits of traditional logging and state transfer,
+              thereby improving the space and time overheads of traditional logging; (2)
+              developing a sharing mechanism based on object-based logging that can support
+              (a) all application-sharing architectures that have been proposed or developed
+              so far, and (b) arbitrary dynamic transitions among these architectures; (3)
+              providing this mechanism as middleware (that is, a layer between application
+              and system components); and (4) tying the mechanism, not to a particular system
+              component such as a network windowing system, but instead a general design
+              pattern for creating applications.
+
+In this project, an attempt to verify
+              this hypothesis by developing these four ideas, implementing them in a
+              Java-based mechanism, and evaluating the mechanism to determine how space and
+              time efficient it is, how much automation it provides to application
+              developers, and how many different kinds of new and existing applications,
+              system layers, and network configurations it can support. To perform these
+              evaluations, the work will use this mechanism to support sharing of I/O events
+              defined by several influential user-interface tools/frameworks including the
+              VNC network frame buffer, the X network window system, the Java Swing toolkit,
+              and the Model View Controller and Java Beans frameworks.
+
+If successful, the
+              work will lead to collaborative support that can be deployed in a much wider
+              range of (device, network, system layer, and application) configurations and
+              has been tested for usability by real users collaborative research and
+              information. 

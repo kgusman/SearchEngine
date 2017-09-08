@@ -1,0 +1,56 @@
+Title       : A Comprehensive Framework and Software for Simulation Input
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : July 2,  1999       
+File        : a9821011
+
+Award Number: 9821011
+Award Instr.: Standard Grant                               
+Prgm Manager: George A. Hazelrigg                     
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  1999       
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $123150             (Estimated)
+Investigator: Barry L. Nelson nelsonb@northwestern.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9147,MANU,
+Abstract    :
+                   This grant provides funding for the development of a comprehensive
+              framework for stochastic simulation input modeling that can accomplish the
+              following:  (1) represent a wide range of steady-state simulation input models,
+              including independent univariate processes, finite-dimensional random vectors,
+              stationary univariate time-series processes, and stationary vector-time-series
+              processes; (2) fit these input models to data via automated algorithms while
+              enabling intuitive, direct modification of the fitted models via the
+              user's
+subjective judgment or partial information such as bounds, percentiles,
+              or moments; (3) generate realizations of these input processes quickly and
+              accurately in order to drive large-scale computer simulations; and (4)
+              facilitate sensitivity analysis of simulation outputs with respect to
+              simulation inputs by making the input models readily adjustable in terms of
+              easily understood parameters.  The framework will be based on the ability to
+              represent, fit, and generate observations from a stationary multivariate vector
+              time series in which each individual component can have either a  Johnson,
+              Bezier, or discrete marginal distribution; moreover, the dependence structure
+              is specified via product-moment correlations between pairs of components that
+              are separated by selected time lags.  Such an input process will be constructed
+              by an appropriate transformation of a Gaussian vector autoregressive process.
+
+                  The primary benefit of this research is that it will take reliable input 
+              modeling out of the domain of statistical specialists and put it into the hands
+              of everyday simulation users.  Simulation inputs form the core of every
+              stochastic simulation model, so this will substantially improve the fidelity of
+              practical simulation models, leading to more accurate results and better
+              decisions.  Since simulation analysts use what they find in software, the
+              software developed in this research and made available to commercial vendors
+              should speed the technology transfer.  
+

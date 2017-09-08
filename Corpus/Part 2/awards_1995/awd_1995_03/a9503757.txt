@@ -1,0 +1,47 @@
+Title       : RUI: Finding All Numerical Solutions for Large-Scale Nonlinear Systems of
+               Equations Parallelly and Reliably in a Given Domain
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 1,  1995   
+File        : a9503757
+
+Award Number: 9503757
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1995   
+Expires     : November 30,  1998   (Estimated)
+Expected
+Total Amt.  : $88686              (Estimated)
+Investigator: Chenyi Hu chu@uh.edu  (Principal Investigator current)
+Sponsor     : U of Houston Downtown
+	      Number One Main Street
+	      Houston, TX  770023313    713/221-8000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9229,HPCC,
+Abstract    :
+              9503757  Hu  This project will investigate efficient parallel algorithms to 
+              find all numerical solutions for large-scale nonlinear systems of  equations in
+              a given domain with mathematical certainty, even in  the presence of
+              uncertainty in the data, roundoff error, and  nonlinearities by finite digit
+              computations.  The basic algorithm  to be used is based on the interval
+              Newton/Generalized bisection  method.  Parallel algorithms will be implemented
+              on vector  processors, shared-memory multiprocessors, and distributed-memory 
+              multicomputers.  On a vector processor, new data structures will be designed to
+               take full advantage of completely pipelined functional units of  vector
+              processors.  To speed memory accessing, techniques will be  developed to
+              increase cache hit ratio on machines with cache such  as the IBM 3090, and to
+              reduce bank conflict on interleaved  memory systems such as the CRAY C90.  On a
+              shared memory  multiprocessor, optimal partitioning schemes will be studied for
+               given nonlinear systems based on two protocols.  By overlapping  communication
+              and computation, in addition to reducing  communication and contention, large
+              speedup is expected.  On  distributed-memory multicomputers, algorithms on
+              coarse grained  SPMP schemes and fine-grained MPMP schemes will be implemented
+              on  realistic machines.  General sparsity and scalability will be  considered
+              in all implementations.  ***

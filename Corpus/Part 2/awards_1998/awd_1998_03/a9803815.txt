@@ -1,0 +1,46 @@
+Title       : Semantics Models for Concurrency
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  1998    
+File        : a9803815
+
+Award Number: 9803815
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $89968              (Estimated)
+Investigator: Michael W. Mislove mwm@math.tulane.edu  (Principal Investigator current)
+Sponsor     : Tulane University
+	      6823 St. Charles Avenue
+	      New Orleans, LA  701185665    504/865-4000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9803815  This research concerns models for concurrent computation. The  central
+              problems are (1) building truly concurrent models for  concurrent languages,
+              and (2) building models for unbounded  nondeterminism. Traditional models for
+              concurrency resolve the  parallel composition of two processes into all
+              possible  interleavings of the sequential actions of each. True concurrency 
+              directly implements concurrent computation as a primitive  operator. This
+              research will combine domain-theoretic approaches  with automata-theoretic
+              techniques and trace theory to build new  models for concurrent computation
+              based on true concurrency. The  goal is a better understanding of the
+              difference between  nondeterminism and parallelism. Potential applications are
+              models  of object-based concurrency and modeling the parallelization of  serial
+              code. Applications to modeling security issues, especially  denial of service
+              attacks are also being explored. A process is  unboundedly nondeterministic if
+              it has infinitely many choices of  possible actions to perform. Models for this
+              construct could be  used to extend existing models for bounded nondeterminism
+              to ones  supporting unbounded nondeterminism. This would afford the  potential
+              to reason about processes exhibiting unbounded finitary  behavior without also
+              exhibiting infinitary behavior; for  example, a process which is capable of
+              doing an action any finite  number of times, but incapable of doing it forever.
+              Applications  involve specification and refinement, as well as fairness.***

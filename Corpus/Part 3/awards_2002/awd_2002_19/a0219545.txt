@@ -1,0 +1,49 @@
+Title       : ITR: Fine-Grain Dynamic Leakage Reduction for Microprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0219545
+
+Award Number: 0219545
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $225000             (Estimated)
+Investigator: Krste Asanovic krste@cag.lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,1686,9215,HPCC,
+Abstract    :
+              Reducing energy consumption is a key challenge in the design of modern
+              microprocessors.  Until recently, the primary source of energy dissipation in
+              CMOS microprocessors has been the dynamic switching of load capacitances, but
+              with continuing reductions in feature size and the accompanying reductions in
+              threshold voltage, static leakage power is increasing exponentially.  Most
+              leakage power is dissipated on critical paths, especially after slower,
+              low-leakage transistors are used on non-critical paths.  To reduce leakage
+              energy further, it is necessary to dynamically deactivate the fast leaky
+              transistors on critical paths when they are not needed.
+
+This project is
+              developing fine-grain dynamic leakage reduction techniques, whereby small
+              pieces of an active processor are put to sleep for short periods of time.  The
+              project is investigating circuit-level leakage reduction technique that have
+              low sleep transition energy and rapid wakeup times, together with
+              micro-architectural and compiler techniques that increase the sleep time of
+              micro-architectural components without impacting performance or dynamic power
+              dissipation.  Accurate static power models that capture the sleep-time
+              dependence of leakage energy are being developed for use with architectural
+              simulators.  This work enables a new class of limited critical activity
+              architectures, where fast but power hungry logic can be selectively enabled to
+              speed critical paths while limiting overall power consumption.
+

@@ -1,0 +1,44 @@
+Title       : Understanding Self-Adjusting Data Structures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 13,  1998      
+File        : a9732689
+
+Award Number: 9732689
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $268068             (Estimated)
+Investigator: Michael L. Fredman fredman@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Self-adjusting data structures have considerable practical  importance; they
+              offer efficient performance and they are easy to  code since they are not
+              required to enforce structural  constraints.  This same lack of structural
+              constraints, however,  makes it difficult to predict the behavior of these data
+               structures over a lengthy sequence of operations.  Recently, and  contrary to
+              expectation, the widely used and highly practical  pairing heaps data structure
+              has been shown to require more than  constant amortized time for the decrease
+              key operation, thus  underscoring the need to have better methods for
+              anticipating  behavior of self-adjusting data structures.  The major focus of 
+              this project is the development of such methods.  Goals for this  project
+              include (i) reaching a definitive understanding of the  pairing heap data
+              structure, utilizing both analytical and  experimental methods; (ii) the
+              development of a formal theory of  self-adjusting data structures, placing them
+              at one end of the  spectrum of graded structure with emphasis on obtaining an 
+              understanding of the performance limitations that are incurred as  structure is
+              diminished; and (iii) an exploration of non-linear  amortized analysis for the
+              purpose of predicting the frequency  and severity with which time consuming
+              operations can take place.

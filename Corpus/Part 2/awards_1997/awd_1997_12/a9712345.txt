@@ -1,0 +1,58 @@
+Title       : Resultants and Implicitization by Moving Surfaces
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 11,  1999      
+File        : a9712345
+
+Award Number: 9712345
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $152314             (Estimated)
+Investigator: Ronald N. Goldman rng@cs.rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The method of moving surfaces is a fundamentally new and  significantly better
+              method for implicitizing rational surfaces.  This method has recently been
+              applied to address the problem of  multivariate polynomial resultants.  Initial
+              successes include  finding  determinental formulae for some sparse resultants. 
+              The method of moving surfaces produces expressions that are more  compact than
+              previous ones, and unlike previous determinental  formulae do not contain
+              extraneous factors.    Multivariate resultants provide a powerful computational
+              tool for  solving problems involving polynomial equations in several 
+              variables.  While Groebner bases can also be used to solve  systems of
+              polynomial equations (as well as answer additional  questions about polynomial
+              systems), multivariate resultants are  generally more efficient at eliminating
+              variables than Groebner  bases.  Preliminary examples suggest that the method
+              of moving  surfaces might be even more efficient than current multivariate 
+              resultant techniques.    The method of moving surfaces can be used to attack a
+              wide  variety of problems in elimination theory including:  1.  constructing
+              multivariate resultants without extraneous  factors  2.  building sparse
+              resultants  3.  implicitizing rational curves and surfaces  4.  developing
+              inversion formulas for rational curves and  surfaces  5.  intersecting rational
+              curves and surfaces  6.  intersecting algebraic curves and surfaces.    The
+              method of moving curves has already lead to a new  classification scheme for
+              rational curves; a similar scheme for  rational surfaces will be investigated. 
+              While rigorous  theoretical foundation for the method of moving curves based on
+               ideal theory has been developed, the method of moving surfaces is  currently
+              substantiated only by several Mathematica examples  and a few preliminary
+              theorems.  Thus the theoretical foundation  is far from complete.  For example,
+              the method provides an  algorithm for determining the rows of a matrix whose
+              determinant  is a sparse  resultant if it does not vanish.  So far, the method 
+              has never failed to produce a non-vanishing determinant, but no  proof exists
+              that the method will never fail.  A constructive  proof will be sought.    The
+              method has thus far been applied to eliminating one variable  from two
+              polynomials, or two variables from three polynomials.  The general problem  of
+              eliminating n-1 variables from n  polynomial equations will be studied.

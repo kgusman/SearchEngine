@@ -1,0 +1,66 @@
+Title       : Reliability Analysis and Robust Synthesis of HIgh-Performance Clock Networks.
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a0203362
+
+Award Number: 0203362
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Cheng-Kok Koh chengkok@ecn.purdue.edu  (Principal Investigator current)
+              Venkataramanan Balakrishnan  (Co-Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The research component of the proposal is to explore a new methodology for clock
+              networks that explicitly accounts for the interplay between the various design
+              factors.  The educational component will provide graduate student researchers
+              with an interdisciplinary training in VLSI, optimization, and numerical
+              computing.  Furthermore, the research results will be integrated in graduate
+              courses at Purdue University.
+The design of clock networks is a fundamental
+              problem in synchronous circuit synthesis, and requires trading off between
+              design effort, physical resource costs and performance.  Most existing clock
+              design methodologies do not explicitly perform this trade-off.  Instead, a
+              design is first proposed, and then evaluated in terms of physical resource
+              costs and performance, and the design repeated if necessary. As a large number
+              of such iterations may be required, the design effort is minimized with some
+              simplifying assumptions.  One of these artificially imposed constraints is that
+              of ``zero-skew'', where it is required that all elements are clocked (i.e.,
+              switch) at the same time-instant.  This requirement constrains the physical
+              layout of clock distribution networks, as the variation in the arrival of the
+              clock signal at the various switching elements must be held small. Perhaps more
+              important, as all circuit elements switch together, the demand from the power
+              supply is not uniform over time but peaks sharply once every clock cycle.  This
+              uneven demand on the power supply leads to what is commonly referred to as
+              power-supply noise: As the demands on the power supply peak sharply, its
+              ability to deliver power degrades, leading to possibly degraded performance of
+              the circuits.
+With these observations serving as the backdrop, we propose to
+              develop a design methodology for clock networks that employs nonzero clock
+              skews, and directly addresses the interplay between various factors that
+              determine the trade-off between the design effort, physical resource costs and
+              performance.  We present preliminary results that show that our approach holds
+              much promise. Specifically, we propose to perform together scheduling and
+              synthesis of clock networks such that both power supply noise and physical
+              resource costs are reduced.  Essential to our objectives is the efficient
+              analysis of power supply noise.  We propose a framework and techniques for
+              power-supply noise analysis that draw upon our past successes with model
+              reduction techniques for interconnect modeling both in the time and frequency
+              domain.
+
+
+

@@ -1,0 +1,70 @@
+Title       : Discontinuous Data and Media in Physical Phenomena Modeled by Hamiltion-Jacobi
+               Equations and Conservation Laws
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 5,  1997     
+File        : a9704864
+
+Award Number: 9704864
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1997    
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $67203              (Estimated)
+Investigator: Daniel N. Ostrov   (Principal Investigator current)
+Sponsor     : Santa Clara University
+	      500 El Camino Real
+	      Santa Clara, CA  950530250    408/554-4764
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9178,9229,SMET,
+Abstract    :
+              9704864    Ostrov     This project is aimed at resolving issues of uniqueness
+              and  computability for a class of Hamilton-Jacobi equations and related 
+              Conservation laws that contain discontinuous spatial data.  It will  begin with
+              the Hamilton-Jacobi equation that relates surface height  to spatial data
+              collected by Synthetic Aperture Radar.  The  characteristic curves for this
+              radar equation "flow" in one direction  like time dependent phenomena.  Due to
+              a monotonicity property of the  Hamiltonian, one can establish -- for some
+              cases -- a unique physical  solution for discontinuous data as the limit of
+              continuous data  approximation viscosity solutions.  One can also prove that
+              this  unique solution can be simulated by monotone numerical schemes.  The 
+              first goal of this project is to combine viscosity solution theory  for
+              Hamilton Jacobi equations with the theory of generalized  characteristics from
+              Conservation Law theory to establish the  uniqueness of the solution for most
+              (or all) cases.  The second goal  is to establish a unique limit for the case
+              of surface reconstruction  from discontinuous optical data.  The optical data
+              equation does not  have "flowing" characteristics and therefore requires
+              Dirichlet, as  opposed to Cauchy, boundary conditions.  Generalized
+              characteristics  are inappropriate for Dirichlet conditions, but recent Control
+              Theory  approaches appear to work well in their place.  The Hamiltonian is no 
+              longer monotonic, but it is now convex, which, it is hoped, can be  exploited
+              in a similar manner to the monotonicity property.  Finally,  these methods will
+              be applied to classes of Conservation Laws with  discontinuous media that
+              correspond to the classes of Hamilton-Jacobi  equations previously studied.   
+              Synthetic Aperture Radar (SAR) is used extensively by NASA (who, for  example,
+              collected SAR data for most of the surface of Venus in 1990  using the Magellan
+              probe) and the military.  Ideally, one would like  to reconstruct a surface
+              from the collected radar data.  Thi s  reconstruction (called Shape from
+              Shading) can -- from previous   work -- be accomplished very quickly for
+              noiseless, continuous  radar data.  For discontinuous data, which occurs in the
+              presence of  ridges (e.g., mountains, cliffs, tank edges, building edges,
+              etc.),  it is unknown (a) if only one surface corresponds to the SAR data and 
+              (b) if the surface is computable.  Previous work has shown  that for a number
+              of surfaces there is only one physically likely  surface and it is easy to
+              compute.  First, this project hopes to show  that this is the case for all
+              surfaces.  The next goal of the project  is to extend this result to optical
+              data (i.e., reconstructing a 3-D  surface from a 2-D photograph), which has
+              numerous applications both  in industry and in the military (where it is
+              typically referred to as  "computer vision").  The final goal of this project
+              is to apply these  results to Conservation Laws with discontinuous media (e.g.,
+               describing chemical separation with two or more solvents, describing  two
+              phase flow, etc.), which is of interest, for example, to Chemical  Engineers,
+              who must be able to compute simulations for these  situations to maximize
+              chemical conversions effectively in industrial  processes.

@@ -1,0 +1,64 @@
+Title       : KDI: Temporal Abstraction in Reinforcement Learning
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 18,  1999    
+File        : a9980062
+
+Award Number: 9980062
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $560000             (Estimated)
+Investigator: Andrew G. Barto barto@cs.umass.edu  (Principal Investigator current)
+              John W. Moore  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 8877      KDI-COMPETITION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1347,8877,OTHR,
+Abstract    :
+              This project investigates a new approach to learning, planning, and representing
+              knowledge at multiple levels of temporal abstraction.  It develops methods by
+              which an artificial reinforcement learning system can model and reason about
+              persistent courses of action and perceive its environment in corresponding
+              terms, and it develops and examines the validity of models of animal behavior
+              related to this approach.  The project's objectives are to develop the
+              mathematical theory of the approach, to refine, extend, and conduct validation
+              studies of related models of animal behavior, to examine the theory's
+              relationship to control theory and artificial intelligence, and to demonstrate
+              its effectiveness in a number of simulated learning tasks.
+
+Most current
+              reinforcement learning (RL) research uses a framework in which an agent has to
+              take a sequence of actions paced by a single, fixed time step: actions take one
+              step to complete, and their immediate consequences become available after one
+              step (modeled as a Markov decision process, or MDP).  This makes it difficult
+              to learn and plan at different time scales. Some RL research instead uses a
+              generalization of this framework (semi-Markov decision processes, or SMDPs) in
+              which actions take varying amounts of time to complete, and the existing theory
+              specifies how to model the results of these actions and how to plan with them. 
+              However, this approach is limited because temporally extended actions are
+              treated as indivisible and unknown units.  For the greatest flexibility and
+              best performance, it is necessary to look inside temporally extended actions to
+              examine or modify how they are comprised of lower-level actions, which is not
+              considered in existing approaches.
+
+This project, by contrast, will model
+              extended courses of action as SMDP actions overlaid upon a base MDP.  These
+              courses of action, called options, can then be treated as if they were
+              primitive actions; existing RL can be applied almost unchanged.  This approach
+              enables options to be analyzed at both the MDP and SMDP levels and introduces
+              new issues at the interface between the levels.  This approach is appealing
+              because of its simplicity, similarity to previous approaches using primitive
+              actions, and its solid mathematical foundation in MDP and SMDP theory.  This is
+              being developed further into a general approach to hierarchical and
+              multi-time-scale planning and learning.
+

@@ -1,0 +1,130 @@
+Title       : Scalable Static Techniques for Exhaustive and Incremental Analyses of C Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 17,  1997  
+File        : a9501761
+
+Award Number: 9501761
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1995      
+Expires     : December 31,  1998   (Estimated)
+Expected
+Total Amt.  : $356869             (Estimated)
+Investigator: Barbara G. Ryder ryder@cs.rutgers.edu  (Principal Investigator current)
+              William A. Landi  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,9251,HPCC,
+Abstract    :
+                 In software systems, tools such as compilers, testers, and  debuggers require
+              static semantic information, both to  insure their correctness  and to enhance
+              performance.  Incremental update algorithms, which only calculate  data  flow
+              information affected by the program changes, avoiding  total  recalculation,
+              efficiently provide consistent  documentation for a large  evolving software
+              system.  Previously, incremental techniques for Fortran-like  languages and
+              exhaustive analyses for C programs have been  developed. When  these analyses
+              of C systems produce  solutions, they are inexpensive and high  quality;
+              however,  often the analyses exhaust available resources without  yielding a
+              complete solution, especially for larger  programs (over 5,000-10,000  lines of
+              code). This research  aims at expanding the applicability of exhaustive 
+              techniques to handle a wider class of programs and  developing incremental 
+              techniques for C systems. The work  is performed by an academic and industrial
+              team,  focusing on the development of new analysis  techniques and their
+              testing on research industrial  applications.    Goals are to: (i) scale the
+              existing  prototype to handle  programs with 10,000 to 100,000 lines of code,
+              (ii) develop  techniques for analyzing modules without analyzing the  entire
+              program (i.e., a  separate compilation mode of  analysis),(iii) develop
+              incremental techniques for  interesting interprocedural static analyses for
+              languages  with general purpose  pointers, and (iv) enhance the  theoretical
+              infrastructure for semantic analysis  of modern  programming languages (i.e.,
+              C, C++, and Fortran 90).    The research  explores techniques for varying the
+              precision  of alias information by designing  new, flow-insensitive  methods,
+              to augment our current flow-sensitive ones.  Partitioning the program variables
+              allows for an aliasing  solution with varying  degrees of precision for
+              different  sets of variables.  Experiments are  conducted varying the  value of
+              k for these different sets, using k-limiting to  handle dereferencing in
+              recursive structures. A hybrid  incremental analysis  algorithm is used as a
+              basis for  incrementalizing side effect analysis of C  programs.               
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                        

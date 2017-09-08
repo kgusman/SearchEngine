@@ -1,0 +1,58 @@
+Title       : Collaborative Research: Branch Elimination by Condition Merging
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 23,  2002    
+File        : a0208606
+
+Award Number: 0208606
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Mark W. Bailey mbailey@hamilton.edu  (Principal Investigator current)
+Sponsor     : Hamilton College
+	      198 College Hill Rd
+	      Clinton, NY  13323    315/859-4011
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Conditional branches are expensive.  Branches require a significant
+percentage
+              of the execution cycles since they occur frequently and can
+cause pipeline
+              stalls.  In addition, branches result in forks in the
+control flow, which can
+              prevent other code-improving transformations
+from being applied.  We plan to
+              develop path profile-based techniques
+for replacing the execution of a set of
+              two or more branches with a
+single branch on a conventional scalar processor. 
+              We propose to
+improve performance by merging the conditions of two or more
+              branches
+into a single condition.  Previous approaches have accomplished
+such
+              merging of conditions that have either only involved a single
+variable or have
+              required special hardware to merge multiple
+conditions together.  Techniques
+              will be developed to produce a merged
+condition involving multiple variables
+              that can be used to bypass the
+code testing the original set of conditions on
+              a conventional processor.
+Merging conditions may be very good fit for run-time
+              optimization
+systems, which optimize frequently executed paths during the
+              execution
+of a program.
+

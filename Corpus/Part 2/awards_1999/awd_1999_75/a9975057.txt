@@ -1,0 +1,57 @@
+Title       : Next Generation Software: A Staged Compilation Architecture for Program
+               Optimization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 27,  1999 
+File        : a9975057
+
+Award Number: 9975057
+Award Instr.: Standard Grant                               
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $500000             (Estimated)
+Investigator: Susan J. Eggers eggers@cs.washington.edu  (Principal Investigator current)
+              Craig D. Chambers  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2884,9218,HPCC,
+Abstract    :
+              EIA-9975057
+Susan J. Eggers
+University of Washington
+
+CISE Next Generation
+              Software:  A Staged Compilation Architecture for Program Optimization
+
+The
+              proposed research is developing a more flexible model, called a staged
+              compilation model, that allows interesting analysis and optimizations  to be
+              performed at any of these three stages (and also at one or more library
+              assembly stages between static compilation time and link time.)  Each stage
+              performs the analyses and optimizations appropriate for its (partial) knowledge
+              about the program, and produces as output partially-compiled code and analysis
+              summary information for use by later stages.    Assignments of optimizations to
+              later stages incur more compilation-time cost, but they present optimization
+              opportunities not available at earlier stages.
+
+The staged compilation model
+              also includes the notion of staging individual optimizations.  A staged
+              optimization is divided into two or more optimization stages, with the earlier
+              optimization stages performing  preplanning and set-up work, and the final
+              optimization stage completing the optimization.  Compared to a single-stage
+              optimization, a mulit-stage optimization yields reduced compilation cost and/or
+              increased optimization effectiveness:  by adding earlier preplanning stages to
+              a single-stage optimization, some compilation work is moved to an earlier stage
+              where it is cheaper.  Conversely, by adding later stages to a single-stage
+              optimization, additional opportunities for optimization are exploited without
+              repeating the entire analysis at the later stage.

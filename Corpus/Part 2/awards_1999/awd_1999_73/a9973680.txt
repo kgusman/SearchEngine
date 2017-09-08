@@ -1,0 +1,86 @@
+Title       : POWRE: Decomposition of Superimposed Action Potential Waveforms Using
+               Cross-Time-Frequency Transforms
+Type        : Award
+NSF Org     : BES 
+Latest
+Amendment
+Date        : June 7,  1999       
+File        : a9973680
+
+Award Number: 9973680
+Award Instr.: Standard Grant                               
+Prgm Manager: Janice M. Jenkins                       
+	      BES  DIV OF BIOENGINEERING & ENVIRON SYSTEMS 
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  1999     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $74999              (Estimated)
+Investigator: Zeynep Erim erim@bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 5345      BIOMEDICAL ENGINEERING
+Fld Applictn: 0203000   Health                                  
+Program Ref : 0000,1592,OTHR,
+Abstract    :
+              9973680
+Erim
+The purpose of the proposed work is to apply recent advances in
+              Time/Frequency transforms to a specific problem in electrophysiology.  The
+              problem in question is that of observing the firing patterns of individual
+              motor units (muscle fibers activated as a group) for the purposes of basic
+              research, and for diagnosis and outcome assessment in rehabilitation in the
+              clinical environment.  The project aims to further and complete previous
+              NSF-funded work that enabled the identification of the activities of motor
+              units when their discharges did not overlap in time.  The goal of this project
+              is to develop a technique to decompose action potentials when they do overlap
+              in time, using the cross-time-frequency transform.
+
+In assessing muscle
+              function by studying the firing activity of the individual motor units that
+              make up the muscle, electromyographic (EMG) signals are typically detected via
+              needle electrodes inserted into the muscle.  Using the fact that each motor
+              unit generates a distinct action potential waveform when it fires, it is
+              possible to determine, from the needle EMG signal, the instances of firing for
+              each motor unit within the pick-up area of the probe.  This information is
+              relevant in determining the strategies employed by the central nervous system
+              in controlling the production of muscle force.  This assessment is important
+              both for basic research to understand the normal production of force, and for
+              the clinical diagnosis of neuromuscular deficiencies.  The accurate
+              identification of motor unit firings is also important in ensuring a reliable
+              representation of action potential shapes, which is useful in the diagnosis of
+              dysfunctional muscles.
+
+The decomposition of the needle EMG signal into the
+              activities of single motor units becomes complicated when the action potentials
+              of different motor units are similar, change shape with time or superimpose on
+              each other.  The problem becomes especially complicated when the action
+              potentials that superimpose have an overlap in frequency content as well as
+              overlapping in time.  This project will apply cross-time-frequency
+              distributions to the decomposition of superimposed waveforms.  It is hoped that
+              the availability of the representation of the time and frequency distribution
+              of the signals will provide a better separation than is possible using just the
+              time or frequency domain representation of the signal.  The basic procedure
+              will be based on pairing the superimposed waveform to be resolved with each of
+              the identified action potential templates and computing the
+              cross-time-frequency transform.  The resultant cross-time-frequency transform
+              will be compared to the auto-time-frequency representation of the action
+              potential template in question to determine if the template is included in the
+              superposition.  The technique will be based on the notion that after proper
+              alignment and filtering in the ambiguity domain, the cross-time-frequency
+              transform will be similar to the time-frequency transform for the action
+              potentials that were indeed included in the superposition, while considerably
+              different than the time-frequency transform of the action potential when
+              considering action potentials that were not involved in making up the
+              superimposed waveform.  Hence by comparing the cross-time frequency to the
+              time-frequency representation, it will be possible to determine which action
+              potentials were included in the superposition.
+
+The ultimate goal is to
+              develop a decomposition procedure that can correctly identify all motor unit
+              firings, including those that are superimposed, from the raw needle EMG signal
+              with minimal input from the operator, in order to greatly facilitate
+              intramuscular EMG studies both for research and clinical purposes. 
+

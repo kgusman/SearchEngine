@@ -1,0 +1,64 @@
+Title       : Syntactic Theories: Their Automation and Logical Foundation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 8,  2002       
+File        : a0204389
+
+Award Number: 0204389
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2002      
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $159998             (Estimated)
+Investigator: Zena M. Ariola ariola@cs.uoregon.edu  (Principal Investigator current)
+              Amr A. Sabry  (Co-Principal Investigator current)
+Sponsor     : U of Oregon Eugene
+	      5219 University of Oregon
+	      Eugene, OR  974035219    541/346-5131
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0204389
+Zena Ariola
+U of Oregon Eugene
+
+The general objective of
+              this proposal is to gain a more robust understanding of the semantics
+              and
+logical foundations of programming languages. The activities will be based
+              on the close correspon-dence
+between syntactic theories for realistic
+              programming languages and sequent calculi for logic.
+This correspondence is a
+              generalization of the Curry-Howard isomorphism that relates the simply
+typed
+              calculus and intuitionistic natural-deduction logic, and is at the heart of
+              many automated
+proof systems for reasoning about programs. The specific
+              objectives and their potential impact are:
+
+Algorithms and Tools: Our
+              experience has shown that the proposed study of syntactic the-ories
+and
+              associated logics is tedious and error-prone: it requires many mundane but
+              fun-damental
+tasks to be repeatedly performed. Such tasks include verifying
+              that the syntactic heory is well-formed, that evaluation is a well-defined
+              partial function, and that subject re-duction holds. On the logical side, these
+              properties are related to the consistency of the logic and the soundness of the
+              proof simplication rules. Hence, to enable the study of non-trivial syntactic
+              theories and logics, previous work by the investigators included the design and
+              im-plementation of algorithms and theorem-proving techniques suitable for the
+              automation of
+the manipulation of syntactic theories. This effort has led to a
+              prototype system (SL) for lightweight description and reasoning about syntactic
+              theories. This proposal includes ac-tivities to extend and refine the current
+              prototype and to make it available to all interested researchers and students.

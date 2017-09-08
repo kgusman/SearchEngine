@@ -1,0 +1,76 @@
+Title       : Network Interface Support for High-Performance and Scalable Communication
+               Services in Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 12,  2002     
+File        : a0204429
+
+Award Number: 0204429
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $260601             (Estimated)
+Investigator: Dhabaleswar K. Panda   (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Road
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Cluster computing systems are becoming increasingly popular for
+providing
+              cost-effective and affordable computing environments for a
+range of
+              applications (such as databases, data mining, visualization,
+collaborative
+              computing, and high performance computing).  These
+applications require four
+              fundamental communication services from the
+underlying communication
+              subsystem: point-to-point communication,
+collective communication,
+              synchronization, and Quality of Service
+(QoS).  Modern Network Interface Cards
+              (NICs) for clusters incorporate
+one or more programmable processors, DMA
+              channels, and large amount of
+memory. The NICs are becoming faster, smarter,
+              and intelligent and are
+being designated as Active Network Interfaces. 
+              Research is proposed
+along the following directions to take advantage of such
+              active
+network interfaces for implementing and delivering
+              scalable
+communication services for next generation clusters: 1)
+              Using
+multi-CPU NICs and their architectural features to provide
+              fast
+point-to-point communication, 2) Designing NIC-level support
+              for
+high-performance and scalable collective communication
+              and
+synchronization, 3) Taking advantage of programmable NIC-level
+features
+              to provide QoS support, and 4) Experimentally evaluating the
+benefits of the
+              new/enhanced communication services for a wide range
+of applications using
+              message passing programming model.  Through
+extensive theoretical,
+              experimental, and simulation studies, NIC-based
+solutions are planned to be
+              designed, developed, implemented, and
+evaluated for clusters with Myrinet and
+              Gigabit Ethernet
+interconnects.
+
+

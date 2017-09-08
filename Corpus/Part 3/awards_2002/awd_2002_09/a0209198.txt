@@ -1,0 +1,51 @@
+Title       : Using Simultaneous Multithreaded Processors for Soft Real-Time Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0209198
+
+Award Number: 0209198
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Sarita V. Adve sadve@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research concerns the use of simultaneous multithreaded (SMT) processors
+              for soft real-time applications such as multimedia applications.  SMT
+              processors have the potential to provide high throughput by running multiple
+              threads at the same time, and soft real-time applications are an
+increasingly
+              important workload.  The use of SMT processors for real-time applications,
+              however, has largely been unexplored.
+
+Most work on SMT has been driven by
+              the goal of increasing throughput.  Real-time applications additionally require
+              high schedulability (i.e., the ability to meet deadlines) and predictability. 
+              Further, such applications often run in energy and thermal power constrained
+              environments. This work
+seeks to develop co-schedule selection and resource
+              sharing algorithms (and consequent admission tests) for SMT processors that
+              will (1) maximize instruction throughput, (2) maximize schedulability,
+              (3)
+maximize execution time predictability, (4) minimize energy, and (5)
+              minimize thermal power, for soft real-time applications such as multimedia
+              applications.  This is the first work that considers the issues of temporal
+              schedulability and predictability, and integrates them with energy and thermal
+              considerations, for real-time applications and SMT.  Without this research, an
+              increasingly important class of workloads would be unable to exploit an
+              architectural advance that has provided large benefits in other domains.
+

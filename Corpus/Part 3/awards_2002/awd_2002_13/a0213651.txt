@@ -1,0 +1,67 @@
+Title       : US-Tunisia Cooperative Research: Analysis of Interrupt Latency Using Hybrid
+               Machines
+Type        : Award
+NSF Org     : INT 
+Latest
+Amendment
+Date        : August 15,  2002    
+File        : a0213651
+
+Award Number: 0213651
+Award Instr.: Standard Grant                               
+Prgm Manager: Osman Shinaishin                        
+	      INT  Office of Internatl Science &Engineering
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $31200              (Estimated)
+Investigator: Feng Lin flin@ece.eng.wayne.edu  (Principal Investigator current)
+Sponsor     : Wayne State University
+	      5050 Cass
+	      Detroit, MI  482023900    313/577-2424
+
+NSF Program : 5976      AFRICA, NEAR EAST, & SO ASIA
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 5928,9216,HPCC,
+Abstract    :
+              0213651
+Lin
+
+Description: 
+This award is for support of a cooperative
+              project by Professor Feng Lin, Department of Electrical and Computer
+              Engineering, Wayne State University, Detroit, Michigan and Dr. Nejib Ben
+              Hadj-Alouane, Department of Applied Computer Sciences at the Ecole Nationale d'
+              Sciences Informatique (ENSI) in Tunis, Tunisia.  This project is to investigate
+              the interrupt latency problem in software design.  Most
+              microprocessor/microcontroller systems contain sources of interrupt and
+              interrupt service routines, which are software components executing in response
+              to the assertion of an interrupt in hardware.  Because the interrupt service
+              routines execute on the same Central Processing Unit (CPU), they compete for
+              the CPU and interfere with each other's latency requirements.  Latency is
+              defined as the delay between the assertion of the interrupt in hardware and the
+              start of execution of the associated interrupt service routine. An important
+              problem is whether a specific set of sources of interrupt and interrupt service
+              routines can coexist in the same microprocessor/microcontroller software load
+              without causing interrupt latency violations.  The investigators plan to use a
+              recently developed framework of hybrid machines to solve this problem. They
+              will model sources of interrupt and interrupt service routines as hybrid
+              machines.  The main task of this project is to develop models for common
+              microprocessor/microcontroller systems, efficient algorithms to check
+              co-reachability in hybrid machines, efficient ways to represent hybrid machine
+              models in programming languages such as C, and software tools that will help
+              engineers to check interrupt latency violations in software and the how to
+              eliminate the violations.
+
+Scope:  The two scientists have collaborated and
+              published jointly in 1994 and in 1997 while Dr. Hadj-Alouane was employed at
+              Dow Chemicals Company and at the University of Michigan respectively. The model
+              they propose in this project may result in important changes in practice for
+              software design. The project will allow for visits by Dr. Lin to Tunisia and
+              will encourage a mutually beneficial international collaboration between the
+              Wayne State University and the ENSI in Tunisia.  Funds for this project are
+              provided by the Office of International Science and Engineering, the Division
+              of Computer-Communications Research and Division of Experimental and
+              Integrative Activities. 
+

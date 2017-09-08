@@ -1,0 +1,108 @@
+Title       : Quantifying the Temporal Characteristics of Congestion Events in the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 9,  2002  
+File        : a0125410
+
+Award Number: 0125410
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $249807             (Estimated)
+Investigator: Victor S. Frost frost@eecs.ukans.edu  (Principal Investigator current)
+              Tyrone E. Duncan  (Co-Principal Investigator current)
+Sponsor     : U of Kansas Ctr for Res In
+	      2385 Irving Hill Drive
+	      Lawrence, KS  660457563    785/864-3441
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9218,HPCC,
+Abstract    :
+              The objective of this research is to lay the foundation for a QoS metric that
+              can be easily 
+understood and can be used for the design of future packet
+              networks.  The premise of the 
+proposed research is that Quality of Service
+              (QoS) mechanisms have not been widely 
+employed because of both their
+              complexity and their lack of relationship to user 
+perceived performance. 
+              Therefore, it is currently difficult to justify the investment in 
+complex QoS
+              technologies while their value to the end customer is unknown.  There have
+              
+been cases where commercial networks have been over provisioned, resulting in
+              all users, 
+independent of QoS requirement or priority, receiving the same
+              service.  Based on these 
+experiences network customers are reluctant to pay
+              extra for QoS.  
+Historically, the telephony QoS metric, call blocking
+              probability, was not only  
+easily understood but provided the foundation for
+              network design.  Clearly this metric is 
+not suitable for packet networks like
+              the Internet, since packet networks experience delay 
+and packet loss in the
+              presence of congestion. Recently, it has become increasingly 
+apparent that
+              temporal characteristics of the congestion episodes have the dominant effect
+              
+on user perceived QoS.   Reinforcing the increasing importance of the
+              temporal 
+characteristics of congestion is the recent work in the Internet
+              Engineering Task Force 
+(IETF) on measurement-based temporal QoS metrics. 
+              Once congestion occurs at a 
+bottleneck point in the network it tends to
+              persist and cause a user observable 
+impairment.  Thus,  there is a need to
+              increase our understanding of the temporal 
+characteristics of congestion.  To
+              address this issue a new QoS metric is defined, the rate 
+of congestion events
+              per unit time, and a research effort identified to develop analytic
+              
+methodologies to study this QoS metric.  Specifically, this research will
+              focus on: 1) 
+predicting the frequency of congestion events for long range
+              dependent (LDR) like 
+traffic, i.e., fractional Brownian motion, in a network
+              context, 2) developing simple 
+approximations for predicting the frequency of
+              congestion events, 3) validating the 
+resulting prediction methodologies for
+              networks using real high resolution traffic 
+measurements, 4) developing
+              efficient techniques to measure the rate of congestion 
+events, and 5)
+              relating the congestion event metric proposed here to new measurement-
+based
+              temporal QoS metrics.  A rigorous definition is proposed for the time between
+              
+congestion episodes, which leads to the application of first hitting time
+              analysis for its 
+prediction. The proposed research will exploit some recent
+              theoretical results as well 
+develop new methods for predicting first hitting
+              times for a realistic traffic.   
+Network users have been struggling to
+              quantify their perceived performance.  The 
+new QoS metric proposed here
+              summarizes the network component of performance in 
+one easily understandable
+              number.  Equally important, the proposed metric is structured 
+in such a way
+              that it can be used for network engineering.  We expect the proposed 
+metric,
+              combined with accurate prediction techniques, will play an important role in
+              
+designing future packet networks. 
+

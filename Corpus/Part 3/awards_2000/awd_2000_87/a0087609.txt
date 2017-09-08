@@ -1,0 +1,121 @@
+Title       : Secure Virtually Isolated Networks to Avoid and Tolerate Denial of Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0087609
+
+Award Number: 0087609
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Daniel Mosse' mosse@cs.pitt.edu  (Principal Investigator current)
+              Rami Melhem  (Co-Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The widespread need and ability to connect machines across the Internet, in
+              a world where intelligent objects rather than documents are exchanged, has
+              caused the network to be more vulnerable to intrusions and has facilitated
+              break-ins of a variety of types. Most of the methods currently available to
+              deal with network
+vulnerability to abuse and attacks are either inadequate,
+              inefficient oroverly restrictive. Compounding the
+problem is the need to
+              maintain an acceptable level of quality of service (QoS).
+     The proposed
+              research project considers a heterogeneous network environment where servers,
+              which
+provide different levels of QoS support to clients through a contract
+              protocol, are prone to faults and denial
+of service attacks. The research
+              project assumes the existence of intrusion detection mechanisms, and aims
+at
+              investigating new and potentially revolutionary approaches for the development
+              of scalable and efficient
+service deployment strategies and network resource
+              management schemes to maintain acceptable levels of
+QoS and security, despite
+              faults. Two types of faults, namely, benign malfunctions and malicious
+              intrusions,
+will be considered. The former can be caused by a faulty, yet
+              legitimate client that accidentally loses control
+over its behavior, while the
+              latter occurs with the intent to cause damage, such asDenial of Service
+              (DoS).
+Both types of faults can severely affect the performance of the network
+              and compromise the integrity and
+security of its services.
+    These faults
+              can manifest themselves in the form of a protocol breach or a contract
+              violation. The former
+is exemplified by an authorized clients (impersonation
+              may take place) who attempt to deliberately breach
+the contract protocol and
+              impact the behavior of the server to eventually cause its failure. Contract
+              violation
+occurs when a client attempts to acquire a level of service beyond
+              what has been agreed upon in the service
+contract. In order to protect the
+              servers and the network, we propose two new techniques: fault avoidance,
+based
+              on the concept of replicated elusive servers, and fault tolerance, based on
+              resource management schemes through the creation of a Virtually Isolated
+              Network (VIN).
+     The concept of replicated elusive servers espouses ideas
+              such as roaming addresses and frequent frequency
+changes in wireless networks.
+              Replication is coordinated through group communication supported by
+              an
+underlying multicast mechanism. VINs, on the other hand, provide the basis
+              to achieve both physical and
+logical separation (in space and time) of the
+              resources reserved for each service, client, or class of clients.
+    
+              Efficient management of network resources is achieved based on an integrative
+              approach which considers
+network performance, fault tolerance and security
+              asintegral components of a multi-dimensional QoS space.
+QoS support can then
+              be perceived as a multi-layered optimization process which considers security,
+              fault-
+tolerance, resource allocation, communication protocol optimization and
+              user level application management
+as inhabitants of the same QoS spectrum and
+              seeks to exploit tradeoffs in order to reach anoptimal operating
+point. The
+              techniques developed will be designed to handle multiple coordinated
+              intrusions, clustered in
+both space and time. A coordinated/clustered fault
+              model will be developed and a study of its effect on the
+developed techniques
+              and algorithms will be conducted.
+     The proposed research will build on a
+              foundation of prior work developed by the PIs which have a
+strong track record
+              of success in a wide range of research topics related to fault-tolerance,
+              operating system
+development and resource management for QoS support in wired
+              and wireless networks. It is anticipated
+that through algorithms development
+              and analysis, simulation and testbed implementations, the results of
+this
+              project will lead to a better understanding of how to provide efficient support
+              to QoS performance,
+fault-tolerance and securityin an integrated manner, both
+              in wired and wireless environments. An equally
+important contribution of this
+              project will be the training of high quality students in a field where
+              expertise
+is scarce.

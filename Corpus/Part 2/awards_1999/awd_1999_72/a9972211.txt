@@ -1,0 +1,73 @@
+Title       : Pfair-Scheduled Real-Time Systems: Extending Theory to Practice
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  1999       
+File        : a9972211
+
+Award Number: 9972211
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1999      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: James H. Anderson anderson@cs.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number CCR-9972211
+
+Pfair-Scheduled Real-Time Systems: Extending
+              Theory to Practice
+
+James H. Anderson
+
+The scope of real-time computing is
+              increasing to include "next generation"
+applications implemented across
+              multiple processors.  Examples of such
+applications include defense systems,
+              avionics control systems, and
+telepresence systems.  To develop such systems,
+              effective techniques for
+realizing timing constraints in multiprocessor
+              systems are required.  A major
+advance in the evolution of such techniques was
+              recently achieved in the work
+of Baruah and colleagues on Pfair scheduling. 
+              Under Pfair scheduling, tasks
+are required to execute at steady rates. 
+              Executing tasks at steady rates has
+important consequences.  For instance,
+              Pfair scheduling algorithms have been
+developed that optimally schedule
+              periodic tasks on a multiprocessor in
+polynomial time.  This is a problem that
+              was previously viewed as being
+almost undoubtedly NP-hard.  Unfortunately, the
+              current theory of Pfair
+scheduling is of limited practical value because it
+              includes support only for
+strictly periodic tasks that have no synchronization
+              or data-sharing
+requirements.  In this project, these shortcomings will be
+              addressed by
+developing a Pfair scheduling framework that includes support
+              for
+interprocess communication and synchronization, I/O, and fault
+              tolerance.
+This framework will be evaluated by implementing a Pfair-scheduled
+              real-time
+operating system, which will be used as a basis for experimental
+              research
+involving both synthetic and real-world applications.
+

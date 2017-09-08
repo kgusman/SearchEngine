@@ -1,0 +1,107 @@
+Title       : Implications of longtailed traffic in networks: Analysis, measurements and
+               management
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 18,  2001 
+File        : a0087404
+
+Award Number: 0087404
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $129684             (Estimated)
+Investigator: Ravi R. Mazumdar   (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   With the tremendous growth of the Internet and the ability to transport
+              information at very high data
+rates has come the realization that traditional
+              assumptions on the stochastic nature of network traffic
+ows are inadequate. A
+              number of recent studies have demonstrated that long-range-dependence is
+an
+              important characteristic of traffic ows in current networking infrastructures.
+              On the other hand,
+the performance of networks and their ability to offer
+              Quality of Service (QoS) depend on accurately
+capturing (and exploiting)
+              probabilistically rare phenomena. Studies of network performance
+              with
+long-range-dependent inputs are still very much in their infancy, and
+              to-date have addressed only the
+computation stationary buffer over ow
+              probabilities.
+     In contrast, there is a crucial need to study the rare
+              excursions of the underlying stochastic pro-
+cesses which capture the salient
+              characteristics of network ows, and to understand how such excursions
+affect
+              network dynamics. These issues are important from the point of view of
+              transient characteristics
+of networks. For example the QoS perceived by users
+              depends not only on the magnitude of loss but
+how it takes place. In some
+              applications consecutive losses even if rare can make transmissions to
+              be
+severely degraded while in TCP, losing a small number packets often can
+              result in deterioration in
+performance. To study these effects we must develop
+              new results on the duration of over ows and the
+amount of information lost
+              during typical over ows.
+     The goal of our research is to provide analytic
+              insights, quantify performance, develop approaches
+to measure relevant traffic
+              parameters and provide rules-of-thumb for use in resource management
+              and
+scheduling traffic in networks with long-range dependent characteristics
+              to meet QoS requirements.
+The specific tasks that will be pursued to achieve
+              our objectives are:
+    Study the buffer over ow asymptotics for
+              multi-buffered systems with heterogeneous longtailed
+    inputs.
+    Develop
+              results for the heterogeneous sub-exponential case.
+    Characterize the
+              transient behavior during over ow periods for systems with longtailed and
+   
+              sub-exponential inputs with a view to understanding actual QoS given to
+              users.
+    Develop methods for differentiating between traffic types and
+              estimating relevant parameters.
+   Incorporate the insights obtained from the
+              above analyses into our overall objective to define
+   engineering rules for
+              resource management and scheduling various types of sessions in networks.
+    
+              As a result of these investigations we will have a complete catalog of results
+              to handle the very
+diverse types of traffic which are present in networks. By
+              considering both the stationary and transient
+characteristics we will provide
+              insights on the dynamics of loss which is essential to provide fine tuning
+in
+              order to deliver QoS at the application/user level which stationary analyses do
+              not provide.
+     The research spans fundamental modeling and analysis as well
+              as statistical testing. On the theo-
+retical side the implications go beyond
+              the traffic engineering context and are expected to contribute
+to applied
+              probability, queueing analysis and asymptotic approximation. On the
+              applications side, the
+proposed work will provide insights and results of
+              potential use in next generation networks.

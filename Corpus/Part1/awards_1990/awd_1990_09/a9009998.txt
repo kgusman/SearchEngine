@@ -1,0 +1,57 @@
+Title       : Massively Parallel Algorithms for Nonequilibrium Gas Dynamics
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 17,  1990    
+File        : a9009998
+
+Award Number: 9009998
+Award Instr.: Standard Grant                               
+Prgm Manager: Maxine Hynson                           
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1990    
+Expires     : January 31,  1993    (Estimated)
+Expected
+Total Amt.  : $59400              (Estimated)
+Investigator: Lyle N. Long lnl@psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9264,
+Abstract    :
+                                                                                             
+              In some flow regimes, the Navier-Stokes equations yield poor                   
+              approximations to the physics of gas dynamics.  For example,                   
+              plasma dynamic flows, low-density flows, flows with large                      
+              Knudsen numbers, or within a few mean free paths of a surface.                 
+              Basically when the flows involve thermodynamic or chemical                     
+              nonequilibrium, one must often resort to the kinetic theory of                 
+              gases.  The governing equation for monatomic molecules and binary              
+              collisions is the Boltzmann equation.  The Boltzmann equation is               
+              at least an order of magnitude more difficult to solve than the                
+              full Navier-Stokes equations and has eluded most attempts to                   
+              numerically solve it.  When one also considers chemical (in                    
+              addition to translational) nonequilibrium, the problem becomes                 
+              almost completely intractable.                                                 
+                                                                                             
+              The most effective algorithm for solving nonequilibrium gas                    
+              dynamics is the Direct Simulation Monte Carlo (DMSC) method (1).               
+              However, this algorithm uses a number of phenomenological models               
+              that must be developed further and carefully compared to                       
+              experiment.  This research project will investigate how the DMSC               
+              algorithm can be improved and mapped onto a massively parallel                 
+              computer (the Connection Machine).  Since the algorithm is very                
+              difficult to vectorize, it operates very inefficiently on most                 
+              traditional supercomputers.  Consequently it is usually run on                 
+              minicomputers for extended periods of time (up to weeks for a                  
+              single problem).  However, portions of the method are highly                   
+              suited to massively parallel computers due to its                              
+              nearest-neighbor characteristics.  In particular, SIMD machines                
+              such as the Connection nachine are highly suited to these                      
+              problems.

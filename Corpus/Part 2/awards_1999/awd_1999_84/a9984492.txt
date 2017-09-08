@@ -1,0 +1,63 @@
+Title       : CAREER: An Adaptive, High-Performance Software Infrastructure for Hierarchical
+               Systems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 15,  2002       
+File        : a9984492
+
+Award Number: 9984492
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $259584             (Estimated)
+Investigator: Steven S. Lumetta lumetta@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Data hierarchies - that is, different access speeds for different areas of
+              computer memory - in parallel computer architectures are becoming increasingly
+              complex. Machines with several levels of memory, including cache-coherent
+              non-uniform memory architectures (CC-NUMA) and clusters of workstations, now
+              dominate supercomputing. In the near future, all high-performance parallel
+              architectures in both science and industry will be hierarchical systems, and
+              the successful development of a general-purpose approach to programming these
+              machines is imperative. Unfortunately, although hierarchical systems are not
+              new, the research community has not yet developed a general and comprehensive
+              approach to them. Fortunately, rapidly decreasing cost of processing power and
+              recent developments in dynamic compilation and runtime support may allow
+              solutions to this problem that were not possible before. This project will
+              build a software infrastructure that exploits those factors to deliver high
+              levels of application performance on hierarchical systems. The infrastructure
+              will support the advance of computational science, serve as a model for future
+              commercial systems, and serve as a tool to educate and expose students to
+              explicit management of parallelism and memory hierarchies. Through
+              collaborations with the National Center for Supercomputing Applications it will
+              also produce a wide range of high-performance scientific and non-scientific
+              codes developed for hierarchical systems.
+
+Technically, the project
+              approaches the hierarchy problem with a 4-pronged attack:
+-A hierarchical
+              virtual machine that abstracts resource allocation and management issues
+ -A
+              hierarchy-aware runtime system that offers the illusion of a non-hierarchical
+              system by adapting an application's communication and synchronization
+              operations
+-Language constructs and dynamic compiler support to tune
+              application behavior to the hierarchy
+-Applications that demonstrate the value
+              of the framework
+Parts of this approach will receive support from other
+              sources as well as this award.
+

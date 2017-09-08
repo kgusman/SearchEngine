@@ -1,0 +1,50 @@
+Title       : Compression, Classification and Image Segmentation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 5,  1999        
+File        : a9706284
+
+Award Number: 9706284
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $375655             (Estimated)
+Investigator: Robert M. Gray rmgray@stanford.edu  (Principal Investigator current)
+              Richard A. Olshen  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Data compression aims at producing an efficient representation for storage or 
+              transmission in order to communicate or store the smallest possible number of 
+              bits while retaining high quality in the reconstructed image.  Statistical 
+              classification and segmentation are both concerned with labeling parts of an 
+              image as being of a certain type or class, such as tumor or normal tissue in a 
+              medical image or text, graphics, or photographs in a document page.  
+              Classification and segmentation can be used to assist human users of images, as
+               in highlighting suspicious tissue in a medical image or defects in an imaged 
+              circuit, or they can be used for the automatic extraction of features in 
+              intelligent browsing of large databases.  All three operations have in common
+              the  goal of efficiently representing an image as a whole, by optimally trading
+              off  quality and cost or distortion, an din decomposing the image into useful 
+              components.  Most of the systems involving these operations, however, focus on 
+              each separate operation rather than on combining them into common algorithms
+              with  multiple goals.  This project is devoted to the development of theory and
+               algorithms for jointly performing these operations and related signal
+              processing  such as the estimation of probability distributions or models from
+              observed data.   The approach involves optimizing single combined systems
+              subject to possibly  conflicting combined goals, such as maximizing
+              signal-to-noise ratios and  minimizing bit rates and Bayes risk.  Theory will
+              be reinforced by simulations  for both artificial sources, where theoretical
+              performance bounds can be used for  comparison, and real-world examples drawn
+              from medical and document applications.

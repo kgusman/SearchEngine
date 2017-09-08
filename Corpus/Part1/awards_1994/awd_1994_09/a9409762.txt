@@ -1,0 +1,47 @@
+Title       : RIA: High-Performance VLSI Systems Using CMOS Wave- Pipelined Transmission Gate
+               Logic
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 12,  1994    
+File        : a9409762
+
+Award Number: 9409762
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1994     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $97370              (Estimated)
+Investigator: Ramalingam Sridhar rsidhar@acsu.buffalo.edu  (Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              Wave pipelining eliminates the intermediate register stages in a  pipelined
+              system by using the internal capacitance of the  combinational logic for
+              temporary storage.  to obtain a high  operating speed, equal path delays must
+              be ensured between all the  input and the output nodes of a given functional
+              block.  This  requires symmetric rise and fall times, and delay independence on
+               the input patterns for each component within the functional unit.   This
+              project proposes a method that uses a modified complementary  Pass-transistor
+              Logic (CPL) circuits as the basic cells to  implement a high performance CMOS
+              wave-pipelined system.   Preliminary research and design results show that the
+              family of  basic cells, called Wave-pipelined Transmission-Gate Logic (WTGI), 
+              using standard CMOS technology, can be designed to have equal  rise/fall times
+              and reduced gate delay variations as compared to  other approaches.  The
+              project addresses the design of a WTGL cell  library for computational and
+              signal processing applications.   Further, logic synthesis and the delay tuning
+              algorithms will be  developed with an emphasis towards an application i signal 
+              processing.  CAD tools that can effectively use the WRGL technique  will be
+              developed.

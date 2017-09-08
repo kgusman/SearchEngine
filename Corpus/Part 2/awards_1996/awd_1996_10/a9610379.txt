@@ -1,0 +1,42 @@
+Title       : Experimenting with Concurrent Multithreaded Architectures for High-Performance
+               Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 1,  2001      
+File        : a9610379
+
+Award Number: 9610379
+Award Instr.: Standard Grant                               
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1997      
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $682883             (Estimated)
+Investigator: Pen-Chung Yew yew@cs.umn.edu  (Principal Investigator current)
+              Zhiyuan Li  (Co-Principal Investigator current)
+              David J. Lilja  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              This research focuses on the compiler and architectural issues of concurrent 
+              multithreaded architectures.  These architectures allow multiple threads to be 
+              active simultaneously to achieve multiple instruction issue in a single machine
+               cycle.  The architectural research focuses on the design of thread execution 
+              units that include support for communication between threads, for speculative 
+              thread execution, and for thread pipelining.  Simulation at the functional and 
+              register-transfer levels will be the primary tool for this research.  The 
+              compiler research focuses on integrating optimization for thread and
+              instruction  level parallelism.  This research will take place in the context
+              of modifications  to the gcc compiler.  While threads can be used to allow
+              multiple independent  programs to execute concurrently, the primary focus of
+              this project is speeding  up the execution of a single program.

@@ -1,0 +1,58 @@
+Title       : Self-Timed FPGA Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 19,  2002     
+File        : a0098272
+
+Award Number: 0098272
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $229857             (Estimated)
+Investigator: Robert B. Reese reese@ece.msstate.edu  (Principal Investigator current)
+              Cherrice Traver  (Co-Principal Investigator current)
+              Mitchell A. Thornton  (Co-Principal Investigator current)
+Sponsor     : Mississippi State Univ
+	      
+	      Mississippi State, MS  39762    662/325-2131
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 0000,9150,9215,HPCC,OTHR,
+Abstract    :
+              This research proposes a new generation of Field Programmable Gate Arrays
+              (FPGAs) based upon a self-timed design methodology known as Phased Logic. One
+              of the principle attractions of FPGAs is that they
+give users a streamlined
+              methodology for implementing large gate-count digital designs that are
+              specified in a Hardware Description Language (HDL) such as Verilog.  FPGAs
+              shield designers from the time-consuming
+physical design details that
+              Application Specific Integrated Circuit (ASICs) designers must face and offer a
+              flexible implementation substrate with a quicker time to market.  However,
+              design complexity is increasing significantly for both FPGA designers and users
+              due to timing issues related to global clock distribution over larger arrays
+              operating at higher frequencies.  Spending more design effort on reaching
+              timing closure can increase time to market and threatens to undermine one of
+              the key benefits of FPGAs for its users.
+
+Phased Logic (PL) is a self-timed,
+              delay-insensitive methodology that allows automatic mapping of clocked netlists
+              to netlists of PL gates.  Preliminary work has indicated that PL gates based
+              upon a four input
+LookUp-Table (LUT4) can implement designs that are
+              competitive with clocked approaches in both power and performance.  This
+              research investigates new FPGA architectures using both LUT4-based gates
+              and
+traditional product-term-based gates.  PL offers a general capability for
+              data dependent computing; synthesis techniques that take advantage of this for
+              general logic are investigated.  Extensions for supporting these new
+              architectures and PL gate designs are made to the current mapping tool that
+              transforms clocked designs to PL designs.  Tradeoffs that sacrifice some delay
+              insensitivity for extra performance are studied.

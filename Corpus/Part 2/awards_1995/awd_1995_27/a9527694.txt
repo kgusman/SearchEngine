@@ -1,0 +1,39 @@
+Title       : Scalable Architecture for Real Time Volume Rendering
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : June 11,  1997      
+File        : a9527694
+
+Award Number: 9527694
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1995    
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $563726             (Estimated)
+Investigator: Arie E. Kaufman ari@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research deals with the development of a new scalable volume  visualization
+              architecture and its associated algorithms.  The  architecture, called Cube-4,
+              exploits parallelism and pipelining to  achieve real-time rendering of
+              high-resolution images from volume  data.  The architecture is based on an
+              algorithm for ray casting of  a volume buffer of voxels which is stored as a
+              skewed distributed  memory to support conflict-free access to voxel structures.
+               It  performs interpolation of sampled points, shading, and compositing  to
+              generate the pixel values.  Computations are done using limited  communication
+              between processors, so that the architecture is  scalable over a wide range of
+              performances and image resolutions.   This project encompasses algorithm
+              development, architecture  research, and construction of a reduced-resolution
+              prototype.

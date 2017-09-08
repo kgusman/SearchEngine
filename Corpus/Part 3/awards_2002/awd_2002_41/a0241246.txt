@@ -1,0 +1,69 @@
+Title       : Computational Statistics For Phylogenetic Trees
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : January 6,  2003    
+File        : a0241246
+
+Award Number: 0241246
+Award Instr.: Continuing grant                             
+Prgm Manager: Keith N. Crank                          
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2003  
+Expires     : August 31,  2007     (Estimated)
+Expected
+Total Amt.  : $737913             (Estimated)
+Investigator: Susan P. Holmes susan@stat.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1260      INFRASTRUCTURE PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,4075,OTHR,
+Abstract    :
+              0241246
+Holmes
+	Classical statistics has developed various averages,
+              projections and representations based on linear algebra. In recent years,
+              non-numerical data and parameters have emerged. The object of this project is
+              to provide ways of averaging, building confidence regions, running Monte Carlo
+              algorithms, doing regression and testing models for rooted binary trees.
+              Currently biologists validate their phylogenetic trees by perturbing the data
+              through a simple bootstrap of the columns of DNA sequences and then summarizing
+              the collection of trees obtained by associating p-values to the branches of a
+              consensus tree. This reduces the problem to a collection of binomial
+              parameters, losing much of the multivariate information. A more geometrical
+              procedure based on confidence regions in tree space is preferable and overcomes
+              the multiple testing problem. The projects extends both Bayesian and
+              frequentist inferential procedures for binary trees to a nonparametric context
+              using a complete geometric construction of the relevant tree space. The
+              mathematical tools include probability theory, topology and algebraic
+              combinatorics. Collaboration with Louis Billera and Karen Vogtmann (Cornell
+              Mathematics Dept.) has enhanced our mathematical understanding of tree space.
+              The space of trees has negative curvature, thus we know we can define geodesics
+              on this space as well as convex hulls. Many of the actual distance computations
+              can have exponential complexity, good approximation algorithms are important
+              for the applications considered. This work helps think about the statistics of
+              biological networks as generalizations or mixtures of trees.
+	A new type of
+              data has appeared in genetics and molecular biology, these data are not real
+              numbers or vectors, but trees, family trees or phylogenetic trees relating
+              different species and hierarchical clustering trees relating different genes
+              according to their differing expression patterns. This project provides
+              programs for visualizing and doing statistics on these new data, we will
+              provide the biologists with open source computer packages that they can use to
+              analyze their own data. For instance, classical linear regression is based on
+              projections; in the same way if we want to compare two sets of trees, we will
+              use distances and methods for projecting in tree space. The project includes
+              two workshops, one for mathematicians in the first stage, to publicize some of
+              the harder open problems, and another in the last year to teach biologists how
+              to use the geometrical tools developed in matlab or R in practical examples.
+              This grant is made under the Joint DMS/NIGMS Initiative to Support Research
+              Grants in the Area of Mathematical Biology. This is a joint competition
+              sponsored by the Division of Mathematical Sciences (DMS) at the National
+              Science Foundation and the National Institute of General Medical Sciences
+              (NIGMS) at the National Institutes of Health.  
+

@@ -1,0 +1,77 @@
+Title       : 'QOS Enhancement with Partial State'
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 20,  2001    
+File        : a0087372
+
+Award Number: 0087372
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $270152             (Estimated)
+Investigator: A.L. Narasimha Reddy   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Considerable work has been done in devising mechanisms for providing
+              service guarantees within a network.  These schemes can be broadly classified
+              into two categories, schemes that require maintaining state for each flow and
+              schemes that do not require maintaining state for each flow withing the
+              network.  Integrated services architecture and differentiated services
+              architecture and differentiated services architecture are prime examples of
+              such approaches.  Both the approaches have their advantages and proponents. 
+              This proposal aims to investigate approaches that fall in between two extremes,
+              where a network switch may be able to maintain state for a fixed number of
+              flows (possibly less than the number of flows it serves).  This proposal looks
+              at the services that can be provided by a limited amount of state.
+     The
+              proposal plans to pursue the general direction of investigating new approaches
+              for providing QOS with a limited amount of state.  Our initial work has
+              identified the following guiding principles:
+*The provided service needs to be
+              flexible i.e., should be able to work with any amount of state (relative to the
+              number of flows).  
+*The provided service needs to be scalable i.e., increased
+              amount of state should improve QOS.
+*The provided service needs to be additive
+              i.e., as more network components employ it, QOS should be improved.
+The
+              proposal plans to investigate mechanisms that can provide the following
+              QOS:
+*Identify and limit the resource consumptions of non-responsive
+              flows.
+*Provide fair sharing of bandwidth.
+*Provide bandwidth allocations to
+              different flows.
+     As a first step, we propose to employ Sampling and
+              Caching in addition to queue and buffer management techniques at a router to
+              enhance the QoS.  The proposed mechanism uses caching to deal with the limited
+              amount of state and uses sampling to select flows for which individual state is
+              maintained.  Our preliminary results show that sampling and caching can be
+              effectively used for containing non-responsive flows and fair sharing of
+              bandwidth.
+     The proposal plancs to study the effectiveness and feasibility
+              of employing partial state in currently defined architectures such as IntServ
+              and DiffServ.  The proposal also plans to study if partial state  can be used
+              to provide delay and jitter service.
+     Besides studying mechanisms, the
+              proposal also plans to do both trace-driven and statistical analysis of
+              usefulness of partial state.  Available network traces will be used to study
+              the impact of state on the amount of work to be done at a network element and
+              the QOS impact of such mechanisms.  We also plan to analyze partial state with
+              well understood models of network traffic to see if we can make qualitative
+              conclusions about the impact of partial state.
+  
+
+

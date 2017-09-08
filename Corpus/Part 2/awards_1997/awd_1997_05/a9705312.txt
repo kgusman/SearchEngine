@@ -1,0 +1,86 @@
+Title       : Trajectory Planning and Coordinated Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : January 8,  2002    
+File        : a9705312
+
+Award Number: 9705312
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1997    
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $226411             (Estimated)
+Investigator: Clyde F. Martin martin@math.ttu.edu  (Principal Investigator current)
+Sponsor     : Texas Tech University
+	      203 Holden Hall
+	      Lubbock, TX  794091035    806/742-2011
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+                  The problems that will be proposed here have to do with one of the basic
+              problem of applied control theory: the problem of designing trajectories for
+              controlled systems.  These problems, as are discussed here, arose in response
+              to the needs of air traffic control, but are more basic than any one
+              application.  The most basic of the problems is to be given a controlled
+              system,  The measurement y is to be thought of as measuring the position of the
+              system.  A set of way-points in the form (yi, ti) that must be attained by the
+              plant is assumed to be given.  The problem is to find a control law that will
+              move the system in such a way that y(ti)=yi. For most systems there is no
+              unique way of solving this problem so it is necessary to impose other
+              conditions in order to ensure uniqueness.  For the air traffic control problem
+              there are  d/dt x=f(x)+ug(x) with initial data x(O)=x-O and a measurement
+              function y=h(x).  obvious constraints concerning the dynamics of the aircraft
+              and passenger comfort.  One obvious condition that should be met is that the
+              dynamics of x(t) be  should be smooth.  For passengers abrupt changes in
+              velocity or acceleration are very noticeable and physically reality requires
+              that x(t) be continuous.  The additional conditions that are imposed make a
+              great deal of difference on the final behavior of the system as does the nature
+              of the system itself.     The goal of this research is to develop a tool that
+              will allow the design of trajectories that meet the needs within the context of
+              general control design.  In order to do this we must reexamine the basic
+              problem as posed above and extend it to other more complicated tasks.  The
+              basic problem as posed here is intimately related to the construction of
+              numerical splines.  To extend this to more general problems in control theory
+              it is necessary to enter the area of hybrid systems.  Here the problem is
+              related to the more general mathematical problem of Birkhoff splines and to a
+              set of new problems which we choose to call problems  of coordinated control.
+              in Section 2 the basic assumptions which we impose on the system will be set
+              forth and the solutions that have been obtained to the basic problem will be
+              described.  Here is outlined an elementary, but important basic procedure for
+              solving this entire set of problems and will justify many of the assumptions
+              which have been made.  Here will also be described the contents of the several
+              papers that have been published on this problem and they will be related to
+              other work that is ongoing on the problem of trajectory design.  In Section 3
+              there will be presented a set of new problems that will be related to classical
+              problems of Birkhoff splines.  These problems arise in aircraft control when it
+              is desired to be able to set commanded velocities, accelerations, angular
+              velocities etc.  So in fact we have a set of measurements yk(t) and at various
+              points in time some, but not all, of these must have prescribed values and the
+              control must be designed in order to attain the required values.  Here the
+              problem is more basic than uniqueness and is related to the most basic of
+              problems-existence.  In Section 4 will be discussed what is really new ground. 
+              In many complicated systems the movement of the system is governed by
+              subsystems that effect particular avenues of control.  The basic example of
+              this research is the muscular control of the human body.  For the most part
+              muscles occur in opposing pairs and only one of a pair can be active at any
+              given time.  In order to execute a movement a muscle contracts and causes one
+              particular movement.  To execute a complicated movement muscles are switched on
+              and off in accordance with some higher control law and the body makes a smooth
+              coordinated movement.  One only need watch a professional gymnast to see the
+              superb coordination that must be maintained for the body to move smoothly and
+              quickly through a complicated maneuver as, for example, one would see on the
+              pommel horse.  There are no current plans to develop a control strategy for 
+              such a complicated maneuver, but control strategies will be developed that will
+              perform other simpler tasks.  Finally in Section 5 it is shown that there are
+              basic problems in stability that must be considered with each of these
+              problems.  The problem of stability for systems which are being switched is
+              relatively new.  Here is discussed the current state of research and described
+              a series of problems that must be solved to insure that the controls schemes
+              that are being proposed are implementable.

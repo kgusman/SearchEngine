@@ -1,0 +1,67 @@
+Title       : Efficient Marking Techniques for Differentiated Services in the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : October 25,  2001   
+File        : a0296034
+
+Award Number: 0296034
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $175271             (Estimated)
+Investigator: Prasant Mohapatra prasant@cs.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+                   The best-effort service model of the current generation Internet is not
+              adequate for evolving and expanding applications such as continuous media,
+              real-time applications, and e-commerce environments.  These applications
+              require certain quality of service (QoS) assurance that could be provided
+              through service discrimination in the Internet.  Differentiated Services
+              (DiffServ) have been proposed as a viable solution for providing service
+              differentiation in the Internet.  DiffServ operates on the aggregate traffic on
+              a per-hop basis and thus avoids the scalability problems associated with the
+              integrated service model.  A major component of the DiffServ architecture is
+              the markers that mark packets based on the service level agreements between
+              adjacent Internet domains (interdomain makers) or between the end node and its
+              ver first domain (leaf markers).  The Internet core routers route packets
+              discriminatley based on their marking. Thus the marking technique affects the
+              performance of DiffServ significantly.  This proposal focusses on the design
+              and implementation of efficient marking techniques for differentiated services
+              in the Internet.                   The proposed research targets the marking
+              issues at both the interdomain markers and the leaf markers. Our ongoing effort
+              on the marking scheme for interdomain marker addresses random and early
+              demotion and promotion of packets to improve the bandwidth utilization while
+              maintaining fairness between different flows.  This approach employs a
+              three-color marking scheme and uses a modified leaky bucket technique for flow
+              control.  A detailed performance study, impact of various parameters, usage of
+              multiple precedence levels, and flow control techniques will be investigated
+              using the ns simulator.                                                        
+              In the context of leaf markers, we propose to integrate the marking scheme with
+              the TCP layer at the end nodes.  Thus in addition to the aggregte level flow
+              control at the interdomain layer, we will also achieve some degree of
+              flow-level service differentiation.  Our approach is based on splitting the TCP
+              congestion window logically on the basis of the desired levels of services. 
+              During congestion, the splits of the congestion window gets affected
+              corresponding to their relative service level agreements.  Such an approach
+              would also make the flow control fair across multiple flows with different
+              service level agreements.  Maintenance of proportional fairness has been
+              observed as a difficult task in several prior research.  We propose to evaluate
+              the impact of the proposed leaf marker through an experimental implementation. 
+                                                                                       The
+              outcome of the proposed research will have a broader impact on the Internet
+              infrastructure and on its users.  Specifically, the proposed techniques will
+              improve the bandwidth utilization in the Internet while providing
+              differentiated services.  At the local level, the research will have a positive
+              educational impact on the students of Michigan State University.

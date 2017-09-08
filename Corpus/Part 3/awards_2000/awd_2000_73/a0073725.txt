@@ -1,0 +1,82 @@
+Title       : Design, Theoretical Validation, and Empirical Evaluation of a Class of Multicast
+               Congestion Control Schemes: Marriage of Feedback Control Theory and Multicast
+               Congestion Control
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 31,  2002      
+File        : a0073725
+
+Award Number: 0073725
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $360000             (Estimated)
+Investigator: Hitay Ozbay ozbay.1@osu.edu  (Principal Investigator current)
+              Chao-Ju Hou  (Principal Investigator former)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Road
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The researchers have observed an explosive growth in transporting
+              continuous media applications to multiple recipients on the Internet.  Examples
+              include continuous media servers, digital libraries, remote medical diagnosis,
+              and distance learning.  As most Internet continuous media based multicast
+              applications do not support end-to-end congestion control, wide deployment of
+              these applications have severe negative impact, ranging from starvation of
+              self-controlled TCP flows to the potential for congestion collapse.  The main
+              intent of this proposal is thus to design, implement, analytically validate,
+              and empirically evaluate a class of congestion control schemes for multicasts
+              with the following design objectives: scalability, capability to adjust source
+              sending rates to achieve TCP-friendliness and (weighted) fairness in an
+              analytically provable manner, capability to handle independent losses of the
+              same packet, capability to deal with dynamic traffic/membership changes, and
+              minimal router support.
+     Specifically, the researchers will lay out an
+              analytical framework for rate-based multicast congestion control.  In
+              particular,                                                                    
+                                                                                      T1. 
+              The researchers propose a novel approach for ACK aggregation so as to provide
+              the sender with a simple but comprehensive view of congestion conditions in the
+              multicast tree.
+     T2.  The researchers characterize the congestion status
+              with three phases: congestion free, congestion alert, and congestion avoidance,
+              and will devise a simple, yet effective mechanism for a sender to diagnose,
+              based on the parameters in the aggregated acknowledgment received and
+              parameters locally kept, which congestion phase its connection is in and
+              whether or not independent losses of the same packet has occurred.
+     T3. 
+              The researchers  will devise, based on robust feedback control theory, a class
+              of rate adjustment schemes that are (i) TCP-friendly, (ii) robustly stable, and
+              (iii) achieve (weighted) fairness among competing multicast sessions, feature
+              (ii) is especially important for systems with feedback loops, but has not been
+              extensively addressed in most of the multicast congestion control work perhaps
+              except [10].  The proposed control theoretic work will hence center around
+              robust stability and disturbance attenuation problems that appear in rate-based
+              flow control for multicasts.
+     T4.  To promote the wide deployment of
+              proposed schemes, the researchers will investigate whether or not, and how, the
+              operations (perhaps except acknowledgment aggregation) can be realized at end
+              hosts.  If some of the operations cannot be accomplished without router
+              support, the researchers will look into possible light-weight implementation
+              methods.
+     T5.  To empirically evaluate the performance of proposed
+              multicast congestion control schemes, the researchers  will conduct extensive
+              simulation in ns-2 [81] to test their TCP-friendliness, fairness, and
+              scalability properties and compare them against existing work.  With the help
+              of OARnet (the Ohio GigaPOP manager of Internet2) personnel,the researchers
+              will also implement the proposed schemes in FreeBSD, and use a database server
+              centered on large amounts of patient images acquired from MR and CT as a
+              representative multicast application to empirically measure the key functional,
+              scalable, and adaptive characteristics of the prototype software over the
+              Internet2.
+

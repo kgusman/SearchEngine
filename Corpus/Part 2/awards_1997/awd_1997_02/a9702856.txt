@@ -1,0 +1,51 @@
+Title       : CAREER: Set Theortic Methods for Reconstructing PET Images From Denoised Data
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 3,  1997      
+File        : a9702856
+
+Award Number: 9702856
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1997      
+Expires     : March 31,  2002      (Estimated)
+Expected
+Total Amt.  : $210000             (Estimated)
+Investigator: John M. Anderson jmma@alpha.ee.ufl.edu  (Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,1187,2891,9216,HPCC,
+Abstract    :
+              For about the last forty years, Positron Emission Tomography (PET) has been used
+               to assess biochemical processes in the human body.  Using data obtained from
+              PET  scanners, reconstruction algorithms generate images that contain important
+               information about the functionality of an organ or region of interest.  This 
+              research involves the development of fast, robust reconstruction algorithms
+              that  provide accurate PET images.  With more accurate images, physicians and 
+              researchers will be able to better understand the functionality of vital
+              organs;  and subtle differences between healthy and unhealthy tissue would
+              become more  distinguishable.  The knowledge gained through the research will
+              be shared with  both undergraduate and graduate students.  In particular,
+              undergraduate students  from under-represented groups will be mentored through
+              summer research programs  and senior projects.    To reconstruct PET images,
+              the investigator is undertaking a two part strategy.   First, Poisson noise in
+              the data is reduced using a modified wavelet denoising  method.  Specifically,
+              a variance stabilizing transformation, known as Anscombe's  transformation, is
+              applied to the data to convert the Poisson noise to Gaussian  noise with mean
+              zero and variance one.  The transformed data is then further  processed using a
+              well-known wavelet denoising method due to Donoho and  Johnstone.  Once the
+              Poisson noise has been reduced, the desired images are  reconstructed using set
+              theoretic estimation methods.  An advantage of using a  set theoretic
+              formulation is that it is flexible enough to incorporate all  available a
+              priori information and to address the uncertainty in the transmission  data
+              used to correct errors due to attenuation.  The resulting algorithms will  be
+              tested using real phantom and subject data from PET centers at the 
+              Massachusetts General Hospital in Boston, MA and Emory Hospital in Atlanta, GA.

@@ -1,0 +1,58 @@
+Title       : Sequential Signal Processing by Markov Chain Monte Carlo Sampling
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 19,  2001      
+File        : a9903120
+
+Award Number: 9903120
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $162000             (Estimated)
+Investigator: Petar M. Djuric djuric@ece.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Abstract
+
+Filtering, prediction, and smoothing are basic signal processing
+              operations. They are all extremely important and are implemented in every radio
+              and TV set, CD player, modem, telephone receiver, and practically any device
+              that extracts information by processing data. Most of the research on these
+              operations in the past has been related to "easy" problems, which are tractable
+              and amenable to nice mathematical analyses. In reality, however, there are many
+              situations where the standard methods of signal processing do not work well and
+              require an altogether different, more general approach. This project is
+              developing methods and techniques for a very wide range of difficult problems
+              that arise in such situations. The areas that will benefit from the results of
+              this research include communications, radar, sonar, seismology, robotics,
+              financial engineering, and control. 
+
+This research involves work with
+              dynamic nonlinear and non-Gaussian models. The applied methodology is Bayesian,
+              and the main role is played by the concept of sample filters. Their role is to
+              propagate filtering densities, which are represented by samples drawn from
+              these densities The method is implemented by generating samples from predictive
+              densities, followed by drawing samples from posteriors. Sampling from the
+              posteriors is challenging and will be implemented by perfect samplers. These
+              are based on Markov chain Monte Carlo sampling and the concept of coupling from
+              the past. Perfect sampling is a new concept, and not many results about it are
+              available. It is even more so in the context of sampling from continuous
+              spaces. Therefore, a significant component of the research will be on
+              constructing efficient samplers that will fit the needs of the addressed
+              application. The scope of work also includes performance analyses of the
+              developed sample filters, work on case dynamic models, and development of
+              general guidelines for the new filters.
+ 
+

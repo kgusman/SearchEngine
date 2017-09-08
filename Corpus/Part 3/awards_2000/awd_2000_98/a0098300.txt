@@ -1,0 +1,61 @@
+Title       : Production-Oriented VDDT and IDDQ Device Testing Methods Based on Multiple Power
+               Supply Pad Measurements
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0098300
+
+Award Number: 0098300
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $318259             (Estimated)
+Investigator: James F. Plusquellic plusquel@umbc.edu  (Principal Investigator current)
+Sponsor     : U of MD Baltimore County
+	      1000 Hilltop Circle
+	      Baltimore, MD  21250    301/455-1000
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The International Technology Roadmap for Semiconductors identifies a need for
+              innovative testing and diagnostic methods for digital and mixed-signal devices.
+              Traditional testing strategies are becoming less effective for several reasons.
+              As device operational frequencies increase, the cost of functional test
+              equipment, capable of testing devices at their native speed (at-speed), is
+              becoming cost prohibitive.   Testing methods which use slower, cheaper test
+              equipment need to be able to detect defects that cause at-speed delay failures.
+              The increasing complexity and diversity of these devices also make it difficult
+              to access internal nodes and achieve good fault coverage and parametric device
+              information. Technology trends, such as increases in 
+device leakage currents,
+              have reduced the effectiveness of alternative tests such as IDDQ. This research
+              is designed to address these short-coming by investigating device transient and
+              novel quiescent 
+signal techniques. 
+
+In previous work, process-tolerant
+              VDDT and IDDQ methods have been demonstrated to (1) detect resistive shorting
+              and open defects, (2) predict performance in defect-free devices, and (3)
+              predict defect 
+location in defective devices. These methods are based on the
+              cross-correlation of multiple static and transient power supply signals.  
+              Cross-correlation is used to calibrate for process and technology-related
+              
+variations, such as shifts in transistor betas and increases in leakage
+              current. This research focuses on the implementation of these techniques in a
+              production test environment, and on identifying their capabilities 
+and
+              limitations. The scalability of the methods to large commercial devices is
+              investigated with industrial partners. Production test environment issues, such
+              as measurement noise and instrumentation 
+sampling requirements, test
+              generation strategies and specialized hardware are also investigated. 
+

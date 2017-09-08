@@ -1,0 +1,91 @@
+Title       : CAREER: Fast Methods for Particle Dynamics and Their Applications
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : February 12,  2002  
+File        : a9875899
+
+Award Number: 9875899
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1999  
+Expires     : January 31,  2004    (Estimated)
+Expected
+Total Amt.  : $234947             (Estimated)
+Investigator: Ananth Grama   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              This project will develop innovative techniques and software for
+              so-called
+"fast methods" for n-body solvers and their applications.  An n-body
+              solver
+computes the behavior of a set of interacting particles; examples run
+              from
+the solar system (9 planets interacting through gravity) to computer
+              chips
+(billions of atoms that attract or repel electrons).  "Fast" methods
+              for
+these solvers use data structures such as trees to minimize the number
+              of
+computations.  Typically, the data structure summarizes the interactions
+              of
+a group of particles, eliminating the need to compute all of the
+              pairwise
+interactions.  Managing the data structure makes these methods
+              difficult to
+program, particularly on modern parallel machines.
+
+This
+              project addresses algorithmic issues, serial and parallel
+              performance,
+portability, and I/O requirements for fast methods for particle
+              dynamics in
+selected applications. Specifically, the project makes
+              research
+contributions in the following areas:
+
+* Error Control  and
+              Boundary Conditions: This project will extend recent
+work in variable degree
+              multipoles to improve error bounds in non-uniform
+particle distributions while
+              minimizing the added computation.
+
+* Robust Parallel Algorithms and
+              Libraries: This project will build
+calibrated portable libraries of fast
+              solvers capable of adapting to
+dynamic computational platforms like clusters
+              of multiprocessors.
+
+* Data Analysis and I/O  Control: This project will
+              investigate compression
+schemes capable of effectively handling the huge
+              amounts of data generated
+by particle dynamics simulations.
+
+The education
+              plan includes a variety of initiatives at various levels. The
+Computer
+              Applications in K-12 Education in Science (CAKE) program will
+introduce
+              pre-college students to the use of high performance computing and
+networking,
+              using GUIs based on the research libraries as teaching tools.
+A series of
+              courses, seminars, and workshops on parallel computing and its
+applications
+              will extend the education to the undergraduate and graduate
+levels at Purdue
+              University.
+
+

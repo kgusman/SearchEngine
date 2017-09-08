@@ -1,0 +1,74 @@
+Title       : STI: Extending the X-Bone Overlay Deployment Tool for Research and Classroom Use
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 16,  2002 
+File        : a0230789
+
+Award Number: 0230789
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas J. Greene                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  2002   
+Expires     : November 30,  2005   (Estimated)
+Expected
+Total Amt.  : $500001             (Estimated)
+Investigator: Joseph D. Touch touch@isi.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9217,HPCC,
+Abstract    :
+              STI-XTend augments the X-Bone automated Internet overlay deployment and
+              management tool to provide a secure environment for local and distributed
+              network experiments, to support advanced research and classroom use. The X-Bone
+              applies a Virtual Internet architecture to support secure, concurrent overlay
+              networks (VPNs) using existing Unix operating systems, standard Internet
+              protocols (IPsec, SSL, dynamic routing), and applications. It currently lacks
+              some advanced facilities requested by a number of network researchers and
+              faculty. STI-Xtend augments the X-Bone to support revisitation, dynamic
+              topology control, ports it to additional platforms, and augments its API for
+              integration with networked applications. The tool will be further packaged with
+              additional support materials (examples, scripted demonstrations, and
+              instructions) to enhance its use by the research and educational community. The
+              extensions are:
+
+Support large-scale network emulation: STI-XTend allows
+              overlays to revisit network components, allowing a small set of devices to
+              emulate a large network using real protocols and applications. 
+
+Dynamic
+              topology control: STI-XTend allows overlay topologies to be modified by adding
+              or deleting nodes or links, and to specify subset of responding nodes used (vs.
+              arbitrary selection). This provides precise control of the participants and
+              topology, allowing repeatable deployments.
+
+Support additional platforms: The
+              X-Bone supports Unix hosts and host-based routers; STIXTend provides ports for
+              other platforms (MacOS, Solaris) and adds IPv6, multicast, and a single-board
+              system for modest installations and control of closed platforms.
+
+Augment
+              user interfaces, API, and components: STI-XTend augments the X-Bone's GUI and
+              updates its modular components and capabilities, e.g., dynamic routing
+              (currently using defunct GateD and MRTd). 
+
+The X-Bone is based on the
+              abstract Virtual Internet (VI) architecture, which describes concurrent
+              parallel and hierarchical overlays. The VI model inspired two-layer
+              encapsulation to uniquely integrate IPsec with dynamic routing, and is being
+              used to unify web search, DNS lookup, IP forwarding, and ARP (media-layer
+              address resolution) as instances of a single, generic service. STI-XTend
+              augments the VI architecture to include revisitation and dynamic topology
+              control (especially difficult with IPsec, IPv6, and dynamic routing), as well
+              as ensuring the correctness of the X-Bone API.
+
+Over the past 3 1/2 years,
+              there have been 4 public code releases and 18 public demonstrations of the
+              X-Bone software. It is part of the FreeBSD ports collection and available as a
+              Linux RPM.

@@ -1,0 +1,53 @@
+Title       : Deformable Volumetric Modeling
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 6,  1999   
+File        : a9732297
+
+Award Number: 9732297
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $125171             (Estimated)
+Investigator: Shiaofen Fang   (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Voxel-based volumetric objects normally have much more complex  physical
+              properties and spatial structures than surface-based  geometric models.  Thus,
+              traditional physically-based deformation  modeling techniques are often
+              ineffective and costly in the  volumetric domain. This project will focus on
+              developing  efficient and accurate modeling techniques, computational methods 
+              and visualization algorithms for deformable volumetric objects.    A new
+              landmark-based volume deformation model and related  rendering algorithms will
+              be developed. In this model, a volume  deformation is represented by a
+              relatively small set of landmark  points defined in a volume space.
+              Three-dimensional scattered  data interpolation methods will be applied to
+              generate smooth  deformation functions over the volume space. Landmark points
+              and  their movements can be used for both the interactive deformation 
+              manipulations and the deformation pattern representations of  specific types of
+              deformable objects. Instead of directly  modeling the object's physical or
+              biological properties, this  approach employs an inverse method to derive the
+              deformation  pattern of a given class of objects, using a parameterized spring 
+              model, directly from existing or experimental data. Fast  deformable volume
+              rendering algorithms will also be developed to  support the visualization of
+              the volume deformation process. To  avoid unnecessary deformation computation
+              and multiple volume  resampling, the deformation computation will be integrated
+              into  the rendering process without explicit volume reconstruction. For 
+              region-specific deformations of different sub-structures in a  complex and
+              hierarchical volumetric environment, deformation  operations can also be
+              applied to a Volumetric-CSG model to  support deformable volumetric object
+              manipulation. Several  applications of this research will be pursued, including
+               craniofacial growth, volume morphing, medical object modeling and  interactive
+              volumetric animation.

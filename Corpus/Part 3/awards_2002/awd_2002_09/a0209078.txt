@@ -1,0 +1,57 @@
+Title       : Trust Emanates from Within: A Micro-architectural and Compiler Support Framework
+               for Trust
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0209078
+
+Award Number: 0209078
+Award Instr.: Standard Grant                               
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Akhilesh Tyagi tyagi@iastate.edu  (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1667,9218,HPCC,
+Abstract    :
+              Traditional computer security assumes a paranoid model of the world resulting in
+              a necessity for each transaction to be secured through encryption or similar
+              techniques. However, a typical human transaction is not paranoid, specifically
+              between trusted parties. A similar notion of trust exists for system level
+              transactions such as an e-commerce application. Trust obviates the need for
+              computationally expensive security techniques.
+
+Trust has traditionally been
+              defined at system and/or transaction level. The proposed research develops a
+              much lower level definition of trust --specifically a program's self-assessment
+              of its own trustworthiness. This definition of trust captures any deviations
+              from the expected norm for the program flow behavior. Each point in program can
+              be reached through a set of control paths, one of which is instantiated by a
+              specific set of input. In a compromised program, however, an entirely new
+              control path leads to the exploited program point. Such departures from the
+              norm lower the program's trust value. An affirmation of a norm control path can
+              raise the program's trust. When the trust value falls below a certain
+              transaction defined threshold, the program can raise an exception to invoke a
+              system level intrusion detection utility. The compiler is responsible to
+              construct a set of valid, expected paths for each program point. The processor
+              microarchitecture is responsible for interpreting and verifying the compiler
+              generated set of valid control paths against the instantiated control paths.
+              This research will develop compiler technology for the analysis and
+              specification of valid control paths. The required microarchitecture support
+              for this activity will also be explored. The expected impact of this research
+              will be to provide a robust trust value from the program components of a
+              transaction, which in turn makes the system level trust reflect the system
+              state more accurately. This should allow for an easier integration of trust
+              paradigm with the traditional security techniques.
+

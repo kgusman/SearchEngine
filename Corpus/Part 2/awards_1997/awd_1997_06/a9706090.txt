@@ -1,0 +1,68 @@
+Title       : Heirarchical Basis Multigrid/ILU Algorithms for Solving Finite Element Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 7,  1999       
+File        : a9706090
+
+Award Number: 9706090
+Award Instr.: Continuing grant                             
+Prgm Manager: Jong-Shi Pang                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $174036             (Estimated)
+Investigator: Randolph E. Bank rbank@ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9218,9263,HPCC,
+Abstract    :
+              9706090  Bank           Hierarchical Basis Multigrid/ILU Algorithms for        
+              Solving Finite Element Equations            Randolph E. Bank Department of
+              Mathematics       University of California at San Diego         La Jolla, CA
+              92093    This proposal has two main components. First, we will study algebraic 
+              hierarchical basis multigrid algorithms (HBMG/ILU).   These methods  solve
+              sparse sets of linear equations arising from finite difference,  finite volume
+              and finite element discretizations of partial  differential equations.  They
+              are differentiated from classical HBMG  and MG methods in that they do not
+              require a coarse grid and sequence  of mesh refinements.  This allows
+              application to problems with  geometrically complex domains that require many
+              elements just for the  geometric definition, and problems where the adaptivity
+              comes from  moving the mesh points rather than from refinement.  Preliminary 
+              numerical experiments indicate that the methods are potentially very  powerful
+              and robust. The second component of the of proposal concerns  the continuing
+              software development of the finite element program  PLTMG. Various versions of
+              this program have been in the public domain  since the late 1970's, and it is
+              widely used in education and research  environments.  PLTMG solves scalar,
+              parameter dependent, nonlinear  elliptic PDE's in  general regions of the
+              plane.  The principle  features are adaptive mesh generation, a posteriori
+              error estimation,  HBMG (soon to be HBMG/ILU) iteration for linear systems of
+              equations,  Newton's method for nonlinearities, and continuation for parameter 
+              dependencies. The code also includes an initial mesh generator, a  skeleton
+              generator, and several graphics routines. Although the name  PLTMG has remained
+              the same, typically 80% or more of the package is  revised with each new
+              release.    In many systems modeled by partial differential equations, the
+              critical  phenomena occur only in a small part of the physical domain, and may 
+              move as a function of time ( e.g. as a flame front). Even with the great 
+              advances in hardware, it is not adequate to address difficult  grand-challenge
+              class problems of this type using software based on  simple uniform meshes; the
+              demands of the problem require that  computing resources be focused on the
+              regions of most interest.  The  motivation for adaptive mesh algorithms is that
+              the algorithm itself  can and should identify these critical regions and
+              respond with an  appropriate mesh with little or no human intervention.  The
+              ``brains''  of adaptive algorithms are a posterior error indicators, which both
+               estimate the current error, and indicate where additional resources  should be
+              focused. The very nonuniform and unstructured meshes  resulting from adaptive
+              algorithms require sophisticated methods, such  as multigrid or the proposed
+              HBMG/ILU, to efficiently and reliably  solve the resulting systems of
+              equations. Overall, this field provides  a mosaic of important and interrelated
+              scientific questions ranging  from difficult problems in mathematical analysis
+              to difficult  computational challenges in implementing these procedures on
+              modern  computer architectures.

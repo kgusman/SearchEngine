@@ -1,0 +1,108 @@
+Title       : Flow Control for Multimedia Streaming Over the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 5,  2000       
+File        : a0074012
+
+Award Number: 0074012
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Injong Rhee rhee@csc.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Transmitting multimedia over shared network paths calls for end-to-end flow
+              control because of expected
+growth of multimedia data transmitted over the
+              Internet.  However, Internet and its access technologies are
+diverse ranging
+              over high-speed optical networks, satellite networks, cable, low-speed modem,
+              and wireless
+networks.  Flow control over diverse network environments is
+              difficult because assumptions commonly made
+for traditional networks, such as
+              symmetry, do not hold.  Asymmetry in the bandwidth and delays of forward
+and
+              return paths over the range of 1600:1 to 3000:1 can be observed in most home
+              access networks such
+as cable or ADSL lines, and satellites.  Multicast also
+              do not guarantee symmetry in forward multicast and
+return unicast routes.  In
+              these asymmetric networks, packet losses and delays occurring in return
+              paths
+severely degrade the performance of existing round trip based protocols,
+              such as TCP, resulting in loss in
+bandwidth utilization, fairness, and
+              scalability.
+     The objective of the proposed work is to develop, verify
+              analytically and experimentally, and implement
+a suite of end-to-end flow
+              control protocols for real-time streaming applications.  The researchers will
+              study both unicast and multicast flow control.  The developed protocols are
+              evaluated based on fairness, TCP-friendliness, stability and scalability. 
+              These properties must hold regardless of the types of networks, or
+              specifically, whether networks are symmetric or asymmetric in bandwidth and
+              delays.  The researchers consider only end-to-end transport-level flow control
+              in which flow control decisions are made based on the traffic characteristics
+              observed only at the end points.
+     The researchers view that the
+              performance problem of round-trip based flow control mainly originates from the
+              tight coupling of forward and reverse path conditions into flow control of both
+              forward (i.e., data) and reverse (i.e., feedback) path traffic.  This notion
+              does not hold when the two paths exhibit severe asymmetry.  The researchers
+              propose a complementary approach to the problem.   Their approach is to
+              completely decouple the conditions of both paths (e.g., congestion and delays)
+              from the end-to-end considerations of flow control, and to apply separate flow
+              control for each path.  They rationalize this approach by noting that most
+              multimedia transmissions are strictly one directional, and open-loop due to
+              their real-time and loss-tolerant natures.  Thus, conditions on return paths
+              should not affect the performance of multimedia transmission.
+  To achieve
+              TCP-friendliness with little use of return paths, the researchers propose a
+              technique called TCP emulation at receivers (TEAR).  TEAR allows receivers to
+              detect every TCP congestion signal, such as packet losses and timeouts, as if
+              it happens in a TCP sender with the perfect reverse path (no delay and
+              congestion on the return path).  Using the signal, receivers emulate TCP's flow
+              control to estimate the throughput of TCP under the same operating conditions
+              present in forward paths.  The advantages of TEAR are that it can estimate
+TCP
+              throughput at any environment (of forward paths) where TCP can run, and that it
+              inherits the fairness
+and stability of TCP while filtering out its undesirable
+              traits.
+     Estimated TCP throughput values at receivers are used to control
+              the receiving rates of receivers in
+unicast and multicast.  The following
+              three major research agendas are proposed.
+     1.  The researchers plan to
+              develop unicast flow control techniques using TEAR.  A notion of bounded
+              fairness to "uni-directional" TCP is proposed.  The goal is to develop a rate
+              adjustment scheme that is provably stable and TCP-friendly under various
+              network environments.
+     2.  The researchers plan to develop flow control
+              for receiver-driven layered multicast (RLM). RLMensures scalability and
+              inter-receiver fairness by allowing receivers to determine their own receiving
+              rates independently.  However, its stability and TCP friendliness have not been
+              proven.  Using TEAR, the researchers will investigate ways to improve these
+              properties under heterogeneous network environments.
+     3.  For multimedia
+              data transmission that is not amenable to layering, the researchers plan to
+              develop flow control techniques for sender-driven single rate multicast.  They
+              will  study the stable and fair flow control mechanisms for this type of flow
+              control, and investigate tradeoffs among scalability, bandwidth
+              utilization,
+and responsiveness to emerging congestion.
+

@@ -1,0 +1,66 @@
+Title       : Single Chip Supercomputers
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 19,  1991      
+File        : a9109509
+
+Award Number: 9109509
+Award Instr.: Standard Grant                               
+Prgm Manager: Maxine Hynson                           
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1991      
+Expires     : December 31,  1993   (Estimated)
+Expected
+Total Amt.  : $38000              (Estimated)
+Investigator: Tomaso Poggio tp@ai.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,
+Abstract    :
+                   The proposed research focuses on building vision systems                  
+              with supercomputer capability into fast, small, low-power, analog              
+              integrated circuits.  Examples where visual acuity and dexterity               
+              would be useful in products include collision sensors for cars,                
+              ground speed detectors for anti-skid lock brakes, navigation                   
+              systems for mobile robots, perception sensors for micro robots                 
+              and image pre-processors for remote sensing instruments.  Current              
+              supercomputers are too large, too general and too complex to be                
+              cost-effective for such applications.  Vision algorithms will be               
+              implemented directly in silicon through analog networks.                       
+              Computation performed this way is the ultimate in parallelism, is              
+              inherently low power and compiles to a very small package size                 
+              because sensors can be integrated directly with computational                  
+              networks.  Single chip sensor systems to be useful in the real                 
+              world however, must be adaptive and self-calibrating.  Designing               
+              adaptive, flexible, smart sensors requires extensive simulation.               
+              In fact, for simulations to complete in any reasonable time                    
+              frame, computational assets on the order of supercomputer                      
+              capability are essential.  The research proposed is to utilize                 
+              today's general purpose supercomputers to develop the appropriate              
+              algorithms for designing tomorrow's application specific single-               
+              chip supercomputers (analog vision chips).  The Connection                     
+              Machine, a 64,000 processor supercomputer, will be used for                    
+              algorithm simulation and device design of these self-calibrating,              
+              adaptive vision chips.                                                         
+                   Standard computer vision algorithms bog down even the                     
+              fastest computers in the world.  For most vision applications,                 
+              commercial supercomputers would not be feasible.  For example, an              
+              automobile collision detection system must be small, low-cost,                 
+              and consume little power.  For such applications, general-purpose              
+              supercomputers would not be satisfactory (even if they were fast               
+              enough).  The solution is to utilize special-purpose custom                    
+              analog VLSI chips.  These analog chips are fast, low-power, cheap              
+              and small.  I have successfully built and tested more than a                   
+              dozen different analog VLSI chips during my Ph.D. work at                      
+              Caltech.  These chips perform various smoothing, segmentation and              
+              interpolation algorithms using input from on-chip photosensors or              
+              scanned-in test data.  Recently I am investigating some simple                 
+              motion and stereo ideas.

@@ -1,0 +1,100 @@
+Title       : CAREER: A Software Development Framework That Integrates Learning, Probabilistic
+               Reasoning, And Any-Time Computation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a9876136
+
+Award Number: 9876136
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael E. Lesk                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1999      
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Sebastian Thrun thrun@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              
+An increasing number of today's computers are equipped with sensors and
+              actuators, so that they can interact directly with people and the outside
+              world. Specific examples include software agents that interact with people and
+              other software agents through the Internet, and consumer products, which
+              interact with people and the physical world. Such computers, often called
+              "embedded," face a variety of challenges. For example, sensor limitations might
+              make it impossible to sense the state of the environment accurately; thus,
+              embedded computers must be able to cope with uncertainty. The environments of
+              embedded computers might be dynamic, in which case there is a need to adapt to
+              changes therein. Additionally, embedded computers might have to meet real-time
+              constraints, as their environments tend not to wait for the termination of
+              their programs. While many of these issues have been researched in the field of
+              artificial intelligence (AI), computer science still lacks a sound methodology
+              for software development in embedded computers. Existing programming languages
+              and toolkits do not address issues such as uncertainty, adaptation, and on-time
+              computing.
+
+The PI's career objective it to change the way embedded computers
+              are programmed. To pursue this goal, he proposes research towards a new
+              programming language, specifically designed for embedded computer systems. This
+              language will introduce three new ideas currently not found in existing
+              programming languages:
+
+I.  Probabilistic data types and operators.
+              Probabilistic data types and operators will enable programmers to compute with
+              uncertain information just as if it was certain. Probabilistic data types
+              represent information by probability densities. They generalize existing data
+              types (e.g., float, int) in that they represent multiple values at a time,
+              weighted by numerical probabilities. From the programmer's view, probabilistic
+              computation will be analogous to conventional computation, with the added
+              benefit of increased robustness to uncertainty.
+
+2.  Adaptation. The PI will
+              develop mechanisms that support data-driven adaptation of program code.
+              language will possess built-in learning algorithms (e.g., neural networks,
+              reinforcement learning) and a mechanism for proper credit assignment. This will
+              support the design of adaptable software, capable of automatically adapting to
+              changes in the environment. It will also enable programmers to "teach" their
+              code, as a supplement to current software development practice.
+
+3.  Any-time
+              execution. To accommodate the need for timely responses, the new language will
+              provide run-time support for any-time computation. Any-time programs can be
+              queried for a result at (almost) any time; the quality of their solutions,
+              however, increases over time. To obtain any-time characteristics, the execution
+              system will process probabilistic variables selectively, in decreasing order of
+              the probability of individual values. A special mechanism will be provided that
+              permits the event-driven termination of any-time computation.
+
+If this
+              research is successful, programmers of embedded systems will be able to utilize
+              the results-with minimal overhead, effectively enabling them to develop better
+              software with significantly less effort, when compared to today's best
+              practice.
+
+To better achieve his career goal, the PI will also engage in a
+              collection of educational activities. He plans to revise the curriculum of
+              CMU's introductory programming class, by including a course segment on embedded
+              computation. He will also develop a new graduate-level course on embedded
+              computation, which will integrate material from a variety of currently separate
+              disciplines. For both courses, the programming language will be used as a
+              vehicle: By using this language, students will gain a much deeper understanding
+              of the various issues involved in embedded computation and their theoretical
+              foundations. Additionally, feedback of advanced students will guide the basic
+              research proposed here. All course materials, the language, its implementation
+              and documentation, and all related research papers will be made available to
+              the research community at large using the Web, so that others can contribute to
+              and benefit from this project.
+
+
+
+

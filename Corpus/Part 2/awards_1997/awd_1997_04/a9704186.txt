@@ -1,0 +1,129 @@
+Title       : SBIR PHASE II: A Global Multi-Grid General Minimal Residual(GMRES) Scheme for an
+               Adaptive Cartesian/Prism Flow Solver on Distributed Memory Machines
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : September 17,  1997 
+File        : a9704186
+
+Award Number: 9704186
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Patrick Johnson                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1997    
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Z.J. Wang   (Principal Investigator current)
+Sponsor     : CFD Research Corporation
+	      215 Wynn Drive, 5th Floor
+	      Huntsville, AL  35805    205/536-6576
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1266,9139,HPCC,
+Abstract    :
+                This Small Business Innovation Research Phase II project will develop a
+              Parallel Computing System (PCS) for an adaptive Cartesian/prism generalized
+              minimal residual (GMRES)/multi-grid flow solver.  The system will include the
+              following modules: Performance Monitor, Domain Decompositioner, GMRES/MultiGrid
+              Flow Solver, Dynamic Load Balancer, and Parallel Flow Visualizer.  The
+              Performance Monitor can display the convergence of the flow simulation and
+              loads on each processor and if necessary launch the Dynamic Load Balancer.  The
+              Domain Decompositioner and Parallel Flow Solver will be generalized and
+              extended to three-dimensions in Phase II.  For a cluster of workstations with
+              constantly changing computational loads on each computer, a Dynamic Load
+              Balancer will be developed to balance the loads on all computers in user
+              defined time intervals. The company's commercial flow visualizer, CFD-VIEW,
+              will be adapted for distributed memory machines to post-process the massive
+              simulation data produced by the parallel flow solver.  A Message Passing
+              Interface (MPI) will be utilized to provide data communications between
+              different modules and flow solvers.  The PCS will run on both parallel
+              computers and a cluster of workstations.  The overall system will integrate
+              grid generation/domain decomposition, flow simulation, load balancing and flow
+              visualization into a single user-friendly parallel computing environment to
+              achieve automation, accuracy and efficiency for flow simulation.  Through this
+              technology, significant cost reduction in CFD simulation will be possible.  A
+              successful Phase II should yield a product which will be very competitive in
+              the current CFD software market because of its automation, efficiency and
+              parallel computation capability.                                               
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                     

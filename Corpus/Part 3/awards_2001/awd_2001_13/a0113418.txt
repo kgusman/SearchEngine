@@ -1,0 +1,59 @@
+Title       : Improving System Functionality using Monitoring Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 21,  2002       
+File        : a0113418
+
+Award Number: 0113418
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $370403             (Estimated)
+Investigator: Matthew Farrens farrens@cs.ucdavis.edu  (Principal Investigator current)
+              Frederic T. Chong  (Co-Principal Investigator current)
+              Premkumar T. Devanbu  (Co-Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 0000,1667,9216,OTHR,
+Abstract    :
+              ABSTRACT
+Proposal #0113418
+U of Cal Davis
+Farrens, Matthew
+
+Microprocessors
+              now rival supercomputers in raw processing power, thanks to increases in
+              transistor densities and architectural advances such as the exploitation of
+              parallelism.  However, the bandwidth and latency of memory systems is so
+              limited that increasing performance in the microprocessor often leads to little
+              overall system improvement.
+
+At the same time that this is occurring,
+              software costs are burgeoning. This research explores  using some of the
+              increasing silicon real estate to provide extra functionality.   The approach
+              is to dedicate a portion of these new transistors to provide programmable
+              monitoring hardware to enhance software development, make debugging more
+              efficient, increase reliability and provide run-time security.  Additional
+              applications may be found in monitoring run-time guarantees and invariants for
+              embedded systems.
+
+Taking a specific example, this approach can address
+              pointer-related defects occurring in software which render systems unreliable
+              and vulnerable to hackers.   A  simple, auxiliary co-processor monitors address
+              references from a compute processor via a loose coupling (e.g. via the L1 cache
+              coherence bus).  This loose coupling reduces design complexity and avoids the
+              need for any core CPU redesign and allows this approach to be readily added to
+              existing designs.  Furthermore, the approach is complementary to static
+              compiler analysis techniques and the research extends conventional analysis to
+              exploit efficient run-time monitoring capabilities.
+

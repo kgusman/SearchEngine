@@ -1,0 +1,61 @@
+Title       : New Directions in Accounting and Traffic Measurement
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 10,  2002 
+File        : a0137102
+
+Award Number: 0137102
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $649754             (Estimated)
+Investigator: George Varghese varghese@cs.ucsd.edu  (Principal Investigator current)
+              David Moore  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Accurate network traffic measurement is required for accounting, bandwidth
+              provisioning, and detecting DOS attacks. However, keeping a counter to measure
+              the traffic sent by each of a million concurrent flows is too expensive (using
+              SRAM) or slow (using DRAM). The current state-of-the-art (e.g., Cisco NetFlow)
+              methods which log periodically sampled packets are slow, inaccurate, and
+              memory-intensive. This proposal introduces a paradigm shift by concentrating on
+              the problem of measuring only "heavy" flows | i.e., flows whose traffic is
+              above some threshold such as 1% of the link. After showing that a number of
+              simple solutions based on cached
+counters and classical sampling do not work,
+              the resarchers describe two novel and scalable schemes for this purpose which
+              take a constant number of memory references per packet and use a small amount
+              of memory. Further, unlike NetFlow estimates, we have provable bounds on the
+              accuracy of measured rates and the probability of false negatives. The
+              researchers propose to implement, evaluate, and fine-tune these new ideas.     
+                                                                                             
+                   Using these ideas as a basis, the researchers also propose to investigate
+              the following questions. First, they will investigate a new form of accounting
+              called threshold accounting in which only flows above threshold are charged by
+              usage while the rest are charged a fixed fee. Threshold accounting generalizes
+              the familiar notions of usage-based and duration based pricing. Second, they
+              propose to investigate a more general question: the computation of flow
+              statistics at very high speeds using very small amounts of high speed memory.
+              Examples of other potentially useful flow statistics include the number of
+              flows, the standard deviation of flow sizes, the average duration of a flow
+              etc. Naive algorithms to measure such quantities all scale linearly with the
+              number of flows. Finally, with colleagues at CAIDA, the researchers plan to
+              deploy our algorithms in real-time on 5 traffic monitors placed at strategic
+              Internet sites (AIX, the UCSD backbone, and possibly on Abilene).              
+                                                                                             
+                                                            The potential impact of this
+              proposal is the development of novel and practical tools for accounting,
+              measurement, and security. These are three central problems as the Internet
+              transitions from a research network to a commercial enterprise.

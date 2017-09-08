@@ -1,0 +1,112 @@
+Title       : A Computational Framework for Reduced Feedback Control Design for Spatially
+               Distributed Systems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 31,  2000      
+File        : a0072629
+
+Award Number: 0072629
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $76200              (Estimated)
+Investigator: Belinda B. King bbking@icam.vt.edu  (Principal Investigator current)
+Sponsor     : VA Polytechnic Inst & St U
+	      301 Burruss Hall
+	      Blacksburg, VA  240610249    540/231-6000
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              0072629
+King
+
+This goal of this project is to develop a framework that can be
+              used to 
+design spatially distributed control systems.  Specifically, the
+              outcome of 
+this project is to provide a methodology to optimally place
+              sensors and 
+actuators and to construct practical reduced order controllers. 
+              The 
+approach is based on a unique combination of computational mathematics
+              
+and distributed parameter control theory. The framework is based on an
+              
+integral representation of the optimal feedback control that arises from the
+              
+solution of the infinite dimensional control problem. Computation of the
+              
+kernel of the integral (feedback functional gain) may be accomplished by
+              
+solving a numerical approximation of the infinite dimensional algebraic
+              
+Riccati equation. However, this approach is intractable for even the two
+              
+dimensional heat equation on a fairly coarse grid. The approach proposed
+              
+herein is based on the use of computational methods to directly solve
+              
+Chandrasekhar partial integro-differential equations for functional gains. 
+              
+Recent results on the smoothness and support of these functional gains can
+              
+then be exploited to optimally place sensors and actuators.  Moreover,
+              
+initial studies show how the gains can also be used to design robust
+              low-
+order compensators.
+
+The motivation for this work comes from the need
+              to have efficient, 
+practical controllers for complicated physical systems.
+              The focus of the 
+proposal is the development of an approach that is
+              applicable to a wide 
+variety of areas ranging from materials processing to
+              flow control.  In 
+applications from such areas, there are several issues of
+              primary 
+importance that must be addressed. Among these are where to place
+              
+sensors to obtain accurate measurements to be used by the controller, what
+              
+to measure, where to place actuators (which implement the control), and 
+how
+              to design the controller so that the system is controller in real-time.
+              
+Typically, the issues with respect to sensors and actuators are solved
+              
+through engineering intuition. However, the mathematical framework that 
+we
+              propose gives specific answers to these questions. Moreover, it 
+provides
+              motivation for real-time control which is nearly optimal (in the 
+sense that
+              the design comes from the solution to a mathematical 
+optimization problem)
+              and is robust, which means that it is effective in the 
+presence of
+              disturbances, or dynamics which may have been neglected in 
+designing the
+              controller.  The potential benefits of this work are enormous. 
+It would be
+              applicable to complicated (and varied) problems such as 
+stabilizing
+              vibrations arising from shuttle docking at the space station, 
+reduction of
+              drag in aerospace vehicles, and optimal control of 
+semiconductor
+              manufacturing. It would provide a systematic approach to 
+reduced order
+              controller design, eliminating much of the guesswork that 
+currently takes
+              place.
+

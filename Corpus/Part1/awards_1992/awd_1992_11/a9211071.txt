@@ -1,0 +1,58 @@
+Title       : Parallel Supercomputing on the Intel Delta-CFD
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 29,  1992       
+File        : a9211071
+
+Award Number: 9211071
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1992       
+Expires     : June 30,  1994       (Estimated)
+Expected
+Total Amt.  : $43888              (Estimated)
+Investigator: Anthony Leonard tony@galcit.caltech.edu  (Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    818/795-4571
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9218,
+Abstract    :
+                                                                                             
+              The advent of the Intel Delta machine, a large-scale parallel                  
+              computer with powerful i860 nodes and high speed communications                
+              between the nodes, combined with fast algorithms in computational              
+              fluid mechanics, will allow unprecedented explorations, via                    
+              numerical simulations, of complex flows with and without solid                 
+              boundaries.                                                                    
+                                                                                             
+              Our computational method is based in the Lagrangian description                
+              of the vorticity field.  Computational elements of vector-valued               
+              vorticity are convected with the local fluid velocity and the                  
+              vorticity vector is continually strained by the local velocity                 
+              gradient.  The classical vortex method is enhanced to account for              
+              viscous effects.  An adaptive, fast algorithm has been                         
+              efficiently implemented in two-dimensions, in both vector (CRAYS)              
+              and parallel (Mark III hypercube) architectures allowing                       
+              unprecedented simulations using up to O(10 6) computational                    
+              elements.                                                                      
+                                                                                             
+              We propose to extend the viscous technique to three-dimensional                
+              flows in the presence of arbitrarily-shaped solid bodies and                   
+              implement a fast three-dimensional algorithm on the Delta.  We                 
+              expect to obtain computing speeds that are much higher than those              
+              of a serial supercomputer speed at a fraction of the cost,                     
+              allowing simulations using up to O(10 6) computational elements                
+              for three and two-dimensional simulations.  This capability will               
+              allow large scale extended numerical simulations, in two and                   
+              three dimensions, for laboratory Reynolds numbers and should lead              
+              to significant breakthroughs in the understanding and control of               
+              complex flow phenomena that are fundamental to unsteady bluff-                 
+              body flows.

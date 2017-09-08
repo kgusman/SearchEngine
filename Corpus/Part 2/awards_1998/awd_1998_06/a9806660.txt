@@ -1,0 +1,94 @@
+Title       : Rate-Based Flow Control Algorithms for High Speed Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 12,  1999       
+File        : a9806660
+
+Award Number: 9806660
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $568725             (Estimated)
+Investigator: Shivkumar Kalyanaraman kalyas@rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              In this project a new control-theoretic framework will be developed
+              for
+rate-based robust flow controller design for high-speed networks, and
+              the
+algorithms derived from this framework will be adapted for implementation
+              in
+ATM networks and in the Internet. For this purpose the PIs will
+              collaborate
+to investigate specific issues arising in their areas of
+              expertise: ATM and
+Internet flow control, and robust control of infinite
+              dimensional systems.
+>
+>The mathematical models to be considered in this
+              project are systems with
+time-varying time-delays.  For this class of systems,
+              controller-design
+methods will be developed by investigating several different
+              approaches from
+H-infinity control, Mu-synthesis, gain scheduling for linear
+              parameter
+varying systems, and Lyapunov stability theory.  In particular,
+              existing
+gain scheduling techniques for finite dimensional linear parameter
+              varying
+systems will be extended to time delay systems.
+>
+>Controllers
+              derived in this framework will be validated by comparing them
+with the
+              existing controllers designed for ATM traffic management. New flow
+controllers
+              will also be implemented and tested experimentally. First they
+will be
+              translated into algorithms to be implemented at the network-layer
+(switches
+              and routers) within the scope of existing standards.  Both
+connection-oriented
+              networks (e.g. ATM networks) and connectionless networks
+(e.g. IP based
+              Internet) will be considered in the project.  In the Internet
+domain,
+              techniques used will include writing into TCP windows, controlling
+the rate of
+              acknowledgements, writing into the ECN bit in the IP layer, and
+developing a
+              feedback framework in the Multi-protocol Label Switching (MPLS)
+architecture. 
+              Towards this goal, new techniques will be developed to
+translate rate-based
+              control solutions into window-based control solutions
+(especially for
+              applicability in Internet traffic management).
+>
+>The algorithm design will
+              be followed by a performance evaluation using
+simulation and experimentation
+              to assess the impact of these methods on
+best-effort services offered to
+              networked multimedia applications.
+Experimental techniques will be used to
+              determine traffic models, and
+network measures of application quality, which
+              will be used in simulation
+studies of these algorithms in representative
+              network configurations.
+>
+

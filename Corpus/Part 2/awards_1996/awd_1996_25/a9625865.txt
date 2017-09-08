@@ -1,0 +1,66 @@
+Title       : Mathematical Sciences: Blocks, Partitions, Asynchronous Parallel Methods, and
+               Applications to Markov Chains and Other Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 16,  1996      
+File        : a9625865
+
+Award Number: 9625865
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1996     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Daniel B. Szyld szyld@euclid.math.temple.edu  (Principal Investigator current)
+Sponsor     : Temple University
+	      1601 N. Broad Street
+	      Philadelphia, PA  191226099    215/204-8691
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9625865  Szyld       The investigator studies block and asynchronous iterative 
+              methods for the efficient solution of nonsymmetric linear  algebraic systems of
+              equations.  One aspect of the project is the  study of the application of
+              threshold partitioning algorithms for  sparse matrices.  The emphasis of the
+              project is on singular  systems.       Singular systems of equations arise in
+              many applications,  including certain types of differential equations modeling 
+              physical phenomena, Markov chains, and queuing models.  Markov  chains are
+              used, e.g., to evaluate the performance of computer  systems, while queuing
+              models in particular simulate traffic in  telecommunication networks.  This
+              project develops fast methods  for solving linear systems of equations,
+              particularly singular  systems.  The methods are iterative: starting from an
+              initial  guess at the solution of a system, the method produces a sequence  of
+              approximate solutions that approaches the actual solution.  Asynchronous
+              methods for parallel computers refer to methods in  which part of the
+              computation is performed in each processor in  an asynchronous way, i.e.,
+              without synchronization between the  processors.  In other words, each
+              processor proceeds with its  tasks, using the information available at any
+              given moment  without waiting for the other processors to finish their tasks. 
+              Processors do not wait: they keep active computing better  approximations to
+              the solutions.  Therefore the overall solution  time can be greatly reduced. 
+              The variables of the differential  equations, of the Markov chains, or of the
+              queuing models, may be  partitioned naturally into sets of variables, e.g., by
+              the  near-connectivity of the nodes of a network or graph.  This  partition
+              induces a particular block structure in the matrix  representing the linear
+              system to be solved.  Asynchronous  parallel methods are well suited to deal
+              with these blocks.  New  partitioning algorithms that take into account the
+              values of the  matrix are explored.  The discre tizations of many differential 
+              equations, such as certain convection-diffusion equations, give  rise to
+              matrices with coefficients varying over a wide range of  values, i.e., some
+              large and some very small.  These problems are  very hard to solve in practice,
+              and most modern iterative methods  fail to converge.  The methods that do
+              converge are very expensive  or very slow.  Partitioning algorithms that take
+              into account  these values can be used to permute these matrices so that the 
+              large coefficients lie along the diagonal of the matrix.  Parts of  this
+              permuted matrix, e.g., its blocks along the diagonal, can be  used as an
+              effective preconditioner.  Preliminary experiments  indicate that this approach
+              leads to fast convergence.  Thus, the  project can provide a method to
+              efficiently solve a class of  important problems in science and engineering.

@@ -1,0 +1,46 @@
+Title       : New Architectures for New Applications: PIM NUMAs for Commercial Workloads
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  1999      
+File        : a9970488
+
+Award Number: 9970488
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $324987             (Estimated)
+Investigator: Josep Torrellas torrella@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The objective of this work is to enable high pay-off technologies for high-end
+              parallel computing of database applications. The work involves exploring the
+              next-generation distributed shared-memory (DSM) architectures on which to run
+              high-performance memory-resident parallel databases. The architecture proposed
+              has a radically new node and system organization based on processor-in-memory
+              (PIM) chip technology. It includes intelligent memory for databases, support
+              for reconfigurability and hardware support for speculative execution of
+              queries.
+ 
+This research also explores, for this architecture, novel
+              algorithms to parallelize database queries, lay out and map database data and
+              code, and schedule database threads. These algorithms, which also exploit some
+              hardware support, are designed to be cache-conscious and, therefore, exploit
+              deep memory hierarchies. A subset of the algorithms are to be implemented in a
+              real parallelizing compiler (Polaris) and tested on a real parallel database
+              that will be rewritten for scalability (Postgres95). The rewritten Postgres95
+              code will be made available to other academic researchers for their use.
+
+
+

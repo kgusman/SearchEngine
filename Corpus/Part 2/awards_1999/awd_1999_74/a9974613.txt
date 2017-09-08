@@ -1,0 +1,56 @@
+Title       : Compiler Support for Advanced Computer Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 24,  1999    
+File        : a9974613
+
+Award Number: 9974613
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $189969             (Estimated)
+Investigator: Charles N. Fischer Fischer@CS.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,9216,HPCC,
+Abstract    :
+              Compiler Support for Advanced Computer Architectures
+
+Compilers are essential
+              to the spectacular advances in the speed of model microprocessors.  To
+              acccelerate  programs, both compilers and microprocessors identify, and then
+              hide, potential execution bottlenecks.   Despite well-designed memory systems,
+              placing and keeping needed data in the fastest locations is problematic.   This
+              proposal will investigate a number of compiler-based techniques that identify
+              and hide or eliminate a variety of execution bottlenecks:
+
+ (1) When memory
+              delays are encountered, techniques that predict expected data values can be
+              invoked. This allows computation based on predicted values during memory
+              delays. Techniques that simultaneously handle of number of possible result
+              values during memory delays will be studied. These techniques enhance the
+              accuracy of predictions, utilizing effectively the computational resources of
+              microcomputers.
+
+(2) Modern microprocessor designs extend the size and
+              capabilities of registers (local memory). This proposal will enhance previous
+              allocation results to handle extended register sets. Faster and more effective
+              user programs will result.
+
+(3) Compilers improve program performance by
+              identifying computations that are fixed (invariant) within a program. This
+              proposal will extend compilers to handle nearly-invariant computations that
+              span a limited range of values.  Underutilized computational resources can be
+              employed to anticipate and precompute such values.
+
+

@@ -1,0 +1,58 @@
+Title       : Dynamic Resource Allocation for Wireless Multimedia DS-CDMA
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 16,  2001       
+File        : a9903055
+
+Award Number: 9903055
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $435000             (Estimated)
+Investigator: Michael L. Honig mh@ece.nwu.edu  (Principal Investigator current)
+              Scott Jordan  (Co-Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4096,9218,HPCC,
+Abstract    :
+              This research is concerned with techniques for supporting integrated services
+              over a wireless cellular network.  A fundamental problem is how to allocate
+              radio resources to different users to optimize an overall network objective
+              criterion while satisfying Quality of Service constraints.  Wireless networks
+              based on Direct-Sequence (DS)-Code-Division Multiple Access (CDMA) networks are
+              considered, since DS-CDMA is a strong contender for next generation cellular
+              systems.  Radio ``resources'' in a DS-CDMA network include transmitted powers,
+              processing gains, and number of assigned codes.  The focus of this research is
+              on Dynamic Resource Allocation (DRA) in the presence of time-varying user
+              requests.  The goals are to (1) Develop techniques for DRA given multiple
+              traffic flows with different Quality of Service (QoS) requirements, and (2)
+              Characterize performance/complexity tradeoffs associated with
+these techniques
+              given simple traffic and propagation models.
+
+The investigators consider a
+              series of problems and approaches for DRA  in a CDMA network based on
+              progressive refinements of the system model. First, they consider a single
+              class of data traffic flows within an isolated cell.  Reliability is assumed to
+              be guaranteed through retransmissions, and DRA is studied
+in the presence of
+              time-selective fading. Two traffic flows, representative of voice and data, are
+              then introduced (in the absence of fading), and the relationship between
+              reassignment of resources and admission control is studied.  DRA in a
+              multi-cell system is also considered taking into account measurement-based
+              power constraints which limit interference to other cells.  Finally, pricing is
+              investigated as a method for DRA which accounts for user utilities. Methods for
+              dynamic pricing are studied in the context of the models previously
+              described.
+
+

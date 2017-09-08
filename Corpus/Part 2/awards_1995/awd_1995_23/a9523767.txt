@@ -1,0 +1,61 @@
+Title       : New Techniques for Audio, Image, and Video Compression
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 18,  1996     
+File        : a9523767
+
+Award Number: 9523767
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1996      
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $369092             (Estimated)
+Investigator: William A. Pearlman pearlman@ecse.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+                NCR-9523767  Pearlman, William A.  Rensselaer Polytechnic Institute  New
+              Techniques for Audio, Image, and Video Compression    The goal of this research
+              is to investigate more effective  techniques for digital audio, image, and
+              video data compression.   For audio, the intention is to employ more efficient 
+              entropy-constrained, conditional and unconditional, quantization in  the coding
+              of the critical subbands of the MPEG audio standard.   The dependence of the
+              subbands is next exploited using set  partitioning in hierarchical trees
+              (SPIHT) as done originally in   embedded, wavelet, zerotree coding of images. 
+              The resulting  embedded coding allows delivery of different qualities of
+              service  with a single compressed bit stream.  A newly developed SPIHT 
+              procedure, which obtained probably the best-to-date monochrome,   still image
+              results (lossy or lossless) and with extremely fast  encoding and decoding, is
+              utilized for audio and also for color  image and video coding.  The extremely
+              fast execution of the SPIHT  coding procedure makes it especially suitable for
+              video, where a  requirement of real-time coding becomes an insurmountable
+              obstacle  for other procedures. Both lossy and lossless coding are 
+              investigated, as they fit naturally into the SPIHT framework.  It is expected
+              that the results will surpass those of existing  standard systems, which do not
+              produce naturally embedded code, and  are far more complex operationally and
+              hence slower in execution.   Other investigations involve the use of
+              information theoretic  criteria to create optimal adaptive subband compositions
+              and the  use of trellis coded quantization (TCQ) in block discrete cosine 
+              transform (DCT) and lapped orthogonal transform (LOT) coding.  The  adaptive
+              subband decompositions pay off in better compression for  a given subband
+              coding technique.  TCQ coding brings an efficient,  but complex technique
+              operating on transform blocks, which preserve  regional characteristics of the
+              image.  Finally, the SPIHT coding  algorithm pr ovokes several theoretical
+              questions which are  addressed. Among them are the minimal information rates to
+               determine octave ranges of random variables and convey subset  partition
+              numbers and element numbers, and the mutual information  between significant
+              bits of dependent random variables and between  their respective residual bits.
+               Satisfactory answers to these  questions will lead to more efficient coding
+              techniques with  decreased complexity.

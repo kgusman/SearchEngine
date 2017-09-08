@@ -1,0 +1,43 @@
+Title       : Lemma Generation and Failure Heuristics for an Induction Theorem Prover (RRL)
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 9,  1999   
+File        : a9996150
+
+Award Number: 9996150
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 15,  1999   
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $220962             (Estimated)
+Investigator: Deepak Kapur kapur@cs.unm.edu  (Principal Investigator current)
+Sponsor     : University of New Mexico
+	      Sholes Hall
+	      Albuquerque, NM  87131    /   -
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project extends the lemma generation heuristics and failure  analysis of
+              induction schemes in an induction and rewrite-rule  based theorem prover called
+              Rewrite Rule Laboratory (RRL).  Finding an appropriate induction scheme and
+              speculation of  intermediate lemmas are critical steps in mechanization of
+              proofs  by induction.  For theorem provers to be effective for  applications,
+              it is essential that a theorem prover be able to  automatically perform
+              inference steps considered routine in the  application domain. This can be
+              achieved, to a considerable  extent, with the help of decision procedure for
+              data structures  used to model the application domain.  Further, these decision
+               procedures should be tightly integrated with other inference  steps and
+              heuristics including simplification (rewriting),  generation of induction
+              schemes and their analysis vis a vis  likelihood of success, lemma speculation,
+              and appropriate  instantiations of definitions and lemmas needed in proof 
+              attempts.  Motivated by the application of hardware verification,  this project
+              seeks to design and implement decision procedures  for data structures
+              including bits, bit vectors, numbers, lists  and sequences, and arrays, and
+              integrate them in the induction  based prover RRL.

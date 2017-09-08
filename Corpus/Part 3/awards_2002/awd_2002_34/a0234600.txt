@@ -1,0 +1,105 @@
+Title       : Obtaining Highly Dependable Communication Protocols
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 18,  2002 
+File        : a0234600
+
+Award Number: 0234600
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2006  (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Sandeep K. Gupta sandeep@poisson.usc.edu  (Principal Investigator current)
+              Ahmed Helmy  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 7214      HIGHLY DEPENDABLE COMPUTING
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Communication protocols form an integral part of many complex 
+software
+              systems. In many such systems, protocols' impact on
+system dependability far
+              exceeds the fraction of the total 
+number of lines of code devoted to their
+              implementation. 
+Unfortunately, there exists virtually no systematic approach
+              for 
+design and evaluation of protocols that considers
+              dependability.
+
+Previously, we have developed a systematic, semi-automatic
+              
+approach for validation of communication protocols. Our approach 
+uses
+              semi-formal representations of protocols and efficient search 
+(forward search
+              as well as fault-oriented test generation) to 
+analyze protocols over the
+              entire range of scenarios, including 
+external events, faults (such as loss of
+              packets, communication 
+link failures, loss of state in communication nodes,
+              and so on), 
+as well as network topologies. The effectiveness of our approach
+              
+has been demonstrated via its application to a varied range of
+              
+protocols.
+
+In this project, we will undertake three main tasks. First, we
+              
+will extend our previously developed framework to compute values 
+of
+              appropriate dependability metrics for existing protocols of 
+interest to the
+              NASA and the HDCCSR community. Second, we will 
+develop the first systematic
+              approach to design new protocols that 
+satisfy desired dependability criteria.
+              Finally, we will use 
+the testbed provided by NASA in conjunction with the
+              expertise 
+and software made available by NASA and other HDCCSR researchers
+              
+to fine-tune our approaches and to demonstrate that: (i) accurate 
+values of
+              dependability metrics can indeed be computed for 
+existing communication
+              protocols using a systematic, semi-
+automatic approach, (ii) new protocols can
+              be designed in a 
+systematic, semi-automated manner to meet desired
+              dependability 
+criteria, and (iii) enhancements in the dependability of
+              
+communication protocols can indeed significantly enhance the
+              
+dependabilities of many software-hardware systems of interest to 
+NASA and
+              the HDCCSR community. 
+
+In addition to above technical contributions, the
+              proposed 
+research will have broader impact on society. First, results of
+              
+the proposed research will enable improvements in dependability 
+of critical
+              infrastructure, such as the air-traffic control 
+system. Second, the research
+              will develop new approaches and 
+practical case studies that will provide us
+              with a unique 
+opportunity to educate a large and  diverse student body in
+              
+techniques for development of dependable protocols and systems. 
+

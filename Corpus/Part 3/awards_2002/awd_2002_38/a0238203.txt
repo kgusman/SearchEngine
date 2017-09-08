@@ -1,0 +1,51 @@
+Title       : CAREER: Correctness-Performance Partitioned (CPP) Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 4,  2003   
+File        : a0238203
+
+Award Number: 0238203
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2003   
+Expires     : January 31,  2008    (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Amir Roth amir@cis.upenn.edu  (Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,1187,9215,HPCC,
+Abstract    :
+              The performance, cost, and power requirements of future applications will strain
+              the incumbent sequential processing models.  Simultaneously, implementation
+              trends point towards partitioned (rather than monolithic) designs. 
+              Correctness-performance partitioning (CPP) is a promising approach that
+              exploits partitioning while accommodating existing sequential software. CPP
+              divides execution responsibilities among multiple processing partitions. The
+              correctness (C) partition produces the sequential instruction stream expected
+              by the programmer and inter-operating applications. One or more optional
+              performance (P) partitions accelerate the C-partition by warming up its caches
+              and supplying it with pre-computed values.  With minimal performance
+              responsibilities, C-partitions can be simple, compatible, and reusable. 
+              With
+no correctness requirements, P-partitions can be simple, powerful, and
+              efficient.  C and P partitions can be composed to form efficient designs for
+              different processing niches.  A single C-partition can be used in isolation (or
+              with a simple P-partition) as a power-conscious embedded processor. Multiple C
+              and P partitions can be combined to create a high-performance server processor.
+               The CPP approach simplifies both software and hardware development.
+
+Two
+              instances of CPP have been previously studied. We have developed a new
+              value-communication mechanism that enables others.  We will explore the
+              theoretical aspects of CPP and the practical implications of promising
+              schemes.
+

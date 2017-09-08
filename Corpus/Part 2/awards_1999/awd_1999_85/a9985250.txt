@@ -1,0 +1,99 @@
+Title       : PECASE: OceanStore: An Oceanic Data Utility for Ubiquitous, Highly-Available,
+               Reliable, and Persistant Storage
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 24,  2001      
+File        : a9985250
+
+Award Number: 9985250
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $399948             (Estimated)
+Investigator: John D. Kubiatowicz kubitron@cs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,1187,9102,9218,HPCC,
+Abstract    :
+                   This is an NSF CAREER/PECASE grant proposal for research into Extremely
+              Wide-Area StorageSystems (EWASS). Ideally, such storage systems are
+              highly-available from anywhere in the network, exploit automatic replication
+              for disaster recovery, employ strong security by default, and provide
+              performance that is similar to that of local storage under numerous
+              circumstances. Further, such systems are self-repairing, providing automatic
+              serviceability and maintainability.
+     The research  envisions a utility
+              model in which users pay a monthly fee to one particular "utility provider"
+              while consuming resources from many providers. The utility providers buy and
+              sell capacity amongst themselves in direct analogy to the deregulated electric
+              industry. A demand for capacity or bandwidth in one region of the country would
+              encourage entrepreneurs to bring additional services online. One of the key
+              requirements for such utilities is nomadic data, i.e., data that is free to
+              migrate and be replicated anywhere within the system. Nomadic data lends itself
+              to fluid analogies (data is free to "flow" wherever it is needed) and permits
+              flexible exploitation of spatial locality. This property is in contrast to
+              existing distributed systems that confine their data to a small number of
+              physical servers within the network.
+     Given the fluid analogy, the EWASS
+              prototype described within this proposal is called the "Oceanic Data Utility"
+              or "OceanStore".  The project outlines five assumptions for the OceanStore
+              utility:
+     (1) The "Mostly Well-Connected" Assumption: Most of the network
+              is comprised of high-bandwidth links
+and periods of disconnection are brief -
+              even at the leaves.
+      (2) The "Promiscuous Caching" Assumption: Data can
+              be cached anywhere, anytime.
+      (3)The "Operations-based Interface with
+              Conflict Resolution" Assumption: Applications utilize an operation-based
+              interface that is oriented toward conflict resolution.
+      (4)The "Untrusted
+              Infrastructure" Assumption: The infrastructure is fundamentally untrusted. This
+              means that only ciphertext is stored in the network.
+      (5)The "Responsible
+              Party" Assumption: Each repository of data has at least one responsible party
+              that is charged with knowing where the data actually resides and ensuring that
+              it is properly replicated.
+     These assumptions define the OceanStore
+              infrastructure. In constructing this infrastructure, the research proposes to
+              utilize a number of technologies, some of them mature, others relatively new:
+
+                   (1)Organization of data as a series of "pools" of information. Each pool
+              will include a randomized tree indexing structures (e.g., treaps) connected via
+              Bloom-filter summaries.
+      (2)Transaction-like operation structures to
+              describe updates and permit infrastructure-side conflict resolution (similar to
+              Bayou), combined with incremental cryptographic techniques to operate directly
+              on encrypted information in the infrastructure.
+      (3)Use of
+              erasure-tolerant coding and replication to enhance the survivability of data.
+
+                  (4)  Online Introspection to detect and exploit patterns of access in order
+              to optimize the position of nomadic data.
+     The research proposes two
+              distinct phases of OceanStore prototype, one read-only, the other complete with
+              conflict resolution. This phased style of implementation permits incremental
+              testing and analysis of components of the system that are somewhat orthogonal.
+              Further, we propose to use the OceanStore infrastructure to enhance education
+              at Berkeley in several ways. Among them:
+      (1) Collaborate with other
+              faculty to combine the persistent storage system with experimental wireless
+              infrastructures in order to exploit online content during class and to provide
+              novel faculty/student interactions at nonstandard venues such as cafes.
+     
+              (2) Provide a fundamental infrastructure for undergraduates and graduates
+              exploiting the consequences of ubiquitous computing.
+     OceanStore provides
+              a foundation for ubiquitous computing, and as such will doubtless have a major
+              impact on educational paradigms.
+

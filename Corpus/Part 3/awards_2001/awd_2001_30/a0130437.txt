@@ -1,0 +1,73 @@
+Title       : SOFTWARE: High-level Programming Methodologies for Data Intensive Computations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 21,  2003   
+File        : a0130437
+
+Award Number: 0130437
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2002   
+Expires     : January 31,  2005    (Estimated)
+Expected
+Total Amt.  : $350981             (Estimated)
+Investigator: Gagan Agrawal agrawal@cis.ohio-state.edu  (Principal Investigator current)
+              Joel H. Saltz  (Co-Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Road
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4080,9216,HPCC,
+Abstract    :
+              Solving problems that have large computational and storage requirements is
+              becoming increasingly critical for advances in many domains of science and
+              engineering. Runtime and compiler technology can significantly accelerate
+              advances in such domains by enabling the programming of algorithms for these
+              problems at very high levels of abstraction. Our research focuses on an
+              important class of scientific and engineering problems: data intensive
+              computations. Such computations arise in many domains of scientific and
+              engineering research. We are targetting two high-level programming models for
+              this class of computations:
+
+1. Object-Oriented (Java-Based): Object-oriented
+              features like encapsulation and polymorphism can ease software development and
+              allow better long-term management of large computational projects. We are using
+              a dialect of Java for expressing data intensive computations. An initial
+              prototype compiler for this dialect of Java has been built. Our compiler uses
+              static interprocedural slicing technique to extracting required functions for
+              utilizing an existing runtime system, Active Data Repository (ADR). 
+
+ 2.
+              Declarative (XQL-Based): The very high-level nature of declarative languages
+              can allow rapid prototyping of new computational techniques. XML (Extensible
+              Markup Language) is getting accepted as the format for the logical layout of
+              data which may be made available over the web or exchanged between
+              organizations. We will make extensions to XML Schemas for expressing
+              multidimensional collections of elements. We also will also make extensions to
+              XQL, which is a query language for XML documents, for expressing processing of
+              large datasets.
+  
+We propose innovative research in five important
+              areas:
+
+1. Execution Strategies for Disk Resident Datasets.
+ 
+2. Advanced
+              Symbolic Analysis. 
+
+3. Interprocedural Code Motion Techniques for
+              Object-Oriented Programs. 
+
+4. Combined Compiler and Runtime Techniques for
+              Locality Management. 
+
+5. Advanced Interprocedural Slicing Techniques for
+              Object-Oriented Languages.
+
+

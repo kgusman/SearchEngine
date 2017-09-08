@@ -1,0 +1,84 @@
+Title       : Intelligent Control: A Dynamic Game Approach
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 1,  2001       
+File        : a9727805
+
+Award Number: 9727805
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: John S. Baras baras@isr.umd.edu  (Principal Investigator current)
+              Nital S. Patel  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              9727805
+Baras
+The proposed work aims to extend results in reinforcement
+              learning theory to dynamic game problems relevant to output feedback robust
+              nonlinear control. There are two primary motivations for this:
+(a).To develop
+              schemes to overcome the prohibitive computational cost encountered while
+              designing and implementing robust nonlinear controllers.
+(b).Employ the
+              dynamic game framework as a stepping stone leading to the development of an
+              analytical machinery suitable for posing, and solving intelligent control
+              problems.
+The former is concerned primarily with off-line schemes for
+              approximating the key equations, and development of techniques to efficiently
+              compute and represent the control policy. The latter is concerned with on-line
+              schemes, where one needs to integrate identification, control, and the ability
+              to improve performance in finite amount of time1 with finite computational
+              resources. The latter has less available information on system model and
+              environment; thus learning is an essential component of the methodology.
+With
+              these objectives in mind, special emphasis needs to be placed on obtaining
+              algorithms that exhibit good finite time performance, and do so with finite
+              amount of resources (computational). Furthermore, in order to efficiently
+              integrate the components of the resulting architectures, one needs to also
+              develop (finite time) performance bounds for these algorithms. The approach
+              calls for first studying the problem in the context of finite state automata,
+              and then extending the results to discrete time dynamical system models. The
+              proposed work intends to study:
+(a).Extensions of reinforcement learning to
+              obtain finite time performance bounds.
+(b).Development of schemes to directly
+              identify the information most relevant for control (information state), and to
+              do so with specified accuracy in a finite amount of time. This calls for the
+              development of measures of risk to tradeoff exploration and control for on-line
+              implementation.
+(c)Model structures in. (b) that lead to reduction in
+              complexity, and lend themselves to efficient learning.
+(d).Extension of the
+              current analytical framework for studying reinforcement learning to account for
+              the unpredictability associated with intelligence.
+(e).Exploiting the
+              relationship between risk-sensitive control and dynamic games to harness the
+              structure offered by probability theory.
+(f).Development of architectures, and
+              software that efflciently implement the algorithms obtained.
+Results obtained
+              from this research project, coupled with the development of appropriate
+              complexity metrics would result in a framework for posing, and analyzing a wide
+              variety of intelligent control problems. Such an approach would lead to
+              controllers that are inherently robust, yet capable of adapting their behaviour
+              to perceived changes in the system/environment. The results would be applicable
+              to computation and implementation of robust nonlinear control at one end, to
+              truly autonomous control for large, complex systems at the other. Specific
+              applicatlon domains include chemical process control, semiconductor
+              manufacturing, and control of large communication networks.  
+***  
+

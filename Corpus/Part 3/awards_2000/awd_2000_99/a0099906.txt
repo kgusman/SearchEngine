@@ -1,0 +1,61 @@
+Title       : Model Complexity Control for Predictive Learning
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 21,  2001 
+File        : a0099906
+
+Award Number: 0099906
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2001 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $150236             (Estimated)
+Investigator: Vladimir S. Cherkassky cherkass@ece.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 0000,OTHR,
+Abstract    :
+              0099906
+Cherkassky
+
+This proposal will attempt to develop new approaches to
+              the statistical foundations of learning, which are fundamental to the
+              performance and capability of all learning systems, including intelligent
+              control.
+
+Many learning algorithms are based on the idea of 'empirical risk
+              minimization', which amounts to choosing the model that minimizes the number of
+              errors on the training data. However, the goal of learning is often to obtain a
+              model providing minimal prediction risk, i.e. error for (unknown) future data.
+              It is well-known that for a given training sample there exist a model of
+              optimal complexity corresponding to the smallest prediction (generalization)
+              error for future data. Hence, any method for learning from samples need to have
+              some provisions for complexity control. Existing implementations of complexity
+              control include penalization (or regularization), weight decay (in neural
+              networks), and various greedy procedures (i.e. stepwise regression).
+
+There
+              are three (generic) problems common to all methodologies for complexity
+              control. First, one needs to define a meaningful complexity index for a set of
+              (parameterized) functions (admissible models). Second, one needs to estimate
+              the prediction risk from the (known) empirical risk; such estimates are known
+              as model selection criteria in statistics. Third, there is a problem of finding
+              a global minimum of the empirical risk (or penalized empirical risk).  This
+              project will attempt to extent Vapnik-Chervonenkis (VC) theory in order to
+              provide a principled solution to these problems.
+
+This research is intended
+              to improve theoretical understanding of signal estimation and to develop new
+              practical methods for signal denoising.  The PI shall develop new methods for
+              estimation/denoising of 1D and 2D signals (images) and compare them with
+              existing wavelet denoising methods.
+

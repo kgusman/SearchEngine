@@ -1,0 +1,52 @@
+Title       : SBIR Phase I: Speculative Compilation for Energy Efficency
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 18,  2002  
+File        : a0231492
+
+Award Number: 0231492
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan E. Figueroa                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2003    
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Csaba Moritz andras@ecs.umass.edu  (Principal Investigator current)
+Sponsor     : BlueRISC
+	      28 Dana Street
+	      Amherst, MA  010022206    413/545-2442
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 9216,HPCC,
+Abstract    :
+                   This Small Business Innovation Research Phase I project will outline a plan
+              to commercialize the retargetable power-aware compilation technology that we
+              have developed over the past several years. The central thesis of this proposal
+              is that much speculative information about a program can be extracted at
+              compile time that is currently not exploited. This information can then be
+              exposed and used in making operational decisions (such as throttling various
+              system sub- units) to reduce power consumption with minimal (or no) impact on
+              performance. Our approach relies primarily on compiler-based energy reductions,
+              rather than on circuit and architectural techniques. The key difference between
+              our work and that of others is that we do not require all our compiler-derived
+              information to be provably correct: all that we require is that predictions are
+              correct often enough that they can be usefully exploited in making
+              resource-control decisions. Relaxing the requirement to be provably correct in
+              making predictions (of, for instance, the instruction-level parallelism of
+              certain portions of a program) greatly reduces the complexity of otherwise
+              highly sophisticated analysis techniques (e.g., flow-sensitive alias analysis)
+              and expands their scope to large and complex applications. 
+     Extensive
+              preliminary work has been carried out to validate this approach. We believe
+              this approach is orthogonal to many other power-aware approaches currently
+              being used, and that its effects can be additive to these traditional
+              approaches. Further, the nature of our approach lends it to being retrofitted
+              to current technology. Extensive analysis of the significant power-aware
+              computing market indicates the high level of applicability of our techniques to
+              a very wide range of applications.
+

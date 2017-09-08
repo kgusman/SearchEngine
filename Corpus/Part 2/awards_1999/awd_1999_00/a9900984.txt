@@ -1,0 +1,52 @@
+Title       : Modular Deductive-Algorithmic Verification of Hybrid Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 26,  2001     
+File        : a9900984
+
+Award Number: 9900984
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : November 30,  2002   (Estimated)
+Expected
+Total Amt.  : $275000             (Estimated)
+Investigator: Zohar Manna zm@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9900984    Manna, Zohar    Stanford University
+Title:  Modular
+              Deductive-Algorithmic Verification of Hybrid Systems
+
+The proposal describes
+              techniques to integrate modular and deductive-algorithmic verification for
+              reactive systems.  The goal is to verify, more automatically, larger systems
+              than is possible by either technique alone.  The proposed techniques feature a
+              tight integration of abstraction techniques and modular verification; they
+              include: (1) Modular Deductive Model Checking: environmental assumptions needed
+              to complete modular proofs are derived as part of the proof.  (2) Modular
+              Abstraction and Invariant Generation:  invariants of modules are generated
+              based on abstractions with different classes of assumptions on their
+              environment. (3) Modular Techniques for Hybrid Systems: assumptions are
+              generated for a continuously evolving environment.  The proposed research will
+              allow the partial verification of open systems, before their components are
+              fully specified or their environment is known. Since these methods require less
+              interaction, it is feasible to perform more checks on early versions of a
+              system being designed.  The techniques will be applicable to general
+              infinite-state reactive systems.  In particular, they will be applied to the
+              challenging problems posed by hybrid systems. The techniques will be
+              implemented in the framework of the STeP (Stanford Temporal Prover)
+              
+verification system, and used to verify a complex hybrid system as a case
+              study.
+

@@ -1,0 +1,49 @@
+Title       : Image Database: Handling Multiple Objects and Spatial Information
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : December 22,  1999  
+File        : a9712715
+
+Award Number: 9712715
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : December 31,  2000   (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Hanan Samet hjs@umiacs.UMD.EDU  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              The goal of this research project is to investigate issues involved in the
+              implementation of image databases containing symbols. The issues involve the
+              specification of queries with a preference given to a graphical specification
+              as well as the development of algorithms to process the queries. A query is
+              specified with exemplars of the symbols that are to be found in the database.
+              The symbols in the database are not necessarily classified in advance thereby
+              permitting variation in the quality of the match. Queries to the database
+              involve matching contextual, and spatial constrains. The order in which he
+              different constraints are checked for satisfaction is not fixed, the query
+              optimizer chooses the optimal order. The query images can contain one or more
+              instances of each symbol. The user can specify if all of the symbols must
+              satisfy the spatial constraints or if a maximal subset is also permitted. In
+              the latter case, there is a need for a specification technique for the required
+              subset as well as for the response. The spatial constraints include topological
+              relations such as overlap, encloses, and intersects as well as distance and
+              direction. The symbols are not restricted to point objects thereby also
+              including objects with extent such as lines and areas. The query processing and
+              specification method is integrated with an existing spatial and non-spatial
+              database to enable queries about non-spatial attributes of objects
+              corresponding to the symbols. The results of this research will improve the
+              ability of symbolic image databases and geographic information systems (GIS) to
+              efficiently handle large spatial problems, e.g., adding fiber cables in city
+              planning.

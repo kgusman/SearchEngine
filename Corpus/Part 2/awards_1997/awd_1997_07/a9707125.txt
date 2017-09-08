@@ -1,0 +1,58 @@
+Title       : New Generation Multithreaded Multiprocessors
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : January 9,  2001    
+File        : a9707125
+
+Award Number: 9707125
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1997      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $400002             (Estimated)
+Investigator: Jean-Luc Gaudiot   (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is experimenting with languages, compilers, and architectures for 
+              large-scale multiprocessors based on functional programming and single
+              assignment  data structures.  The project includes work at USC on translators
+              for functional  languages, and work at the University of Delaware on
+              architectures and  simulations.  The key insight motivating the work is that
+              functional programming  can increase performance of multithreaded systems.  One
+              increase of performance  comes from the ability to move threads among
+              processors.  Another is the  possibility that single assignment data structures
+              can be cached with no need for  coherence traffic, potentially increasing
+              performance of parallel systems.   Research will include development of a
+              program execution model and memory model,  design of a cache management
+              protocol for single-assignment data structures,  translation of benchmarks such
+              as SPLASH 2 into a functional language, and  simulation of the benchmarks
+              running on the new execution model with cache  protocol.  The goal is to
+              measure the extent to which the new models and cache  protocols provide a
+              performance advantage over execution models that permit  multiple assignments. 
+              This project is experimenting with languages, compilers, and architectures for 
+              large-scale multiprocessors based on functional programming and single
+              assignment  data structures.  The project includes work at USC on translators
+              for functional  languages, and work at the University of Delaware on
+              architectures and  simulations.  The key insight motivating the work is that
+              functional programming  can increase performance of multithreaded systems.  One
+              increase of performance  comes from the ability to move threads among
+              processors.  Another is the  possibility that single assignment data structures
+              can be cached with no need for  coherence traffic, potentially increasing
+              performance of parallel systems.   Research will include development of a
+              program execution model and memory model,  design of a cache management 
+              protocol for single-assignment data structures,  translation of benchmarks such
+              as SPLASH 2 into a functional language, and  simulation of the benchmarks
+              running on the new execution model with cache  protocol.  The goal is to
+              measure the extent to which the new models and cache  protocols provide a
+              performance advantage over execution models that permit  multiple assignments.

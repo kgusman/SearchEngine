@@ -1,0 +1,129 @@
+Title       : Collective Communication in Wormhole-Routed Massively Parallel Computers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 12,  1997     
+File        : a9503838
+
+Award Number: 9503838
+Award Instr.: Continuing grant                             
+Prgm Manager: Anand R. Tripathi                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1995     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $208200             (Estimated)
+Investigator: Philip K. McKinley mckinley@cse.msu.edu  (Principal Investigator current)
+Sponsor     : Michigan State University
+	      
+	      East Lansing, MI  48824    517/355-1855
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+                The supercomputing industry is now dominated by parallel  architectures.  In
+              many such systems, memory is physically  distributed among  processors in order
+              to achieve better  scalability, requiring nodes to  communicate through a 
+              network. In order to reduce communication latency, many  systems have the
+              wormhole-routing switching strategy, in  which messages are  pipelined through 
+              and a single  destination, or collective. Communication  operations may be 
+              either point-to-point, which involves a single source and a  single
+              destination, or collective, in which more than two  processes  participate. 
+              Collective communication operations  are particularly important in  scientific
+              computing, where  large data arrays are distributed over the local  memories of
+               the nodes, but are manipulated through single operations.    This  research
+              project addresses the design of collective  communication operations  for
+              wormhole-routed networks.  The  research is intended to explore  architectural
+              and  algorithmic alternatives in the design of communications  subsystems for
+              next generation wormhole-routed networks.    The project can be  divided
+              approximately into four subareas.  First, both models will be used to  develop
+              new algorithms  for collective operations in addition to those already  under 
+              investigation.  Target platforms will include both direct  networks, as  well
+              as wormhole-routed switch-based  interconnects. Second, the resulting 
+              algorithms will be  applied in order to support higher-level parallel 
+              programming constructs, such as virtual process topologies,  parallel I/O 
+              operations and distributed shared memory.  Third, the resulting communication 
+              services will be used to  improve the performance of parallel applications,  in
+              particular parallel numerical algorithms.  Finally, the use of the new  models
+              will be investigated in  wormhole-routed systems that  serve purposes other
+              than parallel computing, such  as high  speed local area networks.  The methods
+              used will be  analysis,  simulation, and experimental studies on commercial 
+              wormhole-routed systems.  The significance of this research is that it will
+              provide  new solutions to the  communication needs of parallel  applications. 
+              Besides providing a better  understanding of  the issues and problems that must
+              be addressed in design and  use of collective operations in wormhole-routing
+              systems,  this project will  produce tangible results in the form of  new
+              protocols, prototype  implementations of new algorithms,  and new applications
+              software, all of which  will be made  publicly available for use by other
+              researchers.                                                                   
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                          

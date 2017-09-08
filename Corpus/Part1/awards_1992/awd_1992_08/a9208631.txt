@@ -1,0 +1,43 @@
+Title       : High-Performance File Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1994  
+File        : a9208631
+
+Award Number: 9208631
+Award Instr.: Continuing grant                             
+Prgm Manager: Anand R. Tripathi                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1992      
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $171903             (Estimated)
+Investigator: Jon A. Solworth solworth@parsys.eecs.uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2876,9139,9216,HPCC,
+Abstract    :
+                   The Delta File System is a high-performance Unix file                     
+              system design which supports both operating systems and database               
+              semantics using a threaded log.  The log records only  meta                    
+              information changes; file blocks are handled as in traditional                 
+              Unix file systems.  The log enables implementation of atomicity                
+              at the operating system level while increasing the performance                 
+              of common file system operations, such as the creation and                     
+              deletion of files.  A threaded log enables very fine granularity               
+              of locking.                                                                    
+                   The research consists of constructing a new high-                         
+              performance file system for Unix, and investigating the                        
+              tradeoffs in three related areas, performance, device                          
+              independence, and fault tolerance.  This entails designing and                 
+              implementing new file system algorithms, measuring their                       
+              performance and the properties of file systems, and clarifying                 
+              the tradeoffs between different techniques.

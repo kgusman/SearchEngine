@@ -1,0 +1,42 @@
+Title       : RIA: Block Transform Domain Digital Filter: Theory and Implementation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 18,  1992  
+File        : a9211495
+
+Award Number: 9211495
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1992    
+Expires     : March 31,  1996      (Estimated)
+Expected
+Total Amt.  : $94950              (Estimated)
+Investigator: Seung P. Kim skim@signal.poly.edu  (Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 4720,
+Abstract    :
+              Kim         This research focuses on digital filtering in a Block  Transform
+              Domain (BTD). Such an approach can offer performance  improvements close to the
+              data compression ratio without  significantly increasing the system cost. This
+              is because when  the number of bits used in the signal representation is
+              reduced,  the errors due to finite precision computations can be reduced 
+              through proper bit allocations within the transform coefficient 
+              representations and filtering computations and by eliminating  intermediate
+              steps such as an inverse block transform.         Mathematical descriptions and
+              properties of the BTD filters  are being examined. Minimum roundoff filter
+              design are also being  investigated for state-space and lattice as well as FIR 
+              structures in the block transform domain. In order to implement  the resulting
+              nonuniform precision computations, a Block  Parallel, Bit-Serial (BPBS)
+              approach is proposed. The resulting  structure is regular and permits faster
+              computation by taking  advantage of the compressed signal representation.      
+                                                              

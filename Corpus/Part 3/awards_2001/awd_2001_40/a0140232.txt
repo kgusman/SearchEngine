@@ -1,0 +1,63 @@
+Title       : Development of Procedures to Analyze Queueing Models with Heavy-Tailed
+               Interarrival and Service Times
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0140232
+
+Award Number: 0140232
+Award Instr.: Continuing grant                             
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $299741             (Estimated)
+Investigator: Donald Gross dgross1@gmu.edu  (Principal Investigator current)
+              John Shortle  (Co-Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0107000   Operations Research                     
+Program Ref : 9147,MANU,
+Abstract    :
+              This study is concerned with developing procedures for modeling queues with
+              heavy-tailed distributions for interarrival and/or service times.     These
+              type of probability distributions decay much slower than exponential.
+              Distributions of this type render queueing analyses very difficult, in that the
+              Laplace-Stieltjes transforms (LSTs) of interarrival and/or service times, which
+              play such a crucial role in analytical queueing theory, often do not have
+              closed form.  Previous researchers, to get around this, have approximated these
+              heavy-tailed distributions by families of exponentials. The approaches proposed
+              herein avoid the problems and pitfalls of finding approximating distributions
+              by using the actual heavy-tailed distributions themselves. One method
+              approximates the LSTs needed to produce the output measures (waiting-time and
+              system-size distributions) of interest by directly approximating the LSTs using
+              a discretized version of the heavy tailed distribution itself (transform
+              approximation method [TAM]). Another method avoids using the LST directly by
+              solving an integral equation involving the complementary cdf of the
+              heavy-tailed distribution (level crossing method [LC]). While discrete-event
+              simulation is an alternative to analytical queueing analyses, this also has its
+              limitations in that it usually can only produce mean measures of output
+              performance. It also has difficulty simulating certain of the heavy-tailed
+              distributions, especially with large coefficients of variation (standard
+              deviation divided by mean). New procedures for discrete-event simulation
+              involving quantile estimators are also proposed.
+
+The usual assumptions that
+              made queueing analyses so productive (Poisson arrivals and exponential-type
+              holding times) clearly do not hold when arrivals and holding times are
+              heavy-tailed.  These distributions are important, however, in modeling some
+              important situations. The impact of this research can benefit a variety of
+              areas where heavy-tailed distributions come into play, such as the analysis of
+              extreme events in insurance claims and risk models and some Internet traffic
+              situations. Developing analytic/numeric queueing theoretic procedures and
+              better ways of simulating traffic congestion for general distributions
+              (heavy-tailed as well as any other type) can provide very effective additional
+              tools in the queueing modeler's arsenal. 
+

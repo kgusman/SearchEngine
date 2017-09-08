@@ -1,0 +1,90 @@
+Title       : Computing with Shapes: Reconstruction and Decimation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 1,  2000  
+File        : a9988216
+
+Award Number: 9988216
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $215221             (Estimated)
+Investigator: Tamal K. Dey   (Principal Investigator current)
+Sponsor     : Ohio State University
+	      1960 Kenny Rd
+	      Columbus, OH  432101016    614/422-6446
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Computing with Shapes: Reconstruction and Decimation
+Tamal Dey
+Ohio
+              State
+
+
+Computations with shapes are prevalent in a number of application
+              areas ranging over CAD/CAM, medical imaging, physical simulations and so on. We
+              propose studying two of these computations, namely,  reconstruction and
+              decimation. The choice of these two operations is prompted by their imminent
+              relevance in applications, our ongoing research on them, and their rich
+              theoretical challenges. We focus mainly on low dimensional shapes such as
+              curves and surfaces in two and three dimensions. These shapes are ubiquitous in
+              applications and  their understanding is essential to move forward to higher
+              dimensional shapes.
+
+By reconstruction we mean computing a piecewise linear
+              approximation of a shape from a set of sample points. Modern technology with
+              laser scanners has made it easy to obtain a dense set of sample points from the
+              boundary of an object. A piecewise linear approximation from these sample
+              points help to model the object for prototyping, visual inspection, and further
+              reengineering. The problem has been studied by graphics community who used
+              numerical approaches to the problem. Computational geometers attacked the
+              problem with ideas from discrete and differential geometry. Although a
+              considerable success has been made by these approaches, there are growing
+              demand from the industry to handle shapes with boundary, sharp features, noise
+              which cannot be tackled robustly with the current methods. 
+
+Decimation of a
+              shape is the process of reducing the size of the data structure representing
+              the shape. The model reconstructed from a sample may have a large number of
+              elements such as triangles since the input sample set is typically large. Such
+              a model with large number of elements becomes unwieldy for further processing
+              such as graphic rendering or physical simulations. A standard strategy is to
+              reduce the number of triangles by edge contractions. In this method selected
+              edges are contracted to a new vertex. All incident simplices are contracted
+              accordingly. Different kinds of demands on the geometry and topology of the
+              shapes during decimation are put forward by multitude of applications. While
+              some of the applications need to preserve the topology, the others want to
+              change it in a controlled manner. The investigator with other researchers in
+              the community studied the problem of preserving topology during edge
+              contractions. The question of allowing topology change in a controlled manner
+              is still largely unsolved. 
+
+The geometry of the shape depends on the
+              location of the new vertex replacing the contracted edge. An effective
+              numerical tool used for this purpose is the quadric error measure that tries to
+              optimize the the sum of distances of the new vertex from the planes of the
+              neighboring triangles. This strategy tends to produce an anisotropic mesh whose
+              triangles are elongated according to the curvature of the shape. Although
+              anisotropic meshes are preferred in some applications, there are others who
+              favor isotropic meshes that have triangles with bounded aspect ratio. Can we
+              produce an isotropic mesh after reconstruction and decimation? Instead of
+              decimating the model after reconstruction, is it possible to decimate the
+              sample itself? In a recent work, the investigator tries to address this issue.
+              This work is far from complete and we propose to continue it for new
+              results.
+
+Theoretical studies proposed for this project would require
+              combining ideas from topology and geometry, a central issue in the emergent
+              field of Computational Topology. New algorithms will be developed as a result
+              of our theoretical study, but their ultimate proof of performance will be
+              tested through implementation which is also part of our agenda. 
+

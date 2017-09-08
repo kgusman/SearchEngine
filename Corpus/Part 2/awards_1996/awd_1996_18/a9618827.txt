@@ -1,0 +1,55 @@
+Title       : High Performance Interactive Solvers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 29,  1997   
+File        : a9618827
+
+Award Number: 9618827
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1997   
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $129433             (Estimated)
+Investigator: Yousef Saad saad@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              The goal of this project is to develop high performance iterative  techniques
+              for solving general sparse linear systems of  equations.  Here,
+              high-performance is meant in the double sense  of (1) intrinsically efficient
+              and (2) designed for high-  performance platforms.  This research is motivated
+              mainly by the  belief that parallel iterative methods will be fully accepted in
+               the applications world only if they are robust as well as  efficient for
+              solving linear systems arising from typical  applications, such as
+              Computational Fluid Dynamics.  For this  reason preconditioning techniques that
+              utilize a high order of  accuracy will be emphasized.  These include the high
+              level of  fill in complete factorizations such as ILUT and ILU(k).  The  most
+              general framework of irregularly structured sparse linear  systems will be
+              considered.  These matrices are partitioned and  mapped into a distributed
+              memory multiprocessor system and the  systems are then solved with a
+              preconditioned Krylov subspace  technique -- using a message passing library
+              such as MPI for  communicating between processors.  There are three major
+              issues  to be considered with care.  First, preconditioning techniques 
+              developed specifically for distributed sparse matrices will be  investigated. 
+              Second, techniques to reduce the impact of inner  products in Krylov subspace
+              accelerators will be considered.  These inner products cause the parallel
+              implementations to become  inefficient as the number of processors increases. 
+              Finally,  independent of consideration of parallelism, robust iterative 
+              solvers will be sought with the ultimate goal of improving the  current
+              state-of-the-art.    On the preconditioners side, the methods to be developed
+              are of  three types: (1) derived from a Domain Decomposition viewpoint  but
+              adapted to general sparse matrices, (2) ILU with multi-  elimination (ILUM) and
+              related techniques, and (3) Hybrid methods  derived from approximate inverse
+              techniques. On the accelerators  side, hybrid techniques that lowe r the impact
+              of inner-product  computations, as well as block Krylov methods will be 
+              investigated.  ***

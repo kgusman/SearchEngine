@@ -1,0 +1,71 @@
+Title       : Robust Algorithms for Restricted Domains
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 21,  1999 
+File        : a9820840
+
+Award Number: 9820840
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $186039             (Estimated)
+Investigator: Vijay Raghavan raghavan@vuse.vanderbilt.edu  (Principal Investigator current)
+              Jeremy P. Spinrad  (Co-Principal Investigator current)
+Sponsor     : Vanderbilt University
+	      Station B Box 7749
+	      Nashville, TN  372357749    615/322-2631
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Sometimes, restricting the domain of interest makes a hard problem easy.  For
+              example, one can find the minimum vertex cover of a bipartite graph in
+              polynomial time even though the general problem is NP-hard.  Sometimes,
+              restricting the domain does not make a problem easier.  For example, finding
+              the minimum vertex cover of a planar graph is NP-hard.  
+     This project is
+              to study issues relating to problems whose instances come from classes obtained
+              by natural restrictions on more general classes.  Many subtleties which arise
+              naturally in dealing with such problems have been glossed over in the
+              literature.  Perhaps the most common interpretation of solving a problem on a
+              retricted class is the "promise" version, in which there is a guarantee that
+              the input is in the class, and an algorithm to "solve" the problem need not
+              function correctly (or even terminate) if this guarantee is not met.  This
+              research is based on different definition, one in which the algorithm must
+              produce correct output even if the input is not in the restricted class; such
+              output may either be "the input is not in the class" or the correct solution to
+              the problem. 
+     The new definition of solving proglems on restricted
+              domains requires algorithms to be "robust: in the face of invalid input, a more
+              stringent requirement than "don't care."  Robust algorithms are amenable to
+              manipulation as building blocks of more general algorithms; in contrast,
+              "promise" algorithms are not.  Furthermore, there exist problems which are in P
+              in the "promise" version of solving a problem, while being NP-hard under the
+              new definition.  Arguments can be made that the hardness results are sometimes
+              more meaningful, necessitating a revamping of the notion of restricted class
+              NP-completeness.
+     Graph classes provide interesting and natural restricted
+              domains; the project will also study many problems on graph classes which
+              satisfy the twin requirements of being:
+
+.  Easy to solve given a special and
+              natural representation of a graph (i.e., a "model")
+
+.  Open with respect to
+              complexity if the graph is given in a general form such as an adjacency
+              list.
+
+While some of these open problems appear to be quite hard, they are
+              not easily classifiable as "really" being hard.  This is because the model
+              provides a certificate for the problem to be in NP and in co-NP; consequently,
+              such problems can be NP-hard only if NP = co-NP.  An operational notion of
+              intractability is needed for several such problems and the project will
+              investigate possibilities
+

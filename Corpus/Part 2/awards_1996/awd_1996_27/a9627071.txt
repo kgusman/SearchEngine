@@ -1,0 +1,70 @@
+Title       : Mathematical Sciences: Analysis of Parallel Solution Methods for Scientific
+               Computation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : December 2,  1999   
+File        : a9627071
+
+Award Number: 9627071
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1996     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $126000             (Estimated)
+Investigator: John C. Strikwerda strik@cs.wisc.edu  (Principal Investigator current)
+              Carl R. De Boor  (Principal Investigator former)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9627071  Strikwerda       The investigator improves, studies, and implements
+              numerical  methods for parallel and distributed computation.  The project 
+              concentrates on parallel domain decomposition methods for  incompressible
+              viscous flow, implemented in a distributed  environment and applying the
+              methods to problems of significant  interest.  The investigator runs a domain
+              decomposition code in a  distributed computing environment using message
+              passing.  The  code uses the finite difference method with the incompressible 
+              Navier-Stokes equations to solve for flow in nonsimple  geometries.  He
+              analyzes the solution of linear systems by  distributed relaxation methods and
+              other methods suitable for  distributed computing environments.  He analyzes
+              further recent  convergence results for the GMRES(m) algorithm, a very robust 
+              method with wide applicability.  The investigator has recently  analyzed
+              parallel computing methods and shown that synchronous  methods are faster than
+              asynchronous methods for a significant  class of methods.  He extends this work
+              to a wider class of  methods and use more powerful analytical methods to
+              analyze  parallel computations.  The current code uses the PVM library to  pass
+              boundary values between domains.       This project studies how best to solve
+              some large numerical  problems using parallel computation.  For many of these 
+              computations, algorithms can be devised so that the total effort  is split into
+              several large pieces that are linked together.  For  example, determining the
+              flow pattern of water past a submarine  can be split into the flow near the
+              front, middle, and rear, as  well as the flow farther away from the submarine. 
+              For these four  regions, if the solution is known in any three of the regions, 
+              the flow in the fourth region can be determined.  This leads to  an iterative
+              method for computing the flow: assuming that the  flow is correct in three
+              regions, a flow in the other region can  be computed.  This resulting total
+              flow can then be used to  com pute a new flow in each region, and this process
+              can be  continued until it converges to the correct answer.  The  computations
+              can be greatly speeded up if they are done for each  region simultaneously,
+              that is in parallel.  There are a number  of issues related to this sort of
+              computation.  The computation  can proceed in a synchronous fashion, with a new
+              round of updates  beginning only after all have finished, or the updates could
+              be  done asynchronously, with a new update for a region beginning as  soon as
+              the previous update for that region is completed.  For  some problems it can be
+              shown that the synchronous computations  are faster.  Some other iterative
+              methods, in particular one  called GMRES, are usually faster than the simple
+              iteration  described above.  GMRES uses past information to guide the 
+              computation of the next update toward a better result.  The  investigator
+              implements this in parallel and studies the gain in  efficiency that results. 
+              One of the project's goals is to  determine how to best decompose certain large
+              problems to better  utilize high performance computing environments.

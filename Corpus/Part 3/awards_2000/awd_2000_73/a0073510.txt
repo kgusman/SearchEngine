@@ -1,0 +1,46 @@
+Title       : Exploiting Superword Level Parallelism
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 29,  2000    
+File        : a0073510
+
+Award Number: 0073510
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Saman P. Amarasinghe saman@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Current microprocessors, which have much wider data-paths than 8 or 16 bit
+              data-words required by multimedia workloads, are attempting to take advantage
+              of this by offering special multimedia instructions. These extensions are a set
+              of short SIMD or superword operations. It has been shown that short SIMD
+              operations are well suited to exploit a fundamentally different type of
+              parallelism than the vector parallelism associated with traditional vector
+              supercomputers.  This parallelism is denoted as Superword Level Parallelism
+              (SLP) since parallelism comes in the form of superwords containing packed
+              data.
+
+In this project, compiler algorithms for detection and exploitation of
+              superword level parallelism are investigated. The compiler is extended in many
+              directions, from dataword prediction to SLP aware register allocation, to take
+              advantage of superword level parallelism and an extensive evaluation of these
+              techniques is performed. Architectures that can take full advantage of SLP are
+              also investigated in this research.  Scaling the data-paths is a simple and
+              straightforward use of the available silicon area. However, there are novel
+              architectural features that can take full advantage of superword level
+              parallelism. 
+

@@ -1,0 +1,54 @@
+Title       : International Travel Support for Research in Resilient Parallel Computation:
+               University of Paris, France: Oct- Dec 1992
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  1992 
+File        : a9103953
+
+Award Number: 9103953
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $210716             (Estimated)
+Investigator: Zvi M. Kedem zvi.kedem@nyu.edu  (Principal Investigator current)
+              Dennis E. Shasha  (Co-Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/598-3131
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              The investigators propose to develop theoretical foundations for               
+              automatic and efficient methods to translate programs written for              
+              ideal abstract shared-memory parallel machines to programs for more            
+              realistic (but still abstract) parallel machines.  "Realistic" in this         
+              context means that components of the machines may suffer failures or           
+              that different components may execute at different speeds.                     
+                                                                                             
+              The first step in the translation is to divide the parallel program            
+              written for the ideal abstract machine into fragments whose different          
+              portions do not interfere with one another.  Each such program                 
+              fragment will be transformed to a program on the more realistic                
+              machine, which executes the fragment fast but only "tentatively"; that         
+              is, the result is correct only with high probability.  Then the                
+              realistic machine checks whether the tentative computation was                 
+              correct.  If so, the fragment has completed its execution, otherwise           
+              its effects will be undone and it will be re-executed.  Algorithmic            
+              ideas are drawn from the literature on randomization and transaction           
+              processing.                                                                    
+                                                                                             
+              The significance of the proposed work is that many algorithms have             
+              been developed for ideal shared-memory parallel machines, since they           
+              are easy to program and understand.  The success of the research will          
+              contribute to the theoretical foundation of the automatic translation          
+              of such algorithms to programs executing efficiently on more realistic         
+              machines.

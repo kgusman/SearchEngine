@@ -1,0 +1,69 @@
+Title       : Integrated Electromagnetic/Thermal/Mechanical Analysis for MEMS Reliability
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 2,  2002     
+File        : a0115222
+
+Award Number: 0115222
+Award Instr.: Standard Grant                               
+Prgm Manager: Filbert J. Bartoli                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Kazuhiro Saitou kazu@umich.edu  (Principal Investigator current)
+              John L. Volakis  (Co-Principal Investigator current)
+              Katsuo Kurabayashi  (Co-Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              This proposal will identify and overcome the difficulty associated with the
+              reliable operation of MEMS devices, RF-MEMS in particular. This objective is
+              addressed through the integrated modeling of 
+              electromagnetic/thermal/mechanical couplings in MEMS devices, experimental
+              validation of the model, and quantification of the coupling effects for device
+              reliability.
+
+To meet the need of simulating RF MEMS, the proposal research
+              aims at the development of an integrated multi-physics model and its
+              experimental verification. Research issues are 1) what is the coupling among
+              electromagnetic, thermal, and mechanical effects in MEMS, 2) what numerical
+              solution algorithms are suitable for an integrated multi-domain model, 3) what
+              types of experiments can effectively verify the multi-domain coupling models.
+              Each research issue is approached as follows (in numerical order):
+
+1. The
+              model will be developed for 1) Joule heating caused by RF excitation, 2)
+              thermal strain caused by temperature change, 3) electrostatic pressure caused
+              by the electric field, and 4) electric charge redistribution caused by
+              mechanical deformation.
+
+2. Considering the size and possible ill-condition
+              of the FE matrix resulting from the proposed multi-physics model, the
+              incomplete LU (ILU) preconditioner developed by a PI, will be used with robust
+              solvers based on GMRES.
+
+3. The direct observation of temperature
+              distribution of a RF-MEMS switch during its operation will be done using a high
+              resolution infrared imaging system and a high-speed digital signal analyzer, to
+              verify the developed coupling model.
+
+This project combines our modeling and
+              experimental expertise in electromagnetic, thermal, and mechanical science and
+              engineering to address the highly multidisciplinary reliability problems
+              associated with RF MEMS applications.  Our theoretical and experimental tasks
+              are very complementary to each other and will serve well to achieve our
+              research goals. The aimed simulation tool, combined with our experimental
+              capabilities, will help us develop RF MEMS with high performance and
+              reliability, and will significantly contribute to technologies related to
+              wireless telecommunications.
+

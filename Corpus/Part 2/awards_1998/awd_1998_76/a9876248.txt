@@ -1,0 +1,76 @@
+Title       : CAREER: Architectures and Compilers for Tiger Machines
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 15,  2002      
+File        : a9876248
+
+Award Number: 9876248
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1999       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Seth Copen Goldstein seth@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              
+CCR-9876248
+CAREER: Architectures and Compilers for Tiger Machines
+Seth
+              Copen Goldstein
+
+This proposal investigates a new class of processors and
+              their
+associated compilers, Tiger processors, which TIghtly couple
+              a
+GEneral-purpose processor with a Reconfigurable function unit (RFU).
+The
+              RFU can be configured, at run-time, to implement a function as a
+hardware
+              circuit.  Tiger processors offer the flexibility of a
+general-purpose
+              microprocessor with the performance of a custom
+circuit.
+
+Tiger processors
+              offer high performance and efficiency because they
+contain an RFU, which, when
+              needed, can be configured to implement
+hardware matched to any individual
+              application.  Tiger processors can
+realize an application's parallelism on all
+              levels: MIMD, SIMD,
+instruction-level, pipeline, and bit-level.
+
+The two
+              requirements to realizing the potential of these processors,
+investigated in
+              this proposal, are (1) developing robust compilers
+which quickly produce
+              efficient executables from any high-level
+programming language, and (2)
+              investigating the proper interface
+between the RFU and the general-purpose
+              processor.
+
+The objective of this research is to allow programs to
+              obtain
+performance approaching that of custom hardware from a
+              general-purpose
+device.  Tiger processors will both increase performance and
+              reduce
+the cost of systems because there will be no need to augment
+              systems
+with custom hardware and its associated design overhead.
+

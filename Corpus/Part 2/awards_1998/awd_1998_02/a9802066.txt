@@ -1,0 +1,46 @@
+Title       : Understanding Degrees of Isolation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : January 9,  2003    
+File        : a9802066
+
+Award Number: 9802066
+Award Instr.: Standard Grant                               
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: Barbara H. Liskov liskov@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              This research is concerned with making atomic transactions perform well in the
+              wide-area distributed systems that will be the norm in the future. The work
+              focuses on support for consistency levels that are weaker than serializability;
+              these levels are of interest because many applications do not require full
+              serializability and can achieve better performance by running at weaker levels.
+              Some consistency levels have been defined in the past, but the earlier
+              definitions are inadequate because they either do not rule out undesirable
+              behaviors, or they limit implementation techniques unnecessarily. In particular
+              they do not allow optimistic techniques, which is unfortunate because these are
+              the best for wide area and mobile systems. This research provides definitions
+              of existing levels that are both constrained enough to rule out bad behaviors
+              and permissive enough to allow a wide range of concurrency control mechanisms.
+              In addition the research defines a number of useful new levels. Furthermore,
+              the research develops optimistic implementations of the weak levels, and uses
+              simulation and implementation to investigate the performance advantages that
+              can be achieved by running at weaker levels. The research will lead to precise
+              definitions of new and old weak levels, to a set of new, optimistic
+              implementations of the levels, and to a thorough understanding of the
+              performance benefits that derive from weaker levels.    
+              http://www.pmg.lcs.mit.edu

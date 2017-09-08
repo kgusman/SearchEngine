@@ -1,0 +1,53 @@
+Title       : On the Analysis, Optimization, and Efficient Scalarization of Monolithic-Level
+               Array Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 2,  2002      
+File        : a0105536
+
+Award Number: 0105536
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Lenore R. Mullin lenore@cs.albany.edu  (Principal Investigator current)
+              Harry B. Hunt  (Co-Principal Investigator current)
+              Daniel J. Rosenkrantz  (Co-Principal Investigator current)
+Sponsor     : SUNY Albany
+	      Office for Sponsored Prgms.
+	      Albany, NY  12222    518/437-4550
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              The research focuses on techniques, algorithms, and methodologies for the
+              analysis and transformation of monolithic programs, which use operations on
+              entire arrays.  High-level monolithic analysis drives the mechanical
+              optimization and efficient scalarization of such programs.  Whereas
+              optimization of monolithic code has previously focused primarily on
+              expressions, this project investigates optimization over larger units of
+              program granularity.
+
+The optimum elimination of unnecessary array partial
+              results, with a particular focus on partial results assigned to a program
+              variable may studied.  A given array value assigned to a program variable may
+              contain a permutation of the elements in some other array variable, and hence a
+              compiler may be able to avoid materializing the given value.  In contrast to
+              minimizing materializations, there are situations where compiler introduced
+              materializations, such as data rearrangement, or partial materializations, can
+              significantly improve the efficiency of memory access at various levels of the
+              memory hierarchy.  Optimization techniques are studied both for avoiding
+              materializations and for utilizing compiler introduced materializations.
+
+An
+              intrinsic aspect of compiling monolithic code is scalarization.  The use of
+              monolithic analysis to obtain information that guides or drives scalarization,
+              hopefully directly yielding optimized scalarized code.
+

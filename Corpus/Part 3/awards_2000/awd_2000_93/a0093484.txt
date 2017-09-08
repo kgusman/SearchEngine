@@ -1,0 +1,111 @@
+Title       : CAREER: Self-organizing Algorithm and Protocol Design for Infrastructureless
+               Wireless Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 14,  2001 
+File        : a0093484
+
+Award Number: 0093484
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2006     (Estimated)
+Expected
+Total Amt.  : $299875             (Estimated)
+Investigator: Songwu Lu slu@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+                   Emerging infrastratureless wireless networking technologies such as MANET
+              [1], sensor networks [31],
+and bluetooth [2] will seek to support advanced
+              applications such as smart environment, "zero conf"
+teleconferencing setups,
+              collaborative learning, wireless access to Web services, and emergency
+              rescure
+operations. This class of applications is mission critical, and the
+              network has to address a number of critical
+issues in order to cope with the
+              anticipated design requirements of such applications. In an
+infrastructureless
+              wireless network, no underlying infrastructure, such as cellular layout and
+              central control units e.g. base stations, is available for networking support.
+              A large number of networking devices are allowed to communicate with one
+              another over the shared wireless medium in an ad hoc manner. Some
+unique
+              design challenges posed by such networks include fully distributed and
+              localized design, sustained
+quality of service (QoS), efficient network
+              resource utilization, unconstrained scalability and robust system
+performance.
+              State-of-the-art solutions are inadequate to address these issues and meet the
+              applications'
+requirements. A fundamental problem is that an
+              infrastructureless wireless network is a large-scale
+distributed system that
+              may consist of a very large number of wireless networking components
+              (e.g.
+thousands, even millions in a sensor network), which have limited power
+              and computing resources and are
+prone to channel errors and failures.
+              Therefore, any feasible system solution must be fully distributed
+              and
+localized, scalable, and robust. In some sense, the microscopic behavior
+              of each individual node may not be
+very critical, but network nodes must
+              collectively achieve the desired global macroscopic property.
+     In this
+              project, we propose a novel self-organizing protocol and algorithm design
+              approach for such
+networks, in order to meet the challenges posed by
+              applications as well as the network itself. In a self-organizing design
+              approach, local decision makers self-organize themselves and coordinate among
+              one
+another, in order to collectively achieve the desired global property. We
+              apply our proposed design
+methodology in two largely unaddressed problem
+              domains: fair packet scheduling in multihop wireless
+networks, and robust
+              report forwarding in sensor networks. Toward this end, we present four
+              self-organizing packet-scheduling algorithms and a novel report forwarding
+              protocol that we have developed
+recently [22, 24, 35, 36, 46, 47]. The key
+              innovations of this work are:
+      A model-referenced self-organizing
+              algorithm and protocol design approach.
+      A suite of self-organizing
+              packet scheduling algorithms for infrastructureless wireless networks
+              that
+provide QoS performance bounds in terms of fairness, throughput and
+              delay, maximize channel spatial
+reuse, and arbitrate the conflict between
+              achieving fairness and maximizing channel utilization.
+      A novel
+              self-organizing data forwarding protocol that allows for unconstrained
+              scalability, supports
+robust message delivery along the optimal forwarding
+              band, and ensures efficient power consumption
+in the context of sensor
+              networks.
+     The expected research results from this project include a
+              formal investigation of self-organizing design
+approach, and a detailed
+              design, analysis, and evaluation of the self-organizing algorithms and
+              protocols for
+packet scheduling and report forwarding. The resulting software
+              will be freely available to the research
+community. The education plan in this
+              proposal includes offering a new graduate course, reinventing an
+undergraduate
+              networking course, recruiting more students into undergraduate research
+              programs, and
+setting up an undergraduate networking laboratory.

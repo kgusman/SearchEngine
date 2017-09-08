@@ -1,0 +1,89 @@
+Title       : On Design Optimization in Optical Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 4,  2000     
+File        : a9814014
+
+Award Number: 9814014
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $43473              (Estimated)
+Investigator: Jadranka Skorin-Kapov jskorin@notes.cc.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Reflecting the increased complexity and globalization of today's world, the
+              importance of communication networks is apparent and growing in many aspects of
+               everyday life.  New networking architectures (e.g. optical networks, ATM
+              Virtual Path networking) and the requirements of nimbleness have created a
+              large number of network design/configuration optimization problems, many of
+              which fall in the category of NP-hard combinatorial optimization problems. 
+              Optimizing some design and usage characteristics of communication networks
+              leads to considerable cost savings.  The main objective of the proposed
+              research is to improve the design and usage of optical networks.  This will be
+              achieved via identifying possible design problems and/or opportunities,
+              proposing mathematical models, and developing efficient algorithms to optimally
+              (or suboptimally) solve these models.  Specific objectives and applications
+              include (but are not limited to):
+
+(1) dynamic reconfiguration of
+              multiwavelength multihop broadcast lightwave networks with variable number of
+              transmitters/receivers per node, in order to minimize maximal congestion on its
+              links; (also applicable to distributed memory architectures in order to
+              decrease the time spent in communication); 
+(2) reallocating capacity among
+              links in a network to maximize the network utilization and minimize the total
+              capacity required (applicable to rearrangeable T1/T3 telecommunication networks
+              with digital cross-connect nodes, ATM networks);
+(3) sequencing the
+              arrangement of links and/or reallocation of capacity to minimally disrupt
+              network operations (applicable to networks mentioned in (1) and (2));
+(4)
+              design optimization of non-broadcast networks with optical cross-connect
+              equipment to allow wavelength routing and re-usage (applicable to Wide Area
+              Networks);
+(5) Designing minimum cost hub and spoke network by optimally (or
+              suboptimally) locating hubs and allocating non-hub nodes subject to given
+              restrictions (applicable to telephone networks, airline services and parcel
+              delivery networks, distributed database systems, VLSI design).
+(6) Controlling
+              user's access to common communication medium by assigning time slots for
+              variable bandwidth switching systems (applicable to satellite-switched time
+              division multiple access system with different rates).
+
+The primary direction
+              of research includes the development, enhancement, and efficient implementation
+              of heuristic search algorithms for some NP-hard combinatorial optimization
+              problems arising in the design of optical networks.  The work on heuristic
+              methods includes development of improved criterions for measuring the quality
+              of the proposed heuristic solution.  This leads to research on development of
+              efficient algorithms for obtaining tight lower bounds (for minimization
+              problems).  Having a certain measure of the quality of a solution, it is
+              interesting to investigate under which conditions the quality deteriorates (or
+              improves).  The secondary direction of research is concerned with the
+              identification of special cases of NP-hard problems arising in communication
+              networks design that (due to restricting assumptions) could be efficiently
+              solved to optimality.  The related work includes the design of algorithms for
+              more general classes of problems that make use of efficient subroutines to
+              solve subproblems.
+
+Increasing the solvability of networking optimization
+              problems and placing them in the dynamic environment by studying the impact of
+              data changes on the proposed solution, adds to the applicability of such
+              mathematical models to an even broader number of problems arising in
+              applications of modern technology.  This will, in turn, advance our knowledge
+              regarding solvability of relevant optimization problems facing contemporary
+              engineering.
+

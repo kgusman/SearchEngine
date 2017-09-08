@@ -1,0 +1,40 @@
+Title       : Cryptyc: Cryptographic Protocol Type Checking
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 29,  2002    
+File        : a0208549
+
+Award Number: 0208549
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $374837             (Estimated)
+Investigator: Alan Jeffrey ajeffrey@cs.depaul.edu  (Principal Investigator current)
+Sponsor     : DePaul University
+	      1 East Jackson Boulevard
+	      Chicago, IL  606042218    312/341-8000
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1667,9218,HPCC,
+Abstract    :
+              The objectives of the Cryptyc project are to develop a Cryptographic Protocol
+              Type Checker, which allows secrecy and authenticity properties of cryptographic
+              protocols to be specified as types.  A formal type soundness proof shows that
+              any protocol which passes the type checker is guaranteed to satisfy its secrecy
+              and authenticity requirements.
+
+Prior work on the Cryptyc project has
+              developed a theory and tool which deals with many, but not all, cryptographic
+              techniques and attacker models.  This project extends the Cryptyc system to
+              include
+support for more advanced cryptographic primitives, more sophisticated
+              attacker models, object-based component architectures, and applies the Cryptyc
+              system to the development of secure component libraries for cryptographic
+              protocols.

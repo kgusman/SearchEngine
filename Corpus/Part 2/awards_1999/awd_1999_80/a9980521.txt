@@ -1,0 +1,94 @@
+Title       : Secure Communications for Ad Hoc Networking
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 6,  2000       
+File        : a9980521
+
+Award Number: 9980521
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2000      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $300580             (Estimated)
+Investigator: Zygmunt J. Haas haas@ece.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   An ad hoc network is communication paradigm that does not rely on a
+              pre-existing communication infrastructure.  Rather, the network is established
+              on-demand.  Thus, the network needs to be deployed without prior planning and
+              needs to operate in a variety of different and differing network propagation
+              conditions, traffic demands, and user mobility patterns.   Nodes in an ad hoc
+              network frequently join and leave the network, without prior notice. 
+              Furthermore, the nodes are mobile and communicate by accessing a shared
+              wireless channel.  Consequently, the topology of the network is constantly
+              changing i.e., connections between neighbor nodes (nodes that can communication
+              directly) are established and torn down all the time.  Since the diameter of
+              the network may be significantly larger than the transmission range of a single
+              node, communication between non-neighbor nodes is by multi-hop routing.        
+                                                               Probably the most
+              characteristic feature of ad hoc networks is that there is no central entity in
+              the network.  This is radically different than most other wireless networks,
+              especially the cellular networks. Thus, nodes in an ad hoc network rely on
+              peer-to-peer communications.  Consequently, all network protocols need to be
+              implemented in a distributed manner and need to be extremely efficient, as to
+              ensure that the overhead caused by the frequent reconfiguration of the network
+              is not prohibitively large.                    Application of ad hoc networks
+              has been for a  long time limited to the military communication environment
+              only.  However, recently, the commercial sector is increasingly interested in
+              this technology, evidence of which is the establishment of the Intenet
+              Engineering Task Force, MANET Working Group.  ALthough it is still not clear
+              what the main application of the commercial ad hoc network will be,
+              applications for LAN, sensor networks, and virtual classrooms have been
+              proposed.                                                                One of
+              the main difficulties in promoting the concept of ad hoc networks is that,
+              inherently, ad hoc networks are extremely vulnerable to security attacks.  Not
+              only do  these networks rely nearly exclusively on unreliable and insecure
+              wireless communication, but also the nodes in the network do not,  in general,
+              belong to the same administrative domain.  Thus the standard security measure
+              may not be readily applicable to ad hoc networks.  But above all, the lack of
+              centralized entity makes design of security protocols that much more difficult.
+               In particular, due to possibly low availability of any network node, no one
+              node can serve as a trustful entity in the network.  Moreover, as an ad hoc
+              network may consist of thousands to tens of thousands of nodes, it is essential
+              that any solution be highly scaleable.  Furthermore, it is imperative that the
+              security protocols address the highly dynamic communication environment, for
+              example, by frequent rekeying of the system.  Finally, because of the nature of
+              the nature of these networks and their intended application, high degree of
+              reliability and survivability to node and link failures is necessary. 
+              Fortunately, many protocols that protect against intentional security attacks
+              also guard the system again (unintentional) system failures.       As part of
+              the proposed research, the researchers plan on investigating a number of
+              central schemes that will allow secure communication in the ad hoc networking
+              environment.  Secure communication needs to address the following attributes: 
+              availability, confidentiality, integrity, authenticity, and non-repudiation. 
+              Some of these attributes can be addressed through conventional security
+              protocols, such as ensuring privacy of information through encryption. 
+              However, for other attributes, the standard security measures do not suffice. 
+              For example, authentication in an ad hoc network cannot rely on a signle
+              central trustful entity.              The researchers propose to use two main
+              principles in securing the communication in an ad hoc network: use of
+              redundancies in the network topology and distribution of trust.  The main idea
+              is that availability can be improved by relying on multiple routing paths in
+              the network.  So, if compromised paths can be eliminated, other paths can be
+              used reliably.  The second principle - the distribution of trust - is based on
+              the assumption that as no single node is worth unlimited trust of other network
+              nodes.  However, a large enough quorum of nodes can be trusted, as the
+              probability of compromising large number of nodes simultaneously is rather
+              small.                                                                         
+                                                                                             
+                   This research proposes to investigate the above mentioned issues of
+              supporting secure communications in the ad hoc network by proposing and
+              designing fundamental framework for such a communications.  The researchers
+              will use both analysis and simulation to evaluate our protocol and we intend to
+              implement these protocols to demonstrate their behavior in a practical network.

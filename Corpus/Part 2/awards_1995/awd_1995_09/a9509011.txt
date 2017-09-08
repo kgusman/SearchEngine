@@ -1,0 +1,52 @@
+Title       : Blind Adaptive Fractionally-Spaced Linear Equalizer Behavior
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 20,  1998     
+File        : a9509011
+
+Award Number: 9509011
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1995     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $231636             (Estimated)
+Investigator: C. Richard Johnson johnson@ece.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The central theme of this research is the development of a fuller  theoretical
+              description of the behavior of memoryless-error-  function (or Bussgang) type
+              blind equalization algorithms, in  particular CMA, as used in practice with
+              finite-length, fractional  spacing, higher-order (non-constant modulus,
+              non-uniformly  distributed) source constellations, (deterministic and
+              stochastic)  correlated source time series, and modest channel noise.  The 
+              initial target is the behavior of fractionally-spaced CMA with a  correlated
+              (or periodic) source, which appears capable of causing  misbehavior in
+              practice.  We plan to use analytical tools from  topologically based,
+              algebraic-geometry (in particular Bernstein's  theorem, relaxation methods, and
+              Morse theory) non typically  associated with the study of adaptive filters in
+              addition to  averaging theory tools popular in adaptive systems analysis.  The 
+              ultimate intent is to convert an expanded theory into situation  dependent
+              design guidelines for stepsize, length, fractional-  spacing, initialization
+              selection, and failure recovery tricks for  the use of CMA as a start-up scheme
+              (with a subsequent switch to  decision-direction) for high data throughput
+              applications.    We plan to translate our analytical advances on CMA to 
+              fractionally-spaced realizations of other blind equalizer  algorithms of the
+              memoryless error function class (including  refinements to CMA), for which
+              actual operating data can be  obtained industrially as for CMA.  We also plan
+              to use our behavior  insights into CMA to help provide fair comparisons on
+              actual  operating data to competing schemes such as symbol-spaced decision 
+              feedback equalizers and similar complexity algorithms based on  second-order
+              correlation statistics of single-input, multiple-  output models of
+              fractionally-spaced equalization.

@@ -1,0 +1,51 @@
+Title       : SBIR Phase I: Highly Accurate Reconstruction Module For Multidisciplinary
+               Computation
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : December 9,  2002   
+File        : a0232255
+
+Award Number: 0232255
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan E. Figueroa                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2003    
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $81636              (Estimated)
+Investigator: Lei Tang tangl@zonatech.com  (Principal Investigator current)
+Sponsor     : ZONA
+	      7430 E. Stetson Drive, Suite 205
+	      Scottsdale, AZ  852513540    480/945-9988
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9216,HPCC,
+Abstract    :
+                  This Small Business Innovation Research Phase I project will develop a
+              highly accurate reconstruction module for Godunov-type schemes to upgrade the
+              capability of current multidisciplinary computational software packages for
+              simulation of a class of engineering problems with small scales and high
+              frequencies. The unique and innovative aspect of this work is to combine both
+              Weighted Essentially Non-Oscillatory (WENO) concept and compact differencing
+              into a single upwind algorithm.  Instead of using multiple polynomial
+              candidates, a hybrid power-exponential spline is used as the underlying
+              interpolation for a WENO scheme with local smoothness measures as the
+              perturbation parameters. In this way, the weight functions of a WENO scheme can
+              be analytically determined from the underlying interpolation.  Their Taylor
+              series expansions around the smooth regions can be used for further accuracy
+              improvement. The resulting piecewise quadratic reconstruction with compact
+              difference computed slope and curvature can dramatically reduce numerical
+              diffusion inherent in upwind schemes. By using this upwind scheme, the
+              numerical simulation of vortex dominated flows, boundary layers, turbulence,
+              acoustic waves, and electromagnetic waves, etc., can be significantly improved
+              without loss of the shock-capturing feature. 
+    The highly accurate
+              reconstruction module, which is independent of physics, can be easily
+              integrated into the current production and research codes and has the potential
+              of providing cost improvement of at least an order of magnitude over the
+              current versions.
+

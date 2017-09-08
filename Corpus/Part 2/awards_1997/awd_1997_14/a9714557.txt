@@ -1,0 +1,51 @@
+Title       : Code Capacity and Code Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 24,  2000   
+File        : a9714557
+
+Award Number: 9714557
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1998   
+Expires     : January 31,  2002    (Estimated)
+Expected
+Total Amt.  : $249831             (Estimated)
+Investigator: Oliver Collins collins.62@nd.edu  (Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              This research will analyze the performance of concatenated coding systems and
+              modulation schemes operating over the additive Gaussian channel (AWGN) and
+              various fading channels by examining the loss of capacity resulting from each
+              of the encoding and decoding steps.  This information will then be used to
+              guide the design of new coding systems.  The techniques described in this
+              research allow the separate evaluation of codes and decoders and thus the
+              identification of where loss of capacity occurs.  Knowledge of this capacity
+              loss is important for the overall design of a communications system, e.g. for
+              evaluating the benefits of inner decoders that produce information beyond the
+              maximum likelihood estimate.  First a general technique for calculating the
+              composite capacity of an orthogonal code and the AWGN channel in isolation has
+              been developed.  Then the composite capacities of an orthogonal code, the AWGN
+              channel, and various inner decoders including the decoder estimating the
+              bit-by-bit probability of a one, as in turbo codes, has been developed.  The
+              calculations in these examples show that the maximum likelihood decoder
+              introduces a large loss in capacity.  Some of this capacity loss can be
+              regained by using only slightly more complex inner decoders, e.g. a detector
+              for M-ary frequency-shift-keying that outputs the two most likely frequencies
+              and the probability that the ML estimate is correct gives substantially less
+              degradation than one which only outputs the most likely frequency.  This
+              project extends these results to other codes and other channels.  Practically
+              useful results should be short codes that come close to the sphere packing
+              bound for the Gaussian channel and improved conventional and parallel
+              concatenated codes for fading channels. Experimental studies will be included
+              in the work.

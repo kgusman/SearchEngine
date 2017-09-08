@@ -1,0 +1,58 @@
+Title       : SBIR Phase I: An Automated Adaptive Cartesian/Prism Grid Flow Simulation
+               Methodology for Arbitrary Moving Boundary Problems
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : December 6,  1996   
+File        : a9660943
+
+Award Number: 9660943
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Patrick Johnson                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1997    
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Z.J. Wang   (Principal Investigator current)
+Sponsor     : CFD Research Corporation
+	      215 Wynn Drive, 5th Floor
+	      Huntsville, AL  35805    205/536-6576
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0108000   Software Development                    
+              0308000   Industrial Technology                   
+              0510403   Engineering & Computer Science          
+Program Ref : 1266,9148,MANU,
+Abstract    :
+              ***  9660943  Wang     This Small Business Innovation Research Phase I project
+              will develop a new scientific-computation methodology for arbitrary
+              moving-boundary problems.  In the immediate vicinity of boundaries adaptive
+              prism grids will be used in order to exploit their ability to provide
+              surface-conformal spatial discretization, enabling accurate and efficient
+              computational resolution of viscous and thermal boundary layers.  These grids
+              will move and deform with the boundaries around which they are built. Away from
+              boundaries, a stationary, adaptive Octree-based Cartesian grid will be used to
+              exploit its efficiency and flexibility. The Cartesian grid will be overlapped
+              with the moving and deforming prism grids. Both types of grid will be adapted
+              according to the physics of the unsteady flow field. For the coupling between
+              the two grids, both conservative (expensive) and non-conservative (efficient)
+              interfacing algorithms will be developed and demonstrated in the Phase I
+              research. A second order flow solver based on a recently-developed all-speed
+              flux splitting method capable of handing dynamic grids will be implemented,
+              enabling highly-resolved solution of both incompressible and compressible
+              flows. The unsteady flow fields will be displayed as they develop, through an
+              on-line visualization capability. The overall system seamlessly integrates grid
+              generation, flow solver, grid adaptation and post-processing to obtain maximum
+              solution accuracy, efficiency and user friendliness.  In Phase I, the
+              methodology will be implemented and demonstrated in two dimensions.  Extension
+              to three-dimensions will be made in Phase II.     The accurate modeling of flow
+              phenomena involving moving boundaries is the key to a understanding, to
+              improvement of performance, and to the cost-effective, rapid investigation of
+              new designs.  If successfully demonstrated in Phase I, the methodology will
+              provide a reliable, computationally-efficient design and analysis tool that
+              will have an immediate and far-reaching scient ific and economic impact in many
+              distinct industries such as materials processing, aerospace engineering, and
+              bioengineering.  ***

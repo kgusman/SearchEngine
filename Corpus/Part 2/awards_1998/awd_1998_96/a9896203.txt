@@ -1,0 +1,83 @@
+Title       : Chromosome Aberration Frequencies and Chromatin Geometry: Algorithms and
+               Experiments
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : June 5,  1998       
+File        : a9896203
+
+Award Number: 9896203
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : February 1,  1998   
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $209118             (Estimated)
+Investigator: Lynn R. Hlatky Lynn_Hlatky@dfci.harvard.edu  (Principal Investigator current)
+Sponsor     : Dana-Farber Cancer Inst
+	      
+	      Boston, MA  02115    /   -
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              The recent development of FISH (chromosome painting) technology has 
+              revolutionized radiobiology. The interpretation of the large amount of  FISH
+              data now being collected on chromosome aberrations can be greatly  facilitated
+              by computer codes modeling the mechanisms involved.    Chromosome aberrations
+              are molecular rearrangements following DNA  double strand breakage. They are
+              relevant to cell death, DNA damage  repair, carcinogenesis, biological
+              dosimetry and most other aspects of  radiobiology.  Significantly for this
+              grant, aberration yields are  influenced by large-scale chromosome geometry
+              during cell-cycle  interphase, and act as probes for the geometry. The geometry
+              dependence  is in the form of "proximity" effects, i.e. effects caused by 
+              chromosome localization within a cell nucleus and by spatial  limitations on
+              DNA double strand break induction or interactions.    With the advent of
+              (FISH), a rich spectrum of detail has become  available in the 90's on various
+              kinds of aberrations, including quite  complicated ones. It is non-trivial to
+              evaluate systematically the  implications of the yield pattern for chromatin
+              geometry and for the  mechanics of double strand break reactions, because of
+              multiple DNA  double strand break interactions, of the dependence of yields on 
+              individual chromosome arm lengths, and of influence of radiation track 
+              geometry.  In addition, different experiments often use different  painting
+              schemes, making more difficult intercomparisons or comparisons  to older,
+              non-FISH experiments.    However, Monte Carlo methods are well-suited for
+              analyzing the  molecular reshufffling problems involved, and a code has been
+              developed  by  members of our team and coworkers which gives  methods for 
+              interpreting data, comparing experiments, and predicting; it uses only  one
+              adjustable parameter (corresponding to the radiation dose), and  gives good
+              results for some experimentally observed ratios, e.g. when  comparing
+              chromosomes of different lengths for aberration yields.    Thi s algorithm does
+              not incorporate the proximity effects discussed  above, although there is clear
+              experimental evidence, involving the  ratio of ring aberrations to exchange
+              aberrations or the ratio of  complex aberrations to simple aberrations, that
+              such a generalization  is needed. Moreover, the code is applicable only to
+              sparsely ionizing  radiation, not to densely ionizing radiation, whose known
+              geometric  properties can lead to additional geometric information about the 
+              biological target.  Consequently the code is not yet useful for  analyzing the
+              relations between aberration yields and chromosome  geometry.  The object of
+              the grant is to develop better algorithms,  which do incorporate geometric
+              effects, and check them experimentally.    The simplest new algorithm will
+              incorporate proximity effects by an  extension of the present code with just
+              one extra adjustable parameter  (for a total of two). Further extensions of the
+              algorithms will use  recently published data and quantitative models for
+              large-scale  interphase chromosome structure and cell nucleus ultrastructure. 
+              In  addition, up-to-date algorithms for simulating ionizing radiation  tracks
+              will be developed and included, as will a number of technical  refinements.   
+              The resulting algorithms will be tested by chromosome aberration  experiments
+              which use different cell types and different FISH painting  schemes in a
+              controlled comparison. The code will also be compared to  experiments using
+              sparsely or densely ionizing radiation reported in  the literature from various
+              laboratories, world wide. The algorithms  will be used to critically test and
+              extend modern models, including  polymer models, for large-scale chromatin
+              geometry during the Gl phase  of the cell cycle.  The work will be a joint
+              effort by scientists with  primary training in radiobiology, mathematics,
+              cytogenetics, or  radiation biophysics. Individual team members have extensive 
+              interdisciplinary experience in programming for biology.  The  algorithms
+              developed will  be important for the increasing number  of  scientists using
+              FISH technology to study DNA damage processing,  to  probe chromosomal
+              structure, or in applications.

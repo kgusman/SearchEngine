@@ -1,0 +1,56 @@
+Title       : Fault-Tolerance and Locality in Distributed Network Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 7,  1994  
+File        : a9496256
+
+Award Number: 9496256
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1994      
+Expires     : October 31,  1996    (Estimated)
+Expected
+Total Amt.  : $9185               (Estimated)
+Investigator: Baruch Awerbuch baruch@cs.jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              This proposed work is on two algorithmic topics in asynchronous                
+              numerics: fault-tolerance and locality.  The practical significance of         
+              theoretical work in fault-tolerance is often limited because of                
+              particular assumptions made about possible fault patterns.  In some            
+              applications, making unjustifiable assumptions could have grave                
+              consequences.  The major goals of this research are to develop a basic         
+              theory of fault-tolerant communication protocols, that will be free of         
+              unnecessary assumptions, and to apply this theory to real network              
+              tasks.  As a general approach a novel self-stabilization framework is          
+              proposed.  Self-stabilization is a basic robustness property that              
+              enables the system to return to correct operation after an arbitrary           
+              pattern of failures.                                                           
+                                                                                             
+              Traditional network management protocols use locality requiring all            
+              sites to maintain full information about the network topology.  This           
+              task becomes very complex in large networks.  In a high-speed                  
+              environment, the required rate of global state change may be much              
+              faster than the propagation delay, thus making it impossible to obtain         
+              an accurate picture of the global state of the network.  Fault-                
+              tolerance and locality properties are crucial to ensure graceful               
+              degradation of the overall system under conditions of extreme stress.          
+                                                                                             
+              A universal network decomposition approach is proposed, that allows            
+              such properties for a variety of network tasks.  There is already a            
+              wide range of important applications for which this approach has               
+              proved to be successful, including network routing, distributed                
+              directories, online tracking of mobile users, resource allocation and          
+              load balancing, network synchronization, shortest paths, deadlock              
+              avoidance, and others.  For these tasks our approach yields, for the           
+              first time, almost optimal solutions.

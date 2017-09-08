@@ -1,0 +1,89 @@
+Title       : Prefix Caching of Continuous Media Streams in the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 23,  1999 
+File        : a9973092
+
+Award Number: 9973092
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $40295              (Estimated)
+Investigator: Donald F. Towsley towsley@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The dramatic growth in the popularity of the Internet, coupled with the increase
+              in user access
+speeds, has led to an increased demand for streaming media
+              services in IP networks.  However, the
+heterogeneous and decentralized nature
+              of the Internet, and the lack of end-to-end mechanisms for
+quality-of-service
+              guarantees, significantly hampers the effort to provide quality delivery and
+              low
+delay to all clients.  The success of multimedia streaming applications
+              hinges on developing new
+techniques for providing both low start-up delay and
+              high audio/video quality, without requiring
+control over the entire path from
+              the multimedia source/server to the end users.  We propose an
+approach based
+              on active proxy services and prefix caching that has the potential of
+              satisfying these
+requirements.  Proxy prefix caching is a mechanism whereby
+              the first several seconds of a continuous
+media (CM) object are stored at a
+              proxy server close to a client.  The prefix cache allows the proxy
+to hide
+              latencies introduced by either long end-to-end delays, the need to mask
+              unreliable network
+services, the need to process the stream arriving from the
+              source, or the need to deal with scarce
+resources between the proxy and
+              clients.
+                                                                     
+                                                                                             
+                                        In this proposal the researchers outline research
+              investigating several aspects of this mechanism which in-
+clude:
+
+-Design
+              and evaluation of preix caching mechanisms,
+
+-Integration of prefix caching
+              with bandwidth smoothing,
+
+-Development of effective resource allocation
+              schemes at the proxy, and
+
+-Characterization of video sources and Internet
+              traffic to feed into the these investigations.
+                               
+                                                                                             
+                                                                            The joint
+              participation of AT&T Research and the University of Massachusetts provides a
+              unique
+synergy that would not otherwise be possible.  AT&T provides access to
+              resources in the form of
+WorldNet traffic data, which supplies a snapshot of
+              current CM workloads in the Internet, and
+access to video testbed/prototyping
+              platforms that are not readily available in academia.  On the
+other hand,
+              UMass provides a much more long-term perspective than is possible at an
+              industrial
+lab, as well as expertise in the area of active services, bandwidth
+              smoothing, and reliable transport
+protocols.

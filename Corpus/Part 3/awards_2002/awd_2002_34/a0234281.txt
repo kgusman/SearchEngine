@@ -1,0 +1,66 @@
+Title       : SOFTWARE: Resource Virtualization for Cluster-Based Network Storage Service
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : February 21,  2003  
+File        : a0234281
+
+Award Number: 0234281
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2003  
+Expires     : January 31,  2006    (Estimated)
+Expected
+Total Amt.  : $303270             (Estimated)
+Investigator: Tzi-Cker Chiueh chiueh@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              A growing concern among corporate information technology (IT) managers is the
+              elevating gap between the increasing system maintenance and administration cost
+              of the IT infrastructure and the decreasing hardware/software acquisition cost.
+              
+This gap is escalating because system administration and management
+is still
+              relatively labor-intensive and thus non-scalable, despite extensive
+              research/commercial efforts to automate the process. In view of this
+              trend,commercial enterprises resort to IT out-sourcing in order to share
+              expensive and precious system management expertise. Despite its compelling cost
+              saving advantage, IT out-sourcing so far has not been the mainstream, chiefly
+              because the lack of technology to enforce and certify the so-called Service
+              Level Agreement (SLA) between the out-sourcing and out-sourced parties.
+              
+
+This proposal will develop a multi-dimensional storage virtualization
+              system called Stonehenge, which is able to guarantee a wide variety of
+              storage-related Quality of Service (QoS) metrics and thus provides the enabling
+              technology toenforce SLAs associated with storage service in particular and
+              Internet services in general. The set of techniques developed in the Stonehenge
+              system will carry the storage virtualization field one large step further
+              because they allow virtualization of storage resource almost in all possible
+              performance attributes that can be associated with physical disks. 
+As a
+              result, Stonehenge allows creation of virtual disks that are as tangible as
+              physical disks, and yet much more flexible and easier to manage and maintain.
+              As an integral component of this project, we will also develop a unified and
+              reusable implementation framework that could quickly convert, with zero or
+              minor modification, a given cluster-based Internet service into QoS-aware, such
+              that they are capable of supporting contractual SLAs that are described in
+              terms of service-specific performance metrics.
+
+Besides its intellectual
+              contributions, this project will make a major impact on the undergraduate and
+              graduate education of the CS department at Stony Brook by introducing a series
+              of system management courses, which will use the Stonehenge prototype as a case
+              study on the functionality and implementation details of production-grade
+              enterprise storage management systems.
+
+

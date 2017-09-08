@@ -1,0 +1,54 @@
+Title       : POSTDOC: The Development of a 3D Parallel Finite Element Model for EEG and MEG
+               Source Localization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : December 23,  1998  
+File        : a9625640
+
+Award Number: 9625640
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $42575              (Estimated)
+Investigator: Stephen B. Baumann sbb@neuronet.pitt.edu  (Principal Investigator current)
+              David C. O'Neal  (Co-Principal Investigator current)
+              Shlomo Ta'asan  (Co-Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              The temporal dynamics of information processing in the brain can be studied
+              using electroencephalography (EEG) or magnetoencephalpgrahpy (MEG), but the
+              spatial resolution of these techniques is often poor due to crude mathematical
+              models.  Accuracy and resolution can be improved by using finite elements to
+              model the realistic geometry and electrical conductivity of the head and grain.
+                A 2D EEG source localization code based on a finite element method has been
+              developed, but extending this to the 3D realistic-shaped head model will
+              require a huge increase in computational speed.  Source localization in a 3D
+              finite element model requires the solution of a large system of equations (more
+              than 100,000) for hundreds of iterations for each time point in a brainwave
+              that may last for seconds.  Therefore, to make this computations practicable
+              the 3D EEG code will be optimized and parallelized to run on one of the CRAY
+              supercomputers at the Pittsburgh Supercomputing Center or on a cluster of 80
+              Hewlett-Packard workstations at the University of Pittsburgh Medical Center. 
+              During the second year, a 3D MEG source localization code will be developed and
+              parallelized. This is a straightforward and relatively simple task once the 3D
+              EEG code is parallelized, because the solution of the same system of equations
+              is needed for both EEG and MEG.  The fellowship will help broaden the research
+              Associate's knowledge in code optimization, code parallelization and the
+              neurosciences through participation in formal courses, workshops, seminars and
+              consultation with a group of multi-disciplinary advisops in computer science,
+              mathematics, neurophysiology  and engineering. The code developed from this
+              project will be made available through the domain to help other researchers
+              utilize accurate and efficient source localization models.

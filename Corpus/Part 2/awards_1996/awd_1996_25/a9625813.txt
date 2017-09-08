@@ -1,0 +1,92 @@
+Title       : Mathematical Sciences: Some Approximation Problems in Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 19,  1999    
+File        : a9625813
+
+Award Number: 9625813
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1996     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $115872             (Estimated)
+Investigator: Luca Dieci dieci@math.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9625813  Dieci       The investigator and his collaborators analyze and
+              implement  techniques to resolve outstanding computational issues in 
+              differential equations.  The following topics are studied: (1)  computation and
+              bifurcations of invariant tori, (2) computation  of Lyapunov exponents and
+              applications, (3) orthogonal  factorizations for time-dependent matrices and
+              applications, (4)  Riccati equations, (5) logarithms of matrices and matrix 
+              interpolation.  In each case the project combines theoretical  analysis and
+              extensive computational testing, and develops  working codes.  Several aspects
+              of this research are being carried  out in collaboration with Timo Eirola, Jens
+              Lorenz, Erik Van  Vleck, Alessandra Papini, Aldo Pasquali, and Ph.D. students 
+              Michael Keeve and Benedetta Morini.  The investigator analyzes and  implements
+              algorithms to compute invariant tori of  parameter-dependent dynamical systems
+              and to study their  bifurcations.  He studies ways to monitor Lyapunov type
+              numbers on  the tori in order to detect their smoothness and understand and 
+              classify their bifurcations and breakdown mechanisms.  The whole  issue of
+              computation of Lyapunov type numbers (or Lyapunov  exponents) is also
+              considered.  Quantitative information on these  numbers is needed in order to
+              obtain a reliable stability picture  for time-dependent linear systems and
+              nonlinear systems.  He  examines applications of this tool to error control. 
+              Efficient  and reliable techniques for computation of Lyapunov exponents 
+              require study of orthogonal factorizations of time-dependent  matrices.  The
+              investigator works on numerical solution of Riccati  equations, and develops an
+              integration code based on Gauss  Runge-Kutta schemes.  He studies techniques
+              for computation of  logarithms of matrices, emphasisizing the case of a
+              sequence of  slowly varying matrices and its application to interpolants of 
+              matrices.  Finally, he is writing a book on numerical dynamical  systems with
+              emphasis on direct approximation techniques .       Differential equations are
+              one of the most powerful models  to describe physical phenomena.  They provide
+              a compact  description of a system by giving a continuous description of how  a
+              given position in (phase) space of a system at a particular  time influences
+              neighboring positions in the immediate future.  The price for such a compact
+              description is that we then need to  solve the differential equation in order
+              to obtain information  about the system.  Solving the differential equation,
+              except in  trivial cases, cannot be done exactly, and we must resort to 
+              numerical techniques.  The investigator devises numerical  techniques for
+              differential equations, motivated by the following  question: What should we
+              approximate, what should we monitor?  Existing techniques are typically very
+              reliable at tracking a  specific solution (a trajectory) of the equation over a
+              short  time interval, but they are inadequate to provide a complete 
+              description of the system, which would need knowledge about many  solutions
+              over long time intervals.  This need is particularly  true for models of
+              complicated phenomena, which may take the form  of systems of coupled
+              oscillators and coupled nonlinear  differential equations, or high-dimensional
+              time-varying matrix  equations.  These cases are of interest in this project
+              and find  applications in almost all applied sciences: from the study of 
+              complicated biological and chemical interactions, to the optimal  control of
+              time-dependent manufacturing processes, to stability  assessment for
+              time-dependent phenomena in general.  In concrete,  the following issues are
+              studied. (1) For many systems, all  solutions eventually approach a finite
+              region of phase space, and  then stay there afterwards.  The investigator
+              devises techniques  that target directly such eventual finite regions, to avoid
+               transient behavior. (2) A differential equation, because it  mimics a given
+              physical system, usually has built in some key  properties.  For example, in
+              modeling a rigid rotat ion, the  solutions of the differential equation should
+              be rigid rotations.  Unfortunately, most numerical techniques will fail at
+              preserving  even such a seemingly simple characteristic.  The failure of a 
+              numerical method to preserve essential characteristics might have  very
+              unpleasant effects.  The investigator works on techniques  that maintain the
+              relevant geometrical properties of the  solutions. (3) For a given model, the
+              fundamental question is the  one of stability.  How robust is the model? How
+              sensitive are  solutions to small changes in the model? Or, in a deceivingly 
+              different but mathematically equivalent way, how fast is a system  approaching
+              its eventual state? The investigator studies ways to  monitor indicators in
+              order to answer these questions, and also  applies this study to assess error
+              propagation during  discretization.

@@ -1,0 +1,54 @@
+Title       : The Topological Approach to Asynchronous Computability
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 5,  1998       
+File        : a9520298
+
+Award Number: 9520298
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $228102             (Estimated)
+Investigator: Nancy A. Lynch lynch@theory.lcs.mit.edu  (Principal Investigator current)
+              Nir Shavit  (Co-Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              The choice of primitive coordination operations, whether  reading and writing a
+              shared memory, message-passing, or  more complex operations, has become a
+              crucial design issue.  To make such choices, one must analyze the behavior of
+              multi-  process executions, reasoning about the multitude of  possible
+              combinations of concurrent operations. This is an  unusually delicate and
+              laborious task. The goal of this  research is to replace this need to argue
+              about concurrent  executions with combinatorial conditions on the geometric 
+              representation of problems. This should allow researchers  and designers,
+              instead of analyzing behaviors, to apply  powerful mathematical tools to
+              recognize when certain  protocols are impossible, to evaluate the power of 
+              alternative synchronization primitives, or to make explicit  the assumptions
+              needed to make a given problem solvable.    This project pursues the problem of
+              characterizing and  classifying the power of synchronization primitives in 
+              different models. Prior research has developed powerful new  tools based on
+              classical topology for analyzing fault-  tolerant concurrent alogrithms and
+              data structures in a  variety of models and architectures. This research has
+              shown  that a large class of synchronization problems can be  associated with a
+              high-dimensional geometric structure  called a simplicial complex, and that the
+              computational  complexity of solving the problem using a given underlying 
+              architecture is captured by certain topological properties  of the complex.
+              These properties have been used to give a  complete characterization of the
+              synchronization problems  solvable in asynchronous read/write memory, and to
+              provide  impossiblity results and lower bounds for several known open  problems
+              in both the asynchronous model and in the  synchronous message-passing model.
+              These techniques are  being applied toward a comprehensive theory of 
+              multiprocessor synchronization.  ***

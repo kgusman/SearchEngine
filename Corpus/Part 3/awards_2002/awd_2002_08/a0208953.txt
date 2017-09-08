@@ -1,0 +1,101 @@
+Title       : InfoFabric: Adaptive Services in Distributed Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0208953
+
+Award Number: 0208953
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Karsten Schwan schwan@cc.gatech.edu  (Principal Investigator current)
+              Calton Pu  (Co-Principal Investigator current)
+              Santosh Pande  (Co-Principal Investigator current)
+              Greg S. Eisenhauer  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Schwan, Karsten
+CCR-0208953
+"InfoFabric: Adaptive Services in Distributed
+              Embedded Systems"    This research is developing 
+"Infofabric" services to
+              manage multiple shared data streams and enable high performance sensing and 
+              
+communication in dynamically reconfigurable sensor nets.  For example, in
+              emergency response 
+applications, the computing infrastructures employed  are
+              rapidly assembled conglomerates of portable and 
+handheld end user devices. 
+              Multiple communication modes are used to interact across collaborating peers
+              
+and also with local and remote command centers and/or information
+              repositories.   A key problem is that 
+such devices typically cannot access,
+              display, and  manipulate information with the quality needed by end 
+users. An
+              example is an observer `in the field' trying to match visible cloud formations
+              with the 
+outputs produced by remotely running weather simulations, the latter
+              using real-time radar data.  Unless the 
+handheld device can visualize data
+              with high quality and in real-time, field observations cannot be used to
+              
+refine or steer the remote weather prediction programs. Similarly, search and
+              rescue operations can be 
+aided by rich (multi-media), real-time
+              communications between team members and by high fidelity 
+graphical displays
+              of terrain data available from remote servers.
+The basic technical problems to
+              be solved for the resulting complex, distributed and embedded applications
+              
+include (1) the provision of high levels of flexibility in how, where, and
+              when necessary processing and 
+communication actions are performed on the
+              underlying distributed platforms, and (2) the ability to 
+continuously meet
+              end user needs despite runtime variations in service locations, platform
+              
+capabilities (e.g., remaining power on end devices), and user requirements.  
+              The `InfoFabric' approach  
+supports data-intensive, embedded applications
+              with lightweight publish/subscribe middleware. An end 
+user dynamically
+              subscribes to information channels when needed, and the InfoFabric applies the
+              
+processing specified by the user.   Processing and communication actions are
+              dynamically mapped to the    
+underlying distributed devices and machines. To
+              attain high performance and meet embedded systems 
+requirements like such as
+              power, new compiler and runtime  binary code generation methods dynamically
+              
+generate and install code on the InfoFabric's  platform. Code is specialized
+              to match current user needs to 
+available platform resources.   To meet
+              dynamic needs and deal with runtime changes in resource 
+availability,
+              resource  management  mechanisms associated with middleware carry the
+              performance, 
+usage, and needs information required for runtime adaptation of
+              processing and communication actions. Because the InfoFabric middleware has
+              detailed knowledge of the ways in which information should be transported and
+              manipulated  before delivering it to end users, it can employ techniques like
+              automatic 
+redundancy and replication, and service (re)location and
+              (re)partitioning to match changing user needs and platform availabilities.
+
+

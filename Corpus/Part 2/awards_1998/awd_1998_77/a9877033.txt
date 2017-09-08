@@ -1,0 +1,69 @@
+Title       : Statistical Methods for Collaborative Multi-Robot Mapping
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 7,  2001  
+File        : a9877033
+
+Award Number: 9877033
+Award Instr.: Continuing grant                             
+Prgm Manager: Junku Yuh                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Sebastian Thrun thrun@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              Abstract
+ 
+IIS-9877033
+Thrun, Sebastian
+Carnegie Mellon University 
+$69,602
+              - 12 mos.
+
+STATISTICAL METHODS FOR COOPERATIVE MULTI-ROBOT MAPPING
+
+This is
+              the first year funding of a three year continuing award. This project will
+              devise a new family of statistical algorithms that enable teams of mobile
+              robots to jointly acquire maps of indoor environments.  The majority of
+              successful mobile robot applications to
+date rely on maps; yet, the problem of
+              automatically acquiring such maps with one or more robots remains largely
+              unsolved.  To build such maps, three sources of uncertainty must be overcome:
+              uncertainty in sensing (e.g., with range finders), uncertainty in robot
+              odometry, and uncertainty in the initial poses of the different robots relative
+              to each other. In addition, robots must integrate information gathered
+              distributedly, and they must coordinate their exploration strategies.The
+              research is based on a unifying statistical framework, recently devised by the
+              PI and others. This framework poses the problem of building maps as a maximum
+              likelihood problem, of finding the most likely map given the data acquired by a
+              team of robots. It uses efficient statistical techniques (specifically
+              Dempster's EM algorithm) for likelihood maximization. The project goes beyond
+              previous work in several aspects: First, it will address the problem of
+              team-based map acquisition, where robots have to determine their relative
+              location to each other in order to build a single map. This will be achieved by
+              introducing additional degrees of freedom into the basic statistical framework.
+              Second, maps will be represented by conjunctions of atomic object shapes (eg,
+              rectangles, circles or segments thereof), instead of grids or similar
+              non-iconic representations. To estimate the total number, sizes and poses of
+              such
+objects, the project will apply fast, sampling-based algorithms. Third,
+              the project seeks to devise algorithms that enable teams of robots to
+              collaboratively explore an environment. This will be achieved by methods for
+              maximizing information gain, as measured by expected relative entropy. Finally,
+              this project will pursue explorative research on learning maps in dynamic
+              environments.  If successful, this project is expected to lead to a new, more
+              robust and scalable family of algorithms for mobile robot mapping.
+

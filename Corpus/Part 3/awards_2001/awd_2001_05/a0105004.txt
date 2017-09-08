@@ -1,0 +1,129 @@
+Title       : The Lagrangian Averaged Navier-Stokes Equations with Applications to Turbulence
+               Modeling
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 27,  2001      
+File        : a0105004
+
+Award Number: 0105004
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $94599              (Estimated)
+Investigator: Steve Shkoller shkoller@math.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              0105004
+Shkoller
+
+This three year research effort is founded upon the
+              author's recent 
+development of a novel Lagrangian averaging procedure for the
+              Euler and 
+Navier-Stokes equations of fluid dynamics.  The method is based on
+              
+expressing the exact Lagrangian fluid flow as a composition of a smooth
+              
+deterministic volume-preserving Lagrangian flow and a rough stochastic 
+flow
+              consisting of volume-preserving near-identity transformations.  This
+              
+decomposition is asymptotically expanded about the identity, substituted
+              
+into the variational principle, and then averaged.  The resulting
+              
+deterministic system of equations is termed the Lagrangian averaged
+              
+Navier-Stokes (LANS) equations in the presence of viscosity, and the
+              
+Lagrangian averaged Euler (LAE) equations in the ideal case when 
+viscosity
+              is absent.  Both the LAE and LANS models are parameterized by 
+a small spatial
+              scale alpha, and are derived in such a fashion as to 
+accurately reproduce the
+              dynamics of the Euler and Navier-Stokes 
+equations at spatial scales larger
+              than alpha, while averaging (or 
+homogenizing) the fluid motion at scales
+              smaller than alpha.  Unlike 
+current approaches such as Reynolds averaged
+              Navier-Stokes (RANS) or 
+Large Eddie Simulation (LES) models which add
+              artificial dissipation to 
+the system to remove subgrid scales, the LAE/LANS
+              equations preserve 
+the underlying structure of the inviscid dynamics, namely,
+              energy, 
+helicity, and circulation, by instead using a geometric, nonlinear
+              dispersive 
+mechanism.  As a result, our LANS model, unlike RANS or LES, does
+              not 
+artificially suppress intermittency, a fundamental feature of fluid
+              
+turbulence. The resulting system is a set of dynamically coupled partial
+              
+differential equations for the mean velocity field and covariance tensor. 
+              
+This system will be the backbone of a massive analytic and computational
+              
+assault on the modeling and understanding of fluid turbulence.
+
+Although
+              heavily studied by numerous researchers for over a century, 
+incompressible
+              fluid turbulence elusively remains one of the last great 
+challenges of modern
+              scientific exploration.  Its understanding is of 
+paramount importance in a
+              wide range of engineering and physical 
+applications, ranging from the design
+              of airplanes and automobiles, to 
+daily weather forecasts and global climate
+              prediction.  Roughly speaking, 
+a flow becomes turbulent when all of the
+              spatial scales in the fluid are 
+activated, or in other words, when the fluid
+              is moving so chaotically, as to 
+create smaller and ever smaller vortices.  In
+              such a flow regime, the 
+trajectory of each fluid particle appears
+              unpredictable, yet the challenge is 
+to derive a mathematical set of equations
+              which can describe this 
+unpredictable motion.   About 150 years ago, the
+              Navier-Stokes equations 
+were introduced for this very purpose, and although
+              it is now generally 
+accepted that these equations do indeed provide a
+              remarkable physical 
+model of reality, it remains a mathematical mystery as to
+              whether or not 
+unique solutions to these equations exist for all time. 
+              Moreover, even 
+numerical approximations of these equations on the world's
+              fastest 
+supercomputers are incapable of modeling the small-scale structures
+              and 
+patterns which are formed in a turbulent regime -- the computer simply
+              
+runs out of memory long before it can simulate the prohibitively small
+              
+vortical motion.  The LANS model, described above, is intended to 
+alleviate
+              these fundamental difficulties, and make the computational 
+simulation of
+              turbulent flows feasible.
+

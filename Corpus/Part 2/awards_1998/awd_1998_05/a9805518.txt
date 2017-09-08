@@ -1,0 +1,146 @@
+Title       : Computational Modeling of Platelet Aggregation and Coagulation and Development
+               of Software for Biofluid Dynamics Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a9805518
+
+Award Number: 9805518
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  1998 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $310000             (Estimated)
+Investigator: Aaron L. Fogelson fogelson@math.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1339,9183,9216,9263,BIOT,HPCC,
+Abstract    :
+              Fogelson
+9805518
+     The investigator undertakes modeling and
+              computational
+simulation of platelet aggregation and coagulation.  These
+              are
+the components of normal blood clotting and of the
+life-threatening blood
+              clots associated with vascular disease and
+with the use of cardiovascular
+              prostheses.  The investigator and
+coworkers continue to explore and refine
+              their models of platelet
+aggregation in small and large diameter vessels;
+              continue
+development of models of coagulation including the effects of
+flow,
+              transport, and surface reactions; and integrate the
+platelet aggregation and
+              coagulation models to form a more
+comprehensive model of the hemostatic and
+              thrombotic processes.
+These models use coupled systems of nonlinear partial
+              and
+ordinary differential equations to describe interactions between
+the
+              blood's fluid dynamics, the transport of platelets and
+chemicals in the blood
+              plasma, the mechanics and chemistry of
+developing aggregates, and the
+              solution-phase and surface-bound
+biochemistry of the coagulation process.  The
+              models present
+substantial computational challenges that require development
+              and
+use of state-of-the-art numerical methods for their solution.
+These
+              include immersed boundary methods for fluid-material
+interactions,
+              high-resolution finite-difference methods combined
+with Fourier-collocation
+              spectral methods, immersed-interface
+methods for handling transport in regions
+              of complex geometry,
+and parallel computation.  This work involves
+              extensive
+comparisons between computational results and
+              laboratory
+experiments and is aided by collaboration with leading experts
+              on
+flow and thrombosis.  The proposal is also concerned with
+developing
+              state-of-the-art parallel computational methods for
+simulating biofluid
+              dynamic flows like those involved in
+aggregation and coagulation, and with
+              including these
+computational tools in a powerful and easy-to-use problem
+              solving
+environment that facilitates solving a wide range of complex
+biofluid
+              dynamic problems.
+     Thrombosis, which is the formation of blood clots
+              within
+vessels of the circulatory system, is the proximal cause of most
+heart
+              attacks and of other severe cardiovascular problems such as
+ischemia and
+              angina.  It is also a major problem associated with
+the use of
+              blood-contacting prostheses such as mechanical heart
+valves.  The process by
+              which these blood clots form is very
+complex and involves many dynamic,
+              sometimes competing, sometimes
+mutually-reinforcing, biophysical and
+              biochemical processes.  A
+major part of this project involves developing
+              powerful
+mathematical and computational tools for studying this
+              complex
+process, and using these tools to probe the factors that effect
+the
+              location, extent, and speed of formation of thrombi.
+Computational modeling
+              complements traditional experimental
+approaches and provides a way to simulate
+              complex dynamic events,
+like the dynamic interactions among fluid, blood
+              cells, clotting
+factors, and blood vessel or prosthesis surface that lead
+              to
+thrombosis, that are beyond the reach of current laboratory
+techniques. 
+              Such simulations can give new insights into the
+basic mechanisms that control
+              this important biological process,
+and can ultimately help in the more
+              rational design of
+therapeutic interventions and prosthetic devices.  Many
+              other
+challenging biological and biomedical flow problems have features
+in
+              common with that of simulating thrombosis, and so the
+state-of-the-art
+              parallel computational methods developed for
+this project potentially have
+              wide-spread application to problems
+important to basic science, health care,
+              and biotechnology.  To
+help realize this potential the investigators develop
+              and
+disseminate an easy-to-use software package that facilitates
+using these
+              computational methods to set up and carry out
+simulations of important
+              biofluid dynamics problems.
+
+

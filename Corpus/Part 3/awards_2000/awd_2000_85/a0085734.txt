@@ -1,0 +1,80 @@
+Title       : Behavioral Models for Microscopic Traffic Simulation
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : June 20,  2002      
+File        : a0085734
+
+Award Number: 0085734
+Award Instr.: Standard Grant                               
+Prgm Manager: John Scalzi                             
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2000 
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $80000              (Estimated)
+Investigator: Moshe E. Ben-Akiva mba@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1638      INFRASTRUC SYS MGMT & HAZ RESP
+Fld Applictn: 
+Program Ref : 1039,1607,CVIS,
+Abstract    :
+              This research aims to develop a new generation of microscopic traffic simulation
+              with driving behavior models that capture strategic behaviors of drivers and
+              utilize high performance computational methods. 
+
+Flexible simulation tools
+              are needed to conduct experiments of innovative Intelligent Transportation
+              Systems (ITS) including dynamic traffic management technologies and traffic
+              control and routing algorithms. More reliable simulation tools are also needed
+              to study traffic impacts such as congestion, safety, energy consumption and air
+              pollution. These applications require detailed and accurate models of drivers'
+              behavior.  Online and offline applications to large networks and increasingly
+              complex models and traffic management systems require the use of more efficient
+              computational methods.  
+
+The most notable driving behavior models are
+              acceleration (or car following) and lane-changing models. State-of-the-art
+              models will be enhanced to include more realistic behaviors such as:
+              
+Proactive anticipatory behavior: Drivers create opportunities to undertake
+              their desired maneuvers by anticipating future traffic conditions and acting
+              upon them. This is contrasted with existing models in which drivers passively
+              react to present traffic conditions. 
+Extended field of view: Drivers'
+              decisions are based on traffic conditions in their extended neighborhood as
+              opposed to simply following a leader or reacting to the adjacent
+              vehicles.
+Interdependent decisions: Interdependencies exist across different
+              decisions (e.g. the effect of lane changing on acceleration) and within one
+              decision over time (e.g. the effect of past lane changes on future ones). These
+              dependencies are ignored in existing models: lane-changing models assume that
+              once a driver decides to change lanes, s/he will passively consider available
+              gaps as they appear in the traffic stream - the driver does not adjust his/her
+              acceleration in order to change lanes. As a result, capacities of merging,
+              weaving and similar facilities are not captured correctly.
+
+The development
+              of high performance computing implementations will extend the applicability of
+              microscopic traffic simulation. Using coarse-grained parallel and distributed
+              computing platforms will allow for the development of portable codes using
+              public domain inter-processor communication software libraries.  We will review
+              the state-of-the-art in network decomposition methods, thus creating a basis
+              for follow-up research. 
+
+The focus of the project will be the development
+              and calibration of innovative driving behavior models capturing the intelligent
+              behavior principles mentioned above.  Calibrated models will, in the future, be
+              implemented in MITSIMLab, a microscopic traffic simulation laboratory developed
+              at MIT.  Simulations will be conducted to test the models and to suggest
+              further refinements.
+
+This award is made under the Exploratory Research on
+              Engineering the Transport Industries (ETI) program solicitation.
+
+

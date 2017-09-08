@@ -1,0 +1,44 @@
+Title       : Concurrent Programming Language Support for Invocation Handling: Design and
+               Implementation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 4,  1998     
+File        : a9527295
+
+Award Number: 9527295
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $110855             (Estimated)
+Investigator: Ronald A. Olsson olsson@cs.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              This project examines new language mechanisms for accessing  message invocations
+              in message passing based concurrent  programming languages. Current mechanisms
+              for invocation  selection control, including those that allow invocation 
+              parameters to be examined, are not expressive enough. In  particular, they do
+              not provide a simple and efficient way  to examine pending invocations of an
+              operation or allow the  selection decision to be based on more than just a
+              single  invocations parameters. Examining invocations and performing 
+              cross-invocation or cross-operation selection are important  in a number of
+              real applications, including debugging,  visualization, and scheduling
+              algorithms.  Using current  mechanisms to solve these problems results in
+              cumbersome and  inefficient code. This project involves a mix of conceptual, 
+              design, implementation, and evaluation work. To make the  work concrete, the
+              new language mechanisms are being defined  and implemented as extensions to the
+              SR concurrent  programming language. The results of the qualitative and 
+              quantitative evaluations are being used to refine the  semantics and
+              implementations of the new language  mechanisms.  ***

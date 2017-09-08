@@ -1,0 +1,88 @@
+Title       : A Large-Scale, Highly Configurable Network Emulation Facility
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0082493
+
+Award Number: 0082493
+Award Instr.: Continuing grant                             
+Prgm Manager: Gregory E Monaco                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $1998133            (Estimated)
+Investigator: Jay Lepreau lepreau@cs.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4091      NETWORK INFRASTRUCTURE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1087,9217,9218,HPCC,
+Abstract    :
+                   Today there exist three environments in which to perform network research:
+              live networks, network
+simulators, and static small-scale testbeds. Although
+              each environment has benefits, each also has many
+limitations. This project
+              proposes to build a new type of experimental environment, an "Internet in a
+              room," which will not only complement the strengths and weaknesses of existing
+              experimental environments, but work synergistically with some of them, such as
+              simulation.
+     The proposed instrument, a large-scale network emulation
+              facility, will be a unique resource for network
+experimenters. The researchers
+              are currently building a prototype, based on donated equipment and University
+              of Utah funds. Under this proposalthe researchers will continue this early
+              work, make the testbed "real" through developing significant software and
+              deploying additional hardware, work closely with others to integrate it with
+              network simulators, and provide professional staffing so that the facility is
+              of maximum use to external researchers.  A crucial goal is to make the facility
+              universally available to any external researcher, without administrative or
+              technical obstacles to simple and straightforward use.
+     Single-node
+              systems research and development has flourished as the barriers to entry have
+              plummeted.
+Inexpensive, commodity, open, hardware (x86 PC) and software
+              (Linux, *BSD), have made such R&D
+possible for all researchers, without large
+              budgets. We propose to develop the software for an instrument
+that will bring
+              similar benefits to network researchers, and apply it to a first instance of
+              hardware.
+     A significant aspect of this proposal is joint work with other
+              researchers  domain experts, especially net-work simulation experts at Georgia
+              Tech  to exploit the facility's unique capabilities for network emulation, to
+              learn how best to use it, and to guide its evolution.
+     The emulation
+              facility's unique characteristics include:
+     (1)  significant scale: 250
+              nodes, each of degree at least four.
+     (2)  user-configurable lowest-level
+              control over the testbed's "physical" characteristics, such as error models,
+              latency, bandwidth, packet ordering, processing power, and buffer space.
+    
+              (3)  accurate emulation of wide-area networks via internal traffic-shaping
+              nodes;
+     (4)  capture of low-level device/OS costs such as interrupt load
+              and memory bandwidth;
+     (5)  experimentation on the router software itself,
+              as well as ease of maintainence and robust security, is
+provided by fully
+              user-replaceable router OS/software;
+     (6)  "ns" compatible specification
+              language and integration with the Georgia Tech "software backplane
+for
+              emulation," allowing experiments easily to move between simulation and
+              emulation;
+     (7) remote configurability and availability to researchers
+              world-wide, both time and space-shared;
+     (8)  isolated control,
+              monitoring, and data acquisition network; remote power control and serial line
+              console /debugging for all nodes;
+     (9)  incorporation as an integral part
+              of the national Active Network Backbone (ABONE).

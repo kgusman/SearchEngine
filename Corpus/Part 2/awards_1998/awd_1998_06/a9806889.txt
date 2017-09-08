@@ -1,0 +1,44 @@
+Title       : Formal Verification of Microprocessors by Design Reduction
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 13,  2002      
+File        : a9806889
+
+Award Number: 9806889
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $356500             (Estimated)
+Investigator: David L. Dill dill@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is exploring a class of verification methods,  called design
+              reductions, which have advantages over  conventional approaches. Design
+              reduction works by  simplifying a design incrementally. At each step, 
+              consistency checking is done using symbolic verification  methods, which use
+              symbolic simulation and automatic  decision procedures for fragments of logic.
+              For example,  initial design reductions are proposed to remove pipelining  and
+              similar optimizations, eliminate caching, simplify  interfaces, and eliminate
+              traps and interrupts. Once a  design has been simplified as much as possible,
+              it can be  compared with a user-supplied specification much more easily  than
+              can the original design. The project is also  investigating several promising
+              avenues to avoid or simplify  the generation of inductive invariants, which is
+              the most  time-consuming aspect of symbolic verification. The project  is
+              searching for: new proof methods that only require  invariants for certain
+              states where the invariants are  comparatively simple to express; ways of
+              identifying  internal correctness conditions that contribute to an  invariant;
+              and methods integrating approximate model  checking into a more general
+              framework.

@@ -1,0 +1,78 @@
+Title       : Mathematical Sciences: Positron Emission Tomography: Modelling, Analysis and
+               Algorithms
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 29,  1998     
+File        : a9623077
+
+Award Number: 9623077
+Award Instr.: Continuing grant                             
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1996     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $120000             (Estimated)
+Investigator: Bernard A. Mair bam@math.ufl.edu  (Principal Investigator current)
+              Murali Rao  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9183,9216,9263,BIOT,HPCC,
+Abstract    :
+              9623077  Mair  The proposers investigate a refinement of the Shepp-Vardi 
+              probabilistic model for positron emission tomography (PET), and the 
+              corresponding expectation-maximization maximum-likelihood (EM-ML) 
+              reconstruction algorithm. This model replaces the usual finite linear  system
+              with an integral equation in which the unknown is a Borel  measure. The
+              research includes an analysis of the convergence  properties of this algorithm,
+              numerical methods of implementation by  spline and wavelet bases, and an
+              analysis of the smoothing effects of  these bases.  The convergence results
+              provide mathematical reasons in  terms of the regularity properties of Borel
+              measures, for the  seeming divergence of the numerical implementations of the
+              finite  dimensional EM-ML algorithm. Also, since the EM-ML algorithm has been 
+              recently extended to linear integral equations in which the kernel and  the
+              unknown function are nonnegative, these results provide important  insight into
+              the open problem of convergence of this algorithm. In  addition, the research
+              introduces, analyzes, and develops novel  algorithms for dealing with data
+              errors due to accidental coincidences  and attenuation. The proposers also
+              investigate the mathematical  properties of the probability functions which
+              link the emissions to  the detector geometry in both PET and single photon
+              emission computed  tomography (SPECT). Preliminary work for SPECT links these
+              functions  to the classical Poisson kernel. This study is important for 
+              developing accurate, efficient, fast, alternatives to the EM-ML  reconstruction
+              algorithm.  %%%  The mathematical realization of many problems in science,
+              engineering,  and medicine, give rise to inverse problems which are ill-posed
+              in the  sense of Hadamard, and in which positivity plays an important role. 
+              This proposal deals mainly with the particular example of such a  problem
+              occuring in the nuclear imaging procedure of PET. In this  procedure, a patient
+              is given a radiopharmaceutical which is absorbed  disprop ortionately by
+              various regions of the organ of interest and  emits positrons according to the
+              amount absorbed. These emissions are  collected by PET scanners which surround
+              the region of interest and  then used in reconstruction algorithms which
+              generate images  containing important information about the metabolism of an
+              organ or  region of interest. This information is extremely useful for blood 
+              flow and metabolic activity studies. For instance, it is a valuable  tool in
+              the diagnosis of tumors, in determining their rates of growth;  in
+              psychological studies for mapping activation areas of the brain to  cognitive
+              tasks, in determining the effects of various drugs on the  brain, and in
+              quantitative measures of the health of the human heart.  The proposers develop
+              a refined mathematical model for the PET process  and introduce novel
+              mathematical and numerical methods for the  reconstruction of PET images. These
+              reconstruction algorithms are  sufficiently flexible to deal with significant
+              errors in the PET data,  caused by anatomical obstructions which prevent some
+              of the emitted  photons from being registered in the appropriate detector. An 
+              important component of this work is the development and evaluation of 
+              efficient, reliable, accurate algorithms for reconstructing PET  images. 
+              Although primarily directed to PET studies, the  results obtained in this
+              reserach are also applicable to other medical  and engineering problems, such
+              as those which occur in liver biopsies,  nondestructive evaluation of
+              manufactured items, and the restoration  of blurred images from outer space.   
+              ***

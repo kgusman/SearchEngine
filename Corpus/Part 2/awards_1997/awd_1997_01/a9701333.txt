@@ -1,0 +1,44 @@
+Title       : Application-Level Scheduling with AppLeS
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : December 17,  1999  
+File        : a9701333
+
+Award Number: 9701333
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $596954             (Estimated)
+Investigator: Francine D. Berman berman@sdsc.edu  (Principal Investigator current)
+              Richard Wolski  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Fast networks have made it possible to aggregate distributed CPU, memory,
+              storage, and data to provide the potential for application performance superior
+              to that attainable on any single system.  However, achieving performance on
+              these metacomputing systems has proven difficult.  Currently, application
+              developers use customized application schedules to achieve performance on a
+              metacomputer.  Such schedules are based on a prediction of how the application
+              will execute, given its resource requirements, the performance capabilities of
+              the system resources, and the time-varying contention effects caused by
+              competing applications executing on the metacomputer.  This project's goal is
+              to use the application-centric scheduling paradigm that is emerging from the
+              practices of metacomputing applications developers as the basis for scheduling
+              software which promotes application performance on metacomputing systems.  To
+              do this, the PIs will design and implement application-centric scheduling
+              agents - called AppLeS (Application Level Scheduler) agents - for individual
+              metacomputing applications.  AppLeS agents will schedule the components of an
+              individual parallel application on a non-dedicated system according to the
+              dynamically changing performance each resource can deliver.

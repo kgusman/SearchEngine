@@ -1,0 +1,76 @@
+Title       : Research on Adaptive Estimation and Control of Dynamical Systems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : February 4,  2000   
+File        : a9703812
+
+Award Number: 9703812
+Award Instr.: Continuing grant                             
+Prgm Manager: William B. Smith                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Michael Katehakis mnk@andromeda.rutgers.edu  (Principal Investigator current)
+              Herbert E. Robbins  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9148,9215,HPCC,MANU,OTHR,
+Abstract    :
+              DMS 9703812  Research on  Adaptive Estimation and Control of      Dynamical
+              Systems.     Michael N. Katehakis and Herbert Robbins    Rutgers University   
+              Abstract    This research involves work on adaptive control of dynamic systems.
+                The basic dynamic model is known as the "Markov decision process with  
+              incomplete information" (MDP) problem,  where the transition law   and/or the
+              expected one-period rewards may depend on unknown   parameters.  The most
+              notable results in this area are based on ideas   utilizing either a separation
+              principle and the related   certainty-equivalence rule, or uniformly efficient
+              rules for the   model of  sequential allocation known as the multi-armed bandit
+                (MAB) problem.  Limitations of the certainty-equivalence rule are:   i) 
+              there is no claim on the rate of convergence, and    ii)  there are cases  for
+              which, with positive probability, this   rule can prematurely converge to a
+              wrong parameter value so that   it eventually uses only a non-optimal policy.
+              The  typical approach  in the latter studies  has been to  fit  the larger MDP
+              model into  the smaller MAB one by considering each deterministic policy as a  
+              reward-generating population (bandit).  A consequence of this is   that the
+              resulting statistically  efficient procedures  involve   sampling from all
+              deterministic policies and do not otherwise   utilize the optimization aspect
+              of the problem. Thus, they become   limited in scope by data collection
+              complexity.  The reason is   that in practice the state spaces of  MDP models
+              tend  to be very  large and the set of deterministic policies is   immense.  In
+              recent work the investigators have obtained adaptive   procedures with data
+              collection requirements that are  proportional   to the number of state -
+              action pairs of the MDP, under a minimal   irreducibility condition. A major
+              direction of the proposed research   involves  the development of solutions for
+              important more general   problems  such as  i) multi-chain MDPs,  ii) the case
+              in which there   a re side constraints, and  iii) discounted streams of
+              rewards.  A   second  important goal is the development of  new adaptive  
+              statistical methods  that possess practically useful implementation   and
+              optimality  properties for the related problems of detection of    total error
+              and change points.      The main idea of adaptive control is to compute
+              strategies (policies,   or control rules) for the operation of  a system that
+              estimate the   unknown parameters of the system, and in doing so converge to a 
+               strategy that is optimal for the true values of the unknown   parameters. 
+              Applications arise in many  areas of  modern engineering,   finance, and
+              operations research, such as reliability, maintenance,  quality control, 
+              scheduling,  inventory, and  production planning.   Consequently, this type of
+              problem has been widely studied in the   literature. However,  effective
+              procedures that take into account and   optimize  the speed of  convergence 
+              have been obtained only recently   for specific models, often, with prohibitive
+              data collection   complexity.  A primary objective of the proposed research is
+              the   development of relatively simple adaptive control procedures with  
+              reasonable computational and memory  requirements for on-line   implementation,
+              for a wide class of problems, utilizing ideas from   recent work of the
+              investigators. Another  important goal is the   development of  new methods for
+              specific models useful in such areas   as software reliability (error
+              detection)  and  quality control   (change points).  This research relates to
+              the following strategic  areas of national concern: high performance computing,
+              communications,  and manufacturing.

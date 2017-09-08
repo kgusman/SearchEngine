@@ -1,0 +1,113 @@
+Title       : Games, Time, and Probabilities in Model Checking
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 19,  2000 
+File        : a9988172
+
+Award Number: 9988172
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $310000             (Estimated)
+Investigator: Thomas A. Henzinger tah@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 2880,9216,HPCC,
+Abstract    :
+              PI:  Henzinger, Thomas
+Proposal Number:  9988172
+Institution:  University of
+              California-Berkeley
+
+Abstract
+
+Model checking is a method for determining
+              automatically if a computer system
+meets its requirements.  Prompted by its
+              successes in the hardware industry,
+model-checking techniques have been
+              developed for analyzing requirements of
+distributed and embedded systems that
+              go beyond classical safety and liveness
+properties.  These richer requirements
+              include game properties, timing
+properties, and probabilistic properties.  All
+              three classes of properties
+have in common that the underlying system model is
+              no longer the Kripke
+structure, but a structure equipped with multiple players
+              (the game graph),
+with clocks (the timed automaton), or with probabilities
+              (the Markov decision
+process).  While these three structures are reasonably
+              well-understood, and
+corresponding model-checking tools have been implemented,
+              any combination of
+the three features --games, time, and probabilities-- gives
+              rise to genuinely
+new phenomena.
+
+First, consider the combination of games
+              and probabilities.  The resulting
+model of a system is the concurrent game,
+              where the players choose, in each
+configuration, their moves simultaneously,
+              independently, and possibly at
+random.  We develop algorithms for solving
+              concurrent games, in order to
+improve the compositional (divide-and-conquer)
+              approach to model checking.
+For example, game-theoretic methods facilitate the
+              early detection of error
+scenarios, and the automatic synthesis of environment
+              assumptions for system
+components.  Second, consider the combination of games
+              and time.  The
+resulting model of a system is the timed game, where the
+              players choose, in
+each configuration, their moves together with delays that
+              indicate when the
+moves are played.  We develop algorithms for solving timed
+              games in order to
+provide a method for synthesizing software controllers of
+              physical plants.
+Third, consider the combination of time and probabilities. 
+              The resulting
+model of a system is the timed probabilistic system, where in
+              each state,
+every enabled action has associated with it both a probability
+              distribution
+over successor states and an expected delay before the state
+              transition
+occurs.  Timed probabilistic systems permit the analysis of
+              performance and
+reliability properties.  We develop a temporal-logic framework
+              for
+classifying performance properties and practical (iterative) algorithms
+              for
+their analysis.  Finally, the combination of games, time, and
+              probabilities
+results in timed concurrent games.  We study define and these
+              systems in
+order to facilitate the compositional analysis of real-time systems
+              and the
+automatic synthesis of randomized controllers.
+
+The algorithms
+              developed in this project are implemented in the
+model-checking environment
+              Mocha and applied to case studies from
+component-based design (compositional
+              model checking), embedded systems
+(controller synthesis), and network
+              protocols (performance evaluation).

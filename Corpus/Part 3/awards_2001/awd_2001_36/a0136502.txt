@@ -1,0 +1,53 @@
+Title       : RUI/ROA: Support Tools for Memory-Based Filesystem
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 22,  2002     
+File        : a0136502
+
+Award Number: 0136502
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  2002     
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $33527              (Estimated)
+Investigator: Geoffrey H. Kuenning geoff@cs.hmc.edu  (Principal Investigator current)
+Sponsor     : Harvey Mudd College
+	      301 E. 12th Street
+	      Claremont, CA  91711    909/621-8121
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Abstract:
+
+The Conquest hybrid disk/memory file system takes a new approach
+              to
+filesystem design by storing most information in RAM, devoting disk
+only
+              to large files.  Preliminary results have shown great benefits
+from the
+              Conquest approach, despite the fact that the on-disk portion
+of the file
+              system has yet not been optimized.  In this research, we
+will investigate the
+              optimal method of storing those large disk-based
+files.  After reviewing prior
+              research in disk layout, we will design
+and implement a layout that is
+              optimized for storing large files in an
+environment that is free of metadata
+              and small files.  We will also
+develop a "cleaner" that will dynamically
+              adjust the arrangement of
+on-disk data to optimize the performance of disk
+              access.  Finally, we
+will take measurements to quantify the improvements
+              brought by the new
+approach.
+

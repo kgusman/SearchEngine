@@ -1,0 +1,74 @@
+Title       : The Unscented Kalman Filter for Machine Learning
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 21,  2000    
+File        : a0083106
+
+Award Number: 0083106
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $287073             (Estimated)
+Investigator: Eric A. Wan ericwan@ece.ogi.edu  (Principal Investigator current)
+Sponsor     : Oregon Hlth and Science U
+	      3181 S W Sam Jackson Rd
+	      Portland, OR  972013011    503/748-1031
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              0083106
+Wan
+
+Several areas of machine learning including classification and
+              regression, nonlinear signal processing, and adaptive control, rely heavily on
+              the extended Kalman filter (EKF).  For example, the EKF plays a central role in
+              nonlinear state estimation required by complex control applications, and is
+              used as a parameter, estimation algorithm in neural network training for
+              pattern recognition, and for identification of dynamic systems.  The EKF also
+              plays an important role in the simultaneous modeling and estimation (known as
+              dual estimation) of noisy time-series, with applications ranging from speech
+              enhancement, to financial forecasting and environmental modeling.
+
+The
+              central approximation used in the EKF is a linearization of the nonlinear
+              system dynamics.  While this is done in order to propagate the mean and
+              covariance of the state variables being estimated, the EKF can introduce
+              considerable errors between the estimates produced by the algorithm and the
+              true statistics of the state.  However, the computational expense of the
+              algorithm is considerably lower than that of more accurate Markov-Chain Monte
+              Carlo (MCMC) sampling methods, and produces excellent results in many
+              circumstances. The benefit of good results at low cost is primarily responsible
+              for the widespread use of the EKF.
+
+In 1997, Julier and Uhlman introduced a
+              new approach called the Unscented Kalman Filter By avoiding a linearization of
+              the system, the UKF offers increased accuracy in the estimation of the mean and
+              covariance of the state variables, resulting in a substantial performance
+              improvement.  The implementation of the UKF requires no analytic derivation of
+              Jacobians (gradients) as in the EKF, and most importantly, the improved
+              accuracy is achieved without an increase in computational expense.
+
+The prior
+              application of the UKF focused only on state-estimation problems in the context
+              of nonlinear control.
+The objective of this project is to extend the use of
+              the UKF to the full breadth of machine learning applications that currently
+              depend on the EKF.  This will entail the systematic development of algorithmic
+              extensions and application evaluations as detailed in the proposal.  Although
+              numerous theoretical and practical problems must be overcome before this goal
+              is achieved. Preliminary investigations have shown that the potential
+              advantages of the UKF in these contexts are significant.  Clearly, the
+              diversity of applications that currently employ the EKF suggests that the
+              proposed research aching impact on a wide variety of fields.
+***
+
+
+

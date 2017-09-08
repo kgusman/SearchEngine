@@ -1,0 +1,90 @@
+Title       : Analysis and Computation for Optimal Control Problems with Pointwise State and
+               Control Constraints
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a9803755
+
+Award Number: 9803755
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1998       
+Expires     : November 30,  2002   (Estimated)
+Expected
+Total Amt.  : $118300             (Estimated)
+Investigator: Joseph C. Dunn joe_dunn@ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9803755
+Dunn
+
+Physical systems whose states evolve in response to variable
+              externally
+applied controlling forces, voltages, temperatures, interest rate
+              policies,
+resource allocation strategies, and the like, are commonly modeled
+              by
+differential equations or approximating difference equations.
+              Related
+optimization problems arise naturally when some choice is permitted
+              in
+the way the control inputs are applied in time or space. These optimal
+              control problems have classic precursors in the Calculus of Variations, and may
+              also be viewed as specially structured nonlinear programs in function spaces
+              or
+finite-dimensional sequence spaces. The most difficult optimal
+              control
+problems enforce strict pointwise bounds or other inequality
+              constraints
+on the control and state variables. Run-of-the-mill problems in
+              this
+category can easily entail hundreds or thousands of variables with
+              comparably
+many constraints, and when cast in the currently accepted
+              mathematical format,
+are often so badly scaled that the simplest and most
+              readily implemented
+iterative optimization methods are effectively
+              incapacitated. The more
+sophisticated Newtonian and quasi-Newtonian algorithms
+              do provide
+computational countermeasures for bad scaling near almost-singular
+              local minimizers; however, Newtonian scaling procedures are costly and do
+              not
+guarantee good nonlocal convergence properties while the iterates are
+              still
+far from a local minimizer.
+
+The proposed investigation would address
+              these issues with theoretical and
+computational evaluations of standard
+              optimization schemes implemented in
+a new nonstandard mathematical framework
+              for optimal control problems
+with pointwise state and control constraints. The
+              alternative framework replaces local differential or difference forms of the
+              state evolution equations by nonlocal integrated forms, and replaces state
+              variables in the primal variable set by new artificial variables that coincide
+              with the state when all constraints are met. Recent experiments with hybrid
+              augmented Lagrangian projection methods outlined in this proposal indicate real
+              and important analytical and computational advantages in the new formulation.
+              The goal of the proposed study is to gain more experience with algorithm
+              implementations in this setting, and to develop sharpened optimality conditions
+              and other mathematical tools needed to achieve a deeper understanding of the
+              observed behavior and improve the computational methods. Improvements in this
+              area must have an immediate and significant practical impact, since large-scale
+              computationally challenging optimal control problems arise in many physical
+              settings.
+
+
+

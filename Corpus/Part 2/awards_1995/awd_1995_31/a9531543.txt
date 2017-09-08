@@ -1,0 +1,69 @@
+Title       : REU: Intelligent Structures Group Research Experiences for Undergraduates Site
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : March 8,  1997      
+File        : a9531543
+
+Award Number: 9531543
+Award Instr.: Continuing grant                             
+Prgm Manager: Stephen R. Mahaney                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1996        
+Expires     : April 30,  1998      (Estimated)
+Expected
+Total Amt.  : $128000             (Estimated)
+Investigator: W. Thomas Miller t miller@unhh.unh.edu  (Principal Investigator current)
+Sponsor     : U of New Hampshire
+	      Service Bldg., Room 111
+	      Durham, NH  03824    603/862-1234
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9178,9250,SMET,
+Abstract    :
+              Psarris  9528330  In the past decade much progress has been made in developing 
+              high  performance large scale parallel architectures.  The  development  of
+              fast restructuring compilers for the automatic  parallelization  of sequential
+              programs requires efficient data dependence  analysis techniques in order to
+              obtain exact data dependence  information. The proposed techniques in data
+              dependence  analysis  fall into two categories, either efficient and
+              approximate  tests  or exact and exponential.  The proposed research will 
+              attempt to  show, though, that exact data dependence information can be 
+              computed efficiently in practice.  The GCD test and the  Banerjee  inequality
+              are the two tests most widely used to detect data  dependencies between pairs
+              of array references inside loop  nests.  These tests are approximate in the
+              sense that they are  necessary  but not sufficient conditions for data
+              dependence and,  therefore,  they may introduce artificial dependences which
+              limit  parallelization.  Their major advantages is their low  computation 
+              cost.    A recent study provided necessary and sufficient conditions  for  the
+              accuracy of the GCD and Banerjee tests.  This study has  also  led to the
+              development of the I (Interval) test, an improved  dependence analysis test. 
+              The I Test is more accurate than  a  combination of the GCD and Banerjee tests
+              and is able to  provide  exact data dependence information in practice, unlike
+              the  classic  tests, at no additional computation cost.  The original work 
+              considered only the case of loops with constant loop limits.  In  scientific
+              applications though, inner loop limits may be  linear  functions of the outer
+              loop iteration variables (these  iteration  spaces are termed trapezoidal
+              regions).    This project develops an efficient and accurate dependence 
+              analyzer.  The research has four objectives.  The first  objective  is to
+              derive conditions for the accuracy of the GCD and  Banerjee  tests in general
+              trapezoidal regions and perform and  empirical  stud y of how often these
+              conditions occur in practice. The  second  objective is to extend the I test to
+              the general trapezoidal  regions and to assess its performance benefits on a
+              suite of  benchmark codes.  The third objective is an analytical and  empirical
+              comparison of the I test with all the other tests,  such  as the Omega test,
+              Power test, etc.  An analytical and  experimental evaluation of all the data
+              dependence analysis  tests is essential to determining which tests should be 
+              performed in practice.  The fourth and principal objective  is to  integrate
+              the above research work and develop an improved  dependence analyzer as a part
+              of the Paraphrase-2  parallelizing  compiler.    It is expected that the
+              completion of the proposed research  will  improve the understanding of data
+              dependence analysis,  demonstrate the effectiveness and practical importance of
+               the  proposed techniques, and significantly improve the state of  the  art in
+              parallelizing compilers.  By providing efdicient and  exact  dependence
+              analysis techniques a number of compiler  optimizations  for high performance
+              computer architectures can be performed  in  practice.  ***

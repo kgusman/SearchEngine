@@ -1,0 +1,58 @@
+Title       : Reasoning About Low-Level Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  2002       
+File        : a0204242
+
+Award Number: 0204242
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: John C. Reynolds john.reynolds@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Research is proposed on the specification and verification of computer programs
+              written in languages that provide a low-level view of storage and other
+              resources.  This research will focus on novel formal methods for two
+              particularly crucial programming techniques:Shared mutable data structure - the
+              use of representations that may contain more than one pointer to a location
+              that can be updated by the program. These data representations will be
+              specified in an extension of predicate logic, called separation logic, in which
+              the structure of assertions mirrors the separation of storage into
+Disjoint
+              components. Embedded code pointers - the use of data
+              representations
+Containing updatable components that point to program
+              instructions. 
+Programs using code pointers will be specified by using a
+              reflection
+Operator that allows code to occur within assertions.
+
+Specific
+              aspects of low-level programming to be investigated include
+storage
+              allocation, share-variable concurrency, and the relation
+between
+              specifications and tye systems.
+As a consequence of this research, it will
+              become easier to avoid
+errors in an important class of useful but difficult
+              computer programs. 
+Eventually, it should be possible to automate the logic so
+              that programs in this
+Class can be accompanied by machine-checkable proofs of
+              their correctness
+

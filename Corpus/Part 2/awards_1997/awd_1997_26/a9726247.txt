@@ -1,0 +1,75 @@
+Title       : Variable Bit Rate Control of Distributed Sensor Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 2,  2000     
+File        : a9726247
+
+Award Number: 9726247
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $124088             (Estimated)
+Investigator: Peter H. Bauer pbauer@mars.ee.nd.edu  (Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              An accurate model of an ATM communication network must take into account the
+              buffer delays which are time-variant, and nonlinearities arising from buffer
+              and source rate saturation and quantization.  The time-variant buffer delays in
+              particular play a crucial role in the dynamic behavior of high-speed networks. 
+              The ensuing nonlinear time-variant model however is extremely difficult to
+              analyze.  All existing work therefore rely on simplified linear piecewise
+              time-invariant models.  At simulation stage, network flow controller designs
+              based on such models may appear satisfactory; however, when applied to a
+              high-speed system, the true network often exhibits undesirable behavior in
+              contrast to what is predicted.
+
+In this proposal, a more realistic model for
+              high-speed networks that includes time-variant delays and nonlinearities will
+              be developed.  A distributed sensor network (DSN) that operates in a highly
+              dynamic environment is a particularly demanding application where the network
+              time-variance cannot be ignored.  Indeed, treating such a network by
+              conventional piecewise time-invariant methods can lead to unacceptable
+              oscillatory behavior.
+
+Communication and processing of signals from a DSN
+              that utilizes a variety of sensors which may be distributed logically,
+              spatially, and geographically, is an essential problem encountered in several
+              areas, such as, robotics, automation, aerospace, medical imaging, etc.  In such
+              a DSN, decisions are made at each node in a particular hierarchical level by
+              fusing data communicated from the lower levels.  In a highly dynamic
+              environment where the observed scene can change frequently and dramatically, it
+              is essential that importance measures or weights are attached to nodes in the
+              network.  This allows allocation of `importance proportional rates' to each
+              node.  Such a paradigm, when implemented via an ATM network with the available
+              bit-rate (ABR) option, is shown to allow effective utilization of bandwidth,
+              possibility of capturing transient network dynamics with minimal data loss, and
+              adaptability to fast changes and faults.  To accommodate `bursty' traffic,
+              buffer set points are allowed to be varied according to importance of
+              corresponding nodes.  Furthermore, network configuration guidelines that allow
+              maximum utilization of the proposed variable bit-rate scheme are
+              provided.
+
+To ensure fault tolerance, each node is provided with a local
+              controller whose parameters are chosen to guarantee the node rate to conform to
+              the allocated weight within a specified settling time.  The fundamental
+              requirement of stability of such a time-variant network is achieved via recent
+              results on robust stability.  The same methods will be used to provide bounds
+              on maximum delays involved and buffer lengths.  This allows effective
+              utilization of the proposed strategy of variable buffer set points.  For the
+              assignment of importance measures and weights to each node, Dempster-Shafer
+              evidential reasoning techniques are invoked.  
+
+
+

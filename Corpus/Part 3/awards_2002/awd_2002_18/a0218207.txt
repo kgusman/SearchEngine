@@ -1,0 +1,53 @@
+Title       : Control of Markov Processes Subject to Qualitative Constraints
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 22,  2002    
+File        : a0218207
+
+Award Number: 0218207
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2002  
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $333967             (Estimated)
+Investigator: Ari Arapostathis ari@ece.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              Discrete event systems (DESs) are systems evolving according to the occurrence
+              of certain discrete qualitative changes, called events.  Examples of events
+              include the arrival of a customer in a queue, the termination of an algorithm
+              in a computer program, the loss of a message packet in a communication network,
+              the breakdown of a machine in a manufacturing system.
+
+In this proposal we
+              consider stochastic DESs modeled by Markov processes, and study control
+              problems that satisfy qualitative properties.  We outline a program of work
+              aiming to develop a unified framework for qualitative control of stochastic
+              DESs.  In particular, we propose to study the control of stochastic systems
+              with general qualitative constraints such as safety, non-blocking, recurrence,
+              and stability; optimal control subject to qualitative constraints; control
+              under complete or partial observations; effects of using deterministic versus
+              randomized policies; and effects of using stationary versus non-stationary and
+              asymptotically stationary control policies.
+
+Safety constraints are specified
+              as unit-interval-valued vectors serving as an upper bound for the state
+              probability distribution of the controlled Markov chain.  Non-blocking
+              specifications require that the probability of hitting a target set of states
+              stays above a certain minimum value.  Recurrence or liveness amounts to the
+              probability of hitting a target set of states infinitely-often being bounded
+              below by a positive constant, while convergence or stability demands that the
+              state probability distribution enters and stays in a `safe' set within a finite
+              number of steps.
+

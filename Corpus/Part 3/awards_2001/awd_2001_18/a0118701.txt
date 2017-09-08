@@ -1,0 +1,64 @@
+Title       : Low Density Parity Check Codes for Channels with Memory
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 29,  2003   
+File        : a0118701
+
+Award Number: 0118701
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $510000             (Estimated)
+Investigator: Michael Mitzenmacher michaelm@eecs.harvard.edu  (Principal Investigator current)
+              Aleksandar Kavcic  (Co-Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              In recent years, low-density parity-check (LDPC) codes have been shown
+to have
+              the power to perform within thousandths of decibels of the
+Shannon channel
+              capacity of memoryless communications channels.  This
+project seeks to answer
+              a natural question: how good are these codes
+for transmission over channels
+              with memory?  The channels under
+consideration are Markovian memory channels,
+              including both channels
+where the memory is dependent and independent of the
+              transmitted
+symbols.  Such channels arise in several applications, such as
+              disk
+drives or other storage media.
+
+The analysis and design of LDPC codes
+              has benefited from representing
+these codes as graphs, where the decoding is
+              done by passing messages
+along the graph edges.  This graph model allows an
+              analysis using
+martingales that underlies recent advances, including the
+              density
+evolution design technique.  The investigators study how to
+              extend
+this graphical modeling approach to channels with memory. 
+              More
+specifically, the project is divided into four major tasks:  
+designing
+              density evolution algorithms under new channel models;
+evaluating noise
+              tolerance thresholds;  engineering codes for short
+block lengths and rapid
+              decoding;  and achieving spectral shaping with
+low-density parity-check codes.

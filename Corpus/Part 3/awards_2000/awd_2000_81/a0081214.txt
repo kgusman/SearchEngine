@@ -1,0 +1,55 @@
+Title       : ITR: Intelligent Storage Systems for Object-Oriented Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 30,  2002     
+File        : a0081214
+
+Award Number: 0081214
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $449748             (Estimated)
+Investigator: Ron K. Cytron cytron@cs.wustl.edu  (Principal Investigator current)
+              Mark A. Franklin  (Co-Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9218,HPCC,
+Abstract    :
+              Object-oriented programming is the mechanism of choice for implementing high-end
+              applications.  However, the architectures supporting these applications
+              continue to be biased toward array- rather than object-based
+paradigms,  where
+              proximity of storage layout does not necessarily imply contemporaneous
+              access.
+Object-oriented programs do exhibit repeated patterns of storage
+              access.  Thus, a dynamic approach that can 
+facilitate intelligent
+              pre-fetching of data into Caches or TLB's can better support object-oriented
+              programs.
+
+This research investigates the use of intelligent storage systems,
+              such as Intelligent RAM (IRAM) and Processor in Memory (PIM) devices, to
+              improve the performance of object-oriented programs in the following three
+              ways.  Storage management functions, such as allocation and garbage collection,
+              are migrated to intelligent memory devices using algorithms that are not only
+              efficient in execution time, but also simple in logic design.  Storage prefetch
+              functions, such as memory forwarding and jump-pointers, are migrated away from
+              the CPU and its cache and into the intelligent storage system.  Storage access
+              idioms are captured, compressed, and sent to the intelligent storage system for
+              execution.
+
+The result of this research is the liberation of the CPU and its
+              data cache from the overhead associated with the dynamic, garbage-collected
+              storage of modern object-oriented languages.
+
+

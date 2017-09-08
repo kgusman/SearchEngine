@@ -1,0 +1,78 @@
+Title       : Graph Encodings, Embeddings, Labelings and Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 25,  2000    
+File        : a9912418
+
+Award Number: 9912418
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $191240             (Estimated)
+Investigator: Xin He xinhe@cse.buffalo.edu  (Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              In all graph algorithms, graphs are encoded by binary strings.
+The problem of
+              encoding graphs by binary strings is a fundamental
+problem in computer
+              science. To be useful in graph algorithms,
+an encoding of a graph G should be
+              as short as possible and
+support various graph queries and operations. The
+              well known
+adjacency-matrix and adjacency-lists representations are used
+              by
+virtually all existing graph algorithms. However, they do not satisfy
+all
+              of these requirements. New graph encoding schemes satisfying all
+of these
+              requirements for various graph families will be developed.
+Once such an
+              encoding scheme for a graph family is found, it will be
+possible to improve
+              and/or simplify existing algorithms for solving
+problems on this graph family.
+              In addition to graph algorithms, the
+short encoding of plane triangulations
+              (i.e. triangular meshes) has
+important applications in Computer Graphics.
+
+A
+              planar graph may have many plane embeddings. For some applications,
+it is
+              often required to find an embedding such that certain properties
+are
+              satisfied. These problems arise from areas such as VLSI design,
+Geographic
+              Information Systems, and some graph optimization problems.
+Existing algorithms
+              for solving these problems rely on dynamic
+programming and are not efficient.
+              In this research project we will
+develop more efficient algorithms and explore
+              their applications.
+
+A common technique is used in several recent algorithms
+              for solving
+graph drawing and floor-planning problems: Labeling vertices or
+              edges
+of a graph so that certain regular properties are satisfied;
+              then
+solving the problems by using the combinatorial structures
+              resulting
+from the labeling. We will extend this technique and use it to
+              solve
+other problems in these fields.

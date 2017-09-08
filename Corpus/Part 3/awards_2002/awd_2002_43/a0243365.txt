@@ -1,0 +1,59 @@
+Title       : Evolutionary Algorithms for Symbolic FSM Equivalence Checking
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 12,  2003  
+File        : a0243365
+
+Award Number: 0243365
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $147726             (Estimated)
+Investigator: Mitchell A. Thornton mitch@engr.smu.edu  (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Integrated Circuits (ICs) are becoming more complex and market demand continues
+              to pressure designers to produce new ICs in a shorter amount of time.  For
+              these reasons, there is interest in the use of verification
+methods that allow
+              designers the ability to ensure correctness of their product without resorting
+              to time-consuming simulation techniques.  Two approaches for verification are
+              equivalence checking and model checking.  Internally, in these two approaches,
+              a method for checking the equivalence of Finite State Machines (FSM) is
+              commonly used.
+
+FSM equivalence checking is typically implemented through the
+              use of a symbolic state-space reachability algorithm that uses BDD data
+              structures and satisfiability (SAT) algorithms. While there have been advances
+              in symbolic FSM machine state-space traversal methods in recent years, many
+              designs of interest still cannot be verified using this method due to the
+              transition relation (TR) BDD becoming too large, the BDD representing the state
+              space already traversed becoming too large, the intermediate BDDs during image
+              computation becoming too large, and, the overall process requiring too much
+              computation time.
+
+Evolutionary algorithms have recently been applied to
+              several problems in design automation.  This research project involves the
+              investigation of the use of evolutionary algorithms for exact and approximate
+              FSM
+equivalence checking.  Evolutionary algorithms are being developed that
+              prune the TR and the reachable state BDDs such that exact, over-approximation
+              or under-approximation state space traversals can be
+performed.  Since
+              evolutionary algorithms can be quite computationally intensive, a major portion
+              of this effort focuses on the development of efficient mutation and crossover
+              operations.
+
+

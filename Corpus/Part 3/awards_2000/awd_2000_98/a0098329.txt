@@ -1,0 +1,52 @@
+Title       : Delay Fault Modeling, Test, and Diagnosis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0098329
+
+Award Number: 0098329
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $316281             (Estimated)
+Investigator: Duncan M. Walker walker@cs.tamu.edu  (Principal Investigator current)
+              Weiping Shi  (Co-Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              As integrated circuit speed and density increases, more circuits fail due to
+              delay faults -- manufacturing defects that cause the circuit to operate at a
+              speed slower than intended.  Such circuits either cannot be used or must be
+              sold at a lower price.  The behavior of delay faults is complex, and
+              traditional manufacturing test approaches are increasingly ineffective in
+              detecting them.  This research attacks this problem by developing a novel
+              realistic delay fault model.  This model is being used to develop powerful
+              techniques for fault simulation, automatic manufacturing test generation, and
+              diagnosis for next-generation integrated circuits.  This work is being done in
+              cooperation with U.S. semiconductor manufacturers.  These test and diagnosis
+              techniques are being integrated into a state-of-art software system and will be
+              tested on real manufacturing problems.
+
+The new realistic delay fault model
+              considers resistive bridges and opens, the impact of process variation on
+              interconnect, device, and defect parameters, and the influence of interconnect
+              parasitics.  Fast layout and parasitic extraction algorithms, and model order
+              reduction techniques are being developed to reduce model cost for a given
+              accuracy level.  The model is encapsulated in a parameterized static timing
+              analysis engine for use in fault simulation, test generation and diagnosis.  A
+              constraint-based fault coverage analysis is used to determine fault coverage
+              over a set of vectors.  Together, these techniques can accurately predict fault
+              coverage and achieve very high delay fault coverage for scan-based CMOS logic
+              circuits.
+

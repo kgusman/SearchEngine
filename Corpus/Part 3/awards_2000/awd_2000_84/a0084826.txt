@@ -1,0 +1,50 @@
+Title       : Robust Airline Crew Scheduling: Move-Up Crews
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : September 6,  2000  
+File        : a0084826
+
+Award Number: 0084826
+Award Instr.: Standard Grant                               
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $174244             (Estimated)
+Investigator: Diego Klabjan klabjan@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1787      Service Enterprise Engineering
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 1465,1504,9147,MANU,
+Abstract    :
+              This project develops a decision support tool for robust airline crew
+              scheduling.  A model that solves the airline crew-scheduling problem and
+              captures two objectives the crew cost and the number of crews that can be
+              swapped in operations will be devleoped.  The former cost forms the traditional
+              objective function and the latter cost is a measure of robustness since
+              schedules with many swappable crews are likely to be robust. Two methodologies
+              to solve the model are proposed.  A Lagrangian decomposition approach relaxes
+              the 'robustness' constraints and iteratively solves the crew-scheduling problem
+              with different objective coefficients.  A parallel branch-and-cut algorithm for
+              solving these crew-scheduling problems will be developed. The second approach
+              uses subgradient optimization and the new concept of computing a 'dual' of an
+              integer program.  An algorithm for computing such a dual vector will be
+              developed and implemented.
+
+The proposed methodology will yield crew
+              schedules that can potentially reduce operational crew cost.  The operational
+              crew cost increases up to seven times due to various disruptions in the flight
+              schedule.  Using robust crew schedules obtained by this research can
+              significantly reduce this factor and hence it can provide substantial benefit
+              to airlines. The proposed methodologies use the concept of 'dual' vectors for
+              integer programs.  In this case they are used as a subgradient but it can also
+              be used for sensitivity analysis, pricing, and producing alternative optimal
+              solution to integer programs.
+

@@ -1,0 +1,56 @@
+Title       : Multigrid Optical Diffusion Tomography
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 19,  2001     
+File        : a0073357
+
+Award Number: 0073357
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2000        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $380176             (Estimated)
+Investigator: Charles A. Bouman bouman@ecn.purdue.edu  (Principal Investigator current)
+              Kevin J. Webb  (Co-Principal Investigator current)
+              Rick P. Millane  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Recently, there has been growing interest in the development of medical imaging
+              modalities based on light, as opposed to more conventional modalities based on
+              ultrasound, X-ray computed tomography (CT), or magnetic resonance (MRI).
+              Imaging based on light has the advantages of being non-invasive, safe, and
+              requiring only inexpensive instrumentation. Conventional wisdom holds that
+              light can not pass through tissue, but in fact, near infra-red light does pass
+              through tissue and can therefore, in principle, be used to form images of the
+              interior of the tissue. However, light passing through tissue is highly
+              scattered, so that an image can not be calculated using conventional methods.
+              This research is concerned with the development of new computational algorithms
+              that can be used to form three-dimensional images from measurements of
+              scattered light. These methods, known collectively as optical diffusion
+              tomography, have the potential to provide safe, inexpensive, and portable
+              imaging instruments.
+
+
+Practical realization of optical diffusion imaging
+              requires that a difficult non-linear inverse problem be solved in a
+              computationally tractable manner to yield accurate images. In this research,
+              new multigrid optimization methods are developed which have the potential to
+              dramatically speed reconstruction. These new methods are applied in a Bayesian
+              framework and use novel techniques to model the regions containing voids,
+              opaque tissue, or fluorescence imaging agents. Moreover, optical diffusion
+              tomography is representative of a broader class of important inverse problems;
+              so that the methods developed in this research have application in problems
+              ranging from image registration and motion estimation to environmental sensing
+              and non-destructive evaluation.
+

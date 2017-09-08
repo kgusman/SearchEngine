@@ -1,0 +1,48 @@
+Title       : Isolation Testing for Transactional Systems
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 5,  1997  
+File        : a9711374
+
+Award Number: 9711374
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $359998             (Estimated)
+Investigator: Patrick E. O'Neil poneil@cs.umb.edu  (Principal Investigator current)
+              Elizabeth J. O'Neil  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Boston
+	      100 Morrissey Boulevard
+	      Boston, MA  02125    617/287-5370
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              The idea of executing a transactional system under a lower isolation level than
+              perfect Serializable isolation was introduced in a 1977 paper by IBM
+              researchers, and implemented in IBM's DB2. It is now offered by most commercial
+              DBMS systems supporting multi-user applications. Lower isolation levels permit
+              more transactional threads to simultaneously execute an application, so
+              processor resources are more effectively utilized. The tradeoff is that in
+              perfect isolation, no update performed by one application thread can have any
+              effect on data read and updated by an independent transactional thread; in
+              lower isolation levels this is no longer the case. The intent is to use lower
+              isolation levels only for "safe" applications, where the application code will
+              not use isolation weaknesses to arrive at erroneous results. But the database
+              field has no general method for deciding what applications are "safe". The
+              ultimate goal of this project is to develop a method for evaluating large
+              transactional application systems to determine what errors can arise at
+              different isolation levels in common commercial use. This process of evaluation
+              is to be known as Isolation Testing, and provides a list of all isolation
+              problems that can occur in the workload. It is then possible to make modest
+              changes in the database and application design to eliminate these errors and
+              gain the advantage of a lower isolation level. Isolation Testing has the
+              potential to make many of the largest commercial applications (e.g., banking,
+              airline reservations) more efficient in their use of computer resources.

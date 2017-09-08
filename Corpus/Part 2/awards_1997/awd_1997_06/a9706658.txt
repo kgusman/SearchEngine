@@ -1,0 +1,56 @@
+Title       : Channel Estimation Under Frequency Selective Fading and Multipath
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  1999      
+File        : a9706658
+
+Award Number: 9706658
+Award Instr.: Continuing grant                             
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $296626             (Estimated)
+Investigator: Michail K. Tsatsanis mtsatsanis@voyan.com  (Principal Investigator current)
+Sponsor     : Stevens Inst of Technology
+	      Castle Point on Hudson
+	      Hoboken, NJ  07030    201/216-5000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                          The  objectives  of  the  proposed  work  are to  (i)  study      
+              frequency  selective,  fading  communications  channels  and       develop 
+              appropriate  models to describe the channel's  time       variations,  (ii)
+              derive  novel blind and decision  feedback       algorithms  which  explicitly 
+              take  into  account  the time       varying   nature  of  the  channel  and 
+              (iii)  develop  the       analytical  tools to assess the  applicability  of
+              different       models under different conditions.         Each time-varying
+              tap coefficient of a frequency  selective,       fading  channel is typically 
+              modeled as a random  processes       with low-pass power spectra.  However,
+              traditional  adaptive       techniques  typically do not exploit  this 
+              information.  In       the proposed work, Kalman  filtering  methods are
+              derived to       track the channel by employing a multichannel autoregressive  
+                  description of the time-varying taps in a  decision-feedback      
+              equalization  framework.  Fitting a model to the  variations       of the
+              channel's taps is a challenging  task because the tap       coefficients are
+              not observed  directly.  A linear method is       proposed to estimate the
+              channel's spectral  characteristics       from input/output data, and
+              consistency is shown.         A different  emerging  framework will also be
+              studied, where       each time-varying tap coefficient is described (with
+              respect       to time) as a linear combination of a finite number of basis     
+               functions.  Examples of such channels  include  periodically       varying 
+              ones,  where each  multipath  component  exhibits a       different  Doppler 
+              shift or channels  locally  modeled by a       truncated Taylor Series.  It is
+              shown that the estimation of       the expansion  parameters is equivalent  to 
+              estimating  the       parameters of an FIR Single-Input-Many-Output (SIMO)
+              system.       By exploiting this  equivalence, a number of different blind     
+               subspace methods are applicable,  which h ave been originally       developed 
+              in the context of  time-invariant  SIMO  systems.       Identifiability and
+              performance issues will be investigated,       as well as the effects of
+              diversity combining, when multiple       receiving antennas are available.

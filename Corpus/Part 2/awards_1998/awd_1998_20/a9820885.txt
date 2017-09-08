@@ -1,0 +1,57 @@
+Title       : Maximum Likelihood Estimation and Other Probabilistic Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 9,  2001   
+File        : a9820885
+
+Award Number: 9820885
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $252817             (Estimated)
+Investigator: Sampath Kannan kannan@central.cis.upenn.edu  (Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9820885
+Kannan, S.
+
+This project pursues research in a number of areas
+              with the common theme being the design and analysis of probabilistic
+              algorithms.
+
+Maximum Likelihood Estimation is a classical and important
+              technique in statistics.  Specific versions of this general problem are defined
+              by considering specific stochastic processes that generate the sample data. 
+              This problem has generally been thought to be computationally intractable for
+              most interesting applications.  However, this project seeks to create very
+              efficient algorithms that find approximately the most likely solutions. 
+              Specifically such algorithms are sought for important problems in computational
+              biology such as phylogeny construction and multiple alignment.  The project
+              also investigates similar approaches for the problem of inferring Belief Nets,
+              a popular stochastic model in artificial intelligence.
+
+The problem of
+              contention is concerned with message transmission over an ethernet where
+              messages arrive according to a stochastic process such as a Poisson process. 
+              Each message uses a protocol whereby it attempts to transmit itself at each
+              time instant with some probability.
+
+A central open question is whether there
+              is a protocol that ensures that the system is "stable."  The PI proved that the
+              answer is "no" for a number of "natural" classes of protocols and is working on
+              extending these proofs to all acknowledgement-based protocols.  Finally, the
+              project investigate new models and problems in the area of program checking
+              which again involves the design of randomized algorithms. 
+

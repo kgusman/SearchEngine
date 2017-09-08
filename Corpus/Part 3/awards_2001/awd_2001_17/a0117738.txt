@@ -1,0 +1,120 @@
+Title       : The Columbia Hot Spot Rescue Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0117738
+
+Award Number: 0117738
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $1399999            (Estimated)
+Investigator: Edward G. Coffman egc@ee.columbia.edu  (Principal Investigator current)
+              Jason Nieh  (Co-Principal Investigator current)
+              Dan Rubenstein  (Co-Principal Investigator current)
+              Predrag R. Jelenkovic  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Although Internet traffic is routinely quite heavy, there has usually been
+              more than enough storage,
+processing and bandwidth capacity to provide
+              acceptable performance. However, it is well known that, more
+and more
+              frequently, demands for network resources are mushrooming locally into hotspots
+              or data storms,
+and in such cases the affected web sites and subnetworks
+              founder almost completely, creating revenue
+losses and client dissatisfaction
+              on a large scale. We propose a novel collaborative technology to alleviate
+the
+              effects of these hotspots, a technology that we will apply by designing and
+              prototyping a Hotspot Rescue
+Service (HRS). This work will build on the past
+              research of the PI's in networking, operating systems, and
+distributed
+              caching.
+    A key premise on which the technology is founded lies in the
+              observation that existing Internet band-width
+resources are sufficient to deal
+              effectively with hotspots. In other words, rescues of heavily-overloaded
+sites
+              can be assembled from underutilized resources lying elsewhere. It follows that
+              there is no inherent need
+for resources held in reserve uniquely for this
+              purpose, i.e., there is no need for over-provisioned, under-utilized resources
+              such as distributed caches to protect against hotspots. We propose instead a
+              paradigm shift in which efficient mechanisms that we provide will enable
+              communities of participating sites to share their resources to suppress
+              hotspots. The service in action will be transparent, in part self-regulating
+              and will take the form of automated traffic redirection to sites with available
+              bandwidth.
+    The proposed Columbia HRS will be proactive as well as
+              reactive. We will amass hotspot data that
+will be modeled and analyzed with
+              the aim of designing hotspot daemons or plugins, software devices
+              for
+monitoring traffic behavior and signalling incipient hotspots via hotspot
+              watches and advisories, along with
+relevant statistics. We will implement two
+              complementary approaches to the technology, a server-based
+approach and a
+              client-based, peer-to-peer (P2P) approach.
+    In the server-based approach,
+              servers monitor their own loads, the loads of a small set of servers that
+they
+              would service in the event that the other server overloads, and, via probes
+              between servers, network
+conditions. When a server or network component is
+              identified as going into possible overload, the system
+activates a replication
+              mechanism to duplicate the hot content. Clients can then retrieve the content
+              from
+the server sites acting as replicas, alleviating the load on the original
+              overloaded resource.
+     In the P2P approach, clients install a plugin into
+              their browser that communicates with similar plugins
+installed on other
+              clients' browsers, as well as with a distributed directory service. Clients
+              cache their recent downloads, and, through the plugin, inform the directory
+              service of the objects that are cached. The directory service can then identify
+              the most popular content, as well as cached locations and notify additional
+              clients of these alternative locations for download. By using client machines
+              to store and deliver the hot content and if requests for the given content can
+              be redirected to the client machines, the hotspot at the server can be
+              eliminated. In this way, hotspot response becomes self-organizing and
+              self-regulatory.
+    There are several issues that need to be addressed as we
+              develop this rescue service. First, we will use
+experimentation and analysis
+              of collected data (including data sets obtained via a company partnerships)
+to
+              develop models of causes and effects of network hotspot activity. Next, we will
+              analytically evaluate
+the effect on server and network load that techniques
+              such as caching, redirecting, and migrating have
+upon hotspots within the
+              network. Last, we will implement and evaluate prototype systems to
+              validate
+their effectiveness, either upon simulated hotspot activity within a
+              testbed, or if possible, on actual hotspots
+through agreements with content
+              providers.
+     Development of the HRS will provide research opportunities to
+              multiple students at Columbia, and
+its deployment will improve web performance
+              of objects served from academic institutions and non-profit
+companies whose
+              content is to date not hosted by commerical third-party content delivery
+              companies.

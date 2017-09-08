@@ -1,0 +1,78 @@
+Title       : Pseudo-Boolean Functions: Representations and Optimization
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 20,  1998    
+File        : a9806389
+
+Award Number: 9806389
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $175000             (Estimated)
+Investigator: Peter L. Hammer hammer@rutcor.rutgers.edu  (Principal Investigator current)
+              Endre Boros  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9806389
+Peter L. Hammer
+
+Numerous problems in area as diverse as VLSI design,
+              game theory, artificial intelligence, neural networks, operations research,
+              statistics, reliability, and finance can be modeled by using set functions,
+              i.e., mappings of the subsets of a finite set into the reals.  It was noticed
+              in the mid-60's by the PI that set functions can be viewed as "pseudo-Boolean"
+              functions, i.e., real valued functions with 0-1 variables, and can be
+              represented as multilinear polynomials.  It was noticed along the years that
+              beside their polynomial representation, pseudo-Boolean functions admit also
+              other algebraic representations, e.g., as additive posiforms, as logical
+              posiforms, etc.  It also turns out that various types of applications may lead
+              naturally to various types of representations.  Also, it can be seen that the
+              solution of some of the most important problems concerning pseudo-Boolean
+              problems (finding a global optimum, finding a local optimum, approximating the
+              optimum, finding a good approximation of the functions, finding a good majorant
+              or minorant of the function) depends heavily on the particular representation
+              used.  In this proposal the investigators will deal mostly with the
+              optimization of pseudo-Boolean functions with a heavy emphasis on their
+              representation.  They will consider separately various problems of
+              optimization, majorization, approximation, etc., for pseudo-Boolean functions
+              given in polynomial form, in additive posiform, as well as in disjunctive
+              posiform representation.  Beside investigations concerning the algebraic
+              problems of presentation, the investigators will lay heavy emphasis on the
+              computational aspects of the problem, and plan to elaborate specialized
+              algorithms for exact and heuristic optimization problems of pseudo- Boolean
+              functions in various forms, on local optimization, and on the detection of
+              efficient methods for particular classes of problems.
+
+In numerous real-life
+              situations, optimization problems have to be solved involving decisions and
+              selections between various alternatives.  When, for example, locations have to
+              be found for cellular ground stations, emergency facilities, warehouses, etc.,
+              the usual mathematical optimization procedures cannot be applied blindly, since
+              they may recommend the location of say half a unit in one place and the other
+              half in another.  Therefore, new mathematical techniques are needed to make
+              sure that the solutions can only involve locating either an entire unit in one
+              place or no part of it in that place.  Similar problems occur when selections
+              are made between projects to be undertaken, people or equipment to be assigned
+              to various tasks, or much more complex situations where a large company (e.g.
+              an airline) has to assign its equipment (e.g. aircrafts) to its various
+              activities (e.g. flights).  In such situations, the mathematical formulation of
+              the problem requires the use of variables which can only take the values of 0
+              or 1.  In spite of its apparent simplicity, this requirement can cause major
+              mathematical and computational difficulties.  This project deals to a large
+              extent with the problem of finding various mathematical models describing
+              situations like the above ones and developing optimization techniques for
+              handling them.  A substantial amount of computational experimentation is part
+              of the project and will complement the mathematical developments.
+

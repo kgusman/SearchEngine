@@ -1,0 +1,84 @@
+Title       : Integrated System-Theoretic and Software-Enabled Strategies for Embedded Smart
+               Sensors in Hybrid Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0209179
+
+Award Number: 0209179
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Bonnie Heck bonnie.heck@ece.gatech.edu  (Principal Investigator current)
+              Jay H. Lee  (Co-Principal Investigator current)
+              Linda M. Wills  (Co-Principal Investigator current)
+              George Vachtsevanos  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Bonnie Heck
+CCR-0209179
+"Integrated System-Theorectic and Software-Enabled
+              Strategies for Embedded Smart Sensors in Hybrid Systems"
+
+This research
+              addresses the efficient design and effective operation of "smart" sensor
+              suites, which are to be embedded in complex hybrid systems with multiple modes
+              of operation and multiple mission / fault scenarios.  An integrated approach is
+              being pursued in which system-theoretic analysis is combined with real-time
+              embedded software design techniques that focus on composition and dynamic
+              reconfiguration issues.   This integrative approach supports the design of the
+              sensor suite, including its management software, which is capable of fusing
+              information from heterogeneous sensors to develop estimates for physical
+              parameters and detect / diagnose faults, and of dynamically reconfiguring
+              itself in the face of identified fault scenarios or mode changes.  
+The
+              research addresses system-theoretic issues and software-design issues on a
+              concurrent basis so that the requirements and capabilities of the two sides can
+              be understood and taken into account.  Hence, issues such as synchronizing data
+              from multiple distributed sources and managing transitions while reconfiguring
+              continuous components, are being formalized and explicitly accounted for
+              throughout the design, beginning with the sensor selection / placement decision
+              to the development of algorithms for sensor fusion and dynamic reconfiguration.
+               This work is drawing upon existing results in the hybrid systems literature
+              and developing some additional theories and tools as necessary.  The topics
+              studied in this research include:
+o Sensor placement in a distributed hybrid
+              system:  What types of sensors should be placed where so that important
+              changes, both continuous and discrete, can be observed with required
+              accuracies.
+o Sensor fusion:  How the signals generated from a heterogeneous
+              sensor array will be combined to generate useful information, such as physical
+              states, parameter values, and fault status, under different modes of
+              operation.
+o Dynamic reconfiguration: How to reconfigure on the fly the
+              processing and fusing of signals from different sensors, in the face of an
+              identified fault or a mode change, and how the information will be transitioned
+              from one mode to another.
+
+The research is creating system-theoretic and
+              software modeling tools for constructing smart sensor suites that can adapt to
+              changes and faults that occur in a complex hybrid system.  The research is also
+              expected to improve the fundamental understanding into the observability
+              property of hybrid systems and the design and analysis of a state estimator for
+              such a system. The theoretical / methodological development is being validated
+              on sensor suites for real applications (e.g., a three tank process
+              demonstrator) so that no important real issues are overlooked.
+
+On the
+              educational front, cross-disciplinary course(s) and research programs are being
+              developed that breed a unique set of students versed in both systems-control
+              theories and real-time software design.
+

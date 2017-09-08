@@ -1,0 +1,54 @@
+Title       : Robust and Interior Point Optimization Methods in Support Vector Machine
+               Training
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 10,  1999    
+File        : a9978813
+
+Award Number: 9978813
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1999    
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $162225             (Estimated)
+Investigator: Theodore B. Trafalis ttrafalis@ou.edu  (Principal Investigator current)
+Sponsor     : U of Oklahoma
+	      1000 Asp Avenue, Room 314
+	      Norman, OK  73019    405/325-4757
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,9150,OTHR,
+Abstract    :
+              9978813
+Trafalis
+
+This  project will investigate new algorithms for training
+              Support Vector Machines based on Interior Point Methods (IPMs). Training a
+              Support Vector Machine (SVM) requires the solution of a very large quadratic
+              programming (QP) optimization problem. The PI will break this large QP problem
+              into a series of smallest possible QP subproblems by exploiting the special
+              structure of the problem. IPMs will be used for the solution of the resulting
+              QP subproblems. The objective is to handle very large training sets for
+              analyzing massive data.         
+
+There several classes of IPMs from which to
+              choose to solve the QP
+subproblems.   The PI will use potential reduction and
+              column generation methods.
+Investigation of the special structure of the SVM
+              QP problem will be examined by using decomposition techniques of mathematical
+              programming.
+
+The proposed project is multidisciplinary, integrating state of
+              the art techniques of mathematical programming and machine learning to solve
+              large scale data mining problems with applications to meteorology, seismology,
+              high energy physics, astronomy, finance and credit card fraud. It will have a
+              significant effect on infrastructure of science and engineering since it
+              presents a new approach for training large scale SVMs.
+

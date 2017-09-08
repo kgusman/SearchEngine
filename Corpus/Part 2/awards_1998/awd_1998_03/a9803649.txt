@@ -1,0 +1,88 @@
+Title       : New Monte Carlo Methods for Scientific and Statistical Computing
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : December 14,  1999  
+File        : a9803649
+
+Award Number: 9803649
+Award Instr.: Continuing grant                             
+Prgm Manager: William B. Smith                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $142255             (Estimated)
+Investigator: Jun S. Liu   (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              ----------------------------------------------------------------------- 
+              Proposal Number: DMS 9803649  PI:              Jun S Liu  Institution:    
+              Stanford  University  Project:         New Monte Carlo Methods for Scientific  
+                                and Statistical Computing    Abstract:    Monte Carlo methods
+              have increasingly been recognized by scientists   as indispensable tools  for
+              difficult computational problems. Its   applications  include biochemistry,
+              computational biology, computer  science, engineering, finance,  physics,
+              seismology, traditional   statistics, etc.  The primary objective of this
+              research, as motivated  by various applications encountered by the PI, is on
+              designing  and  analyzing new Markov chain Monte Carlo (MCMC) methods. The 
+              research  plan includes three related  projects, all concentrating on the MCMC 
+               methodology. The first project proposes two new hybrid Monte Carlo   methods.
+              These methods  combine a gradient-type move, or a conjugate   direction-type
+              move, with Metropolis algorithm. The new methods aim at   alleviating
+              slow-mixing behavior (or ``stickiness'') observed in   discretized Langevin
+              diffusion and molecular dynamics, and  can be  applied to simulating  images,
+              predicting protein structures, neural  network training and other
+              continuous-optimization problems. The  second project focuses on generalizing
+              the multigrid Monte Carlo  (MGMC) method used by physicists in computations of
+              lattice field  theories. Our preliminary work reveals a close connection
+              between the  MGMC and the reparameterization method in statistics literature.
+              The  generalized  MGMC proposed in this project unifies these seemingly 
+              different methods and provide a generic approach to the search of  more
+              efficient MCMC schemes. Its use in random effects model and  probit model is
+              currently under investigation and  its applications  in  Bayesian image
+              analysis, such as pattern synthesis and  image  smoothing, will be explored.
+              The third part of the proposal is  concerned with theoretical  analyses of the
+              dynamic weighting method  recently proposed by Wong and Liang (1997). As shown
+              by the authors,  the method has tremendous potential in various  optimization 
+              problems, such as the traveling salesman problem, circuit  partitioning
+              problem, neural network training, and Bayesian model  selection.  A few
+              variations of the dynamic weighting are suggested  and a functional analysis
+              method is outlined for studying   convergence  properties and weight behavior
+              of the DW.    It has long been recognized that many complicated systems, such
+              as   reactions in atomic bombs, fluid dynamics, molecular movements,  etc., can
+              be studied via computer simulation.  One of the most  popular approach of this
+              sort, the Monte Carlo technique,  simulates a complex system described by
+              probability distributions.  The technique was named after the famed gambling
+              resort  because  its procedures incorporate the element of chance. In the
+              recent two  decades, people come to realize that Monte Carlo techniques is also
+               applicable to a much wider class of problems including global  optimizations,
+              statistical inferences, signal processing, target   tracking, artificial
+              intelligence, financial modeling,  computational biology, data mining, and many
+              others. The PI has  successfully applied Monte Carlo techniques, together with 
+              suitable statistical models, to the understanding of  relationship  between
+              remotely related DNA or protein sequences; to dynamic  system updating (such as
+              target tracking); to neural network  training; and to Bayesian statistical
+              inference.  This project   targets at developing more efficient Monte Carlo
+              methods for  dealing with challenging computational problems, such as 
+              prediction of the 3-D structure of a protein molecule from its  primary
+              sequence. A common feature of all Monte Carlo methods  for simulating complex
+              systems is that they rely on cumulative  evolutions of small, albeit random,
+              local changes.  This often  leads to a very slow-converging algorithm. For
+              example, because   of s uch local moves, with currently available methods one
+              needs  years of super-computer time in order to simulate one tenth of a  second
+              of movement of a protein molecule. The PI outlines a  general method to conduct
+              global moves in Monte Carlo methods;  proposes to incorporate ideas in
+              optimization literature (i.e.,  gradient and conjugate direction methods) to
+              speed up Monte Carlo  simulations; and suggests avenues for the theoretical  
+              understanding of several new and promising Monte Carlo methods.  Success of
+              this  research will benefit scientists and engineers  in coping with their
+              computational challenges.

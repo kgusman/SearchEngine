@@ -1,0 +1,44 @@
+Title       : Termination of Rewrite Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 1,  2000       
+File        : a9700070
+
+Award Number: 9700070
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1997       
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Samuel N. Kamin kamin@cs.uiuc.edu  (Principal Investigator current)
+              Nachum Dershowitz  (Principal Investigator former)
+              Uday S. Reddy  (Principal Investigator former)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              Rewrite systems are sets of equations used to substitute equals  for equals from
+              left-to-right only.  They have important  applications to programming
+              languages, since they represent a  simple and intuitive functional language,
+              and in automated  deduction, where they play an important role in improving the
+               efficiency of reasoning about equations.    Termination of a system means that
+              the equations cannot be used  infinitely often, without reaching a term that
+              does not contain  an instance of a left-handed side.  Proving termination can
+              be  difficult.  (It is, of course, undecidable in general.)    Under past
+              support, a number of methods for proving termination  were devised which have
+              proved useful.  New aspects of this  subject are now being investigated with an
+              emphasis on semantic  methods for structured (hierarchical) systems and
+              extensions of  rewriting to handle conditional equalities, associative- 
+              commutative functions, higher-order rewriting, and a logic  programming style. 
+                Since establishing termination is an essential component of many  automated
+              deduction and program verification systems, this  project will also invest
+              effort in implementations.

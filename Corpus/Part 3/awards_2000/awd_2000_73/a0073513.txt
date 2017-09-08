@@ -1,0 +1,65 @@
+Title       : Compiler Technology for Scalable Servers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 19,  2002      
+File        : a0073513
+
+Award Number: 0073513
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Martin Rinard rinard@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research investigates compiler techniques for improving the
+performance
+              and scalability of Internet server programs. Servers have
+a different set of
+              characteristics from the computations that compiler
+writers have focused on in
+              the past. Instead of executing a
+compute-bound computation with a modest
+              number of long-lived threads,
+servers typically use many short-lived threads
+              to manage I/O bound
+connections from multiple clients. These new
+              characteristics place a
+premium on previously less relevant aspects of the
+              system such as the
+thread creation overhead and thread stack overhead. They
+              also provide
+opportunities that the compiler can exploit to improve the
+              memory
+management. The research will attack thread overhead by
+              automatically
+transforming multithreaded code to event-driven form.  Code
+              in
+event-driven form contains an event loop that repeatedly blocks
+waiting
+              for the next event from any of the current connections. It
+then invokes a
+              handler that executes the appropriate action, then
+returns to the event loop.
+              This transformation will eliminate thread
+creation and management overhead.
+              The compiler will attack memory
+management overhead by analyzing the program
+              to identify objects whose
+lifetimes are tied to individual threads, then using
+              specialized
+memory management algorithms for these objects.
+
+

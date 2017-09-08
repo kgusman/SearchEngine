@@ -1,0 +1,58 @@
+Title       : CAREER: Robust and Efficient Restoration and Segmentation of Signals and Images:
+               A Non-linear Scale-Space Approach
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 1,  2001      
+File        : a0093105
+
+Award Number: 0093105
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2001  
+Expires     : January 31,  2004    (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Ilya Pollak ipollak@ecn.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Pollak ABSTRACT
+
+This research addresses various problems of extracting
+              information from digital signals and images.  A prototypical example is that of
+              image segmentation: given a picture stored on a computer as an array of numbers
+              (e.g., a medical image), the objective is to design an algorithm to
+              automatically partition the image into meaningful regions (e.g., into a tumor
+              and healthy tissue).  More generally, this research is motivated by many
+              applications---for example, in the areas of medical imaging and remote
+              sensing---which are characterized by high complexity and poor quality of images
+              (due to, for instance, noise, blurring, or clutter, which are caused by
+              imperfections of the imaging process).Extracting and restoring objects from
+              such images are challenging and important problems.  Since good models of the
+              intervening degradations are often very complex or even unavailable, these
+              problems must be addressed in such a way that the resulting algorithms are
+              insensitive to the precise structure of degradations.  When precise modeling is
+              possible, however, the algorithms should be flexible enough to take advantage
+              of it.  In addition, the large quantity of data in many applications of
+              interest makes methods that are fast particularly valuable.
+
+This project is
+              developing develop a novel scale-space estimation framework applicable to such
+              problems.  Built on the foundation of recent non-linear scale-space approaches
+              to image analysis, it is making important links with optimal estimation and
+              sliding-mode control, thereby producing efficient methods for segmentation and
+              restoration of 1-D signals and 2-D images.  Theoretical analysis of these
+              methods reveals their robustness, their applicability to a wide range of
+              problems, and the fact that they admit fast numerical schemes.  A number of
+              practical image processing problems are being pursued, in particular, analysis
+              of dermatoscopic imagery (magnified pictures of skin lesions used to improve
+              the accuracy of screening for skin cancer).

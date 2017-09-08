@@ -1,0 +1,69 @@
+Title       : Type Refinements
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  2002       
+File        : a0204248
+
+Award Number: 0204248
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Frank Pfenning fp@cs.cmu.edu  (Principal Investigator current)
+              Robert W. Harper  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              SF Proposal 0204248 Type Refinements
+Frank Pfenning and Robert Harper
+
+An
+              important aspect of software development and maintenance is to
+understand
+              properties of a complete system, its individual
+components, and how they
+              interact.  There is a wide range of
+properties of interest, some concerned only
+              with the input/output
+behavior of functions, others concerned with concurrency
+              or
+real-time requirements of processes.  Upon examining the techniques
+for
+              formally specifying, understanding, and verifying program
+behavior available
+              today, one notices that they are almost bi-polar.
+On the one extreme we find
+              work on proving the correctness of
+programs, on the other we find type systems
+              for programming
+languages.  Both of these have clear shortcomings: program
+              proving
+is very expensive, time-consuming, and often infeasible, while
+present
+              type systems support only minimal consistency properties of
+programs.
+
+The
+              proposed research is intended to help bridge this gap by
+designing and
+              implementing more refined type systems that allow rich
+classes of program
+              properties to be expressed, yet still be
+automatically verified.  Through
+              careful, logically motivated design
+the research combines the best ideas from
+              abstract interpretation,
+automated program analysis, type theory, and
+              verification.
+

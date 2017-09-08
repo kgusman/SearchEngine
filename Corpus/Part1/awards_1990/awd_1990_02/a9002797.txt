@@ -1,0 +1,56 @@
+Title       : A Hierarchy of Memory for Parallel Functional Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 18,  1991      
+File        : a9002797
+
+Award Number: 9002797
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1990    
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $127157             (Estimated)
+Investigator: David S. Wise dswise@cs.indiana.edu  (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              Computer memory is structured in layers, for example (moving from              
+              inner to outer registers, "main" memory/RAM, and disk.  Each is slower         
+              but larger than those within it.  These layers are reflected in the            
+              design of conventional programming languages (respectively, by local           
+              variables, non-local variable and arrays, and files), and programs are         
+              designed to take best advantage of their relative speed, size, and             
+              persistency.                                                                   
+                                                                                             
+              Functional or applicative programming languages are most promising for         
+              parallel processing, but they do not yet deal with this layering of            
+              memory.  Rather, present practice there is to treat all memory as RAM,         
+              structured as a "heap" for linked data structures, even though this            
+              unilevel model restricts their utility.  Furthermore, although linked          
+              structures are very attractive for partitioning problems among                 
+              processors, parallel heap management is an open problem.                       
+                                                                                             
+              This project explores methods of reconciling the necessary layering of         
+              physical memory into the practice of purely functional programming.            
+              One goal is to demonstrate performance of reference-counting memory            
+              (RCM) hardware, which can manage a heap shared by many processors.             
+              Reckoning at the memory address--remotely from any processor--it               
+              recovers most unused memory without any processor synchronization and          
+              little additional communication.                                               
+                                                                                             
+              Another goal is to implement a persistent file system within a purely          
+              functional language.  Persistency requires that files survive certain          
+              unpredictable failures.  Therefore, the system must retain current             
+              state of the files, even though the concept of state is forbidden in           
+              functional programming.

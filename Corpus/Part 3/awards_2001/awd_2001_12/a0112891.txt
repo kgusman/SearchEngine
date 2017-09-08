@@ -1,0 +1,63 @@
+Title       : ITR/SY Collaborative Research: A Unified Relational Approach to Grid Information
+               Services
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 24,  2002      
+File        : a0112891
+
+Award Number: 0112891
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $225862             (Estimated)
+Investigator: Peter A. Dinda pdinda@cs.northwestern.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              An application running in a distributed computing environment such as the
+              Computational Grid must adapt to the available hardware and software resources.
+              This requires information about the properties of Grid resources such as hosts,
+              network switches, links and paths, software libraries and systems, user and
+              organization rights, software services, event channels and dictionaries, and
+              more.  The information needed for an application to run, the values of the
+              information (how fast the information changes) and the freshness of the
+              information (how fast updates must be pushed to the application) can vary
+              dramatically. These attributes place significant demands on the resource
+              information service, demands that are arising with increasing prevalence in the
+              general area of directory services as well. The Grid Forum, an international
+              standards body for world-wide Grid computing, is developing standards for
+              representing and querying this information. There is much that is excellent
+              about these evolving standards, but there are many forms of highly desirable
+              queries that will be difficult or expensive to perform in these systems. In
+              particular, dynamic information will require very high update rates not
+              supported by LDAP-based implementations.
+
+This project will address these
+              concerns through a proposed (and tentatively named) Grid Resource Information
+              Service (GRIS), a unified relational approach to grid information services. The
+              research will start with the full ACID
+              (Atomicity/Consistency/Isolation/Durability) functionality of a relational
+              database system and "build down" to a practical resource information system
+              that still provides most of the benefits of the RDBMS.  Such a system will
+              provide a single highly flexible query model and language for all types of Grid
+              resource information, no matter how dynamic.  The research will culminate in an
+              extensible implementation based on commodity database systems and the SQL
+              language, including "canned queries" for non-SQL users. The project will
+              evaluate the new system and techniques using logged updates and queries from an
+              existing Grid information service, and comparing results with a hierarchical
+              system such as Globus MDS2. To facilitate comparisons, the project will produce
+              a set of benchmark queries from discussions with users, tool developers, and
+              Grid Forum members, and will quantify the limits of these queries.
+
+

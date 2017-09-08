@@ -1,0 +1,60 @@
+Title       : CISE Next Generation Software: Software Systems: Compiling for Speculative
+               Distributed Microarchitectures
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 29,  1999 
+File        : a9974976
+
+Award Number: 9974976
+Award Instr.: Standard Grant                               
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $299999             (Estimated)
+Investigator: Rudolf Eigenmann   (Principal Investigator current)
+              Babak Falsafi  (Co-Principal Investigator current)
+              T. N. Vijaykumar  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2884,9215,9218,HPCC,
+Abstract    :
+              EIA-9974976
+Purdue University
+Eigenmann, Rudolf
+
+Compiling for Speculative
+              Distributed Microarchitectures
+
+This project introduces a novel compiler
+              paradigm called conservative-assumption-free compilation, which breaks the
+              barrier of a conservative compile-time assumption, one of the most severe
+              limitations of current generation of compilers.  The new paradigm is enabled by
+              emerging speculative, distributed microarchitechtures.  In the proposed project
+              the PIs will implement a full compiler system for such architectures.  The
+              effort will complement the already-onging Purdue Multiplex architecture project
+              being investigated by the same PIs.
+
+Purdue Multiplex combines trends of
+              increasing on-chip integration with aggressive speculative instruction
+              execution.  Its distributed, single-chip microarchitecture integrates
+              conventional multiprocessor thread-level parallelism with speculative execution
+              of today's aggressive superscalar processors.  The compiler generates threads,
+              which are not necessarily independent, from a sequential program and the
+              hardware guarantees correctness in case of inter-thread control/data
+              dependencies via speculation and rollback mechanisms.  By providing support for
+              thread-level speculation, the hardware relieves the compiler of the burden of
+              guaranteeing inter-thread independence, enabling our
+              conservative-assumption-free compilation paradigm.  Our compiler will
+              speculatively parallelize the unexplored domain of non-numeric applications via
+              new analyses and novel transformations.  Our compiler will tightly integrate
+              techniques to exploit both instruction-level and thread-level parallelism.
+

@@ -1,0 +1,54 @@
+Title       : ITR/SY: A Distributed Programming Infrastructure for Integrating Smart Sensors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 20,  2001 
+File        : a0121638
+
+Award Number: 0121638
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : September 30,  2006  (Estimated)
+Expected
+Total Amt.  : $1350000            (Estimated)
+Investigator: Umakishore Ramachandran rama@cc.gatech.edu  (Principal Investigator current)
+              Thad Starner  (Co-Principal Investigator current)
+              Stephen P. DeWeerth  (Co-Principal Investigator current)
+              Kenneth M. Mackenzie  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Abstract    :
+              Real-time, reactive and embedded systems are widely and  increasingly  used
+              throughout  society  (e.g.,  flight  control,  railway  signaling,  vehicle
+              management systems, medical devices).  This trend is likely to continue, as
+              applications  that  would  have been unthinkable only a few short years ago
+              come  into  the  reach  of  ever  more  complex  processors.    Many   such
+              applications  are long lived, interact with their environment continuously, and
+              are under important real-time constraints.  As these  reactive  systems
+              permeate  our lives, bringing us everything from intelligent pace-makers to
+              tiny freshness-tracking devices in groceries, the need for  cost-effective,
+              confidence-inspiring  software validation techniques grows proportionately.
+                This project focuses on building new tools for checking a  common  class 
+              of reactive real-time systems known as interrupt-driven systems.  The proposed
+              research has four facets that complement and support each other. First,  this
+              effort will build on  preliminary  work  in  analyzing  seven  commercial
+              microcontrollers to identify a static timing analysis that is  sufficiently
+              precise for a single interrupt handler. Second, ways to specify and check
+              timing properties for multiple interrupt  handlers will be investigated. Third,
+              a typed assembly language will be designed with time bounds in which timing
+              properties can be specified in a modular way, one handler at a time. Fourth, a
+              timed interrupt-handler calculus will be designed that will embody the results
+              in a language-independent way and make it  tractable  to  prove key 
+              properties.   The  new  tools will automatically derive a model of the software
+              by static analysis and type checking, and submit the result  to  a model 
+              checker.   The  tools  can  lead  to  significantly  reduced testing
+              requirements, and provide support for  maintenance  throughout  the  system
+              life-cycle.   

@@ -1,0 +1,44 @@
+Title       : Parallel Multilevel PDE Solvers on Unstructured Grids
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 23,  1999      
+File        : a9720257
+
+Award Number: 9720257
+Award Instr.: Continuing grant                             
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $185000             (Estimated)
+Investigator: Tony F. Chan chan@math.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will investigate efficient multigrid (MG) and domain decomposition
+              (DD) algorithms for elliptic and non-elliptic problems on arbitrary
+              unstructured meshes, which are suitable for distributed and shared memory
+              parallel computing architectures.  Three aspects of DD and MG will be
+              emphasized in this work: (1) Performance of various DD and MG algorithms on
+              parallel computers with particular attention paid to communication and cache
+              memory latency.  (2) Design of optimized DD and MG "gray box" libraries for
+              elliptic and advection dominated problems, which exploit optional information
+              supplied by the user.  (3) Theoretical analysis and practical design of DD and
+              MG algorithm appropriate for advection dominated problems.  Particular emphasis
+              will be placed on DD and MG algorithms for solving the discretization matrices
+              arising from a variety of large scale scientific computing problems, such as
+              computational fluid dynamics (CFD) for advection dominated problems, image
+              processing, photolithography, and the modeling of microchip performance and
+              fabrication.  The non-elliptic behavior of these practical problems renders the
+              known multigrid and decomposition theory inadequate and serves to motivate a
+              balanced effort consisting of algorithmic development, theoretical analysis,
+              and practical application.

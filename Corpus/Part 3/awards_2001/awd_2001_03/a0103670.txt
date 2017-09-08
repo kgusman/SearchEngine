@@ -1,0 +1,62 @@
+Title       : NGS: Wisconsin DOVE: Distributed Optimizing Virtual Environment
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0103670
+
+Award Number: 0103670
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $596740             (Estimated)
+Investigator: Rastislav Bodik   (Principal Investigator current)
+              Mikko H. Lipasti  (Co-Principal Investigator current)
+              Andrea C. Arpaci-Dusseau  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              EIA-0103670
+Rastislav Bodik
+University of Wisconsin
+
+NGS: Wisconsin DOVE:
+              Distributed Optimizing Virtual Environment
+
+Wisconsin DOVE proposes to
+              improve the performance of modern distributed and parallel applications as well
+              as increase the productivity of application developers and system maintainers. 
+              Building on recent advances in distributed control, dynamic program
+              optimization, and hardware-supported performance monitoring, our project will
+              build a Distributed Optimizing Virtual Environment (DOVE) whose power will stem
+              from two primary innovations.
+
+The VM-in-OS paradigm.  Dove will implant into
+              the operating system an optimizing virtual machine (VM), whose ability to
+              analyze a running program and correlate the analysis with hardware-based
+              performance monitoring will achieve vertical integration, spanning the
+              application, the kernel, and the hardware.  The VM-enabled operating system
+              will be intimately aware of both the application above and the hardware and
+              network below, and hence it will be able to schedule resources more
+              intelligently and adaptively.
+
+A clan of optimizing virtual machines.  
+              Expecting that future distributed applications will be assembled from
+              distributed components written in Java (or a similar mobile language), we
+              propose to organize the VMs underlying the individual distributed components
+              into a clan, in which the VMs exchange profiling and program-analysis
+              information about their clients.  By supporting "gossip" among the distributed
+              VMs in a clan, we will be able to compute a run-time communication and
+              dependence profile of the distributed application and, in response, perform a
+              dynamic repartitioning of the application.
+

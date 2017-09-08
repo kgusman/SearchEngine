@@ -1,0 +1,54 @@
+Title       : Concatenated Codes and Iterative Decoders for Magnetic Recording Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 16,  1999     
+File        : a9814472
+
+Award Number: 9814472
+Award Instr.: Standard Grant                               
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1999      
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: William E. Ryan ryan@ece.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+               The integrity of the data stored on magnetic disk and tape drives must be
+              protected from error-inducing noise and distortion using error control codes.
+              The most exciting discovery in quite some time in the area of coding is the
+              so-called turbo code which involves a concatenation (cascading) of 
+two
+              distinct codes in a manner which facilitates iterative ("turbo") decoding. 
+              This coding technique has enabled performance near theoretical limits on simple
+              communications channels unlike any code before its discovery.  This research
+              investigates the design of turbo codes and related codes for error protection
+              in magnetic recording devices, which may be modeled as a (very difficult)
+              communication channel. 
+  
+The goals in this research involve the design of
+              high performance concatenated codes and their iterative decoders for magnetic
+              recording. Both parallel and serial concatenated codes will be considered.
+              Error control code design for magnetic recording has focused in the past on the
+              design of trellis-oriented codes to maximize the minimum free Euclidean
+              distance between pairs of received sequences. This has been a notoriously
+              difficult problem since, by adding coding and its concomitant overhead,
+              intersymbol interference is increased, hampering the 
+intended benefits of the
+              code. Concatenated codes, on the other hand, are capable of achieving gains not
+              just by increasing overhead (lowering code rate) to increase minimum distance,
+              but via interleaver gain. Early work has shown that unprecendented 
+gains are
+              achievable with concatenated codes and iterative decoding. 
+
+

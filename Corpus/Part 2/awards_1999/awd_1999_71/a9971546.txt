@@ -1,0 +1,118 @@
+Title       : Nonlinear Systems and Numerical Methods for HJB Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 3,  1999       
+File        : a9971546
+
+Award Number: 9971546
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $92000              (Estimated)
+Investigator: William M. McEneaney   (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9971546
+McEneaney
+
+The research is proceeding along two directions within the
+              general area of 
+control and estimation for nonlinear systems. The first
+              direction involves a 
+new class of numerical methods for such problems.
+              Specifically, note that 
+one of the most persistent difficulties with control
+              and estimation of 
+significantly nonlinear systems has been computational
+              cost. Dynamic 
+programming methods for H-infinity control and risk sensitive
+              stochastic 
+control lead to nonlinear PDEs (typically Hamilton-Jacobi-Bellman
+              
+equations) which must be solved over some region of the state-space. 
+Since
+              the number of state variables can be quite high, the dimension of the 
+regions
+              over which one needs to solve these PDEs increases. This restricts 
+the set of
+              problems for which one can compute such controls to those with 
+very low
+              state-space dimension. By changes in the underlying definitions 
+of addition
+              and multiplication certain classes of nonlinear Hamilton-
+Jacobi-Bellman
+              equations are transformed into problems with linear semi-
+groups. This
+              property has led us to new methods that exploit this linearity. 
+For instance,
+              certain steady-state problems lead to spectral methods for 
+linear problems
+              (over the new algebras). It is hoped that the possible 
+improvements in speed
+              with these methods will lead to an ability to solve 
+a wider range of
+              problems. Some simple examples are already being 
+tested. The second direction
+              involves risk averse limits in nonlinear 
+control systems. It is now well
+              known that risk averse limits of risk 
+sensitive controllers lead to
+              robust/H-infinity controllers. However, the 
+classes of systems for which this
+              has actually been proven is rather small, 
+and does not include most typical
+              problems. We have recently obtained 
+some uniqueness results that should allow
+              one to extend the risk sensitive 
+limit results for infinite time-horizon
+              problems to a reasonably wide class. 
+Analogous work on risk sensitive limits
+              in the estimation problem is 
+beginning as well.
+
+Many modern systems, from
+              active automotive hydro-suspension systems 
+to fighter aircraft, behave in a
+              significantly nonlinear manner. These 
+systems require active control in order
+              to perform at increasingly 
+competitive levels. There is a serious technical
+              challenge in that the design 
+of nonlinear controllers requires extremely
+              heavy computational loads. In 
+fact, the computation of controllers where the
+              number of system state 
+variables is more than two or three has been
+              unattainable in general. The 
+difficulty is that these computations require
+              the solution of a nonlinear 
+partial differential equation over a space whose
+              dimension is that of the 
+number of state variables. A recent advance is the
+              observation that, despite 
+the nonlinearity, the propagation of these
+              solutions is often still linear IF 
+one switches to the max-plus algebra in
+              place of the traditional definitions 
+of addition and subtraction. In the
+              max-plus algebra, traditional addition is 
+replaced by maximization, and
+              traditional multiplication is replaced by 
+addition. One of the goals of this
+              project is to exploit this max-plus 
+linearity to extend the class of
+              nonlinear systems for which we can design 
+active controllers.
+

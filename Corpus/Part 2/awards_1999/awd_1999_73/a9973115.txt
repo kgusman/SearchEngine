@@ -1,0 +1,87 @@
+Title       : Server Selection in Emerging Information Delivery Environments
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 15,  2001    
+File        : a9973115
+
+Award Number: 9973115
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $399569             (Estimated)
+Investigator: Mostafa H. Ammar ammar@cc.gatech.edu  (Principal Investigator current)
+              Ellen W. Zegura  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Timely delivery of information from content servers to clients is now clearly
+              one of the primary roles of ubiquitous networking.  As the number of people
+              seeking information through networks increases, scalability of information
+              delivery services becomes an important issue.  Server replication is one common
+              technique used by service providers to accommodate the increasing information
+              demands.  Effective server replication, however, demands appropriate server
+              selection approaches, without which the full benefits of replication will not
+              be realized.  Poor server selection often leads to an array of associated
+              system performance implications: degraded performance as perceived by the
+              client, possible rejection of the request due to server overload, degraded
+              performance observed by other clients accessing the selected server, and poor
+              performance observed by other network connections due to hot spots resulting
+              from unbalanced load.
+The focus of this proposal is on the design and
+              evaluation of server selection approaches specifically in the context of
+              wide-area server replication.  We propose a research program that provides a
+              systematic investigation of the server selection problem starting with the
+              current state of services and networks but mostly concerned with future
+              networking and service environments.  Continuous evolution and innovation in
+              the capabilities of wide-area networking and the nature of information services
+              will result in a much more complex server selection problem with a wider
+              diversity of performance and policy concerns that affect selection.  The work
+              will consider five types of service: traditional Web and FTP services,
+              multicast services, multimedia streamed services, multi-source services and
+              brokered services.  The researchers consider these as different service
+              dimensions that may be present in some combination in deployed services and
+              explore the challenges in server selection for each dimension.  The researchers
+              will also consider how new network infrastructure capabilities (ranging from
+              support for some form of differentiated service to the more far-reaching Active
+              Networking proposals) can be used to enhance and support the server selection
+              function.
+The main contributions of the research will be:
+1. Development and
+              evaluation of techniques for the use of network support to aid the server
+              selection function.
+2. Characterization, mechanisms, policies and their
+              evaluation for the multicast server selection problem.
+3. Techniques for
+              streamed video server selection in current and future network environments.
+4.
+              The use of the Interactive Multimedia Jukebox (IMJ) (http://imj.gatech.edu) and
+              the researchers' previously developed multicast web server to provide proof of
+              concept for the proposed server selection protocols for multicast and
+              multimedia stream servers.                                                     
+                                             5. Further characterization and server selection
+              proposals for two novel service paradigms (multiple-source and brokered
+              services).
+6. A reusable experimental platform for experimenting with server
+              selection proposals.
+The proposed work will go beyond server selection
+              mechanisms in today's environment which do not need to be complex; round-robin
+              or other simple techniques for allocating clients to servers are currently
+              adequate. Such simple and ad-hoc techniques will not, however, work well in the
+              richer environment that the trends above will lead to.  The work considers the
+              architecture, mechanisms and policies by which server selection may be
+              accomplished in this future networked service environment.  The researchers 
+              believe that their research will, in fact, play an enabling role, since this
+              future's benefits cannot be realized without a workable system for server
+              selection.
+

@@ -1,0 +1,88 @@
+Title       : Application of Distributed Adaptive Mesh Refinement Techniques to Problems
+               Involving Diffusion
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 25,  1998    
+File        : a9870384
+
+Award Number: 9870384
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: William K. Allard wka@math.duke.edu  (Principal Investigator current)
+              John A. Trangenstein  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9183,9189,9263,BIOT,EGCH,OTHR,
+Abstract    :
+              A number of physical problems involve localized phenomena
+that move in time,
+              such as fluid fronts, interfaces and shocks.
+Often, these phenomena are not
+              captured well by finite difference
+methods on uniform grids.  The
+              investigators work on three
+classes of such problems: flow in porous media,
+              particularly
+chemically enhanced aquifer remediation; thin film flow
+              with
+fluid fronts due to vanishing diffusive fluxes; and excitable
+media,
+              particularly the modeling of the propagation of electrical
+impulses in the
+              heart.  All three of these problems involve
+diffusion; the diffusion can be
+              nonlinear, subdiffusive or
+superdiffusive.  The investigators develop
+              efficient multilevel
+iterative methods and adaptive mesh refinement tools to
+              solve
+these problems on parallel processor machines.
+     The power of
+              computers has dramatically increased  since
+they were introduced a half
+              century ago, and this improvement in
+performance continues at a breathtaking
+              pace.  Nonetheless,
+although the public is generally unaware of this,
+              the
+computational resources required to simulate many phenomena, like
+the
+              weather, greatly exceed those currently available.  One way
+to obtain a lot of
+              computer power is to arrange for many
+computers to work simultaneously on a
+              problem.  However, it is a
+daunting task to program these computers so that
+              they will
+correctly produce the desired simulation in a timely fashion. 
+              In
+this work, the investigators develop effective methods to use
+many
+              computers working together to simulate the flow of
+contaminants in the ground,
+              the behavior of thin films, and the
+electrophysiology of the heart. 
+              Groundwater contamination is a
+significant environmental problem.   Thin film
+              problems arise in
+lubrication and in manufacturing processes.  A
+              fundamental
+understanding of the electrical and muscular behavior of
+              the
+heart is important and could lead to better control of the
+mechanisms of
+              arrhythmia.
+
+

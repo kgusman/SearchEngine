@@ -1,0 +1,41 @@
+Title       : CAREER: Scalable Compiler Optimizations for New Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0093275
+
+Award Number: 0093275
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2006        (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Rastislav Bodik   (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              The goal of this research program is to develop compiler optimization technology
+              for emerging software applications.  Compared to the current
+              state-of-the-practice, the new software applications will be written in
+              type-safe languages (e.g., Java), will contain millions of lines of code, will
+              often be built from components distributed across multiple machines, and will
+              run on processors that will have multiple threads of control, but will take
+              hundreds of cycles to access the main memory.  Modern software will require
+              modern optimizations that will need to be scalable in three ways: with the size
+              of the program, with the number of distributed components, and with the growing
+              memory latency.  This research proposes to achieve scalability by exploiting
+              radically novel forms of speculation, profiling, demand-driven analysis,
+              run-time checks, and hardware support.  To develop these technologies, three
+              specific efforts will be undertaken: elimination of array-bounds checks,
+              demand-driven pointer analysis, and prefetching for pointer-based data
+              structures.

@@ -1,0 +1,42 @@
+Title       : Tornado: Fine-Grain Distributed Shared Memory for SMP Clusters
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : April 23,  1998     
+File        : a9625558
+
+Award Number: 9625558
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $1134962            (Estimated)
+Investigator: David A. Wood david@cs.wisc.edu  (Principal Investigator current)
+              Pei Cao  (Co-Principal Investigator current)
+              Mark D. Hill  (Co-Principal Investigator current)
+              James R. Larus  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is exploring the cluster approach to symmetric multiprocessing, in 
+              which bus-based multiprocessors are interconnected using a more scalable
+              network.   Using the Tempest parallel programming substrate, the project is
+              building  clusters that extend the shared memory model with fast references to
+              recently  used locations across a cluster.  The key issue is achieving good
+              performance  without resorting to extensive custom hardware.    The project
+              encompasses design and some implementation of a high-speed Tempest  system that
+              can: provide shared memory across a cluster; use cacheable control  registers
+              and queues for communication among processors and I/O devices; and  provide
+              hardware acceleration of protocols.  The project includes the development  of
+              programming tools and compilers that facilitate specification and verification 
+              of custom protocols, and use these protocols to hide latency.

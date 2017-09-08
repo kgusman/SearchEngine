@@ -1,0 +1,129 @@
+Title       : Hierarchical Tiling: A Framework for Multi-level Parallelism and Locality
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 1,  1996      
+File        : a9504150
+
+Award Number: 9504150
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1995       
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $336276             (Estimated)
+Investigator: Larry Carter carter@cs.ucsd.edu  (Principal Investigator current)
+              Jeanne Ferrante  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+                To achieve maximum benefit from tiling, compiler  optimization  must exercise
+              more control over data movement and storage  assignments than is commonly done.
+               Hierarchical tiling takes  responsibility  for several phases of compilation
+              and code  improvements that are traditionally  done separately, such as  scalar
+              replacement, register allocation, generating  message  passing calls, and
+              storage mapping. It uses the mechanisms of  explicitly naming and copying data
+              to control the movement of  data up and down  the memory hierarchy and to
+              exploit all levels  of parallelism. Its  effectiveness as a systematic
+              framework for  hand-crafting highly optimized code  has been tested on
+              scientific  applications for IBM SP1 system. This project  will extend the 
+              research in compiler optimizations by investigating the  following:   (1)
+              Develop a parameterized machine model that captures the  architectural
+              information needed to guide hierarchical tiling.   (2) Study  interactions
+              between tiling at various levels of  granularity.   (3)  Incorporate
+              hierarchical tiling into the SUIF toolset.    (4) Extend the work to  disk
+              storage, explicit I/O and implicit  paging virtual memories.    (5)  Validate
+              the approach using various programs on different  parallel machines.           
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                         

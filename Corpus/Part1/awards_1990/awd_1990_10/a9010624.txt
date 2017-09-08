@@ -1,0 +1,48 @@
+Title       : Empirical Studies of Process Distribution and Redistributionin Multicomputers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  1990       
+File        : a9010624
+
+Award Number: 9010624
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : June 30,  1993       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Dirk C. Grunwald dirk.grunwald@colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 2875      SYSTEM SOFTWARE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              This project examines the benefit of non-intrusive mechanisms for              
+              distributing load and status information in a distributed memory               
+              multicomputer.  To benefit from the possible speedup of parallel               
+              computers, programs must be partitioned into units that work in                
+              parallel.  Once partitioned, these units, must be assigned to specific         
+              processors for execution.  On distributed memory multicomputers, this          
+              is called load distribution, in comparison to rearranging extant               
+              tasks, termed load redistribution.  In previous work, program traces           
+              from small-grain programs were simulated on a reference architecture,          
+              using a modern network architecture.  The interconnection network did          
+              not require strong communication locality because messages could               
+              quickly cut-through intermediate nodes, favoring simple process                
+              distribution strategies.  In this project, the reference architecture          
+              is augmented by firmware mechanisms for non-intrusive load information         
+              distribution.  This information was shown to be critical for process           
+              distribution; these mechanisms are also useful for process                     
+              synchronization and network resource reservation.  For the previous            
+              sample programs, there was little advantage to processor                       
+              redistribution; this study will determine if this is true for parallel         
+              numerical applications by instrumentation and measurement of those             
+              programs and comparison to current and expected system performance.

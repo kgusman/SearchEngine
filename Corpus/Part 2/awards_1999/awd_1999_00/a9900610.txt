@@ -1,0 +1,59 @@
+Title       : Achieving High Performance with Co-Designed Virtual Machines
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 24,  1999    
+File        : a9900610
+
+Award Number: 9900610
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $350000             (Estimated)
+Investigator: James E. Smith jes@ece.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              A virtual machine (VM) is a level of abstraction that implements a virtual
+              instruction set architecture on a hardware platform executing a native ISA. 
+              This research focuses on VMs implemented via the co-design of software and
+              hardware using an implementation-dependent instruction set architecture. 
+              Because the hardware-supported architecture is implementation-dependent,
+              performance optimizations can be more easily passed from software through to
+              hardware, and performance feedback information can be more easily passed from
+              hardware up to the software.  Optimizations can be performed by software
+              dynamically, as the program runs. A co-designed virtual machine will include
+              adaptive hardware performance features, continuous hardware performance
+              feedback, and on-the-fly optimizing re-compilation by the VM.
+
+Specific
+              research topics include:
+
+1) The development of a VM co-design framework --
+              this framework is based on the widely used Simplescalar architecture
+              toolset.
+
+2) Application of the VM framework to a number of currently
+              important topics in high performance architecture -- these include (but are not
+              limited to) advanced control flow prediction and speculation, hardware-assisted
+              program specialization, and cache management techniques for object-oriented
+              applications.
+
+3) The study of higher level issues related to VM co-design
+              and dynamic optimization -- these include performance tradeoffs involving the
+              division of work between hardware and software and the development of
+              performance monitoring architecture as an integrated part of an overall
+              architecture.
+
+
+

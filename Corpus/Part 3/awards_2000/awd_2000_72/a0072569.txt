@@ -1,0 +1,67 @@
+Title       : Confidence Regions for Trees
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 14,  2000 
+File        : a0072569
+
+Award Number: 0072569
+Award Instr.: Standard Grant                               
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2000  
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $75510              (Estimated)
+Investigator: Susan P. Holmes susan@stat.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9183,9263,BIOT,OTHR,
+Abstract    :
+              This research proposal uses geometry and statistics to build meaningful
+              confidence regions for tree structured parameters.  Binary trees appear as
+              parameters in: (1) Hierarchical clustering problems, for instance for
+              micro-array data from contemporary genetics; (2) Methods that use decision
+              trees such as the Classification and Regression trees (CART); (3) Estimation of
+              phylogenetic trees built from DNA data for the taxonomy of species, but also
+              for building `gene trees'.  The embedding of tree estimation in a statistical
+              framework allows one to see trees as a special type of parameter to be
+              estimated.  However the estimation procedures have been developed without the
+              ability to construct confidence regions for these paramters or ways of
+              comparing various estimators of these parameters.  Currently biologists
+              validate the tree estimated by perturbing the data through a simple bootstrap
+              of the DNA sequences and then summarizing the collection of trees obtained by
+              associating p-values to the branches of a consensus tree.  This reduces the
+              problem to a collection of binomial simulations, losing much of the
+              multivariate information of which groups appear simultaneously.  This new
+              constructive geometrical approach uses the tools available from topology and
+              algebraic combinatorics.  Collaboration with a combinatorialist, Louis Billera,
+              and a topologist, Karen Vogtmann, on a more mathematical understanding of tree
+              space allows a more natural definition of distances between points in the `tree
+              polytope'.  This topological study of tree space is crucial in the definition
+              of a notion of neighborhood that then allows a definition of continuity of the
+              estimation function.  The space of trees is a space with negative curvature. 
+              It is also possible to define geodesics on this space and convex hulls.  The
+              notion of confidence region can be defined, and it is possible to combine trees
+              from built from different datasets or to combine trees obtained from different
+              genes or even compare trees with other data (biogeographic, for
+              instance).
+
+Understanding the geometry of "tree space" helps understand how
+              to combine and compare trees.  Whether they are hierarchical clustering trees
+              built for micro-array DNA data or family trees built from DNA sequences, binary
+              tree data are abundant in today's genome era.  The current proposal aims to
+              consider trees as a whole, instead of breaking them down into just sibling
+              relationships as is done currently.  This problem uses recent results from
+              topology and the geometry of spaces with negative curvature, like the surface
+              of a hyperboloid.  In these spaces notions of average and distance have to be
+              redefined, the hardest being ways of representing what is not naturally
+              representable in our usual euclidean space.  The challenges are both
+              computational and geometric.
+

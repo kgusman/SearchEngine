@@ -1,0 +1,144 @@
+Title       : Formal Methods Visualization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 1,  2000  
+File        : a9988357
+
+Award Number: 9988357
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $493177             (Estimated)
+Investigator: J Strother Moore moore@cs.utexas.edu  (Principal Investigator current)
+              Chandrajit L. Bajaj  (Co-Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9988357
+J Strother Moore & Chandrajit Bajaj
+U Texas Austin
+
+The proposed
+              work will enable real-time interrogative visualization and steering of
+the
+              data-intensive computations of applied symbolic logic, in support of
+              hardware
+and software verification. 
+
+The microprocessor industry is finding
+              increasing use for mechanized formal methods:
+the mathematical specification
+              and mechanized symbolic analysis of hardware and
+software systems. For
+              example, the ACL2 theorem prover has been used by Advanced
+Micro Devices,
+              Inc., to find bugs in the AMD-K7 TM floating-point hardware, bugs
+that had
+              escaped over 80 million test vectors. Theorem provers also enable
+              symbolic
+simulation of new designs from formal specifications  and security
+              analysis of
+devices for use in e-commerce (see below). Such applications
+              represent the practical
+emergence of applied symbolic logic.
+
+Formal logic
+              is the mathematical tool of choice for modeling computing
+systems, in exactly
+              the same sense that differential equations are the tool of
+choice for modeling
+              physical systems. While study of logic is well established, the
+application of
+              logic is new, because until the invention of the digital computer,
+engineered
+              artifacts were essentially mechanical. The semiconductor industry is
+              now
+turning to logic-based mechanized tools because models of modern
+              processors are too
+complex to analyze any other way; and that complexity
+              cannot be eliminated because
+it is used to buy speed and speed provides the
+              competitive edge. 
+
+The semi-automatic theorem provers that make such
+              analysis possible are industrial-
+strength symbol manipulation engines. These
+              engines process symbolic data
+representing logical formulas. Intermediate
+              formulas may consume megabytes of
+storage. The engines explore vast search
+              spaces determined by thousands of
+definitions and theorems in data bases
+              created by various design team members.
+Proofs may contain millions of
+              primitive inference steps. The engines use decision
+procedures where feasible
+              and are otherwise guided both by heuristics and the human
+user.
+
+Due to the
+              computational intensity of the problem, today's semi-automatic
+              deduction
+engines are designed for use in an iterated guess style, where the
+              guess
+determines the search space. When a proof attempt fails, the rea-son is
+              often
+mathematical rather than search-strategic. The user's role is creative:
+              diagnose the
+problem and invent the mathematical abstractions necessary to
+              facilitate proof. This
+may require defining new formal concepts to state
+              generalizations or decompositions.
+Such input from the user fundamentally
+              alters the search space.
+
+The research proposed here will produce a new
+              paradigm for semi-automatic theorem
+provers in which the user steers the
+              system in real time. Visualization paradigms
+for symbolic data and symbolic
+              manipulation will be developed, including what we
+call symbolic spreadsheets
+              which allow inter-related symbolic data to be displayed
+coherently. The search
+              space will be explicit, visible and dynamically computed.
+Structure will be
+              imposed via the definitions and lemmas in the data base. Four
+fundamental
+              research topics will be addressed: (i) selection of the abstract
+entities to
+              be visualized, the visual reification of these abstractions, and
+              the
+requirements for effective steering; (ii) visualization algorithms for
+              efficient
+display and interrogation of symbolic logical data and processes;
+              (iii) theorem
+proving algorithms producing human surveyable proofs while
+              allowing real-time
+interaction; and (iv) a client/server model of
+              semi-automatic theorem proving
+allowing the visualization and deduction
+              engines to be decoupled but interoperable.
+
+
+This is an ideal setting in
+              which to study the visualization of symbolic data
+processing, with a clear
+              path to immediate and critical applications in the
+semiconductor industry and,
+              due to the pervasiveness of formal systems in computing
+(e.g., programming
+              languages) promising connections to much wider applications. The
+research will
+              deeply affect both applied logic and visualization.

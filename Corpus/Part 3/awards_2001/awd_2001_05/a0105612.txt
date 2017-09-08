@@ -1,0 +1,64 @@
+Title       : Chip-Interleaved Block-Spread Code Division Multiple Access
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 3,  2003      
+File        : a0105612
+
+Award Number: 0105612
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2001        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $350000             (Estimated)
+Investigator: Georgios B. Giannakis georgios@ece.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Georgios Giannakis
+Title: "Chip_interleaved Block-Spread Code Division Multiple
+              Access"
+CCR-0105612
+
+With the demand for higher data rates  and wireless 
+              services rising as fast as the Internet permeated our lives,  the need to cope
+              with the idiosyncrasies of the shared wireless medium increases along with the
+              challenges : multi-user interference (MUI), fading propagation effects,
+              mobility-induced impairments, and high-performance telecommunication  systems 
+              that are also bandwidth- and power-efficient. Today's Code-Division Multiple
+              Access (CDMA) relies on long aperiodic pseudo-noise codes and strict power
+              control to suppress MUI. On the other hand, CDMA proposals with symbol-periodic
+              short spreading codes relax the need for power control at the expense of
+              high-complexity  MUI cancellation which is less affordable at the mobile unit
+              in the downlink. But also in the uplink, the frequency-selective fading that
+              asynchronous high-rate transmissions experience as they propagate through 
+              multipath-rich channels, degrades performance unless bandwidth is sacrificed.
+              
+
+The CDMA system of this grant relies on the novel idea of spreading a block
+              of symbols with long, yet structured and deterministic, user codes. Our
+              block-spread transmissions can be viewed as (and are implemented by)
+              chip-interleaving of symbols spread by short codes. The attractive features of
+              the resulting 
+Chip-Interleaved Block-Spread (CIBS) CDMA system: i)flexibility
+              to revert as block-spread TDMA, FDMA, Direct-Sequence-, or, Multicarrier-CDMA;
+              ii)power- and bandwidth-efficiency; iii)MUI avoidance by-design;
+              iv)full-multipath diversity and no loss of optimality with matched-filter
+              reception; and v)low-complexity.  Basic research directions include:
+              performance analysis and comparisons with competing alternatives in terms of
+              capacity and bit error rates; mobility studies and development of
+              timing-offset, 
+carrier-frequency offset and channel estimation algorithms for
+              acquisition and tracking; incorporation of multiple antennas to enhance
+              diversity with space-time coding gains; investigation of optimal precoding,
+              power-and-bit loading and adaptive modulation; and study of cellular
+              system-level issues. 

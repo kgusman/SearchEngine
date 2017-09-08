@@ -1,0 +1,54 @@
+Title       : Clustered Surrogate File Scheme for Very Large Knowledge Bases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 10,  1991    
+File        : a9008694
+
+Award Number: 9008694
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1990      
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $55158              (Estimated)
+Investigator: Soon M. Chung schung@cs.wright.edu  (Principal Investigator current)
+Sponsor     : Wright State University
+	      3640 Colonel Glenn Highway
+	      Dayton, OH  454350001    937/775-2425
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9264,
+Abstract    :
+              In the context of a very large knowledge base which consists of                
+              rules and the extensional database of facts, the major problem is              
+              how to process the relational operations on the extensional                    
+              database in the minimum amount of time to satisfy the user                     
+              queries. To speed up the relational operations on very large                   
+              knowledge bases, parallel processing is essential. But most of                 
+              the previous index schemes and file structures were designed for               
+              sequential processing environment, so they can not be easily                   
+              mapped to parallel processing systems. One reasonable indexing                 
+              scheme for parallel processing systems is the concatenated code                
+              word (CCW) surrogate file which has small size and simple                      
+              maintenance requirement.  The CCW surrogate file can be used to                
+              index the rules as well as facts, and relational operations can                
+              be directly performed on the CCW surrogate files.  CCW surrogate               
+              files can be mapped well into the parallel architectures because               
+              their structure is quite compact and regular.                                  
+                                                                                             
+              The main goal of this research work is to develop optimal                      
+              clustered CCW surrogate file and data file structures suitable                 
+              for parallel processing systems.  Parallel relational operation                
+              algorithms based on the clustered file structures that are                     
+              designed in this project will be evaluated and their performance               
+              compared with other knowledge base management systems.  The                    
+              efficient index and file structures developed for very large                   
+              knowledge bases support parallel relational operations used in                 
+              logical inference mechanisms, thus making these systems more                   
+              effective.

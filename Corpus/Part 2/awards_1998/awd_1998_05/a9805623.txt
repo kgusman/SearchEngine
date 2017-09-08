@@ -1,0 +1,70 @@
+Title       : Long-range Dependence and Heavy Tails in Communication Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 25,  2000       
+File        : a9805623
+
+Award Number: 9805623
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: Murad S. Taqqu murad@math.bu.edu  (Principal Investigator current)
+              Walter Willinger  (Co-Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                There has been recently a big increase in the number of studies related to the
+              statistical analysis and mathematical modeling of traffic measurements from
+              modern communication networks.  While many of the measured traffic traces 
+              differ from each other in their high-frequency behavior, they typically exhibit
+              a number of  statistical characteristics that tend to be insensitive to the
+              constant changes that real-life data networks experience over time.  Such
+              robust characteristics are sometimes called "traffic invariants", and include
+              such phenomena as long-range dependence  and/or heavy tails.  Long-range
+              dependence  occurs when the correlations of the traffic  processes at hand
+              decay to zero slowly as the lag increases (i.e., power-law decay) and causes
+              traffic to exhibit pronounced larger-than average ``bursts'' and
+              lower-than-average ``lulls''.  Heavy tails refer to the power-law decay of the
+              underlying probability distributions and capture the notions of extreme
+              variability and ``intermittancy''.  In the networking context, long-range
+              dependence and heavy tails abound  and have been observed at practically all
+              layers in the networking hierarchy.  This research focuses on these traffic
+              invariants: how to detect and measure them,  how to explain their presence in
+              realistic networking situations, what  is their effect on queuing/loss
+              performance, and also how to identify other potential invariants, especially
+              within the apparent chaotic structure in the high-frequency domain.    One of
+              the open problems in understanding the dynamic nature of network  traffic is
+              when the underlying traffic (e.g., packet rate process), in addition to
+              exhibiting strong temporal dependencies, is itself non-Gaussian and  exhibits
+              heavy tails.  This research aims to develop physical models  that can explain
+              the joint presence of   long-range dependence and heavy tails at the
+              macroscopic level. These  models should be useful in practice, give rise to
+              efficient traffic generation methods that result in synthetic traces  with
+              realistic features, and provide novel insights into the wide area  of network
+              performance analysis. Another problem area concerns the nature of network
+              traffic at the microscopic level, where we will build upon the recent discovery
+              of the presence of multiplicative mechanisms that cause network traffic over
+              fine time scales to exhibit multifractal scaling properties.    This research
+              also focuses on the Web and plans to track how self-similarity, heavy-tails,
+              and multifractals fare in a constantly changing Internet. How does the ever
+              increasing variability in access speeds (e.g., traditional modems on one hand, 
+              cable modems, 100 Mbps Ethernet on the other) and the more and more
+              heterogeneous nature of access technologies (e.g., phone modems, cable modems,
+              ADSL) will affect the nature of currently considered  workload models and how
+              they will impact the  scaling  (i.e., self-similarity) properties of aggregate
+              packet traffic.     This project involves the collaborative effort of the P.I.
+              (Murad S. Taqqu) at Boston University and the Co-P.I. (Walter Willinger) at
+              AT&T-Labs Research.    For more details please refer to the web site
+              AREF="http://math.bu.edu/people/murad">  http://math.bu.edu/people/murad</A>.

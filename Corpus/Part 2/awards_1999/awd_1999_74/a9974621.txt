@@ -1,0 +1,58 @@
+Title       : Development of Implicit Solvation Potentials for Biomolecules
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : July 3,  2001       
+File        : a9974621
+
+Award Number: 9974621
+Award Instr.: Standard Grant                               
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $348421             (Estimated)
+Investigator: Themis Lazaridis themis@sci.ccny.cuny.edu  (Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/650-5418
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              
+
+DBI 9974621, Lazaridis, Themis. CUNY City College. Development of implicit
+              solvation potentials for biomolecules.
+
+
+Project Summary
+
+The interaction
+              of biological macromolecules with solvent is crucial to their structure and
+              function and needs to be taken into account in computer modeling studies. Until
+              now, this has been accomplished primarily by simulating the biomolecule along
+              with a large number of water molecules. This approach (explicit solvation) has
+              two drawbacks: it is computationally intensive and does not reveal the
+              thermodynamic origins of the observed behavior because free energies are not
+              readily available in the simulation. A more efficient approach to this problem
+              (implicit solvation) is to add an analytical function for the solvation free
+              energy to the molecular mechanics force field. Such a function for proteins in
+              water has been recently developed and added to the CHARMM force field to obtain
+              an approximation to the effective energy of proteins in solution (EEF1). The
+              proposed work will continue on this path by a) further testing and developing
+              improvements to EEF1, b) extending the model to other biomolecules, such as
+              nucleic acids, carbohydrates, lipids, metals and cofactors, c) extending the
+              model to other solvents, such as denaturant solutions and nonpolar environments
+              mimicking
+biological membranes, and d) incorporating the effects of pH, pKa
+              shifts, and ionic strength. The objective of this work is to develop a set of
+              potentials that can accurate represent the various solvent environments found
+              in living systems and in experimental in vitro studies of biomolecules. The new
+              potentials, implemented into existing or new software, will allow the study of
+              larger and more complex biological systems than has been possible so far.
+

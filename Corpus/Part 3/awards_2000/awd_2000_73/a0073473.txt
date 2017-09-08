@@ -1,0 +1,43 @@
+Title       : Predictive Multiprocessor Caching Techniques Based on Cache Interference and
+               Working Set Change
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 19,  2000      
+File        : a0073473
+
+Award Number: 0073473
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2000      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $144000             (Estimated)
+Investigator: Jih-Kwon Peir peir@cise.ufl.edu  (Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The objective of this project is to investigate and evaluate innovative
+              hardware-based approaches to reducing misses in multiprocessor caches due to
+              interference.  Interference between cache lines in a multiprocessor can cause
+              lines to be involuntarily relinquished while they are still in the working set
+              of a computation.  The problem is especially serious for modified lines, which
+              not only account for a large percentage of cache misses, but also incur a high
+              miss penalty.
+
+The fundamental idea in this research is to record the lines
+              that a cache has given up involuntarily, and use them as prefetching targets. 
+              Simulation studies based on transaction processing and scientific workloads
+              will be carried out to evaluate several algorithms for prefetch selection. 
+              These algorithms include intuitive approaches that take advantage of coherence
+              transactions, as well as more aggressive approaches in which processes that
+              modify a cache line notify other processes to prefetch that line.
+

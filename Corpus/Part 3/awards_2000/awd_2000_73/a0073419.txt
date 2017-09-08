@@ -1,0 +1,47 @@
+Title       : Designing Efficient Java Runtime Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0073419
+
+Award Number: 0073419
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $110626             (Estimated)
+Investigator: Vijaykrishnan Narayanan vijay@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The Java Virtual Machine (JVM) is the corner stone of Java technology, and its
+              efficiency in executing the portable Java bytecodes is crucial for the success
+              of this technology. Interpretation, Just-In-Time compilation, and hardware
+              realization are well known solutions for implementing the JVM, and previous
+              research has proposed optimizations for each of these techniques. However, each
+              technique has its pros and cons and may not be uniformly attractive for all
+              hardware platforms. Instead, an understanding of the architectural implications
+              of JVM implementations with real applications can be crucial to the development
+              of enabling technologies for efficient Java runtime system development on a
+              wide range of platforms (from resource-rich servers to resource-constrained
+              embedded systems). Towards this goal, this proposal examines architectural
+              issues, from both the hardware and JVM implementation perspectives. The key to
+              an efficient Java virtual machine implementation is the synergy between
+              well-designed software, an optimizing compiler, supportive architecture, and
+              efficient runtime libraries. This research will essentially provide an insight
+              into this hardware -software interaction and contribute a set of tools,
+              software and hardware methodologies, and architectural features that will be
+              vital for supporting efficient JVM implementations over a spectrum of devices.
+              The results from this research will also be useful for providing efficient
+              implementations in other object-based and dynamically compiled languages and
+              environments.

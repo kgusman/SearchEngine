@@ -1,0 +1,84 @@
+Title       : ITR: (Software & Hardware Systems) Piazza: A Platform for Wide-scale Distributed
+               Data Sharing and Integration
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 29,  2002      
+File        : a0205635
+
+Award Number: 0205635
+Award Instr.: Standard Grant                               
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $790000             (Estimated)
+Investigator: Alon Y. Halevy alon@cs.washington.edu  (Principal Investigator current)
+              Dan Suciu  (Co-Principal Investigator current)
+              Henry M. Levy  (Co-Principal Investigator current)
+              Steven Gribble  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+This research seeks to create a new global-scale information facility
+on the
+              Internet in which structured data, rather than raw text, is the
+key element
+              supported.  Currently, the information provided on the
+Internet consists of
+              simple text-based documents (HTML), or other
+unstructured types such as images
+              and streams.  The new facility will
+allow data sources to be described by
+              schemas and their content to be
+indexed and located.  Sophisticated
+              query-oriented database-style
+operations will be possible over simple or
+              complex data sources, and
+new views of multiple data sources can be created
+              and shared with
+other clients.  A new class of data processing services will
+              be
+possible to collect, manipulate, analyze, and store data.
+
+The first goal
+              of project is to define the basic architecture of a
+client, allowing it to
+              share its data with other peers, participate in
+distributed query processing,
+              and cooperate with other clients.  A
+specific data integration formalism will
+              be designed that will allow
+clients to integrate their data with others' using
+              both global-as-view
+and local-as-view data integration paradigms.  Building on
+              this
+arthictecture, a new query processing technique will be developed
+              that
+can adapt to both data integration paradigms.  The project will
+              then
+develop intelligent data placement techniques for storing query
+results
+              on different clients, thus enabling dramatic performance
+improvments for
+              subsequent queries.  The data such placed on servers
+may become stale, when
+              the source data gets updated: the project will
+develop specific update
+              propagation techniques for publishing and
+disseminating updates.  Finally, the
+              project is developing novel data
+indexing techniques that allow clients to
+              search data items globally.
+
+
+

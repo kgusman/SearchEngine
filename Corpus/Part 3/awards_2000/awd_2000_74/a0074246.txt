@@ -1,0 +1,96 @@
+Title       : Theory and Applications of Multigrid and Domain Decomposition Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 21,  2001       
+File        : a0074246
+
+Award Number: 0074246
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $98494              (Estimated)
+Investigator: Susanne C. Brenner brenner@math.sc.edu  (Principal Investigator current)
+Sponsor     : U of SC Columbia
+	      Byrnes Building, Room 501
+	      Columbia, SC  29208    803/777-7093
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+               There are three areas of research in the project ``Theory and Applications
+ of
+              Multigrid and Domain Decomposition Methods''.  The first area concerns
+ the
+              additive multigrid convergence theory, which is effective in analyzing 
+ the
+              asymptotic behavior of the contraction numbers of multigrid algorithms
+ with
+              respect to the number of smoothing steps for boundary value problems 
+ with
+              less than full elliptic  regularity.  The seminal result obtained by 
+ the PI
+              for V-cycle algorithm with Richardson relaxation as the smoother will 
+ be
+              extended to general smoothers, nonconforming finite elements,  the mixed 
+
+              formulation and the F-cycle algorithm.  The second area involves multigrid 
+
+              methods for stress intensity factors and singular solutions.  These are 
+
+              methods that can take advantage of the form of the solution of the boundary 
+
+              value problem in the regions where it does not have full elliptic regularity.
+              
+ Using this approach, usual quasi-optimal convergence rates have been
+              obtained 
+ for simple finite elements on simple grids for boundary value
+              problems on 
+ two-dimensional domains with reentrant corners or cracks.  The
+              technically 
+ more challenging interface problems and three dimensional
+              problems will be 
+ investigated in this project.  The third area is the
+              analysis of the Finite 
+ Element Tearing and Interconnecting (FETI) method, a
+              nonoverlapping domain 
+ decomposition method in which the (pseudo) inverse of
+              the Schur complement 
+ matrix has to be preconditioned.  The goal of this part
+              of the project is to   
+ carry out an  analysis of the FETI method and some of
+              its variants within the
+ framework of additive Schwarz preconditioners, and to
+              investigate
+ new mechanisms for the global communication among the subdomains.
+              
+
+ The methods analyzed in this project are efficient algorithms for the 
+
+              numerical solution of partial differential equations.  Such equations
+ are
+              extremely important in science and engineering since they are the
+ governing
+              equations for most physical phenomena. Part of the research 
+ involves the
+              fast computation of stress intensity factors, which are 
+ essential indicators
+              in fracture mechanics.  The FETI method to be
+ studied in this project has
+              already been implemented for large scale 
+ engineering problems using parallel
+              supercomputers with up to a thousand 
+ processors.  The advances resulting
+              from this project will therefore 
+ have an impact on many areas of science and
+              technology, such as aerospace  
+ engineering, fracture prediction and fluid
+              flow problems.
+
+

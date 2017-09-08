@@ -1,0 +1,56 @@
+Title       : Multithreading: A Viable Approach for High Performance Single Chip Architecture
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 15,  2002     
+File        : a0073527
+
+Award Number: 0073527
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $421673             (Estimated)
+Investigator: Jean-Luc Gaudiot   (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Most modern single processor architectures focus on exploiting instruction-level
+              parallelism. However, despite continued performance improvements, there is
+              increasing doubt that aggressive ILP architecture techniques would continue
+              bringing the desired improvements and that there will come about a diminishing
+              return in the performance of single-chip architectures.
+
+Multithreaded
+              execution models promise to exploit thread-level parallelism (TLP) beyond a
+              pure ILP approach. Multithreading can be applied directly at the level of
+              uniprocessor instruction-set architectures. For example, Simultaneous
+              MultiThreading (SMT) is a promising approach, which is attracting the attention
+              of a number of academic and industrial research groups. This technique allows
+              the various pipelines of a "superscalar" processor to be efficiently utilized
+              by scheduling from several "coarse-grain" threads of one (or several)
+              program(s). Although exploiting both ILP and TLP is attractive, the following
+              questions are investigated in the project:
+
+- Can an architecture model,
+              which integrates fine-grain multithreading support with a coarse-grain
+              multithreaded architecture model such as SMT, be developed?
+
+- What are the
+              design trade-off when mapping these architecture features to single-chip
+              implementations?
+
+- What compiling methodology for the proposed architecture
+              model would exploit thread-level parallelism at both coarse and fine-grain
+              levels?
+
+

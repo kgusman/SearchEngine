@@ -1,0 +1,53 @@
+Title       : Fair Scheduling and Admission Control for Shared-Channel Wireless Packet
+               Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 2,  2000   
+File        : a9714685
+
+Award Number: 9714685
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1998  
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $260644             (Estimated)
+Investigator: Bharghavan Vaduvur bharghav@crhc.uiuc.edu  (Principal Investigator current)
+              Rayadurgam Srikant  (Co-Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Abstract for the web page http://tesla.csl.uiuc.edu/~srikant/~wireless.html   
+              Fair scheduling of delay and rate-sensitive packet flows over a wireless
+              channel is not addressed effectively by most contemporary wireline fair
+              scheduling algorithms because of two unique characteristics of wireless media:
+              (a) bursty channel errors, and (b) location-dependent channel capacity and
+              errors.  Besides, in packet cellular networks, the base station typically
+              performs the task of packet scheduling for both downlink and uplink flows in a
+              cell; however a  base station has only a limited knowledge of the arrival
+              processes of uplink flows.  Fair scheduling is closely connected to admission
+              control and channel measurements since these are used to allocate a fraction of
+              the channel's capacity to each flow based or its Quality-of-Service (QoS)
+              requirements.  In this proposal, we will study the problem of admission control
+              and scheduling together.  Most previous work has addressed these two problems
+              separately in the context of wireline networks, but such an approach is not
+              applicable to wireless networks.  On-line measurements will be used along with
+              admission control, scheduling and rate adaption to provide good QoS
+              performance.  We plan to use on-line measurements to estimate the parameters of
+              simple stochastic processes (such as on-off Markov models) describing the
+              channel state.  Off-line measurements would be used to validate and refine our
+              prediction algorithm as well as to develop a simple model for the channel which
+              can used by the on-line measurement algorithm.  We will also study the impact
+              of fair wireless packet scheduling on medium access and develop an effective
+              MAC protocol to support simple rate and delay guarantees.  Finally, using
+              existing testbeds, we will evaluate the algorithms that result from this
+              research project.

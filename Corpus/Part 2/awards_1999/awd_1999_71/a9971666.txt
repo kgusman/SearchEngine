@@ -1,0 +1,65 @@
+Title       : CISE Experimental Partnerships: Prototyping the Superthreaded Architecture
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a9971666
+
+Award Number: 9971666
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $932472             (Estimated)
+Investigator: David J. Lilja lilja@ece.umn.edu  (Principal Investigator current)
+              Pen-Chung Yew  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4725,9218,HPCC,
+Abstract    :
+              9971666
+Lilja, David J
+Yew, Pen-Chung
+University of Minnesota-Twin
+              Cities
+
+CISE Experimental Partnerships: Prototyping the Superthreaded
+              Processor
+Architecture (Experimental Partnerships)
+
+This research seeks to
+              discover sufficient parallelism in programs both at the instruction-level and
+              at the thread-level by exploring new compiler technologies and computer
+              architectures.  The superthreaded processor architecture simultaneously
+              exploits multiple granularities of parallelism in application programs by
+              supporting both instruction-level and thread-level speculation with
+              compiler-assisted cross-thread runtime data dependence checking. This research
+              validates the superthreaded architecture with a hardware description language
+              implementation using a software-based emulation facility as a step towards a
+              more detailed cycle-based emulation.  An integrated parallelizing compiler for
+              both C and Fortran is being developed to support tests using realistic
+              benchmark programs.  Extensions to the superthreaded architecture and
+              compilation techniques are being investigated to exploit another thread
+              dimension to expend additional parallelism to more effectively hide memory
+              latency.  Significant enhancements are being made to the existing integrated
+              parallelizing compiler to target the extended superthreaded architecture to
+              address both the scalability and the memory latency hiding issues.  The new
+              compiler techniques developed in this project will also benefit existing
+              wide-issue superscalar processors since techniques to exploit thread-level
+              parallelism and latency hiding in C programs are still in their infancy today. 
+              Additionally, a complete infrastructure is being developed to study the
+              interaction between architecture and compiler techniques for concurrent
+              multithreaded architectures that exploit various levels of parallelism and
+              speculation for both scalability and memory latency hiding.  This experimental
+              infrastructure includes the integrated parallelizing compiler, an interface to
+              a fast emulation facility, and a complete execution-based simulator.
+
+

@@ -1,0 +1,81 @@
+Title       : ITR/SI: Automatic Consistency Checking for IPSec/VPN Security Policy
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 6,  2001  
+File        : a0113388
+
+Award Number: 0113388
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $388429             (Estimated)
+Investigator: Shyhtsun F. Wu wu@cs.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      410 Mark Hall
+	      Davis, CA  956168671    916/752-2075
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Abstract    :
+              Although various IPSec policy issues [2,3,4] have attracted a lot of attention,
+              within the IETF IPSP (IP Security Policy) working group, there is certain
+              amount of confusion and concerns about the two fundamental issues: 1) How to
+              ensure the correctness of a set of distributed security policies? 2) How to
+              systematically determine the correct set of policies and securely distribute
+              them across the network? Internet will be more and more dynamic in many
+              aspects. With the capability of various wireless network technologies, users
+              and even sub-networks can be mobile. Mobility implies potential changes in
+              the policies or the inter-relations among distributed policies. Adaptive
+              security is another cause of policy changes. It will be uncommon in the near
+              future that, in reacting to a newly detected intrusion, a security management
+              system might on-the-fly determine to strengthen the security level by modifying
+              the IPSec security policies. Therefore, it is critically important to have a
+              safe and rigorous solution to handle the above two issues. Policy
+              Specification Correctness Currently, in the research community of IPSec/VPN
+              policy, to our best knowledge, no rigorous definition for IPSec/VPN policy
+              correctness has been developed. Later in this proposal, we will give a formal
+              and reasonable definition for correctness such that we will have a basis for
+              policy specification analysis. Such correctness analysis must be automated
+              such that the security configuration of a network system can be adaptive to
+              changes, faults/intrusions, and mobility. On the other hand, if there are
+              inherent constraints and conflicts among the existing security policies such
+              that it is impossible to have a consistent policy set, the policy analysis
+              engine should also automatically determine the impossibility. Inter-domain
+              Secure Policy Distribution The proposed work under the first issue assumes
+              that we have a perfect and centralized collection of information related to
+              the policies and security requirements around the whole Internet. However, in
+              reality, this might not always be possible as Internet is owned and managed by
+              different administrative domains, while, for trust and privacy consideration,
+              information regarding local policy and network topology might not be sharable
+              across domain boundaries. The second objective of this proposed research is,
+              under some inter-domain related constraints, to develop a collaborative
+              framework/architecture and a suite of distributed protocols such that we can
+              still analyze the correctness of a set of decentralized IPSec/VPN policies. We
+              will study the issue of the minimum amount of policy information needed for a
+              particular policy domain to determine whether its local policies
+              and requirements will be consistent with other domains. Once the set of
+              policies is decided, a policy distribution mechanism is also needed. Under
+              this proposed research project, we will first focus on the theoretical aspect
+              of policy and requirement specifications and their analysis. We will develop
+              algorithms and analytical results to fundamental enhance our current
+              technology in policy-driven networking systems such as IPSec/VPN. Second, we
+              plan on implementing a prototype to validate and evaluate our proposed
+              approach on a realistic networking environment. The first phase will be a
+              small testbed to run the prototype software, which will be open sourced and
+              available to the community. Furthermore, we would like to collaborate with
+              industry partners such as equipment venders and ISPs to further evaluate and
+              validate our approach against real-world challenges. Furthermore, we will pay
+              special attention to the application of our solutions in a mobile network
+              environment. In such environment, the capability of dynamically updating IPSec
+              security policy is extremely critical. To summarize, we will not only deliver
+              academic publications about our proposed works but also produce a prototype
+              system and perform extensive experiments, including the real-world data set
+              if possible, to evaluate the performance and accuracy and to validate our
+              theoretical model in handling difficulty issues in Policy-driven networking
+              systems.

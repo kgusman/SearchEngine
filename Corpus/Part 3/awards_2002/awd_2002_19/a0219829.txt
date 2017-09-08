@@ -1,0 +1,77 @@
+Title       : ITR: Network and Traffic Engineering for DiffServ MPLS-Based Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 11,  2002 
+File        : a0219829
+
+Award Number: 0219829
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $299991             (Estimated)
+Investigator: Caterina Scoglio caterina@ece.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              The combined use of the Differentiated Services (DiffServ) and Multiprotocol
+              Label Switching (MPLS) Technologies is a promising way to provide
+              Quality-of-Service (QoS) in IP networks, while effectively using network
+              resources.  However, to efficiently carry DiffServ traffic over an MPLS
+              network, a mapping between DiffServ classes and LSPs is needed.   Moreover, the
+              design and management of such a network is a fundamental key to the success of
+              the QoS provisioning and it includes several open research issues.  Many
+              problems need to be solved such as LSP dimensioning, set up tear down
+              procedures, routing, adaptation to actual carried traffic, preemption, initial
+              definition of the network topology, etc.  Furthermore, in designing network
+              planning and management methods, we have to take into account the high
+              unpredictability of the Internet traffic.
+
+Our proposal is a comprehensive
+              study that describes practical solutions for MPLS network planning along with
+              bandwidth and route management, which interwork in a synergetic fashion.  The
+              presented ideas are novel paradigms that allow MPLS networks to adapt their
+              state to provide the best possible performance and resource utilization.  We
+              propose to design, evaluate and fine-tune these new ideas. 
+
+In the bandwidth
+              management portion of the project, new methods for LSP setup, dimensioning,
+              preemption, and capacity allocation will be designed.  The route management
+              research includes novel algorithms for LSP routing and bandwidth request
+              routing. Finally, in the network planning research we will investigate methods
+              to design the optimal MPLS network topology and its dimensioning based on
+              predicted traffic loads and long term Service Level Specification (SLS)
+              contracts.
+
+To illustrate the inter-relations of the above mentioned research
+              topics, consider a scenario where network planning methods have provided an
+              initial topology of the MPLS network.  Possible events include the arrival of a
+              request for LSP setup or arrival of a bandwidth request.  The first event can
+              be handled by the combined use of three of our proposed methods, in the order:
+              LSP routing, LSP preemption, and LSP capacity allocation.  The LSP routing aims
+              to find the route on the physical network over which the LSP will be routed. 
+              LSP preemption decides if any existing LSPs can be preempted on the route to
+              make way for the new LSP in the case in which there is not enough available
+              bandwidth.  The LSP capacity allocation method tries to fine tune the LSP
+              capacity to avoid unused reserved bandwidth.  The event of arrival of a
+              bandwidth request triggers the LSP setup and dimensioning, which may in turn
+              trigger the LSP creation steps of routing, preemption and capacity
+              allocation.
+
+The potential impact of this proposal is the development of
+              novel and practical methods which currently are open issues in the design and
+              management of DiffServ-based MPLS networks. Significant progress and
+              contributions to the study of MPLS network management have already been made in
+              our publications.  This previous work will be useful towards achieving the
+              proposed objectives.
+

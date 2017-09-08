@@ -1,0 +1,54 @@
+Title       : Query Optimization Techniques for OODB Languages
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 10,  2000      
+File        : a9811525
+
+Award Number: 9811525
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $192919             (Estimated)
+Investigator: Leonidas Fegaras fegaras@cse.uta.edu  (Principal Investigator current)
+Sponsor     : U of Texas Arlington
+	      Office of Research
+	      Arlington, TX  760190145    817/273-2105
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+               This research is carried out in collaboration with David Maier of the Oregon
+              Graduate Institute. One of the key factors for object-oriented database (OODB)
+              systems to successfully compete with relational systems as well as to meet the
+              performance requirements of many non-traditional applications is the
+              development of an effective query optimizer. This research addresses efficient
+              query optimization for OODB languages. The research framework is based on a
+              calculus, called the monoid comprehension calculus, which has already been
+              shown to capture most features of modern OODB query languages. This effective,
+              yet simple approach transforms the queries into an intermediate form, based on
+              this calculus, that can be efficiently optimized. This research concentrates on
+              two very important optimization problems and proposes practical, effective, and
+              general solutions. The first problem is query unnesting, an optimization that,
+              even though improves performance considerably, is not treated properly by most
+              OODB systems. A framework is developed that generalizes many unnesting
+              techniques proposed recently in the literature and is capable of removing any
+              form of query nesting using a simple and efficient algorithm. The second
+              problem is query optimization in the presence of side effects, i.e., queries
+              that may contain object updates at any place and in any form. A practical
+              method is developed that allows the same optimization techniques proposed for
+              regular queries to be used with minimal changes for OODB queries with side
+              effects. A prototype query optimizer is constructed to demonstrate that these
+              optimization techniques considerably improve performance for queries as well as
+              updates. The results of this research will help OODB vendors build better query
+              optimizers, leading to better system performance.
+              
+
+http://www-cse.uta.edu/~fegaras/opt/
+

@@ -1,0 +1,44 @@
+Title       : Improving the Locality of Reference in Heap-Allocation Intensive Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1997  
+File        : a9711398
+
+Award Number: 9711398
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $185113             (Estimated)
+Investigator: Benjamin G. Zorn zorn@cs.colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9251,HPCC,
+Abstract    :
+              With the widespread use of object-oriented programming  languages, including C++
+              and Java, programs that do a  significant amount of heap storage allocation are
+              becoming  increasingly widespread and important.  This project  investigates
+              aggressive implementation policies that can  improve reference locality in
+              allocation-intensive programs,  both in languages with and without garbage
+              collection.  Specifically, the approach followed here uses profile-based 
+              optimization and predicts the objects that are likely to  be highly referenced
+              at the time they are allocated. It also  investigates object splitting, in
+              which the representation  of objects is split into multiple parts, and the more
+               frequently referenced parts are co-located. There are three  primary
+              contributions arising from this research.  First,  it investigates the
+              empirical properties of programs in  languages that use manual (e.g., C++) and
+              automatic (e.g.,  Java) storage reclamation. It shows that C programs exhibit 
+              exploitable behavior, and it expands these results to other  languages. 
+              Second, this project develops, evaluates and  compares alternative algorithms
+              for identifying and  exploiting predictable reference behavior.  Finally, it 
+              shows  that prototype implementations of the algorithms  being investigated can
+              significantly increase performance in  substantial programs.

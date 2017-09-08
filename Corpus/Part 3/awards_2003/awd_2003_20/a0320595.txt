@@ -1,0 +1,138 @@
+Title       : SGER: Discrete Event Simulation of Self-Assembly Kinetics
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : March 10,  2003     
+File        : a0320595
+
+Award Number: 0320595
+Award Instr.: Standard Grant                               
+Prgm Manager: Mitra Basu                              
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  2003      
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $99649              (Estimated)
+Investigator: Russell Schwartz russells@andrew.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1705      BIOLOGY & INFORMATION TECHNOLO
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,9237,HPCC,
+Abstract    :
+              EIA-0320595
+Russell Schwartz
+Carnegie Mellon University
+
+Project Summary:
+              Discrete Event Simulation of Self-Assembly Kinetics 
+ 
+The goal of this
+              project is to develop a novel computational tool for simulating generalized
+              self-
+assembly systems. Self-assembly systems consist of many small
+              components, or subunits, that 
+spontaneously arrange themselves into larger
+              structures under appropriate conditions.  Among the 
+many medically important
+              self-assembly systems are viral protein shells, or capsids, which form
+              
+protective coats around the genetic material of viruses; amyloids, fibrous
+              agglomerations of 
+proteins that are implicated in Alzheimer.s disease,
+              Huntington.s disease, and the prion diseases; 
+and irregular protein
+              aggregates.  For all of these systems, the process of assembly is only
+              
+partially understood.  In addition, self-assembly has attracted recent
+              interest as a means of 
+constructing man-made devices and materials on the
+              nanometer scale.  Due to the small size, 
+speed, and complexity of many
+              self-assembly processes, they have proven difficulty to analyze
+              
+experimentally.  Simulation approaches have therefore emerged as a crucial
+              avenue for gaining 
+insight into the self-assembly process.  This project
+              seeks to build on the prior work in the area by 
+creating a model of the
+              self-assembly process sufficiently versatile to capture a wide variety of
+              
+self-assembly systems, yet fast enough to handle realistic simulation sizes
+              in a reasonable time. 
+ 
+The basic methodology will involve combining
+              techniques developed in prior modeling work on 
+this problem with a
+              computational method that has not previously been used for self-assembly
+              
+simulation.  The simulator will use a model of self-assembly dynamics based
+              largely on the prior 
+.local rules dynamics. model, which provided a versatile
+              representation of high-level self-
+assembly behavior in terms of low-level
+              subunit interactions.  It will be efficiently implemented 
+using a
+              computational data structure called a .discrete event priority queue,. which
+              will allow the 
+simulator to step between changes in discrete state (such as
+              subunits binding to one another) 
+without the need for explicit integration
+              over all time steps.  The result will be faster simulation of 
+a highly
+              general self-assembly model than was possible with prior methods.  The
+              simulator will 
+be implemented in Java to facilitate ease of development,
+              extensibility, and portability.  
+Implementation will be conducted through
+              distinct phases devoted to developing an object model 
+(which specifies how
+              pieces of computer code interact with one another), coding and testing a
+              
+prototype simulator, and finalizing an optimized and well documented
+              release-quality version.  
+The end result will be both a stand-alone
+              simulation tool and a set of computational classes 
+available for extension
+              and use in other programs.  This work will require innovation primarily in
+              
+mathematical models of self-assembly processes and in algorithms for their
+              efficient simulation 
+by a discrete event queue methodology.  Further
+              innovation will be needed in the integration of 
+existing knowledge from such
+              areas as biophysics, algorithms, software engineering, and user 
+interface
+              design to produce a versatile, easy-to-use graphical simulation tool. 
+ 
+The
+              project can be expected to yield several benefits.  Its impact will be
+              primarily on the field of 
+self-assembly, by providing a general tool that can
+              be used by researchers throughout the field for 
+modeling known systems across
+              size and time scales, developing computational prototypes of 
+novel systems,
+              and experimenting with interventions in both.  It will also provide new methods
+              
+and experience to the general field of biophysical simulation through the
+              development of a novel 
+simulation methodology, its implementation in a
+              computational simulator, and optimization of 
+algorithms for this problem. 
+              The cross-disciplinary nature of the project will enhance its impact 
+by
+              providing for the computational community new variations on problems to be
+              found in 
+biophysical systems and providing for the biophysics community new
+              computational techniques 
+that can be brought to bear on other problems.  The
+              work will also have educational value by 
+providing interdisciplinary research
+              experience to students, including two undergraduates, and by 
+providing a
+              simulator that can be used as both a research and a teaching tool. 

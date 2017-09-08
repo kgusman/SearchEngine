@@ -1,0 +1,66 @@
+Title       : CISE Postdoctoral Research Associates in Experimental Computer Science:
+               Experimental Evaluation of Active Caches For Fine Grain Multi-Threading Systems
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : August 26,  1999    
+File        : a9901553
+
+Award Number: 9901553
+Award Instr.: Standard Grant                               
+Prgm Manager: Kenneth C. Whang                        
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $60672              (Estimated)
+Investigator: Guang R. Gao ggao@eecis.udel.edu  (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9192,9218,HPCC,
+Abstract    :
+              9901553
+Gao, Guang R.
+University of Delaware
+
+CISE Postdoctoral Associates
+              in Experimental Computer Science: Experimental
+Evaluation of Active Caches for
+              Fine Grain Multi-Threading Systems
+
+This research will investigate the effect
+              of active cache memories on computer system performance.  An active cache is
+              capable of controlling complex data transformations and data movements under
+              the direction of a programmer or compiler.  This study, performed through
+              system simulation, requires designing active caches, proposing performance
+              models for the caches, and developing compiler mechanisms to support the
+              percolation model of execution.
+
+A percolation model of execution has been
+              proposed in which the application requests that some data transformations be
+              performed and that the transformed data be transferred to a higher level in the
+              memory hierarchy.  A thread becomes ready for execution when the data that it
+              needs has percolated.  The active caching mechanism is necessary in systems in
+              which the latency to fetch a piece of data in a lower level of the memory
+              hierarchy is much higher than the time required to process the data.
+
+The
+              effectiveness of caches that actively percolate data closer to the processing
+              unit before the execution of a piece of code starts is being proposed.  This
+              model is different from traditional pre-fetching because it
+is not based in
+              any prediction mechanism: the instructions requesting the percolation of a data
+              block are inserted into the code either under the programmer direction or
+              through compiler technology.  It is expecedt that the experimental study that
+              demonstrates the viability of this idea will spur further research in the area
+              of active hardware system components.
+
+
+
+

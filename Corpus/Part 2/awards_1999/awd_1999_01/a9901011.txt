@@ -1,0 +1,42 @@
+Title       : Typed Common Intermediate Format
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 5,  2001      
+File        : a9901011
+
+Award Number: 9901011
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $320000             (Estimated)
+Investigator: Zhong Shao shao@cs.yale.edu  (Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9901011   Zhang Shao
+The main objective of this research is to design and
+              develop a typed common intermediate format (named FLINT) for multiple advanced
+              programming languages.  FLINT is based on an extended variant of the
+              polymorphic lambda calculus Fomega.  Although advanced languages can be very
+              different in semantics, they all have a mathematically rigorous type system.
+              FLINT provides a common compiler backend that can be quickly adapted to  
+              generate compilers for new languages.  With its unified type system, FLINT
+              serves as a great platform for reasoning about cross-language interoperations.
+              Previous work on FLINT was done in the context of ML. This proposed research
+              will extend FLINT to support other language features such as classes and
+              objects in Java, type dynamic in Scheme, lazy evaluation and type classes in
+              Haskell, and various system-programming primitives in C and Modula-3.  The goal
+              is to achieve safe, principled, and fine-grain language interoperation between
+              different advanced languages and with C and assembly code. 
+

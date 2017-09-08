@@ -1,0 +1,104 @@
+Title       : ITR/AP(MPS): Non-Equilibrium Surface Growth and the Scalability of Parallel
+               Discrete-Event Simulations for Large Asynchronous Systems
+Type        : Award
+NSF Org     : DMR 
+Latest
+Amendment
+Date        : August 27,  2001    
+File        : a0113049
+
+Award Number: 0113049
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Bruce Taggart                        
+	      DMR  DIVISION OF MATERIALS RESEARCH          
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Gyorgy Korniss korniss@rpi.edu  (Principal Investigator current)
+              Mark A. Novotny  (Co-Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0106000   Materials Research                      
+Program Ref : 9161,9216,HPCC,
+Abstract    :
+              This award is the result of a proposal submitted to the Information Technology
+              Research initiative.  Modeling and simulation of the evolution of natural and
+              artificial complex systems are of fundamental importance in both sciences and
+              engineering.  In a large class of systems, the underlying dynamic is
+              asynchronous, the "updates" in the local "configurations" of the system are
+              discrete events in continuous time.  Examples of such systems include
+              magnetization dynamics in condensed matter, the evolution of financial markets,
+              call arrivals in cellular communication networks, and the spread of emerging
+              diseases and epidemics.
+
+To design and develop faithful and scalable parallel
+              algorithms to simulate the evolution of large asynchronous systems is one of
+              the most challenging areas in parallel computing.  The ultimate goal of this
+              proposal is to better understand how the scalability of Parallel Discrete-Event
+              Simulation (PDES) algorithms can be enhanced, to program and run PDES
+              simulations for a few chosen applications in science and engineering, and to
+              educate junior researchers to allow them to prepare for careers at the
+              interface between basic sciences and information technology.  These types of
+              PDES can be applied to an extremely wide spectrum of computational problems in
+              science, engineering, manufacturing, biology, and economics.
+
+PDES use the
+              concept of local random simulated time as well as a synchronization scheme. 
+              The parallel algorithm must concurrently advance the local simulated times of
+              each subsystem carried by a processing element (PE), without violating
+              causality.  In a "conservative" PDES scheme, only those PE's which are
+              guaranteed not to violate causality attempt the updates and increment their
+              local time.  The rest of the PE's must idle.  In the "optimistic" approach the
+              PE's do not have to idle, but since causality is not guaranteed at every
+              update, the simulated history on certain PE's can become corrupted.  This
+              requires a complex "rollback" protocol to correct erroneous computation.  Both
+              simulation approaches lead to an evolving and fluctuating time horizon during
+              algorithm execution.
+
+The research will exploit a novel connection recently
+              discovered by the PI's and collaborators between non-equilibrium surface growth
+              phenomena and the evolution of the fluctuating time horizon of conservative
+              schemes.  As the number of computer nodes available to a computational science
+              and engineering problem increases to many thousands, questions of scalability
+              of the underlying algorithms must be answered.  These questions include both
+              how well the algorithms scale asymptotically (in the limit of an infinite
+              number of processors) and how they approach the asymptotic limit.  Recently the
+              PI's studied the case where each PE is connected to its nearest-neighbor PE's
+              on regular lattice topologies, and each PE has no additional computation to
+              perform if it is not advancing time.  This is close to a "worst-case" scenario
+              for scalability of the algorithm.  Nevertheless, it was shown that the fraction
+              of non-idling PE's is finite and bounded away from zero in the asymptotic limit
+              of infinitely many PE's.  Hence the algorithm is scalable as the problem size
+              and number of PE's increase.
+
+The methodology of the PI's and collaborators
+              used to obtain these results for PDES is the powerful machinery of
+              non-equilibrium interface/surface physics, notably finite-size scaling and
+              universality, applied to the fluctuating time horizon.  This research aims to
+              extend this type of investigation.  In particular, the methods of finite-size
+              scaling, universality, renormalization group, coarse-graining, and mean-field
+              approaches that are commonly applied to physical surfaces will be applied to
+              both simple model time surfaces and realistic time surfaces that arise during
+              PDES simulations in science and engineering.  Based on the "morphological"
+              properties of the time horizon, the PI's will design and develop algorithms
+              that optimize simulation speed and data management at the same time.  
+
+The
+              research is interdisciplinary at the border between computer science,
+              non-equilibrium surface physics, and the study of complex systems.  It will
+              contribute to the engineering and fine-tuning of scalable massively parallel
+              algorithms, while actual implementations will help to understand cooperative
+              behavior in large asynchronous systems.  This grant also puts special emphasis
+              on the education and training of young scientists.
+%%%
+***
+
+
+ 
+
+

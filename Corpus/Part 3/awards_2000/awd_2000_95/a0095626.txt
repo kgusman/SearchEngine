@@ -1,0 +1,109 @@
+Title       : Collaborative Research: A Control Theoretic Approach to the Design of Internet
+               Traffic Managers
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 21,  2001    
+File        : a0095626
+
+Award Number: 0095626
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $337000             (Estimated)
+Investigator: Marwan M. Krunz krunz@ece.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The scalability of the Internet hinges on our ability to tame the
+              unpredictability associated with its open architecture.  This project
+              investigates the development of basic control strategies for reducing traffic
+              burstiness and improving network utilization.  Such strategies can be applied
+              through Traffic Managers (TMs)-special network elements strategically placed in
+              the Internet (e.g., in front of clients/servers or at exchange/peering points
+              between administrative domains).  We believe that the incorporation of such
+              control functionalities will be key to the ability of the network
+              infrastructure to sustain its own growth and to nurture the Quality-of-Service
+              (QoS) needs of emerging applications.
+
+Although there have been some recent
+              advances in building network elements capable of wire-speed processing, there
+              is a need for fundamental research into the basic QoS control capabilities that
+              these TMs should implement.  This set of capabilities have to be identified and
+              implemented in a programmable, scalable architecture that allows for the easy
+              and effective composition of services.   Such a flexible architecture is highly
+              desirable as the Internet continues to evolve and users demand new kinds of
+              service for their applications.  
+
+TMs should be capable of quickly
+              inspecting and classifying packets as they go by (e.g., marking packets into
+              precedence classes), and should control the transmission of these packets
+              (e.g., through pacing, scheduling, or selective dropping) to ensure desirable
+              properties (e.g., satisfaction of jitter requirements, compliance with TCP
+              friendliness, or improved fairness across flows).
+
+In this proposal, we will
+              address the design of dynamic dos control programmable TMs.  We focus on basic
+              capabilities that could be employed at different levels of the control
+              architecture. These capabilities include differentiated, aggregate and proxy
+              controls.  The following are examples of how such control strategies would be
+              employed by TMs.
+
+Differentiated Control enables TMs to route flow aggregates
+              with divergent characteristics on separate communication paths.  Unlike
+              traditional routing, our routing metrics will respect bursitis measures, such
+              as self-similarity and traffic correlation:
+
+Aggregate Control enables TMs to
+              use congestion control mechanisms for collections of flows that share the same
+              bottleneck.  Unlike traditional congestion control, "Congestion-equivalent"
+              flows are identified based on measures of relationship (such as
+              cross-correlation and cross-covariance) and managed as a set; 
+
+Proxy Control
+              enables TMs to filter out variability (e.g., loss, delay jitter) at shorter
+              time-scales.  Such a functionality is crucial for improving the stability and
+              effectiveness of control mechanisms that operate over longer time-scales (e.g.,
+              end-to-end).  Unlike traditional a-hoc proxy approaches, our approach will take
+              into account the length and characteristics of the control loops that get
+              formed between the TM and the end-systems.
+
+Our design will be based on
+              mathematical foundations from control theory and wavelet analysis.  These
+              methods enable thorough analysis and control of system dynamics at different
+              time-scales and an understanding of the complex interactions among them. 
+              Specifically, functionality's at different levels of a TM architecture will be
+              developed based integrated control-theoretic models.  These models will account
+              for "nested" control loops that are driven by system characteristics, which are
+              identified using wavelet analysis of passive measurements. TMs that are
+              designed in such and integrated fashion, could increase flow throughput, reduce
+              flow jitter and response time, and improve the stability, utilization, and
+              scalability of the network.
+
+We plan to implement our dos controls in a
+              tested deployed in a controlled local setting as well as over the Internet. 
+              Our implementations will be based on emerging technologies, such as Diffserv
+              and MPLS, and will be stressed by bandwidth-and QoS-demanding applications. 
+              Our testbed will provide a programming interface to softservices, in which
+              capabilities can be turned on or off and control parameters can be dynamically
+              adjusted.  To this end, we have secured the support of industrial research
+              laboratories and start-up companies-namely Lucent's Bell Labs, Cisco Systems,
+              Nortel Networks, and Quarry Technologies.  Specifically, we intend to use
+              Lucent's Network Element for Programmable Packet Injection (NEPPI).  NEPPI
+              provides an ideal foundation upon which to implement the control policies we
+              propose to develop.  This project is a collaborative efforts between Boston
+              University (Is: Ibrahim Matta, Azer Bestavros, and Mark Crovella) with
+              expertize in characterization, measurements and control of Internet traffic,
+              and University of Arizona (PI: Marwan Krunz) with expertize in traffic
+              modeling, multimedia and wireless QoS.
+

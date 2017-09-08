@@ -1,0 +1,59 @@
+Title       : Exploring the Role of Grid-Enabled OpenMP in Adaptive Mesh Calculations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 18,  2001     
+File        : a9982160
+
+Award Number: 9982160
+Award Instr.: Continuing grant                             
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2000      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $370398             (Estimated)
+Investigator: Willy Zwaenepoel willy@rice.edu  (Principal Investigator current)
+              Alan Cox  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Advances in computer and network technologies will soon make it possible to
+              harness the collective computing power of distributed supercomputer systems as
+              a Computational Power Grid (or Grid for short). Grid computing will entail
+              coping with unusually high latencies and low bandwidths. To use such a Grid
+              effectively as a platform for scientific computing will require new algorithms
+              and programming methodologies along with compiler and run-time support to
+              simplify the program development process.
+
+The scope of this problem is so
+              broad that we believe that effective technologies can best be developed through
+              focusing on concrete application domains. This proposal will perform an
+              exploratory study to explore the development of compiler and runtime technology
+              as well as algorithmic techniques for supporting largescale, parallel,
+              structured adaptive mesh refinement (AMR) calculations in Computational Fluid
+              Dynamics (CID) on the Grid. The project will be an interdisciplinary study
+              consisting of applications scientists from NCSA and computer scientists from
+              Rice and University of Houston.
+
+This proposal, therefore, will carry out a
+              study to see whether such highly complex AMR applications can be efficiently
+              run on the Grid. The course of this work will be exploring several different
+              algorithmic strategies for supporting AMR on Grids. This will also entail
+              developing innovative compiler technology and language extensions to the OpenMP
+              standard that allow it to provide Grid-based support for such AMR applications.
+              Lastly, resources (nodes, network connections) in the Grid computational
+              environment are often contended. Therefore a Grid-enabled application has to be
+              able to speculatively adapt to changing Grid resources. The proposal will build
+              up tools that monitor the application's performance on the Grid as well as the
+              available Grid resources. Information from these tools will be made available
+              to the AMR application through standard interfaces in our OpenMP API so that
+              the AMR application can speculatively adapt to changing Grid resources.
+

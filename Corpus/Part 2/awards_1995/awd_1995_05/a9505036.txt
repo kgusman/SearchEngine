@@ -1,0 +1,130 @@
+Title       : Efficient Extensions of Well-Founded Semantics for Functions, Aggregation and
+               Collection Types
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 27,  2000      
+File        : a9505036
+
+Award Number: 9505036
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $80433              (Estimated)
+Investigator: Allen Van Gelder avg@cse.ucsc.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Cruz
+	      1156 High Street
+	      Santa Cruz, CA  950641077    408/429-0111
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+                Recent research has demonstrated that the well-founded  semantics  and its
+              equivalent, the alternating fixpoint semantics, can be  implemented efficiently
+              on deductive databases (relational  databases with  additional function free
+              logical rules, which may  introduce intertwined  negation and recursion). Logic
+              programming  is a natural candidate for a  database programming language 
+              because it shares the relational paradigm. This  project is  studying
+              extensions to traditional logical languages that are  likely to be useful for
+              database programming, including nested  relations and  aggregation.   
+              Deductive rules involving aggregation as a primitive operation  permit a
+              natural and concise expression of several well-known  optimization  problems,
+              such as shortest paths in a graph.  However, implementation of  such primitive
+              operations is  complicated by the fact they they occur inside  recursion; that 
+              is, the relation being aggregated within a deductive rule is  also  being
+              defined in part by that same rule. Greater complications  are added  if the
+              rules may contain negation. This project is  developing algorithms to 
+              implement aggregation efficiently within  recursion and negation.    Collection
+               types are a valuable adjunct to deductive  database languages, and are 
+              closely related to aggregation,  nested relations, and complex objects.  A
+              collection  type is any data type suitable for representing  a finite  set.
+              With collection types, a language can manipulate relations  (and  nested
+              relations) directly. This research is designing a language to  integrate 
+              collection types with deductive database rules, with  sufficient restrictions
+              on  the collection-typed objects to make  efficient implementation possible.  
+              For example, the language  excludes unification among partially instantiated
+              sets.  Integration of the functional programming paradigm and  the relational 
+              paradigm of logic programming is also being  studied. Data typing plays a 
+              central role. In logic programming  functional terms are normally 
+              uninterpreted, and specific data  types are not declared. The main idea is to 
+              establish contexts in  which functional terms are interpreted as user-defined 
+              functions.  The objective is to provide a high level language that can 
+              manipulate sets and relations in a convenient and understandable  way, with 
+              sufficient power to solve practical applications.                              
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                               

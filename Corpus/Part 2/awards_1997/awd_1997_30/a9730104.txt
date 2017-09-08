@@ -1,0 +1,70 @@
+Title       : Integrated Resource Management for the Integrated Services Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : November 6,  2000   
+File        : a9730104
+
+Award Number: 9730104
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $328313             (Estimated)
+Investigator: Edward W. Knightly knightly@ece.rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              ABSTRACT    NCR-9730105  Hui Zhang  Carnegie Mellon University  Rick Wilder and
+              Chuck Song  MCI  Joint with  NCR-9730104  Edward W. Knightly  Rice University 
+              Joint with   NCR-9730103  Jorg Liebeherr  Polytechnic University  Integrated
+              Resource Management for the Integrated Services Internet      The IETF has
+              defined several key components for enabling an integrated services Internet: 
+              (1) service classes, which define the service models for supporting end-to-end
+              per-flow QoS, (2) a link sharing model, which defines how different
+              organizational entities  (agencies) can share the same physical resources, and
+              (3) a resource reservation protocol, which provides the signaling mechanisms to
+              support these services.    While these capabilities are indeed revolutionary as
+              compared to the current Internet, serious impediments remain to achieving the
+              vision of a ubiquitous multi-service Internet.  In particular, efficient 
+              resource management algorithms must be available that actually deliver these
+              services to the applications. Packet scheduling algorithms must be devised that
+              can meet the service requirements of heterogeneous applications and different
+              agencies while, at the same time, exploiting statistical multiplexing;
+              admission control algorithms must be designed to allocate the minimum amount of
+              network resources without violating any of the service requirements.  At
+              present, no set of resource management algorithms is available that can provide
+              multi-service capabilities while considering the complex dynamics among
+              connections, services, and agencies.    This project will provide the first
+              truly integrated resource management infrastructure for multi-service networks.
+              Taking a new and comprehensive approach at resource management algorithms
+              within the framework of the integrated services Internet, we propose to
+              develop:    (1) A novel hierarchical link sharing service model and algorithm
+              that simultaneously supports all of the services proposed by the IETF without
+              sacrificing efficient utilization  of network resources,    (2) Traffic control
+              and scheduling algorithms that are amenable to efficient implementation in high
+              speed and scalable switching systems,    (3) Admission control algorithms for
+              an enforceable controlled-load service with statistical quality of service
+              guarantees,     (4) Robust admission control algorithms for measurement-based
+              controlled-load services, and     (5) Traffic control algorithms that provide
+              graceful quality-of-service adaptation in the presence of transient
+              fluctuations of the network load.    This project will develop the theoretical
+              underpinnings of integrated resource management algorithms for multi-service
+              networks. Moreover, in a collaboration that involves an integrated services
+              network provider (MCI Telecommunications), a network equipment vendor (Ascend),
+              and academic researchers (CMU, Rice, Polytechnic), the PIs will build a
+              complete prototype implementation of the proposed algorithms on the vBNS
+              national network infrastructure. This reference implementation will provide a
+              first-of-its-kind platform for experimental research on the integrated services
+              Internet that will yield critical input to both practitioners in the field and
+              standards bodies on the effectiveness of current and newly proposed resource
+              management algorithms.

@@ -1,0 +1,52 @@
+Title       : SBIR Phase I: A Fast Out-of-Core Volume Renderer for the Visualization of Large
+               Data Sets
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 24,  1998  
+File        : a9860960
+
+Award Number: 9860960
+Award Instr.: Standard Grant                               
+Prgm Manager: Joseph E. Hennessey                     
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1999    
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $95951              (Estimated)
+Investigator: Peter Sulatycke psulatyc@stny.rr.com  (Principal Investigator current)
+Sponsor     : 3DVis Technologies Inc
+	      717 Mirador Road
+	      Vestal, NY  13850    607/797-7579
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000912   Computer Science                        
+Program Ref : 9215,HPCC,
+Abstract    :
+              9860960
+     This Small Business Innovation Research Phase I project will
+              determine the scientific, technical, and commercial merit and feasibility of
+              developing a fast out-of core volume rendering software to visualize large
+              multi dimensional data sets.  Existing visualizers assume that the data to be
+              rendered is RAM resident - consequently paging or explicit naive data movements
+              between the RAM and the disk cause serious performance degradation.  This
+              constrains users to curtail the amount of volume data seen at a time and/or
+              view the data at a coarser resolution.  A novel combination of data structures,
+              parallelism, compression and systems level optimizations will be used to render
+              isosurfaces of large volume data sets at a very high speed. A simple proof of
+              concept implementation, using optimized disk data structures and multithreading
+              seems to corroborate the hypothesis that isosurfaces are rendered for large
+              data sets at a speed that surpasses by orders of magnitudes the performance
+              realizable from current visualizers when the data size exceeds the RAM
+              capacity.  This effort focuses on investigating further performance
+              enhancements using data compression, parallel execution capabilities of the PC
+              MMX-like instructions and additional optimizations of the data structures on
+              the disk.
+    It is anticipated that the product developed from this effort
+              will dramatically improve the speed of viewing and visual navigation of large
+              multi dimensional data sets.  Consequently, it will have a significantly
+              influence on medical imaging, drug synthesis, gene analysis and geosiesmic
+              exploration capabilities. 
+

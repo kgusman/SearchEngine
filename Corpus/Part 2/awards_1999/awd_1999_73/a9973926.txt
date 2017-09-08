@@ -1,0 +1,151 @@
+Title       : Noninvertible Dynamical Systems: A Computer-Assisted Study
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 30,  1999    
+File        : a9973926
+
+Award Number: 9973926
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $140000             (Estimated)
+Investigator: Bruce Peckham   (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9139,9229,9263,HPCC,OTHR,
+Abstract    :
+                   The investigator studies the dynamics and bifurcations of
+discrete-time
+              systems featuring nonunique reverse-time behavior.
+He and his colleague
+              investigate two-dimensional endomorphisms
+and aspects of three-dimensional
+              endomorphism dynamics, and
+develop scientific computation, stability, and
+              visualization
+tools necessary for these studies.  The basic tool for the
+              study
+of noninvertible maps is the notion of a "critical set": the
+locus of
+              points where the linearized map becomes singular.
+Understanding the forward
+              and backward iterates of the critical
+set is the key to understanding the full
+              dynamics of
+noninvertible maps.  Because trajectories backward in time
+              are
+not unique, definitions (e.g. unstable manifolds of saddle
+points) and
+              computations (e.g. stable manifolds of saddle points)
+involving backward
+              iterates must be extended from the
+(invertible) diffeomorphism case to the
+              (noninvertible)
+endomorphism case.  The interactions of these sets and the
+              system
+attractors with the critical set give rise to a class of
+important
+              dynamical phenomena distinct from those arising in
+diffeomorphisms, and the
+              dependence of such interactions on
+parameters gives rise to new bifurcations. 
+              Current computational
+tools used for simulation, computation of invariant
+              sets, and
+study of bifurcations are correspondingly extended, and new
+              tools
+are constructed to deal with multiple backward trajectories and
+their
+              consequences.  The possible geometric explosion of the
+number of distinct
+              preimages of a point (or a set) requires new
+programming approaches, and
+              scientific visualization becomes
+crucial in numerical exploration of global
+              dynamics and their
+parameter dependence.  Thr project involves work in
+              software
+development, numerical investigation, and mathematical analysis.
+The
+              interplay of all three is necessary to have any hope of
+understanding the
+              dynamics of nontrivial systems.  The
+investigator plans a systematic
+              computer-assisted study of the
+dynamic behavior of noninvertible maps, carried
+              out in a
+continuous dialogue between computation and theory, and
+              with
+illustrative and technologically relevant applications in mind.
+     The
+              investigator and his colleague continue studying the
+dynamical behavior of
+              typical systems of equations that are used
+to model a variety of physical,
+              chemical, and ecological systems.
+The goal is to study changes, or
+              "bifurcations," in the
+qualitative behavior of these systems as parameters are
+              changed.
+The class of models being studied is called "noninvertible
+discrete
+              dynamical systems." A discrete dynamical system is one
+which provides a rule
+              for predicting some quantity or quantities
+at some point in the future (say,
+              one year from now) based only
+on the value of that quantity now.  By iterating
+              the rule, we can
+predict what the quantity will be at any year in the
+              future.
+When the rule can be "inverted" to produce a rule to go backward
+in
+              time, the system is called invertible.  Otherwise it is
+noninvertible.  The
+              project includes software development,
+numerical investigation, and
+              mathematical analysis.  The behavior
+of these systems is typically so
+              complicated that there is no
+hope of understanding them without the aid of
+              computers.  On the
+other hand, computer investigation alone, without the
+              acompanying
+mathematical analysis, generally leads to a very
+              incomplete
+understanding.  Consequently, all three activities must be done
+in
+              concert with each other.  With respect to all three activites,
+there has been
+              much previous work on one-dimensional (the
+dimension is the number of
+              quantities that is being monitored)
+invertible and noninvertible systems and
+              on higher dimensional
+invertible systems, but work on two-dimensional and
+              higher
+noninvertible systems is still in relative infancy.  It is this
+area
+              on which they focus.  Advances will lead to a greater
+understanding of this
+              class of models, and therefore the
+phenomena that are modeled by them.  In the
+              process, they develop
+software tools that are of use to others for continued
+              study of
+these systems, as well as tools for scientifically
+              visualizing
+objects, whether they come from dynamical systems applications
+              or
+from any area of science, engineering or mathematics.
+

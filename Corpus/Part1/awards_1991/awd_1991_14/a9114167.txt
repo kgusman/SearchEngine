@@ -1,0 +1,51 @@
+Title       : Code Scheduling Under Varying Parallel Resource Constraints
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 8,  1992    
+File        : a9114167
+
+Award Number: 9114167
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1992   
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $49999              (Estimated)
+Investigator: Susan J. Eggers eggers@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9222,
+Abstract    :
+              One of the major unsolved problems in high-speed computing is                  
+              designing highly parallel machines that can exploit the latent                 
+              parallelism inherent in applications.  Current high-speed computers do         
+              not achieve their full potential, in part because of inefficient code          
+              scheduling that leaves hardware resources underutilized.  The goal of          
+              this research is to obtain better execution speedup on high-                   
+              performance parallel hardware by improving code schedules.                     
+                                                                                             
+              The research will develop efficient code schedulers for parallel               
+              machines with multiple instruction streams and non-blocking memory             
+              references that have long and widely varying latencies.  The                   
+              difficulty of scheduling for machines of this type is that, while code         
+              scheduling is a static activity, the availability and latency of the           
+              hardware that is being scheduled varies during execution time.  The PI         
+              has devised four different scheduling algorithms, with varying                 
+              complexity(i.e., they generate schedules with varying efficiencies)            
+              and compilation costs.  They differ in whether they schedule across            
+              instructions with data dependencies and whether and in what way they           
+              take into account variances in memory latencies and multiple                   
+              instruction streams.  The algorithm will be evaluated when combined            
+              with the Aiken/Nicolau software pipelining algorithm and assuming a            
+              highly parallel hardware configuration.  The metrics for the                   
+              performance study will be code schedule size, code schedule density,           
+              execution time and hardware utilization.

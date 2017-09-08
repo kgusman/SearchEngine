@@ -1,0 +1,65 @@
+Title       : Graphical Markov Models with Interpretable Structure
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : October 29,  2001   
+File        : a9972008
+
+Award Number: 9972008
+Award Instr.: Continuing grant                             
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : December 15,  1999  
+Expires     : November 30,  2003   (Estimated)
+Expected
+Total Amt.  : $155000             (Estimated)
+Investigator: Thomas S. Richardson tsr@stat.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1305,9149,EGCH,MANU,OTHR,
+Abstract    :
+              9972008
+
+One of the most central ideas of multivariate statistics is the
+              modeling of dependencies among a set of stochastic variables. The aim of such
+              an analysis is often to try to provide some insight into the process which
+              generated the data. Graphical Markov models (GMMs) use graphs to represent
+              multivariate statistical dependencies in a parsimonious and computationally
+              efficient manner. Directed acyclic graphs (DAGs) also provide a natural
+              formalism for representing data generation mechanisms.  In the case of
+              observational data it is often not known whether all of the relevant variables
+              have been measured, or whether unmeasured 'confounding' variables are present.
+              Since the class of DAG models is not closed under marginalization, if a subset
+              of the variables involved in a data generating DAG are observed, then the
+              resulting statistical model for the observed margin will not necessarily
+              correspond to a DAG. This project will develop graphical Markov models that can
+              represent the conditional independence relations imposed by a DAG model on an
+              observed marginal.  This involves parametrizing distributions described
+              implicitly via a set of conditional independence constraints; developing
+              techniques for estimating these models, and formulating computationally
+              tractable algorithms for performing model selection.
+
+Among their many
+              applications, GMMs have become prevalent in statistical science for the
+              analysis of categorical data in contingency tables, for the modeling of
+              spatially-dependent processes such as the spread of epidemics in human and
+              animal populations, and for the development of early warning systems for severe
+              weather conditions.  They are used in computer science (as Bayesian networks)
+              for information processing and retrieval, for robotics, computer vision, and
+              pattern recognition, for the debugging of complex programs (such as Windows
+              95), and for the representation of expert systems for medical diagnosis.  In
+              decision science (as influenced diagrams) as models for information flow and
+              control and for combining the opinions of many decision-makers.  Similar models
+              have long been used infield such as genetics, sociology, econometrics, and
+              cycle metrics.  A crucial feature of all these models is that they represent
+              complex networks of causal dependencies.  In addition, these models allow for
+              fast computational implementation.  These features have led directly to their
+              central role in the development of software that can "reason" about real world
+              problems.
+

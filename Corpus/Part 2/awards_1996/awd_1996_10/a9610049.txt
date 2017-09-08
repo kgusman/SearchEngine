@@ -1,0 +1,82 @@
+Title       : Structure in Power System Analysis and Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 2,  1999       
+File        : a9610049
+
+Award Number: 9610049
+Award Instr.: Continuing grant                             
+Prgm Manager: Gwendolyn C. Owens                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 15,  1997      
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $188497             (Estimated)
+Investigator: John Zaborszky zab@zach.wustl.edu  (Principal Investigator current)
+              Heinz M. Schaettler  (Co-Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9610049  Zaborszky    In previous work the mathematical structure of the
+              large power system as differential-algebraic system with or without the
+              presence of hard limits has been studied in the context of an overall taxonomy.
+               Along with their mathematical structure, physical systems have a wide spread
+              of physical structure ranging from unstructured to hierarchical or very strict
+              structures.  The large power system model has a very strong segmental (network)
+              structure.  The dynamic equations typically separate into segments (which are
+              physically defined by the buses in the power system), tied together only
+              through non-dynamic relations (in the network).  This geographic structure
+              becomes of great importance in questions related to control.  In this project,
+              along with completing certain aspects of the mathematical theory, the taxonomy
+              theory will be studied for segmental systems in the context of control
+              problems, specially in the control of power systems.    In view of the power
+              system's geographic structure many control problems can be addressed
+              decentralized.  For instance, the problem of stabilizing control can be
+              formulated as tracking a moving target which has a single component for each
+              segment and thus can be easily computed locally.  The systemwide stability of
+              such an observation  decoupled control will be analyzed.    The segmental
+              structure of the power system also leads to various clustering approaches built
+              on rudimentary clusters of observation decoupled single bus clusters. 
+              Clustered control schemes will be analyzed on the basis of the taxonomy theory.
+               The convergence and accuracy of various control approaches will be studied and
+              the most desirable approaches for various circumstances-such as fast, medium
+              and slow control (tasks) will be sought.    The fast control objectives are
+              mostly connected to preserving the stability of the power system.  We have
+              formulated it as a problem of tracking a moving target vector.  This objective
+              readily breaks up into interconnected segmen tal problems and identifies the
+              stable equilibrium point when the tracking is successful (note that it is not
+              practical to identify the equilibrium on the time scale of the disturbances
+              fact conveniently ignored in most of the literature).  However, the equilibrium
+              is found precisely at the end of successful tracking.  This invites the design
+              of effective approximate tracking schemes which lead in this case to precise
+              results.  It is important, however, to find such tracking schemes and establish
+              precisely their convergence.  This will be done in the project.    The medium
+              fast control for the problems of the automatic generation control (ACC) readily
+              settles into a three layer segmented scheme both for the traditional AGC
+              (equipment at individual buses, segments called Areas for individual power
+              companies connected with tie lines and nationwide setting of desired frequency
+              by NERC) and the new deregulated scheme (generating stations, national
+              transmission company and distribution companies).  Although needs are
+              different, the structural similarity implies connections in the theory.  These
+              will be analyzed and the most desirable schemes sought.  Clustering of the
+              large system will be the basis of this work involving thorough and precise
+              analysis and technique development.  New taxonomy concepts such as
+              observability region and controllability region within the state-parameter
+              space will be defined and analyzed at the thoroughness and precision
+              corresponding to our earlier Taxonomy work.    The ongoing development of the
+              power system away from local power companies and regulation connected AGC
+              control to layers of generation, transmission and distribution companies based
+              on a real time commodity trading nationally makes this proposed study quite
+              important and potentially very useful.  At present the final shape of the
+              reorganized system which will eventually dictate the structure of its control
+              needs is not yet emerging.  Hence the flexibility of the taxonomy approach
+              which can accommodate a grea t variety of needs and structure will make it an
+              ideal vehicle for searching for the most desirable structures and objectives.

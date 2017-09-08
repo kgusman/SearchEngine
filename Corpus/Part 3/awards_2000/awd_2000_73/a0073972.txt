@@ -1,0 +1,73 @@
+Title       : Mobility-Based Clustering for Scalable and Responsive Routing in Ad-Hoc Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 22,  2001       
+File        : a0073972
+
+Award Number: 0073972
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $229425             (Estimated)
+Investigator: Rami Melhem melhem@cs.pitt.edu  (Principal Investigator current)
+              Taieb Znati  (Principal Investigator former)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   In this study, the researchers propose to develop a mobility-based
+              framework for adaptive clustering and routing in wireless ad-hoc networks-an
+              emerging class of network architecture that is characterized by its highly
+              dynamic topology and its limited resources.  Within this framework, the
+              researchers will address several key, as yet unanswered questions, which have
+              been raised with respect to the routing problem in ad-hoc networks. 
+              Specifically, it has been argued that to achieve acceptable routing
+              performance, multiple routing strategies may need to act cooperatively in the
+              same network.  However, this raises the question as to what those strategies
+              should be, and how to effectively toggle between them.  Furthermore, it has
+              been proposed that mobility information can be used to select longer-lived
+              routes, and to improve the efficiency of route creation and maintenance. 
+              However, no well-defined mobility based metric has been proposed that reflects
+              a quantitative measure of path stability.  In this study, the researchers
+              explore novel and significant ideas which address each of the shortcomings
+              described above, and builds them into a unified
+routing framework. 
+              Specifically, the researchers propose to develop a well-defined mobility based
+              routing metric, referred to as path availability.  This metric is used for
+              adaptive cluster characterization and routing in ad-hoc networks.
+    The
+              mobility-based cluster characterization provides the basis for an efficient
+              distributed clustering algorithm which adaptively maintains a cluster
+              organization-the size and membership in each cluster is determined dynamically
+              by the mobility characteristics of the local nodes.  Using this metric, the
+              researchers propose to investigate pro-active intra-cluster and inter-cluster
+              routing strategies:  intra-cluster routing will be based on table-driven
+              routing protocols that maintain up-to-date routing information regarding all
+              cluster destinations, whereas inter-cluster routing is managed on a
+              demand-basis by constructing routes in a dynamic hierarchical fashion as a
+              sequence of relatively stable clusters between the source and the destination. 
+              More efficient route search is enabled by the proactive maintenance of routes
+              within each cluster, and reactive route repair is only needed if the source or
+              destination depart their original clusters, or if the next cluster along a
+              route becomes unreachable.  Most of the reaction to node mobility is handled
+              locally within the clusters, hence, the far-reaching effects of topological
+              changes are minimized. By adapting the characteristics of the cluster
+              organization to localized node mobility patterns, the strategy is expected to
+              perform well over a wide range of conditions.  Furthermore, this framework can
+              be extended
+to address the need to support QoS requirements for mutlimedia
+              communications.  Very few clustering strategies have defined either an adaptive
+              clustering technique, or have factored mobility information into the clustering
+              decision process. Hence, this work represents a significant, and sustainable
+              contribution to the field.
+

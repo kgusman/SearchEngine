@@ -1,0 +1,44 @@
+Title       : Shape-Analysis for Languages with Destructive Updating
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 5,  2001  
+File        : a9619219
+
+Award Number: 9619219
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $149870             (Estimated)
+Investigator: Thomas W. Reps reps@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9619219  The goal of the project is to advance the state of the art in  static
+              analysis of programs that perform destructive updating on  heap-allocated
+              storage. The work will address problems that can  be looked at --- depending on
+              one's point of view --- as pointer-  analysis problems, alias-analysis
+              problems, sharing-analysis  problems, storage-analysis problems (also known as
+              shape-analysis  problems), or type-checking problems. The information obtained
+              is  useful for generating efficient sequential and parallel code.  It  is also
+              useful in certain kinds of software-engineering tools.  The project aims to
+              make contributions in the following areas:  (1) Develop further the theoretical
+              foundations of shape  abstractions and their use in abstract interpretation.
+              (2)  Develop a tool for creating a shape-analysis algorithm from a 
+              specification of a shape abstraction. (3) Extend the range of  applications for
+              shape-analysis techniques, for example, by (i)  generalizing them so that
+              questions can be answered of the form  "Can accesses through the structure that
+              x points to at program  point p ever reach any of the elements of the structure
+              that y  points to at program point q?", and (ii) combining shape-analysis  with
+              array-subscript analysis. (4) Create, experiment with, and  evaluate
+              shape-analysis implementations.  ***

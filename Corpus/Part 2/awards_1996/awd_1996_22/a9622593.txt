@@ -1,0 +1,52 @@
+Title       : Research in Multithreaded Dataflow and Hybrid Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 13,  1997       
+File        : a9622593
+
+Award Number: 9622593
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1996      
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $120496             (Estimated)
+Investigator: Krishna M. Kavi   (Principal Investigator current)
+              Behrooz A. Shirazi  (Co-Principal Investigator current)
+Sponsor     : U of Texas Arlington
+	      Office of Research
+	      Arlington, TX  760190145    817/273-2105
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              The overall objective of the research is the investigation of architectural 
+              features for cost-effective, mainstream computing based on multithreading.  In 
+              this vein, this research will focus in two directions; investigation of 
+              multithreaded dataflow paradigm, and the adaptation of the results to hybrid 
+              dataflow-von Neumann architecture.  The dataflow model is ideally suited for 
+              multithreaded architecture since it facilitates instruction level context 
+              switching and fine-grained parallelism.  A clear understanding of the issues in
+               supporting multiple threads in dataflow environment will permit us to adapt
+              them  to hybrid dataflow/control flow architectures.  Hybrid systems present
+              the most  interesting opportunities in the area of multiprocessing - they
+              directly address  problems that will be faced by future superscalar processors,
+              such as long memory  latencies, context switching overheads, multiple active
+              instruction streams, fast  and efficient support for task synchronization.   
+              Initially, this project will investigate the use of cache memories for 
+              multihreaded dataflow architecture, and compiler techniques for improving the 
+              performance of such machines.  This project will then study architectural
+              support  for multithreading including support for thread management, thread
+              scheduling,  communication and synchronization among threads.  Simultaneous
+              multithreading in  the context of dataflow and hybrid architectures will then
+              be investigated.   Finally, this project will explore the suitability of the
+              most significant  architectural features for use with convectional RISC
+              technology.

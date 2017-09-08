@@ -1,0 +1,75 @@
+Title       : Practical Persistent Data Structures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 19,  2001 
+File        : a0098288
+
+Award Number: 0098288
+Award Instr.: Interagency Agreement                        
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $26238              (Estimated)
+Investigator: Christopher Okasaki cdo@cs.columbia.edu  (Principal Investigator current)
+Sponsor     : US Military Academy
+	      
+	      West Point, NY  10996    914/938-4041
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Practical Persistent Data Structures
+
+The legal phrase "status quo ante"
+              refers to reverting to a previous
+state of affairs.  The same concept
+              frequently arises in computer
+science.  For example, most word processors
+              include an "undo" feature that
+nullifies the most recent changes and returns
+              the document to its previous
+state.  Unfortunately, most current methods of
+              organizing data do not
+support the ability to revert to previous states, or at
+              least do not do
+so efficiently.  This research involves designing and
+              evaluating practical
+techniques for supporting such an
+              ability.
+
+Technically, a data structure is called "persistent" if updating
+              the data
+structure creates a new version without destroying the old version. 
+              After
+the update the two versions co-exist, and future operations can refer
+              to
+either or both.  Persistent data structures are sometimes called
+              immutable.
+Persistent data structures have applications in computational
+              geometry,
+transaction processing, editing, functional programming, compilers,
+              and
+many other areas.  In addition, persistent data structures have
+              several
+important non-algorithmic benefits, including elimination of
+              certain
+families of bugs, increased security, and decreased need for
+              synchronization
+among multiple processors.  The objectives of this project
+              include - inventing
+new persistent data structures, with an emphasis on
+              practicality  rather than
+merely theoretical efficiency,  - extracting from
+              these new data structures new
+design and analysis techniques suitable for a
+              persistent environment, and -
+experimentally evaluating the practical
+              efficiency of competing persistent
+data structures.
+

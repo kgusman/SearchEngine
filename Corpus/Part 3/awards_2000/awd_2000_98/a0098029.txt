@@ -1,0 +1,78 @@
+Title       : Iterative Decoding Techniques and their Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 20,  2003     
+File        : a0098029
+
+Award Number: 0098029
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $485000             (Estimated)
+Investigator: Marc P. C. Fossorier marc@spectra.eng.hawaii.edu  (Principal Investigator current)
+Sponsor     : U of Hawaii
+	      2530 Dole Street
+	      Honolulu, HI  968222225    808/956-7800
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Over the past decade, iterative decoding methods have received a great deal of
+              interest due to the astonishing error performances achieved first by turbo
+              codes, and more recently by low-density parity check (LDPC) codes. However,
+              since the vast majority of these results have been either theoretically derived
+              for, or achieved by computer simulations of very long codes, several
+issues
+              remain problematic in the implementation of LDPC codes.
+
+This research
+              addresses some of these problems and can be divided into three major
+              areas:
+
+(1) Algebraic construction of LDPC codes:
+This research investigates
+              the construction of LDPC codes based on algebra and finite geometries. These
+              constructions are motivated by the possibility of describing families of codes
+              in a very specific and unambiguous way, which is impossible for codes generated
+              with the aid of a computer. Furthermore, tight bounds if not exact values of
+              important parameters such as the code minimum Hamming distance can be
+              determined. This feature remains interesting to evaluate the error performance
+              of applications requiring very small bit error rates such as storage systems.
+              In addition, the algebraic structure of the codes constructed can be exploited
+              to perform simple encoding or decoding, such as encoding of cyclic or
+              quasi-cyclic codes based on linear feedback shift registers.
+
+(2)
+              Near-optimum reduced-latency iterative decoding of short to medium length LDPC
+              codes:
+Although very impressive results have been derived and achieved with
+              long LDPC codes,
+codes of shorter lengths are more likely to be used in
+              practical applications such as wireless communication systems. For codes of
+              medium length, iterative decoding alone requires a lot of iterations and falls
+              significantly short of the optimum error performance. The investigators devise
+              new decoding methods which, combined with iterative decoding, both reduce the
+              number of
+required iterations and improve the error performance of current
+              approaches.
+
+(3) Simplification of iterative decoding methods:
+
+The best
+              iterative decoding methods for LDPC codes depend on the operating
+              signal-to-noise ratio and are subject to numerical problems inherent to the
+              evaluation of probabilities or log-likelihood ratios. The investigators study
+              new decoding methods which become universal and are
+much less sensitive to
+              numerical problems while maintaining near-optimum error performance. Such
+              properties are important for implementing these promising new decoding
+              approaches in commercial products.
+
+

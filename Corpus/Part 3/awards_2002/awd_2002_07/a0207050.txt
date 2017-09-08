@@ -1,0 +1,123 @@
+Title       : Theoretical and Numerical Investigation of Dynamical Systems Method for Solving
+               Linear and Nonlinear Ill-Posed Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 30,  2002      
+File        : a0207050
+
+Award Number: 0207050
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $72300              (Estimated)
+Investigator: Alexandra Smirnova smirn@cs.gsu.edu  (Principal Investigator current)
+              Alexander G. Ramm  (Co-Principal Investigator current)
+Sponsor     : Ga State U Res Fdn, Inc.
+	      University Plaza
+	      Atlanta, GA  30303    404/651-4350
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Smirnova
+0207050
+     The investigator and her colleague aim to
+              develop
+theoretically a novel method, the DSM-dynamical system method,
+for
+              solving a wide variety of linear and nonlinear ill-posed
+problems, to
+              implement algorithms based on this method, and to
+demonstrate the advantages
+              of this method in efficiency and
+accuracy.  The DSM method is used as a
+              general approach to the
+construction of regularizing algorithms for solving
+              ill-posed
+problems, i.e. a stopping rule is developed: a rule for
+              choosing
+that moment of time at which the value of the solution to the
+basic
+              evolution equation stably approximates the solution to the
+original ill-posed
+              equation in the case when the data are given
+with some error.  Applications of
+              different versions of the DSM
+are considered to classical ill-posed problems
+              of computational
+mathematics, such as stable differentiation of noisy data,
+              stable
+inversion of ill-conditioned matrices, and to nonlinear
+              inverse
+problems arising in geophysics, quantum physics, medicine,
+              remote
+sensing in technology, and other applied areas.  The DSM
+              with
+simultaneous updates of the inverse derivative operator without
+actual
+              inverting of this operator is developed for solving
+nonlinear ill-posed
+              problems.  The DSM is used as a general method
+for constructing convergent
+              iterative processes for solving
+ill-posed operator equations.  Namely,
+              convergent discretization
+schemes for solving the basic evolution equation of
+              the DSM
+provide convergent iterative methods for solving the
+              original
+equation.  The DSM is developed for unbounded operators, which
+              do
+not have continuous inverse operators, and also for a nonlinear
+operators
+              whose derivative is a Fredholm operator with nontrivial
+null-space.
+     The
+              area of ill-posed (unstable) problems is extremely
+difficult, because
+              solutions to ill-posed problems are very
+sensitive to small variation in input
+              data.  For that reason
+ill-posed problems cannot be solved by classical
+              methods: the
+corresponding numerical procedures for them turn out to
+              be
+divergent.  However, ill-posed problems are frequently encountered
+in many
+              branches of natural sciences and engineering:
+astrophysics, geophysics,
+              spectroscopy, plasma diagnostics,
+computerized tomography, antenna design,
+              optimal design of
+technical systems and engineering constructions,
+              optimal
+planning, optimal control over various processes, and many
+              other
+fields.  Mathematical statements of these problems are given in
+the
+              form of operator equations of the first kind, problems of
+functional
+              minimization, problems of determining values of
+unbounded operators,
+              variational inequalities, and so on.  The
+project develops computational
+              methods that provide more accurate
+solutions to a wide range of ill-posed
+              problems.  The investigator
+also uses the results in the graduate courses on
+              ill-posed and
+inverse problems she teaches at Georgia State
+              University.
+Finally, because ill-posed problems are of basic importance
+              in
+applications, the results are of wide use in engineering and
+applied
+              sciences.
+

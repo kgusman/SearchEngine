@@ -1,0 +1,56 @@
+Title       : Nonlinear Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 24,  1996      
+File        : a9625613
+
+Award Number: 9625613
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $135951             (Estimated)
+Investigator: Jorge Nocedal nocedal@ece.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              Three research projects in nonlinear optimization will be  undertaken; they
+              range from theoretical studies of constrained  optimization algorithms to the
+              development of a network-based  optimization system capable of solving problems
+              automatically  over the Internet.    The first project is devoted to the design
+              of limited memory  approaches for large-scale nonlinear programming.  Limited
+              memory  methods have proved to be quite useful for solving many classes  of
+              large unconstrained problems, but their economy and simplicity  have not been
+              fully exploited in the nonlinearly constrained  case. The basic guiding
+              principle in this work is to employ only  algorithms with modest computational
+              requirements and to  represent limited memory matrices in compact form, so that
+              the  overall cost of the iteration is only a fraction of that required  by the
+              standard Sequential Quadratic Programming iteration.  The  new algorithms will
+              allow the user to choose between direct and  iterative methods for solving the
+              linear subproblems arising in  the iteration.    The second project is devoted
+              to the design and analysis of  interior-point methods for nonlinearly
+              constrained (non-convex)  optimization problems. This is a long term research
+              effort that  first aims at identifying the crucial ingredients of the 
+              algorithms, such as the choice of model, the function, and the  numerical
+              techniques for solving the (ill-conditioned)  subproblems.  The new methods
+              will be formulated in a trust  region framework, which allows a uniform
+              treatment of the convex  and non-convex cases. The research will be guided by a
+               combination of numerical testing and convergence analysis.    An
+              Internet-based optimization system called NEOS has recently  been developed by
+              a group of investigators at Northwestern and  Argonne. One of the objectives of
+              NEOS is to allow users to solve  optimization problems remotely and with
+              minimal effort using  modern web browsers. The third project in this proposal 
+              considers extending the capabilities of  NEOS so that it can  interact with
+              modern modeling languages. A new constrained  optimization server will also be
+              developed.  ***

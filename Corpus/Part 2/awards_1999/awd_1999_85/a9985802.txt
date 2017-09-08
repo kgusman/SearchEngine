@@ -1,0 +1,78 @@
+Title       : Integrating Topology and Numerics at CAD Interfaces
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : January 14,  2000   
+File        : a9985802
+
+Award Number: 9985802
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas W. Fogwell                       
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : January 15,  2000   
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $30000              (Estimated)
+Investigator: Thomas J. Peters tpeters@engr.uconn.edu  (Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      14 Dog Lane
+	      Storrs, CT  062694133    203/486-2000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9237,9263,OTHR,
+Abstract    :
+              9985802
+
+A typical geometric model for Computer-Aided Design (CAD) is
+              represented as a finite collection of compact 2-manifolds, joinedalong
+              boundaries formed by their intersection sets.  Hence, these representations
+              critically depend upon intersection algorithms.  To minimize data volume and
+              improve algorithmic performance, the intersection sets are only approximated. 
+              The consequences of these approximation errors may be far from trivial and can
+              lead to `gaps' or `cracks' between surfaces that are understood to be
+              adjoining.  Unfortunately, the prevalent practice is that intersection
+              algorithms do not give any error bounds on these approximations.  This research
+              focuses upon the central issue of the interdependencies between topology of a
+              model and the approximations within numerical algorithms.  Any formal notion of
+              topology for computational representations of geometric sets must specifically
+              acknowledge the role of approximation and finite arithmetic.  This project will
+              develop formal definitions and computational representations for needed
+              approximation bounds.  Computational experiments will be performed to test the
+              communication of the critical approximation information across programmatic
+              interfaces.  The expected result is a formal framework for reasoning about the
+              propagation of topological tolerances within large software systems.
+
+Three
+              recent workshops (OPAAL '97 in New Orleans, CAD/CFD '99 at Davis, and MSRI '99
+              at Berkeley) have directed attention to the need for rigorous mathematical
+              foundations for computer-aided design.  Particularly troublesome are regions
+              where surfaces should meet, as computational models are limited to only
+              approximating such surface joinings.  A computational model of a coffee cup
+              will necessarily have small cracks along its base and near its handle.  If
+              fluid were to be placed in this cup in a computer simulation, the fluid would
+              leak out of the cup.  Of course, similar cracks will exist in a computational
+              model of an airplane; for example, where the wing joins the fuselage.  The
+              performance characteristics of this joint during flight are crucial to aircraft
+              safety.  Fluid dynamic simulations are performed on airplane models to verify
+              critical engineering performance characteristics.  Even small errors in the
+              geometric model can cause large errors in these engineering simulations.  These
+              simulations hold the promise of significant cost savings by permitting creation
+              of a reliable airplane directly from the electronic model.  However, to attain
+              that goal, the interface between modeling and simulation must accept the
+              inevitability of modeling `cracks' and still produce valid engineering
+              analyses.  This project will create new mathematical formulations and
+              computational representations as a necessary step for reliable engineering
+              simulations.  Recent economic studies done for NIST indicate that these
+              engineering problems cost about 1 billion dollars annually, for the automotive
+              industry alone.  Hence, there is opportunity for significant practical economic
+              impact from this new theory, as it will improve results from complex
+              engineering simulations which must be executed within high-performance
+              computing environments.  Utilization of these high performance computing
+              resources will be improved and the more reliable engineering estimates will
+              also lead to direct savings in material and manufacturing costs for major
+              industries.
+
+

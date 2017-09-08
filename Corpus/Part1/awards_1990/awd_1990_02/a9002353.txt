@@ -1,0 +1,51 @@
+Title       : Design and Analysis of Cache Coherence Protocols for MIN Based Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 4,  1991  
+File        : a9002353
+
+Award Number: 9002353
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1990  
+Expires     : August 31,  1993     (Estimated)
+Expected
+Total Amt.  : $170213             (Estimated)
+Investigator: Laxmi N. Bhuyan   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              20        Mathematics                             
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 4715,
+Abstract    :
+              This project studies various configurations of shared busses in a              
+              Multistage Interconnection Network (MIN) based system in order to              
+              maintain cache coherence.  These busses can be put separately or inside        
+              the MIN switches.  It is also possible to avoid using shared busses by         
+              redesigning a MIN switch to handle broadcasting.  The design and               
+              analysis of these cache coherence protocols are the research objectives        
+              of this project.  A thorough analysis and comparison of various                
+              approaches can guide the future multiprocessor system designers in their       
+              design process.                                                                
+                                                                                             
+              Multiprocessor organizations are generally defined based on their              
+              processor memory interconnections.  MINs form a very suitable                  
+              interconnection medium for building large scale multiprocessor systems.        
+              The efficiency of these systems can be further enhanced by putting cache       
+              memories with the processors to reduce the memory access demands.              
+              However, such cache memories give rise to inconsistency of shared data         
+              due to lack of coordination among the processors while changing their          
+              shared cache contents.  A hardware solution to this problem is to              
+              broadcast the state changes through a shared bus interconnection.  Since       
+              MINs do not have a shared bus, maintaining cache coherence in MIN based        
+              multiprocessors poses a serious challenge for research.

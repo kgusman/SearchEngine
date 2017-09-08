@@ -1,0 +1,70 @@
+Title       : Mathematical Sciences: Computation of Stability Information and Global Error
+               Estimation with Applications
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 6,  1995       
+File        : a9505049
+
+Award Number: 9505049
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1995     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Erik S. Van Vleck   (Principal Investigator current)
+Sponsor     : Colorado School of Mines
+	      1500 Illinois
+	      Golden, CO  804011887    303/273-3200
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Van Vleck       The investigator analyzes the behavior and stability  properties
+              of differential equations under discretization.  In  particular, methods are
+              developed for the efficient computation  of  stability information and global
+              error estimation for large  systems of ordinary differential equations.  The
+              research is  focused in two areas.  The first area is to determine methods for 
+              accurately computing Lyapunov exponents and related quantities.  This includes
+              analysis of methods and their errors and the  development of robust software to
+              determine not only the Lyapunov  exponents but also an estimate of the error in
+              their computation.  The second area is in the study of backward and shadowing
+              error  analysis as a means for characterizing global error when solving 
+              nonlinear differential equations numerically.  The investigator  applies these
+              concepts to discrete in space, continuous in time  difderential equations that
+              arise in the biological and physical  sciences.  The ultimate goal of this
+              project is to analyze,  develop  and implement algorithms for the long-time,
+              large-scale  computation of approximate trajectories for systems of lattice 
+              differential equations.  While computing trajectories the codes  simultaneously
+              obtain global error estimates and finite time  Lyapunov exponents or kinematic
+              eigenvalues and the associated  growth/decay directions.  This research is
+              expected to yield  contributions in the areas of dynamical systems, numerical 
+              analysis and applied modeling.       The goal of this project is to provide
+              improved accuracy in  simulations of models corresponding to large scale
+              physical and  biological processes.  With more accurate simulations these 
+              models  may be studied in greater detail and this should lead to  improvements
+              in the models.  Because of the large scale nature of  the models the
+              investigator employs distributed and parallel  computing environments.  The
+              techniques to be used to increase  the  accuracy of the simulations rely on
+              mathematical techniques  in  dynamical systems and numerical analysis.  In
+              particular, the  investigator develops techniques that attempt to isolate the 
+              potential for error.  He is particularly interested in  determining  the
+              directions in which approximate solutions, obtained during  simulations, expand
+              and contract.  Additionally, he wishes to  determine the rate at which this
+              contraction and expansion takes  place.  This allows to determine which
+              directions in the  approximate solution are susceptible to error growth (i.e.
+              the  directions corresponding to expansion) and which directions are  less
+              susceptible to error growth (i.e. the contracting  directions).  Ultimately,
+              the contraction and expansion  information  is to be incorporated into the
+              simulation software.  This  information is used to control the error in the
+              simulation and  estimate the final error in the approximate solution.  The 
+              methods  are aimed at showing that near the approximate solution there  exists
+              an exact physical solution.  This may be an exact solution  of a slightly
+              different model or an exact solution for the model  being studied but starting
+              from a slightly different sample.

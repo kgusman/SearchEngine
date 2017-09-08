@@ -1,0 +1,50 @@
+Title       : Scalable Parallel Symbolic Computation for Irregular Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 7,  2003      
+File        : a0204113
+
+Award Number: 0204113
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2002      
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $247669             (Estimated)
+Investigator: Gene Cooperman gene@ccs.neu.edu  (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,9218,HPCC,
+Abstract    :
+              ABSTRACT
+0204113
+Gene Cooperman
+Notrheastern U
+
+The proposed research is
+              part of an ongoing project to provide the software infrastructure for large
+              symbolic computations. It is proposed to employ the rich set of computational
+              group theory algorithms, with which the P.I. is intimately familiar, as a
+              testbed for analyzing the barriers to wider use of parallelism. In addition
+to
+              the algorithmic difficulties of irregular computations that characterize much
+              of symbolic computation, there are barriers based on limitations of RAM in
+              today's hardware. These hardware barriers are
+demonstrably real. A random
+              access to RAM can cost more than 1,000 CPU cycles on the most recent
+              architectures. This affects symbolic algebra computations to a much greater
+              extent than traditional
+numerical or commercial applications, which emphasize
+              sequential access to RAM. Even some non-parallel applications in symbolic
+              algebra are shown to be primarily memory-bound (bound by slowness of
+              RAM),
+rather than CPU-bound, on current architectures. This requires a
+              revised, non-uniform complexity model of RAM. 

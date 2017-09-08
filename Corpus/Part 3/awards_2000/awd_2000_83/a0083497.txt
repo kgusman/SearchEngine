@@ -1,0 +1,62 @@
+Title       : A Decoupled I/O Architecture for Data-Intensive Cluster Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 13,  2001    
+File        : a0083497
+
+Award Number: 0083497
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2001    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $128001             (Estimated)
+Investigator: Tzi-Cker Chiueh chiueh@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Cluster computing exploits the exponential growth in processing power,
+              memory/disk capacity, and network link speed of commodity hardware developed in
+              the PC industry to achieve excellent price-performance, and is becoming a major
+              platform for scientific computation, Web page and file servicing, as well as
+              large-scale information analysis applications such as data mining and knowledge
+              discovery. A distinct characteristic
+shared by many emerging workloads on PC
+              clusters is the requirement for intensive disk data accesses during program
+              computation. The fundamental technique to address the performance problems
+              associated with disk I/O is to overlap disk access with program computation so
+              that the I/O delays are completely masked. Disk prefetching is one incarnation
+              of this technique. In this project, we propose an automatic
+              application-
+specific file prefetching scheme that exploits specific
+              applications' access patterns to the fullest extent and achieves close to
+              perfect prefetching. The key idea is to apply the concept of decoupled
+              architecture, which was originally proposed to bridge the gap between CPU and
+              memory, to overlap computation with disk I/O. Given an application program, the
+              compiler automatically translates it into two threads, one corresponding
+to
+              the original program (computation thread) and the other including all
+              statements in the original program that are related to disk I/O (prefetch
+              thread). At run time, the prefetch thread is scheduled to be suficiently ahead
+              of the computation thread so that all the file access requests of the
+              computation thread are satisfied in the file system cache, which is populated
+              by the prefetch thread anticipatively. To validate the decoupled I/O
+              architecture, we will design, implement, and evaluate an active parallel disk
+              I/O subsystem called Platypus that embodies the application-specific file
+              prefetching scheme and that is designed to be a modular building block for
+              scalable PC cluster systems that aim at data-intensive computing. Platypus
+              consists of a source-to-source translator to generate computation and prefetch
+              threads from a SPMD parallel program
+automatically, a run-time thread
+              scheduler that coordinates the execution of prefetch threads on the I/O nodes,
+              and a cache manager that maximizes main memory utilization efficiency by
+              optimally balancing the benefits of file caching and prefetching.

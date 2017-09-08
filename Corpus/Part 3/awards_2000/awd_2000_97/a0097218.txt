@@ -1,0 +1,66 @@
+Title       : Feature Construction for Large Discrete Domains
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 26,  2002      
+File        : a0097218
+
+Award Number: 0097218
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $353106             (Estimated)
+Investigator: Paul E. Utgoff utgoff@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              
+IIS-0097218
+Paul E. Utgoff
+University of Massachusetts at Amherst
+$119,407
+              - 12 mos
+
+
+
+Feature Construction for Large Discrete Domains
+
+
+
+
+This
+              is the first year funding of a three year continuing award. This project
+              focuses on the problem of learning the representations on which more widely
+              studied data fitting programs depend.  Thus, instead of providing a
+              representation and watching the fitting algorithm run its course, the goal is
+              to attack the more fundamental problem of learning the representation itself. 
+              The objective is to produce an agent that can identify all of the useful
+              features of a large discrete domain.   Artificial neural networks of the
+              typical one or two layers of hidden units cannot scale to large problems of the
+              kind that the PI wants to solve (learning in large discrete domains), because
+              this kind of `few-layered learning' suffers not only from local minima and
+              shallow gradients, but more fundamentally from inappropriate bases and the
+              inherent need for exponentially many features (hidden units) imposed by the
+              constraint of so few layers of features.  The PI will pursue scalable methods
+              that he characterizes as `many-layered learning', which will move the
+              state-of-the-art past the current nonscalable practices of feature
+              construction, which in turn will affect much of the work in function
+              approximation, including the current nonscalable use of few-layered artificial
+              neural networks.  The project will produce a variety of algorithms for
+              many-layered learning. Among them will be one for building a nested feature
+              representation based on problem-solving experience.  A second will demonstrate
+              that knowledge layering and decomposition follow naturally from using only
+              simple learning mechanisms to learn the next most easily learned features based
+              on the representation learned thus far.   The larger implications for
+              many-layered learning on intelligence will be investigated.
+

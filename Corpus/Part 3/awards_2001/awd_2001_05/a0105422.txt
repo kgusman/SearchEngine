@@ -1,0 +1,62 @@
+Title       : Improving Symbolic Analysis of Restructuring Compilers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 26,  2001      
+File        : a0105422
+
+Award Number: 0105422
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $260000             (Estimated)
+Investigator: Robert A. van Engelen engelen@cs.fsu.edu  (Principal Investigator current)
+              Kyle A. Gallivan  (Co-Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323064166    850/644-5260
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              The proposed research investigates new methods for symbolic analysis to
+improve
+              various restructuring compiler optimizations.  A new algebra on
+functions is
+              investigated to manipulate, simplify, and derive normal forms of
+scalar
+              functions and (generalized) induction variables in multi-dimensional
+loops. 
+              The derivation of normal forms for intermediate program constructs
+enables
+              reasoning about the semantics of a program under analysis.  This is
+extremely
+              useful to improve various compiler optimizations to effectively deal
+with
+              symbolic expressions in real-world applications.  More specifically,
+              the
+proposed research aims to improve symbolic analysis methods such
+              as
+generalized induction variable recognition, linear and non-linear
+              data
+dependence analysis, value range analysis, global value propagation,
+              and
+counting the number of solutions to systems of constraints.  The
+              effectiveness
+of parallelizing compilers depends heavily on the accuracy of
+              these methods.
+The research will result in the ability of compilers to more
+              effectively
+handle symbolic expressions and constraints.  Current methods are
+              not always
+effective, resulting in considerable performance losses caused by
+              worst-case
+assumptions or when program analysis has to be performed at
+              execution time.
+

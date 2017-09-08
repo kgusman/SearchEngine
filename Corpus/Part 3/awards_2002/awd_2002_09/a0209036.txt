@@ -1,0 +1,76 @@
+Title       : High-Level Optimization for DSP Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 19,  2002      
+File        : a0209036
+
+Award Number: 0209036
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $249964             (Estimated)
+Investigator: Steven M. Carr carr@mtu.edu  (Principal Investigator current)
+Sponsor     : Mich Technological Univ
+	      1400 Townsend Drive
+	      Houghton, MI  499311295    906/487-1885
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : ,9215,HPCC,
+Abstract    :
+              Embedded systems require maximum performance from a processor
+              within
+significant constraints in power consumption and chip cost. 
+              Using
+software pipelining, high-performance digital signal processors
+              can
+often exploit considerable instruction-level parallelism (ILP), and
+thus
+              significantly improve performance. However, software pipelining
+sometimes
+              fails to utilize the processor efficiently and may hinder
+the goals of low
+              power consumption and chip cost.
+
+The problems with software pipelining can
+              be ameliorated by using
+advanced compiler loop transformation techniques. 
+              However, current
+methods for applying loop transformations are lacking.
+              Metrics for
+applying loop transformations do not model high-performance
+              digital
+signal processing (DSP) architectures and the effects of
+              software
+pipelining effectively. 
+
+This research will address the above
+              problems by developing
+and experimentally validating the following:
+
+1) A
+              performance metric that accurately models software-pipelined
+loop performance
+              on high-performance DSP architectures. 
+
+2) A prediction of the register
+              pressure of a software-pipelined
+loop before high-level loop transformations
+              are applied.
+
+As a result of this research, more ILP will be exploited in
+              DSP
+applications, resulting in an increase in performance and a savings
+              in
+the overall energy required to execute an application. Improvements
+              in
+performance and energy usage will allow better and more
+computationally
+              expensive algorithms to be used in embedded systems.
+

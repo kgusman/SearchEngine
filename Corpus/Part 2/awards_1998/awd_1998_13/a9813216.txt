@@ -1,0 +1,66 @@
+Title       : Optimal Design of Steel Frames Using Advanced Analysis and Genetic Algorithms
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : August 11,  2000    
+File        : a9813216
+
+Award Number: 9813216
+Award Instr.: Continuing grant                             
+Prgm Manager: John Scalzi                             
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $76242              (Estimated)
+Investigator: Christopher M. Foley chris.foley@marquette.edu  (Principal Investigator current)
+Sponsor     : Marquette University
+	      P.O. Box 1881
+	      Milwaukee, WI  532011881    414/224-7200
+
+NSF Program : 1637      STRUCT SYS & HAZ MIT OF STRUCT
+Fld Applictn: 0109000   Structural Technology                   
+Program Ref : 1039,CVIS,
+Abstract    :
+              ***
+9813216
+Foley
+Much of the past research in optimization of structures has
+              dealt with trusses, but recently partially and fully restrained steel frames
+              have been optimized using classical as well as genetic algorithm
+              procedures.
+However, optimal structure design procedures have been limited to
+              those involving ASD and/or LRFD design specifications.  Advanced analysis is a
+              means with which proportioning of a steel frame is undertaken with a design
+              analysis that includes all aspects of frame and member behavior.  Such an
+              analysis allows the LRFD design equations to be omitted.  Therefore, optimal
+              design utilizing advanced analysis offers substantial improvement for least
+              cost designs, since the design analysis allows for full redistribution of
+              forces within the frame and avoids excessive overstrength that can occur with
+              member by member design procedures.
+
+This research seeks to develop and test
+              methods of implementing genetic algorithms in the optimal design of steel
+              frames.  Fully and partially restrained and flexible connections will be
+              considered.  An unconstrained optimization problem that includes provisions for
+              advanced analysis in the constraint equations will be formulated.  The
+              computationally intensive distributed inelasticity procedure for computing
+              nonlinear inelastic load-deformation response will be implemented using
+              parallel processing and vectorization.  A novel approach to limiting the search
+              space using a genetic tree representation for structural steel frameworks will
+              be used. This representation gives a more intuitive feel to problems and also
+              suggests macro crossover operations that would be difficult to discover using
+              traditional binary string representations. A method of intelligent mating using
+              fitness proportionate sampling and normalized genetic differences with respect
+              to cost and penalty functions will be implemented and evaluated.  A cross-over
+              frequency parameter is to be defined whereupon the amount of genetic material
+              swapped during cross-over operations can be regulated.  Parallel processing and
+              vectorization will be implemented and evaluated in the optimization
+              procedure.
+***
+
+
+
+

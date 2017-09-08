@@ -1,0 +1,58 @@
+Title       : CAREER: Compilation Techniques for Customizing Software Libraries
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 21,  2003   
+File        : a9984660
+
+Award Number: 9984660
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2000      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $314840             (Estimated)
+Investigator: Calvin Lin lin@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              This project presents a vision for satisfying the world's demand for software:
+              increase programmer productivity by building programs out of large software
+              components that can provide powerful abstractions, that can be seamlessly
+              integrated with other components, and that can easily conform to different
+              execution environments. Thousands of software libraries already exist to
+              provide such components, but most fall far short of the goal of seamless
+              efficiency on all platforms. This project will define and experimentally
+              evaluate a new approach for tuning libraries using both domain-specific and
+              machine-specific compiler optimizations. The key to the approach is an
+              annotation language that conveys three types of information: library semantics,
+              machine characteristics, and information about how library components will be
+              composed.  This advances other library techniques by encapsulating and
+              exploiting domain-specific information to reap benefits of programming
+              abstractions without incurring their usual efficiency costs.
+
+The project
+              will focus on three important opportunities for improving performance and
+              portability: the extension of conventional scalar optimizations to library
+              optimizations, the optimization of sequences of library calls, and methods for
+              customizing libraries on different machines. The methods and results will be
+              validated in experiments using the PLAPACK dense linear algebra library, MPICH
+              message-passing library, and object-oriented languages such as Java. Research
+              results expected from this project include a deeper understanding of the use of
+              domain- and machine-specific information in the compilation process, new
+              optimizations based on that information, and a compiler and language that can
+              be used in testing the ideas. Just as this research seeks to improve the flow
+              of information across interfaces, the project's educational component will
+              attempt to bridge interfaces across disciplines and communities of the student
+              population by creating a "Fundamentals of Computer Science" course for the
+              institution's interdisciplinary Computational and Applied Mathematics
+              program.
+

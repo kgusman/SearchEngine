@@ -1,0 +1,129 @@
+Title       : Delta Cache Coherence Protocols
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 12,  1997     
+File        : a9503143
+
+Award Number: 9503143
+Award Instr.: Continuing grant                             
+Prgm Manager: Anand R. Tripathi                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $259616             (Estimated)
+Investigator: Paul F. Reynolds pfr@virginia.edu  (Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 9003
+	      Charlottesville, VA  229069003    804/924-0311
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+                Finding a good solution to the cache coherence problem is  critical to the
+              effective use of medium and large scale  multiprocessors.  The  high cost of
+              remote memory access in  such systems makes it important that  processes be
+              able to  access data locally, but allowing processes to hold local  copies of
+              shared writable data requires finding a good way  to keep the copies 
+              consistent.  This project will  investigate a new family of cache coherence 
+              protocols called  delta cache protocols that maintain cache coherence with 
+              little or no synchronization.  Delta cache protocols are  directory, as opposed
+               to snoopy, protocols. The delta cache protocols are based on isotach  time
+              systems,  time systems implemented by a class of networks called  isotach 
+              networks.  Isotach networks are characterized not by  topology - they can be
+              imp  lemented on arbitrary topologies -  but by the guarantees they provide
+              about the  relative order  in which operations appear to be delivered.  Isotach
+              systems  require custom switching elements, but can be built with off- 
+              the-shelf  processors and in a variety of configurations  ranging from tightly
+              -coupled  multiprocessors to clusters of  workstations.  A simulation study of
+              isotach  systems shows  that they outperform comparable conventional systems
+              under  realistic workloads, in many cases by an order of magnitude  or more. 
+              In  extreme cases, they outperform conventional  systems by an arbitrary
+              amount.  The project is a three year study of the cache  coherence problem with
+               the goals of exploring the design space for cache coherence protocols  opened
+              by isotach networks; and           evaluating the performance of delta  cache
+              protocols.      The exploratory work includes protocol and cache design; 
+              extending the approach to a variety of topologies and to  other levels of the 
+              memory hierarchy; and devising ways to  reduce the network bandwidth 
+              requirements of the protocols  and to improve the efficiency of the protocols 
+              through data  migration.  The  performance study will simulate isotach and 
+              conventional  systems with caches and compare their performance under a 
+              variety  of workloads.  The simulation will build on the  already completed
+              simulation of  isotach systems without  caches.                                
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                     

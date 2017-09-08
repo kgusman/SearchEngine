@@ -1,0 +1,74 @@
+Title       : An Algorithmic Evaluation of Optical Interconnection Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 12,  2003  
+File        : a9912395
+
+Award Number: 9912395
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $285000             (Estimated)
+Investigator: Sartaj K. Sahni sahni@cise.ufl.edu  (Principal Investigator current)
+              Sanguthevar Rajasekaran  (Principal Investigator former)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Parallel architectures based on the optical interconnect technology are becoming
+              more and more popular as reflected by the numerous optical computers that have
+              been proposed in recent years.  Optical computers have been shown to possess
+              superior interconnect properties compared to their electrical counterparts.
+              These architectures offer the potential of building affordable machines
+              operating at extremely high speeds.
+
+The development of algorithms for the
+              proposed optical architectures is complicated by the fact that some models
+              support pipelined data transfer, other models have a heterogeneous interconnect
+              topology, and yet other models use an asymmetric topology.  Although algorithms
+              have been designed for some of these models, this development is in its
+              infancy.  The developed algorithms are mainly for a limited set of fundamental
+              problems, and even this level of development has been done for only a few of
+              the proposed architectures.  Further, the developed algorithms assume that the
+              size of the architecture is a function of the problem size.  This assumption is
+              clearly invalid in practice.  Typically, the problem size will be much larger
+              than the size of the architecture.  An important question is if the optical
+              architecture algorithms that have been developed so far are scalable.  That is,
+              can they be efficiently extended to solve problems whose size is considerably
+              larger than the machine size.  In this project the base of known efficient
+              algorithms for optical architectures will be significantly expanded.  Special
+              attention will be paid to scalable algorithms.  A cross-architecture
+              performance study from the algorithms point of view will be performed.  This
+              study will be conducted in the domains of fundamental data operations and image
+              processing.  Scalability study has been conducted in the past by various
+              researchers on models such as the PRAM, meshes with buses, and so on.  But
+              little has been done for the optical models.  Also, many of the past works (for
+              example, on meshes with buses) have studied the scalability issue by simulating
+              a machine of one size on a machine of different size.  Such studies are
+              restricted in their applicability.  In this project the general scalability
+              issue will be investigated and hence the scalability of algorithms will be
+              explored directly.  In particular, the following question will be addressed: 
+              As the size of the input increases arbitrarily, how do the speedup and
+              efficiency of the algorithm under concern change?
+
+The problem domains of
+              interest are fundamental data operations such as sorting, routing, selection,
+              etc. and image processing operations such as clustering, template matching,
+              histogram, FFT, etc.  These operations have been chosen since they span a
+              number of application domains.  At least three optical architectures, namely,
+              Arrays with Reconfigurable Optical Buses (AROBs), Optical Transpose
+              Interconnection Systems (OTISs), and Partitionable Optical Passive Star (POPS)
+              computers, will be considered.  The algorithms and algorithmic techniques to be
+              developed in this project can be expected to be applicable to other
+              architectures as well.
+

@@ -1,0 +1,83 @@
+Title       : Rapid Task-based Self-Organization in Distributed Ad-hoc Spaces
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 9,  2000     
+File        : a0073843
+
+Award Number: 0073843
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $301620             (Estimated)
+Investigator: Thomas D. Little tdcl@bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   With the shrinking size of tetherless computing devices and increasing
+              diversity in capabilities, the value of ubiquitous computing is rapidly
+              becoming real. As these devices proliferate in number, their configuration,
+              management, and organization as ad-hoc networking environments proves to be a
+              challenging research domain. In most scenarios the interaction of these devices
+              enables a broad range of applications. A group of such devices can communicate
+              with each other to achieve a goal specific to the application, i.e., they
+              perform a higher-level task or service by communicating intelligently with each
+              other. This proposal is to investigate and develop a distributed framework for
+              executing complex tasks not by using pre-configured devices but by selecting
+              suitable computing elements based on task requirements and device
+              characteristics. A prerequisite and enabling component for this work is the
+              creation of a set of self-organization protocols for connecting and managing
+              these computing elements with minimal application intervention during the
+              lifetime of the task. Such protocols are referred to as "smart" protocols.
+   
+               Existing protocols for organizing devices are constrained by their dependence
+              on available infrastructure
+primarily because of the use of directory-based
+              service discovery and are therefore less valuable for a truly ad-hoc computing
+              environment. A key premise of this proposal is that the nature of the task can
+              be exploited
+to organize ubiquitous computing devices into logical task based
+              groups. Tasks are then represented by
+dependency or task graphs that describe
+              how devices interact with each other. A distributed mechanism is
+proposed for
+              constructing and embedding a task graph on a network of computing elements
+              for"\smart" task
+execution. Additionally, a task-aware routing protocol for
+              reducing routing delays is proposed. An expected
+outcome of this approach is
+              the ease with which larger, more complex services can be composed from
+              smaller
+services. These protocols can thus be rapidly deployed in ad-hoc
+              environments enabling new applications in
+diverse areas such as smart homes
+              and offices, distributed robotics, sensor networks, large scale
+              distributed
+computing, smart battlefields, crisis management, etc.
+    
+              Specific tasks of this research are: (1) the development of efficient
+              distributed algorithms for discovery
+of suitable devices that can together
+              perform a distributed task from within a sea of tethered or
+              tetherless
+devices, and protocols for execution of those distributed tasks;
+              (2) the development of task aware routing
+protocols using key link-state
+              information; (3) specification for the use of state augmentation techniques
+              for
+handling nomadicity of users and devices as seamlessly as possible; (4)
+              the simulation of the above protocols
+using public domain network simulators;
+              and (5) the implementation of a proof-of-concept prototype using
+commodity
+              hardware and software.

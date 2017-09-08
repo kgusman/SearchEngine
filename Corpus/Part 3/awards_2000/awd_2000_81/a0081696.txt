@@ -1,0 +1,55 @@
+Title       : ITR: Opportunistic Parallel Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 17,  2002       
+File        : a0081696
+
+Award Number: 0081696
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $253455             (Estimated)
+Investigator: Vipin Chaudhary vipin@wayne.edu  (Principal Investigator current)
+              Guy Edjlali  (Co-Principal Investigator current)
+              Dharma P. Agrawal  (Co-Principal Investigator current)
+Sponsor     : Wayne State University
+	      5050 Cass
+	      Detroit, MI  482023900    313/577-2424
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1652,1658,1660,9215,9218,HPCC,
+Abstract    :
+              This project proposes runtime and compiler support that will enable programs to
+              harvest idle SMPs and/or single processor workstations to perform parallel
+              computations.  The unique feature of this system is the ability to adapt
+              parallel programs to the dynamic availability of processors while exploiting
+              the locality within an SMP.  The project integrates several goals,
+              namely:
+
+1) Extend the Distributed Shared Memory, Strings, to support thread
+              migration, incorporate adaptation to the changing number of available
+              processors at runtime and propose techniques to balance data locality and the
+              parallelism used when the number of processors changes at runtime. 
+ 
+2)
+              Study the impact of eviction time on remapping strategies and constraints.
+              
+
+3) Develop compile-time support for parallel programs which can be executed
+              in an environment where the number and the availability of the processors can
+              change.
+
+4) Develop analytic models and extensively evaluate the above
+              compiler and runtime techniques using several "real programs".
+
+5) Integrate
+              the utilization of idle cycles for parallel computing on cluster of SMP
+              workstations into the existing parallelization environment.
+

@@ -1,0 +1,48 @@
+Title       : A Scalable, Parallel Algorithm for Adaptive Smoothed Particle Hydrodynamics and
+               the Large-Scale Simulation of Galaxy Formation in Cosmology
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : November 15,  1996  
+File        : a9504046
+
+Award Number: 9504046
+Award Instr.: Standard Grant                               
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1996   
+Expires     : November 30,  1998   (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Paul R. Shapiro shapiro@astro.as.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              This proposal will parallelize and apply a new and innovative method that was
+              developed for the numerical simulation of 3D hydrodynamics and gravitational
+              clustering in cosmology.  Our goal is to explain the formation of galaxies and
+              large-scale structure in the universe by simulating the coupled effects of
+              gravity, gas dynamics, and radiative transfer in an expanding cosmological
+              universe.  A correct solution must resolve the multi-scale, nonlinear growth of
+              gravitational instability, which leads to anisotropic gravitational collapse,
+              highly supersonic motions, strong shocks, radiative cooling, and many orders of
+              magnitude of density contrast.  The method is a merger of our substantially
+              improved version of the Smoothed Particle Hydrodynamics (SPH) Method, called
+              Adaptive SPH, or ASPH, and the well-known Particle-Particle/Particle-Mesh(P
+              DSG1 3M) gravitational N-body method, in a cosmologically expanding,
+              matter-dominated Friedmann universe.  The ASPH method revolutionizes the
+              standard SPH method by introducing new algorithms for time-and space-variable,
+              anisotropic smoothing and for shock tracking to eliminate spurious heating due
+              to artificial viscosity away from shocks.  The ASPH method has significantly
+              increased the dynamical range that can be achieved by numerical hydrodynamical
+              simulations, and is currently the best method to achieve the resolution
+              required to study the problems mentioned above. This project will develop and
+              apply a new parallel computer version of our existing algorithm, that will
+              significantly reduce the CPU time per calculation.    DSG1

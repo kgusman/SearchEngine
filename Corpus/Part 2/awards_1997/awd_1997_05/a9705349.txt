@@ -1,0 +1,44 @@
+Title       : A Model Matching Approach to Multirate System Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 5,  1999        
+File        : a9705349
+
+Award Number: 9705349
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1997      
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $325699             (Estimated)
+Investigator: Thomas W. Parks parks@ee.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Multirate digital systems have important applications in communication and
+              signal  processing including resampling, interpolation, narrow band filtering,
+              fax  systems, subband coding, transmultiplexing, multiresolution analysis, and 
+              waveletts.  This research is developing algorithms for the systematic design of
+               multirate signal processing systems based on a model-matching approach where
+              an  ideal system (model) is approximated by a practical multirate system
+              consisting  of components such as digital filters, modulators, and
+              upsamplers/downsamplers.   The problem is to choose the parameters of the
+              practical system so that the  performance of the system is as close as possible
+              to the ideal system.  The  measurement of the difference between systems used
+              in this research is based on  the difference in outputs of the two systems for
+              all possible inputs.  System  parameters are chosen to minimize the maximum
+              energy of the difference between  output signals for all bounded energy input
+              signals.  This error measure gives  systems where the quality of the
+              approximation is insensitive to the particular  type of input to the system. 
+              The most significant improvements over conventional  designs are expected in
+              complicated systems where intuitive design methods are  limited, such as in the
+              design of cascaded multirate systems.

@@ -1,0 +1,101 @@
+Title       : Time Complexity Limits for Shared-Memory Synchronization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0208289
+
+Award Number: 0208289
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $107497             (Estimated)
+Investigator: James H. Anderson anderson@cs.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Through the years, much work has been done on synchronization algorithms
+              for
+shared-memory multiprocessors.  In contrast, very little work has been
+              done on
+time-complexity lower bounds that express fundamental limits to which
+              such
+algorithms are subject.  Given the vastness of the literature
+              on
+synchronization, this may seem somewhat surprising.  However, there is
+              a
+simple explanation: while devising a useful time complexity measure
+              for
+sequential algorithms is straightforward, it is not altogether obvious how
+              to
+do this in a meaningful way for synchronization algorithms.  Indeed, in
+              most
+synchronization algorithms, processes may wait unboundedly; thus, if one
+              merely
+applies the standard sequential measure of counting all operations to
+              such an
+algorithm, then its time complexity is unbounded.  This is not a very
+              useful
+statistic.
+
+Recently, some progress has been made towards defining
+              useful time complexity
+measures.  One such measure is the the remote memory
+              references (RMR) measure.
+Under the RMR measure, a distinction is made between
+              local and remote accesses
+of shared memory.  An access is local if it does not
+              require a traversal of
+the global interconnect between processors and shared
+              memory, and is
+remote otherwise.  The RMR measure was motived by research on
+              "local-spin"
+synchronization algorithms.  In such algorithms, processes are
+              structured so
+that all busy waiting is on variables cached locally or stored
+              in a local
+memory module.
+
+When studying synchronization problems, the
+              following key question arises:
+Using some class C of synchronization
+              primitives, what is the most
+efficient possible algorithm for solving a given
+              synchronization problem?
+It is this basic question to which this research
+              project is directed, where
+"efficiency" is defined as time complexity under
+              the RMR measure.  The
+research agenda includes work on both algorithms and
+              lower bounds.  Based
+on such work, rankings of synchronization primitives are
+              being developed
+that order synchronization primitives according to the time
+              complexity
+(worst-case, average-case, amortized) with which various
+              synchronization
+problems can be solved.  Such rankings should be of value to
+              computer
+architects.  Indeed, preliminary research has shown that a variety
+              of
+fetch-and-phi primitives are more powerful than comparison primitives
+              for
+implementing blocking synchronization mechanisms.  This stands in
+              contrast
+to the fact that compare-and-swap and related comparison primitives
+              are
+commonly regarded to be among the most powerful and useful of
+              primitives,
+and are widely supported in modern machines.
+
+

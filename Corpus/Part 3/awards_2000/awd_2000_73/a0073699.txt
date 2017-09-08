@@ -1,0 +1,74 @@
+Title       : Development of Geocasting Protocols for a MANET
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0073699
+
+Award Number: 0073699
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2000      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $299933             (Estimated)
+Investigator: Tracy K. Camp tcamp@mines.edu  (Principal Investigator current)
+              William C. Navidi  (Co-Principal Investigator current)
+Sponsor     : Colorado School of Mines
+	      1500 Illinois
+	      Golden, CO  804011887    303/273-3200
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Ad hoc networking involves computers, typically wireless mobile nodes, that
+              cooperatively form a network without specific user administration or
+              configuration.  In other words, ad hoc networking allows an arbitrary
+              collection of mobile nodes to create a network on demand.  This capability has
+              numerous applications in tactical missions and rescue operations, as well as
+              for educational and commercial use.  Due to the number of applications desiring
+              the formation of an ad hoc network infrastructure, development of this
+              technology is currently a research priority at NSF.                            
+                                                                                The work in
+              this proposal concerns the development and performance evaluation of protocols
+              that offer geocast communication in an ad hoc network.  The goal of a
+              geocasting protocol is to deliver a packet to a set of nodes within a specified
+              geographical area, i.e., the geocast region.  The researchers will develop and
+              evaluate protocols that offer geocast communication to both explicityly defined
+              groups (i.e., geocast to those mobile nodes in the geocast region that have
+              registered with the group) and implicitly defined groups (i.e., geocast to all
+              mobile nodes in the geocast region).  The researchers will also consider both
+              fixed geocast regions (i.e., defined by a specific geographical location) and
+              dynamic geocast regions (i.e., defined by a dangerous moving target).          
+                                                                                             
+                                                                                         The
+              researchers will develop and evaluate (via simulation) three different
+              approaches to geocasting: a directed flooding approach, a tree-based approach,
+              and a mesh-based approach.  They  also propose to develop a hybrid approach
+              that is based on the nature of the message to be transmitted and/or performance
+              considerations (e.g., if the mobile nodes have been moving slowly in the recent
+              past, then the redundancy offered by a mesh-based approach may not be needed). 
+              Lastly, the researchers plan to incorporate predictable and controllable
+              end-to-end quality of service when a shared tree or shared mesh approach is
+              used.   Throughout the project, they will conduct extensive simulations to
+              determine the conditions under which each of the geocast algorithms is most
+              effective.  The researchers will vary the essential parameters in the
+              simulations to avoid biased results, e.g., network size, connectivity,
+              topological rate of change, and various movement/calling patterns.  In
+              addition, the simulations will take into account some realistic limitations
+              that have not always been addressed in prior performance evaluations, e.g.,
+              location errors that exist in widely available consumer Global Positioning
+              Systems.                                                                       
+                  The proposed project is a collaboration between two investigators who have
+              the experience and capability necessary to complete the project successfully. 
+              The expertise of one investigator is in the mobile computing and networking
+              area.  The expertise of the other investigator is in the development of
+              simulation models and the evaluation fo a protocol's performance.              
+                                                                                             
+                       Throughout the investigation, the approach will be from a practical
+              sense.  The researchers will attend Internet Engineering Task Force meetings to
+              obtain the current status of ad hoc protocols and to share the  results. 

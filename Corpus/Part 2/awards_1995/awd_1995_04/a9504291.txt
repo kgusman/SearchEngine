@@ -1,0 +1,40 @@
+Title       : Postdoc: Efficient Algorithms for Networks of Workstations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 22,  1995       
+File        : a9504291
+
+Award Number: 9504291
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1997        (Estimated)
+Expected
+Total Amt.  : $40200              (Estimated)
+Investigator: Klaus Schauser schauser@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      c/o Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9218,HPCC,
+Abstract    :
+              9504291  Schauser  The object of this proposal is to study parallel algorithms
+              that run efficiently on modern multiprocessors and, in particular, on networks
+              of workstations (NOWs).  This research will use a simple but realistic model of
+              communication, the LogP model.  The goal is to use the model and its parameters
+              to predict and improve the performance of algorithms on various architectures. 
+              In particular, it will provide a methodology for porting efficient code from
+              one machine(e.g., a low-end NOW) to another (e.g., a high-end NOW/MPP), such
+              that both versions are efficient on their respective architectures.  This work
+              will be mostly of an experimental nature, and will be carried out on the Meiko
+              CS-2.  Some benefits to this research are : accurately predicting the
+              performance of parallel code on other architectures, efficiently optimizing the
+              ported algorithms, and making the use of  low-end  NOWs as test platforms much
+              more viable.

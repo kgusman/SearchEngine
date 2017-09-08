@@ -1,0 +1,48 @@
+Title       : Postdoc: To Develop and Analyze Efficient Parallel Iterative Solvers with
+               Effective Preconditioners that Arise in Solid-Liquid Computational Simulations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 22,  1999     
+File        : a9625705
+
+Award Number: 9625705
+Award Instr.: Standard Grant                               
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : April 30,  2000      (Estimated)
+Expected
+Total Amt.  : $45842              (Estimated)
+Investigator: Gene H. Golub golub@sccm.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              The goals of this research are two-fold:  to develop and analyze efficient
+              parallel iterative solvers with effective preconditioners that arise in
+              solid-liquid computational simulations; and to parallelize a solid-liquid
+              computational simulation for the NSF Grand Challenge Particle Simulation
+              Project.  In this particle simulation, the motion of solid particles in flowing
+              fluid is carried out using an Arbitrary Lagrangian-Eulerian finite element
+              method with a moving particle-fitted unstructured grid.  This formulation
+              results in a nonlinear system of equations that is solved at each time step
+              with a modified-Newton method.  Using the modified-Newton method gives rise to
+              nonsymmetric linear systems that are solved with a preconditioned GMRES
+              iterative method. The first focus of this research is to efficiently solve
+              these nonsymmetric linear systems by developing robust and effective parallel
+              preconditioners for iterative solving.  Moreover, a library of parallel
+              numerical algorithms will be developed to solve nonlinear algebraic systems
+              using variants of Newton's method and to solve sparse nonsymmetric linear
+              systems using preconditioned iterative methods.  The library will be portable
+              across a range of parallel machines and will be placed on the public domain. 
+              The parallelization will be carried out using the general methodology and
+              optimization techniques developed in Oplus (Oxford Parallel Library for
+              Unstructured Solvers).

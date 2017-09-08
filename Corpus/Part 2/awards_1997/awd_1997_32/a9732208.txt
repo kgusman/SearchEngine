@@ -1,0 +1,65 @@
+Title       : Iterative Substructuring Methods for Elliptic Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 13,  1998      
+File        : a9732208
+
+Award Number: 9732208
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $261814             (Estimated)
+Investigator: Olof B. Widlund widlund@cs.nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              The development of numerical methods for large algebraic systems  is central in
+              the development of efficient codes for  computational fluid dynamics,
+              elasticity, and other core problems  of continuum mechanics.  Many other tasks
+              in such codes  parallelize relatively easily.  The importance of the algebraic 
+              system solvers is therefore increasing with the appearance of  parallel and
+              distributed computing systems, with a substantial  number of fast processors,
+              each with relatively large memory.  A  very desirable feature of iterative
+              substructuring and other  domain decomposition algorithms is that they respect
+              the memory  hierarchy of modern parallel and distributed computing systems, 
+              which is essential for approaching peak floating point  performance.  The
+              development of improved methods is, together  with more powerful computer
+              systems, making it possible to carry  out simulations in three dimensions, with
+              quite high resolution,  relatively easily.  This work is now supported by high
+              quality  software systems, such as Argonne's PETSC library, which will 
+              facilitate code development as well as the access to a variety of  parallel and
+              distributed computer systems.  Work willcontinue in  developing iterative
+              substructuring and other domain  decomposition methods for increasingly
+              difficult partial  differential equations.  Domain decomposition algorithms are
+               iterative methods, often of preconditioned conjugate gradient  type, for the
+              parallel solution of the large linear, or  nonlinear, systems of algebraic
+              equations that arise when partial  differential equations are discretized by
+              finite elements, finite  differences, or spectral methods.  In each iteration
+              step, local  problems representing the restriction of the original problem to 
+              a potentially large number of subregions are solved  approximately.  The
+              subregions, which can be allocated to  individual processors of a parallel
+              computer, form a  decomposition of the entire domain of the problem.  In
+              addition,  the inclusion of a coarse proble m often substantially increases 
+              the efficiency of the preconditioner.  This study will combine mathematical
+              analysis with the design and  numerical testing of algorithms.  A special
+              emphasis will be  placed on the study of spectral elements and other high order
+               finite element methods, as well as on nonconforming methods such  as the
+              mortar and Nedelec finite element methods.  The latter  have been developed for
+              Maxwell's equation.  There will also be a  focus on the often very
+              ill-conditioned problems which arise in  finite element approximations of
+              elasticity.  Iterative methods  and production codes will also be developed for
+              Helmholtz's  equation and other time-harmonic models arising, e.g., from 
+              Maxwell's equations.  These problems pose very real challenges  for the
+              development of iterative solvers and are also of great  importance in a number
+              of engineering applications.

@@ -1,0 +1,141 @@
+Title       : WebTP: A User-Centered Web Transfer Protocol
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 19,  2001     
+File        : a9872764
+
+Award Number: 9872764
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $1150413            (Estimated)
+Investigator: Jean C. Walrand wlr@eecs.berkeley.edu  (Principal Investigator current)
+              Steven McCanne  (Co-Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 
+Program Ref : 4095,9218,HPCC,
+Abstract    :
+              The World Wide Web is now a critical communication infrastructure for
+society.
+              However, the foundations on which the Web is built are largely ad
+hoc and
+              haphazard, with a protocol framework consisting of the hypertext
+transport
+              protocol (HTTP) layered on top of the Internet's universal
+reliable delivery
+              protocol-the transmission control protocol (TCP).
+Consequently, the
+              performance of HTTP over TCP suffers from a number of
+deficiencies that are
+              all rooted in the fact that TCP's byte-stream
+semantics are often at odds with
+              user goals and the performance
+capabilities of end clients and
+              servers.
+
+Several ad hoc remedies have been proposed earlier to compensate
+              for these
+deficiencies, e.g. parallel connections, persistent connections, and
+              ACK
+pacing. However, all these solutions are overly constrained by
+              the
+presumption of backward compatibility. We believe that the time has come
+              to
+adopt a holistic and integrated approach embodied in a new
+              transport
+protocol tailored specifically for the Web. Herein, we propose a set
+              of
+research tasks to study, design, implement, test and evaluate our new
+              ``Web
+Transport Protocol" or WebTP.
+
+Our approach is based on a conceptual
+              model of user validation, application
+semantics, network and client states,
+              and a flexible protocol that reflects
+this syntax and semantics. The
+              conceptual model emphasizes the interaction
+between document structure,
+              network state, and user preferences. Our
+research prototype will leverage the
+              well-established and highly successful
+congestion control framework of TCP and
+              vastly improve upon the existingWeb
+protocols by bringing user requirements
+              into the design loop. To do so, we
+will apply the principles of Application
+              Level Framing (ALF) to the design
+of WebTP. ALF says that to optimize
+              communication paths within the
+application and across the network, an
+              application's semantics (i.e. its
+user requirements) should be explicitly
+              reflected in the design of its
+network protocol. Although ALF has been adopted
+              in modern protocols like
+the Real-time transport protocol (RTP), paradoxically
+              it has not been
+systematically applied to previously existing applications
+              like the Web.
+
+We will study the following questions:
+
+* How do we best
+              structure the ALF-based Web protocol in terms of
+congestion control
+              algorithms, loss recovery schemes, packet framing
+methodology, header formats,
+              toolkit APIs, and so forth? How do these
+design decisions impact network
+              performance, user satisfaction, protocol
+complexity, and server load?
+
+* How
+              then does the client elicit user preferences in the least
+              obtrusive
+fashion?
+
+* How does the receiver (client) learn of the content
+              structure of a
+server's Web data and combine that structure with its estimate
+              of network
+state and user preferences to control selective transmission via
+              WebTP?
+
+* How should functionality and state information be distributed among
+              the
+source (server or proxy), client, and user and what are the design
+              and
+performance tradeoffs? How does WebTP scale with increased speed and
+              faster
+clients?
+
+Our approach to these questions draws upon network
+              engineering and
+communication theory, signal processing and stochastic
+              control.  We will
+use existing network emulation infrastructure from the the
+              INDEX Project to
+comprehensively test and evaluate WebTP. This project holds
+              the potential
+to dramatically impact the way we think about Web transport and
+              will
+further contribute a design methodology, an actual protocol
+              architecture,
+and performance analysis and results. We believe that our
+              versions of WebTP
+will demonstrate dramatic improvements and pave the way for
+              further
+developments.
+
+

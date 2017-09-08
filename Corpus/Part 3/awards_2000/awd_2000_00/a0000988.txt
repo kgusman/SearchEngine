@@ -1,0 +1,57 @@
+Title       : Uncovering and Exploiting Memory Parellelism in Pointer-Chasing Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 14,  2002       
+File        : a0000988
+
+Award Number: 0000988
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $319999             (Estimated)
+Investigator: Donald Yeung yeung@umiacs.umd.edu  (Principal Investigator current)
+              Chau-Wen Tseng  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+Proposal: C-CR 0000988
+PI: Donald Yeung, University of
+              Maryland
+
+Conventional memory latency tolerance techniques are limited on
+              pointer-intensive applications because pointer-chasing memory references must
+              perform sequentially and prevent the overlap of multiple cache misses. 
+              Pointer-chasing computations, however, traverse several independent pointer
+              chains.  Such independent traversals provide a source of memory parallelism
+              that has remained untapped by the existing latency tolerance
+              techniques.
+
+This research develops novel pointer prefetching techniques to
+              exploit "inter-chain" memory parallelism.  Compared to existing techniques, the
+              new techniques address more effectively the memory bottleneck for
+              pointer-chasing computations commonly found in non-numeric applications.  The
+              research consists of three major thrusts.  First, techniques are developed to
+              schedule prefetches across multiple independent pointer-chain traversals
+              simultaneously; thus overlapping cache misses from separate pointer-chasing
+              loops or recursive function calls.  Both compile-time and run-time scheduling
+              techniques are investigated.  Second, architectural support is developed to
+              issue prefetch requests according to the required prefetch schedules. 
+              Initially, a prefetch engine capable of traversing pointer-based data
+              structures is studied. The research also investigates into lightweight
+              microthreads to perform prefetching inside a multithreaded CPU.  Finally,
+              compiler support is developed to automatically extract program information for
+              computing the prefetch schedules and for generating the prefetch requests at
+              runtime.
+

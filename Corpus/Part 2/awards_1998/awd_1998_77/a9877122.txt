@@ -1,0 +1,64 @@
+Title       : On Learning and Characterizing Classes of Boolean Functions
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1999  
+File        : a9877122
+
+Award Number: 9877122
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $213504             (Estimated)
+Investigator: Lisa Hellerstein hstein@duke.poly.edu  (Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9877122
+Hellerstein
+
+A central problem in computational learning is to
+              determine which types of Boolean functions (concepts) can be learned by
+              efficient algorithms.  The difficulty of learning can vary in different
+              learning models.  The models represent different conditions under which
+              learning might take place.  A major goal of this project is to distinguish, in
+              a variety of learning models, between classes of Boolean functions that are
+              efficiently learnable and classes that are not.
+
+Among the learning models
+              that will be studied are query models and attribute-efficient models.  In query
+              models, the learning algorithm can obtain information about the function being
+              learned by asking queries.  Query models represent situations in which the
+              learner has access to a teacher or expert, or can perform experiments and
+              observe outcome.  In attribute-efficient models, the learner is expected to
+              learn efficiently even in the presence of a lot of irrelevant information.  The
+              presence of irrelevant information is a common complication in applied machine
+              learning problems such as automatic text categorization.
+
+Another major
+              aspect of this project concerns characterizations of classes of Boolean
+              functions.  The project aims to discover connections between characterizations
+              of Boolean function classes and the complexity of learning and recognizing
+              functions in those classes.  This approach is inspired in part by work in graph
+              theory.  The characterization of Boolean function classes has not been studied
+              as extensively as the characterization of graph classes.  A goal of the project
+              is to do for classes of Boolean functions what has been done for classes of
+              graphs: to establish connections between characterizations of classes and the
+              complexity of problems involving the classes.  A focus of this project will be
+              on classes of Boolean functions that are closed under basic operations, such as
+              permutation of variables, and substitution of constants for variables.  The
+              motivation for restricting attention to such function classes is to obtain
+              elegant results in learning and complexity, results that may not hold for all
+              Boolean function classes.
+
+

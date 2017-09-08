@@ -1,0 +1,64 @@
+Title       : STI: NetReact Services: Middleware Technologies to Enable Real-time
+               Collaboration across the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0230841
+
+Award Number: 0230841
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas J. Greene                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $859998             (Estimated)
+Investigator: Karsten Schwan schwan@cc.gatech.edu  (Principal Investigator current)
+              Calton Pu  (Co-Principal Investigator current)
+              Matthew Wolf  (Co-Principal Investigator current)
+              Greg S. Eisenhauer  (Co-Principal Investigator current)
+              Constantinos Dovrolis  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9217,HPCC,
+Abstract    :
+              Modern science is a distributed wide-area enterprise, requiring real-time
+              coordination of scientific instruments and remote sensors, computational
+              resources, large data repositories and teams of researchers in different
+              locations, even on different continents. The high-bandwidth networking demands
+              of any such real-time and data-intensive collaborations tax the largest network
+              pipes, and when conducted across the Internet, their Gigabit/sec data streams
+              must utilize heterogeneous platforms with network link speeds that vary from
+              10Gbps to 10Mbps and with end user machines that range from desktop PCs to
+              large supercomputers. However, effective scientific collaboration demands that
+              team members be able to interact with each other and with critical remote
+              resources in real-time, despite platform heterogeneity and despite dynamic
+              variations in the availability of platform resources.
+
+The key idea of the
+              NetReact middleware services is to utilize the substantial server and
+              processing resources associated with distributed collaborations to improve end
+              user performance and compensate for potential deficiencies in network
+              capabilities. NetReact provides rich functionality for dynamically
+              reconfiguring both middleware and applications in response to network and
+              platform monitoring, and to coordinate (1) middleware and application-level
+              reactions to changes in network state with (2) the possibly simultaneous
+              actions taken at the transport level. NetReact's monitoring (NRM) services
+              dynamically determine available network bandwidth and communication latencies.
+              NetReact uses such information to adjust middleware and application actions, to
+              tune the underlying network transport, and even to dynamically select suitable
+              network paths for ongoing middleware-enabled scientific collaborations. By
+              embedding NetReact services into the grid computing middleware commonly used
+              for scientific collaboration, the functionality of such NetReact-enriched
+              middleware is improved substantially, enabling end users to collaborate in
+              real-time even when they do not have access to high end machines or high
+              capacity network links, thereby supporting scientific applications that
+              currently remain out of reach for existing networking and grid computing
+              technologies.

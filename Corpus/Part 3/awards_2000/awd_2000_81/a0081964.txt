@@ -1,0 +1,55 @@
+Title       : ITR: Geometric Algorithms and Analytical Models: the Case of Ray Shooting
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0081964
+
+Award Number: 0081964
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $251081             (Estimated)
+Investigator: Boris Aronov aronov@poly.edu  (Principal Investigator current)
+              Yi-Jen Chiang  (Co-Principal Investigator current)
+              Herve Bronnimann  (Co-Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,9216,HPCC,
+Abstract    :
+              The purpose of Computational Geometry is to provide provably efficient
+              algorithms and data structures for applications of a geometric nature.
+              Unfortunately, the commonly adopted attitude of studying worst-case behavior
+              has disserved the field by building a gap between the theoretical research and
+              the growing community that implements and uses geometric algorithms. This
+              project will develop frameworks that model more closely the behavior of
+              algorithms of practical importance on actual data. To do this, it will
+              concentrate on ray shooting, which is the bottleneck operation in the
+              fundamental ray tracing technique for producing photo-realistic images in
+              graphics. Ray shooting also has numerous other applications.
+
+Technically,
+              the project will develop a new framework for predicting the "average" (rather
+              than worst-case) performance of ray shooting on any decomposition- or
+              hierarchy-based data structure on a given input. This would allow one to
+              compare the expected performance of different approaches on a given data, with
+              the eventual aim of being able to predict the cost of an operation, such as
+              rendering a scene at a certain resolution, or optimizing the choice of a data
+              structure to store a scene, prior to actual ray-shooting computation. It will
+              also devise novel ray shooting/ray tracing algorithms that reduce the
+              I/O-complexity for datasets too large to fit in main. In addition, It will
+              attempt to extend the proposed performance-predicting framework to incorporate
+              I/O-complexity as well, to cover the entire spectrum of the input sizes.
+              Finally, the project will implement its algorithms, address the corresponding
+              robustness issues, and investigate the accuracy of the predictive framework on
+              practical data.
+

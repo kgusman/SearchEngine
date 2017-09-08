@@ -1,0 +1,82 @@
+Title       : Smoothing and Congestion Control Algorithms for Stored Continuous Media
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 12,  1999       
+File        : a9805185
+
+Award Number: 9805185
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $261987             (Estimated)
+Investigator: James F. Kurose kurose@cs.umass.edu  (Principal Investigator current)
+              Donald F. Towsley  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Future high-speed computer networks are projected to carry a dizzying array of
+              networked multimedia applications including digital libraries, video and image
+              servers, distance learning and collaboration, networked virtual environments,
+              and entertainment.  A common thread among these applications is the so-called
+              "continuous" nature of their data.   In continuous media (CM) data, strict
+              timing relationships exist, which define the schedule by which CM data must be
+              rendered (e.g., a video displayed or audio played out).  In a network setting,
+              the playout timing constraints, the rate variability of specific CM such as
+              variable bit rate (VBR) video, the possibility of packet loss and delay within
+              the network, and the desire to use network resources efficiently together
+              combine to make the transport of CM data an exceptionally challenging
+              problem.
+
+An important class of continuous media is stored continuous media. 
+              This differs from live continuous media in several ways.  First, CM traffic
+              characteristics are typically known ahead of time.  Second, CM data is often
+              characterized by a more relaxed requirement as to when playout can begin. Last,
+              unlike live CM data, stored CM data does not provide the opportunity for
+              changing the encoding rate in response to network congestion.  In this proposal
+              principal investigators (PIs) outline research aimed at the design and
+              evaluation of algorithms and network transport protocols for supporting stored
+              continuous media applications.  These algorithms and protocols accommodate and
+              exploit the unique features of stored CM (e.g., known traffic characteristics
+              and the ability to transmit data further in advance of its playout time, the
+              time-sensitive nature of CM playout).
+
+The proposed research divides broadly
+              into two areas:
+
+1) Smoothing of stored continuous media.  The PIs propose to
+              develop and evaluate work-ahead smoothing algorithms for transmitting stored
+              video to a client subject to client and network buffering constraints.  The
+              goal is to develop algorithms that compute CM transmission schedules that
+              require a minimal use of network resources (e.g., have the smallest peak rate
+              requirement, the smallest bandwidth requirement variability, and the smallest
+              buffering requirements).
+
+ 2) Congestion control for stored continuous media.
+              The PIs propose to develop and evaluate rate control algorithms that adaptively
+              vary the transmission rate of a stored CM source in response to congestion
+              within the network.   Of particular interest are the resulting performance
+              tradeoffs among interfering CM and non-CM connections.
+
+The proposed research
+              has a particular emphasis on performance -- evaluating and understanding
+              performance in a wide variety of settings, as well as formally establishing
+              properties (e.g., optimality) of specific approaches.  Other important themes
+              in the proposed work include the importance of supporting client interactivity
+              (e.g., developing approaches with small startup delays, examining the tradeoff
+              between startup delay and resource requirements), the development of stored CM
+              algorithms and protocols for a variety network settings (e.g., different
+              network service models, as well as in unicast and multicast scenarios), and the
+              complementary mix of theory and experimentation embodied in the proposed
+              research.
+

@@ -1,0 +1,50 @@
+Title       : A Quantitative Approach to Hybrid von Neumann - Dataflow Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 5,  1991   
+File        : a9113268
+
+Award Number: 9113268
+Award Instr.: Standard Grant                               
+Prgm Manager: John R. Lehmann                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1991  
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $240122             (Estimated)
+Investigator: Anton P. Bohm bohm@cs.colostate.edu  (Principal Investigator current)
+              Walid A. Najjar  (Co-Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 4715,
+Abstract    :
+              Hybrid von Neumann-dataflow architectures are an attempt to combine            
+              hardware support for synchronization and latency hiding with von               
+              Neumann features such as register files, instruction and data                  
+              caches, RISC style instruction pipelining and vector data                      
+              structures.                                                                    
+                                                                                             
+              The success of a hybrid architecture design lies in its ability to             
+              provide a balance between the dataflow and von Neumann features                
+              that will optimize its performance.  This research provides both               
+              quantitative and qualitative analysis of these features to                     
+              determine such a balance.  In the first step, a quantitative                   
+              evaluation of the relative extent of the various forms of locality             
+              is performed.  Secondly, the architectural features, pertaining to             
+              processor design and storage model, that can exploit these forms               
+              of locality are determined.  The impact of these features on                   
+              performance, code generation strategies and instruction set design             
+              is evaluated.  Based on a given processor and machine architecture,            
+              code partitioning and structure allocation strategies are                      
+              determined and evaluated.  The hybrid dataflow model is evaluated              
+              using a parameterizable, discrete event driven, register transfer              
+              level dataflow machine simulator.

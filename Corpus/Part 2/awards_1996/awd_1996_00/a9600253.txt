@@ -1,0 +1,60 @@
+Title       : Internet Access to the Evolution of Terrestial Ecosystems Database
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : August 29,  1996    
+File        : a9600253
+
+Award Number: 9600253
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 1,  1996  
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: John D. Damuth damuth@lifesci.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      c/o Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0102000   Data Banks                              
+              0108000   Software Development                    
+              61        Life Science Biological                 
+Program Ref : 9139,9184,9198,HPCC,
+Abstract    :
+                   This project will develop a World Wide Web interface for  the Evolution of
+              Terrestrial Ecosystems (ETE) Database. ETE  is an international project,
+              designed to allow broad-scale  comparisons of the paleobiology and paleoecology
+              of  terrestrial ecosystems and their plant and animal  communities. Currently
+              the Database contains information on  over 8,000 fossil localities and more
+              than 5,000 plant and  animal species.  It is accessed through an X-Window 
+              graphical interface, which allows one to plot fossil  localities on maps
+              displayed on screen, to query the screen  display, and to construct output data
+              sets for other  analysis programs.     Currently, the user interface
+              application (called  "Explorer") runs only on the host that also runs the 
+              project's database management software (Ingres).  This makes  the Explorer an
+              effective tool in the context of a local  network, but a user at a remote site
+              must operate the  interface (maps, menus, etc.) from across the Internet and 
+              must transfer via FTP any analysis output files to use  locally. Users outside
+              of North America find international  network access too slow to use the
+              Explorer during certain  peak hours.     This project will port Explorer to the
+              Java computer  language (JavaSoft, Mountain View, CA).  A Java object file  can
+              be executed on any computer that has a Java interpreter  without recompiling. 
+              Java interpreters are available for  all major PC and workstation platforms,
+              and are built in to  WWW browsers such as Netscape 2.0 and HotJava.  From
+              within  a Web browser, a special form of a Java application (called  an
+              "applet") is downloaded to the user's computer (via a  standard WWW link to a
+              URL), where it is executed.  The  result is a level of interactivity and
+              complex behavior  previously unavailable on the WWW.  The new version of the 
+              Explorer will thus take the form of a Java applet embedded  within a standard
+              WWW HTML document. The result will be a  robust, Internet-based, interactive,
+              interface providing the  Explorer's GI S-style approach to data exploration. 
+              That  architecture will greatly increase the accessibility of the  database to
+              paleobiologists world-wide and catalyze  additional research community feedback
+              and professional  interaction on the project.  A WWW client for ETE will also 
+              likely make the database a significant resource for formal  and informal
+              education in paleobiology.

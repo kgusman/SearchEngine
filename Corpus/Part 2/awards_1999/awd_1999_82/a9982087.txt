@@ -1,0 +1,54 @@
+Title       : Compiler and Runtime Support for Data Intensive Computing on Multi-dimensional
+               Data
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 26,  2003     
+File        : a9982087
+
+Award Number: 9982087
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2000      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $426272             (Estimated)
+Investigator: Alan Sussman als@cs.umd.edu  (Principal Investigator current)
+              Joel H. Saltz  (Principal Investigator former)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              One of the largest and fastest-growing problems in scientific computing is the
+              analysis and processing of very large data sets. These scientific data sets can
+              come from long-running simulations (e.g. simulations of water pollution that
+              create "snapshots" of the expected water conditions at later times), archives
+              of remote sensing data (e.g. high-resolution satellite imagery), and archives
+              of medical images (e.g. MRI scans for a patient or group of patients). These
+              data sets are usually multi-dimensional, including spatial coordinates, time
+              stamps, and several physical properties at each point. Several systems now
+              support storage, retrieval, and visualization of such data sets, but few can
+              efficiently process the data. This project will develop methods to produce
+              efficient programs to carry out multi-dimensional data processing and analysis
+              using a high-level parallel language.
+
+The project will attack this problem
+              by developing runtime routines for optimizing resource usage, appropriate
+              language extensions, and aggressive compiler optimizations for large data
+              processing. The runtime methods will implement policies that optimize
+              computational efficiency on a broad range of large data set analyses, taking
+              into account the spatial structure and partitioning of the data and the
+              computation to be performed. Incorporating these routines into the
+              investigator's Active Data Repository will substantially generalize and improve
+              that system. The language extensions and compiler optimizations will then make
+              use of the runtime system to enable applications that analyze multi-dimensional
+              data sets to be expressed at an abstract level, yet achieve high utilization of
+              computational, storage, and communication resources.
+

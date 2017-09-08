@@ -1,0 +1,47 @@
+Title       : Earth Science Database Access System for Networked Computers
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 25,  1991      
+File        : a9013126
+
+Award Number: 9013126
+Award Instr.: Standard Grant                               
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1991     
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $65000              (Estimated)
+Investigator: William H. Menke menke@ldeo.columbia.edu  (Principal Investigator current)
+              David W. Simpson  (Co-Principal Investigator current)
+              Jeffrey K. Weissel  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 6855,
+Abstract    :
+              The Lamont-Doherty Geological Observatory has developed a data                 
+              access method and associated software environment for sharing                  
+              parametric geographical data over a wide-area network.  Data are               
+              distributed in the form of 'views', virtual flat tables built                  
+              from the contents of the database. The heart of this system is a               
+              architecture-independent protocol for communicating both the                   
+              schema and contents of views over the network.  Scientists run                 
+              software applications on their workstations that make requests to              
+              publicly accessible 'view-server' software running on the                      
+              computer hosting the database.  View-servers hide the details of               
+              the database management system from the scientists, and provide a              
+              mechanism by which diverse data stored in many different data                  
+              managements systems can be accessed in a uniform manner.  An X-                
+              Windows based geographical database browser, several data base                 
+              managers and associated view-servers, and a view-server for SQL-               
+              based relational database managers are made available (by FTP                  
+              file transfer) to non-profit educational institutions and US                   
+              Government agencies. //

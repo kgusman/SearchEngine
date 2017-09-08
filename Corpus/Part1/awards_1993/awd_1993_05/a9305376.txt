@@ -1,0 +1,47 @@
+Title       : Connectionless Service in ATM Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 5,  1998   
+File        : a9305376
+
+Award Number: 9305376
+Award Instr.: Continuing grant                             
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1993 
+Expires     : November 30,  1998   (Estimated)
+Expected
+Total Amt.  : $359754             (Estimated)
+Investigator: Mario Gerla gerla@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              9305376  Gerla       This project involves the problem of supporting
+              connectionless  service in an ATM network.  The urgency of this problem stems
+              from  the need to interconnect LANs and MANs (typically, operated in a 
+              connectionless mode) to the connection oriented ATM.  The problem  is quite
+              challenging because the ATM network requires that users  set up connections and
+              declare in advance the expected traffic on  each connection.  The network then
+              uses this information to  allocate bandwidth to individual users. 
+              Connectionless sources, on  the other hand, are by their nature unpredictable,
+              thus eluding  the ATM bandwidth allocation strategy, and potentially
+              compromising  network efficiency.   In this project, a scheme - the 
+              Connectionless Server (CLS) overlay network - is investigated. This  scheme
+              permits efficient handling of connectionless traffic in ATM.   Various design
+              options (topology connectivity, bandwidth  allocation, buffer management, etc.)
+              are examined, and performance  models and criteria for their selection are
+              developed.  The CLS  scheme will be compared with other connectionless support
+              schemes   (Bandwidth Reservation and On-the-Fly Transmission) and the 
+              respective pros  and cons will be evaluated.  Finally, a hybrid  scheme
+              combining features of al of the schemes will be examined in  an attempt to
+              combine their benefits while avoiding their pitfalls.  ***

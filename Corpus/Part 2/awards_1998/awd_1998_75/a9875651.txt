@@ -1,0 +1,110 @@
+Title       : CAREER: Investigation of Error Recovery Techniques for Interactive Video
+               Transmission over Wireless Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 16,  1999    
+File        : a9875651
+
+Award Number: 9875651
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1999      
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $294075             (Estimated)
+Investigator: Injong Rhee rhee@csc.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,4097,9218,HPCC,
+Abstract    :
+              Wireless networks provide treacherous environments for digital communication.
+              They are bandwidth-limited and error-prone.  Their characteristics are
+              unpredictable and time-varying.  Transmitting interactive video over wireless
+              mobile networks is even more challenging because of the bandwidth-hungry nature
+              of video and the susceptibility of compressed video to data losses.  Frequent
+              data losses introduce an error (i.e., distortion) into displayed images which
+              propagates to following images. The propagation is due to the
+              temporal
+dependency of encoded video frames to their previously decoded
+              images.  The timing-varying nature of the networks further aggravates the
+              problem as network characteristics (e.g., available bandwidth, latency,
+and
+              loss rates) may undergo rapid and dramatic variations.
+
+In this proposal, the
+              project director proposes to study a new class of error recovery techniques
+              that focuses on eliminating error propagation.  Prior work has mainly taken an
+              approach that prevents display errors from occurring from the first place. 
+              This existing approach is not effective for wireless interactive video
+              transmission because data losses inevitably occur in wireless communication,
+              and repairing them tends to introduce the delays in video playout.  The 
+              approach is to isolate errors when they occur by preventing them from
+              propagating. The delays in repairing data losses affect only the duration of
+              error propagation.  The project  calls the approach,  Recovery from Error
+              Spread using Continuous Updates (RESCU).  RESCU does not introduce any delay in
+              video playout, and has potential to achieve good error resilience.  A similar
+              approach is
+adopted in several recovery techniques stipulated in H.263+, an
+              International Telecommunication Union (ITU) low-bit rate standard.  However,
+              they are limited in that they require feedback channels and
+are not suitable
+              for multicast.  The proposed techniques, in contrast, have potential to work
+              well with or without feedback channels, and to be scalable for multicast. 
+              Encouraging preliminary results indicate that such potential is highly
+              realizable.
+
+The research plan centers on making RESCU highly adaptive to
+              timing-varying environments, and on evaluating its utility for interactive
+              video transmission over wireless mobile networks.  Four four major research
+              components have been identified which comprehensively cover research issues
+              arising from developing highly adaptive robust transmission and coding
+              techniques.
+
+* Adaptable video codecs.The first plan is to design adaptable
+              coding  schemes incorporating RESCU. The schemes are combined with
+              transport-level recovery techniques to produce powerful recovery mechanisms
+              which overcome the shortcomings of previous approaches.
+
+* Adaptation. Given
+              adaptable RESCU schemes with adjustable coding parameters, the research will 
+              tackle the problem of determining the values of these parameters appropriate
+              for the maximum robustness under given network conditions.  The approach is to
+              apply rigorous Markovian modeling and analysis of the impact of these
+              parameters to the final image quality and resource utilization.
+
+*
+              Transport-level services.  Adaptable RESCU techniques require several
+              transport-level functions: (1) accurate report on the current  traffic
+              characteristics; (2) efficient deadline-driven automatic repeat request (ARQ)
+              techniques;  and (3) flow and congestion control for robust interactive video
+              communication.  Ttechniques will be investigated to support these functions in
+              the transport layer.
+
+* Multicast support. Finally, the project will study
+              the issues  of robust video multicast including scalability for many receivers,
+              receiver-driven control of adaptability, and fairness among heterogeneous
+              receivers.
+
+Education plan:
+The primary objective in education is to create
+              a new generation of computer scientists who can accelerate the deployment of
+              video technology into homes and workplaces. To realize the goal, the following
+              activities are planned: (1) using videoconferencing as a primary means for
+              instruction; (2) participating in multi-university initiative for deploying
+              video technology in campus for instructional purpose;
+(3) extending
+              opportunities for women, under-represented minorities, and undergraduate in
+              research; and
+(4) developing a series of course dealing with video technology,
+              multimedia, computer networking, and
+distributed systems.
+
+

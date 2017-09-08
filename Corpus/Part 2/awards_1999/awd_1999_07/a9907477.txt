@@ -1,0 +1,49 @@
+Title       : Efficient Indexing for Spatiotemporal Applications
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 5,  2001       
+File        : a9907477
+
+Award Number: 9907477
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $436804             (Estimated)
+Investigator: Vassilis J. Tsotras tsotras@cs.ucr.edu  (Principal Investigator current)
+              Dimitrios Gunopulos  (Co-Principal Investigator current)
+Sponsor     : U of Cal Riverside
+	      Office of Research Affairs
+	      Riverside, CA  925210217    909/787-5535
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              Indexing spatiotemporal data is an important problem for many applications
+              (global change, transportation, social and multimedia applications). The goal
+              of this project is to provide efficient access methods for data whose geometry
+              changes over time. Two time-varying spatial attributes are considered, the
+              object position and extent. Based on the rate by which these spatial attributes
+              change, the discrete and continuous spatiotemporal environments are identified.
+              In the discrete environment, spatiotemporal data changes in discrete steps.
+              Efficient ways to answer historical queries on any past state of such
+              spatiotemporal data are examined. In particular, selection, neighbor,
+              aggregate, join and similarity queries are addressed using a "partial
+              persistence" methodology. In the continuous spatiotemporal environment, data
+              changes continuously. Instead of keeping the data position/extent at discrete
+              times (which would result in enormous update/storage requirements) the
+              functions by which this data changes are stored. This introduces the novel
+              problem of indexing functions. Using this approach, selection, neighbor and
+              aggregation queries about future locations of moving objects in one and two
+              dimensions are addressed. The methods used in this project are expected to
+              achieve at least 30% improvement over traditional access methods. The
+              applicability of the completed work reaches multiple settings, including
+              Geographic Information Systems, multimedia databases and transportation
+              systems. Dissemination of project findings is provided through the project's
+              web page: http://www.cs.ucr.edu/~tsotras/spatio-temporal.html. 

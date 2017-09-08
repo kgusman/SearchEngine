@@ -1,0 +1,105 @@
+Title       : Reduced-Dimension Decision Feedback Equalizers for High-Speed Wireless Digital
+               Communications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 2,  2002        
+File        : a0118842
+
+Award Number: 0118842
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $298154             (Estimated)
+Investigator: Michael D. Zoltowski mikedz@ecn.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              ABSTRACT
+
+The primary problem addressed is the deleterious effect of
+              dynamic
+multipath propagation on high-speed wireless digital communications
+              
+supporting real-time video and multimedia applications.  Digital TV (DTV)
+              
+is a target application along with Fourth Generation Cellular Communication
+              
+Systems.  Reflections off buildings and other structures cause ghosts 
+and
+              other artifacts in the reconstructed video stream.  These multipath 
+effects
+              can wreak havoc on all functions of the receiver causing
+loss of
+              synchronization and loss of carrier/timing recovery as well
+as inter-symbol
+              interference. Discrete ghosts are often associated with 
+multipath conditions
+              of large, flat surfaces, such as tall steel buildings. 
+However, multipath
+              conditions can occur in areas with hills and dense foliage
+where a signal can
+              travel through many paths to the receiver. When the signal
+is bounced back
+              from a moving object, complex ghosts can arise with a 
+time-varying nature
+              that is very challenging for the equalizer to overcome.
+To accommodate delay
+              spreads of up to 40 microseconds, current generation 
+Digital TV receiver
+              chips employ a Decision Feedback Equalizer (DFE) with 
+more than 100
+              Feed-Forward taps and more than 400 Feed-Back taps.  This 
+constitutes a large
+              number of taps to adapt implying slow convergence and 
+high computational
+              complexity.  Future high-speed wireless multimedia 
+applications will place
+              even more stressful demands on equalizer performance. 
+
+The investigator will
+              develop fundamental advances in the area of
+reduced-dimension Decision
+              Feedback Equalizers (DFE's).
+These include methods for dimensionality
+              reduction based on a
+powerful reduced-rank adaptive filtering algorithm
+              referred to 
+as the Multi-Stage Nested Wiener Filter (MSNWF).  The MSNWF
+              provides
+convergence speeds better than the Recursive Least Squares (RLS)
+              algorithm,
+but at a much reduced computational complexity due to the fact that
+              
+that the MSNWF constrains the overall weight vector to lie 
+in a
+              data-adaptive, low-dimensional subspace.
+The MSNWF has been successfully
+              employed to effect a reduced-rank, 
+linear equalizer for applications in Third
+              Generation Cellular Communications
+based on both CDMA Technology and the
+              European GSM EDGE System.  The
+investigator will also develop other means for
+              dimensionality
+reduction including the use of the channel shortening concept
+              employed in 
+OFDM systems to reduce the length of the cyclic prefix, and
+              symbol waveform 
+compression achieved through simple linear filtering at the
+              receiver.
+In addition, the investigator will study the use of
+              reduced-dimension DFE's
+for equalization when block space-time coding is
+              employed under frequency 
+selective multipath conditions.

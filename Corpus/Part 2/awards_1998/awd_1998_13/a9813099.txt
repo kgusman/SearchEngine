@@ -1,0 +1,50 @@
+Title       : Model Predictive Control for Nonlinear Mechanical Systems
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : June 19,  2002      
+File        : a9813099
+
+Award Number: 9813099
+Award Instr.: Standard Grant                               
+Prgm Manager: Alison Flatau                           
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $297334             (Estimated)
+Investigator: John T. Wen wen@cat.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 1632      DYNAMIC SYSTEMS AND CONTROL
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9218,HPCC,
+Abstract    :
+              9813099  Wen  This research project deals with the development of path  planning
+              methods using a feedback controller for a variety  of fully and under-actuated
+              mechanical systems, including  robots and spacecrafts.  The proposed scheme can
+              guarantee  the closed-loop asymptotic stability when information is  imperfect.
+              Furthermore, by using interior penalty functions,  inequality constraints can
+              also be handled by the algorithm.  This type of feedback control law can be
+              considered as a  special class of model predictive control (MPC), since the 
+              control action at each time instance is determined based on  the future
+              trajectory.  However, in contrast with the  standard MPC schemes where an
+              optimization problem needs to  be solved at each control time interval, only
+              one Newton  step needs to be computed involving a fixed amount of  computation.
+               The efficacy of this algorithm has been  demonstrated on a number of difficult
+              examples, including  the kinematic control of wheeled vehicles, stabilization
+              of  underactuated 6-DOF satellites, and stabilization of  underactuated
+              manipulators. The key research thrusts in the  proposed research include:
+              i)develop parameter selection  rule in the algorithm that will grarantee closed
+              loop  stability; ii) quantify the stability robustness margin when  the vector
+              field is perturbed due to model imperfection and  external disturbances;
+              iii)enhance robustness through  parameter adaptation; iv)utilize null space in
+              the gradient  operator for singularity avoidance and constraint handling; 
+              v)develop stategies for choosing the approximation basis in  control
+              computation and analyze the effect of approximation  on convergences, and vi)
+              apply to a number of experiments  involving nonlinear mechanical systems.   
+              ***

@@ -1,0 +1,47 @@
+Title       : PYI: Coping with High Memory Latency in Scalable Multi- processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 22,  1994    
+File        : a9057558
+
+Award Number: 9057558
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1990 
+Expires     : December 31,  1995   (Estimated)
+Expected
+Total Amt.  : $187500             (Estimated)
+Investigator: Anoop Gupta   (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2870,9215,9218,9227,HPCC,
+Abstract    :
+              As shared-memory multiprocessors are scaled to a large number of               
+              nodes, coping with the large latency for memory references becomes a           
+              major challenge.  In general, there are two complementary approaches           
+              for managing latency: (i) methods that reduce latency for accesses,            
+              and (ii) mechanisms that help tolerate large latencies.  While both            
+              approaches are important for general-purpose parallel architectures,           
+              it is preferable to first reduce the latency for accesses before               
+              trying to tolerate the latency.  This is because techniques which              
+              depend on tolerating latency demand a much larger degree of                    
+              parallelism in order to successfully overlap communication and                 
+              computation.                                                                   
+                                                                                             
+              This project explores and evaluates novel techniques to deal with the          
+              latency problem.  The research will be done in the context of DASH             
+              (Directory Architecture for Shared Memory), a scalable shared-memory           
+              multiprocessor currently being built at Stanford.  The two major               
+              topics investigated are: (i) the use of weak memory consistency models         
+              to help reduce the latency for write operations, and (ii) the use of           
+              prefetching techniques to hide latency for both read and write                 
+              operations.

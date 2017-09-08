@@ -1,0 +1,54 @@
+Title       : Mathematical Sciences: Preconditioned Parallel Methods for Large Symmetric
+               Eigenproblems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 26,  1995      
+File        : a9501507
+
+Award Number: 9501507
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1995       
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Andrew Knyazev Andrew.Knyazev@cudenver.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Denver
+	      Campus Box 129 PO Box 173364
+	      Denver, CO  802173364    303/556-4060
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,1303,9216,EGCH,HPCC,OTHR,
+Abstract    :
+              9501507  Knyazev    This project will study preconditioned iterative methods for
+               computing   several extreme eigenpairs of generalized eigenvalue problems, 
+              with very   large symmetric matrices.  Such problems are of major importance 
+              in many   grand challenge scientific and engineering applications:  structural
+              dynamics   and buckling, ocean modeling, quantum chemistry, and   
+              magnetohydrodynamics. They arise typically from the  discretization of  
+              continuous models, described by systems of partial differential  equations.  
+              Matrices may be so large that the standard numerical methods  become  
+              unsatisfactory and cannot be implemented even on the most  powerful   modern
+              supercomputers as they are too slow or require too much  memory.   
+              Preconditioned iterative methods were specially designed for  problems of  
+              that kind and now they are well understood for solving large  ill-conditioned  
+              linear algebraic systems of equations. For eigenproblems the  theory is still  
+              poor, and these methods are rarely used. Ideally, the methods  would   compute
+              well-separated clusters of eigenvalues and corresponding   eigenspaces at the
+              same order of computational cost as that for  solution of   the corresponding
+              linear algebraic system. Such processes can be  effective   and 
+              parallelizable. Domain decomposition and iterative  substructuring   methods
+              are  particularly promising.    The ultimate goal of the research is to develop
+              a complete theory  of the   preconditioned methods now known for symmetric
+              eigenproblems and  to   find new fast, accurate, and robust iterative methods.
+              This would  provide a   basis for the development of advanced software and
+              algorithms on  high   performance parallel computing systems. It is expected
+              that a  research   monograph on preconditioned iterative methods for large
+              symmetric    eigenvalue problems will be prepared to summarize the results of 
+              the   project.

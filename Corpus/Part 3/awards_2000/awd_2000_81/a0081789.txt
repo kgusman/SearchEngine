@@ -1,0 +1,55 @@
+Title       : ITR: Stochastic Summation of High-Order Feynman Graph Expansions
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : November 8,  2002   
+File        : a0081789
+
+Award Number: 0081789
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $486772             (Estimated)
+Investigator: Heinz-Bernd Schuttler   (Principal Investigator current)
+              Jem N. Corcoran  (Co-Principal Investigator current)
+              David K. Lowenthal  (Co-Principal Investigator current)
+              Robert W. Robinson  (Co-Principal Investigator current)
+Sponsor     : U of Georgia Res Fdn Inc
+	      616 Boyd GSRC
+	      Athens, GA  306027411    706/542-5939
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              The study of interacting fermions is fundamentally important to a wide range of
+              physics research, including fields as diverse as electronic structure theory of
+              solids, strongly correlated electron physics, quantum chemistry, and the theory
+              of nuclear matter. Among other applications, the understanding of
+              high-temperature superconductors depends on these interactions. This project
+              will develop a new computational method for the controlled approximate solution
+              of interacting fermion models. The method combines Monte Carlo (MC) summation
+              techniques with self-consistent high-order Feynman diagram expansions. The
+              implementation of the MC diagram summation method poses major algorithmic and
+              computational challenges in several distinct areas of computational science
+              and, by its very nature, requires a multi-disciplinary
+              approach.
+
+Technically, the project will develop novel computational graph
+              theory algorithms and employ them to achieve a computationally efficient
+              representation, generation and classification of Feynman graph topologies. New
+              MC updating, scoring and variance minimization approaches will be implemented
+              to carry out the simultaneous stochastic summation over diagram topologies and
+              over internal momentum-energy variables. For the two-particle calculation, a
+              novel combination of Lanczos matrix inversion and MC techniques is used to
+              achieve efficient solutions of the Bethe-Salpeter equations with the full
+              high-order irreducible interaction vertex. The efficient parallel
+              implementation of the MC code is achieved by software pipelining and ring
+              message passing approaches. These parallel applications are supported by novel
+              parallel run-time systems that provide dynamic performance optimization.
+

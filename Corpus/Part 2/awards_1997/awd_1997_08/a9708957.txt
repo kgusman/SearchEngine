@@ -1,0 +1,49 @@
+Title       : A Smart Programming Environment for Java
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 5,  2002      
+File        : a9708957
+
+Award Number: 9708957
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $151218             (Estimated)
+Investigator: Robert S. Cartwright cork@rice.edu  (Principal Investigator current)
+              Matthias Felleisen  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              9708957  This project will focus on constructing a "smart"  programming
+              environment for Java that uses semantic analyses  to statically debug,
+              validate, and safely optimize programs.  The principal investigators have
+              already developed an early  version of such an environment for a dialect of
+              Scheme. A  safe implementation prevents the misuse of primitive program 
+              operations, such as taking the head of the empty list,  through a combination
+              of compile-time analysis, run-time  checking, and automatic storage management.
+              Safety, however,  is not a panacea: all safe languages defer checking some 
+              preconditions until run-time. When a run-time check fails,  program execution
+              is aborted. Hence, programmers try to  ensure that misapplications are
+              impossible by analyzing what  forms of data can appear as input to each
+              primitive  operation. Unfortunately, programmers are not very good at  this
+              task and frequently make mistakes. The primary goal of  the proposed smart
+              programming environment is to prove the  run-time checks required for safety
+              never fail. This  property, called "total safety,"  is a much stronger 
+              property than ordinary safety. For any interesting  programming language, total
+              safety is undecidable;  nevertheless, semantic analyses like set-based analysis
+              can  prove many of the preconditions checked at run time never  fail. Moreover,
+              for any unproven precondition, an  environment can construct program "slices"
+              identifying the  execution paths violating the precondition. Given this 
+              information, the programmer can decide if the failing paths  are feasible and,
+              if so, repair the code.  ***

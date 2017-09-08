@@ -1,0 +1,81 @@
+Title       : Light Spanners for Hard Metrical Optimization Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a0208929
+
+Award Number: 0208929
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $125712             (Estimated)
+Investigator: Michelangelo Grigni mic@mathcs.emory.edu  (Principal Investigator current)
+Sponsor     : Emory University
+	      Office of Sponsored Programs
+	      Atlanta, GA  30322    404/727-2503
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Given a metric space, that is a finite set of points with
+distances between
+              them, there are several classical
+minimization problems that are hard to solve
+              exactly.  A
+prime example is the traveling salesman problem (TSP),
+where we
+              want to find a cyclic tour visiting all the
+points with minimum total
+              distance.  These problems arise
+in a wide range of applications such as
+              manufacturing and
+communications network design.  In the worst case it
+              is
+NP-hard to solve these problems even approximately, that
+is with relative
+              error better than some constant threshold.
+
+Recent results show that these
+              problems are easier in
+metric spaces that often arise in practice.  In
+              particular
+if the distances are geometric, or if they are given by
+shortest
+              paths in a simple graph (such as a planar graph),
+then the TSP and similar
+              problems have approximation
+schemes.  These schemes run in polynomial
+              or
+quasi-polynomial time, with the exponent depending on the
+desired relative
+              error.  The main techniques include
+separators, spanners, and dynamic
+              programming. In
+particular a spanner is a subgraph of a given graph,
+              whose
+shortest path metric is a close approximation of the
+original. In
+              various graph families we can find spanners
+with a useful tradeoff between the
+              total weight and the
+relative error.
+
+This research continues the
+              development of these
+techniques, in particular seeking better
+              spanner
+constructions and possibly some useful lower bounds.  One
+goal of the
+              project is some progress on two unsolved
+variants:  the geometric case in the
+              presence of
+obstacles, and the graphical case in the presence of many
+extra
+              ``Steiner'' points.

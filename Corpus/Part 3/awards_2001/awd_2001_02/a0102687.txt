@@ -1,0 +1,52 @@
+Title       : Scalable Parallel Algorithms for Large-Scale Discrete Optimization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 15,  2002       
+File        : a0102687
+
+Award Number: 0102687
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $200363             (Estimated)
+Investigator: Theodore K. Ralphs tkr2@lehigh.edu  (Principal Investigator current)
+Sponsor     : Lehigh University
+	      Alumni Building 27
+	      Bethlehem, PA  180153005    610/758-3021
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4080,9216,HPCC,
+Abstract    :
+              This project will develop scalable algorithms for solving discrete optimization
+              problems (DOPs) in distributed-memory computing environments. DOPs arise in
+              many important applications such as planning, scheduling, logistics,
+              telecommunications, bioengineering, and robotics. Most of these problems are
+              NP-complete, but in practice, intelligent search algorithms such as Branch,
+              Cut, and Price (BCP) have been successful at tackling them. This research will
+              develop parallel algorithms based on BCP that not only can use large numbers of
+              processors efficiently, but also can handle very large problem instances. A key
+              part of these algorithms is the data structure used for maintaining the
+              information for each node in the search tree. This can be implemented with a
+              memory-efficient differencing scheme relating the parent and child nodes.
+              However, these data structures do not allow the use of current techniques for
+              implementing scalable branch and bound search algorithms. This project will
+              overcome that difficulty.
+
+The project will build on previous work in which
+              the PI developed an object-oriented, generic framework called SYMPHONY (Single-
+              or Multi-Process Optimization over Networks). Because of its modular design,
+              SYMPHONY is extremely flexible and can be used to solve a wide variety of DOPs.
+              Source code and documentation for SYMPHONY is currently distributed for free to
+              the research community. This project will develop data structures and load
+              balancing methods to decentralize SYMPHONY's current centralized control and
+              data storage model. These improvements will be added to the web-based
+              distribution to improve the impact of this project.
+
+

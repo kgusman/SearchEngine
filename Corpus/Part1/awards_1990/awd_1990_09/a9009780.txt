@@ -1,0 +1,48 @@
+Title       : Efficient Parallel I/O Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 1,  1990     
+File        : a9009780
+
+Award Number: 9009780
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : June 30,  1993       (Estimated)
+Expected
+Total Amt.  : $59971              (Estimated)
+Investigator: Poras T. Balsara poras@utdallas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              The main objective of this research is to improve the performance of           
+              I/O subsystems in parallel architectures.  I/O subsystem design is an          
+              issue which is often ignored by parallel computer designers.  With the         
+              fast advances in VLSI and multiprocessor technology the processing             
+              power and main memory speeds have been increasing at rapid rates but           
+              the I/O system has hardly seen any comparable improvements.  This              
+              disparity in performance gives rise to the I/O bottleneck in parallel          
+              architectures.  The proposed investigation focuses on issues related           
+              to the improvement of I/O subsystem performance.  Emphasis will be             
+              placed on I/O schemes for hypercube multiprocessor architectures.              
+                                                                                             
+              Efficient parallel I/O schemes for hypercube architectures are                 
+              studied.  Simulations are done mainly using some I/O bound problems,           
+              viz., external sorting, database manipulations, etc.  Parallel                 
+              algorithms are developed for such problems on the hypercube with a             
+              parallel I/O environment.  Furthermore, different disk organizations           
+              and data distribution schemes for the parallel I/O systems will also           
+              be evaluated.  The results obtained in this project will enable                
+              researchers to design database and transaction processing systems and          
+              provide insight for improving the performance of I/O subsystems on             
+              other architectures.

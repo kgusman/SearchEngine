@@ -1,0 +1,131 @@
+Title       : Real-Time Virtual Resources
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0207853
+
+Award Number: 0207853
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $282000             (Estimated)
+Investigator: Aloysius K. Mok mok@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Aloysius K. Mok
+CCR-0207853                    
+"REAL-TIME VIRTUAL
+              RESOURCES"
+
+As embedded systems become more complex, a typical embedded
+              system
+will probably involve a mix of soft and hard real-time
+              applications
+that share the same embedded run-time platform. In general,
+              an
+application may consist of one or more tasks. For example, on a
+hand-held
+              sensor-computer, a user may want to fix his own location
+with respect to a
+              target landmark and also be warned of the power
+consumption status of the
+              sensor-computer. While the power consumption
+warning task may have very loose
+              timing constraints, the location
+fixing task has fairly stringent timing and
+              other QOS (quality of
+service) requirements. Ideally, an application developer
+              should be
+able to write his application program as if it were running on
+              a
+dedicated computer and not have to worry about interference from
+other
+              applications. This illusion can be maintained if global
+knowledge of the QOS
+              requirements of all the applications is
+accessible to the operating system
+              scheduler, so that a global
+schedulability analysis can be performed to ensure
+              that every task
+meets its QOS requirements. However, this is not possible in
+              the
+environment of "open systems" where the operating system may not
+know
+              about the timing requirements of all the application tasks,
+as is the case
+              with most commercial embedded and real-time kernels.
+
+A simplistic solution
+              is to assign a higher priority to timing-
+critical applications and let the
+              non-real-time applications run
+only when the timing-critical ones are
+              finished. This approach is
+viable only for the simplest embedded systems where
+              there is only
+one real-time task and there is no interaction among the
+              real-time
+and the non-real-time tasks. If all the applications are to
+              various
+degrees timing-critical (hard or soft), then the distinction
+              between
+real-time and non-real-time applications becomes blurry. In
+              the
+sensor-computer example, if the power consumption warning task
+              is
+assigned a low priority because of its laxer timing constraint, then
+it is
+              possible that power may run out while the high-priority location
+fixing task
+              is monopolizing the CPU. This may in turn cause a sensor
+reset that may affect
+              the validity of the location fixing result.
+
+The goal of this project is to
+              enable the design of robust embedded
+real-time systems that must function in
+              an open systems environment.
+The innovation we are investigating is an elegant
+              software abstraction
+called RTVR (real-time virtual resource). This
+              abstraction allows
+application programmers to design embedded real-time
+              systems as if
+each application had exclusive access to a set of dedicated
+              physical
+resources which provide service at a roughly constant rate. The
+              key
+to the RTVR concept is that of a "delay bound" parameter on the rate
+of
+              service provision. The delay bound specification enables a
+programmer to
+              specify the jitter allowance of his/her application.
+As a result, we can
+              simplify the verification of the timing correctness
+of individual applications
+              as if there is no timing interference
+among application tasks. The RTVT
+              concept also simplifies the issue
+of guaranteeing the timing/QOS requirements
+              of a mixture of hard
+and soft real-time applications. To realize this
+              abstraction, we
+must make major advances in both theory and engineering in
+              operating
+system design and real-time scheduling theory. Of particular
+              interest
+to this project are the issues of partition composition and
+              the
+hierarchical decomposition of multiple real-time virtual resources.

@@ -1,0 +1,46 @@
+Title       : Refined Languages: Sequential Languages for Parallel Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 2,  1995      
+File        : a9003076
+
+Award Number: 9003076
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1991    
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $194234             (Estimated)
+Investigator: Aaron D. Klappholz aklappho@stevens-tech.edu  (Principal Investigator current)
+Sponsor     : Stevens Inst of Technology
+	      Castle Point on Hudson
+	      Hoboken, NJ  07030    201/216-5000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,
+Abstract    :
+                   Refined Languages (Refined Fortran, Refined C, etc.) are                  
+              extensions of their parent languages in which it is possible to                
+              express parallelism, but impossible to create races.  Where strictly           
+              deterministic behavior is desired, multiple executions of a Refined            
+              Fortran program with the same input data can be guaranteed to either           
+              compute the same results or terminate with the same run-time errors            
+              regardless of differences in scheduling.  Where asynchronous behavior          
+              is desired, freedom from races can be guaranteed.  The Refined                 
+              Languages approach achieves its goal by extending sequential                   
+              imperative programming languages with data- (rather than control-)             
+              oriented terms.                                                                
+                   Specification of Refined ANSI Fortran `77, and construction of an         
+              interprocedural Fortran `77 code analysis tool are complete.  This             
+              award is to modify the specification to Fortran `8X, extend the                
+              analysis tool into a Refined Fortran `8X compiler, and exploit the             
+              special features of Refined Languages to construct a Refined Fortran           
+              `8X symbolic debugger.  Formal study of the comparative expressive             
+              powers of control-oriented parallel imperative languages and data-             
+              oriented parallel imperative languages will ensue.

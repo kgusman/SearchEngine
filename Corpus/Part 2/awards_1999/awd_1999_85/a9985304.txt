@@ -1,0 +1,55 @@
+Title       : CAREER: Compiler Aided Resource Management for Clusters
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 21,  2003   
+File        : a9985304
+
+Award Number: 9985304
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  2000     
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $328746             (Estimated)
+Investigator: Arvind Krishnamurthy arvind@cs.yale.edu  (Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Both researchers in high performance parallel computing and vendors of scalable
+              server systems are actively studying the performance of hierarchical computer
+              systems. There is now a consensus that the structure of the various software
+              and hardware layers of a system (e.g. machine architecture, operating system,
+              compilers, and user programs) has a great impact on the overall performance.
+              Traditionally, systems have supported resource management at low levels of the
+              hierarchy to allow better use of machinespecific features. More recently,
+              higher-level libraries and application-specific operating systems have taken
+              more of this responsibility so that they can use program behavior to determine
+              resource use. Both approaches have disadvantages - the former is too
+              application-independent, while the latter requires too many
+              application-specific modules. This project avoids these problems by using
+              compile-time information, program transformations, and smart runtime systems to
+              efficiently use system resources. To do this, the compiler will rely on
+              developments in Java mobile code, which will avoid pitfalls that have trapped
+              previous research projects in this area.
+
+The compiler that this project
+              produces will analyze program-level behavior, generate program-specific system
+              management code, and choose appropriate management policies automatically. It
+              will make three important contributions: new compiler algorithms to analyze and
+              optimize a program's utilization of system resources, precise models of network
+              and storage devices to aid in resource management, and "wide" interfaces to
+              system layers to enable management policies to be chosen by the compiler or
+              runtime system. The project will integrate this research understanding with
+              education by incorporating a wide variety of state-of-the-art tools into
+              coursework. These tools will enable the students to better understand the
+              tradeoffs between static and dynamic approaches to computing.
+

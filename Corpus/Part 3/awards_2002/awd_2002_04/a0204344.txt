@@ -1,0 +1,64 @@
+Title       : High-Performance Synchronization for User-Level Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 8,  2002      
+File        : a0204344
+
+Award Number: 0204344
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2002       
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $252638             (Estimated)
+Investigator: Michael L. Scott scott@cs.rochester.edu  (Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Multiprocessor systems use synchronization primitives to coordinate
+              the
+activities of multiple threads of control.  Spin locks in particular
+              are
+widely used in multiprocessor operating systems and in
+              scientific
+appliactions.  With the proliferation of multiprocessor servers,
+              these
+locks have come to be widely used in commercial applications as
+              well.
+The multiprogrammed nature of server workloads, however, requires
+              that
+threads be able to "time out" and abandon an attempt to acquire a
+              lock.
+Timeout is easy on small machines, which can use
+              traditional
+"test-and-set" spin locks, but these locks do not scale to
+              large
+machines.  The principal alternative--scheduler-based locks such
+              as
+those provided by Java--has also proven to be prohibitively
+              expensive.
+
+The proposed research aims to address the cost of
+              user-level
+synchronization in multiprocessor servers by means of two
+              principal
+techniques: (1) the incorporation of timeout in scalable
+              queue-based
+locks, and (2) the development of practical mechanisms for
+              the
+construction of lock-free data structures.  These techniques will
+              be
+evaluated with respect to each other and to existing techniques, and
+will
+              be incorporated into threaded run-time systems such as the Java
+Virtual
+              Machine.

@@ -1,0 +1,76 @@
+Title       : CAREER: High Performance Packet Switches
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 16,  1999 
+File        : a9875637
+
+Award Number: 9875637
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Nick McKeown nickm@ee.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              The Internet is facing two problems simultaneously: there is a need for faster
+              switching/routing
+capacity to carry the continued growth of user data, and
+              there is a need to introduce guaranteed
+qualities of service (QoS) for
+              real-time traffic.  Each problem can be solved independently - the fastest
+              single-stage switches and routers can be made using input-queued crossbar
+              switches, instead of shared memory systems limited by memory bandwidth.  And
+              QoS can be provided using numerous well-known techniques, such as weighted fair
+              queueing (WFQ).  However, until now, these two solutions have been mutually
+              exclusive; all of the work on algorithms that provide QoS has required that
+              switches and routers use shared memory or output queueing.
+The Next Generation
+              Internet (NGI) will require hugely increased capacity, and distinguished and
+              guaranteed qualities of service.  Building on previous research on high
+              performance switches and routers, the proposed work will follow three avenues
+              in an attempt to solve the problem of simultaneously increasing network
+              capacity and providing QoS:
+1. Switch Speedup.  Using a new technique called
+              "precise emulation via speedup", cross-bar switches can be built that precisely
+              emulate output queued and centralized shared memory switches, yet use memories
+              that run at only twice the speed of the external line.  This promising
+              technique enables switches and routers to provide guaranteed QoS at speeds much
+              higher than before.  In this work, new practical algorithms will be developed,
+              studied and prototyped with the goal of making this technique available to the
+              industry at large,
+2. The Fork-Join Router.  This is a new highly parallel
+              architecture for single-stage IP routers with aggregate capacities in excess of
+              1Tb/s.  Using multiple forms of parallelism simultaneously, different parts of
+              the system may operate at different speeds, allowing a particular
+              implementation to make best use of the available switching, and forwarding
+              technology.  The router is highly fault-tolerant, degrading gracefully when
+              sub-systems fail.  Perhaps most importantly, the fork-join router can use the
+              "speedup" technique for Terabit routers that provide precise QoS
+              guarantees.
+3. The Streaming Processor.  Network switches and routers require
+              fast processing elements that process data as it "streams through."  Streaming
+              data is not processed well by traditional heavily-pipelined load-store RISC
+              CPUs.  There is a need for a processor architecture optimized for streaming
+              data, in which the CPU is part of a larger system pipeline, and in which data
+              with spatial, but not temporal, locality can be processed at very high speed. 
+              Such a device would enable faster forwarding decisions in routers,
+              perform
+faster scheduling algorithms to provide QoS, and perform fast
+              transcoding of net-work data.
+An important goal is to see the research used by
+              industry and in the NGI.  Therefore, a goal of
+the proposed research is to
+              transfer the technology to the builders of "carrier-class" switching and
+              routing equipment, and to encourage rapid adoption.

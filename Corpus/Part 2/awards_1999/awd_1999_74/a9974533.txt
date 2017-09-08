@@ -1,0 +1,97 @@
+Title       : Improved Discretization Methods for Modeling Wavefront Conduction in Nonuniform
+               Cardiac Tissue
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : September 13,  1999 
+File        : a9974533
+
+Award Number: 9974533
+Award Instr.: Standard Grant                               
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $313553             (Estimated)
+Investigator: Craig S. Henriquez ch@acpub.duke.edu  (Principal Investigator current)
+              Donald J. Rose  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 
+Program Ref : 9183,9218,9263,BIOT,HPCC,
+Abstract    :
+              Investigations into the relative roles of tissue structure and
+              membrane
+Excitability recovery on creating conditions for arrhythmias in the
+              heart have proven to
+be extremely challenging.  Computer models of wavefront
+              propagation have been
+important to the inquiry by allowing effects to be
+              isolated and by providing access to
+some of the parameters that cannot be
+              monitored or controlled in a given experimental
+setup. Due to limitations in
+              the traditionally employed numerical methods, however,
+these computer models
+              have either ignored or greatly simplified the effects of structural
+and
+              geometrical non-uniformities on the activation process. Consequently,
+              most
+mechanisms for arrhythmogenesis derived from them are generally based on
+              the
+effects of non-uniformities of membrane properties in tissue with assumed
+              uniform
+material properties. For macroscopic models of the heart to have
+              greater predictive
+ability they must be able to incorporate the effects of
+              diseased-induced tissue structure
+inhomogeneities on conduction and potential
+              timecourses.  The objectives of this 
+proposal are to develop improved
+              discretization schemes for robustly modeling
+conduction in regions with
+              spatially varying material and membrane properties. These
+objectives will be
+              accomplished by creating a unified meltherhatical and computational
+framework
+              for simulation that will allow different numerical methods to be
+              directly
+compared. The simulation system, BIDOSIM, will use a module-based
+              paradigm from
+which a single "sun-time environment" can be created.  This
+              approach will allow any advances made in any one component to lead directly to
+              an advancement of the whole
+program.  This modularity will thus enable
+              developers from different disciplines to focus
+on their own area of expertise
+              (i.e model description, numerical integration methods,
+parallelization)
+              without needing to simultaneously work on the other areas.  BIDOSIM
+will be
+              used to evaluate the use of structured and unstructured finite volume
+              methods,
+that involve quadrilateral and triangular grids, to discretize the
+              computational domains
+of interest. The speed, accuracy and ability of both
+              types of methods will be examined
+using explicit and implicit time stepping
+              algorithms.  To ensure that the spatial
+discretization methods are able to
+              accommodate any advances in the dynamical models of the ion fluxes across the
+              membrane state-of-the-art kinetic models, such as the Lucfludy II ventricular
+              and Nygren atrial models, will be evaluated over a range of physiological
+              conditions.  Finally, strategies for using spatially adaptive gridding in
+              regions with abrupt changes in tissue properties, such as those expected in
+              diseased myocardium, will be developed.  Such adaptation will allow
+              significantly fewer grid points and enable the ability to distinguish better
+              artifact from true behavior.  The development of the overall software package
+              will be enhanced through feedback from an outside group of users and
+              dissemination will be facilitated through partnerships with two national
+              centers, NCSA and the Center for Bioelectric Field Simulation.
+

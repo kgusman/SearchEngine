@@ -1,0 +1,50 @@
+Title       : Data Driven Communication and Synchronization in Non-Uniform Bandwidth Computing
+               Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 12,  2000 
+File        : a9988339
+
+Award Number: 9988339
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $123383             (Estimated)
+Investigator: Susanne E. Hambrusch   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project proposes to develop efficient network- and application-aware
+              data-driven communication and synchronization primitives for geographically
+              distributed computing clusters connected over dynamically configured
+              non-uniform bandwidth links.  Synchronization and communication primitives are
+              the backbone of any non trivial parallel computation and performance in cluster
+              systems crucially depends on the efficiency of such primitives.  The goal is to
+              effectively incorporate diverse and dynamically varying network characteristics
+              into the proposed solutions while taking advantage of the application
+              characteristics.  The solutions will be based on methods that detect and limit
+              avoidable congestion and hotspots.  The techniques employed will include
+              collecting global information, sampling, and randomization.  Examples of
+              synchronization primitives to be investigated include barrier, eureka, and
+              termination synchronizations for different application-motivated models. 
+              Data-driven communication primitives include data-dependent forms of
+              many-to-many broadcast, multicast, and many-to-many transport operations.  The
+              experimental aspects of the proposed research will be carried out on a
+              collection of high performance computing clusters and platforms spread across
+              Purdue University, University of Illinois at Chicago, and NSF/DOD sponsored HPC
+              centers, interconnected via different bandwidth links in the Internet. 
+              Data-intensive applications such as data mining/warehousing and multimedia will
+              be used as a vehicle to study data-driven synchronization and communication
+              issues.  The proposed work will facilitate the design of such parallel
+              applications on cluster systems.

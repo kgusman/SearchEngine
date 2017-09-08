@@ -1,0 +1,88 @@
+Title       : Mathematical Sciences: Numerics for Dynamics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 16,  1997      
+File        : a9505116
+
+Award Number: 9505116
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1995     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $67903              (Estimated)
+Investigator: Konstantin M. Mischaikow mischaik@math.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Mischaikow       Most numerical methods for studying ordinary differential 
+              equations are based on one of the following two ideas: (1)  tracking individual
+              trajectories via an approximation of the  differential equation, or (2)
+              searching for orbits with  predetermined properties, e.g. a periodic orbit or
+              an invariant  torus, by solving an associated boundary value problem.  While 
+              these techniques are obviously successful, they have shortcomings;  one can
+              only approximate orbits over finite time intervals and  these methods have
+              difficulty detecting orbits which are unstable  in the sense of dynamics. 
+              These unstable orbits can be extremely  important since they define the
+              boundaries of basins of  attraction, and hence, determine the global dynamics
+              of the  system.  In addition, there are many problems where the objects of 
+              interest are precisely the unstable bounded orbits, e.g. traveling  waves.  In
+              the second case, one needs to know a priori what types  of solutions should be
+              looked for and in what regions of phase  space one should look for the
+              solutions.  The investigator develops  complimentary methods for studying the
+              global dynamics of ordinary  differential equations.  The theoretical basis for
+              the project is  Conley's theory of dynamical systems.  The work is separated
+              into  four tasks. (1) Given as an input an ordinary differential  equation and
+              a region in phase space, develop efficient numerical  schemes to determine
+              isolating neighborhoods and compute their  Conley indices. (2) Given a
+              potential isolating neighborhood,  develop more efficient mechanisms for
+              obtaining computer assisted  proofs to verify that the neighborhood is an
+              isolating  neighborhood and to rigorously compute the Conley index of the 
+              associated isolated invariant set. (3) Extend the abstract Conley  index
+              theory, which allows one to draw conclusions concerning the  structure of the
+              dynamics from knowledge of the index and the  isolating neighborhood. (4) Apply
+              these techniques to ordinary  differential equations  for which the global
+              dynamics is poorly  understood.  It should be emphasized that the end goal of
+              these  four steps is to obtain a rough understanding of the global  dynamics of
+              the ordinary differential equation.  In particular,  these procedures provide
+              information about both the type and  structure of dynamics that occur, and the
+              region of phase space in  which these dynamics take place.  A finer
+              understanding of these  dynamics can then be more efficiently investigated
+              using the more  classical methods mentioned at the beginning.       It is clear
+              that most phenomena, whether physical, chemical  or biological in nature, need
+              to be described by nonlinear models.  Thus, to describe the dynamics of these
+              phenomena one is required  to solve problems in global analysis.  In practice,
+              this usually  requires numerical computations, since our theoretical analytic 
+              techniques are not yet adequate.  With the advent of high  performance
+              computing considerable progress has been made in  understanding the behavior of
+              a wide variety of nonlinear  dynamical systems.  However, there are many
+              drawbacks to most  current numerical and computational techniques at our
+              disposal.  This project is aimed at two of them.  The first arises from the 
+              fact that the classical numerical techniques often provide bad  approximations
+              over long time intervals (i.e. they are unreliable  for long range predictions)
+              and also they have difficulty  detecting unstable dynamic structures (these
+              unstable structures  determine the path by which the object being modelled
+              reaches its  asymptotic state).  The second problem involves difficulty in 
+              understanding the tremendous amounts of numerical data which the  computers are
+              capable of generating.  Typically this problem is  overcome by graphically
+              displaying the data.  Unfortunately, most  models involve more than three
+              variables, and hence visualizing  the numerical results becomes a difficult
+              task.  This project  develops theoretical techniques and efficient numerical
+              methods  for  describing the global dynamics arising from nonlinear ordinary 
+              differential equations, and then applies these techniques to a  wide range of
+              biological and physical problems.  The theoretical  aspect involves translating
+              algebraic information into dynamics  and the numerical side involves computing
+              these algebraic  invariants by approximating the differential equations.  The 
+              algebraic information works equally well for stable or unstable  dynamics and,
+              of course, being algebraic, does not need to be  visualized in order to be
+              understood.

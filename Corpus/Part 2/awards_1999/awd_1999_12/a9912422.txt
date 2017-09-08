@@ -1,0 +1,76 @@
+Title       : The Design, Analysis and Application of Approximation Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 13,  2000      
+File        : a9912422
+
+Award Number: 9912422
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $270805             (Estimated)
+Investigator: David B. Shmoys shmoys@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal-9912422
+PI:  David Shmoys
+
+Most combinatorial optimization problems
+              that arise in applications from scheduling, logistics, and network design, for
+              example, are NP-hard, and hence unlikely to have a polynomial-time algorithm
+              that finds an optimal solution. This project is focused on the study of
+              approximation algorithms for these problems, where the aim is to design
+              effective algorithms that are guaranteed to produce near-optimal solutions, and
+              typically produce solutions of extremely high quality.
+This project aims to
+              further develop the three major techniques that have emerged as consistently
+              producing superior results: rounding techniques based on mathematical
+              programming relaxations, primal-dual methods, and local search methods.
+              Although there has been significant progress, there are many problems for which
+              the current state of knowledge is not sufficient. This project is devoted to
+              the investigation of several problems in this area.
+The primary focus of this
+              work is to investigate algorithms that produce solutions guaranteed to be
+              nearly-optimal by relying on information contained in the optimal solution to a
+              linear programming relaxation.  One consequence of such results would be to
+              provide a theoretical justification for the strength of the bounds given by
+              these linear programming relaxations.  By giving algorithms for which one can
+              prove that the solution found has value relatively close to the LP bound, one
+              also shows that relative error of the solution (compared to the integer
+              optimum) is also small.  Furthermore, past experience has shown that the
+              insight needed to devise algorithms with such performance guarantees can also
+              lead to algorithms with superior empirical performance.
+This work focuses on
+              several specific areas to attempt to design approximation algorithms with good
+              performance guarantees and good practical performance. 
+Facility location,
+              clustering problems, and scheduling problems arise in a number of application
+              settings, including computational biology and project resource management, and
+              this project considers a number of basic models, with the aim of developing
+              algorithmic techniques that are not particularly application specific.
+For
+              several basic problems including the k-median problem, the uncapacitated
+              facility location problem, the bin-packing problem, and the problem of
+              scheduling jobs on parallel machines subject to precedence constraints, the aim
+              of this work is to design algorithms with superior performance than was known
+              previously.
+Polyhedral methods are the foremost techniques used to find
+              optimal solutions to hard discrete optimization problems.  These methods
+              require the solution of a series of linear programming relaxations. Heuristic
+              methods that rely on linear programming can be easily integrated into this
+              approach, with the aim of speeding up these methods, since they can take
+              advantage of the work already done is solving these linear programs.  This work
+              also studies the efficacy of such heuristics in enhancing the polyhedral
+              methods to solving (to optimality) these problems.

@@ -1,0 +1,45 @@
+Title       : Algorithms for Media-on-Demand Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a0098012
+
+Award Number: 0098012
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $210000             (Estimated)
+Investigator: Richard E. Ladner ladner@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              	This research involves media-on-demand systems.  A media-on-demand system is a
+              distributed network system where servers respond to demands by clients to
+              receive various types of media such as video, audio, or large files.  Such
+              systems may be implemented within an organization like a hotel or a university,
+              or over the Internet.  Currently, Internet media-on-demand systems use unicast,
+              meaning that each client receives its own transmission.  This method does not
+              scale up well for popular media where hundreds of thousands of requests might
+              be received in a short time.  Thus today, for example, hotels providing
+              movies-on-demand typically make customers wait up to an hour for starting
+              times.  
+
+	In this research, the principal investigator studies algorithms
+              for systems where multicast or broadcast is available and buffer storage is
+              adequate.  Tradeoffs among server bandwidth, startup delay, client receive
+              bandwidth and client buffer size are studied.   In particular, new algorithms
+              and mathematical analyses are developed to explore these tradeoffs.  The main
+              goal of the research is to understand how to achieve the highest Quality of
+              Service with as few resources as possible.
+

@@ -1,0 +1,88 @@
+Title       : Markov Chain Algorithms for Computational Problems from Physics and Biology
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0105639
+
+Award Number: 0105639
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $221524             (Estimated)
+Investigator: Dana J. Randall randall@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              C-CR 0105639
+Dana Randall
+"Markov Chain Algorithms for Computational Problems
+              from Physics and Biology"
+
+This research in Markov chain Monte Carlo methods
+              has three 
+primary goals: (i) developing new, general techniques for
+              
+analyzing convergence rates of Markov chains; (ii) designing rigorous,
+              
+efficient algorithms for specific computational applications, focusing 
+on
+              problems from statistical physics and biology with relevance 
+to computer
+              science; and (iii) exploring the connections between 
+the phase structure of
+              physical models and the inherent limitations 
+of various sampling
+              methods.
+
+The research is concentrated in these areas.  1) Coupling has been
+              
+a very popular method for bounding the convergence rates
+of Markov chains
+              based on local updates, but only works in 
+restrictive settings.  Heat bath
+              algorithms, which allow possibly 
+nonlocal updates, appear to circumvent
+              potentially bad situations 
+arising from simpler chains, but tend to be
+              prohibitively complex 
+for analysis. Decomposition theorems provide a new tool
+              which 
+allow a Markov chain to be broken into pieces whereby a hybrid
+              
+approach can be used to analyze each piece. The investigator 
+studies how
+              these methods can be used together to approach some 
+new sampling problems. 
+              2) Computational biologists have developed 
+a Turing-universal model of
+              computation based on Wang tiles using 
+double-stranded DNA.  New efficient
+              sampling algorithms for some
+of these simple models are explored with the goal
+              of providing ways
+to test the model predict outcomes of experiments.
+3) The
+              research additionally explores the connection between 
+rapid mixing of locally
+              defined Markov chains and the uniqueness 
+of the Gibbs state of the underlying
+              physical system, also 
+characterized by the lack of a phase transition. 
+              Knowledge of 
+this phase structure is used to develop algorithms which will
+              allow 
+sampling below the critical point, where local Markov chains 
+are
+              inefficient.
+

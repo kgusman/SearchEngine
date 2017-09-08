@@ -1,0 +1,40 @@
+Title       : Data Speculation for Instruction-Level Parallel Processing Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  1996    
+File        : a9629948
+
+Award Number: 9629948
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $109328             (Estimated)
+Investigator: Wen-mei Hwu w-hwu@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              Data speculation refers to the execution of instructions  before it has been
+              determined that the data being used is  valid. Data speculation depends on
+              dynamic memory  disambiguation to determine if the data was valid, and  forces
+              recovery code to execute if the data was invalid.  A  data speculation compiler
+              generates recovery code to handle  the situation where such execution violates
+              a memory  dependence. This project examines data speculation  techniques, and
+              attempts to understand how to utilize them  more effectively. The issues
+              addressed are (1) using data  speculation with predication, (2) improving the
+              scheduling  algorithms used with it, and (3) using static analysis to  help
+              determine when it should be applied.  This work will be  done using the Memory
+              Conflict Buffer (MCB) technique for  dynamic disambiguation. The concepts will
+              be developed so  they are applicable to other forms of dynamic memory 
+              disambiguation.  ***

@@ -1,0 +1,69 @@
+Title       : Low-Power, Wide Dynamic Range Companding Analog Signal Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 9,  2001      
+File        : a9902781
+
+Award Number: 9902781
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $384585             (Estimated)
+Investigator: Yannis Tsividis tsividis@ee.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              LOW-POWER, WIDE DYNAMIC RANGE COMPANDING ANALOG SIGNAL PROCESSORS
+
+
+Y.
+              Tsividis, Columbia University
+
+
+ABSTRACT
+
+
+The context of this work is
+              fully integrated systems involving a computer plus an analog signal processor.
+              The latter is often a necessary part of the interface to the physical world in
+              such fields as telecommunications, computers, multimedia, automotive systems,
+              medical instrumentation, and robotics. When the overall requirements are
+              stringent, attempts to implement the required analog signal processor using
+              conventional circuits can result in very large power consumption and chip size,
+              making the entire system impractical. This can be traced to fundamental
+              limitations of linear circuits. To bypass such limitations, this research deals
+              with input-output linear signal processors which are permitted to be internally
+              nonlinear. This allows the internal signals to have, for a large input signal
+              range, a magnitude well above that of noise and interference, while at the same
+              time remaining safely below overload levels. The result is adequate signal
+              integrity over the entire range, without requiring large power consumption and
+              chip size. This approach extends the use of companding (compressing/expanding)
+              techniques, commonly employed in signal transmission and recording, to signal
+              processing.
+
+
+The first phase of this research was a study of the signal and
+              noise properties of externally linear, internally nonlinear signal processors,
+              as well as of signal-noise interactions. Based on the results of this phase, a
+              study of appropriate architectures and appropriate choice of internal
+              nonlinearities is being undertaken, with low power dissipation and practicality
+              of implementation in mind. For these architectures and nonlinearities,
+              appropriate circuit design techniques are being developed. Both syllabic and
+              instantaneous companding are being considered, along with combinations thereof.
+              The final phase of the project will be a demonstration of the results obtained
+              using test chips, meant to satisfy a relevant set of stringent specifications.
+              Since the processors are internally nonlinear, special attention will be given
+              to extensive measurements for their characterization, particularly of
+              input-output linearity, noise, signal-noise interaction, and dynamic range. 
+

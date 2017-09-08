@@ -1,0 +1,50 @@
+Title       : Datapath Design and Code Generation for VLIW ASIPs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 14,  1999 
+File        : a9901255
+
+Award Number: 9901255
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Margarida Jacome jacome@ece.utexas.edu  (Principal Investigator current)
+              Gustavo A. de Veciana  (Co-Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Very Large Instruction Word (VLIW) Application Specific Instruction-Set
+              Processor (ASIP) cores realize performance/power/energy tradeoffs that can be
+              very attractive in the exceedingly competitive embedded multimedia and signal
+              processing market. In particular, specialized datapaths comprising clusters of
+              functional units with associated (local) register files can enable significant
+              performance/power/energy gains over those based on centralized register files.
+              However, such specialized datapaths pose significant research and practical
+              challenges. The proposed research focuses on jointly addressing (1) the
+              synthesis of VLIW ASIP datapaths, and (2) the development of high-quality
+              retargetable compilers for such specialized processors. The proposed
+              methodology includes a novel problem phasing/decomposition that first considers
+              the joint binding of operations and data objects to the functional units and
+              register files of the specialized datapath. Complementary aggressive
+              optimization heuristics will be developed to perform datapath dependent code
+              transformations, exploit problem symmetries to dramatically reduce the search
+              space, and to effectively bind/assign and schedule operations, data objects and
+              data transfers onto the datapath's resources. If this research is successful,
+              it will contribute to technologies that will increasingly provide the
+              competitive edge
+for the embedded systems industry.
+
+
+

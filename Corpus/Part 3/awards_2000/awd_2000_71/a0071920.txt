@@ -1,0 +1,85 @@
+Title       : Collaborative Research on Graphical Markov Models and Related Topics in
+               Multivariate Statistical Analysis
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 10,  2000    
+File        : a0071920
+
+Award Number: 0071920
+Award Instr.: Standard Grant                               
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $80000              (Estimated)
+Investigator: Steen A. Andersson standers@indiana.edu  (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Perlman 0071818
+Andersson 0071920
+
+Abstract
+
+Statistical models based on
+              acyclic directed graphs (ADGs) (also called directed acyclic graphs (DAGs),
+              Bayesian networks, or influence diagrams) are particularly well behaved, easily
+              interpretable, and computationally convenient.  In the late 1980s, ADG models
+              were generalized to adicyclic graphs or chain graphs, which include both
+              directed and undirected edges, hence can simultaneously represent dependences
+              some of which are directional and some associative.  The investigators will
+              study the Markov and statistical properties of a new class of chain graph
+              models that retains many of the desirable properties of ADG models.  Problems
+              to be investigated include the completeness and faithfulness of these new
+              models, determination of their local Markov property, and characterization of
+              their Markov equivalence classes by means of an appropriate essential graph. 
+              The investigators will also study a very general class of Wishart distributions
+              on homogeneous cones, in which transitive acyclic directed graphs (TADGs) play
+              a central role. E. B. Vinberg's classical characterization of homogeneous cones
+              has been found to reveal a fundamental relationship between normal models
+              satisfying TADG Markov conditions and this general class of Wishart
+              distributions.  This class includes all Wishart distributions previously known
+              in multivariate statistical analysis, including the hyper-Wishart distributions
+              and Wishart distributions associated with normal lattice conditional
+              independence (LCI) models, as well as a great many new ones.  Additional topics
+              to be investigated include the limitations of the Neyman-Pearson, likelihood
+              ratio, and maximum likelihood criteria for multiparameter hypothesis-testing
+              and estimation problems, and the efficacy of the likelihood ratio test for
+              testing order-restricted and multivariate one-sided alternatives.
+
+One of the
+              most central ideas of statistical science is the assessment of dependences
+              among a set of stochastic variables.  The familiar concepts of correlation,
+              regression, and prediction are manifestations of this idea, and many aspects of
+              causal relationships ultimately rest on representations of multivariate
+              dependence.  Graphical Markov models  (GMM) use graphs i.e. networks, either
+              undirected, directed, or mixed, to represent multivariate dependencies in a
+              visual and computationally efficient manner.  A GMM is usually constructed by
+              specifying local dependences for each variable, i.e. node of the graph, in
+              terms of its immediate neighbors, parents, or both, yet can represent a highly
+              varied and complex system of multivariate dependences by means of the global
+              structure of the graph.  The local specification permits efficiencies in
+              modeling, inference, and probabilistic calculations.  Among their many
+              applications, GMMs have become prevalent in statistical science for the
+              analysis of categorical data in contingency tables, for the modeling of
+              spatially-dependent processes such as the spread of epidemics in human and
+              animal populations, and for the development of early warning systems for severe
+              weather conditions; in computer science (as Bayesian networks) for information
+              processing and retrieval, for robotics, computer vision, and pattern
+              recognition, for the debugging of complex programs (such as Windows 98), and
+              for the representation of expert systems for medical diagnosis; and in decision
+              science (as influence diagrams) as models for information flow and control and
+              for combining the opinions of many decision-makers.  A crucial feature of these
+              models is that they are designed for fast computational implementation, thereby
+              facilitating the development of software that can "reason" about real world
+              problems.
+

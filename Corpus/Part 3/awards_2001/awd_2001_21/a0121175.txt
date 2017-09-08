@@ -1,0 +1,48 @@
+Title       : Scalable Decision Tree Construction
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 1,  2002       
+File        : a0121175
+
+Award Number: 0121175
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $210000             (Estimated)
+Investigator: Johannes E. Gehrke johannes@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              Data mining is one of the very promising information technologies today. This
+              project studies decision trees, one of the most widely used data mining models.
+              The approach addresses three complementary components of decision tree
+              construction: Bias in split selection, pruning, and regression tree
+              construction. Bias in split selection is a very important problem, as the
+              choice of the "wrong" split attribute destroys the interpretability of the
+              decision tree, and users can no longer trust the information from the tree.
+              Through a large experimental study and a theoretical investigation, this
+              project develops a framework to devise split selection methods with absolutely
+              zero bias. The new methods will permit users of decision trees to interpret the
+              tree without any doubt of misinformation. The second topic addresses pruning of
+              decision trees. Through a large experimental study of pruning of decision trees
+              for large datasets, the project investigates the computational and qualitative
+              trade-offs between different pruning methods, solving an ongoing debate about
+              how to prune with large datasets. Third, this research investigates scalable
+              regression tree construction, developing methods to construct regression trees
+              with linear models in the leaf nodes of the tree and multivariate splits at
+              intermediate nodes - all completely scalable over very large datasets with
+              millions of records. The results are implemented in a publicly available
+              decision tree construction tool and performance testbed and software
+              contribution to the research community. This research has many applications in
+              electronic commerce, scientific data analysis, and computational biology. 

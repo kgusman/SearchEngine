@@ -1,0 +1,71 @@
+Title       : A Mathematical Framework for Tensor Image Processing
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 18,  2001      
+File        : a9805483
+
+Award Number: 9805483
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  1998 
+Expires     : May 31,  2002        (Estimated)
+Expected
+Total Amt.  : $120000             (Estimated)
+Investigator: Akram Aldroubi aldroubi@math.vanderbilt.edu  (Principal Investigator current)
+Sponsor     : Vanderbilt University
+	      Station B Box 7749
+	      Nashville, TN  372357749    615/322-2631
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Aldroubi
+9805483
+
+The investigator develops a mathematical framework for
+              representing discrete tensor images that is suited to post-processing
+              applications, such as pattern recognition, registration and geometric
+              transformations.  In particular, he constructs atomic Wiener amalgam tensor
+              spaces that consist of continuous tensor fields, and establishes conditions on
+              the generating tensors that guarantee that the discrete tensor field spaces
+              obtained by any regular sampling of the continuous spaces are atomic and are
+              isomorphic to the continuous spaces.  Using the connection between the
+              approximation problems in atomic spaces and the filtering paradigm in signal
+              and image processing, he develops and implements fast filtering algorithms for
+              various fundamental processing operators, such as noise reduction, rotation,
+              translation, and general affine transformations.  Because tensor image data
+              possess spatial information about the fiber structure and geometry of
+              materials, tissues, or organs, he also uses results from differential geometry
+              to extract different architectural features of ordered media.  Part of the
+              project is devoted to testing the accuracy, precision and speed of these
+              algorithms.  For this purpose, he generates synthetic data sets and also uses
+              real data acquired from in vivo clinical diffusion tensor MRI studies, and
+              other imaging modalities, to evaluate the performance of these
+              algorithms.
+
+This project is motivated primarily by the need to process and
+              analyze clinical data obtained from diffusion tensor MRI, a new noninvasive
+              imaging modality that allows physicians to visualize nerve and muscle fiber
+              tracts in the body.  However, the mathematics developed here is applicable to
+              processing and analyzing data acquired from a much larger number of imaging
+              devices and modalities used in diverse application areas including medicine,
+              material sciences, oceanography, meteorology, fluid mechanics, satellite
+              reconnaissance, and astronomy.  Many new scanning systems measure several
+              quantities at each point or position within an image rather than a single
+              quantity.  These lists of numbers may represent important physical quantities,
+              such as velocities or displacements, or the amount of light absorbed,
+              reflected, or emitted at different wavelengths at a particular location.  The
+              theory being developed here provides a rational means to represent, process,
+              analyze and compress this data -- a problem which no theory currently treats. 
+              In addition, this work is intended to ameliorate many problems inherent in the
+              measurement of these new types of data sets.  In particular, imaging data are
+              usually corrupted by noise, are discrete rather than continuous, and are
+              spatially averaged.  Finally, because these new imaging modalities can generate
+              vast amounts of data, the algorithms that the investigator implements for
+              representing, processing, analyzing, and compressing the data must be fast and
+              efficient, as well.

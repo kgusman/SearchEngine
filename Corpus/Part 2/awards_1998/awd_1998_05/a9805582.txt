@@ -1,0 +1,109 @@
+Title       : From Microscopic to Macroscopic: A Multiscale Numerical Approach
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 11,  1998 
+File        : a9805582
+
+Award Number: 9805582
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: Shlomo Ta'asan shlomo@andrew.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1339,9263,OTHR,
+Abstract    :
+              Ta'asan
+9805582
+     The investigator and his colleagues develop
+              multiscale
+numerical techniques for dealing with phenomena on a wide range
+of
+              scales.  The main aspect of the research is the numerical
+construction of
+              macroscopic equations in the form of partial
+differential equations from
+              microscopic models such as molecular
+dynamics models.  The numerical
+              techniques focus on fluids
+modeling starting from molecular models.  Special
+              emphasize is
+given to models involving mixtures of several types
+              of
+atoms/molecules that may be governed by different interactions.
+Such
+              molecular models give rise to complicated physical phenomena
+including
+              multiphase flows.  A sequence of models is constructed
+numerically in an
+              hierarchical manner starting from molecular
+dynamics.  Each level in this
+              hierarchy represent a larger scale
+dynamics (in time or space or both) of the
+              previous level, and is
+constructed using statistical tools (regression
+              analysis) applied
+to the data resulting from a simulation of the previous
+              level.
+The finest level of modeling is given by Hamiltonian dynamics and
+is
+              deterministic.  Stochastic particle dynamics models are
+constructed from the
+              finest level model, and represent the
+physical phenomenon on time scale of the
+              order of the relaxation
+time.  Further coarsening (averaging) in space-time
+              results in
+deterministic density evolution models, which can be identified
+as
+              finite difference approximations to some partial differential
+equation that is
+              the macroscopic limit.
+     Numerical techniques have been used extensively
+              for several
+decades to obtain approximate solutions of partial
+              differential
+equations in different fields, and have improved
+              significantly
+scientific insights and engineering tasks.  The derivation
+              of
+those equations, which describe physical phenomena in different
+areas, was
+              done by analytical techniques whose use is limited to
+relatively simple cases.
+               The treatment of more complex models
+cannot, in general, be done analytically
+              and it calls for another
+approach.  This is the subject of this work: the use
+              of numerical
+techniques for 'deriving' macroscopic dynamics equations
+              from
+more basic principles given at microscopic levels.  This task is
+carried
+              out by large scale simulation of the detailed microscopic
+models and
+              appropriate statistics.  The problems treated in this
+work are limited to
+              multiphase fluid flows, which are crucial in
+many areas of applications,
+              including medical inhalation devices,
+auto and aerospace industries (engines),
+              computer industries
+(printers), and more.  The techniques developed here,
+              however, are
+quite general and apply to other areas in chemistry, physics
+              and
+economics, from fundamental questions to real world applications.
+
+

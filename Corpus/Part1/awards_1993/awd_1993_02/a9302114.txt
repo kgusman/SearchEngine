@@ -1,0 +1,46 @@
+Title       : Programming with First-Class Contexts
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 21,  1994 
+File        : a9302114
+
+Award Number: 9302114
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1994 
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $150389             (Estimated)
+Investigator: Daniel P. Friedman dfried@cs.indiana.edu  (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              9302114  Friedman  Contexts are a perfect means for expressing variable sharing 
+              across multiple lexical scopes.  A context is a syntax tree with  nonterminal
+              leaves, called holes, that are to be filled later  with terms (which are
+              contexts as well).  Unlike substitution,  filling a context's hole with a term
+              causes the term's free  variables to be captured by the context's bound
+              variables.  First-  class contexts thus are a basis for incremental development
+              of  information-sharing program pieces.    Giving contexts first-class status
+              facilitates separate  compilation of contexts.  The target code can be reused
+              on  different instantiations of the context's free variables or be  reused on
+              resolving its different filling terms' free variables.  Contextual programming
+              brings compilation, linking (context  filling), and evaluation under the user's
+              control.  It is a  conceptually simple and yet very general programming
+              paradigm.  In particular, modular and object-oriented programming are both 
+              special cases of contextual programming.    This research has both formal and
+              experimental components.  Formal reasoning systems furnish a platform for
+              analyzing and  comparing contextual programming with other programming language
+               concepts and mechanisms.  Experiments are expected to generate  insightful
+              information to evaluate design decisions, uncover  deficiencies, and develop a
+              better understanding of contextual  programming.  ***

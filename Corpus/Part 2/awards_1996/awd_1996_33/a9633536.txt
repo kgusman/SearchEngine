@@ -1,0 +1,60 @@
+Title       : A Formal Approach for a Specification-Based Software Architecture of Real-Time
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 7,  1997    
+File        : a9633536
+
+Award Number: 9633536
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $191001             (Estimated)
+Investigator: Jeffrey J. Tsai tsai@eecs.uic.edu  (Principal Investigator current)
+              A. Prasad Sistla  (Co-Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              Real-time systems are becoming increasingly important to everyday  life.
+              Examples include command and control systems, process  control systems,
+              telecommunication systems, patient monitoring  systems, flight control systems,
+              robotics, avionics systems, and  so on. With increasing computing power and
+              high demand for  multimedia applications, larger and more complex real-time 
+              systems are being continuously developed. However, the  development of
+              real-time systems is difficult and takes longer  time than the development of a
+              system without real-time  constraints, and a significant portion of the entire
+              effort  remains devoted to the maintenance activities of the software  life
+              cycle.    The concept of software architecture has recently emerged as a  new
+              way to improve our ability to effectively construct large-  scale software
+              systems. In spite of many attempts to develop  architecture specification
+              languages, this area still lacks a  solid formal foundation. Without a solid
+              foundation, it is  difficult to develop and apply rigorous analysis methods to 
+              assure the correctness of real-time software systems as well as  to analyze the
+              impacts of changes on various system properties  such as safety, consistency,
+              and reliability.    This research seeks to develop a formal foundation for an 
+              architecture specification language using the integration of  non-monotonic
+              logic and temporal logic. The syntax of the  language is based on the concepts
+              of object, frames  and  production rules. This allows developers to easily
+              describe the  attributes and constraints of each software component, and also 
+              the hierarchical relations among the software components in the  software
+              architecture.    The goal is to localize changes to software components in the
+              low-  level architecture specification and avoid modifying the high-  level
+              architecture specification. The semantics of multiple  inheritance and
+              exception handling will be established using a  non-monotonic logic. Based on
+              the formal foundation of the  architec ture specification language, it is
+              expected that new  possiblities will exist for analyzing software properties
+              such as  liveness, safety, consistency, and temporal constraints. This 
+              foundation is also expected to provide a basis for analyzing the  impact of
+              changes to a real-time software system.  ***

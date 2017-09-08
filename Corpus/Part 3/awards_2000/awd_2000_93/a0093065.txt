@@ -1,0 +1,60 @@
+Title       : CAREER: Efficient Cryptography with Provable Security Guarantees
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 16,  2001  
+File        : a0093065
+
+Award Number: 0093065
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : July 31,  2006       (Estimated)
+Expected
+Total Amt.  : $305000             (Estimated)
+Investigator: Alexander C. Russell acr@cse.uconn.edu  (Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      438 Whitney Road Extension
+	      Storrs, CT  062691133    860/486-3622
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              This research develops efficient cryptographic tools which offer provable
+              security guarantees. Such tools rectify the widely-recognized deficiency
+              associated with extant provably-secure cryptosystems: their prohibitive
+              computing demands.  Indeed, despite the highly amplified security offered by
+              provably-secure systems, efficiency considerations have prevented their
+              widespread adoption; as a result, tools in common use typically involve ad-hoc
+              methods designed with speed, rather than security, as their first priority. 
+              This re-search resolves this difficulty, constructing cryptographic tools (like
+              encryption engines, digital signature schemes, and pseudo-random generators)
+              which can simultaneously boast provable security guarantees and competitive
+              efficiency. This program is undertaken in concert with an educational
+              initiative which develops security and general information technology course
+              material at the University of Connecticut.  Security in provably-secure
+              constructions is generally accumulated by repeated application of some
+              underlying cryptographic primitive (a one-way function, for example). For a
+              fixed underlying primitive, the computing time required to "generate enough
+              security" to, say, encrypt a long message, depends essentially
+on (i.) the
+              quantity of security which can be quickly extracted from a single application
+              of the underlying primitive, and (ii.) the total quantity of security necessary
+              for the encryption process.  This research ad-dresses both of these issues,
+              developing provably-secure frameworks for cryptography which fully exploit the
+              security capacity of underlying primitives and utilize this distilled security
+              in the most effective manner.
+Issue (i.) is addressed by the development of
+              quantitative bounds for the security capacity of one-way functions and bounds
+              on the computational complexity of extracting security from general one-way
+              functions.  Issue (ii.) is addressed by the development of a new family of
+              cryptographic primitives, balancing provable security and competitive
+              efficiency. For encryption, a focal point of the research, this is attained by
+              coupling strong (information-theoretic) pseudo-random constructions with
+              semantically secure encryption machinery. Such methods have direct
+              applicability to encryption, cryptographically strong hashing, and pseudo
+

@@ -1,0 +1,76 @@
+Title       : Estimating Parameters in Spike-convolution Models and Mixture Models
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 17,  1999      
+File        : a9971698
+
+Award Number: 9971698
+Award Instr.: Standard Grant                               
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 15,  1999      
+Expires     : May 31,  2002        (Estimated)
+Expected
+Total Amt.  : $79866              (Estimated)
+Investigator: Lei Li   (Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323064166    850/644-5260
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9184,BIOT,
+Abstract    :
+              9971698
+
+This research links the parametric deconvolution problem in the
+              spike-convolution model with the estimation problem in finite mixture models. 
+              It aims to weave together good results on algorithms and asymptotics from both
+              sides, and develop new methodologies, which are implementable in computation
+              and efficient in theory.  The first object of this research, the
+              spike-convolution model, is introduced as part of the models proposed for DNA
+              sequencing by the PI and his collaborators.  The current sequencing scheme
+              named after Sanger combines three techniques: enzymatic reactions, gel or
+              capillary electrophoresis and fluorescence-based detection.  This biochemical
+              procedure produces a four-component vector time series for each DNA fragment. 
+              The task of DNA base-calling is to recover the underlying DNA sequence from the
+              above time series.  Most of the base-calling errors are caused by the diffusion
+              effect of electrophoresis.  It is found that this diffusion effect can be well
+              described by the so-called spike-convolution model.  It arises when a sparse
+              Dirac spike train is convolved with a fixed point spread function, and additive
+              noise or measurement error is superimposed.  In this model, deconvolution is
+              nothing but a standard parameter estimation problem, where the parameters
+              include the number, locations and heights of the underlying spikes, the
+              baseline and the measurement error variance.  The second object of this
+              research, the finite mixture model, is the framework of many statistical
+              analyses like robustness checking, clustering, estimating density functions,
+              etc.  However, the estimation of the parameters in mixture models can be very
+              troublesome, especially when many components are involved.  It is believed that
+              a broad class of finite mixture models is closely related to the
+              spike-convolution model.  No simple solution exists to the estimation problems
+              in these two models because of the complexity.  This research proposes to
+              combine the method of trigonometric moments with a two-stage model selection
+              procedure, Gauss-Newton algorithm, or EM algorithm depending on the situations.
+               The numerical and statistical aspects of the new methods and their variants
+              are examined and compared with those of existing methods.  The Toeplitz forms
+              constructed from trigonometric moments and their statistical properties play a
+              key role in the proposed methods, and are investigated in full detail.
+
+This
+              research studies the newly proposed spike-convolution model and the
+              long-standing finite mixture models from a unified perspective.  The former is
+              motivated by the large scale and high throughput DNA sequencing, which is one
+              of the most important aspects of the ongoing Human Genome Project and other
+              genome projects.  The lack of satisfactory deconvolution techniques and
+              statistical models has made DNA base-calling---the data analysis part of
+              sequencing---a bottle neck of these projects.  An effective deconvolution
+              technique, a target of this research, is a fundamental prerequisite for rapid
+              and reliable DNA base-calling.  In fact, similar deconvolution problems arise
+              in many other scientific disciplines like geophysics, spectroscopy, and
+              chromatography.  The research results are also expected to enrich the
+              understanding and methodologies of finite mixture models, which have
+              applications to a diversity of fields such as physics, medicine, and biology.
+

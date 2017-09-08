@@ -1,0 +1,69 @@
+Title       : Trace-Driven Evaluations of the Memory Behavior of Large Commercial Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  2001      
+File        : a0105761
+
+Award Number: 0105761
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $280640             (Estimated)
+Investigator: Michel Dubois dubois@paris.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Computer architecture research is based on experimental evaluation of
+              application behavior.
+One critical issue in the architecture of high-end
+              enterprise servers is the design of the memory
+hierarchy, which must be
+              designed to support current and future data-intensive applications.
+
+Few
+              evaluations of the memory behavior of large commercial applications exist,
+              especially in the
+public domain. The research proposed here is based on a
+              collaboration between IBM and USC to
+take advantage of the IBM Watson Server
+              Performance Laboratory to explore the memory
+behavior of high-end commercial
+              applications.
+
+More specifically, it is proposed to use the IBM MemorIES
+              board to collect bus activity
+traces from a modern server machine running
+              large, finely tuned OLTP, DSS and Web workloads.
+Because of the sheer size of
+              the traces, samples of transaction records will be collected only 
+in selected
+              time intervals.
+
+Besides obtaining traces, the goal of this project is to
+              characterize the memory
+behavior of these applications, to evaluate
+              alternative memory hierarchies for future
+high-end commercial servers, and to
+              explore new multiprocessor architectures for
+commercial systems. 
+
+The
+              experimental environment provided by the IBM Watson Server Performance
+              Laboratory
+cost millions of dollars and years of effort to setup. This
+              proposed research will leverage these
+efforts. It is a unique opportunity to
+              collect and disseminate traces and experimental data
+which would be
+              practically impossible to obtain under any reasonable research budget.

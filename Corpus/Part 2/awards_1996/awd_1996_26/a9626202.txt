@@ -1,0 +1,63 @@
+Title       : Iterative Algorithms for the P-Version of the Finite Element Method: Parallel
+               Multi-P
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : October 26,  1999   
+File        : a9626202
+
+Award Number: 9626202
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1996  
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $85000              (Estimated)
+Investigator: I. Norman Katz katz@zach.wustl.edu  (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9626202  Katz       The p and h-p versions of the finite element method are now 
+              firmly established as important methods for finite element  analysis (FEA).  A
+              major part of the computational burden in FEA  is the solution of the assembled
+              system of equations.  Current  practical problems, particularly those in three
+              (or higher)  dimensions, may require the determination of hundreds of 
+              thousands, even millions of unknowns.  Such problems cannot be  solved on
+              serial computers because of excessive computation time  and memory
+              requirements.  Implementation on parallel processors  is indispensable because
+              of time requirements.  Iterative methods  are indispensable because of memory
+              requirements.  Whereas  iterative methods for the h-version of FEA have long
+              been the  object of much investigation (e.g. domain decomposition, 
+              multi-grid), relatively little is known about iterative schemes  for the
+              p-version.  This research addresses that problem.  Multi-p methods can be used
+              independently as smoothers, or as  preconditioners for other iterations such as
+              conjugate gradient.  The term multi-p processes includes both approaches.  This
+               research develops multi-p V cycle methods with particular  emphasis on
+              problems in 3D.  Parallelization with respect to both  computation costs, costs
+              of communication among processors, and  costs of using auxiliary memory are
+              considered.  The use of  multi-p algorithms as preconditioners, which currently
+              shows  great promise for 2D problems, is a major area of study.  The  ultimate
+              objective of the research is to make the p-version of  FEA a practical tool for
+              large scale problems.       Modern engineering design relies heavily on
+              computer  simulations, and specifically on high-performance computing.  For 
+              example, in structural elastic analysis, it is necessary to solve  (sometimes
+              nonlinear) partial differential equations on  complicated geometries.  To solve
+              such partial differential  equations numerically on computers, discretization
+              techniques are  used.  Such discr etizations may involve thousands or hundreds
+              of  thousands unknowns and efficient numerical methods are  indispensable.  The
+              numerical techniques being developed in this  project lead to procedures that
+              assure the reliability of  engineering decisions based on high-performance
+              computing.  The  algorithms being formulated permits solution of (nonlinear) 
+              mathematical models in diverse areas including those used in  aircraft and
+              automobile structural design, determining elastic  properties of the human
+              heart, study of boundary layer effects in  composite materials, and fatigue
+              life analysis.

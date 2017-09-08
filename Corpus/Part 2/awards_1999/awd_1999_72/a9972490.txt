@@ -1,0 +1,115 @@
+Title       : Preconditioning Techniques for Algebraic Equations Arising from Partial
+               Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : January 8,  2002    
+File        : a9972490
+
+Award Number: 9972490
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1999      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $130000             (Estimated)
+Investigator: Howard C. Elman elman@cs.umd.edu  (Principal Investigator current)
+              Dianne P. O'Leary  (Principal Investigator former)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Elman
+
+This project concerns the development, analysis and testing of
+              techniques
+of numerical linear and nonlinear algebra for solving systems of
+              equations
+arising from discretization of a collection of partial differential
+              equations.
+The emphasis will be on preconditioning strategies and their
+              combination 
+with Krylov subspace iterative methods for linear and nonlinear
+              systems.
+These ideas will be applied to several examples of differential
+              equations,
+primarily coming from models of fluid dynamics.  Our focus will be
+              on two 
+types of problems, the saddle point problems produced by direct
+              discretization 
+of the primitive formulation of the incompressible
+              Navier-Stokes equations, 
+and the convection-diffusion equation.  These have
+              been chosen because they 
+are used in numerous engineering models of fluid
+              flow, and because they contain
+challenging mathematical and computational
+              qualities that make them difficult 
+to solve.  In particular, accurate
+              discretization in two and three dimensions 
+leads to large sparse systems of
+              algebraic equations that are nonsymmetric,
+and for the first problem,
+              nonlinear and indefinite.  In addition, they have 
+associated with them
+              fundamental parameters such as Reynolds numbers and 
+discretization mesh
+              widths that, for the solution of problems of practical 
+interest, cause many
+              algorithms to converge slowly and require large-scale 
+systems to attain
+              accuracy.  Our goals are to extend and analyze certain 
+preconditioning
+              techniques designed for saddle point problems.  Plans include 
+demonstration
+              of the effectiveness of these preconditioners for general mixed 
+finite
+              element discretizations, development of rigorous mathematical techniques
+for
+              analyzing convergence, demonstration of their usefulness in realistic
+              
+settings involving general meshes and domains, and incorporation of
+              fast
+algorithms for the convection-diffusion equation into the solution
+              process.
+
+The purpose of developing computational algorithms is to enable the
+              
+efficient numerical solution of differential equations used in mathematical
+              
+modelling.  The use of such models is becoming an increasingly
+              important
+component in manufacturing and design (for example, of aerospace
+              vehicles,
+automobiles, cooling devices for nuclear devices) and in enhancing
+              our
+understanding of critical natural phenomena (for example, blood flows
+              and
+dispersal of environmental pollutants).  Understanding these
+              phenomena
+through purely experimental techniques is prohibitively expensive
+              or
+impossible, whereas the use of mathematical models introduces a basic
+              
+understanding of the physics by providing approximations to quantities
+such
+              as flow rates and pressures.  This leads to the identification of 
+promising
+              design features, such as wing shape in airplane manufacturing.  
+(For example,
+              many of the design decisions for the Boeing 777 jet were made 
+using
+              computational studies.)  Accurate solution of the mathematical models 
+is only
+              feasible, however, if reliable and fast solution algorithms are 
+available. 
+              The goal of this project is to develop such algorithms.
+
+

@@ -1,0 +1,47 @@
+Title       : ITR: Fast, Flexible, and Secure Wide-Area File Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 22,  2002    
+File        : a0218019
+
+Award Number: 0218019
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $420000             (Estimated)
+Investigator: Peter J. Keleher keleher@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1667,1686,9218,HPCC,
+Abstract    :
+              This proposal describes a set of new techniques for managing access to remote
+              files in the wide area. The vehicle for evaluating these techniques will be a
+              wide-area file system called MoteFS. MoteFS will provide fast, flexible, and
+              secure access to remote files over untrusted wide-area networks.  In more
+              detail, the following mechanisms and policies will be investigated:
+-
+              fine-grained namespace mechanisms that allow namespaces to be efficiently and
+              securely added, mutated, transferred and deleted at granularities from single
+              files to millions of files.
+- decomposable credentials, which allow credential
+              holders to locally derive and transfer weaker credentials without contacting
+              file owners.
+- a cross-server versioning abstraction, which allows correlated
+              versions of a group of files to be referenced even if they span multiple users
+              and file systems.
+- client-side differencing, which allows redundant data to
+              be eliminated during network writebacks.
+- wide-area prefetching and caching
+              algorithms.
+The combined effect of these techniques will allow allow users to
+              interact with their files in a flexible, secure, location-independent manner.

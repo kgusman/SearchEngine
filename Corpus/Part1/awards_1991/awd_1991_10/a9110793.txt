@@ -1,0 +1,53 @@
+Title       : RIA: Lattice Parallelism: A Programming Model for Dynamically Manipulating
+               Distributed Data Structures in Localized Non-Uniform Scientific Calculations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 30,  1991      
+File        : a9110793
+
+Award Number: 9110793
+Award Instr.: Standard Grant                               
+Prgm Manager: Maxine Hynson                           
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : June 30,  1994       (Estimated)
+Expected
+Total Amt.  : $69392              (Estimated)
+Investigator: Scott B. Baden baden@ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9264,
+Abstract    :
+                                                                                              
+                                                                                            
+              The goal of this research is to implement a new model for programming          
+              scientific computations on distributed memory multiprocessors, called          
+              lattice parallelism (LP).  LP is intended for scientific methods that          
+              locally concentrate computational effort non-uniformly and                     
+              unpredictably, for example, adaptive mesh methods.  It provides                
+              high-level operations to hide the low-level details of dynamically             
+              manipulating elaborate, dynamic data structures.  The objectives of            
+              the research are to gain a better understanding of lattice                     
+              parallelism under realistic conditions; to apply it to scientific              
+              applications, and to explore run-time optimization techniques.  The            
+              implementation and evaluation of LP will be carried out on the Intel           
+              iPSC/860, running a variety of application codes at our disposal.              
+                                                                                             
+              A novel feature of lattice parallelism is that it exploits the                 
+              tightly coupled local structure present in non-uniform calculations            
+              and so avoids high communication overheads.  This is significant in            
+              light of the ultimate emergence of massively parallel distributed              
+              memory multiprocessors, which are especially sensitive to the effects          
+              of communication overhead.                                                     
+                                                                                             
+              This research will result in the development of a software tool for            
+              reducing the effort required to parallelize full scale numerical               
+              software by an order of magnitude or better.//

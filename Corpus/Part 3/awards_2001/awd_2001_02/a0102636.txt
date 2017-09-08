@@ -1,0 +1,61 @@
+Title       : Boosting for Regression and Classification: Some Views from Analogy
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 25,  2001      
+File        : a0102636
+
+Award Number: 0102636
+Award Instr.: Standard Grant                               
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $74468              (Estimated)
+Investigator: Wenxin Jiang wjiang@northwestern.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9216,HPCC,OTHR,
+Abstract    :
+              The principal investigator will study theoretical properties of boosting
+              algorithms.  Topics include the assumption of weak hypotheses, the behavior of
+              generalization error in the large time limit and during the process of
+              boosting, a comparison to the optimal Bayes error, the performance in noiseless
+              and noisy situations, overfitting and regularization, and the analogy between
+              regression and classification boosting algorithms.  The following goals will be
+              addressed: 
+
+(I).  Provide conditions and examples for the assumption of weak
+              hypotheses to be valid, as well as some implications of the assumption on the
+              generalization error.
+(II). Further understanding of the overfitting behavior
+              and regularization methods in boosting.
+(III). Bring together the important
+              recent developments in the areas of regression  (e.g., thresholding) and
+              classification (e.g., boosting), where increasingly different sets of tools
+              have been developed. 
+
+Boosting algorithms are very useful tools for
+              combining simple prediction rules sequentially and adaptively into more
+              powerful prediction rules, and are of mutual interest to the fields of computer
+              science, machine learning and statistics.  A popular version of the algorithms,
+              called AdaBoost, is shown to improve the fit on the existing data very quickly
+              when more and more relatively simple "rules of thumb" are incorporated.  In
+              addition, the algorithm also improves the prediction of new outcomes very
+              effectively.  On the other hand, recent empirical evidence has shown that
+              combining too many simple rules can `overfit' the existing data and deteriorate
+              the performance in predicting new, unseen outcomes, when data are `noisy'. 
+              This project studies important theoretical properties of boosting algorithms,
+              based on an analogy between the regression situation (when the outcomes are
+              continuous numbers) and the classification situation (when the outcomes are
+              discrete classes).  This will be helpful in understanding how boosting works,
+              in what situations, to what degree, and how to prevent `overfitting' and
+              improve the performance when treating noisy data. 
+

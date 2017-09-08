@@ -1,0 +1,77 @@
+Title       : Elliptic Inverse Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 17,  1998      
+File        : a9805629
+
+Award Number: 9805629
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1998    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $65731              (Estimated)
+Investigator: Ian W. Knowles iwk@math.uab.edu  (Principal Investigator current)
+Sponsor     : U of Alabama Birmingham
+	      AB 1170
+	      Birmingham, AL  352940111    205/934-5266
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+               9805629
+ Knowles
+
+This project centers on parameter identification inverse
+              problems.  Typically, in such a problem one is given certain information about
+              the solution of a partial differential equation  and one is hopeful of using
+              this information to compute one or more of the coefficients in the equation. 
+              Such problems are typically  mathematically ill-posed and, to make matters
+              worse, in processing the data in many practical applications, one must contend
+              not only with measurement error but sometimes also with the fact that the
+              readings may only be taken at a rather sparse collection of measurement points.
+              In this proposal we outline a continuation of work on a new and very promising
+              approach to a broad class of parameter identification problems.  At the core of
+              the method is the Dirichlet principle for elliptic boundary value problems,
+              that the solution may be obtained by the minimization of a certain energy
+              functional; that the same energy functional can also be used to compute
+              coefficients in the elliptic equation, if an appropriate constrained
+              minimization is employed, is the significant observation that drives much of
+              the work in this proposal.  Extensive numerical experiments have shown that 
+              the same numerical stability that is associated with the Dirichlet principle
+              approach to finding solutions is also present (assuming the  appropriate
+              stabilization is employed) in the constrained minimization; in particular the
+              method appears to be quite robust in the presence of noise in the data.  The
+              parameter identification problems amenable to this approach are, roughly
+              speaking, those that involve elliptic equations that may besolved by means of a
+              Dirichlet principle; as is well known this is a large class, having
+              considerable practical significance.  In addition, many parameter
+              identification inverse problems involving parabolic (diffusion) and hyperbolic
+              (wave propagation) equations  may be restated to a form covered by this theory,
+              and thus the eventual impact is expected to be even greater.
+
+The first part
+              of the project involves producing working algorithms to identify, from easily
+              obtainable measurements, the various parameters needed to quantify flow in
+              porous media.  This is a crucial step in the modeling of underground water
+              systems and a necessary first step when one wishes for example to manage water
+              resources efficiently, or to predict the effects on an aquifer caused by
+              environmental factors such as flooding or industrial pollution.  The second
+              part of the project is concerned with the problem of imaging inside the human
+              body with electrical impedance tomography.  Here, one attempts, by means of low
+              voltage electrical measurements taken at the surface of a subject, to form an
+              image of the interior.  Such imaging has the advantage of being both
+              non-invasive and non-destructive, and inexpensive; current disadvantages
+              include poor image quality, and it is hoped that improvements can be
+              accomplished by methods related to those used above.  Related practical
+              applications of these ideas include non-destructive evaluations involving the 
+              determination of gas pores, impurities, and cracks in cast metals; such
+              problems are of interest in a variety of manufacturing situations, including
+              the inspection of airplane parts, and also in the manufacture and testing of
+              nuclear reactor containment vessels.
+

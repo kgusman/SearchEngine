@@ -1,0 +1,73 @@
+Title       : A Portable Client-Server Data Management System for the Comparative Analysis of
+               Proteins
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : October 22,  1996   
+File        : a9630339
+
+Award Number: 9630339
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : October 1,  1996    
+Expires     : September 30,  1998  (Estimated)
+Expected
+Total Amt.  : $424355             (Estimated)
+Investigator: Philip E. Bourne   (Principal Investigator current)
+              Ilya N. Shindyalov  (Co-Principal Investigator current)
+              Michael R. Gribskov  (Co-Principal Investigator current)
+Sponsor     : General Atomics
+	      
+	      San Diego, CA  92118    /   -
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0102000   Data Banks                              
+              0108000   Software Development                    
+              61        Life Science Biological                 
+Program Ref : 9139,9184,HPCC,
+Abstract    :
+                This project will develop a data management system to support a  variety of
+              data of importance to molecular biologists interested  in groups of related
+              proteins. The system will be distributed by  the San Diego Supercomputer Center
+              (SDSC) as part of an existing  biological data resource supporting, among other
+              things, data on  the protein kinase family of enzymes 
+              (http://www.sdsc.edu/kinases) and temporal 3-dimensional  structure data
+              derived using X-ray crystallography. The system  will permit queries
+              integrating sequence homology, structure  homology, function, and disease in a
+              way not possible with the  current generation of molecular biology resources.
+              The overall  goal is to provide to the community a non-proprietary system that 
+              is efficient, extensible and, for the molecular biologist, simple  to use for
+              loading their own data.  These data could be subsets  of data available from
+              existing sources and/or their own private  data. The system, will be coded in
+              Java (or language of  equivalent functionality), will run on a local computer
+              or in a  client-server environment using a local area network or the  Internet.
+                 Specific deliverable are: (I) compact binary data storage, object  oriented
+              in-memory representation of macromolecular features, and  query methodology
+              suitable for analyzing comparative features  found in proteins. This is an
+              extension of technology already  found in the software WPDB 
+              (http://www.sdsc.edu/CCMS/Packages/wpdb.html) and MOOSE 
+              (http://www.sdsc.edu/moose). (II) A client-server environment  which is beyond
+              the current stateless access provided by the  World Wide Web. (III) Porting of
+              existing methods written in C++  to Java and the creation of new methods
+              providing an applet  library for use in molecular biology. (IV) A low-level
+              graphics  library written in Java specifically for use in molecular  biology.
+              (V) A molecular biology viewer (i.e., a domain-specific  browser, editor and
+              interpreter). This viewer will be built from  the graphics library and provide
+              th e features of the current  generalized stateless browsers, but also respond
+              to specific  types of data and methods peculiar to molecular biology. The 
+              interoperability between display objects, used successfully in  other software
+              packages (WPDB and PDBtool,  http://www.cse.ogi.edu/DlSC/PDBTool/) will provide
+              the  appropriate level of intuitive interaction.    The proposed data
+              management system addresses limitations  perceived in the current generation of
+              World Wide Web-based  servers supporting molecular biology and many other
+              disciplines.  Notable limitations are: (i) the difficulty of keeping servers 
+              current; (ii) the information content is broad but not deep;  (iii) tools for
+              visualizing results of Web-based query are  limited and hampered by the
+              stateless nature of the interaction  and the disproportional utilization of
+              computing resources  between client and server; (iv) tools for the Web-based 
+              comparative analysis of proteins could be expanded; (v) there are  few generic
+              tools for the molecular biologist to use in building  and maintaining this type
+              of resource for either local or global  use.

@@ -1,0 +1,91 @@
+Title       : Complexity and Design of Transparent Packet Switching Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 5,  2003   
+File        : a9981187
+
+Award Number: 9981187
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $301843             (Estimated)
+Investigator: A. Yavuz Oruc yavuz@eng.umd.edu  (Principal Investigator current)
+              Robert W. Newcomb  (Principal Investigator former)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Packet switching has been extensively studied for traffic problems but
+              there has been very little work,
+if any, on the complexity and methodical
+              design of packet switching networks.  Indeed, in a recent
+NSF workshop report,
+              it was stressed that a wide variety of switching system architectures have
+              been
+proposed, but little definitive evaluation or comparisons of these
+              architectures have been made under criteria that factor in both performance and
+              cost measures, where technology-dependent and technology-independent factors
+              are clearly separated."
+     A buffered network model was recently introduced
+              to examine the design and complexity problems in
+packet switching networks. 
+              Building on this model, the notion of transparency is introduced in
+              the
+proposed research as a measure of a buffered network's ability to deliver
+              its packets at a specified set
+of traffic rates between its inputs and
+              outputs.  The notion of transparency quantifies the ability of
+a buffered
+              network to deliver its packets much like the nonblocking property of a circuit
+              switching
+network quantifies its ability to provide paths between its idle
+              inputs and idle outputs.  The main goal
+of the proposed research is to use the
+              notion of transparency to investigate the basic bounds of packet
+transmission
+              in packet switching networks, and construct packet switching networks which
+              come close
+to meeting these bounds.  Such bounds are often imposed on a packet
+              switching network by its topology,
+buffer space, and crosspoint and routing
+              complexity.  In constrast to circuit switching networks, the
+complexity of
+              packet switching networks has escaped the scrutiny of packet switching research
+              so far,
+but without any information on their complexity, the performance of
+              packet switching networks cannot
+be quantified.
+     Along with the
+              investigation of the complexity problems, the proposed research will attempt to
+              identify
+the types of traffic and assignments for which efficient buffered
+              networks can potentially be obtained,
+and actually construct such networks. 
+              Informally speaking an "efficient buffered network" is one which
+utilizes its
+              crosspoints and buffer space as fully as possible subject to meeting a set of
+              traffic constraints. Both unicast and multicast buffered networks will be
+              investigated.  The main tools of the proposed research will be Hall-type
+              theorems, Pinsker's inexplicit combinatorial constructions, and explicit
+              recursive network construction techniques.  Inexplicit constructions will be
+              used to establish the optimality and quantify the performance of explicit
+              recursive buffered networks.  The researchers anticipate that
+the complexity
+              bounds on packet switching and recursive buffered network construction
+              techniques to
+be obtained in the proposed research will have a strong impact
+              on the way that packet switches are
+designed, and can pave the way for a
+              methodical design of efficient and practical packet switching
+networks.
+

@@ -1,0 +1,72 @@
+Title       : Reasoning About Specifications of Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 15,  2000    
+File        : a9912387
+
+Award Number: 9912387
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $159042             (Estimated)
+Investigator: Dale A. Miller dale@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number: 9912387 
+PI:              Miller, Dale A
+Institution:    
+              Penn State University, University Park 
+Title:           Reasoning about
+              Specifications of Computation 
+
+
+Computational systems are often given their
+              meaning in terms of
+operational semantics, and these, in turn, can be
+              formalized in
+meta-languages based on logics or type systems. 
+              Specifying
+operational semantics in such meta-languages allows formal
+              results
+about semantics to be derived by reasoning within the
+              meta-language:
+for example, type soundness for a programming language might
+              be
+derived as a formal consequence from the theories specifying typing
+and
+              evaluation semantics.  One challenge in developing a framework for
+such
+              reasoning is the proper treatment of induction when higher-order
+abstract
+              syntax, an elegant and declarative treatment of object-level
+abstraction and
+              substitution, is used to encode syntax.  Current
+approaches to inductive
+              reasoning requires that syntax be coded using
+the first-order techniques of
+              algebraic terms, which itself requires
+clumsy encodings for binding and
+              substitution.  A meta-logic that can
+be used to reason inductively about
+              judgments coded using higher-order
+abstract syntax will be developed: this
+              meta-logic will be an
+extension of a higher-order intuitionistic logic that
+              admits induction
+and a notion of definition.  A prototype system that
+              implements this
+logic and uses it to reason about computations specified
+              in
+operational semantics will be developed.

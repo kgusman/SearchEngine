@@ -1,0 +1,50 @@
+Title       : Computational Topology in Robust Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 20,  1995 
+File        : a9510656
+
+Award Number: 9510656
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1995    
+Expires     : September 30,  1998  (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Edmond A. Jonckheere jonckhee@eudoxus.usc.edu  (Principal Investigator current)
+              Douglas J. Ierardi  (Co-Principal Investigator current)
+              Jean-Luc Gaudiot  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+              55        Engineering-Electrical                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9510656  Jonckheere         Traditional robustness issues in uncertain feedback
+              systems  analysis and design can be approached by considering the space of 
+              uncertain parameters cut into two pieces by the crossover  hypersurface
+              separating that part of the uncertainty where  specifications are met from that
+              part where specifications are  not met.  A crucial observation is that this
+              separating  hypersurface can get very complicated and complexity bounds on  its
+              homology can be found.  In addition to the possibility of  computing the u
+              function from this geometric situation,  structural instability of the
+              hypersurface has indeed appeared to  be the only way to explain the
+              embarrassing problem of lack of  continuity of the real  u-function relative
+              the "certain"  parameters.  A prototype code for simplicial algorithm 
+              construction and display of the hypersurface - using the emerging 
+              computational geometry technology - is already on the verge of  becoming
+              operational.       The first objective of this proposal is to further develop 
+              this code into a more powerful, user-friendly one using state-of-  the-art
+              computational geometry, anisotropic gridding, etc.       The second objective
+              of this proposal is to develop  algebraic code (Grobner basis) for singularity
+              of the Nyguist map  that could reveal the potential for structural instability
+              of the  hypersurface or lack of continuity of performance relative to  rounding
+              errors.  Special attention will be devoted to  singularity over a stratified
+              uncertainty space.  ***

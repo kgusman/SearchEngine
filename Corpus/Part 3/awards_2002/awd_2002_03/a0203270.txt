@@ -1,0 +1,61 @@
+Title       : Sparse Matrix Algorithms and their Application to Dual Active Set Techniques in
+               Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 18,  2003     
+File        : a0203270
+
+Award Number: 0203270
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $510000             (Estimated)
+Investigator: Timothy A. Davis davis@cise.ufl.edu  (Principal Investigator current)
+              William W. Hager  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Davis, Timothy
+University of Florida
+0203270
+
+The focus of this project is
+              the development of innovative library-quality software and under-
+lying
+              mathematics for dual active set techniques in optimization.The dual active set
+              algorithm
+(DASA)was .rst introduced in the context of state constrained
+              control problems,and later in the
+context of constrained mathematical
+              programs.For linear or quadratic programming,each step of
+the algorithm is
+              equivalent to solving a linear system of equations,and in successive
+              steps,there
+is a small rank change in the matrix corresponding to the change
+              in the active set.Numerical
+experience has shown that the dual active set
+              framework is an extremely e .cient approach for
+solving some broad classes of
+              optimization problems,including problems in optimal control and
+quadratic
+              network optimization.A version of the algorithm targeted to linear programming
+              has
+already solved some LPs that other state-of-the-art packages are unable to
+              solve.We will develop
+a variety of sparse matrix techniques,which have broad
+              applicability,and which provide,in par-
+ticular,the numerical foundation for
+              DASA.Each technique will be developed into library-quality
+software and made
+              widely available.These include:

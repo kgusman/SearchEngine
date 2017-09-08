@@ -1,0 +1,45 @@
+Title       : Code Generation for ILP Architectures with Partitioned Register Banks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 25,  2000 
+File        : a9870871
+
+Award Number: 9870871
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $330434             (Estimated)
+Investigator: Steven M. Carr carr@mtu.edu  (Principal Investigator current)
+              Philip H. Sweany  (Principal Investigator former)
+Sponsor     : Mich Technological Univ
+	      1400 Townsend Drive
+	      Houghton, MI  499311295    906/487-1885
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Current microprocessor design directions are towards chips that  provide greater
+              instruction-level parallelism (ILP).  Unfortunately, large amounts of ILP
+              hardware and aggressive  instruction scheduling techniques put large demands on
+              a machine's  register resources. With large levels of ILP, it is difficult to 
+              maintain a single register bank.  The number of ports required for  such a
+              register bank severely hampers access time and may require  too much chip
+              space. As a result,partitioned register banks with  limited connectivity are
+              needed forhigh ILP architectures. The use  of partitioned register
+              banks,however, inhibits ILP when data is  fetched from another register bank.
+              This research addresses  methods to reduce the overhead associated with
+              partitioned  register banks in a machine-independent fashion. Specifically, the
+               research addresses the following issues 1. A machine-independent  program
+              representation modeling communication and parallelism.  2. New algorithms to
+              partition data amongst a machine's register  banks. 3. Loop transformations
+              that expose the data parallelism at  the instruction level. 4. Clustering
+              schemes that allow a group of  functional units to access a single register
+              bank. As a result of  this research, higher levels of ILP will be more
+              attractive due to  a lower overhead associated with partitioned register banks.

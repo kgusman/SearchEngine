@@ -1,0 +1,49 @@
+Title       : Distributed Access Control for Accountable Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 26,  2002      
+File        : a0209083
+
+Award Number: 0209083
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $480000             (Estimated)
+Investigator: Dominic Duggan dduggan@cs.stevens-tech.edu  (Principal Investigator current)
+              Jan Vitek  (Co-Principal Investigator current)
+Sponsor     : Stevens Inst of Technology
+	      Castle Point on Hudson
+	      Hoboken, NJ  07030    201/216-5000
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1667,9218,HPCC,
+Abstract    :
+              Assurance for distributed systems is based on constantly strengthening the
+              protective boundaries that prevent and detect unauthorized access to computer
+              systems. Accountability, ensuring that principals are liable for their actions,
+              is an equally important issue. This project investigates a programming language
+              approach to tracking accountability in distributed systems, specifically by
+              extending the Java language to maintain a fine-grained audit trail for
+              accountability purposes.
+
+The proposed approach is based on associating
+              secrecy (access control) and integrity information with data as it is retrieved
+              and copied over the network.  Distributed access control is not just enforced
+              at one point in the network where the data is accessed, but may be enforced
+              wherever a copy of the data is accessed.  Distributed information flow types
+              enforce access rights and enforce a form of causality that supports tracking of
+              tracking of accountability for principals.  In recognition of the fact that
+              communication may be over an insecure network, sensitive data is assumed to be
+              "virtually" signed or encrypted, for integrity and secrecy guarantees,
+              respectively.  The computational burden of the ubiquitous application of
+              cryptographic operations is avoided through the use of cryptographic types for
+              static checking where possible.
+
+

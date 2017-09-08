@@ -1,0 +1,69 @@
+Title       : Development of Numerical Methods for Semiconductor Device Simulation and
+               Electron Microscopy
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 22,  2001    
+File        : a0106743
+
+Award Number: 0106743
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Sigal Gottlieb sgottlieb@umassd.edu  (Principal Investigator current)
+Sponsor     : Univ of Mass, Dartmouth
+	      285 Old Westport Road
+	      North Dartmouth, MA  02747    508/999-8953
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              This study will focus on two numerical techniques for discontinuous problems and
+              their physical applications. Particular attention will be paid to the
+              development of a numerical method and its impact on refining the mathematical
+              model of the physical system. Sharp gradients and discontinuities are
+              characteristic of semiconductor device simulations. While numerical methods
+              have been developed to handle these characteristics, these methods need to be
+              refined and tailored to capture the features exhibited by carrier flow in
+              semiconductor device simulations.  On the other hand, the mathematical models
+              that are used to describe carrier transport in semiconductors are constantly
+              evaluated and changed.   Steady-state weighted essentially non oscillatory
+              methods will be refined and used to determine the validity of macroscopic
+              models of current transport and deposition in semiconductor devices.
+              Discontinuities are also a problem in the determination of protein structure by
+              electron microscopy. The inherently discontinuous nature of physical
+              structures, and the assumption that repetition of the structure in a gridlike
+              formation is a periodic function leads to slow decay of the Fourier
+              coefficients. Fourier coefficient extrapolation and Gegenbauer polynomial
+              methods will be further developed and applied to the field of electron
+              microscopy to achieve better resolution protein structures. This has the
+              potential to be added to any electron microscopy software as a postprocessing
+              step, and provide better resolution structures.
+
+Numerical methods for
+              semiconductor device simulation models allow efficient and inexpensive
+              simulation of the processes involved in semiconductor device production.
+              However, these processes have many discontinuities that require sensitive
+              numerical methods to capture the sharp changes in density and pressure without
+              smearing them. Such methods, known as Weighted Essentially Non-Oscillatory
+              methods, have been developed for use in similar problems, but are not efficient
+              for the long time scales necessary for semiconductor simulations. The aim of
+              this project is to further develop these numerical methods, and make them
+              efficient for semiconductor device simulation on computers. Efficient numerical
+              methods will also serve to compare different models, which attempt to describe
+              the physical problem, and to evaluate which models best compare to reality.
+              Another aspect of this project deals with the effects of discontinuities in
+              protein structures studied by electron microscopy. Mathematical methods have
+              been recently developed to solve the underlying problem by adding a smoothing
+              step, which smoothes away numerical artifacts while keeping the real
+              discontinuities. These methods have never been used on protein structures, and
+              need to be tailored to it. These methods may improve the resolution of protein
+              structures determined by electron microscopy.  
+

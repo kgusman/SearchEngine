@@ -1,0 +1,47 @@
+Title       : On-Demand Delivery of Large Popular (Multimedia) Data Files
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 19,  1999     
+File        : a9975044
+
+Award Number: 9975044
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1999       
+Expires     : May 31,  2002        (Estimated)
+Expected
+Total Amt.  : $250626             (Estimated)
+Investigator: Mary K. Vernon vernon@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This proposal will develop next generation data delivery techniques for the Web
+              and other on-demand data delivery systems that contain large, popular, widely
+              shared data files.  The project includes several research efforts.  One key
+              goal is to design improved (or optimized) delivery architectures that provide
+              immediate service at reduced (or minimal) server bandwidth.  Another key goal
+              is to develop tractable models to compute the regional cache contents that
+              minimize delivery cost for systems with diverse object lengths and delivery
+              rates, and with heterogeneous regional server capabilities and client loads.  A
+              third goal is to derive basic system design principles by using the optimized
+              cache content calculations to determine how delivery cost and the optimal
+              caching strategy are influenced by key system and workload parameters.  A
+              fourth goal is to develop extensions to the dynamically scheduled delivery
+              architecture to optimize support of (encoded) variable bit rate data streams. 
+              Finally the project will address several implementation issues, including
+              server disk layout for the dynamically scheduled data segments, methods for
+              informing clients of scheduled and reassigned multicast segment deliveries, and
+              methods for coordinating shared data delivery between the (remote) information
+              source server and the regional/proxy server.  The results of this research are
+              being incorporated in a prototype on-demand data delivery system to demonstrate
+              implementation feasibility and to validate the projected performance
+              improvements.

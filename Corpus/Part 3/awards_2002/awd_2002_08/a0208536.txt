@@ -1,0 +1,103 @@
+Title       : Innovative Programming Technology for Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 18,  2003     
+File        : a0208536
+
+Award Number: 0208536
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Robert L. Constable rc@cs.cornell.edu  (Principal Investigator current)
+              Mark Bickford  (Co-Principal Investigator former)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Innovative Programming Technology for Embedded Systems
+
+
+This is a proposal
+              to provide innovative programming technology for
+designing and implementing
+              reliable distributed embedded systems.  The proposal
+addresses a critical
+              generic problem and a major opportunity.  The generic
+problem is that the
+              research community does not know how to scale logical
+methods that are known
+              to improve programs and small systems to the task of
+improving larger systems.
+               The opportunity is that new methods of factoring are
+possible for embedded
+              systems, and new kinds of specifications are important.
+This project
+              approaches the problem/opportunity by creating advanced logical
+methods and
+              tools to structure embedded systems in a new way and to draw on
+relevant
+              formal knowledge about them to accelerate both the design and coding
+process
+              and to improve the quality of the system code and its documentation.
+
+
+The
+              project will add extensive formal knowledge to a logical
+              programming
+environment (LPE) and use it to generate system components that
+              are correct by
+construction and to combine components based on semantic
+              methods.  The
+semantics supports formal classes and aspect-oriented
+              programming.  One test
+case for the new methods is a particular distributed
+              embedded system called
+MediaNet -- a system for processing various media
+              (audio, video, text) over a
+distributed computing network to adaptively
+              respond to quality of service
+constraints.
+
+The project will use
+              mathematical knowledge about media streams and transition
+systems to precisely
+              formulate design requirements and component functionality.
+Quality of service
+              constraints will be incrementally added to the functional
+specifications and
+              used to automatically modify the proof and the extracted
+code so that these
+              requirements are met.  This is a very high level example of
+formal
+              aspect-oriented programming and proof reuse.
+
+The library of formal knowledge
+              about the system will be organized as a
+mathematical theory.  That
+              organization draws on concepts about stream
+transformers, the distributed
+              network of machines, quality of service
+properties and communication services.
+               An expressive logic will be used to
+state properties of the system and keep
+              track of logical dependencies among
+system components.
+
+The project team has
+              considerable experience working together building and
+supporting distributed
+              communications systems by specifying and verifying
+communication protocols and
+              optimizing them using formal methods.
+

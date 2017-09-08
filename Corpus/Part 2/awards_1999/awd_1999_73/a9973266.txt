@@ -1,0 +1,77 @@
+Title       : Some Approximation Problems in Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 28,  1999      
+File        : a9973266
+
+Award Number: 9973266
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $129499             (Estimated)
+Investigator: Luca Dieci dieci@math.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Dieci
+9973266
+
+The investigator and his collaborators analyze and implement
+              techniques to tackle several problems in differential equations and matrix
+              analysis.  The following topics are studied: (1) smooth orthonormal
+              factorizations of parameter dependent matrices and connected applications,(2)
+              computation of Lyapunov exponents with applications, (3) stability and
+              bifurcations of invariant tori, (4) computation of matrix exponential and other
+              functions of a matrix, and Riccati equations.  In all cases, theoretical
+              analysis and extensive computational testing are undertaken, and codes for the
+              outlined tasks are developed.  Specific aims include implementation of
+              techniques to compute QR and SVD of fundamental matrix solutions, techniques to
+              update invariant subspaces factorizations and SVDs of parameter dependent
+              matrices, and applications connected to such techniques; implementation of
+              methods to compute Lyapunov exponents and related stability information of
+              continuous dynamical systems; techniques to compute the Lyapunov type numbers
+              of Fenichel and use these quantities to monitor continuability and bifurcations
+              of invariant tori; approximation of the exponential of a matrix in case the
+              matrix is block triangular, and other aspects of computation of functions of a
+              matrix.
+
+To model physical phenomena in a compact way, differential equations
+              are probably the most powerful tool we have.  Differential equations can model
+              complicated chemical interactions and biological phenomena, manufacturing
+              plants, robot and satellite motions, transport properties of materials, and a
+              host of other phenomena of interest in the applied sciences.  However,
+              typically one can only guarantee that differential equations have a solution,
+              but it cannot be provided in closed form.  Moreover, in a typical situation,
+              there will be uncertainties in the phenomenon under study, and these will show
+              up as parameters in the differential equation model.  Loosely speaking, the
+              fundamental question is then to understand the stability of solutions (as
+              parameters change).  Now, suppose that we have obtained (at a high price)
+              detailed information on the solution to our model for a certain parameter value
+              in the model.  We may hope that if we change the parameter just slightly, we
+              will be able to obtain detailed information for the new parameter value at a
+              fraction of the cost we previously paid.  Basically, this expectation forms the
+              principle of so-called "continuation techniques."  The investigator studies
+              approximation techniques to solve differential equations which aim at assessing
+              the stability of the solutions and at exploiting continuation techniques.  The
+              goal is to eventually obtain approximation of a differential equation model in
+              a way which will give the complete picture of solutions of the model as its
+              parameters vary inside a certain (physical) range.  This goal finds its
+              concrete realization in the study of quantities which serve as indicators of
+              stability (the so-called Lyapunov exponents) and in computer programs which
+              approximate these quantities.  The investigator also uses these Lyapunov
+              exponents for predicting bifurcation phenomena and assessing error propagation
+              when solving differential equations.  Finally, the investigator studies
+              continuation techniques for matrix factorizations and produces computer
+              programs for continuation techniques.
+

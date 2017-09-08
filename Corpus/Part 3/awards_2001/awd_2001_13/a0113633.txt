@@ -1,0 +1,58 @@
+Title       : ITR/SY (CISE): Software Improvement Through Binary Rewriting
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 30,  2002  
+File        : a0113633
+
+Award Number: 0113633
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $372900             (Estimated)
+Investigator: Saumya K. Debray debray@cs.arizona.edu  (Principal Investigator current)
+              Gregory R. Andrews  (Principal Investigator former)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 0000,1658,1686,9216,OTHR,
+Abstract    :
+              ABSTRACT
+Proposal #0113633
+U of Arizona
+Andrews, Gregory
+
+A binary
+              rewriting system is a software system that transforms a binary (executable)
+              program into a different but functionally equivalent binary program.  This
+              project is developing binary rewriting techniques for flexible link-time and
+              run-time code optimizations.  The aim is to develop a unified binary rewriting
+              infrastructure that is able to handle a wide variety of
+              applications---sequential, parallel, distributed,
+and mobile---hardware
+              architectures---from RISC to CISC---and optimization criteria---including
+              execution time, power consumption, and communication bandwidth.
+
+Existing
+              techniques for compile-time code optimization suffer from several limitations: 
+              they are unable to cross the dividing line between application code and
+              libraries; they cannot take advantage of commonly encountered values along the
+              critical path if such values cannot be guaranteed to be compile-time
+              constants;
+and they typically focus only on improving execution time.  To
+              overcome these limitations, this project is investigating the following topics:
+               (1) low-level cost models that can be used for cost-benefit analyses of
+              different optimization metrics; (2) efficient computation of value profiles and
+              their use for
+low-level code specialization; and (3) techniques that reduce
+              the overheads associated with communication libraries used by parallel and
+              mobile applications.
+

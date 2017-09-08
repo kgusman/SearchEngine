@@ -1,0 +1,147 @@
+Title       : Evolution of Co-dimension k>1 Manifolds Embedded in R^n and Applications to
+               Medical Image Analysis
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 25,  2001      
+File        : a9972228
+
+Award Number: 9972228
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $202500             (Estimated)
+Investigator: Olivier D. Faugeras faugeras@ai.mit.edu  (Principal Investigator current)
+              Eric L. Grimson  (Co-Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9183,9216,9263,BIOT,HPCC,OTHR,
+Abstract    :
+              Faugeras
+9972228
+     The investigators and their colleagues study the problem
+              of
+automatically clustering sets of points that lie on smooth
+manifolds of
+              arbitrary co-dimension.  They use the geodesic snake
+approach in which they
+              set up a Partial Differential Equation
+(PDE) that drives the evolution of a
+              manifold in some potential
+field created by the data points, such that the
+              solution of the
+PDE converges to a manifold that is very close to the data
+              points
+(ideally contains them).  The "shape" of this manifold (including
+its
+              co-dimension) characterizes the set of points.  They
+investigate
+              computationally efficient implementations for
+evolving manifolds of arbitrary
+              co-dimension by level sets
+methods, because of their robustness and
+              flexibility.  These
+implementations are being used to study the Euclidean and
+              affine
+mean-curvature motion of curves in three-dimensional spaces. 
+              Two
+applications are being pursued by the investigators.  The
+              first
+application is the detection of blood vessels in Magnetic
+Resonance
+              Angiography (MRA) images.  In MRA images, blood vessels
+appear as bright and
+              noisy curve-like patterns, possibly with
+gaps.  It is important to detect
+              those patterns independently of
+the noise and to bridge the gaps.  The
+              detection of blood vessels
+can be considered, as a first approximation, as an
+              instance of
+the three-dimensional case, co-dimension two.  The
+              second
+application is the clustering of feature points in higher
+dimensional
+              spaces with an eye on two specific problems, the
+description of the "shape" of
+              a cluster and the design of
+automated content-based image retrieval systems. 
+              A given pattern,
+e.g. an image, can be represented by a vector of features in
+              some
+n-dimensional space.  Patterns in the same class usually fall
+              into
+clusters that may have some very tricky "shapes".  The
+investigators and
+              their collegues believe that their methods can
+provide ways of automatically
+              obtaining shape descriptions from
+sets of sample feature vectors thereby
+              facilitating the design of
+recognition algorithms and improving their
+              performances.  A target
+application is the design of automated content-based
+              image
+retrieval systems.
+     The investigators and their colleagues study
+              the problem of
+automatically fitting a set of points in a
+              possibly
+high-dimensional space to a set of smooth manifolds.  This
+              is
+important because in many practical applications data can be
+represented
+              as points in high-dimensional spaces.  They are
+currently pursuing two
+              applications of these techniques.  The
+first one is the detection of blood
+              vessels in Magnetic Resonance
+Angiography (MRA) images.  In MRA images, blood
+              vessels appear as
+bright and noisy curve-like patterns, possibly with gaps. 
+              It is
+important to detect those patterns independently of the noise and
+to
+              bridge the gaps.  The results of this detection can be used in
+the diagnosis
+              of diseases and in planning surgery.  The second
+application is the
+              description of the "shape" of a cluster of
+points in a high-dimensional space.
+               The investigators and their
+colleagues are investigating means of
+              automatically obtaining
+such descriptions from a set of samples.  They believe
+              that this
+will facilitate the design of recognition algorithms and
+              increase
+their performances.  A target application that is
+              particularly
+relevant to the average citizen is the design of
+              automated
+content-based image retrieval systems.  In such systems each
+              image
+can be represented by a point in some high-dimensional (10 to
+              20)
+feature space, and images in the same class, e.g. images of cars,
+cluster
+              on some manifold, e.g a "car-manifold".  The description
+of the shape of this
+              manifold (which is simpler than the real
+shapes of the objects in the class)
+              can then be used to retrieve
+all images of, e.g. cars, in the data base
+              because their
+representations in the high-dimensional space will be closer
+              to
+the corresponding manifold than to any other.
+

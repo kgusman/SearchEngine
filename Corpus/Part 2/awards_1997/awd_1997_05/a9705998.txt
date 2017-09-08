@@ -1,0 +1,49 @@
+Title       : LMC: A System for the Specification and Evaluation of Logic-Based Model Checking
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : June 18,  2002      
+File        : a9705998
+
+Award Number: 9705998
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $1223697            (Estimated)
+Investigator: Scott A. Smolka sas@cs.sunysb.edu  (Principal Investigator current)
+              David S. Warren  (Co-Principal Investigator current)
+              Terrance L. Swift  (Co-Principal Investigator current)
+              C. R. Ramakrishnan  (Co-Principal Investigator current)
+              I. V. Ramakrishnan  (Co-Principal Investigator current)
+              Yella Pantula S. Ramakrishna  (Co-Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The objective of this project is to deploy the latest advances in  concurrency
+              research and in logic programming systems to build a  software environment
+              called LMC for system specification and  verification. LMC's main function is
+              model checking: determining  whether a software system possesses a particular
+              formally  specified property. LMC is built from two independently developed 
+              systems, each of significant interest in its own domain: the  Concurrency
+              Factory verification toolkit (developed jointly by  Stony Brook and NC State),
+              and the XSB tabled logic programming  system (developed by Stony Brook).    The
+              anticipated benefits of this research include the following:  a model checker
+              in XSB is specified at the level of semantic  equations, meaning a system for a
+              specific specification language  and logic can be coded in several hundred
+              lines of XSB code  rather than in tens of thousands of lines of C++ code; the 
+              programmability of XSB allows for direct encoding of important  model checking
+              optimizations; in XSB it is possible to interleave  arbitrarily model checking
+              computational steps with deduction  steps without penalizing the performance of
+              the former. These  features are expected to make LMC a practical tool for
+              formally  assuring the correctness of critical software systems such as 
+              network protocols.

@@ -1,0 +1,69 @@
+Title       : An Integrated Framework for Mechanical Verification of Fault-Tolerant Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 25,  1996     
+File        : a9509931
+
+Award Number: 9509931
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1996      
+Expires     : March 31,  1999      (Estimated)
+Expected
+Total Amt.  : $345147             (Estimated)
+Investigator: John M. Rushby rushby@csl.sri.com  (Principal Investigator current)
+              Patrick D. Lincoln  (Co-Principal Investigator current)
+              Natarajan Shankar  (Co-Principal Investigator current)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+                  Formal verification is a technique for reducing certain questions  about the
+              requirements, designs, or implementations of computer  software and hardware to
+              a mathematical form that can examined by  methods having the character of
+              calculation.  Similar to the way in  which questions about the properties of an
+              aerofoil can be reduced to  calculations that can be mechanized by
+              computational fluid dynamics,  mechanized formal verification uses automated
+              theorem proving and  related methods (e.g., model checking) to perform logical 
+              calculations about the properties of computer systems.  Whereas  testing can
+              examine only some of the behaviors of a complex system,  mechanized formal
+              verification can examine all the behaviors of a  model of the system (again,
+              the situation is analogous to flight test  vs. computational fluid dynamics). 
+              Using mechanized formal  verification, suitably realistic models can provide
+              strong evidence  for the correctness of computer systems, and simplified models
+              are  often useful for detecting bugs that testing does not encounter.   
+              Mechanized formal verification is most effective when applied to the  hardest
+              and most critical elements of design.  An area where it holds  great promise is
+              in the analysis of fault-tolerant systems, where the  presence of faults can
+              produce a complexity of behavior that defies  other forms of analysis. The
+              increased assurance provided by  mechanized formal verification can be of
+              particular value for fault-  tolerant systems because these are generally found
+              in applications  that are critical to safety (such as aircraft and other
+              vehicles) or  national infrastructure (such as the telephone,
+              power-distribution,  and banking systems).    The objectives of this research
+              are to reduce mechanized formal  verification of fault-tolerant distributed
+              algorithms from tours-de-  force to routine practice, and to develop a
+              framework for mechanical  verification of the architectures of complete
+              fault-tolerant systems  composed from such algorithms. Th e research focuses on
+              developing  systematic methods for the formal specification of classes of
+              fault-  tolerant algorithms, and mechanized strategies for their exploration 
+              and verification. These strategies will build on techniques that  combine
+              decision procedures and model checking within an interactive  framework.  The
+              algorithms considered will include those for  distributed consensus,
+              synchronization, diagnosis, and group  membership.    The work is expected to
+              yield improved understanding of the  assumptions, constraints, and fault models
+              underlying the algorithms  studied, more refined arguments for their
+              correctness, and coherent  arguments for their synthesis into an overall
+              architecture.  In  addition, the research is expected to yield new results in
+              the  construction and application of formal verification systems, and  improved
+              methods for the formal representation and analysis of fault-  tolerant
+              algorithms.  ***

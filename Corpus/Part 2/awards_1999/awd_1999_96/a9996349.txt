@@ -1,0 +1,78 @@
+Title       : Efficient, High Resolution, Numerical Methods for Free-boundry Problems with
+               Surface Tension
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 26,  1999      
+File        : a9996349
+
+Award Number: 9996349
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1999       
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $26600              (Estimated)
+Investigator: Mark M. Sussman sussman@math.fsu.edu  (Principal Investigator current)
+              Elbridge G. Puckett  (Co-Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323063067    850/644-5260
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 
+Program Ref : 9148,9216,9263,HPCC,MANU,
+Abstract    :
+              9706847  Sussman    This research concerns the analysis and development of
+              numerical techniques for modeling solutions of the Navier-Stokes equations for
+              two-phase incompressible flow.  This methodology is specifically targeted at
+              problems characterized by large density and viscosity jumps (e.g.  air/water)
+              and stiff, singular source terms, such as those due to the surface tension
+              force.  Problems with these features are extremely important in science and
+              industry.  Casting, mold filling, thin film processes, extrusion, spray
+              deposition and jets are just a few examples.  These problems present
+              considerable challenges.  Standard finite difference methods can either be too
+              dissipative or too oscillatory near regions of large density variations.  The
+              resulting elliptic equation for enforcing the divergence free condition on the
+              velocity field (projection step) has coefficients that exhibit a large jump at
+              material interfaces.  The resulting elliptic equation will also have a widely
+              varying source term at material interfaces, since the divergence of the surface
+              tension term will appear as a singular source term for the projection equation.
+               In this research, the proposers plan to work in close collaboration with Dr.
+              John Andrews of Xerox and David Wallace of Microfab technologies in developing
+              numerical methods for modeling jetting devices.  In an ink-jet device, it is
+              important to study the characteristics of droplet formation.  Because surface
+              tension plays a large role in the droplet formation process, it is important
+              for a numerical method to accurately model the surface tension effects during
+              break-up of a droplet.  It is also important for a numerical method to
+              accurately predict the size of emitted droplets.  Currently an adaptive level
+              set method and a second order volume-of-fluid method have been developed for
+              computing two-phase flows as characterized above.  Objectives of the proposed
+              research include improved numerical modeling of the interface between material
+              boundaries and improved mo deling of surface tension, especially at points of
+              droplet break-up.  In the process of this study, the proposers will compare the
+              behavior of the levelset method to that of the volume of fluid method which use
+              a very similar formulation for the surface tension force.  The proposers will
+              also compare numerical solutions to solutions obtained  via asymptotic methods
+              and drop experiments conducted by Xerox.     This research concerns the
+              analysis and development of numerical techniques for modeling incompressible
+              two-phase flow (such as air and water).  Problems in two-phase flow are
+              extremely important in science and industry.  Casting, mold filling, thin film
+              processes, extrusion, spray deposition and jets are just a few examples.  In
+              this research, the proposers plan to work in close collaboration with Dr. John
+              Andrews of Xerox and David Wallace of Microfab technologies in developing
+              numerical methods for modeling jetting devices.  These companies develop
+              jetting devices used in ink-jet printers, solder deposition and the fabrication
+              of micro-optical elements.  In a jetting device, it is important to study the
+              characteristics of droplet formation.  Because surface tension plays a large
+              role in the droplet formation process, it is important for a numerical method
+              to accurately model the surface tension effects during break-up of a droplet. 
+              It is also important for a numerical method to accurately predict the size of
+              emitted droplets.  Objectives of the proposed research include improved
+              numerical modeling of the interface between material boundaries and improved
+              modeling of surface tension, especially at points of droplet break-up.  In the
+              process of this study, the proposers will compare the behavior of the
+              computational method with drop experiments conducted by Xerox.

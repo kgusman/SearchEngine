@@ -1,0 +1,51 @@
+Title       : Vlsi Design Methods for Low Power Embedded Encryption
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 29,  2001      
+File        : a0098361
+
+Award Number: 0098361
+Award Instr.: Standard Grant                               
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2001        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $431981             (Estimated)
+Investigator: Ingrid Verbauwhede ingrid@ee.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The Internet and wireless communication explosion increase the demand for
+              privacy, authentication and security in general. Encryption is not only added
+              to PC's and Internet routers. There is a whole new class of embedded
+              applications that requires high levels of security at low power. Examples are
+              smart cards, cell phones, PDA's, sensor networks, etc. The current approach is
+              to build an ASIC library of so-called IP (Intellectual Property) modules, each
+              implementing one algorithm: DES, triple DES, RSA, SHA-1, and so on. Due to the
+              increased demand for security, there is also a proliferation of encryption
+              algorithms. Examples are the new AES standard, the Camellia initiative of the
+              Japanese NTT, Kasumi for 3th generation cellular standards, IPSEC, etc. So this
+              IP approach can no longer be sustained. 
+Therefore, the focus of this research
+              is the design of new fast, low power encryption platforms that at the same time
+              can easily be reprogrammed and reconfigured. On top of this, cryptographic
+              implementations need to withstand power and timing attacks. To withstand these
+              attacks, the execution time and the power consumption has to be independent of
+              the data or the key. This is in contradiction with low power or high speed
+              implementation techniques. The VLSI design methodology to build these
+              processors covers different levels of abstraction. At the circuit level, new
+              circuit styles are developed that withstand power and timing attacks. At the
+              interconnect level a novel RF on-chip wireless LAN technique is integrated. At
+              the architecture level, reconfigurable data path modules are designed which
+              execute the unusual arithmetic of encryption algorithms.
+
+

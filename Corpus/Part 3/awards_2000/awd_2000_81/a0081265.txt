@@ -1,0 +1,67 @@
+Title       : ITR: An Optimizing Compiler for Languages with Programmable Memory Models
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 21,  2002  
+File        : a0081265
+
+Award Number: 0081265
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $490000             (Estimated)
+Investigator: David A. Padua padua@uiuc.edu  (Principal Investigator current)
+              Samuel P. Midkiff  (Co-Principal Investigator former)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9218,HPCC,
+Abstract    :
+              The memory model for a programming language specifies
+the relationship between
+              the order in which data accesses
+appear in a program and the order seen during
+              execution by
+the different program components With the advent of
+              parallel
+programming environments like Posix threads, Java, and OpenMP,
+              multi-
+threaded explicitly parallel programs have become much more
+frequent.
+              This increases the need for memory models that
+are easy to understand and
+              efficient so that correct pro-
+grams can be developed and still give good
+              performance.
+Unfortunately, the usability of memory models, their impact
+on
+              performance, and the compiler technology needed to per-
+form optimizations of
+              parallel programs are poorly under-
+stood. The result is that current memory
+              models tend to
+favor performance over usability by restricting the
+              programs
+that can be written with them, or by being difficult to
+understand.
+              The objective of this project is to study com-
+piler techniques to optimize
+              explicitly parallel programs by
+using optimizations and analysis algorithms
+              structured to
+handle a broad class of consistency models. The
+              techniques
+studied will be implemented in a compiler that will serve
+as a
+              testbed for prototyping and studying programming
+language memory models and
+              for studying the optimization
+and analysis of explicitly parallel programs.

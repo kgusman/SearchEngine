@@ -1,0 +1,86 @@
+Title       : ITR: Multiple Time Scale Traffic Control for Next Generation Internets
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 20,  2002 
+File        : a0082861
+
+Award Number: 0082861
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $460370             (Estimated)
+Investigator: Kihong Park   (Principal Investigator current)
+              Chao-Ju Hou  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9102,9218,HPCC,
+Abstract    :
+                   The Internet is governed by a compendium of protocols spanning a number of
+              functionalities including congestion control, routing, multicast, label
+              switching, resource reservation and admission control, error control, and
+              network management. These protocols engage in control actions at multiple time
+              scales, from microseconds for routing and label switching, to milliseconds for
+              congestion control, and the several second range for multicast, routing table
+              updates, and network management. The behavior and performance of a network
+              system is influenced by the workload that drive the protocols - reliable
+              transport of heavy-tailed files, QoS-sensitive streaming of VBR video and
+              audio, burstiness of connection arrivals, skewed make-up of short- and
+              long-lived flows, and self-similar burstiness of multiplexed traffic - with
+              Internet workload exhibiting variability and correlation at multiple time
+              scales, from multiplicative scaling observed for IP flows in the millisecond
+              range, to long-range correlations present in the second range.
+     With QoS
+              emerging as a unifying umbrella under which the various network subsystems
+              can
+be organized and viewed as provisioning user-specified services, the need
+              arises to coordinate and
+integrate the control activities - many of whom have
+              direct impact on end-to-end QoS - such that
+both effective and efficient
+              services can be rendered. In tandem with the QoS integration challenge, the PIs
+              are presented with the opportunity to explicitly exploit the multiple time
+              scale nature of network protocols and Internet workload to affect seemless and
+              predictable services. In the proposed project, the PIs plan to address the
+              following two-pronged problem: (1) exploit multiple time scale property of
+              network protocols to facilitate effective coordination and integration of
+              disjoint network controls for end-to-end QoS, and (2) exploit multiple time
+              scale nature of Internet workload to achieve workload-sensitive traffic
+              controls.
+     Problem (1), in turn, is comprised of two key issues:
+              sufficiency or separation conditions under which two network controls - e.g.,
+              routing and congestion control-acting at different time scales can be
+              integrated without causing harmful effects with respect to stability and
+              efficiency, and the effective coupling of protocols when time scale separation
+              is not available - e.g., label control and congestion control. Problem (2)
+              consists of three key issues: short-lived connection management using
+              lightweight optimistic control, long-lived connection management using
+              connection duration prediction and multi-layered feedback control, and QoS
+              amplification through workload-sensitive, end-to-end and per-hop control. The
+              two-fold challenge that the PIs plan to attack is grounded in well-defined
+              technical problems, and at the same time, represents an innovative traffic
+              control dimension with broader implications to the next generation Internet.
+ 
+                 The PIs bring expertise in core traffic control areas spanning congestion
+              control (Park), QoS
+routing (Hou), multicast (Hou), label switching (Park),
+              and traffic modeling (Park). Both PIs
+have significant experience in
+              performance analysis and protocol design, and they complement each other's
+              strengths with respect to simulation (Hou) and implementation (Park) based
+              performance evaluation. The PIs will leverage existing benchmarking platforms -
+              the Purdue Infobahn QoS testbed comprised of Cisco 7206 routers (Park) and the
+              NetSim performance evaluation environment (Hou) - to implement, test, and
+              benchmark the protocols. The research results, technology demonstration, and
+              software prototypes will be made available through the Web to academic
+              institutions, industrial affiliates, and the networking community at large.
+

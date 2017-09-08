@@ -1,0 +1,66 @@
+Title       : Topics in Signal Design and Signal Analysis for Wireless Communication
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 19,  1999      
+File        : a9612864
+
+Award Number: 9612864
+Award Instr.: Continuing grant                             
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Vijay P. Kumar vijayk@ceng.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Some signal design/analysis problems relevant to wireless  communication are
+              under investigation.  Problems in the first class  relate to a code-division
+              multiple-access (CDMA) communication scheme  in which the receiver makes
+              optimum multi-user decisions.  The effect  the selection of a particular
+              sequence family has on the performance  of the system is under study.  One
+              measure of performance is the  capacity, i.e., the number of active users that
+              the system can  support.      Signature sequences influence this number through
+              their periodic and  aperiodic correlation properties.  These correlation values
+              tend to  diminish performance by reducing the minimum Euclidean distance 
+              between distinct multi-user signal sets.  Preliminary investigations  turned up
+              an interesting example involving Gold sequences of small  length in which
+              correlations reduced the Euclidean distance between a  multi-user signal and
+              its nearest neighbour to zero.       The obvious upper bound on capacity
+              obtained by replacing each  aperiodic correlation by the maximum over the
+              entire sequence family  provides much too conservative an estimate.  Thus
+              improved upper  bounds are currently being sought.      This requires a better
+              understanding of the distribution of aperiodic  correlation values obtained by
+              picking a randomly-delayed random  subset of the entire family of signature
+              sequences. This distribution  is under study both for a family of signature
+              sequences in general as  well as for specific families known to be efficient
+              with respect to  periodic correlation measures.      The understanding gained,
+              will be used in the design of improved  signal sets. For example, preliminary
+              investigations suggest that when  communicating data using phase-shift keying,
+              improved performance will  result if each user's phase transitions never exceed
+              90 degrees   since this has the effect of distributing the aperiodic
+              correlations  across the real and imaginary axes as opposed to simply the real
+              axis.     The second class of problems  under investigation deals with the 
+              IS-54/IS-136 North American digital cellular standard.   Here the goal  is to
+              come up with an efficient forward error-correction (FEC) scheme  well matched
+              to the IS-54/136 channel.   The motivtion came from  previous work in which a
+              nonlinear binary FEC code identified by the  author (the Nordstrom Robinson
+              code) turned out under soft-decision  decoding, to improve uniformly upon the
+              performance of the  convolutional code used in the current IS-54 standard. 
+              This was to  the surprise of many in both industry and academia as the binary
+              code  is of short block length (16) and has a small minimum distance (6), 
+              whereas the IS-54 employs a rate 1/2 convolutional code of contraint  length
+              (6).         The reason for this improved performance is under  investigation
+              and attempts are under way to identify the code best  matched to this channel. 
+              Some other problems of a miscellaneous  nature, all relevant to improved
+              wireless communcation are also being  studied.

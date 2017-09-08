@@ -1,0 +1,56 @@
+Title       : Challenges in CISE: TUNE: System Support for Memory-Friendly Programming
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 27,  2000 
+File        : a9726370
+
+Award Number: 9726370
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $1547929            (Estimated)
+Investigator: Kishor S. Trivedi kst@ee.duke.edu  (Principal Investigator current)
+              John A. Board  (Co-Principal Investigator current)
+              Xiaobai Sun  (Co-Principal Investigator current)
+              Alvin Lebeck  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2882,9216,9218,HPCC,
+Abstract    :
+              9726370  Trivedi, Kishor  Board, John A.  Duke University    Challenges in CISE:
+               TUNE: System Support for Memory-Friendly Programming    The pervasive use of
+              multi-level memory hierarchies in microprocessor-based machines makes the
+              performance of an application primarily determined by and extremely sensitive
+              to its memory mapping, and requires memory-friendly programming: careful layout
+              of data structures and restructuring of code to improve data locality. 
+              Techniques for improving memory system performance manifest themselves at
+              various levels, from high-level algorithms and data structures, through
+              compile-time analysis and restructuring of programs, to special architectural
+              primitives that allow an application to better manage the memory hierarchy. 
+              The lack of automatic tools for improving data locality currently forces many
+              application programmers to manually restructure their codes.  Unfortunately,
+              the sophisticated algorithms seen in modern scientific computing require
+              equally sophisticated restructuring techniques.  These techniques require
+              expertise in computer architecture, burden the programmer with tedious
+              machine-specific details unrelated to program correctness, and reduce the
+              readability, maintainability, and portability of the restructured code.  For
+              all these reasons, manual restructuring of programs of any significant size is
+              untenable, and some kind of system support is necessary.  This project targets
+              all aspects of this problem, from developing the relevant mathematical
+              techniques for representing and manipulating data locality, through
+              implementing interactive and automatic data locality management tools, to
+              proposing innovative memory architectures for future-generation systems.  The
+              efficacy of the resulting system will be demonstrated using programs
+              representative of modern scientific computations including divide-and-conquer
+              scientific computations such as N-body solvers (e.g., fastmultipole) and many
+              linear algebra kernels (e.g., Strassens's matrix multiplication algo rithm).

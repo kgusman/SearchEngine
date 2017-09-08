@@ -1,0 +1,45 @@
+Title       : Coordination Services for Distributed Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 10,  2001      
+File        : a0098179
+
+Award Number: 0098179
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $149871             (Estimated)
+Investigator: Gurdip Singh singh@cis.ksu.edu  (Principal Investigator current)
+Sponsor     : Kansas State University
+	      2 Fairchild Hall
+	      Manhattan, KS  665061103    913/532-6222
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9150,9217,HPCC,
+Abstract    :
+              To isolate a designer from the complexity of a distributed system, there is a
+              need for appropriate middleware abstractions.  It has been recognized that
+              these abstractions must be flexible and customizable to accommodate the wide
+              ranging application requirements.  Although many customizable frameworks have
+              been proposed, a general framework that can be used to implement different
+              synchronization-related requirements of a distributed application is lacking. 
+              The goal of the proposed project is to design a coordination service that
+              provides a basic infrastructure to implement synchronization.  A coordination
+              service will be designed that accepts a synchronization specification from an
+              application and interact with the application entities to allow only those
+              execution sequences permitted by the specification.  The used of
+              event-notification technology will be explored to implement the coordination
+              service.  New synchronization elements to be added to convert an
+              event-notification service into a coordination service will be identified.  The
+              research will focus on developing a scalable, fault-tolerant and customizable
+              coordination service.  A critical challenge will be to accommodate
+              synchronization without sacrificing the scalability of the event-notification
+              mechanism.  The effectiveness of the coordination service in providing services
+              to other middleware services will be evaluated.

@@ -1,0 +1,106 @@
+Title       : Smart Antennas for Future Reconfigurable Wireless Communication Networks
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 18,  2000       
+File        : a9979403
+
+Award Number: 9979403
+Award Instr.: Continuing grant                             
+Prgm Manager: James Mink                              
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1999    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $220475             (Estimated)
+Investigator: Constantine A. Balanis balanis@asu.edu  (Principal Investigator current)
+              J. T. Aberle  (Co-Principal Investigator current)
+              Jeffrey M. Capone  (Co-Principal Investigator current)
+              Trevor Thornton  (Co-Principal Investigator current)
+              Samir M. El-Ghazaly  (Co-Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1519      INTEGRATIVE SYSTEMS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9979403
+Balanis
+
+The antenna is one of the fundamental distinctions between a
+              wired and a wireless system. The design of the antenna impacts the development
+              of each component - from the circuit design to the receiver structure and
+              coding technique, as well as the channel access protocol - employed in future
+              wireless communication networks. The most challenging environment for the
+              design of each component is where the communication devices are extremely
+              small, low power computing and consuming mobile terminals. Furthermore, these
+              terminals may be able to move randomly and organize themselves in an ad hoc
+              communication structure. Such a network of communication terminals is referred
+              to as a mobile ad hoc network (MANET). It is proposed to investigate the use of
+              adaptive antennas (i.e., smart antennas) to improve channel quality in a MANET.
+              The design of a smart antenna for a MANET will pose many challenges in antenna,
+              feed network, signal processing, receiver, and protocol designs.
+
+The antenna
+              must be designed to be conformal to the portable device and to adapt to the
+              needs of the MANET. Depending on the needs of the MANET, the antenna will be
+              designed to have different modes of operation from omni-directional to highly
+              directive. A single antenna element will not be able to achieve these
+              characteristics and therefore, a collection of elements, referred to as an
+              array, will be needed. The array is a versatile antenna system and can perform
+              many different functions (including scanning, beam forming, etc.) by primarily
+              controlling the excitation amplitude and phase of its elements. The feed
+              network devices and circuitry, and the signal processing algorithms which must
+              be developed and also integrated into the entire system, will provide the
+              desired excitation of the elements for the antenna to meet the needs of the
+              MANET. The challenges to achieve these objectives include selection of the
+              antenna element and array geometry, and the modeling of the antenna system. The
+              physical realization of the selected antenna configuration and the integration
+              of the antenna and feed network models as well as the analysis of the effect of
+              the antenna on the overall system performance will be investigated. In
+              addition, the modeling of the propagation channel (multi-path, fading, etc.)
+              will also have fundamental impacts on the overall antenna system design.
+
+The
+              antenna feed network, consisting of controlling and matching devices and
+              circuits, will require extensive analysis and design tools. To accomplish the
+              tasks presented in this proposal, a large number of circuits operating at
+              future communication frequencies (20-GHz range), including matching networks,
+              low-noise and power amplifiers, oscillators, phase shifters, and mixers must be
+              developed. The circuits will be highly compacted and fabricated in several
+              layers to fit within the relatively small area available in a communication
+              device. This task requires clever selection of the semiconductor material for
+              fabrication, optimized semiconductor device structures, appropriate
+              high-frequency circuit designs, and highly accurate device and circuit analysis
+              tools. Moreover, the signal processing algorithms used in driving these
+              circuits must be considered in the overall design.
+
+The signal processing
+              algorithms, to control and adapt the different modes of operation of the
+              antenna, will be developed for analog and digital antenna beam-forming at high
+              (20 GHz) frequencies. This work will include the development of algorithms for
+              computation of gains and phases for use in analog phase shifters for the
+              antenna array. Although phase shifters will be initially realized in the analog
+              domain, a DSP algorithm will compute the gain and phase. The challenge here
+              lies in the frequent computation of antenna parameters intended for operation
+              in a rapidly changing environment such as a MANET. Digital realizations will be
+              addressed by developing spatio-temporal signal processing algorithms for
+              beam-forming. Channel coding may als0 be employed to provide diversity and to
+              suppress residual interference for multi-user communications over fading
+              channels. By using channel coding techniques, the same error rates with a lower
+              signal-to-noise ratio may be obtained resulting in an improved battery life of
+              each mobile terminal.
+
+From a networking point of view, smart antennas may
+              improve the performance of current channel access techniques for MANETs and may
+              allow for the development of new protocols. By employing an array of antennas,
+              it may be possible to develop protocols to control the multiple access
+              interference in the spatial dimension, as opposed to time or frequency, to
+              further improve the performance delivered to the terminals operating in a
+              MANET. The design of such channel access protocols is dependent on the signal
+              processing technique used in the smart antenna system.
+***

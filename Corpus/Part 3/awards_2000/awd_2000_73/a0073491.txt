@@ -1,0 +1,76 @@
+Title       : Compiler Support for Morton-order Matrices
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 21,  2001  
+File        : a0073491
+
+Award Number: 0073491
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $209939             (Estimated)
+Investigator: David S. Wise dswise@cs.indiana.edu  (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Two problems that constrain big computations
+appear to relax in the face of a
+              different
+representation for matrices and their constituent blocks.
+Morton
+              (or Z) order represents the elements
+of a matrix in computer memory
+              consecutively
+by larger and larger blocks.  This locality contrasts
+with
+              row-major (or column-major) order,
+which stores only elements in the same
+              row
+(column) close to one another.
+
+This project explores compilers for
+              Morton order as
+the default representation for arrays in higher-level
+              programming
+languages.
+It develops techniques to recompile existing
+              programs
+to code that uses Morton-order internally
+and respects modern memory
+              hierarchies and superscalar processors.
+These will interface cleanly to future
+              programs that
+use Ahnentafel indices, a generalization of Morton order,
+to
+              control divide-and-conquer algorithms to descend
+blocks of a matrix
+              recursively.
+So, it also supports the design of parallel algorithms
+that
+              decompose a computation into disjoint, memory-local processes.
+
+Morton order,
+              and block algorithms that use it,
+implicitly improve access patterns
+into
+              hierarchical memory:
+from registers, through caches, to RAM, to swapping
+              disk.
+That is, Morton order enhances locality of reference
+of one
+              process,
+while it helps to schedule multiple processes
+that don't interfere
+              with each other.
+

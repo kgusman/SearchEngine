@@ -1,0 +1,61 @@
+Title       : SPS: Multiple Description Coding with Correlating Transforms for Multiple
+               Antenna Wireless Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a0131855
+
+Award Number: 0131855
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $416789             (Estimated)
+Investigator: Yucel Altunbasak yucel@ece.gatech.edu  (Principal Investigator current)
+              Russell M. Mersereau  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #131855
+Altunbasak, Yucel
+GA Tech Res. Corp - GIT
+
+An effective way
+              of providing error resilience for multimedia transmission in a communication
+              system with a relatively small reduction in efficiency is multiple description
+              coding (MDC), which assumes the existence of multiple independent channels
+              between the transmitter and receiver, each of which can be temporarily down or
+              can experience burst errors.  With MDC several coded streams, called
+              descriptions, are generated and transmitted over different channels.  At the
+              destination, if all of the streams are received error free, then the signal can
+              be reconstructed at its highest level of fidelity.  However, if only one or a
+              few descriptions are received in a usable form, the receiver can still
+              reconstruct an acceptable signal.  All multiple description coding methods to
+              date assume an on-off channel mode between the transmitter and the receiver;
+              each link is either broken, in which case the transmitted symbols, or packets,
+              are lost completely, or it functions properly, in which case the packets are
+              received free of errors.  This model is appropriate for Internet transmission,
+              but it is not appropriate for wireless channels.
+
+This study replaces the
+              parallel in independent on-off channel model with a wireless channel model,
+              such a Rayleigh fading model.  Communication is performed using multiple
+              transmit and received antennas over the channel.  With these models the signal
+              at any of the receive antennas is the superposition of the transmitted signals
+              from each transmit antenna independently faded.  Therefore, even if the
+              descriptions at the receiver side are completely independent, the received
+              signal at each antenna will include some information from each description. 
+              This research involves finding the best multiple description coding strategy
+              for these channels, the theoretical limits of such a scheme, and the efficiency
+              
+

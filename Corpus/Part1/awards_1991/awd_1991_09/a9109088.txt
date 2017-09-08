@@ -1,0 +1,62 @@
+Title       : Mathematical Sciences: Domain Decomposition for Time-Dependent Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 12,  1991 
+File        : a9109088
+
+Award Number: 9109088
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1991    
+Expires     : July 31,  1992       (Estimated)
+Expected
+Total Amt.  : $21708              (Estimated)
+Investigator: Clinton N. Dawson   (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9263,
+Abstract    :
+                   This project will investigate domain decomposition                        
+              algorithms for solving time-dependent partial differential                     
+              equations on parallel processing computers.  The domain                        
+              decomposition methods to be examined are explicit/implicit                     
+              Galerkin and mixed finite element, and finite difference                       
+              procedures.  In these approaches, the computational domain is                  
+              divided into nonoverlapping subdomains, and boundary data at                   
+              subdomain interfaces are calculated explicitly from the solution               
+              at the previous time step.  A priori error estimates for                       
+              these schemes have been derived for model problems.                            
+              Furthermore, preliminary numerical results indicate that the                   
+              approaches are viable, and that a speed-up factor equal to the                 
+              number of subdomains can be achieved.  The principal investigator              
+              will investigate the extension of these algorithms to more                     
+              general linear and nonlinear problems in multiple space                        
+              dimensions, and their implementation on parallel processing                    
+              machines.                                                                      
+                   Of particular interest will be the application of                         
+              these procedures to flow in porous media problems, such as                     
+              enhanced oil recovery and subsurface contaminant transport.  In                
+              these problems, the physical and chemical processes to be                      
+              modeled generally occur over long time periods, and accurate                   
+              simulation requires fine-scale temporal and spatial resolution.                
+              Current supercomputers have been extremely useful in                           
+              increasing the amount of resolution obtainable.  However, it is                
+              possible that with the emerging parallel computers, we may be                  
+              able to increase resolution by at least another order of                       
+              magnitude. To achieve this goal will require modifications to                  
+              current algorithms and the development of new algorithms.  In the              
+              methods proposed here, domain decomposition is used to                         
+              effectively divide large problems into smaller subproblems that                
+              can be solved in parallel.  By employing this type of approach,                
+              fine-scale, multidimensional simulations that are currently too                
+              memory -intensive or time-consuming for conventional machines may              
+              become tractable.

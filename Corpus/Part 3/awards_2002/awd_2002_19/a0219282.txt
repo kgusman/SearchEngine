@@ -1,0 +1,123 @@
+Title       : ITR/(DMS): A Computational Environment for Multi-scale MHD Turbulence Studies
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a0219282
+
+Award Number: 0219282
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $430000             (Estimated)
+Investigator: Anil E. Deane deane@ipst.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Modeling MHD (magneto-hydrodynamic) turbulence has become
+              increasingly
+important both in terrestrial and engineering applications, such
+              as
+fusion devices and plasma propulsion, as well as in space
+              and
+astrophysical environments such as the solar wind and astrophysical
+jets.
+               The magneto-hydrodynamic nature of the plasma fluid imposes
+constraints on
+              the numerical procedures involved.  Likewise, modeling in
+the turbulent regime
+              -- for turbulence is ubiquitous -- also imposes
+constraints and challenges on
+              the numerical procedures employed.  The
+numerical approach and demands of
+              computation time and accuracy
+translate into algorithmic (or software)
+              advances which can avail the
+hardware --  itself advancing rapidly.  In this
+              project these advances
+entail: Adaptively refined grids, where fine resolution
+              only in regions
+of interest reduces overall CPU requirements; MHD shock
+              capturing
+methods, which improve accuracy of the calculation; parallel
+              computing
+techniques, which take advantage of the availability of
+              multiple
+processors and memory and cache hierarchy; and sub-grid models,
+              which
+allow coarser grids than otherwise for turbulent regimes.  The
+              analysis
+of the resulting large multi-block multi-processor data
+              requires
+advanced data visualization tools to examine the physics, the
+              raison
+d'etre for the calculations.  The project will develop a
+              computational
+environment, consisting of a 3D MHD simulation code with
+              adaptive grid
+refinement capabilities, complex  time-dependent boundary
+              conditions and
+optimized to run under MPI on various parallel computers, and
+              a
+visualization system that can handle multi-block multi-processor MHD
+              AMR
+data.
+
+In this end-to-end modeling and discovery process,
+              information
+technology (IT) plays a critical role.  From software
+              engineering
+principles that result in robust codes, and smarter data
+              structures that
+are required for AMR, to single-node optimization and
+              better
+communication strategies on parallel architectures, to
+              visualization
+tool development and implementation, IT makes possible
+              knowledge
+discovery through simulation in a more efficient and orderly
+              fashion.
+The requirements for MHD turbulence modeling being so considerable,
+              this
+efficiency of IT translates into enabling the science or
+              technology.
+I.e. without the application of these IT principles,
+              physically
+important and interesting regimes would not be analyzed.  The
+              results of
+this project will significantly enhance the modeling capabilities
+              of
+diverse flows and will specifically be applied to the problem
+              of
+heliospheric magnetic field configuration and solar wind turbulence. 
+              3D
+MHD simulations of the heliospheric fields and flows that
+              include
+rotation, shear, waves, turbulence, current sheets,
+              pressure-balanced
+structures, and interaction regions, which thus represent
+              most of the
+major physical effects of importance, will be performed.  The
+              effort will
+enable future studies on particle propagation and magnetic
+              field
+configuration for "space weather" effects on Earth.  The project
+              will
+directly train a post-doctoral scholar and a graduate student
+              in
+relevant physics and computational mathematics; project results will
+              be
+communicated to the community via conference and journal publications
+and
+              the web, and through classes taught by the PI.
+

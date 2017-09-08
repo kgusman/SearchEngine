@@ -1,0 +1,62 @@
+Title       : Multiresolution- and Topology-Based Visualization of Large Scientific Data Sets
+               in Parallel and Distributed Computing Environments
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 30,  2000       
+File        : a9982251
+
+Award Number: 9982251
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $769629             (Estimated)
+Investigator: Bernd Hamann hamann@cs.ucdavis.edu  (Principal Investigator current)
+              Nelson L. Max  (Co-Principal Investigator current)
+              Kenneth I. Joy  (Co-Principal Investigator current)
+              Kwan-Liu Ma  (Co-Principal Investigator current)
+              V. Ralph Algazi  (Co-Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1595,9216,HPCC,
+Abstract    :
+              Our ability to generate scientific data is growing much faster than our ability
+              to understand it. The rapid advances in computing and imaging technology allow
+              scientists to generate very large data sets for which appropriate means for
+              in-depth analysis and understanding do not yet exist. Computational techniques
+              allow the simulation of extremely complicated physical phenomena at ever
+              increasing spatial and temporal resolutions, but data analysis technology for
+              this type of data is still in its infancy. Today, one must choose one of these
+              alternatives: One can either ignore a substantial fraction of a massive
+              scientific data set and only analyze portions of it, or one can invest a
+              significant amount of person-time to analyze and visualize a massive data set
+              in great detail. Neither alternative is desirable. This project will develop
+              the technology needed to address this issue, and will test the new techniques
+              on data from Lawrence Livermore National Laboratory and NASA Ames Research
+              Center.
+
+Technically, the project will take a 5-prong approach to the large
+              data visualization problem. First, it will extend existing hierarchical schemes
+              - i.e., schemes approximating a data set at multiple resolution levels - to
+              time-varying multi-valued/multi-dimensional data. Second, it will improve
+              topology-based approaches - i.e., approaches that extract qualitatively
+              interesting characteristics (such as zeros, extreme, and discontinuities in
+              scalar and vector fields) from large data sets. Third, it will develop parallel
+              and distributed algorithms for efficient computation of hierarchical data
+              representations, fast extraction of topology, and optimizing compute-intensive
+              visualization processes. Fourth, it will devise interactive visualization
+              techniques for (immersive) visualization environments that support
+              view-dependent and user-specified, adaptive level-of-detail rendering. Fifth,
+              it will create a simple metadata database system allow sharing of a user's
+              experience, i.e., previously chosen rendering parameters leading to "good
+              imagery" or entire rendering processes.
+

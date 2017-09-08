@@ -1,0 +1,36 @@
+Title       : Branch Decoupled Architectures
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : November 28,  1997  
+File        : a9703702
+
+Award Number: 9703702
+Award Instr.: Standard Grant                               
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $241938             (Estimated)
+Investigator: Akhilesh Tyagi tyagi@iastate.edu  (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 9215,HPCC,
+Abstract    :
+              Conditional branches constitute a significant fraction of instructions executed 
+              in a typical program.  In modern pipelined processor implementations, branches 
+              cause wasted processor cycles, due to the unpredictability of the next 
+              instruction.  This project is exploring an alternative to branch prediction and
+               speculative execution, which is to decouple the branch computations from the 
+              basic blocks they control.  Branches, and the instructions that compute branch 
+              conditions, are peeled out of the main program and executed on a separate 
+              processor.  Both compiler backend development and processor implementation are 
+              affected by this alternative, and the project takes an experimental approach to
+               both.

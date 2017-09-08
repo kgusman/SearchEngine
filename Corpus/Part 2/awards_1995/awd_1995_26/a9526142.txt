@@ -1,0 +1,53 @@
+Title       : Parallel Computation and Decentralized Control of Large Power Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 13,  1996       
+File        : a9526142
+
+Award Number: 9526142
+Award Instr.: Standard Grant                               
+Prgm Manager: Marija Ilic                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  1996        
+Expires     : April 30,  1999      (Estimated)
+Expected
+Total Amt.  : $323112             (Estimated)
+Investigator: Dragoslav Siljak dsiljak@scu.edu  (Principal Investigator current)
+              Aleksandar I. Zecevic  (Co-Principal Investigator current)
+Sponsor     : Santa Clara University
+	      500 El Camino Real
+	      Santa Clara, CA  950530250    408/554-4764
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+              55        Engineering-Electrical                  
+Program Ref : 1057,CVIS,
+Abstract    :
+              9526142  Siljak       Transient stability simulation is among the most important
+              and  frequently performed computation in power systems analysis.   Accelerating
+              this process efficiently with parallel computers is of  enormous practical
+              significance, and is the focal point of the  proposed research.  Our specific
+              objective will be to design and  test parallel simulation algorithms based on
+              the balanced Border  Block Diagonal (BBD) decomposition, which is ideally
+              suited for  mapping sparse matrix problems onto multiprocessor architectures, 
+              and secures both good load balancing an low intercommunication  between the
+              processors.         To significantly broaden the scope of the proposed parallel
+               transient stability simulation, well established epsilon  decompositions will
+              be applied to sparsify the Jacobian that arises  in solving the discretized
+              algebraic-differential equations by  Newton's method.  Preliminary results
+              indicate that in electric  power systems very significant sparsification can be
+              achieved by  discarding sufficiently small elements in blocks of matrices L and
+               U where the fill-in is substantial.  In this context, and  additional
+              objective will be to develop algorithms for identifying  coherent groups of
+              generators in large power networks via epsilon  decompositions of the Jacobian,
+              which will be linear in complexity  and serve as a basis for transient
+              stability computations.         The balanced BBD and epsilon decompositions
+              offer a new  approach to the design of decentralized control of large power 
+              systems.  The BBD structure will be used to parallelize the  solutions of
+              Lyapunov and Riccati matrix equations, which are of  fundamental importance in
+              the decentralized stabilization and  optimization of dynamic systems.  Initial
+              experiments indicate that  this method can be used to stabilize very large
+              systems with as  many as several thousand state variables.  ***

@@ -1,0 +1,54 @@
+Title       : Scalable Wide Area Multicast Routing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 30,  1994    
+File        : a9406007
+
+Award Number: 9406007
+Award Instr.: Standard Grant                               
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1994  
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $133813             (Estimated)
+Investigator: Deborah L. Estrin   (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              9406007  Estrin       The  proposal begins with a brief review of the evolution
+              of  multicast routing and identification of the scaling issues raised  by the
+              introduction of multicast services in a global-scale  internet.  We then
+              present criteria for evaluating different  solutions to the scaling issues.
+              Given these evaluation criteria we  outline our proposed solution, called PIM. 
+              PIM could significantly  improve the scaling properties of multicast routing
+              and is capable  of providing better service quality than alternative scalable  
+              multicast schemes such as Core Based Trees.       We present preliminary
+              simulation results comparing the  performance of different distribution trees. 
+              However, fully  characterizing the performance of multicast routing schemes in
+              very  large, heterogeneous, internetworks is not trivial; and ``learning 
+              through experience'' in operational networks that are of the size  of our
+              target environment (i.e., the global internet), is not  feasible . 
+              Characterizing multicast protocols is not only  challenging because of the
+              scale of the target internet, but also  because of the complexity and
+              flexibility built into the protocols  themselves.  Moreover, a single multicast
+              protocol such as PIM, may  be used (or configured) in a variety of ways that
+              directly impact  performance. Therefore, to characterize our proposed multicast
+               approach, and to evaluate it relative to alternatives, we propose  extensive
+              simulation studies.        The proposed research is composed of three parts: 1)
+              an  extensive simulation study to characterize the scaling properties  and
+              tradeoffs presented by the proposed mechanisms, 2) an  investigation of
+              alternative aggregation mechanisms to further  extend scalability (using our
+              constructed simulation tools for  their evaluation), and, 3) a  prototype
+              implementation of the  proposed scheme for testing in laboratory and testbed
+              networks.   ***

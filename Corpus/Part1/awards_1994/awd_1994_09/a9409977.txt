@@ -1,0 +1,59 @@
+Title       : RIA: Trading Packet Headers for Packet Processing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 18,  1994      
+File        : a9409977
+
+Award Number: 9409977
+Award Instr.: Standard Grant                               
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1994       
+Expires     : December 31,  1997   (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: George Varghese   (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              Washington University at St. Louis  George Varghese  RIA: Trading Packets
+              Headers for Packet Processing    In high speed networks, packet processing is
+              relatively expensive  while bandwidth is cheap.  The central thesis here is
+              that if  suitable header fields can be added to packets, then mechanisms to 
+              speed up packet processing can be devised.  Several ideas are  advanced to
+              support the above thesis.  First, data manipulation  (e.g. data copying,
+              checksumming) is a major bottleneck of end  system packet processing.  The
+              approach taken here suggests adding  a data manipulation header to an easily
+              accessible portion of each  packet.  This header contains pointers to fields
+              (in various  layers) required for data manipulation.  This information (e.g. a 
+              pointer to data to be encrypted) allows implementations to  efficiently combine
+              data manipulation steps (e.g. encryption and  copying).  Prior work has shown
+              that combining data manipulation  steps can yield order-of-magnitude
+              performance improvement.  The  present approach can yield similar improvements
+              in a more uniform  and structured fashion.  Second the work studys adding index
+              fields  to protocol identifiers at all layers (e.g. connection identifiers, 
+              network addresses) to reduce lookup costs and generic protocol  processing. 
+              Several new ides to utilize these index fields  (threaded indexing, index
+              passing, and source hashing) are studied.  It is known that the use of Virtual
+              Circuit Identifiers (VCIs) on  virtual circuit packets simplifies lookup and
+              packet processing.   In source hashing and threaded indexing, the added indices
+               essentially serve as VCIs, but for flows in a datagram network.  In  source
+              hashing, for example, the "VCI" is a consistent random label  chosen by the
+              source.  OUr new methods provide the benefits of  normal VCis without requiring
+              a round trip delay for set up.  The  methods can lower uorst case datagram
+              lookup times form O(log(n) to  O(1), which may be important for gigabit
+              routers.  IN this project  we design,  analyze, and implement these new ideas
+              and search for  other techniques that arise from the basis thesis.  The current
+               climate of transition (in which transport, routing, and data link  protocols
+              are changing) provides an opportunity to apply these  techniques to influence
+              real protocols.

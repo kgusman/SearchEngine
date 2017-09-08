@@ -1,0 +1,84 @@
+Title       : Mathematical Sciences: New Results in Sampling and Wavelet Applications in
+               Tomography
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 14,  1995      
+File        : a9500909
+
+Award Number: 9500909
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1995  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $47919              (Estimated)
+Investigator: David F. Walnut dwalnut@gmu.edu  (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9216,HPCC,OTHR,
+Abstract    :
+              9500909  Walnut    The project consists of two parts.  First,  the investigator 
+              proposes to apply   new results in sampling theory to do high-resolution signal
+               processing by   combining several low-resolution versions of a given signal.
+              It  was   observed by Berenstein and others that a mathematical model of  this 
+               problem (called multisensor deconvolution) is uniquely solvable  but ill- 
+              posed, and difficult to solve numerically. The investigator has  found  
+              Shannon-type sampling formulas on unions of regular lattices with   
+              incommensurate densities, which provide simple solutions to the   multichannel
+              deconvolution problem in special cases.   The  following   applications are
+              envisioned: 1) Sharpening measurements taken by  CT   scanners by combining
+              measurements from several low-resolution   detectors.  This could ultimately
+              lead to inexpensive measuring  devices with   resolution comparable to
+              expensive high-resolution machines. 2) A  recently   proposed scheme to
+              increase resolution in an industrial  tomography   problem involves sampling on
+              unions of regular grids of  incommensurate   size.  The investigator's sampling
+              results could lead to a  complete solution   to this problem. 3) New techniques
+              are required to do  "superresolution" in    electronic imaging since the
+              theoretical limit of pixel  resolution is rapidly   being reached. 
+              Deconvolution at high-resolution of several  low-resolution   images is a
+              natural approach to this problem.  Second, the  investigator and   others have
+              successfully shown that wavelets are a natural tool  for   recovering edge
+              features of an image from local Radon transform  data.  The   investigator
+              proposes to develop these local algorithms with the  following   goals
+              envisioned: 1) Find ways to recover locally density as well  as edge   features
+              of an image, and develop an algorithm competitive with  existing   local
+              tomography algorithms and 2) Identify the wavefront set of  an image   using
+              wavelets, and ultimately apply the techniques to the   at tenuated Radon  
+              transform.    The first part of the project is concerned with increasing the 
+              resolution of   remote sensing devices such as electronic cameras.  Suppose,
+              for  example,   that a CCD camera has a resolution of 1 millimeter, that is, it
+               can   distinguish features of a scene that are at least 1 mm on a side.  
+              Features   smaller than that are blurred into their surroundings. Berenstein 
+              and others   observed that some classical mathematics led to a possible way to 
+              increase   resolution without designing an expensive high-resolution device.  
+              If one   took several images of the scene with cameras identical to the  first
+              but   which had slightly poorer resolutions than the first (this could  also be
+                achieved by repositioning the same camera), then in theory one  could  
+              recover features of the original scene to arbitrary resolution.   In practice, 
+               arbitrary resolution is not possible, but it seems that real  increases in  
+              resolution can be achieved.  The investigator has formulated an  approach to  
+              this problem from the point of view of sampling theory.  Using  this  
+              approach, the investigator has been able to produce numerically  stable  
+              twenty-fold increases in resolution in a one-dimensional model  problem.   More
+              work is required, but the following applications are  envisioned: 1)  
+              Producing high-resolution measurements from CT scanners by  combining   the
+              measurements from several low-resolution scanners and 2)  Increasing   the
+              resolution in a specific industrial tomography problem by a  direct  
+              application of the investigator's new sampling results.  The  second part of  
+              the project is concerned with "local" CT scans.  In existing CT  scanners, an  
+              entire slice of a patient's body must be exposed to radiation  even if the  
+              doctor is interested in looking at only a small region. The  investigator  
+              proposes to use a new and powerful signal processing technique  called  
+              wavelets to find efficient algorithms for obtaining an image of a  small area  
+              of a patient's  body while only exposing the area of interest to  radiation. It
+              is   hoped that these techniques will be competitive with existing  so-called
+              local   tomography algorithms.

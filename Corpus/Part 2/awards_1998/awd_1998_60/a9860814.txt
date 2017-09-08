@@ -1,0 +1,58 @@
+Title       : SBIR Phase I: Simulation of Rapid Thermal Processing in a Distributed Computing
+               Environment
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 9,  1998   
+File        : a9860814
+
+Award Number: 9860814
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Patrick Johnson                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1999    
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Jiwen Liu liu@esi-al.com  (Principal Investigator current)
+Sponsor     : Engineering Sciences Inc
+	      1900 Golf Road, Suite D
+	      Huntsville, AL  35802    205/883-6233
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1260,9146,MANU,
+Abstract    :
+              9860814
+     This Small Business Innovation Research Phase I project proposes
+              to develop and demonstrate a computational tool for detailed simulation of
+              Rapid thermal processing (RTP) in a distributed computing environment. RTP has
+              become a key technology in the fabrication of advanced semiconductor devices.
+              As wafers get larger and chip dimensions smaller, the understanding of the
+              highly coupled physics such as radiative heat transfer, transient fluid flow
+              and heat transfer as well as chemical reactions through numerical modeling
+              using high-performance computing is the key to the design, optimization, and
+              control of RTP reactors. In Phase I, a novel radiation model will be developed
+              to take into account surface radiation with any level of radiative complexity.
+              The microscale radiative properties of patterned wafers will be predicted by a
+              microscopic model. The transient fluid flow, heat transfer, and chemical
+              reaction equations are then solved using an unstructured finite volume method.
+              The main vehicle for parallelism is to use a Recursive Coordinate Bisection
+              (RCM) method to decompose the computational domain into sub-domains, which are
+              distributed among a network of computers. Message passing among the computers
+              will be provided through the Parallel Virtual Machine (PVM) library. The Phase
+              I will demonstrate the feasibility of the proposed simulation tool on
+              two-dimensional problems. In Phase II, the tool will be extended to consider
+              some other physics and dynamic load balancing strategy on a network of
+              computers will also be implemented.
+     The proposed simulation tool will
+              significantly benefit the semiconductor manufacturing equipment industries,
+              which require a detailed understanding of multimode and highly coupled
+              transport phenomena. The potential applications include the design,
+              optimization, and control of RTP reactors and many other manufacturing and
+              materials processing systems.
+
+
+

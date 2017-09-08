@@ -1,0 +1,58 @@
+Title       : Application-Driven Network Performance Evaluation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 12,  1996  
+File        : a9634197
+
+Award Number: 9634197
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $234496             (Estimated)
+Investigator: Chita R. Das das@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              Prior research on multiprocessor interconnection networks has primarily focused 
+              on the network topology, switching mechanism, and message routing algorithm to 
+               maximize network performance. Very little work has been done to study the
+              impact  of the communication properties of parallel applications. 
+              Communication pattern,  message generation frequency, and  message size are the
+              three attributes to  quantify any communication. The proposed research is aimed
+              at characterizing  these communication workloads and analyzing their impact on
+              multiprocessor  performance.    The research has two major phases. In the first
+              phase, traffic profiling of a  wide range of parallel applications will be
+              conducted by collecting execution  traces from parallel machines and also from
+              an execution-driven simulator. The  communication traces will be analyzed to
+              determine  different types of traffic  patterns, rate of communication, and 
+              volume of communication. The second phase  of the project will use these
+              realistic traffic properties for the performance  analysis of interconnection
+              networks via simulation and analytic models. In-depth  simulation of known
+              unicast and collective  routing algorithms on various  topologies  will be
+              performed with these workloads. Analytical models capturing  wormhole 
+              switching, virtual channel flow control, routing mechanism and the   realistic
+              workloads will be developed. The main contribution of the project is 
+              characterizing application workloads to be used for different architectural and
+               algorithmic research. For example, evaluation with these workloads will
+              quantify  the actual performance advantages of adaptive  routing algorithms,
+              will identify  the potential bottlenecks of existing communication mechanisms,
+              and will provide  insight for developing application-specific routing
+              algorithms.  Next, the new  mathematical tools will be more accurate in
+              predicting the realistic  communication traffic. The techniques and tools
+              developed in this research can  be used in understandi ng and evaluating the
+              interplay between parallel  architectures and algorithms to maximize the
+              performance of existing machines and  to design better machines in the future.

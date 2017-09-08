@@ -1,0 +1,96 @@
+Title       : Research for Mixed Signal Electronic Technologies: A Joint Initiative Between
+               NSF and SRC: Scalable Design and Test Methods for Single-Chip Multi-Link
+               Radio-Frequency Transceivers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0120255
+
+Award Number: 0120255
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $224999             (Estimated)
+Investigator: Mani Soma soma@ee.washington.edu  (Principal Investigator current)
+              David J. Allstot  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 1752,9215,HPCC,
+Abstract    :
+              Recent developments in mixed-signal systems, especially those integrating
+              computing and
+communication in a system-on-a-chip, have focused on the goal to
+              communicate information via wireless devices and networks. While digital system
+              design to process baseband information is moving into the low gigahertz (GHz)
+              frequency range, the mixed-signal transceivers have to operate in the ISM bands
+              (2.5 GHz up to 5.8 GHz) with even higher frequencies in the near future to
+              satisfy bandwidth demands. Analog design advances have produced several
+              transceiver designs up to 5 GHz, using CMOS, BiCMOS, and other technologies. To
+              reduce noise, these designs tend to separate the transmitter and receiver, and
+              so far, have provided only a single physical link (one transmitter and one
+              receiver) in a wireless device. In the design area, this proposal addresses the
+              creation and verification of scalable systematic design methods to integrate
+              two or more physical links on one single chip to provide more bandwidth and
+              flexibility in communication applications. A methodology to incorporate
+              multi-links is scalable in the sense that more links can be added by
+              application demands. To create this methodology, we propose the following
+              design approaches:
+
+1. Noise cancellation techniques and circuits to deal
+              with digital switching noise.
+
+2. Noise cancellation techniques and circuits
+              to deal with RF noise interference between different transceiver links and
+              circuits.
+
+These circuits will be validated using case studies from industry
+              with whom we have had close
+collaborations: Texas Instruments, Motorola, and
+              National Semiconductors, who will provide
+advanced fabrication technologies
+              and simulation models for this study.
+The designs will be fully tested and the
+              development of scalable test methods is the second focus of this proposal.
+              Mixed-signal test advances, despite intense activities, have been rather slow,
+              especially in high-frequency (GHz) test. We propose to investigate the
+              following approaches and distill the results into a test methodology that can
+              be scaled with respect to operating frequencies and process advances:
+
+1.
+              End-to-end digital test methods using one transmit link and one receive link on
+              the same chip
+to verify correct information transmission.
+
+2. Designs of
+              on-chip delay and phase measurement circuits, operating at the same frequency
+              as
+the transceivers.
+
+3. Interface between ATE and on-chip test circuits to
+              use test resources efficiently.
+During the validation of these test
+              methodologies, we will need access to advance test equipment for comparison
+              purposes, and these equipment will be provided by our collaborator at Teradyne
+              (Tualatin, OR) and Wavecrest (San Jose, CA).
+
+Another level of integration
+              involves the curriculum - research aspects of the proposed work,
+which is
+              being implemented in our current curriculum revision. Dissemination approaches
+              re-used the distance learning methods and assessment supported by NSF, FIPSE,
+              and our own
+university.  The proposal will deliver fundamental methodologies
+              and techniques, and train the
+first-generation system architects in
+              high-frequency mixed-signal design and test.
+

@@ -1,0 +1,61 @@
+Title       : SBIR Phase I: Auto-Tracking Using Trailing Templates and Skeletal Guides
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 26,  1999  
+File        : a9960369
+
+Award Number: 9960369
+Award Instr.: Standard Grant                               
+Prgm Manager: Sara B. Nerlove                         
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2000    
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $99940              (Estimated)
+Investigator: Paul S. Mostert pmostert@gte.net  (Principal Investigator current)
+Sponsor     : Mostert Group
+	      3298 Roxburg Drive
+	      Lexington, KY  405033432    606/223-1490
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 6840,9139,HPCC,
+Abstract    :
+              This Small Business Innovative Research Phase I project from the Mostert Group
+              proposes to develop a method to track animals and humans in motion,
+              particularly in athletic events, where movement can be characterized by
+              repetitive motions over a relatively short period of time.  An efficient
+              algorithm for tracking of biological motion through cluttered backgrounds and
+              significant self-occlusion that does not require the placement of visual
+              targets, is proposed.  While the proposed algorithms will have application in
+              many other domains, the Mostert Group initially focuses on real-time tracking
+              of running subjects over a fixed distance in actual athletic events. 
+              Repetitive motions will be exploited by developing mechanisms to learn
+              subsequent search regions for constrained template matching.  A small database
+              of tracked positions and velocities (derived from previous motion sequences)
+              will allow the algorithm to generalize to new subjects moving over the same
+              course.  The Principal Investigator, Paul Mostert, has created a trailing
+              template method that will be combined with the method of deformable templates
+              of Zhong, Jain, and Dubuisson-Jolly, and used in conjunction with skeletal
+              models that will guide the deformation of the ZJDJ templates through
+              potentially confusing relationships (e.g., the crossover motion of the legs). 
+              The primary objectives of Phase I research will be a preliminary development of
+              a graphical user interface followed by that of two key tracking technologies;
+              (1) a predictive algorithm to efficiently guide the search for the next
+              position of the object features within video frames, and (2) a model-based
+              approach to deformation of image templates using skeletal guides to improve
+              tracking robustness of biological motion.
+
+Applications for this software
+              proffered by the Mostert Group have a ready market demand.  Present commercial
+              tracking technology of biological motion requires the placement of intrusive
+              control targets at critical positions on the subject.  The commercial need for
+              tracking and characterizing general biological motion will be exploited,
+              including tools for animal behavior analysis, and predicting and improving
+              motion efficiency in athletes.  An initial vertical market for obtaining
+              statistical measures known to be significant to the future performance of a
+              racehorse has considerable potential.
+

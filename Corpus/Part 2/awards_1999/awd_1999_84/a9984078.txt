@@ -1,0 +1,43 @@
+Title       : CAREER: Fluid Replication
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a9984078
+
+Award Number: 9984078
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2000        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $200038             (Estimated)
+Investigator: Brian D. Noble bnoble@umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              The performance of distributed information systems is becoming increasingly
+              unpredictable.  Past approaches to this problem either handle only a subset of
+              root causes, or introduce new difficulties of their own.  This project proposes
+              fluid replication --- the automatic creation and placement of replicas in
+              response to changing client demands and network capacities --- as a solution to
+              this problem.  These replicas are held on WayStations, which are
+              infrastructural service nodes that can act as replica sites for both local and
+              visiting users.  The objective of this research is to construct four key
+              mechanisms to enable fluid replication:  an estimator for end-to-end network
+              performance, a scalable scheme to locate WayStations, techniques for
+              consistency management between WayStations and remote servers, and efficient
+              client migration from one replica site to another.  Prototypes of these
+              mechanisms will be evaluated with standard workloads in both experimental and
+              deployed networking testbeds.  With these mechanisms, fluid replication
+              promises to automatically match available resources to offered load.  This
+              reduces cost of administration, increases utilization of resources, and
+              delivers improved performance to end-users.

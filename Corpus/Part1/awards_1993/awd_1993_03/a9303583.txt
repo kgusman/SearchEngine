@@ -1,0 +1,48 @@
+Title       : Automatic Tuning of Data Placement and Load Balancing in Disk Arrays
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 1,  1997       
+File        : a9303583
+
+Award Number: 9303583
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1993     
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $182036             (Estimated)
+Investigator: Lawrence J. Henschen henschen@ece.nwu.edu  (Principal Investigator current)
+              Peter Scheuermann  (Principal Investigator former)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+                9303583  Scheuermann        This is the first year funding of a three-year
+              continuing award.   Large arrays of small disks provide an attractive approach
+              for high  performance systems since they allow for low-cost, reliable storage 
+              and can achieve higher throughput compared to large disks.  This  project
+              proposes to develop an integrated set of algorithms and an  intelligent file
+              manager which is applicable to any multi-disk  architecture in which the
+              operating system can access the disks  independently.  The emphasis of the
+              approach is on the use of  modular building blocks for file partitioning,
+              allocation, load  balancing, and reorganization that can be invoked
+              independently of  each other.  Thus, the procedure for load balancing can be
+              called  regardless of whether striping or declustering is employed and does 
+              not depend upon the unit of declustering.  The development of a  generalized
+              method for load balancing is considered which can be  applied to an environment
+              where some files exhibit periodical  access patterns and which considers
+              explicitly the cost of  performing the cooling actions.  The investigation also
+              focuses on  reorganization procedures that perform restriping when higher 
+              performance standards need to be enforced.  The anticipated results  of this
+              project are of importance to massively parallel computers  to support
+              scalability and to ensure that the I/O is not the  limiting factor in achieving
+              high speedup.   ***

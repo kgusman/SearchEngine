@@ -1,0 +1,51 @@
+Title       : Postdoc: High Performance Solution of Three-Dimensional Nonlinear Transient
+               Aeroelastic Problems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 23,  1995       
+File        : a9503301
+
+Award Number: 9503301
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1997        (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Charbel Farhat charbel@alexandra.colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9218,HPCC,
+Abstract    :
+              9503301  Farhat  The accurate prediction of aeroelastic phenomena is essential
+              to the design of safe high performance aircraft.  This prediction requires
+              solving simultaneously the appropriately coupled fluid and structural equations
+              of motion.  Therefore, numerical aeroelastic simulations are in general
+              resource intensive. We propose to develop high performance methodologies for
+              the parallel simulation of three-dimensional transient aeroelastic problems on
+              advanced homogenous and heterogeneous hardware architectures. More
+              specifically, we intend to develop mixed partitioning procedures for the
+              parallel space and time integration of the governing coupled nonlinear partial
+              differential equations, and investigate their merits in terms of accuracy,
+              stability, heterogeneous computing, I/O transfers, subcycling, and parallel
+              processing.  This research is multidisciplinary and includes four components:
+              computational structural mechanics, computational fluid dynamics, applied
+              mathematics and numerical analysis and, computer sciences and parallel
+              processing.  The first two components involve the development of discrete
+              mathematical models based on finite elements and finite volumes for
+              representing aerospace structures as assemblies of beams, plates, and shells,
+              and modeling high speed flows around them.  The third component addresses the
+              design of staggered and efficient time-integrators for advancing the solution
+              of the governing coupled semi-discrete equations.  The last research component
+              aims at exploiting the capabilities of homogeneous and heterogeneous parallel
+              systems to significantly reduce the overall simulation time of these very
+              compute-intensive engineering applications.

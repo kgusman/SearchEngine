@@ -1,0 +1,73 @@
+Title       : Mathematical Sciences: Elliptic Inverse Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 7,  1995       
+File        : a9505047
+
+Award Number: 9505047
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1995      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Ian W. Knowles iwk@math.uab.edu  (Principal Investigator current)
+Sponsor     : U of Alabama Birmingham
+	      AB 1170
+	      Birmingham, AL  352940111    205/934-5266
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Knowles       The investigator studies parameter identification inverse 
+              problems.  Typically, in such a problem one uses certain given  information
+              about the solution of a partial differential equation  to compute one or more
+              of the coefficients in the equation.  Such  problems are invariably ill-posed
+              (sometimes badly so) and, to  make matters worse, in processing the data in
+              most practical  applications, one must contend not only with measurement error
+              but  sometimes also with the fact that the readings may only be taken  at a
+              rather sparse collection of measurement points.  In  consequence, in many
+              areas, it is well documented that algorithms  for parameter identification that
+              are sufficiently reliable to  engender widespread practical use are not yet
+              available.  In this  project the investigator develops a new approach to a
+              broad class  of parameter identification problems.  At the core of the approach
+               is the Dirichlet principle for elliptic boundary value problems,  that the
+              solution may be obtained by the minimization of a certain  energy functional;
+              that the same energy functional can also be  used to compute coefficients in
+              the elliptic equation, if an  appropriate constrained minimization is employed,
+              is the key  observation.  Recent experiments have shown that the same numerical
+               stability that is associated with the Dirichlet principle approach  to finding
+              solutions is also present in the constrained  minimization, and furthermore the
+              method appears to be quite  robust in the presence of noise in the data.  The
+              class of  parameter identification problems to which the approach is 
+              applicable is, roughly speaking, those that involve elliptic  equations that
+              may be solved by means of a Dirichlet principle; as  is well known, this is a
+              large class, having considerable  practical significance.  The bulk of the work
+              in the project  involves applying these ideas to producing working algorithms
+              for  the solution of the aquifer transmissivity problem (a crucial step  in the
+              modeling of under ground water systems) and the problem of  imaging inside the
+              human body with electrical impedance  tomography.       Inverse problems
+              dealing with parameter identification in the  presence of data error are of
+              fundamental practical importance in  a number of areas, including, but by no
+              means limited to, medical  and industrial imaging, high energy physics,
+              geophysics, and  hydrology.  Such problems are mathematically ill-posed in the
+              sense  that small variations in the data (caused by measurement error for 
+              example) can cause uncontrollably large errors to appear in the  calculated
+              parameters.  In this proposal a new optimization  approach to a broad class of
+              parameter identification problems is  presented that already shows significant
+              promise for handling the  moderately ill-posed problems in this class, and
+              there are  indications that such an approach may help solve the most 
+              egregiously ill-posed examples.  The project concentrates on two  test cases,
+              the aquifer transmissivity problem (a necessary and  crucial step in monitoring
+              the flow of contaminants in underground  water systems, for example) and the
+              problem of (noninvasive and  nondestructive) imaging inside the human body
+              using electrical  impedance tomography.  If suitably effective algorithms can
+              be  developed with these ideas in the test cases, similar algorithms  should be
+              possible for a wide range of related applications in the  areas outlined above,
+              and elsewhere.

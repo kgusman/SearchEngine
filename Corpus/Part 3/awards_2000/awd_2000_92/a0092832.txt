@@ -1,0 +1,46 @@
+Title       : CAREER: Cooperative Redundant Threads
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 3,  2003   
+File        : a0092832
+
+Award Number: 0092832
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2001      
+Expires     : February 28,  2006   (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Eric Rotenberg ericro@ece.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              The proposed research enables computers to attain higher speeds, at a time when
+              even slight performance gains are increasingly difficult to achieve by
+              conventional means.  The first key discovery is that many instructions
+              specified by a computer program are not strictly required for producing the
+              correct answer.  That is, a much shorter program can be constructed that
+              produces the same output in a much shorter period of time.  A novel method is
+              proposed for creating a shorter program on-the-fly by completely bypassing
+              parts of the program predicted to be unnecessary.  By skipping parts of the
+              program, however, the processor cannot verify that it was alright to do so
+              (because the program has been transformed).  The second key discovery is that
+              the full program can be run concurrently with the short program, in order to
+              verify the short program is correct, without noticeably slowing down the short
+              program.  The proposed method is called the Slipstream Paradigm, after a
+              technique in auto racing where two cars collaborate aerodynamically to speed up
+              both cars (slipstreaming).  Similarly, a slipstream processor finishes two
+              redundant copies of the program sooner that a conventional processor finishes a
+              single copy.  Redundant execution is also transparently leveraged for fault
+              tolerance with no additional support.  Finally, the Slipstream Paradigm is
+              implementable on emerging multithreaded processors without fundamentally
+              reorganizing their architecture.

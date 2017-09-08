@@ -1,0 +1,45 @@
+Title       : Compiler Techniques for Improving Data Locality in Complex Program Constructs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 26,  2000      
+File        : a9975309
+
+Award Number: 9975309
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $170000             (Estimated)
+Investigator: Zhiyuan Li   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Zhiyuan Li
+CCR-9975309
+
+As the gap between processor speed and memory latency
+              continues to increase, memory accesses have become the key performance
+              bottleneck in many application programs.  This project develops new compiler
+              techniques to enhance memory performance by improving the utilization of the
+              memory hierarchy.  The research targets both uniprocessor workstations and
+              parallel computers.  New program transformations are devised to maximize the
+              reuse of data which are stored in the fast memory units, such as caches, in the
+              memory hierarchy.  These new transformations handle difficult program
+              constructs which are commonly found in practice but could not be handled
+              previously.  To support the new transformations, an interprocedural analysis is
+              developed to analyze the memory access behavior throughout the program.  The
+              proposed program analysis and transformations are implemented within a research
+              compiler.  Successful development of the are techniques can lead to a
+              significant improvement of the execution speed of a wide range of
+              applications.
+

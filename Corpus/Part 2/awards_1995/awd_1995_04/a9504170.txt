@@ -1,0 +1,128 @@
+Title       : Evolution of Persistent Abstract Data Types
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 16,  1998  
+File        : a9504170
+
+Award Number: 9504170
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1995     
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $208672             (Estimated)
+Investigator: Barbara Lerner   (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+                Persistent programming languages provide a simple mechanism to  make data
+              persistent without the impedance mismatch that occurs  when storing  data in a
+              database.  As a result, persistent  programming languages greatly  facilitate
+              the development of  software that uses persistent data. A serious  problem
+              exists when  maintaining programs written in persistent programming  languages.
+               The storage format for persistent data is derived from the  structural
+              representation of the data's type as defined in the  program. When  the
+              representation is changed, the software is no  longer able to access  existing
+              persistent data.    This research addresses the problems of type  evolution . 
+              It is  developing algorithms to recognize complex type changes, to  assist the
+              software  engineer in assuring that persistent data  conform to modified
+              semantics of the  software, and to assist in  identifying and updating code
+              affected by structural  changes to a  type. The approach relies on persistent
+              types defined as abstract  data types. Type changes are identified by comparing
+              the  interfaces to the  types, the structural representations of the  types,
+              and constraints attached to  the types. The algorithms are  being incorporated
+              into a tool that provides  computer-aided type  evolution support. The primary
+              goal of the tool is to  manage the  complexity of type evolution and provide
+              assurance that evolution  issues are addressed by the software engineer while
+              not  restricting the ways in  which the software engineer modifies  type
+              definitions.  A secondary goal is to  automate data evolution  for a collection
+              of well-understood type changes. The  combination  of flexibility, automation,
+              and concern with semantic issues  is expected to provide advances over existing
+              type evolution support  systems.  Experimentation is using histories collected
+              from the  development of real  systems to evaluate the effectiveness of the
+              algorithms.                                                                    
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                 

@@ -1,0 +1,71 @@
+Title       : CAREER: Compiler-Assisted Data Adaptation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 3,  2003      
+File        : a0238176
+
+Award Number: 0238176
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2003       
+Expires     : May 31,  2012        (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Chen Ding cding@cs.rochester.edu  (Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Data management has become a core function of computing, strongly
+influencing
+              not only performance but also energy consumption, program
+security, fault
+              tolerance, and other program properties.  While many
+programs use a large
+              amount of data, they do not access all data at
+all times.  Hence, data
+              adaptation can improve cache efficiency by
+identifying and compacting
+              precisely those data required at a given
+point of computation.  Such
+              fine-grained and dynamic data management
+may significantly alleviate the
+              bottleneck on communication and
+strengthen the control of data.
+
+This
+              research studies fine-grained data adaptation through a
+compiler-based
+              approach.  It develops three compiler-assisted
+techniques.  First, program
+              monitoring analyzes selected data; then,
+locality analysis identifies their
+              group locality; and finally, data
+transformation changes their layout while
+              maintaining program
+correctness using run-time data maps.  The new system
+              improves cache
+optimization for data-intensive applications on conventional
+              machines
+and memory management for general-purpose programs on
+              embedded
+devices.  In parallel to research, the investigator
+              develops
+data-analysis tools to support teaching of memory issues in
+              computer
+organization, compiler, and programming courses.  The
+              investigator
+also develops an advanced course that focuses on memory
+              optimization
+techniques at all system levels.
+
+
+

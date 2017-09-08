@@ -1,0 +1,121 @@
+Title       : CAREER: Model-Based Design and Verification of Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 21,  2001  
+File        : a0133583
+
+Award Number: 0133583
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2002       
+Expires     : May 31,  2007        (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Radu Grosu grosu@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : 1045,1667,9216,HPCC,
+Abstract    :
+              CAREER: Model-Based Design and Verification of Embedded Systems
+Radu
+              Grosu
+State University of New York at Stony Brook
+
+Computer aided
+              verification (CAV) and embedded software design automation (ESDA) emerge
+              from
+academia and industry respectively as two promising approaches to
+              developing the high-confidence
+software demanded by embedded-system
+              applications, including those found in the
+              telecommunications,
+aerospace/military, medical-device, and automotive
+              industries. CAV and ESDA advocate the same
+methodology for system design: (1)
+              define the requirements, (2) construct a model and (3) analyze
+the model with
+              respect to the requirements. The difference is essentially that: (1) CAV uses
+              more
+sophisticated requirements, (2) ESDA uses more sophisticated models and
+              (3) CAV performs a more
+sophisticated analysis.  While ESDA analysis reduces
+              to manual, pointwise simulation of the model,
+CAV analysis is automatic and
+              exhaustive.  This is made possible by a mathematical formulation of
+the
+              requirements, models and analysis problem that is far beyond the precision
+              currently supported
+by ESDA.  The goal of this research is to: (1) push the
+              limits of CAV to capture and analyze
+ESDA models; (2) increase the confidence
+              in ESDA by applying CAV techniques.  This goal is pursued
+with following
+              research and education objectives:
+
+1. Support the design methodology for
+              discrete, time-triggered and event-triggered embedded
+systems with:
+
+  -
+              Hierarchic reactive modules (HRM), a state-based modeling language that
+              supports
+    architectural and behavioral hierarchy together with powerful
+              time and space abstraction.
+    
+  - Concurrent class machines (CCM), an
+              action-based modeling language that directly
+    incorporates object-oriented
+              features like classes and inheritance, objects and object creation,
+   
+              methods, method invocation and exceptions, threads and thread creation.
+    
+
+               - Shared variables interaction diagrams, a scenario-based language that
+              adequately
+    captures requirements of embedded systems communicating via
+              shared variables.
+    
+  - Hermes}, a modeling, simulation and model checking
+              tool for HRM that efficiently
+    exploits the hierarchical structure to prune
+              the state space. We also consider a variety of
+    other CAV techniques and
+              support for CCM.
+  
+2. Support the design methodology for embedded systems
+              with tightly coupled discrete and analog
+  behavior with:
+
+  - Hierarchic
+              hybrid machines (HHM)}, a hierarchic, state-based modeling language that
+   
+              allows to capture both discrete and analog behavior.
+    
+  - Charon, a
+              modeling and simulation tool for HHM that exploits hierarchic structure for
+  
+               efficient multi-rate integration.
+    
+  - Different approaches to
+              simulation, reachability analysis and modular reasoning.
+    Application of
+              hybrid systems to modeling cell behavior.
+  
+3. Publish a textbook providing
+              a comprehensive, formal treatment of the unified modeling
+  language UML for
+              Real Time to reduce the gap between ESDA and CAV.
+  
+4. Integrate formal
+              concepts in the undergraduate education at Stony-Brook by proposing changes
+ 
+              for the courses in software engineering, theory of computation and operating
+              systems.

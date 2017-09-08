@@ -1,0 +1,91 @@
+Title       : ITR: Collaborative Rsearch: Scalable Quality-of-Service Control for the Next
+               Generation Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 18,  2002      
+File        : a0085824
+
+Award Number: 0085824
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $1255045            (Estimated)
+Investigator: Zhi-Li Zhang zhzhang@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1661,4095,9218,HPCC,
+Abstract    :
+                   Today's Internet owes its great success to the simple, "hour-glass" IP
+              network protocol architecture laid out twenty-five years ago. With rapid
+              advances in networking technologies and explosive growth of rich multimedia
+              content in recent years, the networking community finds itself at an important
+              crossroads: what should be the next generation Internet architecture for
+              controlling network resources and provide the quality of service (QoS) needed
+              by emerging multimedia applications? There is a multidimensional spectrum of
+              possible approaches to providing QoS guarantees. The choice of a QoS solution
+              for the next generation Internet will have a substantial impact on both the
+              evolution of the Internet itself, and on what it enables.  Making the "right"
+              choices requires the development of a fundamental understanding of the
+              scalability of QoS controls and the impact of these controls on the efficacy of
+              QoS provisioning.
+     The goal of the proposed research is to develop a
+              comprehensive, quantitative understanding of the fundamental trade-offs
+              involved in various approaches toward providing scalable QoS guarantees. To
+              this end, we will develop coherent theories to systematically address the issue
+              of scalability in QoS controls.  The research program divides broadly into four
+              areas:
+     Aggregate network calculus for guaranteed flows: To gain a
+              thorough  understanding of the fine time-scale(e.g., packet-level) behavior of
+              a network system in providing QoS performance guarantees, the researchers will
+              develop an aggregate network calculus to study the impact of aggregate QoS
+              control mechanisms on the performance and complexity of data plane operations.
+              This theory is developed for guaranteed flows - flows which require the network
+              to commit, either at a per-flow or an aggregate level, a certain amount of
+              resources (e.g., bandwidth and buffer) throughout their life time, regardless
+              of the network congestion status. The aggregate network calculus will provide a
+              mathematical framework to quantify the impact of aggregate QoS controls on the
+              fundamental trade-offs in QoS provisioning. It will also yield insights into
+              the design of scalable data plane QoS control mechanisms.
+     End-to-end QoS
+              controls for responsive flows:  The researchers will develop fluid models to
+              study the impact of aggregate QoS control mechanisms on the end-to-end
+              performance of responsive flows. A responsive flow responds to signs of network
+              congestion, such as loss, by adapting its transmission rate. These models will
+              enable us to develop a better understanding of the behavior of responsive flows
+              such as
+TCP coupled with different aggregate QoS mechanisms and to design
+              end-to-end QoS services for responsive flows.
+     QoS control laws and
+              control plane aggregation rules. We will develop QoS control laws for capturing
+              the slow time-scale, system-wide behavior of a network and aggregation rules
+              that address the perfor-mance and complexity of control plane operations under
+              aggregate QoS controls. These QoS control laws and aggregation rules will lead
+              us to the design of distributed and centralized algorithms for scalable control
+              plane operations.
+     Scalable QoS mechanisms and service architectures As an
+              integral part in developing these theories, the researchers  will also design
+              effective and scalable QoS mechanisms, and tools and techniques for quantifying
+              and evaluating the trade-offs of various QoS solutions. Based on the results
+              from these efforts, the researchers will study how various QoS solutions can be
+              combined to construct meaningful end-to-end services.
+     The research will
+              blend formal modeling/analysis, experimentation/implementation, and evaluation.
+              The
+understanding and insights gained as a result of our research will lead to
+              the establishment of the theory,
+design principles, and guidelines for
+              building scalable QoS controls for the future Internet. This, in turn,
+will
+              allow reasoned and informed choices to be made as the next generation Internet
+              takes shape.
+

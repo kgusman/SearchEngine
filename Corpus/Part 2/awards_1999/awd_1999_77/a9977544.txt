@@ -1,0 +1,107 @@
+Title       : COMPASS: Composable and Parallel Simulation of Internetworks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 16,  2001    
+File        : a9977544
+
+Award Number: 9977544
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $665864             (Estimated)
+Investigator: Richard M. Fujimoto fujimoto@cc.gatech.edu  (Principal Investigator current)
+              Mostafa H. Ammar  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The unprecedented, exponential growth of the Internet has far outstripped
+              the capacity of the
+tools needed to analyze modern networks.  Simulation
+              remains the method of choice for network
+designers, researchers, and managers
+              for many analysis problems.  However, modern simulation
+tools are typically
+              limited to analyzing tens to hundreds of network nodes, while studies
+              of
+current and future networks such as the next generation Internet call for
+              analyses of thousands to
+millions.  New, practical approaches to network
+              modeling and simulation are needed to address
+this growing problem.
+     Two
+              frequently heard problems with simulation technology today are (1) the
+              excessive amount
+of time required to construct a model for a large network,
+              and (2) the inordinate amount of
+computer time required to execute the
+              resulting simulation program.  This project, called
+COMPASS (COMposable and
+              PArallel Simulation of internetworkS), will attack the first
+problem by
+              defining and realizing an approach to enable rapid construction of network
+              models
+by reusing model components developed by others, possibly using
+              different simulation software
+packages.  The second problem will be attacked
+              through execution of the model on parallel
+and/or distributed computers.  In
+              this regard, this project will focus on realizing a practical,
+flexible,
+              approach to parallelization that can be widely exploited by the networking
+              community.
+This approach, based on composing (federating) autonomous
+              simulators executing on different
+processors, cleanly separates the parallel
+              and sequential portions of the simulation, allowing
+concurrent optimization
+              and refinement of each.  A related problem that will be studied
+              concerns
+execution of models over a geographically distributed area in
+              situations where model
+components cannot be easily co-located.
+     To
+              demonstrate this approach, an optimized parallel/distributed implementation of
+              the ns2
+simulator will be realized as part of this project.  This software
+              will be realized on widely
+available computing platforms and will be made
+              freely available to the networking community in
+collaboration with the VINT/ns
+              group at USC/ISI.  Because ns2 is widely used in the networking
+community, the
+              potential impact of this project is large. Moreover, the ability to easily
+              reuse
+network models developed by others using different simulation packages
+              can lead to a paradigm
+shift in the way modeling and simulation is routinely
+              practiced in the networking community.
+Finally, simulation of multicast
+              protocols will be used as a vehicle to evaluate and refine the
+parallel
+              simulation designs and demonstrate their effectiveness.  Multicast protocols
+              have a
+particularly strong need for scalable simulation tools.  It is an area
+              where new ideas and
+proposals are still being generated.  Research in this
+              project will focus on multicast protocols that
+are of current interest to the
+              Internet community; reliable multicast, layered video multicast and
+data
+              dissemination applications will be studied.  This work will not only provide a
+              proof of
+concept for the parallel simulation research, but will also provide
+              an improved evaluation
+capability to the networking community for solutions to
+              problems of current interest.
+

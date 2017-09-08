@@ -1,0 +1,83 @@
+Title       : Global Modeling of HIgh Frequency Circuits and Devices
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 15,  2002      
+File        : a0115548
+
+Award Number: 0115548
+Award Instr.: Continuing grant                             
+Prgm Manager: Kawthar A. Zaki                         
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $360000             (Estimated)
+Investigator: Stephen M. Goodnick stephen.goodnick@asu.edu  (Principal Investigator current)
+              Jim Prendergast  (Co-Principal Investigator current)
+              Samir M. El-Ghazaly  (Co-Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              0115548
+Goodnick
+
+The conventional approach to analyzing circuits and/or
+              systems is to model the behavior in terms of lumped-parameter descriptions of
+              the current-voltage relationships. Hence, device, circuit, and system modeling
+              is often reduced to establishing the parameters that describe I-V
+              characteristics of lumped circuit elements. However, present system operating
+              frequencies characterized in terms of bandwidth and/or clock-speed are
+              increasing at a rate analogous (and even faster) than Moore's law for
+              integration density. As the operating frequency (or the clock speed) increases
+              in circuits, one must treat the signals as electromagnetic waves propagating on
+              transmission lines, rather than the simple voltages and currents.  At even
+              higher frequencies in the tera-hertz and far-infrared regime, one has to
+              account for radiation absorption and emission including the interaction with
+              the whole environment. This higher frequency regime is not only being
+              approached from increasingly higher speed devices and circuits, but also from
+              the optoelectronics side as long-wavelength sources and detectors are sought
+              for new optical communication channels, as well as a variety special use
+              applications such as sensing. This requires the development of new CAD tools
+              that combines both electromagnetic theory and semiconductor device concepts.
+              This approach is known as Global Modeling referring to its ability to model
+              complete circuits using one unified scheme.
+
+Herein is proposed funding for a
+              three-year program of research with the goal of developing device and circuit
+              simulation tools for accurate simulation of high frequency electronic circuits
+              as well as long-wavelength optoelectronic systems. These semiconductor device
+              tools will employ a full-band Cellular Automata/Monte Carlo particle-based
+              techniques developed under previous NSF funding for efficient accurate physical
+              solution of the semi-classical Boltzmann transport equation, coupled
+              hierarchically with lower level models such as hydrodynamic solvers, and
+              distributed transistor behavioral models. These techniques will be combined
+              with robust field solvers based on full-wave solutions of Maxwell's equations
+              using finite difference time domain (FDTD) techniques. The 3D solution of the
+              coupled FDTD/Device problem is challenging from a computational standpoint,
+              hence a large fraction of effort will address algorithmic improvements
+              including parallelization in a distributed workstation environment.
+
+The
+              device/FDTD simulation kernel will be embedded in a larger simulation domain
+              representing for example the passive elements and stripline coupling of the
+              matching circuit for an amplifier.  Comparison and calibration of the
+              simulation tools will be performed in collaboration with industrial partners.
+              High frequency scattering parameter measurements on devices obtained from
+              industrial collaborators will be used to calibrate global simulation results
+              using the above techniques. The PIs will focus on the modeling of high
+              frequency amplifier technologies such as GaAs MESFET and HFET technology, as
+              well as more advanced material systems such as SiGe HBTs and GaN field effect
+              transistors.  Consideration of thermal effects will be included as well for
+              power amplifier applications. They will also apply the proposed simulation tool
+              to the investigation of tera-hertz sources and detectors used for example in
+              electro-optic sampling, where comparison will be made to ultrafast optical
+              switching measurements
+

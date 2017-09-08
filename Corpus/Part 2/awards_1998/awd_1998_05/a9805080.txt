@@ -1,0 +1,42 @@
+Title       : Implementation and Applications of Practical Codes on Curves
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1999      
+File        : a9805080
+
+Award Number: 9805080
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1998       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $206777             (Estimated)
+Investigator: Richard E. Blahut blahut@uiuc.edu  (Principal Investigator current)
+              Michael E. O'Sullivan  (Co-Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              The objective of this program is to design an efficient VLSI  implementation for
+              certain algebraic geometry codes, to fabricate  a chip, and to identify
+              applications where these codes would be  competitive.  The codes to be
+              considered are Hermitian codes and  other codes similar in structure.  The
+              advantage of these codes  is that, for a given symbol size, they are longer
+              than Reed-  Solomon codes and can therefore take better advantage of the law 
+              of large numbers to give much greater error correction  capability.  A number
+              of decoding algorithms for these codes  exist, including those developed by the
+              co-PIs.  We will combine  the best elements of these algorithms into an
+              explicit  computational algorithm that is well suited to VLSI  implementation. 
+              The goal is to produce a chip that uses parallel  processing, regular and
+              simple structures, simple logic, and a  minimal number of iterations.  We will
+              verify the logic design  using a VHDL simulation.  We will also identify
+              systems where  these codes would be appropriate and test the performance of the
+               decoder in channel simulations appropriate to those applications.

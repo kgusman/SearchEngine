@@ -1,0 +1,67 @@
+Title       : Mobile Agent-Based Active Monitoring of Computer Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0087514
+
+Award Number: 0087514
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $266807             (Estimated)
+Investigator: Anand Tripathi tripathi@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The mobile agent technology offers many novel capabilities for building future
+              generation systems for monitoring and management of large networks.  The goal
+              of this research is to investigate and build a system infrastructure using
+              mobile agents for active monitoring of large distributed systems.  Mobile
+              agents would be used to perform remote information filtering and control
+              functions, and such distributed and mobile agents could be securely modified to
+              change their monitoring policies and functions.  If needed, new agents could be
+              installed at a node to perform functions different from the existing ones.  The
+              system would also support use of agent groups for cooperative distributed
+              monitoring and collaborative filtering of monitored information.
+
+The
+              proposed infrastructure would provide a set of basic agent types for event
+              monitoring, subscription, and information correlation and filtering.  This
+              infrastructure would support experimentation's with different schemes for
+              monitoring, dissemination, and processing of event data.  We would develop
+              monitoring functions for different operating system platforms, such as Sun OS,
+              Linux, and Windows NT.  We propose to experiment with intrusion detection
+              techniques using this infrastructure.  We plan to use logic programming
+              techniques for performing search and correlation operations on event data.  The
+              event notification data would be stored in logic databases using Prolog. 
+              Mobile agents would be used for performing filtering and correlation functions
+              on data stored in such databases at different nodes.
+
+Security and robustness
+              of  operations would be an important design requirement for this
+              infrastructure.  This system infrastructure would include mechanisms to monitor
+              its own components and perform recovery actions on detecting any failures.  We
+              would also develop a security architecture for mobile agents to execute in
+              separate protection domains and at different security levels to minimize the
+              impact of any corrupted or compromised agents.
+
+The proposed system would be
+              deployed in the research and instructional computing labs at the University of
+              Minnesota to evaluate the effectiveness of its mechanisms.  This system would
+              be implemented using the Ajanta agent programming system.  For this purpose,
+              the capabilities of the Ajanta system would be enhanced to support secure agent
+              groups and debugging facilities for large-scale agent based programs.  This
+              monitoring infrastructure would be made available to the community for research
+              and education activities.
+

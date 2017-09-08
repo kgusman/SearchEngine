@@ -1,0 +1,60 @@
+Title       : Architectural Design Exploration for Real-Time Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 15,  1996    
+File        : a9612298
+
+Award Number: 9612298
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $151177             (Estimated)
+Investigator: Xiaobo Hu   (Principal Investigator current)
+Sponsor     : Western Michigan Univ
+	      1903 West Michigan Avenue
+	      Kalamazoo, MI  49008    616/387-8298
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              Advances in both hardware and software design have enabled system designers to 
+              develop large, complex embedded systems. Such systems may contain a mixture of 
+              software programs running on general purpose or special-purpose processors, 
+              high-speed memory systems, and application specific hardware devices. One of
+              the  key tasks in designing these systems is to find a "best" system
+              architecture  including determining the "right" partition between hardware and
+              software  components and selecting the "right" hardware components. The focus
+              of this  project is to develop a viable methodology as well as a set of tools
+              to assist  system designers in this architectural design exploration task.  The
+              research  proposed performs design exploration at the system level. At this
+              level, a system  is specified as a collection of task graphs and an
+              implementation is described  by an interconnection of hardware components and
+              an assignment of processes to  the hardware components. Though the problem
+              shares some similarities with the  hardware synthesis problem, many different
+              issues need to be addressed in order  for this approach to be effective.  One
+              of the issues is identifying and  estimating appropriate parameters to be
+              included in the exploration process such  that system timing performance can be
+              adequately predicted. The project  emphasizes design exploration for embedded
+              systems with real-time constraints.  Such systems can be found in many
+              applications, such as navigation and landing  control of aircraft, networks and
+              communications. Attributes that are useful for  guiding design exploration will
+              be devised so as to efficiently analyze the  timing behavior of a large number
+              of implementations with respect to the system  timing specifications and hence
+              permit exploration of a wide range of design  options. Other issues including
+              sensitivity analysis and component reuse will  also be addressed. To properly
+              handle conflicting performance requirements  including both functional and
+              non-functional attributes,  an approach based on  imprecise value functions
+              from utility theory will be pursued. Furthermore, the  design exploration
+              problem is formulated as a multi-attribute optimization  problem. Techniques
+              from the evolutionary computation field will be investigated  in order to
+              tackle the exponential nature of the optimization problem.

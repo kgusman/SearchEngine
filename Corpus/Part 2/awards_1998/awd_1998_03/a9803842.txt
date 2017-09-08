@@ -1,0 +1,44 @@
+Title       : Object-Based Concurrent Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 27,  1998      
+File        : a9803842
+
+Award Number: 9803842
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $269166             (Estimated)
+Investigator: Jayadev Misra misra@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The applications that will be implemented on future high-bandwidth  networks of
+              processors will be significantly more ambitious than  the current applications
+              (which are mostly involved with  transmissions of digital data and images).
+              This project attempts  to develop an object-based model of concurrent
+              programming for  these applications, that permits the programmer to employ a 
+              largely sequential style of programming for concurrent threads.  Concepts
+              developed for databases, object-based programming and  reactive systems form
+              the basis of this model.  The model is  minimal: no specific communication or
+              synchronization mechanism,  except procedure call, is built into this model.
+              The traditional  schemes for communication, synchronization, interfaces among 
+              processes and accesses to shared memory are encoded by objects.  Concurrency is
+              transparent to the programmer; the programmer  believes that the program
+              executes in a sequential manner whereas  the implementation employs concurrent
+              threads to gain efficiency.  The project plan is to solidify the theoretical
+              foundation of the  work, and extend the basis of the model to make it more
+              useful in  practice, introducing real time, dynamic object creation, more 
+              general forms of parameter passing among object instances, and  recursive calls
+              among concurrent threads.

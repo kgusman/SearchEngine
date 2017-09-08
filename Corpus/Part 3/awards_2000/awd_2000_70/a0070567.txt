@@ -1,0 +1,69 @@
+Title       : Rational Landen Transformations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 28,  2000      
+File        : a0070567
+
+Award Number: 0070567
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $105000             (Estimated)
+Investigator: Victor Moll vhm@math.tulane.edu  (Principal Investigator current)
+Sponsor     : Tulane University
+	      6823 St. Charles Avenue
+	      New Orleans, LA  701185665    504/865-4000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Moll
+0070567
+
+     The problem of integration of rational functions was
+              considered by J. Bernoulli in the 18th century.  He completed Leibniz's
+              original attempt at a general partial fraction decomposition of the function. 
+              The main difficulty associated with this procedure is to obtain a complete
+              factorization of the denominator.  In the middle of the 19th century Hermite
+              and Ostrogradsky developed algorithms to compute the rational part of the
+              primitive for the function without factoring its denominator.  More recently
+              Horowitz rediscovered this method and discussed its complexity.  The problem of
+              computing the transcendental part of the primitive was finally solved by Lazard
+              and Rioboo.  This algorithm has been implemented in the current versions of the
+              most widely used symbolic integrators such as MATLAB, Maple V and Mathematica
+              4.0.  Modern developments in the theory of integration of rational functions
+              have been concentrated in the development of algorithms that reduce the cost of
+              operations, thereby extending the range of problems that can be solved using
+              realistic amounts of machine time.  In spite of the fact that the problem of
+              integration of rational functions appears to be solved both from a theoretical
+              and symbolic point of view, the reality is that much more work remains to be
+              done.  Among the difficulties encountered in the use of symbolic integration
+              packages is that the performance is dependent upon the way the rational
+              function is entered into the algorithm.  The immediate goal of this project is
+              twofold: to develop and implement an efficient and robust symbolic algorithm
+              for the evaluation of definite integrals of rational functions; and to
+              investigate the dynamical and geometrical properties of the rational Landen
+              transformations.  The long term goal of this project is to develop a complete
+              solution to the problem of definite integration in finite terms.  This will
+              complement the work done by Lazard-Rioboo, Rioboo, Risch, and Trager in the
+              case of indefinite integration.  Implementation of this solution will have a
+              profound impact on
+the current symbolic integrators.
+
+     Many problems in
+              physics and engineering require the exact evaluation of integrals in terms of
+              the parameters appearing in those integrals.  These integrals come up in the
+              study of particle physics and classical mechanics.  While it is not always
+              possible to find such an expression, an efficient and robust symbolic software
+              package should give the result in closed form, or decide whether such an
+              expression is achievable.  The goal of this project is to develop algorithms
+              that will expand upon the capabilities of existing software packages that are
+              widely used in industry and universities.
+

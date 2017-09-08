@@ -1,0 +1,43 @@
+Title       : RUI: Reducing the Cost of Regression Testing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  1999      
+File        : a9803665
+
+Award Number: 9803665
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $50361              (Estimated)
+Investigator: David Binkley binkley@cs.loyola.edu  (Principal Investigator current)
+Sponsor     : Loyola College in Maryland
+	      4501 North Charles Street
+	      Baltimore, MD  212102601    301/323-1010
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9229,HPCC,
+Abstract    :
+              9803665  The main objective of this research is to improve and invent 
+              techniques for automatic regression testing.  Regression testing,  which is an
+              expensive but necessary part of software maintenance,  is used to provide
+              confidence that a modification to a program is  correct.  One negative
+              consequence of the expense of regression  testing is that maintainers sometimes
+              do not perform the tests,  with disastrous results, because they "know" that a
+              change is  correct. The initial focus of this research is a series of 
+              experiments with a new technique for reducing the cost (and  thereby increasing
+              the use) of regression  testing.  The technique, which uses a combination of
+              program  slices to extract semantically meaningful parts of a program, 
+              produces a program called "differences" that captures the  semantic change
+              between a previously tested program and a changed  version of this program; it
+              should be more efficient to  test "differences", because it omits unchanged
+              computations.  One  goal of this research, which will use C programs, is to
+              assist in  the technology transfer of a technique with a rather theoretical 
+              basis to industry.  In addition, the experiments should suggest  improvements
+              and alternatives for reducing the cost of regression  testing.***

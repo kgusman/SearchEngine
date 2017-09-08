@@ -1,0 +1,44 @@
+Title       : Adaptive Mechanisms for Parallel Simulation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  1994     
+File        : a9408550
+
+Award Number: 9408550
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1994     
+Expires     : July 31,  1997       (Estimated)
+Expected
+Total Amt.  : $193383             (Estimated)
+Investigator: Richard M. Fujimoto fujimoto@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,9216,HPCC,
+Abstract    :
+              This project will examine adaptive synchronization protocols that  monitor the
+              execution of the parallel simulator, and automatically  adapt the simulator's
+              execution to optimize performance.  Adaptive  mechanisms allow the underlying
+              simulation system to achieve  maximum performance, particularly for dynamically
+              changing  workloads that often arise in practice.  These mechanisms can also 
+              simplify the development of parallel simulation software to the  extent that
+              some degree of performance "tuning" is automatically  performed by the
+              simulation system, rather than by the application  programmer, who may not be
+              an expert in parallel simulator  performance.    A protocol that uses memory
+              allocation to control execution is  proposed.  A second problem that will be
+              addressed concerns  analyzing and defining suitable incremental state saving
+              methods  that are designed to execute efficiently with rollback-based  parallel
+              and distributed simulators.  Both problems will be  attacked using
+              experimentation on implementations running on  multiprocessor hardware, and
+              analytic modeling techniques.

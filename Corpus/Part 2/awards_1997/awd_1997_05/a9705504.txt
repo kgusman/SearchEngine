@@ -1,0 +1,47 @@
+Title       : Parallel Constraints Disintegration and Approximation Methods for Image Recovery
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 5,  2001    
+File        : a9705504
+
+Award Number: 9705504
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $185800             (Estimated)
+Investigator: Patrick L. Combettes   (Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/690-6741
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9215,HPCC,
+Abstract    :
+              Conceptually, an image recovery problem can be reduced to a constrained 
+              minimization problem.  In practice, however, the efficient implementation of 
+              standard optimization algorithms often encounters serious difficulties due to
+              the  complex nature of recovery problems, which not only involve a sizable
+              amount of  data and unknowns, but also a wide variety of constraints.  The goal
+              of this  research is to develop, analyze, implement, and test a eeneral convex 
+              minimization algorithm that addresses the specific numerical difficulties posed
+               by image recovery.  The basic principle is to decompose the original problem
+              of  minimizing over a complex feasibility set into a sequence of simpler 
+              minimizations over the intersection of two larger half-spaces.  The bundle of 
+              constraints is disintegrated into elementary components and, at every
+              iteration,  the half-spaces are constructed by activating in parallel a block
+              of approximated  (linearized) constraints.  A wide range of constraints can
+              thus be processed in  a flexible manner and, moreover, fast convergence is
+              achieved thanks to  extrapolated relaxations.    The three major objectives of
+              this research are to study the proposed constrained  image recovery algorithm
+              and rigorously establish its convergence under very  general conditions; to
+              investigate the numerical issues pertaining to its optimal  implementation in
+              the context of high performance computing; to demonstrate  through extensive
+              numerical testing its flexibility and numerical superiority  over existing
+              schemes in a wide range of applied image recovery problems.

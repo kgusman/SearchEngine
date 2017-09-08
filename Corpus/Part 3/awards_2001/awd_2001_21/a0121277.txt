@@ -1,0 +1,71 @@
+Title       : ITR/SY: Communication and Data Sharing Services for Dynamic Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 30,  2002       
+File        : a0121277
+
+Award Number: 0121277
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2006     (Estimated)
+Expected
+Total Amt.  : $1030000            (Estimated)
+Investigator: Nancy A. Lynch lynch@theory.lcs.mit.edu  (Principal Investigator current)
+              Alexander A. Shvartsman  (Co-Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 0000,1667,OTHR,
+Abstract    :
+              This project is developing and analyzing algorithms to solve problems of
+              communication and data sharing in highly dynamic distributed environments such
+              as found in networks of mobile and embedded devices.  The term dynamic here
+              encompasses many types of changes, including changing network topology,
+              processor mobility, changing sets of participating client processes, a wide
+              range of types of processor and network failures, and timing variations.  The
+              properties being studied include ordering and reliability guarantees for
+              communication and coherence guarantees for data sharing.  The algorithmic
+              results are accompanied by lower bound and impossibility results, which
+              describe inherent limitations on what problems can be solved, and at what cost.
+              This is particulary important in the networks of embedded devices that need to
+              operate subject to the resource constraints such limited battery power, storage
+              capacity, communication bandwidth and computation power.  
+
+The communication
+              and data-sharing problems to be solved are viewed as high level global
+              services, which span network locations. These services generally provide
+              performance and fault-tolerance guarantees, conditioned on assumptions about
+              the behavior of the environment and of the underlying network substrate. 
+              Traditionally, research on distributed services has emphasized specification
+              and correctness, while research on distributed algorithms has emphasized
+              complexity and performance.  This project combines and synthesizes these two
+              concerns: It yields algorithms that perform efficiently and degrade gracefully
+              in dynamic distributed systems, and whose correctness, performance, and
+              fault-tolerance guarantees are expressed by precisely-defined global services. 
+              Because the setting is so complex, the algorithms are also be very complex,
+              which means that it it is necessary to decompose them into smaller, more
+              manageable pieces.  In this project, many of those smaller pieces are being
+              viewed as lower-level, auxiliary global services. These auxiliary services
+              provide lower-level communication and data-sharing capabilities, plus other
+              capabilities such as failure detection, progress detection, consensus, group
+              membership, leader election, reconfiguration, resource allocation, workload
+              distribution, location determination, and routing.  This work is being carried
+              out in terms of a mathematical framework based on interacting state machines. 
+              The state machines include features to express issues of timing, continuous
+              behavior, and probabilistic behavior.   
+
+The theoretical work in this
+              project is guided by the requirements of systems that include networks of
+              mobile and embedded devices and examples chosen from several prototype
+              applications, including distributed file management, information collection and
+              dissemination, computer-supported cooperative work, distributed games, and
+              multimedia transmission.    
+

@@ -1,0 +1,81 @@
+Title       : Collaborative Research: Progress-Based Resource Management Using Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 19,  2000 
+File        : a9988435
+
+Award Number: 9988435
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $149999             (Estimated)
+Investigator: Molly H. Shor shor@ece.orst.edu  (Principal Investigator current)
+              David C. Steere  (Co-Principal Investigator current)
+              Jonathan Walpole  (Co-Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              
+
+
+
+
+A consequence of the digital revolution is that general purpose
+              computers are being applied to an ever increasing range of applications.
+              However, lack of suitable operating system support remains a key obstacle in
+              applying COTS (commodity-off-the-shelf) computers to many of these application
+              domains, particularly those whose correctness is time- or rate-sensitive. One
+              important feature that is missing in existing operating systems is the ability
+              to assign resources to applications based on application need. This feature is
+              needed to prevent one application from affecting the correctness of another,
+              such as occurs in priority inversion, and to achieve near-optimal resource
+              allocation in the face of oversubscription of resources and changes in
+              application need over time.
+Steere and Walpole introduced a novel approach to
+              resource management, progress-based resource
+management, that allocates
+              resources to applications based on perceived need. The scheduler monitors
+              an
+application's rate of progress, compares these measurements with the
+              application's desired rate, and
+increases or decreases the application's
+              allocation to drive its actual rate to its desired value. Initial experi-ence
+              with prototypes is promising. A CPU allocator uses a feedback controller
+              (low-pass filter followed by
+a PID controller) to regulate buffer fill levels
+              in a multimedia pipeline by dynamically changing
+ reservation style
+              allocations of the pipeline threads. They have also used the same approach to
+              allocate network bandwidth in an end-host packet scheduler.
+Their experience
+              with these prototypes indicates a strong need for more formal modeling and
+              analysis.  The prototypes are difficult to tune correctly; since correct
+              performance depends both on the controller's  parameter settings and the
+              behavior of the application, which can change. In addition, the presence of
+              adaptive applications (such as adaptive QoS) can lead an otherwise stable
+              system to oscillate or diverge. Standard computer science formal methods do not
+              help one to understand a system's adaptive behavior, since they focus on
+              interface syntax and semantics. What is needed is analytical techniques for
+              understanding the behavior of a dynamic system over time, such as those used in
+              control systems.
+At the same time, applying control-style modeling and
+              analysis to software systems is itself a research challenge. Software systems
+              are discrete by nature, and one must consider quantization error not only in
+              sampling and representation of data values but also in the underlying signal
+              itself. In addition, software applications such as pipelines contend for access
+              to managed resources such as CPU and memory but also to unmanaged resources
+              such as synchronization variables (locks and semaphores). These synchronization
+              issues make it difficult to predict the effect of a change in allocation for
+              one resource, and hence to design a controller for that resource.
+

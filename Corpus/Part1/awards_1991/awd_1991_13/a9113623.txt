@@ -1,0 +1,75 @@
+Title       : Adaptive Critic Networks for Real-time Fault Diagnosis in Electric Power
+               Production
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 6,  1993       
+File        : a9113623
+
+Award Number: 9113623
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1991    
+Expires     : July 31,  1994       (Estimated)
+Expected
+Total Amt.  : $198437             (Estimated)
+Investigator: Benito R. Fernandez benito@mail.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              This project will develop a                                                    
+              architecture for real fault                                                    
+              diagnosis of electric power                                                    
+              generating systems.  It will focus                                             
+              on fossil fueled and nuclear power                                             
+              plants, characteristic of complex,                                             
+              large-scale systems amenable to                                                
+              analysis.  The fault diagnosis                                                 
+              architecture is a network of neural                                            
+              networks:  At the signal processing                                            
+              level of the hierarchy, a recurrent                                            
+              multilayer perceptron network is                                               
+              used to recursively identify the                                               
+              nonlinear plant dynamics, whereas                                              
+              another neural network with similar                                            
+              structure is used for state and                                                
+              parameter estimation purposes.  At                                             
+              the decision making level of the                                               
+              hierarchy, an adaptive critic                                                  
+              network is used for detecting and                                              
+              isolating potential faults.  The                                               
+              adaptive critic is composed of                                                 
+              three neural networks, a faulty                                                
+              system model, a performance                                                    
+              optimizer (critic), and a                                                      
+              classifier (action) which selects                                              
+              and reports the time, location,                                                
+              magnitude, and nature of the                                                   
+              faults.  The resulting diagnosis                                               
+              procedure exhibits generic and                                                 
+              therefore portable architecture.                                               
+              In the presence of real-world                                                  
+              operating conditions characterized                                             
+              by noisy sensor and actuator                                                   
+              measurements, as well as process                                               
+              noise and drifts, the proposed                                                 
+              approach would be capable of                                                   
+              detecting, isolating, and                                                      
+              accommodating system faults which                                              
+              have not been encountered or                                                   
+              anticipated during operation.  It                                              
+              is anticipated that successful                                                 
+              completion of the proposed project                                             
+              will significantly impact the                                                  
+              electric power industry, and                                                   
+              complex, large-scale nonlinear                                                 
+              systems in general.

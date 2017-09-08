@@ -1,0 +1,84 @@
+Title       : Quantifying Intractability and the Complexity of Heuristics
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2001      
+File        : a0098197
+
+Award Number: 0098197
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $351711             (Estimated)
+Investigator: Russell Impagliazzo russell@cs.ucsd.edu  (Principal Investigator current)
+              Ramamohan Paturi  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+Search and optimization problems are central to all areas of computer
+              science
+and engineering. Finding the optimal layout for a VLSI circuit or  the
+              lowest 
+energy configuration of a crystal are both examples of optimization
+              problems.
+While such problems are believed to be intractable, requiring
+              exponential time 
+to solve the worst-case instances, many heuristic methods
+              have been observed 
+to be relatively successful on instances that arise in
+              different applications.
+This project addresses questions concerning the
+              quantitative measures of the 
+intractability of search and optimization
+              problems, as opposed to qualitative notions
+such as NP-completeness.  The
+              following are some of the questions addressed in this project:
+
+1. Which
+              instances of optimization problems are the most intractable ones?
+
+2. Exactly
+              how difficult are these problems?  
+
+3. What are good heuristic methods for
+              solving optimization problems ?  
+When and how well do they work?  
+
+4. Are
+              specific non-complete problems such as factoring also intractable?   
+
+5. How
+              much does randomness help in solving problems? 
+
+6. Are hard problems
+              suitable for cryptographic applications?
+If so, what levels of security do
+              they provide these applications? 
+
+Unconditional answers to these questions
+              first require solving the P=NP problem. 
+However, this project will use two
+              approaches to find the most likely answers to 
+these questions.  The first
+              approach is to provide proofs resolving these issues under
+plausible
+              complexity assumptions.  The second approach is to examine restricted but
+              
+powerful classes of algorithms that include the most successful heuristics
+              for the problems
+under study. This approach will include attempts to  both
+              explain the success of 
+such heuristics and to show limitations that can be
+              used as a guide for the likely inherent
+complexity of the problems.

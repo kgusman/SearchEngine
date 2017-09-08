@@ -1,0 +1,57 @@
+Title       : SBIR Phase I: A Fast Parallel Grid-Free Method for Simulating Turbulent
+               Incompressible Flow In/Around Time-Varying Geometries
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 15,  2000  
+File        : a0060554
+
+Award Number: 0060554
+Award Instr.: Standard Grant                               
+Prgm Manager: Jean C. Bonney                          
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2001    
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $84338              (Estimated)
+Investigator: Adrin Gharakhani adrin@Applied-Scientific.com  (Principal Investigator current)
+Sponsor     : ASR
+	      1800 E. Garry Ave., Suite 214
+	      Santa Ana, CA  927055803    949/752-7545
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This Small Business Innovation Research (SBIR) Phase I project prepares the
+              ground-work for the development of the first commercially available
+              Computational Fluid Dynamics package for a truly grid-free Large Eddy
+              Simulation (LES) of turbulent incompressible vortex dominated flow in complex
+              time-varying geometries.  The computational engine is based on the parallel,
+              fast multi-pole implementation of a Lagrangian vortex-boundary element method.
+              Turbulence is accounted for via LES, using a Lagrangian dynamic Smagorinsky
+              sub-grid scale model.  The method is:   (1) fully grid-free in the fluid
+              domain, (2) free of numerical diffusion, (3) inherently solution-adaptive, and
+              (4) capable of modeling inhomogeneous unsteady wall-bounded turbulent flow.  To
+              this end, two new ideas will be developed during Phase I:  A grid-free method
+              for predicting diffusion with variable-viscosity, which is a pre-requisite for
+              LES modeling; and a non-diffusive vortex merging strategy to curb the
+              proliferation of particles and maintain long-time accuracy.  These will then be
+              incorporated into the Lagrangian vortex element method to demonstrate the
+              salient features of grid-free vortex-based LES modeling of turbulent flows,
+              using the prototypical example of the evolution of an initially perturbed
+              infinite-Reynolds-number vortex ring in free space.
+
+The software is ideal
+              for simulation and analysis of complex turbulent flow phenomena.  This includes
+              vortex breakdown, (massive) flow separation, vortex shedding, transient jets in
+              cross-stream, wake-body interaction, high-swirl flow, etc.  All are associated
+              with the design of advanced flow control mechanisms used, for example, to
+              reduce flow-induced noise and vibration, and to improve lift/drag performance
+              at reduced energy consumption rates.  Examples are flow over bluff bodies such
+              as ground or under-water vehicles; in engines; in/around rotating machinery
+              such as pumps and fans; helicopters; or in data storage units with rotating and
+              moving parts.
+

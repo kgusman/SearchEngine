@@ -1,0 +1,44 @@
+Title       : CAREER: Optimizing Database Systems for Large Main Memories
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 2,  2001     
+File        : a9734152
+
+Award Number: 9734152
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $246084             (Estimated)
+Investigator: Bradley S. Adelberg adelberg@cs.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Many database applications today are no longer I/O bound but memory bound -
+              during transaction processing applications, the CPU wastes approximately 80% of
+              its cycles waiting for fetches from memory. Thus a 5 fold speed up is possible
+              if cache misses are eliminated entirely, and with clock speeds continuing to
+              grow, the available speed up will grow as well. Thus the goal of this research
+              is to build significantly faster database management systems (DBMSs) by (1)
+              developing analytical models of the interaction between different database
+              structures (i.e. indexes, tables) and the memory hierarchy, (2) identifying
+              those structures that are causing the most stalls, (3) synthesizing new
+              structures and algorithms that are more "cache friendly", and (4) verifying the
+              new designs through low level performance studies on a real system. The results
+              of this project will help ensure that database performance scales with the ever
+              increasing speed of processors and density of memory chips. The educational
+              goal of this project is to develop a project based curriculum for database
+              systems. Instead of using a scaled down "teaching" system, students learn to
+              use and extend commercial DBMSs through standard interfaces like JDBC and OLE
+              DB, which gives them practical skills as well as teaches them to write and
+              debug code that is part of a large complex system.

@@ -1,0 +1,70 @@
+Title       : Neural Network Derivatives Pricing for Electricity Commodity Markets
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 27,  1999    
+File        : a9908086
+
+Award Number: 9908086
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1999  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $80000              (Estimated)
+Investigator: Oluseyi O. Olurotimi seyi@erols.com  (Principal Investigator current)
+Sponsor     : Adaptive Data Engines, LLC
+	      1790 Verbena Street N.W.
+	      Washington, DC  20012    /   -
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9908086
+Olurotimi
+This research project will test a recurrent neural network
+              approach to pricing electricity commodity derivatives. The method is based is
+              based on the ability of dynamic recurrent neural networks to approximate
+              properly parameterized arbitrary functionals. The network explicitly estimates
+              financial derivative valuations. The underlying asset spot price process is not
+              explicitly replicated, but is implicit in the estimation. This approach
+              therefore overcomes the problems in many other approaches that focus on
+              modeling the underlying price process. Namely, derivative pricing equations
+              explicitly based on the underlying process for exotic contracts such as
+              electricity are rarely found in closed form. Virtually all known real time
+              methods for valuing electricity derivatives are extremely computationally
+              expensive. The approach here relegates the computational expense to offline
+              design, and should be able to generate online derivative valuations in
+              dramatically less time than is usually done. The approach is conceptually
+              similar to recent transform based approaches that also avoid explicit
+              estimation of the underlying price process, but compute the derivative prices
+              implicitly through substitutions in the transform domain. However, the desired
+              analytical expressions do not readily emerge in those transform approaches
+              either, leading to very high computational expense in order to implement them.
+              The design approach presented in this proposal is completely rigorous, while
+              admitting a computational cost barely more than typical offline neural network
+              training. Analytical measures of performance based on recent results in
+              stochastic recurrent neural networks are used to iteratively optimize the
+              design in this offline stage.
+Descriptive statistics are extracted from
+              electricity spot price data series, including parameters related to jumps,
+              price spikes and process regime-switching. These quantities are used to
+              parameterize the functional operator that generates the derivative asset
+              prices. This approach is consistent with those few and limited cases where
+              closed-form derivative pricing formulas have been obtained. The recurrent
+              neural network is then trained to generate the derivative asset price
+              functionals using an input vector that consists of a subvector of the recurrent
+              neural network state feedback, and a subvector of the exogenous (to the
+              recurrent neural network ) parameters. The dynamic neural network approach is
+              suited for this application because the ideal computation of, for example,
+              futures or forward derivative contracts at a given time requires some
+              autonomous form of estimating quantities between the given date and the
+              derivative maturation date.
+The training data will be selected from actual
+              electricity price series, and the trained recurrent neural network output will
+              be compared with actual derivative (e.g. forward) prices.
+

@@ -1,0 +1,102 @@
+Title       : CAREER: Bandwidth Allocation Techniques for Video-on-Demand Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 14,  2000     
+File        : a9875493
+
+Award Number: 9875493
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : October 31,  2001    (Estimated)
+Expected
+Total Amt.  : $320000             (Estimated)
+Investigator: Wu-chi Feng   (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Rd
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              As networking and multimedia technologies continue to advance new video-based
+              applications such as digital libraries and video-on-demand services will become
+              increasingly more common, requiring the efficient network transmission of
+              compressed stored video streams. For constant-quality video streams, however,
+              the efficient allocation of network resources is complicated by several
+              factors.  First, compressed digital video data has much larger bandwidth
+              requirements than textual data, and hence, place much larger bandwidth
+              requirements on the network.  Second, compressed digital video data can exhibit
+              significant burstiness in bandwidth requirements at multiple time scales. In
+              particular, stored video content will typically be much more complex than
+              "live" videoconference type video streams, resulting in much greater long-term
+              burstiness. Finally, due to the continuous nature of digital video, stringent
+              guarantees on network jitter and delay may be required (especially for
+              live-video transmission).
+
+To efficiently allocate network resources for the
+              delivery of compressed video streams, bandwidth-smoothing techniques have been
+              introduced to take advantage of a priori information that may be available for
+              a video stream.  The bandwidth smoothing techniques that have been presented
+              thus far have not considered the interactions of bandwidth smoothing algorithms
+              with network delivery mechanism. The proposed research will address the
+              integration of bandwidth smoothing techniques into current networking
+              mechanisms in two key areas:
+
+1.  Bandwidth Smoothing over ATM - ATM networks
+              are a popular networking technology because it provides some minimum rate
+              guarantees as well as different classes of service. In this study, we will
+              investigate the interactions between bandwidth smoothing techniques and three
+              of ATM's classes: constant-bit-rate (CBR), variable-bit-rate (VBR), and the
+              available-bit-rate (ABR) services. In the first part, we will investigate the
+              efficient mapping of bandwidth smoothing algorithms into the CBR and VBR
+              services. In the second part of this subtask, we will investigate the mapping
+              of bandwidth smoothing techniques into the ABR service class. In particular,
+              the ABR service class provides a minimum cell rate guarantee and, in times of
+              relatively low network load, an available cell rate which allows the
+              applications to send more than their minimum cell rate that has been
+              guaranteed. We will investigate techniques for shaping video streams into the
+              ABR minimum cell rate while taking advantage of the available cell rate to
+              enhance the video stream when possible.
+
+2.  Bandwidth Allocation Techniques
+              for Best-Effort Networks - Many of the current approaches for delivering video
+              across best-effort networks such as the Internet do so by monitoring network
+              feedback and altering the video frame rate or video frame quality to fit within
+              the available resources. For stored video streams, these algorithms typically
+              do not take advantage of the a priori information available from stored video,
+              resulting in video frame rates delivered to the user that are more variable
+              than necessary. In this study, we will investigate techniques for the efficient
+              streaming of stored video across best-effort networks that take advantage of
+              the a priori information to smooth the video frame rate delivered to the
+              user.
+
+The solutions in this project will be evaluated using two methods.
+              First, the solutions will be evaluated and refined through simulation studies
+              using captured and compressed video data. In the later stages of this project,
+              we will implement a simple streamed video delivery system that will demonstrate
+              the effectiveness of the proposed solutions.  We will evaluate the proposed
+              solutions using (1) the Internet, (2) the Ohio Computing and Communication ATM
+              Research Network (OCARNet) which connects six institutions within the state of
+              Ohio, and (3) vBNS - the very high speed backbone network that we have access
+              to through the Ohio Supercomputing Center.
+
+The contribution of this project
+              will be to answer the following question:
+What is the best way to take
+              advantage of a priori information in the delivery of stored video streams
+              across networks, which may provide varying guarantees of network
+              bandwidth?
+
+Through the intelligent management of network resources, a
+              client-side buffer, and the a priori information avail-able from stored video
+              streams, the solutions developed in this project will allow us to deliver the
+              highest video quality to the user. We expect that this work can serve as a
+              catalyst for the development of future stored-video applications such as
+              digital libraries, distance learning, and video-on-demand.
+

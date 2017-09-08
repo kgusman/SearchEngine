@@ -1,0 +1,70 @@
+Title       : Traceability Based Dynamic Metrics as a Tool for Evaluating Partitioning
+               Decisions in Object-Oriented Architecture
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 17,  2001     
+File        : a0098346
+
+Award Number: 0098346
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Carl K. Chang   (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This research investigates a new method of assessing predicted
+              performance
+characteristics of Object-Oriented software architectures. As
+              scenarios
+represent the anticipated runtime behavior of a system, they can be
+              used at
+a very early stage in the design to quantitatively predict aspects of
+              that
+behavior. The proposed approach can be applied earlier than other
+              existing
+methods such as simulations and executable designs, and does not
+              require
+special analytical skills.  Early assessment is an important risk
+              mitigation
+technique, that can contribute significantly to the task of
+              building a
+distributed system with a greater degree of confidence in its
+              ability to
+perform as required.
+
+The research involves formally defining a
+              set of scenario-based metrics and
+a corresponding system-wide dynamic metrics
+              model.  A strongly typed
+traceability scheme is defined to support the
+              definition and automated
+querying of relationships between performance
+              requirements, scenarios, and
+architectural components.  Scenario invocation
+              rates are specified within
+the context of typical usage patterns, and the
+              relationship between
+scenarios is investigated to determine when performance
+              requirements should
+be propagated from one scenario to another.  A supporting
+              tool is developed
+and used to capture metrics and validate them against
+              runtime and simulation
+measurements taken from a variety of distributed
+              systems.
+
+
+

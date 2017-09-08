@@ -1,0 +1,71 @@
+Title       : Mobility and Resource Management for Multimedia Mobile Computing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 29,  2001    
+File        : a9704404
+
+Award Number: 9704404
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Zygmunt J. Haas haas@ece.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Project URL: http://www.ee.gatech.edu/research/labs/bwn/projects/nsf            
+                http://www.ee.cornell.edu/~haas/nsf.html    In this proposal, we deal with
+              two central issues in   Multimedia Mobile Computing, namely   Mobility
+              Management and Connection Admission.   More specifically, we ask the questions
+              of   how to efficiently locate users within massively  accessed internet (we
+              refer to a network of networks   as an internet), based on the micro-networking
+                communication environment   and how to limit the multimedia connection
+              admission   in such an environment, as to   guarantee quality of service to
+              already accepted connections.     Our approach is based on the idea of   User
+              Mobility Profile (UMP).   As a user roams within an internet,   the system
+              continuously collects   information on the users' mobility and connection
+              patterns.   This information is used to anticipate the future   location of the
+              active users, thus, reduces the  search space and, consequently, the cost of
+              locating the user.   This is achieved through the dynamic calculation of
+              location   area. In our approach, the location area is defined per   mobile and
+              is calculated, using the UMP,  ``on the fly,'' as the user roams between
+              different   networks. Calculation of the location area is done   as to minimize
+              the user's mobility management  cost. Furthermore, the statistical knowledge of
+              users'   future positions embedded within the UMP allows   prediction of
+              resource utilization and, thus,   reduces the probability of resource shortage.
+                The result is that multimedia connections can be supported with a   much
+              stricter Quality-of-Service (QoS) guarantees.     To achieve the goal of
+              guaranteed QoS, we employ a   new concept, called the Shadow Clique,   which is
+              the representation of the probability   of user's future locations,   given its
+              current position in the network.   The Shadow Clique is, in fact,   a digest of
+              the UMP and allows easy and fast determination   of the future resource
+              requirements in different network s.    In our research we will address the
+              following issues using  both analytical and simulation tools:     1. The
+              optimal strategy for UMP information reporting and collection    2. The use of
+              the UMP for reducing the registration requirements and     the user location
+              costs    3. Methods for grouping the networks into paging groups, as to     
+              reduce the mobile paging costs, subject to delay constraints     4. The use of
+              the UMP to create the Shadow Clique digest     5. The use of the Shadow Clique
+              concept to predict the future network      resource utilization      6. The use
+              of the Shadow Clique concept in the      Connection Admission algorithm    It
+              is obvious that as the six topics  are highly related, a close collaborative  
+              interaction and continuous exchange  of information and results is essential  
+              for the success of this project.     To estimate the potential impact of our
+              work,   one must envisage the future use of the   Internet services and the
+              mobile applications.   These are responsible for much of the recent   research
+              in the Mobile Multimedia   field. However, before a wide-spread use of the  
+              mobile applications can be realized, the fundamental   questions of how to
+              manage the mobility of such  large volume of users and how to manage the
+              resources   for multimedia communication need to be addressed.   Our proposal
+              is a significant step in this direction.

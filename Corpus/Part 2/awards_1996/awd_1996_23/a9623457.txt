@@ -1,0 +1,53 @@
+Title       : DISSERTATION RESEARCH: Evolution and Functional Morphology of the Backbone in
+               Early Synapsids
+Type        : Award
+NSF Org     : IBN 
+Latest
+Amendment
+Date        : March 29,  1996     
+File        : a9623457
+
+Award Number: 9623457
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      IBN  DIV OF INTEGRATIVE BIOLOGY AND NEUROSCIE
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : April 1,  1996      
+Expires     : March 31,  1998      (Estimated)
+Expected
+Total Amt.  : $10000              (Estimated)
+Investigator: James A. Hopson jhopson@midway.uchicago.edu  (Principal Investigator current)
+              Michael C. LaBarbera  (Co-Principal Investigator current)
+Sponsor     : University of Chicago
+	      5801 South Ellis Avenue
+	      Chicago, IL  606371404    773/702-8602
+
+NSF Program : 1148      ECOLOGICAL & EVOLUTIONARY PHYS
+Fld Applictn: 61        Life Science Biological                 
+Program Ref : 9179,SMET,
+Abstract    :
+                In order for compilers of fine-grain parallel architectures to be  as
+              effective as possible, compiler writers must understand the  interactions
+              between the phases of the compiler. These phases  include instruction
+              scheduling which rearranges code in order to  increase available fine-grain
+              parallelism.  In addition, code  transformations to increase memory performance
+              are applied, such  as tiling and loop interchange to increase cache
+              performance,  prefetching to prefetch values from memory in order to eliminate 
+              the memory latency, and scalar replacement which changes array  references to
+              scalar references to decrease memory accesses.  The  compiler also performs
+              register allocation, which allocates  registers to values so as to minimize the
+              number of memory  accesses.    The goal of this proposed work is to investigate
+              the interactions  of these phases. This effort is being undertaken along two 
+              directions. The first direction is to continue previous work in  cooperative
+              register allocation and instruction scheduling by  (1) incorporating
+              cooperative software pipelining and performing  the cooperative register
+              allocation and scheduling optimizations  over a single framework, the program
+              dependence graph, and (2)  performing a thorough analysis and experimental
+              study of the  effects of register assignment strategies on scheduling to 
+              increase fine-grain parallelism. The second direction is to  investigate the
+              interactions between code transformations  improving memory performance and
+              other compiler phases.  In particular, the proposed work will investigate (1)
+              the impact  of scalar replacement and software prefetching on instruction 
+              scheduling to increase fine-grain parallelism and on register  allocation (2)
+              strategies for enabling communication between code  transformations to increase
+              memory performance, register  allocation, and instruction scheduling.  ***

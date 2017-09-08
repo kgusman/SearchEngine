@@ -1,0 +1,43 @@
+Title       : Semantics of Implicit Procedure-Calling Mechanisms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2001      
+File        : a0097740
+
+Award Number: 0097740
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $214239             (Estimated)
+Investigator: Mitchell Wand wand@ccs.neu.edu  (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal: CCR-0097740
+Title:  Semantics of Implicit Procedure-Calling
+              Mechanisms
+PI:  Mitchell Wand
+
+Modern software architectures display
+              extremely dynamic patterns of procedure invocation, in which it is difficult to
+              determine what procedure is invoked from any call site.  These architectures
+              are sometimes called implicit invocation architectures.  This project proposes
+              to study two mechanisms for implicit procedure invocation:  event-based
+              programming (also known as the Observer pattern), and aspect-oriented
+              programming.  It proposes to develop control-flow analyses for these
+              mechanisms, and to consider the correctness of translations between these
+              mechanisms and more traditional models of computation.  It also proposes to
+              extend the principal investigator's previous work on contextual equivalence to
+              consider equivalence in contexts limited by architectural constraints.
+

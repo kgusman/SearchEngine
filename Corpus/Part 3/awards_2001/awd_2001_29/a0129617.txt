@@ -1,0 +1,101 @@
+Title       : Cryptographic Mechanisms for Internet Security
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 28,  2002  
+File        : a0129617
+
+Award Number: 0129617
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2002      
+Expires     : February 28,  2005   (Estimated)
+Expected
+Total Amt.  : $218585             (Estimated)
+Investigator: Mihir Bellare mihir@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1766,9217,HPCC,
+Abstract    :
+                   The Internet has opened the door to new possibilities, but also brought
+              with it new risks.
+Internet security is a widely recognized problem crossing
+              the boundaries between mathematics,
+systems and sociology, and panaceas are
+              unlikely. The goal of this proposal is to isolate and
+target a few components
+              of the security problem that have real impact on Internet security in
+practice
+              and are well-defined enough that clear, documented, and identifiable progress
+              can be made
+within the time-frame and resources of the project. The chosen
+              problems relate to cryptographic
+components of current and future Internet
+              security protocols and standards, in technical areas such
+as authentication,
+              access control, privacy, key distribution and key compromise, and to
+              bridging
+the gap between cryptography and systems security.
+     Providing
+              high-quality, cost-efective cryptographic mechanisms, and tying them together
+              se-
+curely,is a challenge. Cryptographic schemes are easy to specify but hard
+              to validate, and notorious
+for containing bugs that take a long time to be
+              discovered. This proposal will employ the practice-
+oriented provable-security
+              approach toimprove security guarantees of cryptographic mechansisms.
+Developed
+              by Bellare and Rogaway, this approach already has a track record in delivering
+              prac-
+tical cryptography backed by theoretical guarantees. Past successes of
+              this method include the
+HMAC andOAEP algorithms which have been adopted by
+              numerous standards bodies and widely
+implemented.
+     The first two problems
+              that we propose to address are related to the security of protocols
+such as
+              SSL. The researchers propose to investigate the security ofa mechanism that is
+              common practice but
+not analyzed in theory, namely to use the same key for
+              both asymmetric encryption and digital
+signatures. The researchers  will seek
+              to determine under what circumstances this is secure, with particular
+focus on
+              existing standards. The researchers will  then propose to investigate the
+              security of the session key exchange protocols at the heart of security
+              protocols like SSL, TLS or that of 3GPP, building on past
+work in provable
+              security for session key exchange.
+     The greatest threat to the security
+              the researcher may hope to obtain from some cryptographic mechanism
+may simply
+              be key exposure: an intruder breaks into the system and compromises the
+              underlying
+key. This problem crosses the boundary between security and
+              cryptography, and the next two
+problems  proposed by the researcheris  to
+              consider two cryptographic approaches to it. The first is forward-security,
+              whose goal is not to prevent key exposure, but to mitigate the damage it causes
+              by making sure that past uses of a key are not compromised by its exposure. The
+              researchers propose two specific pieces of research related to forward
+              security, one in the domain of signatures and the other in the domain
+of
+              pseudorandom number generation. The second problem relates to human-memorizable
+              keys, or
+passwords. These have the advantage of not being subject to key
+              exposure via breakin, but have
+other disadvantages, most notably being subject
+              to dictionary attack. Several corporations have
+proposed some form of
+              server-aided, password-based authentication. The researcher looks into the
+              security of some of the potential mechanisms to this end.
+

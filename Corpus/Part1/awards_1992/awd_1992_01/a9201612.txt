@@ -1,0 +1,57 @@
+Title       : Numerical Solution of Eigenvalue Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 7,  1994       
+File        : a9201612
+
+Award Number: 9201612
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : August 31,  1995     (Estimated)
+Expected
+Total Amt.  : $196755             (Estimated)
+Investigator: Jesse L. Barlow barlow@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              This research concerns the improvement of the accuracy of                      
+              methods to solve two particular eignenvalue problems.                          
+                                                                                             
+              The first is the classical symmetric eigenvalue problem.                       
+              Recent results have shown that there is a large class of                       
+              symmetric eigenvalue problems for which small structured                       
+              perturbations result in small changes in the eigenvalues in                    
+              the relative sense.  This class of matrices is called "well-                   
+              behaved".  The problem of finding a neccessary and sufficent                   
+              condition for a matrix to be "well-behaved" will be                            
+              investigated.                                                                  
+                                                                                             
+              Another concern is that only a few algorithms have been shown                  
+              to achieve relative accuracy on a subset of the set of "well-                  
+              behaved" matrices.  The investigation will try to discover if                  
+              that set of algorithms can be expanded.  The divide and                        
+              conquer approaches of Cuppen, Dongarra, Jessup, Sorensen, and                  
+              Tang are considered.  Good absolute error bounds on these                      
+              algorithms have already been established and it remains to                     
+              show tighter relative error bounds for diagonal dominant                       
+              problems and for the singular value decomposition.                             
+                                                                                             
+              The other large problem area concerns the eigenvector problem                  
+              for non-symmetric matrices.  The problem arises in the                         
+              numerical solution of Markov modeling problems.  Accurate                      
+              general bounds on Gaussian elimination have been proven.                       
+              These allow for the straighforward application of standard                     
+              sparse matrix techniques to this problem.  However, better                     
+              structured perturbation bounds need to be proved for the                       
+              nearly uncoupled case.

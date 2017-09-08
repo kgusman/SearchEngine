@@ -1,0 +1,49 @@
+Title       : CAREER: Purdue Memory Access Based Caching Schemes
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 4,  2003      
+File        : a9875960
+
+Award Number: 9875960
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1999      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: T. N. Vijaykumar   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              CCR-9875960
+Vijaykumar
+
+Traditionally, the gap between processor and main
+              memory speeds has been bridged by placing a hierarchy of cache memories
+              containing successive levels of slower, larger caches between the processor and
+              main memory accesses that miss in the faster levels of the hierarchy
+              underscoring the need for better cache hierarchy management.
+
+The
+              ever-increasing number of on-chip transistors can be employed to track dynamic
+              information relevant to memory accesses.  This project investigates novel
+              hardware techniques to allow flexible cache management without excessive
+              overheads.  The techniques comprise of (1) providing flexible management
+              through high cache associativity, (2) providing a shortcut from instructions to
+              cache frames to avoid the overhead of high associativity, (3) tracking the
+              instructions that compute the address of a cache miss to initiate a prefetch by
+              executing such address computations, early, and (4) tracking the instructions
+              that access cache blocks to enable replacement of less useful blocks by more
+              useful data.  Performance achieved by the proposed hardware-based techniques is
+              evaluated by testing widely used benchmarks through a detailed software
+              simulator.
+

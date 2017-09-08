@@ -1,0 +1,76 @@
+Title       : ITR/AP: Simulation of Multi-Scale Deformation in Solid Earth Geophysics
+Type        : Award
+NSF Org     : EAR 
+Latest
+Amendment
+Date        : August 2,  2002     
+File        : a0205653
+
+Award Number: 0205653
+Award Instr.: Standard Grant                               
+Prgm Manager: Leonard E. Johnson                      
+	      EAR  DIVISION OF EARTH SCIENCES              
+	      GEO  DIRECTORATE FOR GEOSCIENCES             
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $1925000            (Estimated)
+Investigator: Michael C. Gurnis gurnis@caltech.edu  (Principal Investigator current)
+              James C. Pool  (Co-Principal Investigator current)
+              Jeroen Tromp  (Co-Principal Investigator current)
+              Michael Aivazis  (Co-Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    626/395-6073
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1687,9196,EGCH,
+Abstract    :
+              0205653
+Gurnis
+
+This is a project to develop a suite of tools to model
+              multi-scale deformation for Earth Science problems.  This effort is motivated
+              by the need to understand interctions between the long-term evolution of plate
+              tectonics and shorter term processes such as the evolution of faults during and
+              between earthquakes.  Several major data acquisition efforts within the Earth
+              Sciences community are underway or at an advanced planning stage (EarthScope
+              including PBO - Plate Boundary Observatory, InSAR - Satellite based
+              Interferometric Synthetic Aperture Radar, USArray - a 400 element moveable
+              seismic array, GPS - continuous Global Positioning System measurements).  These
+              observational programs will rapidly produce vast, high-quality data sets which
+              record deformation of the Earth's surface on multiple time scales, from
+              co-seismic and post-seismic to long term tectonic time scales, and on multiple
+              spatial scales, from centimeters to thousands of kilometers.
+
+The Principal
+              Investigators will produce a modeling package, usable by the entire Earth
+              sciences community, that addresses the limitations of what is currently
+              feasible and that is engineered with software evolution and growth as design
+              requirements.  Their efforts will extend the capabilities of the PYRE
+              framework, an object-oriented environment capable of specifying and launching
+              numerical simulations on multiple platforms, including Beowulf class parallel
+              computers, that can function with grid-computing systems. Specifically, the
+              community needs fexible modeling tools that incorporate complex rheologies,
+              e.g., temperature-dependent, non-Newtonian, visco-elasto-plasticity with
+              discrete failure planes and dynamic re-gridding to resolve evolving regions of
+              high strain.  From a computational perspective, this is an excellent time to
+              pursue these objectives.  Major advances in the PC industry enable scientists
+              to build massively parallel PC cluster computers that facilitate realistic 3-D
+              simulations at reasonable computational and monetary costs.  Complimenting
+              these hardware advances are major architectural solutions allowing more
+              traditional codes to be bound together to solve complex, multi-scale,
+              multi-physics problems.
+
+This will be a collaborative project between two
+              Caltech units;  The Center for Advanced Computer Research (CACR) and the
+              Seismological Laboratory.  After about eighteen months into the project, beta
+              versions of the software will be made available to the community and final
+              versions will be available without restrictions, installed on NSF PACI
+              computing facilities, for example.  The new geodynamics modeling framework will
+              easily allow one to launch 2-D AND 3-D simulations on platforms ranging in
+              scale from uniprocessors to the TerraGrid, making the code useful to a wide
+              range of users from individual scientists and educators to inter disciplinary
+              teams working on state of the art calculations posed within EarthScope.
+***

@@ -1,0 +1,56 @@
+Title       : End-to-end Integrity and Confidentiality for Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2002      
+File        : a0208642
+
+Award Number: 0208642
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2002      
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $330000             (Estimated)
+Investigator: Andrew C. Myers myers@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Providing assurance of security and privacy is becoming more difficult with
+              current trends towards building computing infrastructure out of distributed
+              components connected by networks, including untrusted client machines.
+              Important to this assurance are the confidentiality and integrity properties of
+              distributed systems that serve principals whose trust in each other is
+              incomplete. This description encompasses, among others, clinical information
+              systems, joint military information
+systems, and financial information
+              systems.
+
+A new security mechanism, secure program partitioning, can provide
+              stronger, end-to-end assurance that data remains confidential.  In this
+              approach, programs are transformed according to strong security
+policies,
+              resulting in secure distributed systems.  This is an attractive way to specify
+              and enforce confidentiality and integrity in environments that include
+              untrusted, possibly malicious host machines.
+
+Because the integrity of
+              distributed computations and data is difficult to maintain in the presence of
+              untrusted hosts, this research investigates an extension of secure program
+              partitioning to use
+redundant computation to preserve integrity.  In addition,
+              new models of information flow in concurrent systems are being explored because
+              the current theory and practice of security for concurrent systems
+              is
+restrictive, yet also unsound. This is especially important because
+              distributed systems are naturally concurrent.  Solutions to these problems are
+              being implemented as part of the Jif language system.
+

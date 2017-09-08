@@ -1,0 +1,86 @@
+Title       : ATM Rate Based Congestion Control and Routing with Cell LossPrevention/Bounds
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 31,  2000      
+File        : a9805436
+
+Award Number: 9805436
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $266468             (Estimated)
+Investigator: Mario Gerla gerla@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The ATM network offers various types of services, with different levels of QoS
+              guarantees. Two services which are gaining increasing importance are ABR
+              (Available Bit Rate) and UBR (Undeclared Bit Rate). ABR and UBR are services of
+              lesser quality than CBR (Constant Bit Rate) and VBR (Variable Bit Rate) in that
+              they can use only the residual trunk bandwidth (left over by VBR and CBR).
+              Since bandwidth is not reserved in advance (except for an optional Min Cell
+              Rate, MCR), the network must protect itself from congestion caused by excess
+              ABR and UBR input traffic. In UBR, excess traffic is simply discarded at
+              overloaded nodes. In ABR, the network prevents congestion using a feedback
+              control mechanism. Namely, the input rate of each ABR source is regulated so as
+              to match the available bandwidth on the path. The main focus of this research
+              will be the feedback rate control mechanism, called E-PRCA (Enhanced
+              Proportional Rate Control Algorithm) and its properties and
+              applications.
+
+E-PRCA has been implemented in many versions. Most
+              implementations converge to steady state and provide fair bandwidth sharing
+              among competing ABR connections. However, few implementations prevent, or at
+              least bound cell loss. Often, this cell loss problem is overlooked since ABR is
+              "a best effort service" and thus the customer was not promised cell loss
+              guarantees. However, a closer look reveals that it is beneficial to limit and
+              if possible prevent ABR cell loss because: (a) Higher layer protocols, such as
+              TCP, are impacted by cell loss; (b) In multicast connections, loss recovery at
+              the application level is costly; and (c) ABR is becoming an attractive
+              alternative (to VBR) for multimedia applications which tolerate adaptive rate
+              regulation.
+
+In this project, we propose four tasks:
+
+ABR control with cell
+              loss prevention/bounds: Starting point will be the SP-EPRCA scheme, a rate
+              control scheme based on Smith Predictor and developed by this Investigator and
+              his collaborator. Preliminary properties of cell loss prevention and bounds
+              were already established for SP-EPRCA. We plan to explore the feasibility of
+              cell loss bounds in other popular ABR rate control schemes (e.g., ERICA). We
+              will evaluate the performance of various implementations (via analysis and
+              simulations), deriving tradeoffs between key parameters (buffer allocation,
+              throughput, stability, fairness, responsiveness, etc) for various network and
+              traffic scenarios. Implementation complexity will also be evaluated.
+
+ABR
+              multicast : We plan to extend the E-PRCA control to multicast connections.
+              Again, starting point will be an implementation recently proposed for SP-EPRCA.
+              The main focus will be cell loss prevention, which is critical here since data
+              multicast applications are not protected by TCP error and loss recovery.
+
+ABR
+              connection routing: We will attack the problem of optimally routing ABR
+              connections subject to rate control with cell loss bound. Cell loss bounds make
+              this problem more complex than merely finding the shortest path route with
+              desired fair share bandwidth. We will explore both unicast and multicast
+              routing, relying on efficient heuristics for the latter. 
+
+Applications: We
+              will evaluate the benefits of ABR cell loss prevention and routing in several
+              applications including TCP/IP support. We will also compare the efficiency of
+              ABR vs UBR or VBR as appropriate.
+
+
+

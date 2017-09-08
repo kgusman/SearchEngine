@@ -1,0 +1,56 @@
+Title       : Object Recognition in Cluttered Scenes Using Appearance-Based Parts and
+               Relationships
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 6,  1999     
+File        : a9712598
+
+Award Number: 9712598
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $257606             (Estimated)
+Investigator: Octavia I. Camps camps@whale.ee.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              The recognition of general three-dimensional objects in cluttered  scenes 
+              remains a challenging problem. In particular, the  design  of  a  good 
+              representation suitable to model  large  numbers  of  generic objects that is
+              also robust to occlusion and segmentation  problems,  has been an stumbling
+              block in achieving  success.  In  this  research, a new representation using
+              appearance-based parts  (ABPs)  and   relationships (ABRs) is proposed to
+              overcome  these  problems. ABPs  and ABRs are defined in terms of closed 
+              regions,  segmented  using the Minimum Description Length principle,  whose 
+              appearance  is obtained from collections of images and  compactly  stored  in 
+              a  hierarchical structure of parametric  eigenspaces.  This  new 
+              representation allows the representation of free  form  objects and has several
+              appealing features, namely (1) robustness  to  segmentation  problems, since it
+              is  learned  from  segmented  images; (2) robustness to occlusion steming from
+              the fact that it  is  based  on  parts  rather than on global properties;  and 
+              (3)  ability to handle large object databases, due to its hierarchical  nature.
+               As  part of this research a probabilistic model  of  the  discriminatory power
+              of the proposed representation will be  also  developed.   This  model  will be
+              used in a  Bayesian  framework,  based  on the PI's previous work, to design a
+              recognition system.  The  new  representation and the associated probabilistic 
+              model,  coupled  with  a   Bayesian  reasoning engine,  will  enable  the 
+              system  to automatically recognize and locate generic objects  in  cluttered 
+              scenes.  The main contributions of this research  are:  (1)  a  new  object
+              representation capable of representing  large  databases  of generic objects
+              that is also robust to segmentation  problems  and  occlusion;  (2)  a 
+              probabilistic  model  of   the  discriminatory  power  of  the  proposed 
+              representation  and   a  recognition  system based on a Bayesian framework that
+               does  not  require  the  use  o f  ad  hoc heuristics;  and  (3)  a  rigorous 
+              experimental  protocol  to characterize the  performance  of  the  system in
+              the presence of occlusion.

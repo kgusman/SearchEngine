@@ -1,0 +1,55 @@
+Title       : KDI: Direct Numerical Simulation and Modeling of Solid-Liquid Flows
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a9873236
+
+Award Number: 9873236
+Award Instr.: Standard Grant                               
+Prgm Manager: Cyrus K. Aidun                          
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1998 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $2270000            (Estimated)
+Investigator: Daniel D. Joseph joseph@aem.umn.edu  (Principal Investigator current)
+              Yousef Saad  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1415      Particulate &Multiphase Procss
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 0000,1337,1339,9263,OTHR,
+Abstract    :
+              9873236
+Daniel Joseph & Yousef Saad
+
+The purpose of this project is to
+              develop parallel algorithms to treat a class of multiscale problems associated
+              with solid particle dynamics in liquids.  The focus is on full
+              three-dimensional direct numerical simulation of the interactions of
+              sufficiently large number of particles, thousands of particles, so that
+              collective behavior might be inferred.  This builds upon the previous research
+              supported under the NSF-HPCC Grand Challenge Group Award where two-dimensional
+              simulation had been successfully accomplished.
+
+The particle movers algorithm
+              uses a combined weak formulation in which the fluid and particle equations of
+              motion are combined into one single equation set in which the interaction
+              forces between the particles and fluid cancel, circumventing the need for
+              explicit calculation of forces.  Extension to three-dimensions as well as
+              increasing the number of particles in order to obtain reliable sample size,
+              requires a major overhaul of preconditions and solvers which will define new
+              directions for computational fluid mechanics.
+
+The multiscale phenomena
+              addressed here are fundamental to the chemical process industry and oil
+              exploration and recovery.  Therefore, special considerations will be given to
+              present the simulation results into forms which can be understood and used by
+              industry.  For example, collaboration with STIM-LAB a group of industrial
+              partners in the oil and gas will be strengthened to develop a 3D design
+              software package based on the research conducted under NSF support.

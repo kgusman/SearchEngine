@@ -1,0 +1,129 @@
+Title       : Subdivision Methods for Computer-Aided Design and Engineering
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 27,  1997  
+File        : a9500572
+
+Award Number: 9500572
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $150086             (Estimated)
+Investigator: Joe Warren jwarren@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9146,9216,HPCC,
+Abstract    :
+               Representing curved shape is a fundamental problem in  geometric modeling and
+              design.  A variety of approaches  currently exist for  modeling curved shape,
+              by far the most  popular of which is a boundary  representation (B-rep) whose 
+              surfaces are trimmed NURBS (non-uniform rational  B-splines).  Unfortunately,
+              building a modeler based on trimmed NURBS is  exceedingly difficult for at
+              least two reasons.  First,  trimming two NURBS  patches to agree along a common
+              edge  usually involves complex surface/surface  intersection  algorithms and
+              substantial approximation.  Second, even in  the  absence of sharp edges,
+              patching is often required since  a single NURBS patch  is capable of modeling
+              only surfaces  topologically equivalent to planes,  cylinders, and tori. 
+              Modeling surfaces of other topological types (even those  as  simple as a
+              sphere) require the surface be decomposed into  a quiltwork of  individual
+              NURBS patches.  Complicated  continually conditions must then be  imposed to
+              guarantee  that adjacent patches join smoothly.    Subdivision  provides a
+              promising alternative to NURBS.  Using subdivision, a polyhedron is  mapped to
+              a sequence of  denser polyhedra whose limit is a curved object.  Each  new 
+              polyhedron is derived from the previous polyhedron by  splitting each of  its
+              faces into four new faces and  positioning its new vertices using a fixed 
+              averaging mask.  Different masks yield surface features such as corners, 
+              curved  edges, or smooth faces in the limit object.  The  method is simple,
+              requiring  only polyhedral modeling.  The  method is general, producing objects
+              with smooth  faces and  sharp curved edges without trimming or patching.
+              Finally,  subdivision provides a hierarchical representation that  allows the
+              design of  efficient multi-resolution processing  algorithms.    This research
+              addresses a  combination of theoretical and  applied problems whose solution is
+              essential if  subdivision  is to be of use as a practical method for modeling
+              curved  shape.  Specifically it develops:          Curvature continuous
+              subdivision methods;    Subdivision methods for local refinement and 
+              introduction of shapes and  edges;  Functional subdivision methods over
+              irregular  triangulations  (necessary for FEA)  and algorithms for: Conversion
+              to and from other  representations such as  NURBS,          Editing and display
+              of subdividion  surfaces,    Finite element analysis over subdivision surfaces,
+                Computing the intersection, union, or difference of  subdivision surfaces.   
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                         

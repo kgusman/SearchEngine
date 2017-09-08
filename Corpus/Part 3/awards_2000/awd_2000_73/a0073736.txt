@@ -1,0 +1,90 @@
+Title       : A Dominating-Set-Based Routing Scheme in Ad Hoc Wireless Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 17,  2002     
+File        : a0073736
+
+Award Number: 0073736
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2000      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $181957             (Estimated)
+Investigator: Jie Wu jie@cse.fau.edu  (Principal Investigator current)
+Sponsor     : Florida Atlantic Univ
+	      777 Glades Road
+	      Boca Raton, FL  334310991    305/393-3000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Recent advances in technology have provided portable computers with
+              wireless interfaces that
+allow networked communication among mobile users. 
+              The resulting computing environment, which
+is often referred to as mobile
+              computing, no longer requires users to maintain a fixed and universally
+known
+              position in the network and enables almost unrestricted mobility.  An ad hoc
+              wireless
+network is a special type of wireless mobile network in which a
+              collection of mobile hosts with
+wireless network interfaces may form a
+              temporary network, without the aid of any established
+infrastructure or
+              centralized administration.
+     Efficient routing among a set of mobile hosts
+              (also called nodes) is one of the most important
+functions in ad hoc wireless
+              networks.  Routing based on a connected dominating set is a
+              promising
+approach, where the search space for a route is reduced to the nodes
+              in the set.  A set is dominating if
+all the nodes in the system are either in
+              the set or are neighbors of nodes in the set.  In this proposal,
+the
+              researchers study a simple and efficient distributed algorithm for calculating
+              a connected dominating set
+in an ad hoc wireless network, where connections of
+              nodes are determined by their geographical
+distances and the corresponding
+              graph is called a unit graph.  A reduced graph is then induced
+from the
+              connected dominating set and the routing process is restricted to this reduced
+              graph.  The researcher's preliminary results on random unit graphs are very
+              promising in generating a small reduced graph in a way faster than existing
+              methods.
+     The goals of the proposed research are: (1) Enhance the process
+              (also called the marking
+process) of determining a connected dominating set of
+              a unit graph.  (2) Complete the update/re-
+calculation algorithm for the
+              connected dominating set when the topology of the ad hoc wireless
+network
+              changes dynamically.  (3) Extend the proposed approach to a hierarchical
+              structure, where
+the marking process is applied on the reduced graph to
+              generate a reduced graph of the reduced
+graph.   The hierarchical structure is
+              obtained by applying the marking process iteratively.  (4) Select
+an
+              appropriate routing protocol for the reduced graph.  This scheme could be a
+              proactive routing
+(such as various extended link state and distance vector
+              routing protocols), a reactive routing (also
+called on demand), or a
+              combination of both.  (5) Explore the possibility of combining dominating
+set
+              information and location information provided by a Global Positioning System
+              (GPS) to derive
+a better routing scheme.  (6) Integrate different components
+              and fine tune the system through an
+empirical study based on a set of
+              well-defined quantitative performance metrics.
+

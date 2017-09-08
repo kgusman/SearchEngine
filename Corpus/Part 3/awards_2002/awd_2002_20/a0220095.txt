@@ -1,0 +1,50 @@
+Title       : Compiling for Explicitly Parallel Adaptable Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 30,  2002    
+File        : a0220095
+
+Award Number: 0220095
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Carl Ebeling ebeling@cs.washington.edu  (Principal Investigator current)
+              Craig D. Chambers  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,9215,HPCC,
+Abstract    :
+              As the demands on portable embedded systems increase with the incorporation of
+              high-bandwidth wireless data along with multimedia and speech processing, it is
+              becoming increasingly difficult to achieve the required performance and power
+              requirements with programmable solutions.  Current platforms for high-end
+              embedded systems typically comprise one or more RISC or DSP processors, along
+              with an increasing number of application-specific (ASIC) components that are
+              necessary to deliver high performance at low power.  As more and more
+              functionality is implemented using ASIC components, the platform's range of
+              application decreases and its vulnerability to obsolescence
+              increases.
+
+Coarse-grained adaptable architectures bridge the gap between
+              traditional processors and ASIC solutions and can be used to replace many of
+              the ASIC components in high-performance embedded platforms.  The goal of this
+              research is to make these adaptable architectures accessible to programmers via
+              a high-level programming language interface.  This project will develop a
+              compiler comprising a standard front-end combined with a parallelizing backend
+              that performs scheduling and optimization using a simultaneous place and route
+              algorithm based on those used in physical design automation.  Posing the
+              scheduling problem as a place and route problem allows the many constraints
+              imposed by adaptable architectures to be solved by a single phase of the
+              compiler.  
+

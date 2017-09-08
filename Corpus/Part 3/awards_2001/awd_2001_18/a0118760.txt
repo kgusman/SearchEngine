@@ -1,0 +1,57 @@
+Title       : VISUALIZATION:Manipulating Volumes: A New Paradigm for Advanced Volume
+               Visualization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 20,  2001 
+File        : a0118760
+
+Award Number: 0118760
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $339232             (Estimated)
+Investigator: Deborah Silver silver@vizlab.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              As 3D volume data becomes more prevalent from simulations and sensing equipment,
+              and as volume rendering APIs are becoming available in software and hardware
+              implementations, the need to manipulate volume models arises. However, the work
+              on manipulating volume models for analysis and computer graphics applications
+              is sparse. The few methods that are available are computationally expensive and
+              non-intuitive. This project avoids these problems by using volumetric skeletons
+              to control manipulation. The skeleton acts as a ubiquitous data structure for
+              volumes and allows manipulation in a much more intuitive and general manner.
+              The skeleton is computed from the actual volume with a reversible thinning
+              procedure based upon the distance transform. The skeletal points are connected
+              and arranged in a skeleton-tree structure. The key to this process is the
+              reconstruction phase that maps the sampled voxels around the skeleton-tree. The
+              skeleton is an intuitive mechanism for manipulation. For example, a user can
+              deform the skeleton to create the corresponding deformations in the volume. The
+              skeleton-tree allows the user to reshape volumes and create new visualizations.
+              Among other things, this allows culling sections of a volume logically,
+              morphing volumes to simulate changes in a 3D feature over time, detecting
+              collisions for interactive volume-based virtual reality applications, and
+              volume animation and volume graphics (mimicking the standard graphics pipeline
+              with volumes). Because skeletons can be generated hierarchically, they can be
+              used to perform a variety of tasks including volume smoothing and
+              level-of-detail representation.
+
+The goal of this project is to extend and
+              fundamentally enhance previous research in volume skeletonization. It will
+              develop a full range of robust skeletal algorithms and interactive tools. The
+              researchers will investigate the exciting new visualization applications of the
+              parameter-based volume skeleton. This should have a wide impact in the
+              visualization and computer graphics communities.
+

@@ -1,0 +1,123 @@
+Title       : ITR/SI - A Networking Protocol for Underwater Acoustic Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 12,  2001 
+File        : a0114014
+
+Award Number: 0114014
+Award Instr.: Interagency Agreement                        
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $311562             (Estimated)
+Investigator: Geoffrey G. Xie xie@cs.nps.navy.mil  (Principal Investigator current)
+Sponsor     : Naval Postgraduate School
+	      Code 09
+	      Monterey, CA  93943    831/656-2099
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              We propose development of a network layer protocol necessary to increase the
+              utility of acoustic
+communications in the shallow water environment.
+              Increasing attention has been given to collecting data
+from difficult to
+              access coastal waters for diverse activities, to include scientific research,
+              industrial and
+commercial concerns, and military applications. The
+              preponderance of activity has focused on
+developing reliable methods for
+              transmitting the information collected through the difficult
+              time-varying
+shallow water medium. However, current network layer protocols,
+              which are responsible for determining
+traffic routing, do not provide for
+              guaranteed quality of services. Current protocols also may cause
+unnecessary
+              message delays.
+The delivery of traffic in an acoustic network is complicated
+              by the excessive propagation delays
+resulting from the speed of sound in
+              water. The effect of this propagation speed is to cause an acoustic
+network
+              connected by short hops to perform similar to a wire-based network with links
+              between
+neighboring nodes of over 100,000 kilometers. However, the potential
+              benefits and increased potential
+for application developments that stem from
+              the implementation of wireless underwater networks make it
+worthwhile to
+              explore means of mitigating the effects of the propagation delays.
+Central to
+              the problem of route determination for network traffic is the discovery of the
+              networks
+topology from which network nodes extract next-hop information upon
+              which to base traffic forwarding
+decisions. Two principal methods are used for
+              discovering the route information. Proactive routing
+methods pre-compute route
+              data before network traffic is generated, thus when traffic is submitted
+              by
+network applications the appropriate routes are already known. Reactive
+              routing determines the route
+information in response to traffic submissions.
+              This method, referred to as on-demand routing, seeks to
+minimize route
+              discovery traffic by only determining routes necessary to support actual
+              traffic patterns.
+This routing information is cached to increase
+              responsiveness to submitted traffic and adaptability to
+topology changes. Both
+              methods have their merits; however, neither adequately supports
+              resource
+allocations necessary to assure guaranteed levels of service
+              quality.
+We proposed a novel network protocol that provides many of the
+              benefits of proactive routing yet
+retains the adaptability of reactive
+              protocols. Our protocol is based upon a central master node which
+periodically
+              probes the network for active participant nodes. In responding to the probes,
+              the nodes
+provide the master node with sufficient information for the master
+              node to determine all possible data
+paths through the network. From this
+              information the master node makes all routing decisions for the
+network and
+              provides irnext-hoply information to each non-master node, thus reducing the
+              workload on
+non-master nodes. This information also enables the master node to
+              optimize the allocation of traffic to
+network paths providing for active
+              management of delays insuring delay variance and data capacity are
+within the
+              established quality of service commitments.
+Fundamental to this approach is
+              the separation of control traffic from data delivery. This separation
+allows
+              data to be transmitted without first having to wait for traditional handshake
+              mechanisms to provide
+access to the channel. This separation significantly
+              reduces the expected delay to which traffic is
+subjected resulting in
+              potentially higher data throughput.
+Progress in network layer protocols will
+              expand the usefulness of underwater acoustic networks
+beyond applications that
+              are limited to very low data rate traffic and non-time sensitive data
+              types.
+Specific beneficiaries of this research activity include the Deployable
+              Autonomous Distributed System,
+the SeaWeb Technology Demonstrations, the
+              Autonomous Oceanographic Sampling Network, and the
+National Oceanographic
+              partnership Programs Front Resolving Observational Network with
+              Telemetry
+(FRONT) project.

@@ -1,0 +1,52 @@
+Title       : ITR/AP (CHE): Mutliscale Treatment of Fluid-Solid Interfaces: Development of
+               Hybrid Monte Carlo and Finite Element Code
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : September 6,  2001  
+File        : a0112929
+
+Award Number: 0112929
+Award Instr.: Standard Grant                               
+Prgm Manager: Jorn Larsen-Basse                       
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Xiao Cheng Zeng xzeng1@unl.edu  (Principal Investigator current)
+              Ruqiang Feng  (Co-Principal Investigator current)
+              Dennis J. Diestler  (Co-Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 1633      SURFACE ENG & MATERIALS DESIGN
+Fld Applictn: 0308000   Industrial Technology                   
+Abstract    :
+              0112929 Zheng This ITR/AP Small Group Award supports development of efficient
+              and robust computational methods for simulating physical systems involving
+              phenomena at drastically different length scales.  The results will serve an
+              important need in computer-aided design, analysis and modeling. A classic
+              example is a system that involves fluid-solid interfaces with complex
+              geometries on scales ranging from molecular to macroscopic. On one hand,
+              computational modeling approaches based on continuum approximations (e.g.,
+              finite-element and finite -difference techniques) are capable of describing
+              mechanical responses only at wavelengths much longer than the typical distances
+              over which the fluid density at interfaces varies appreciably. On the other
+              hand, the whole system is far too large to be treated by a fully atomistic
+              simulation that would encompass responses at all scales simultaneously. To
+              address this problem a hybrid Monte Carlo-finite element scheme, in which fluid
+              molecules at the interface are treated explicitly, while the solid is handled
+              by continuum techniques, will be applied. A "reduced" description in which the
+              stochastic variables consist of the positions of the fluid molecules and the
+              nodes of the finite-element mesh covering the solid phase will be developed.
+              The stochastic nature of Monte Carlo lends itself to an efficient parallel
+              computing scheme, which is crucial for simulating real-world systems. A
+              multi-disciplinary team has been assembled to undertake the three-year project,
+              the expected outcome of which is a powerful computational scheme for analyzing
+              the thermomechanical response of realistic fluid-solid systems in which the
+              coupling of the molecularly heterogeneous interfaces to the macroscopic
+              continuum plays an essential role. ***

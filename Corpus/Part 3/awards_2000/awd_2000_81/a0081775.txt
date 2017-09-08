@@ -1,0 +1,49 @@
+Title       : ITR: Phase Retrieval Algorithms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 23,  2002    
+File        : a0081775
+
+Award Number: 0081775
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $234320             (Estimated)
+Investigator: Veit Elser ve10@cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              X-ray crystallography is a fundamental technique for determining the structure
+              of proteins. However, the physics of this process means that information about
+              the relative phases of the thousands of x-ray beams used in the process is
+              lost. The recovery of phases is referred to as "phase retrieval." Essentially
+              all modern algorithms for phase retrieval are iterative, including the
+              well-known "Shake and Bake" algorithm. However, a general problem with
+              iterative approaches is that the iterates are drawn to attractors that are not
+              true solutions. This project will investigate a significantly different,
+              non-iterative approach that does not share this drawback. If successful, the
+              result will be a computing environment that will benefit a variety of
+              disciplines that engage in phase retrieval.
+
+The new algorithm exploits
+              techniques in optimization theory that have never been used in phase retrieval
+              before. One key idea is to use a different objective function from past
+              approaches: the zero-frequency component, or "charge" Q. A key property of Q is
+              linearity, which avoids the many local minima that stagnate iterative methods
+              for other objective functions. In the language of optimization theory, the
+              objective function Q permits a direct translation of the phase retrieval
+              problem into a mixed-integer program (MIP). Decades of research on solving MIPs
+              can thus be applied to solve difficult instances of phase retrieval encountered
+              in crystallography.
+

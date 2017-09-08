@@ -1,0 +1,90 @@
+Title       : SOFTWARE: ACR: Advanced Code Generation for Digital Signal Processing Algorithms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : February 13,  2003  
+File        : a0234293
+
+Award Number: 0234293
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  2003      
+Expires     : March 31,  2006      (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Markus Pueschel pueschel@ece.cmu.edu  (Principal Investigator current)
+              Jose M. Moura  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The goal of this research is to automatically generate implementations of
+              digital signal processing (DSP) transform algorithms that are adapted to a
+              given off-the-shelf computing platform, i.e., the generated code takes full
+              advantage of architectural features and available instructions sets, including
+              the memory hierarchy, multiple processors, vector instructions, fused
+              multiply-add instructions, and prefetching instructions. We refer to this type
+              of code as "advanced code'' for two reasons: (1) the code uses instructions
+              that are
+significantly beyond standard C or Fortran programming; and (2)
+              manually writing such code requires a very high level of programming expertise
+              including assembly level programming and a deep understanding of the platform's
+              architecture. Our goal is ambitious: automatically generate code that competes
+              with or outperforms expertly hand-tuned code for DSP algorithms.
+
+Our
+              approach is based on the following: (1) We represent each fast DSP
+transform
+              algorithm as a formula in a concise mathematical language. (2) We derive for
+              each transform a very large number of structurally different fast algorithms or
+              formulas.  (3) These different formulas (i.e., algorithms) are efficiently
+              enumerated and manipulated. (4) We automatically translate each formula into
+              advanced code.  (5) We optimize the implementation by searching over the space
+              of alternative formulas and code implementations.
+
+Step (4) is the key
+              claim---the automation step---of our approach. In other words, the
+              applicability of advanced instructions, including vector instructions, parallel
+              threads, fused multiply-add instructions, and prefetching instructions, can be
+              related to mathematical constructs in our formula notation. Step (5) provides
+              the
+tuning and adaptability of the code to the platform.
+
+We will research
+              the mapping from formulas to advanced code and formalize it in a way suitable
+              for automatic code generation and optimization. We will develop a compiler that
+              translates a formula description of a fast DSP algorithm, possibly augmented
+              with parameters that control coding degrees of freedom, into advanced code.
+              Finally, we will build an "Advanced Code Generator'' that interfaces our
+              compiler with a formula generator and a search module to
+automatically explore
+              the space of structurally distinct fast algorithms and the space of advanced
+              coding degrees of freedom. For a given DSP transform, our Advanced Code
+              Generator automatically finds the formula, i.e., the algorithm, whose structure
+              allows the best implementation given the available advanced instructions and
+              given the computing platform.
+
+In contradistinction to other approaches to
+              advanced code generation, including approaches using optimizing C or Fortran
+              compilers or manual coding, our Advanced Code Generator automates and
+              integrates the optimization at the mathematical level of algorithms and the
+              optimization at the implementation level of machine-specific instructions. This
+              way the Advanced Code Generator has access to all structural information
+              necessary to produce high quality code and
+mimics a highly skilled programmer
+              who understands and exploits the structure of algorithms and the given
+              architecture to write platform-tuned advanced code.  We believe that our
+              research makes, for the performance-critical class of DSP algorithms, a
+              pioneering step towards a solution for one of the present fundamental problems
+              in software development for high performance scientific computing: How to
+              develop, with reasonable effort, optimal and portable performance on
+              increasingly complex and diverse off-the-shelf computing platforms.
+
+

@@ -1,0 +1,58 @@
+Title       : Indexing and Reorganization in Parallel Database Systems
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : March 4,  2003      
+File        : a0073063
+
+Award Number: 0073063
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  2001     
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $254285             (Estimated)
+Investigator: Betty J. Salzberg salzberg@ccs.neu.edu  (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 0000,OTHR,
+Abstract    :
+              
+
+
+Indexing and Reorganization in Parallel Database Systems
+
+The goal of
+              this research project is to design, analyze and simulate restartable algorithms
+              for on-line reorganization in parallel database management systems (DBMSs). The
+              growing need for 7/24 (7 days a week/24 hours a day) database access for web
+              applications makes development of these algorithms urgent. Applications such as
+              those found in telecommunications and web-based businesses (for example, eBay
+              or AOL) require very large highly available databases. These are or will soon
+              be managed by parallel DBMSs (i.e., DBMSs on clusters of workstations, each
+              managing its own collections of disks, connected by Local Area Networks
+              (LANs)), so parallel algorithms to maintain availability in the face of logical
+              and physical changes to the database as well as unexpected growth are
+              important. The approach deployed in the project includes the description of
+              explicit logging operations to assure consistency and preserve incremental
+              improvements in the face of possible system failures at any node of the
+              parallel system. Collaboration with industry is part of the project. Ms.
+              Xiaowei Sun, a supported Ph.D. student on the project, has completed an
+              internship at Clustra, Inc., whose product is a parallel replicated DBMS
+              designed for high availability. She is also doing an internship with IBM
+              Toronto on online reorganization for IBM's DBMS, DB2. The close contact with
+              industry and the current importance of the problem of online reorganization
+              will strengthen the impact of this project's results, including the expected
+              technology
+              transfer.
+
+http://www.ccs.neu.edu/home/salzberg/nsfproj2000.html
+
+

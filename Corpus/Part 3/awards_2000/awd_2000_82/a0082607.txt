@@ -1,0 +1,123 @@
+Title       : ITR: Sequential Signal Processing Methods for Third Generation CDMA Signals
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 5,  2002       
+File        : a0082607
+
+Award Number: 0082607
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $492151             (Estimated)
+Investigator: Petar M. Djuric djuric@ece.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1640,1656,1660,4096,4097,9216,9218,HPCC,
+Abstract    :
+              Petar M. Djuric
+Project Summary
+Signal processing is an area that already
+              plays a significant role in the current GSM and IS-95 systems.
+This role will
+              only increase in the projected third generation wireless communications, and in
+              fact, the
+success in implementing these systems will strongly depend on the
+              ability of the signal processing methods
+to resolve the new technical problems
+              that will emerge with it. The underlying technology of the third
+generation
+              systems will be based on the wideband CDMA (WCDMA) modulation scheme. In the
+              core
+of this technology will be sequential signal processing algorithms with
+              abilities to capture fast-changing
+characteristics of transmission channels
+              very quickly and to exploit known system information optimally.
+The
+              significant advances of latest CDMA signal processing methods notwithstanding,
+              it is clear that the
+requirements for much lower bit error rates than in
+              current systems will markedly increase the demands on
+signal processing
+              capabilities of sequential algorithms for WCDMA signals. Additional challenge
+              arises due
+to complexities that are a result from the need to handle high data
+              rates and users with high mobility. Since
+the communication channels will be
+              rapidly time varying, the signals will undergo quick attenuations and the
+new
+              algorithms on channel estimation and tracking, channel equalization,
+              interference rejection, and RAKE
+receiver adaptations must have extremely fast
+              convergence rates. The objective of the proposed research is
+to develop
+              algorithms that will meet the challenges of this new technology.
+The basic
+              methodology for the proposed processing of WCDMA signals will be based on
+              particle filters, which recently have gained much attention for their potential
+              in handling nonlinear and non-Gaussian
+models. The underlying principle used
+              in the design of such filters is the representation of the
+              posterior
+distribution of state variables (the unknowns of the system) by a
+              set of particles (samples). Each particle
+is given an importance weight so
+              that the set of particles and their weights represent a random measure
+that
+              approximates the desired posterior distribution. The particles may also
+              represent means of density
+functions, usually Gaussians, in which case the
+              particles have additional variables, the covariances of the
+Gaussians. As new
+              information becomes available, these particles propagate recursively through
+              the state
+space and their weights are modified using the principles of
+              Bayesian theory. There are several ways of
+applying particle filters including
+              sampling-importance-resampling, mixture Kalman filtering, and Monte
+Carlo and
+              Metropolis-Hastings importance resampling. These approaches have their
+              advantages and disad-
+vantages in performance, and impose different demands
+              for real-time implementation. In the proposal, new
+schemes will be studied
+              that naturally combine the best features of the existing schemes, and tailor
+              them
+for processing of WCDMA signals. Not only will the new schemes be able to
+              replicate or surpass the best
+possible performance of the known methods, but
+              they will also be general enough to provide foundations for
+development of new
+              task specific schemes.
+Four important topics will be investigated. The first
+              is the examination of fundamental schemes for
+propagation of state particles.
+              This issue is critical for two important reasons: (a) it aspects the
+              performance
+of the algorithm and (b) it subsumes the implementation, which
+              although parallelizible, is in some cases too
+computationally demanding and
+              therefore not too practical. The second topic is task specific and is
+              related
+to multiuser detection and channel estimation as well as exploitation
+              of the physical characteristics of the
+channel and the base station/mobile
+              asymmetry for development of improved algorithms. The third one
+is examination
+              of the flexibility of the proposed methodology and the interaction of the
+              various algorithms
+and tasks in order to improve their performances and
+              robustness. Finally, the fourth topic will be related to
+investigation of
+              computational requirements, and structures that would allow for real-time
+              use.
+

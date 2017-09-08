@@ -1,0 +1,57 @@
+Title       : Multi-Use "Plug-And-Play" Software Packages for Black Box and Inexact Symbolic
+               Objects
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 9,  1997  
+File        : a9712267
+
+Award Number: 9712267
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $215233             (Estimated)
+Investigator: Erich L. Kaltofen kaltofen@eos.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project conducts research in the design of efficient  algorithms, their
+              implementation in software packages, and  in making the programs accessible to
+              non-specialist users of  symbolic computation systems.  Packages for the black
+              box  representation of symbolic objects and for symbolic objects  containing
+              imprecise, that is, floating point data will be  constructed.  The packages are
+              generically programmed as C++  template classes with abstract underlying
+              arithmetics; they  can be compiled with a variety of fast libraries for the 
+              basic field, floating point, and polynomial operations.  A  server/client
+              interface seamlessly attaches the packages  to all widely-used general purpose
+              symbolic systems such as  Maple and Mathetmatica.  Parallel execution of the 
+              implemented algorithms will be facilitated.    Black box objects are stored as
+              functions.  For instance: a  black box polynomial is a procedure that takes
+              values for  the variables as input and evaluates the polynomial at that  given
+              point; a black box matrix is a procedure that takes an  arbitrary vector as
+              input and computes the matrix times  vector product.  The FoxBox system is a
+              package for  computing greatest common divisors and factoring black box 
+              polynomials.  The aim is to eliminate algorithmic  bottlenecks in FoxBox and
+              add black box linear algebra.  For  sake of speed, the project focuses on
+              algorithms over finite  fields.    Efficient server/client bridge code to a
+              variety  of general purpose systems will be developed.    The project will also
+              investigate how inexact (e.g.,  floating point) data can be handled in the
+              course of a  symbolic computation.  The allowance of floating point 
+              coefficients in a symbolic, i.e., parameterized model, is  crucial for a
+              symbolic approach to problems from the  physical world.  Moreover, floating
+              point arithmetic is  faster than exact arithmetic, especially for algebraic 
+              numbers.  Several numerical models, such as a-posteriori  iterative improvement
+              and sensitivity analysis for perturbed   input data, will be considered.  The
+              problems of Toeplitz  matrix rank, polynomial complex root location, and
+              factoring  complex polynomials in many variables will be investigated.  The
+              design of a plug-and-play symbolic/numeric package will  be studied.

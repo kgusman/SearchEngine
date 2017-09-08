@@ -1,0 +1,81 @@
+Title       : Request Routing for Scalable Services
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 11,  2002 
+File        : a0126231
+
+Award Number: 0126231
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $203996             (Estimated)
+Investigator: Jeffrey S. Chase chase@cs.duke.edu  (Principal Investigator current)
+              Amin M. Vahdat  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Clustering technologies enable incremental scaling of Internet server sites at
+              modest cost.  It is increasingly common in cluster-based service architectures
+              to distribute incoming request traffic among servers using redirecting
+              intermediaries integrated into the network switching fabric or interposed
+              between the client and servers.  However, Internet services and their delivery
+              architectures continue to evolve rapidly.  This creates new challenges and
+              opportunities for redirecting intermediaries, and motivates basic research in
+              both the mechanisms for request redirection and the request routing policies
+              for specific service environments.
+
+This work will undertake a coordinated
+              research program to expand the potential of redirecting intermediaries as an
+              enabling technology for scalable Internet services.  The work focuses primarily
+              on integrating service-aware redirection and request routing as network-level
+              functions in a high-speed switching architecture.  The methodology combines
+              simulation, construction of software prototypes, and evaluation of prototypes
+              using synthetic and real workloads.
+
+The expected outcomes of the work are:
+              
+    An improved understanding of the role of request routing as an enabler
+              for large-scale Internet services, 
+    Simulation results evaluating these
+              policies in large systems, 
+    Software prototypes that demonstrate the value
+              of these solutions in practice for Web-based services and network storage
+              services, and 
+    Opportunities to train students as participants in this
+              research at both the graduate and undergraduate levels. 
+
+In summary, the
+              research work has the following basic objectives:
+
+1.  Define protocol
+              features essential for redirection at the level of the transport protocol.  The
+              switch routes incoming requests on each transport connection to any active
+              server at the discretion of a service-specific routing policy; referred to as
+              Anypoint communication.
+
+2.  Implement an Anypoint-capable transport protocol
+              that supports features commonly required by service protocols: reliable
+              communication, ordering and duplicate suppression, and congestion
+              control.
+
+3.  Define interfaces and capabilities for service-specific policy
+              modules in Anypoint intermediaries.  This defines an architecture for
+              decomposing service protocol implementations into a client, a server, and
+              service module to extend the intermediary.
+
+4.  Evaluate the intermediary
+              architecture defined by Anypoint by constructing software prototypes of
+              virtualized service implementations.  The initial targets are HTTP 1.1
+              application services and NFS.
+

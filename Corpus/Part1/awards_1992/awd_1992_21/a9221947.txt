@@ -1,0 +1,51 @@
+Title       : Transaction Management in a Heterogeneous Database Environment
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 20,  1995      
+File        : a9221947
+
+Award Number: 9221947
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : January 31,  1998    (Estimated)
+Expected
+Total Amt.  : $137503             (Estimated)
+Investigator: Yuri J. Breitbart yrui@cs.engr.uky.edu  (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      201 Kinkead Hall
+	      Lexington, KY  405060057    /   -
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+                9221947  Breitbart    Transaction Management in a Heterogeneous Database
+              Environment    This is the first year of a three-year continuing award.  A 
+              multidatabase system (MDBS) consists of a number of sites which run  distinct
+              commercial database management systems (DBMSs). The goal  of an MDBS is to
+              integrate the DBMSs, allowing applications to  access data from, without
+              requiring modifications to, the  individual DBMSs. The autonomous user
+              organizations in a  multidatabase system generally have invested substantial
+              capital in  the DBMS and may, rightly, be unwilling to modify or lose control 
+              over their DBMSs. Therefore, it is imperative to develop  multidatabase
+              transaction processing methods that allow a high  degree of local autonomy, but
+              support users' data in a consistent  and reliable manner. This research
+              investigates how to manage and  guarantee consistency of data residing in
+              heterogeneous DBMSs,  while adhering to the autonomy requirements of the
+              participant  DBMSs. The MDBS transaction management schemes developed in this 
+              research have the following characteristics: (1) adapt to MDBS  environments,
+              existing techniques for ensuring database consistency  based on preserving
+              transaction atomicity and serializability; (2)  utilize alternate correctness
+              criteria that relax the  serializability and atomicity requirements.  Pilot
+              systems  developed for both the serializability and the relaxed 
+              serializability models are used to conduct performance evaluation  to ascertain
+              that the developed schemes permit a high degree of  concurrency.  The results
+              of the research will provide the basic  transaction management mechanisms
+              necessary for the development of  a complete multidatabase management system. 
+              ***

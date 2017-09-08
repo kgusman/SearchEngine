@@ -1,0 +1,55 @@
+Title       : Multiscale Preconditioning of BEM Equations for Electrostatic Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 13,  1999       
+File        : a9521001
+
+Award Number: 9521001
+Award Instr.: Continuing grant                             
+Prgm Manager: Saifur Rahman                           
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $84500              (Estimated)
+Investigator: Peter L. Levin   (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+                ECS-9521001  Levin    The objective of this project is to create sparse
+              approximations of the fully populated boundary element matrices that one
+              obtains using integral formulations like charge simulation or surface charge
+              simulation.  These well known numerical schemes are used to find the electric
+              field on and near high voltage devices like guard rings, insulator strings, and
+              transformers.    The sparse approximations are formed by a similarity transform
+              of the coefficient matrix.  The cost of the one employed here is of optimal
+              order N .  Nonetheless, the benefits of computing with a sparse matrix
+              typically do not justify the costs of creating it unless the problem has
+              multiple right hand sides (that is, one wants to simulate multiple excitation
+              modes).    This project will attempt to quantify the advantage of wavelet-based
+              similarity transforms and suggest practical ways in which they can be employed.
+               The proposal suggests that for large problems with thousands of unknowns there
+              may be an immediate advantage in working in the wavelet basis because of the
+              dramatic reduction in disk access; the costs of the transform might be
+              recovered more quickly than previously thought.    Additionally, there are
+              attractive ways of economically creating sparse approximations of the inverse
+              matrix.  These are the best kinds preconditioners for iterative solvers like
+              generalized conjugate gradients and GMRES.  Preconditioners can dramatically
+              reduce the number of iterations required to achieve a particular tolerance. 
+              So, not only do sparse approximations reduce the cost of each iteration
+              (linearly by the sparsification), they can be used to reduce the number of
+              iterations as well.  Investigating different preconditioning alternatives
+              constitutes the second objective of the proposal.    Of course the most
+              interesting possibility offered by wavelet bases is that of creating a sparse
+              coefficient matrix without suffering the expense of the similarity
+              transformation.  The third part of the project will be devot ed to integrating
+              these bases into a previously existing boundary element package and producing
+              the sparse systems directly.                  3

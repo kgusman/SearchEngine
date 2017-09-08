@@ -1,0 +1,65 @@
+Title       : Parallel Algorithms and Methods for Solving Macromolecular Structures
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 24,  1992      
+File        : a9119388
+
+Award Number: 9119388
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1992      
+Expires     : May 31,  1994        (Estimated)
+Expected
+Total Amt.  : $197408             (Estimated)
+Investigator: Robert E. Lynch   (Principal Investigator current)
+              John R. Rice  (Co-Principal Investigator current)
+              Dan C. Marinescu  (Co-Principal Investigator current)
+              Michael G. Rossmann  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,
+Abstract    :
+                                                                                             
+              The X-ray Crystollography Group in the Department of Biological                
+              Sciences at Purdue has pioneered a variety of methods, techniques              
+              and computer software for the determination of the structures of               
+              the macromolecules.  It has achieved major advances in the study               
+              of virus structures and, over the years has developed a                        
+              foundation of computer programs for film processing, phase                     
+              determination, model building, structure refinement, and so on,                
+              leading to the solution and investigation of macromolecular                    
+              structures.                                                                    
+                                                                                             
+              Computing is currently one of the bottlenecks in this research.                
+              The gap between the computing resources needed and the ones                    
+              available increases as new radiation sources for X-rays become                 
+              available.  This group can maintain its position as the leader in              
+              the field by migrating their work to parallel supercomputers such              
+              as Touchstone Delta machine.                                                   
+                                                                                             
+              The principal research issues we plan to address are:                          
+                                                                                             
+              1. Development and analysis of parallel algorithms for film                    
+              processing, multiple small least squares problem, and huge                     
+              (one million plus variables) sparse least squares problems.                    
+              2. Development of data structures suitable for macromolecular                  
+              computations and which can be partitioned for parallel                         
+              methods.                                                                       
+              3. Development of geometric based methods for problem partition                
+              and mapping computations onto MIMD (Multiple Instruction                       
+              Multiple Data) computers.                                                      
+                                                                                             
+              This work will not only advance the understanding of parallel                  
+              computing but it will also provide a practical tool to enable an               
+              order of magnitude increase in power for the computational                     
+              biology.  We expect this will lead to a qualitative improvement                
+              in the computational macromolecular biology.

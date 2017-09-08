@@ -1,0 +1,42 @@
+Title       : CAREER: Realistic Program Termination Verification: Theory and Practice
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 7,  2002   
+File        : a0229480
+
+Award Number: 0229480
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 31,  2001   
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $284938             (Estimated)
+Investigator: Hongwei Xi hwxi@cs.bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              This CAREER project combines a research component--designing a practical
+              approach to program termination verification that includes both theoretical
+              study and actual implementation--with an educational component--undertaking the
+              enhancement, for both undergraduates and graduates, of programming language
+              education.  The research on termination verification recognizes that,  in
+              practice, the programmer often knows for some reasons that a particular program
+              should terminate if implemented correctly and would therefore find great value
+              in a termination checker able to detect program errors that cause
+              non-terminating program execution.  Unfortunately, termination checking in a
+              programming language that supports general recursion is often prohibitively
+              expensive.  In order to design a termination checker for practical use, the
+              project explores some recent results on the use of dependent types in practical
+              programming, allowing the programmer to encode into dependent types the metrics
+              needed for ensuring program termination and then use type-checking to verify
+              that the provided metrics indeed suffice.  The research focuses on providing a
+              mechanism that truly can be applied in practice.

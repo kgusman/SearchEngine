@@ -1,0 +1,78 @@
+Title       : Automatic Validation of Improving Transformations and Related Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  1999    
+File        : a9904943
+
+Award Number: 9904943
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: David B. Whalley whalley@cs.fsu.edu  (Principal Investigator current)
+              Xin Yuan  (Co-Principal Investigator current)
+              Robert A. van Engelen  (Co-Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323064166    850/644-5260
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number: CCR-9904943
+
+Title: Automatic Validation of Code Improving
+              Transformations
+       and Related Applications
+
+Investigators: Robert van
+              Engelen, David Whalley, and Xin Yuan
+
+Abstract:
+
+Ensuring that software
+              systems execute correctly is vital.  One portion
+of this process is to ensure
+              that the compiler produces machine code
+that accurately represents the
+              algorithms specified at the source code
+level.  This is a formidable task
+              since an optimizing compiler not only
+translates the source code to machine
+              code, it may apply hundreds or
+thousands of code improving transformations to
+              even a relatively small
+program.  This project will use two approaches that
+              dramatically simplify
+the validation of code improving transformations. 
+              First, the equivalence
+of the program representation before and after each
+              improving
+transformation will be checked, rather than attempting to equate
+              the
+source and object programs directly.  Each individual code
+              improving
+transformation typically consists of only a few changes.  Second,
+              only
+the region of the program that has changed, as opposed to the
+              entire
+program representation, will be checked.  The regions of the
+              program
+representation that are changed by an improving transformation
+              are
+typically quite small.  The equivalence will be shown by
+              demonstrating
+that the effects of the region on the rest of the program will
+              remain the
+same before and after the improving transformation.  The benefits
+              include
+simpler diagnosis of compiler errors and more reliable compilers.
+
+

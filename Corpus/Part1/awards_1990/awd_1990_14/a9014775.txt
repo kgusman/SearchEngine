@@ -1,0 +1,51 @@
+Title       : Methodologies for the Automatic Verification of Concurrent Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 8,  1995      
+File        : a9014775
+
+Award Number: 9014775
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1990  
+Expires     : July 31,  1994       (Estimated)
+Expected
+Total Amt.  : $309903             (Estimated)
+Investigator: W. Rance Cleaveland   (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2880,9289,
+Abstract    :
+              Despite more than a decade of research into parallel computing                 
+              systems, the development of such systems remains a difficult and               
+              error-prone undertaking, owing to the subtle interactions in which             
+              simultaneously executing components may engage.  One way to ensure             
+              that such systems behave correctly is to verify them formally; this,           
+              however, can be an extremely complex task, and even the development of         
+              automated tools has not permitted very large systems to be proved              
+              correct.  Using the framework of process algebra, the broad goal of            
+              this project is to develop automated techniques that enable the                
+              verification of large concurrent systems.  The project will work along         
+              three lines.                                                                   
+                                                                                             
+                Methodologies will be developed that exploit the structure of                
+                concurrent systems and their specifications to reduce the                    
+                verification process to a collection of more manageable subproblems          
+                that may be solved using existing techniques.                                
+                                                                                             
+                Automated tools that support these methodologies will be built on            
+                top of an existing tool, the Concurrency Workbench, which provides           
+                the basic support needed for the proposed techniques.                        
+                                                                                             
+                The utility of the methodologies and associated tools will be                
+                evaluated by applying them to the verification of existing "real             
+                world" communications protocols.

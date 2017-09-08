@@ -1,0 +1,42 @@
+Title       : Using Immutable Types for Debugging and Parallelism
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 13,  1990      
+File        : a9002786
+
+Award Number: 9002786
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1990      
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $174618             (Estimated)
+Investigator: Andrew W. Appel appel@cs.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 2875      SYSTEM SOFTWARE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              In many programming languages, especially those with a "functional"            
+              style of programming, the vast majority of objects are not modified            
+              after they are created.  The ML language is unusual in that the                
+              compile-time typechecker can distinguish in advance objects that may           
+              be modified from objects that may not.  This advance information about         
+              immutability can be used by implementations in several ways: by                
+              optimizing compilers, where it simplifies aliasing calculations; by            
+              garbage collectors, where it can improve locality of reference; by             
+              parallelizing compilers, where it simplifies sharing of data; and by           
+              debuggers, where it allows efficient replay of program execution.              
+                   Since ML is one of the few imperative languages that provides             
+              compile-time guarantees of immutability, there has not been much               
+              research into the uses of immutability.  There are many ways that              
+              compile-time guarantees can be translated into run-time savings;               
+              several of these will be studied.

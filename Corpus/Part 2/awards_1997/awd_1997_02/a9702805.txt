@@ -1,0 +1,48 @@
+Title       : CAREER: Semantics-based Program Analysis via Symbolic Composition of Transfer
+               Relations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 12,  1999     
+File        : a9702805
+
+Award Number: 9702805
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $200599             (Estimated)
+Investigator: Christopher Colby colby@cs.luc.edu  (Principal Investigator current)
+Sponsor     : Loyola Univ of Chicago
+	      820 N Michigan Avenue
+	      Chicago, IL  606112103    773/508-2471
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              9702805  This project investigates the task of automatically determining 
+              properties of the run-time behavior of computer programs before  the programs
+              are actually executed. Optimizing compilers have  long motivated research in
+              this area, commonly known as static  program analysis. More recently, there has
+              been interest in using  program analysis to verify correctness or safety
+              properties of  software before it is put into service. However, due both to the
+               phenomenon of accumulated imprecision, which is akin to  accumulated rounding
+              error, and to the inadequacy of invariant  properties in the presence of loops
+              and recursion, useful and  accurate program analysis is hard to achieve in
+              practice.  This  project examines a new methodology for program analysis
+              designed  to address these problems. This methodology is distinctive in  that
+              it does not analyze execution states, but instead analyzes  the changes, called
+              transfer relations, between those states,  thus enabling previously unsolved
+              analyses of programming  constructs such as first-class functions, concurrency,
+              pointers  and references, assignment, mutable data structures, and arrays.  The
+              research investigates the application of these analyses to  urgent issues such
+              as ensuring safety of untrusted foreign code  and increasing reliability of
+              large software systems. The project  applies this research to an educational
+              plan including course  development, mentoring of masters students, and the
+              development  of an annual summer school on program analysis, including a new 
+              text.  ***

@@ -1,0 +1,49 @@
+Title       : Development of a Parallel Reaction Path Package (ROW)
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 31,  1993    
+File        : a9212619
+
+Award Number: 9212619
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael McGrath                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1993    
+Expires     : January 31,  1995    (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Kim K. Baldridge   (Principal Investigator current)
+Sponsor     : General Atomics
+	      
+	      San Diego, CA  92118    /   -
+
+NSF Program : 4066      PART FOR ADVANCED COMP INFRA
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,9222,
+Abstract    :
+              9212619  Baldridge    This is a Research Opportunities for Women (ROW) award to
+              Dr. Kim  Baldridge at the San Diego Supercomputer Center (SDSC).  
+              Computational chemistry is an area constantly in demand of  faster, more
+              efficient tools to model chemical reactions.  This  is of growing importance as
+              more and more researchers meld  experiment with theory in order to elucidate
+              more fully  information concerning complex reactions.  The study of reaction 
+              mechanisms and the prediction of rate constants by semi-empirical  and ab
+              initio methods is limited by the computational effort  needed to calculate
+              reactive potential energy surfaces(PESs).   The advances made in the
+              calculation of energy gradients and  higher order derivatives of potential
+              surfaces however, have been  an important factor in reducing this effort, in
+              particular by  allowing efficient calculation of the potential along a minimum 
+              energy reaction path(MEP).  This raises the question of the  accuracy with
+              which the MEP for a reaction must be calculated in  order to obtain a reaction
+              path representation well enough  converged to calculate accurate thermal rate
+              constants.  The  answer highly depends on the size of the molecular system and
+              the  complexity of the chemical reaction.  Dr. Baldridge's proposal  addresses
+              these problems at the algorithmic level and, via  parallelization, at the
+              hardware level.  She proposes to build on  work already undertaken in order to
+              complete the redevelopment of  a much needed computational chemistry package
+              (MOPAC) for the  parallel computing environment.  MOPAC is a widely used semi- 
+              empirical quantum chemistry code for the study of chemical  reactions.

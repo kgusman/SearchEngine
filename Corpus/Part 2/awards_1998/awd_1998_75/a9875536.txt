@@ -1,0 +1,67 @@
+Title       : CAREER: Design, Applications, and Foundations of Safe, Low-Level Programming
+               Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 6,  2002       
+File        : a9875536
+
+Award Number: 9875536
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1999      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: J. Gregory Morrisett jgm@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              9875536  J. Gregory Morrisett
+We are examining the design, applications, and
+              foundations of low-level, but safe programming languages.  The goal is as in C,
+              to give programmers (and compilers) the option of tight control over
+              instructions and memory management, but as with high-level languages such as
+              Java or SML, provide the abstraction and safety mechanisms needed to engineer
+              large systems.  In particular, we are exploring type systems that support the
+              elimination of unnecessary dynamic tests, provide manual control over data
+              layout, and give fine-grained control over the [de]allocation of memory
+              objects, all without sacrificing the safety guarantees of high-level languages.
+               We expect that the type systems for these low-level languages will have a
+              number of compelling benefits.  First, a programmer unsatisfied with
+              automatically generated code or automatic memory managers will have the
+              facilities to hand-optimize the code.  As long as the resulting code continues
+              to type-check, the programmer can be assured that the code is still safe. 
+              Second, typed low-level languages can serve as compiler intermediate or target
+              languages.  Here, the types can be used to support advanced optimizations, to
+              ensure that compilation invariants are maintained, and to support security in
+              extensible systems.  Finally, typed low-level languages can serve as safe
+              "glue" between high-level language systems and low-level services, such as
+              runtime systems, operating systems, or hardware devices, thereby providing an
+              evolutionary path from legacy software to next-generation
+              systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

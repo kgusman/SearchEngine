@@ -1,0 +1,47 @@
+Title       : Built-In Test Mechanisms and Embedded Cores
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 13,  2001  
+File        : a0096119
+
+Award Number: 0096119
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $172972             (Estimated)
+Investigator: Spyros Tragoudas spyros@engr.siu.edu  (Principal Investigator current)
+Sponsor     : Southern Ill U Carbondale
+	      
+	      Carbondale, IL  62901    618/453-2121
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 
+Program Ref : 9148,9215,HPCC,
+Abstract    :
+              9815229
+
+This project is a cooperative between the University of
+ Arizona
+              (Tragoudas) and Southern illinois University at
+ Carbondale (Kagaris).
+This
+              project is exploring a framework for designing easily  testable cores. The
+              method is based on the ability to  identify disjoint components in the core,
+              called CCs (core  components),for which no implementation details are 
+              released. Netlist information is provided for the remaining  portion of the
+              core.  The CCs must guarantee that the  predesigned intellectual property of
+              the core is protected  and that the testing process is simplified. Functional 
+              faults are detected by initially testing each CC in  isolation using either
+              Built-In Self-Testing (BIST) or scan  techniques. Subsequently, the remaining
+              portion of the core  is tested using scan techniques while bypassing the CCs. 
+              Path delay faults may require functional level testing for  the selected CCs.
+              Problems being investigated are: (1)  Determining the number, sizes, locations
+              of the CCs, and the  type of Built-In Test mechanism within each CC. (2) 
+              Developing BIST schemes and DFT methodologies that assist in  generating the
+              CCs within the core.

@@ -1,0 +1,51 @@
+Title       : Recursive Bayesian Optical Tomography for Imaging Tissues
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : August 23,  2000    
+File        : a9870779
+
+Award Number: 9870779
+Award Instr.: Standard Grant                               
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $290043             (Estimated)
+Investigator: Margaret J. Eppstein eppstein@emba.uvm.edu  (Principal Investigator current)
+              David E. Dougherty  (Co-Principal Investigator current)
+Sponsor     : U of Vermont & St Agr Coll
+	      340 Waterman Building
+	      Burlington, VT  05405    802/656-3660
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 0203000   Health                                  
+Program Ref : 9150,9184,9216,HPCC,
+Abstract    :
+                A new method of optical tomography is developed for noninvasive photon 
+              migration imaging of biological tissues. Major objectives of the project  are
+              to adapt methods devised for geophysical applications to optical  imaging,
+              investigate the? effects of a priori assumptions on convergence  behavior, and
+              extend the resulting methods to three dimensions. The method  produces
+              estimates of the number, geometry, value, and covariance of  spatially
+              distributed parameters, such as absorption and scattering  coefficients, that
+              are correlated with biological structure and function.           The new
+              inverse method incorporates Bayesian statistics, unlike other state- 
+              of-the-art photon migration imaging methods.  An approximate extended  Kahman
+              filter is used, in which the inverse of an a priori estimate of the  parameter
+              error covariance matrix regularizes the system and the weighting  matrix
+              includes the inverse of the measurement error covariance. The  efficiency of
+              the extended Kalman filter is improved by approximations that  significantly
+              reduce computational requirements without compromising the  accuracy of the
+              filter estimates.  In addition, the recursive nature of the  filter is
+              exploited to keep the size of required matrix inversions low by  processing
+              data from separate source-emission events sequentially.  Automatic
+              parameterization is alternated with data conditioning to  dynamically determine
+              the number and geometry of spatially distributed  parameters.  The
+              dimensionality of the parameter space is kept high where  there are adequate
+              data to warrant high resolution, while the computational  efficiency and
+              regularizing effects of low dimensionality are exploited in  regions where data
+              are sparser.

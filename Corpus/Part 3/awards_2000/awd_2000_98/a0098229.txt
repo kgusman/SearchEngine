@@ -1,0 +1,58 @@
+Title       : End-User Tracing for Software Replay
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 29,  2001     
+File        : a0098229
+
+Award Number: 0098229
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  2001      
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Peter M. Chen pmchen@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9217,HPCC,
+Abstract    :
+              Software bugs currently cause the large majority of computer
+              failures.
+Unfortunately, the current culture of software development tolerates
+              the
+release of software with numerous bugs.  The best solution to this
+              phenomenon
+is more thorough testing.  This project seeks to increase the
+              amount of testing
+and effective debugging undergone by modern software.  This
+              research enables
+end users to serve as effective testers by tracing a
+              program's execution
+automatically and submitting the trace as a bug report. 
+              Such traces contain
+all information needed for the software developer to
+              reproduce the failure,
+even if that failure is non-deterministic.  The goals
+              of this trace-and-replay
+system reflect the end-user environment it is
+              targeted for.  The tracing system
+should have low-enough overhead to be left
+              on during normal use.  The tracing
+system should translate or encode the trace
+              to maintain the user's privacy.
+The trace-and-replay system should be easy to
+              use by the end user; for example,
+it should not need to modify the kernel or
+              system libraries.  If successful,
+the resulting system will dramatically
+              increase the base of effective testers
+and hopefully result in more reliable
+              software.

@@ -1,0 +1,54 @@
+Title       : Security-Constrained Unit Commitment
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : January 23,  1992   
+File        : a9160169
+
+Award Number: 9160169
+Award Instr.: Standard Grant                               
+Prgm Manager: Ritchie B. Coryell                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 15,  1992   
+Expires     : September 30,  1992  (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: John J. Shaw   (Principal Investigator current)
+Sponsor     : Alphatech Inc
+	      50 Mall Road
+	      Burlington, MA  018034537    617/273-3388
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0306000   Energy Research & Resources             
+              55        Engineering-Electrical                  
+Program Ref : 1452,
+Abstract    :
+              The objective of the research is to develop scheduling                         
+              algorithms for electric generation that account directly                       
+              for system security requirements.  Virtually all                               
+              algorithms in use currently do not optimize generating                         
+              unit commitment decisions against security                                     
+              requirements from the outset and yield, therefore,                             
+              suboptimal results when the commitment decisions                               
+              must be adjusted to comply with these requirements.                            
+              Utilities can obtain significantly better results if they                      
+              use optimal scheduling algorithms that comply directly                         
+              with security requirements.  While algorithms of this                          
+              type had severe computational requirements, five-to-ten                        
+              years ago, recent advances in network programming                              
+              have now made these algorithms more attractive.                                
+              The PI proposes to demonstrate the practical feasibility                       
+              of a new algorithm for solving the security-constrained                        
+              unit scheduling problem.  The innovation of our                                
+              approach is to capture the system security requirements                        
+              within a network flow subproblem that is solved in                             
+              conjunction with the unit commitment problem.  In                              
+              Phase One of this effort we will develop a prototype                           
+              implementation of this method by integrating a                                 
+              state-of-the-art network flow algorithm into an                                
+              advanced unit commitment algorithm.  We will                                   
+              demonstrate the cost savings possible with this                                
+              algorithm on realistic test cases using representative                         
+              utility data.

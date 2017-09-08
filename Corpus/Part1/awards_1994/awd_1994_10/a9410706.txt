@@ -1,0 +1,48 @@
+Title       : Research Initiation Award: Incorporating Fault Tolerance in the Multiscalar
+               Processor
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 21,  1994      
+File        : a9410706
+
+Award Number: 9410706
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1994     
+Expires     : November 30,  1997   (Estimated)
+Expected
+Total Amt.  : $99978              (Estimated)
+Investigator: Manoj Franklin   (Principal Investigator current)
+Sponsor     : Clemson University
+	      Box 345702
+	      Clemson, SC  296345702    864/656-2424
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,9264,HPCC,
+Abstract    :
+              9410706  Franklin  The multiscalar processor is a recently proposed execution 
+              paradigm for exploiting instruction-level parallelism.   It  is a collection of
+              sequential processors that are connected  together in a logically decoupled and
+              physically  decentralized manner using ring-type network.  The central  idea is
+              to divide an instruction stream into blocks of  instructions, and then exploit
+              parallelism by executing  these blocks using multiple processing elements.  The
+               multiscalar processor has generated wide interest, both in  the academia and
+              the industry, and seems to have tremendous  potential to become the processing
+              paradigm of choice for a  circa 2000 intruction level parallel processor.   
+              The purpose of this research is to develop a high  performance fault tolerant
+              multiscalar processor and to  provide an impetus to the incorporation of fault
+              tolerance  in general purpose processors.  The primary manner fault  tolerance
+              will be incorporated in the multiscalar processor  is by run-time replication
+              of software and by executing the  replicas on the processor's multiple
+              execution units, which  are provided for performance reasons.  Two re-execution
+               schemes (both using the same replication technique) are  under investigation. 
+              Preliminary simulation studies have  been conducted to get an idea of the
+              performance loss  incurred because of fault tolerance.  These preliminary 
+              results indicate that time-redundant techniques are an  excellent choice for
+              providing fault tolerance in the  multiscalar processor.  ***

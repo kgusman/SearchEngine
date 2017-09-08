@@ -1,0 +1,45 @@
+Title       : Designing and Implementing Adaptive Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 18,  1996      
+File        : a9633336
+
+Award Number: 9633336
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1996      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Richard D. Schlichting rick@cs.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              An adaptive computing system is one that evolves its behavior  based on changes
+              in the environment. For an adaptable system  built on a distributed
+              architecture where multiple machines are  connected by a nework, such changes
+              can range from site failures  to updated application requirements. The
+              evolutionary action  taken when a change occurs can vary as well, ranging from 
+              dynamically reconfiguring the system software to maintain the  same service
+              guarantees under changed conditions, to negotiating  new service guarantees
+              with the application.    The goal of this project is to develop fundamental new
+              techniques  for designing and implementing adaptive distributed computing 
+              systems.  The specific focus is on providing a distribution  support layer, a
+              software layer implementing strong execution  guarantees regarding the
+              distributed state of the application,  that can adapt to changes. The research
+              concentrates on two lines  of investigation: (1) the development of a
+              conceptual model for  systems of this type and (2) a new approach to
+              implementing  adaptive distributed systems based on fine-grain code modules 
+              called micro-protocols. The framework is being extended to  support dynamic
+              evolution of software, including reconfiguration,  dynamic code linking, and
+              runtime code generation.  ***

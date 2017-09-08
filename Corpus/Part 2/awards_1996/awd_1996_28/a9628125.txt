@@ -1,0 +1,50 @@
+Title       : Scalable Reliable Multicast Transport for the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 23,  1996    
+File        : a9628125
+
+Award Number: 9628125
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $235761             (Estimated)
+Investigator: Lixia Zhang lixia@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9217,9218,HPCC,
+Abstract    :
+                  This is a joint effort with Deborah Estrin, University of Southern 
+              California under award NCR-9628729.    Many applications require reliable
+              multipoint data delivery.  Some well  known examples are netnews, electronic
+              mailing list, and network routing  protocols such as BGP.  Up until now,
+              however, due to the lack of widely  available support for both IP multicast and
+              reliable multicast transport,  these applications have been using multiple TCP
+              connections to achieve  reliable data delivery to multiple destinations, which
+              results in both poor  scalability and inefficient utilization of network
+              resources.    The goal of this research is to develop a framework and a set of
+              mechanisms  to provide efficient, robust, scalable, and reliable multicast data
+               delivery both over very large networks and with very large multicast  groups.
+              The basic principles that have guided the design include the  application level
+              framing (ALF), the IP multicast group concept and  receiver-initiated group
+              management, and the core design principles of  TCP/IP --- simple datagram
+              service, the end-to-end approach to reliability,  and automatic adaptation to
+              changing operational environment.    The research will (1) systematically
+              investigate the scaling issues with  the proposed adaptive error recovery
+              scheme; (2) develop mechanisms to  localize error recovery traffic and
+              substantially reduce the recovery  overhead in the current design; (3) develop
+              flow and congestion algorithms  for many-to-many multicast data delivery; and
+              (4) investigate new models  for session message distribution to further improve
+              the scalability.

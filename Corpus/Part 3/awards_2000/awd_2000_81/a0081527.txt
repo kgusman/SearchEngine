@@ -1,0 +1,76 @@
+Title       : ITR: Design and Analysis of End-to-End Feedback Congestion Control Schemes
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 18,  2002      
+File        : a0081527
+
+Award Number: 0081527
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $472895             (Estimated)
+Investigator: Shivendra S. Panwar panwar@catt.poly.edu  (Principal Investigator current)
+              Zhong-Ping Jiang  (Co-Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9218,HPCC,
+Abstract    :
+              The need to improve congestion control techniques for the Internet has grown
+              recently.  Non real-time data traffic, which is currently transported on a
+              "best effort" basis, will increasingly have more stringent delay and throughput
+              requirements to meet critical scientific, corporate and e-commerce
+              applications.  In order to meet this enhanced quality of service requirement,
+              the existing feedback congestion control scheme incorporated in the
+              Transmission Control Protocol (TCP) needs to be understood.  For this purpose,
+              the PIs intend to:
+
+1) Build an analytical model that can incorporate key
+              features of TCP Reno and TCP enhancements under consideration by the IETF.  The
+              model the PIs present here is interesting in that it can accommodate multiple
+              TCP flows and possibly multiple network nodes.
+
+2) Place TCP in a
+              control-theoretic framework so that its stability and transient behavior is
+              well understood.  The use of non-linear control techniques proposed here is
+              novel, and should make available a new set of mathematical tools to study this
+              problem.
+
+3) The synthesis of these two activities will in turn suggest
+              methods that ensure that any proposed TCP successor is stable, as well as
+              improving throughput and fairness.  A more limited goal but with perhaps more
+              immediate impact is a better understanding of the stability and performance of
+              TCP Reno.
+
+All of this work will be performed within the complementary
+              congestion control efforts underway such as traffic engineering using the
+              Multiprotocol Label Switching (MPLS) protocol, traffic shaping and policing,
+              service scheduling and buffer management.
+
+In addition to a survey of the
+              state of the art, the PIs present some preliminary results and ideas for future
+              research.  The PIs demonstrate an analytical model of TCP Reno for the single
+              node case, and some of the insights that even such a simple model provides. 
+              The PIs also present a way of extending recent control theoretic work in flow
+              control to a more realistic and general context, where boundary effects and
+              unknown, time-varying propagation delays appear in networks.  Lyapunov theory,
+              the theory of functional (retarded) differential equations and constructive
+              design methods in modern nonlinear control will play a key role in the
+              synthesis of new feedback congestion control schemes for the Internet.
+
+The
+              broader impacts of this research include the development of closer interaction
+              between the control theory and networks research communities, curriculum
+              enhancement at the graduate and undergraduate levels, applying some of the
+              practical implications of this work through ongoing industry interactions, and
+              inputs to IETF groups.
+

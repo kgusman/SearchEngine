@@ -1,0 +1,41 @@
+Title       : Efficient Sorting Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 17,  1992   
+File        : a9196073
+
+Award Number: 9196073
+Award Instr.: Standard Grant                               
+Prgm Manager: Bruce H. Barnes                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 1,  1990   
+Expires     : June 30,  1992       (Estimated)
+Expected
+Total Amt.  : $14800              (Estimated)
+Investigator: Ian Parberry   (Principal Investigator current)
+Sponsor     : University of North Texas
+	      P O Box 305250
+	      Denton, TX  762035250    940/565-3940
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              The importance of efficient sorting algorithms is widely acknowledged          
+              in many applications.  This project is an investigation of the problem         
+              of producing fast n-input parallel sorting circuits.  The model used is        
+              the popular sorting network.  For extremely small n, the fastest               
+              sorting networks are hand-constructed.  For intermediate n, the fastest        
+              networks are essentially those of Batcher.  For extremely large n, the         
+              fastest sorting networks are those of Ajtai, Kimlos and Szemeredi.             
+              Improvements in all three situations are sought.                               
+                                                                                             
+              For very small n, a modification of existing backtracking algorithms           
+              should result in viable networks with a slightly larger number of              
+              inputs.  For intermediate n, Batcher's sorting algorithm will be               
+              modified to use larger building blocks.  This approach is essentially a        
+              careful analysis of the divide-and-conquer strategy.  For very large n,        
+              existing algorithms will be studied for potential improvements.

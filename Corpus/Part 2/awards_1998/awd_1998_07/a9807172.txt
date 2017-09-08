@@ -1,0 +1,57 @@
+Title       : Parallel Algorithms for Incomplete Factorization Preconditions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 15,  1998      
+File        : a9807172
+
+Award Number: 9807172
+Award Instr.: Standard Grant                               
+Prgm Manager: Jong-Shi Pang                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $69009              (Estimated)
+Investigator: Alex Pothen   (Principal Investigator current)
+Sponsor     : Old Dominion Research Fdn
+	      800 W. 46th Street
+	      Norfolk, VA  23508    757/683-4293
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              9807172  Pothen    Preconditioning is a technique for improving the convergence
+              of  iterative methods for solving  large, sparse systems of linear equations.
+              The most robust preconditioners available to date are based on computing
+              incomplete factors of the coefficient matrix, i.e., factors  that include only
+              a small subset of the nonzero elements created during  the factorization. New
+              algorithms for computing incomplete factor preconditioners for unsymmetric and
+              symmetric matrices on serial and parallel  computers will be designed and
+              implemented in this project. These algorithms have two phases: in the first
+              symbolic factorization phase,  the positions in which the incomplete factors
+              have nonzeros are identified, and data structures for the incomplete factors 
+              are set up. In the second numerical factorization phase, these  data structures
+              are used to compute the numerical values of the preconditioners in time
+              proportional to the number of arithmetic  operations. Without the first
+              symbolic factorization phase, the second phase   cannot be implemented 
+              efficiently. The new symbolic factorization algorithms rely on a structure
+              theory developed for identifying the positions in which the incomplete factors
+              have  nonzero elements. The nonzero  elements in the incomplete factors are
+              identified from the path structure  of  a graph model of the problem. Two graph
+              reduction techniques, transitive reduction and symmetric reduction, are used to
+              reduce the data needed to predict the fill, and thereby to  obtain fast
+              symbolic factorization algorithms. The new algorithms can be proven to require
+              less time  than the currently used algorithm, and preliminary implementations
+              show that they  are faster by an order of magnitude or more  in problems with
+              high fill.       Methods for solving large, sparse, linear systems of equations
+              are workhorses for  solving partial differential equations from scientific and
+              engineering models. Hence these fields will benefit from the algorithms and
+              software developed in this pro ject. These  preconditioners will be used to
+              solve specifically the Helmholtz problem in acoustics and Maxwell's equations
+              in computational electromagnetics. The software developed from this project
+              will be integrated with the PETSc (Portable, Extensible Toolkit for Scientific
+              Computing) package  from Argonne National Laboratories for wide dissemination.

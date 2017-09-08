@@ -1,0 +1,76 @@
+Title       : Multiclass Scheduling and Congestion Control in Communication Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 12,  2000      
+File        : a9980544
+
+Award Number: 9980544
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $299616             (Estimated)
+Investigator: Bruce Hajek b-hajek@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Research on multiclass scheduling and congestion control for computer
+              communication networks
+is proposed.  Emphasis is placed on multiple qualities
+              of service, including throughput and delay,
+and on multiple classes of packet
+              data.  Two complementary research topics are addressed.  The
+first topic is
+              causal scheduling of packets with multiple priority classes and deadlines.  The
+              goal
+is to investigate a new scheduling criterion and related algorithms for
+              dealing with conflicting
+requirements for throughput and delay for multiclass
+              traffic with deadlines.
+     The second topic is multiclass implementations of
+              end-to-end congestion control, with pricing
+based on explicit congestion
+              notification.  Recently Gibbens and Kelly proposed the idea of
+              charging
+network users for marks placed on packets by network routers.  A mark
+              on a packet is an indication
+that the packet caused congestion.  This research
+              explores the use of this pricing mechanism with
+the addition of a small number
+              of packet classes and a multiclass service discipline at the routers,
+based on
+              the classes.  Limited or no use of per flow state information will be made at
+              the routers.
+     The approach will be to perform modeling, analysis, and
+              design.  Models will be based on current and anticipated future technology, and
+              cover a broad spectrum of user demands and network
+topologies.  The analysis
+              techniques will include simulation, asymptotic analysis based on fluid limits,
+              diffusion limits, and large deviation theory, and stability analysis based on
+              Lyapunov functions
+derived from convex analysis.  Methods for optimization,
+              such as convex programming methods and
+combinatorial optimization, and
+              classical scheduling theory will be used.  Nonstochastic methods
+such as
+              investigation of sample path optimality properties and competitively optimal
+              scheduling
+will also be considered.
+     Successful completion of the
+              proposed research will provide (1) improved algorithms for scheduling
+              multiclass traffic with strict time constraints, (2) an improved understanding
+              of the implementation choices and the value of congestion based pricing using a
+              small number of packet classes for the purpose of end-to-end congestion control
+              in large scale networks, and (3) new mechanisms for end-to-end congestion
+              control in large-scale computer communication networks.  
+

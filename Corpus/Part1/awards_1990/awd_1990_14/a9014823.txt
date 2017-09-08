@@ -1,0 +1,49 @@
+Title       : Interior Point Methods for Linear Programming
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : February 14,  1991  
+File        : a9014823
+
+Award Number: 9014823
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 1,  1991      
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $198174             (Estimated)
+Investigator: Earl R. Barnes earl.barnes@isye.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0107000   Operations Research                     
+              59        Engineering NEC                         
+Program Ref : 5514,
+Abstract    :
+                   This project examines a number of problems associated with                
+              interior point methods for linear programming. It begins with the              
+              observation that under certain conditions the affine scalding                  
+              algorithm converges at a superlinear rate when applied to the                  
+              feasibility problem.  Then every linear programming problem is                 
+              approximated by a feasibility problem.                                         
+                   The main technical difficulties have to do with degeneracies              
+              in linear programming problems.  With assumptions about problems               
+              being nondegenerate results about superlinear convergence are                  
+              proved, but superlinear convergence has been observed even in                  
+              degenerate cases.  So what is actually required for superlinear                
+              convergence is not clear.                                                      
+                   Trying to accelerate affine scaling algorithms leads naturally            
+              to questions about centers of polytopes.  The existence of a large             
+              set of "centers" inside every polytope, except these equivalent to             
+              simplicies is shown.  The affine scaling algorithm converges fast              
+              when started at one of these general centers.  To discover means               
+              of computing centers efficiently is a goal of this research.                   
+                   After finding ways of accelerating convergence, the questions             
+              of how to perform each step efficiently is addressed.  The least               
+              square problems will be solved by a preconditioned conjugate                   
+              gradient algorithm.

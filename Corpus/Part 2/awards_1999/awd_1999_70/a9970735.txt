@@ -1,0 +1,74 @@
+Title       : Memory Models for Architects and Compiler Writers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 1,  1999       
+File        : a9970735
+
+Award Number: 9970735
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $289981             (Estimated)
+Investigator: Arvind arvind@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              A new memory model called Commit-Reconcile \& Fences (CRF) is
+presented, and it
+              is shown how other memory models can be described as
+restricted versions of
+              it. The CRF memory model has been designed so
+that it is both easy for
+              architects to implement, and rich enough that
+compilers for high-level
+              parallel languages can use it as a target
+machine language.  This proposal is
+              for investigating 1. the
+integration of CRF into modern microprocessors, 2.
+              adaptive protocols
+for implementing CRF in Distributed Shared memory Systems
+              (DSM) and
+3. efficient translation of high-level multithreaded
+              programming
+models (e.g. Cilk) into CRF. 
+
+The impact of this research would
+              be to eliminate a plethora of
+implementation-dependent memory models, and to
+              provide a stable
+interface for architects and compiler writers. The
+              development of
+micro-architectures and cache-coherence protocols to support
+              CRF could
+have an immediate impact on industry because these changes can
+              be
+incorporated in PC's and servers without the loss of
+              software
+compatibility.
+
+Another theme in this proposal is the use of a new
+              formal framework
+based on Term Rewriting Systems (TRS) for describing computer
+              systems.
+The biggest appeal of TRS's is its naturalness for designers. The
+              TRS
+framework is useful in verification of system properties.  It is
+              also
+possible to synthesize hardware from TRS's.  A unified synthesis
+              and
+verification framework is likely to have a big impact on current
+design
+              practices.
+
+

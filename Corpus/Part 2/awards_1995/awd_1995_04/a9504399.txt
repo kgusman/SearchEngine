@@ -1,0 +1,48 @@
+Title       : Protection and Translation in Multimodel Multiprocessors: The MIP FUGU
+               Workstation
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : August 8,  1995     
+File        : a9504399
+
+Award Number: 9504399
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1995    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $800000             (Estimated)
+Investigator: Anant Agarwal agarwal@cag.lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is extending the Alewife multiprocessor to explore two  aspects of
+              future scalable multiprocessors.  One aspect is  protection.  Protection is
+              required on accesses to hardware  resources, with as little software overhead
+              as possible.  For  example, when a message sender and receiver are part of the
+              same  application, they should be able to directly access network  hardware. 
+              The other aspect is address translation, so that each  application can have its
+              own address space.  All processors  executing an application must have the same
+              address space, however.   To ensure this, memory mapping hardware is placed at
+              each node of  the multiprocessor, and must be kept coherent.    The FUGU system
+              provides three modes of interprocessor  communication.  Shared memory is
+              provided by hardware synthesized  messages among nodes, which maintain cache
+              coherence.  Short  messages can be sent directly by performing loads and stores
+              to I/O  registers that are in each node's address space.  Longer messages  are
+              managed by a DMA engine that is separate from the processor.    Translation and
+              protection for shared memory and for short messages  are provided by hardware
+              enhancements that maintain coherence in  the translation lookaside buffers and
+              ensure that messages are  received only by the processes that they are
+              addressed to.  For  long messages, only minimal support for address translation
+              is  provided by the hardware since the need for such translation is  likely to
+              be rare.  Any needed translation will be provided by  software.

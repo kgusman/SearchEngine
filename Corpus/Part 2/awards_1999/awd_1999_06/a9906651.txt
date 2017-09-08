@@ -1,0 +1,74 @@
+Title       : Nonlinear Inverse Scattering Methods for Three Dimensional Objects
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 8,  2001     
+File        : a9906651
+
+Award Number: 9906651
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1999    
+Expires     : October 31,  2002    (Estimated)
+Expected
+Total Amt.  : $195000             (Estimated)
+Investigator: Weng C. Chew w-chew@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9906651
+Chew
+
+The previous support period under the five-year PYI grant plus
+              a subsequent one-year and then three-year grant enabled the investigator to
+              make significant progress in both inverse and forward scattering theory.  New
+              nonlinear inverse scattering methods were developed to account for multiple
+              scattering effects within the scattering object. The Born-iterative method
+              (BIM) and distorted-Born-iterative method (DBIM) were developed that
+              demonstrated the inversion of objects with contrasts as great as 10:1 and
+              exhibited super-resolution on the order of 0.1 wavelengths for EZ (TM)
+              polarized wave. Another new technique known as the local-shape-function (LSP)
+              method was developed to perform inverse scattering on metallic scatterers, for
+              HZ (TE) polarized waves, and variable density acoustic waves, where previous
+              methods failed to produce a convergent solution due to extremely strong
+              nonlinearities and Green's function singularity. More recently, the frequency
+              hopping approach where large scatterers with high contrasts can be
+              reconstructed, have been developed. Furthermore, preliminary three-dimensional
+              inverse scattering result has been obtained
+.
+ The need to invert very large
+              scattering objects stimulated research in fast forward scattering solvers.
+              These fast algorithms solve the scattering problem exactly and achieve
+              computational savings by exploiting inherent redundancies in the scattering
+              calculations. The first of these are recursive algorithms (RATMA, RTMA) that
+              solve the scattering problem valid for all incidence sources in 0(N2)
+              operations by exploiting translational properties of wave phenomenon. The new
+              algorithm (NEPAL) instead uses the surface equivalence principle resulting in
+              an 0 (N1.5) algorithm that is amenable to parallel pro-cessing. This algorithm
+              has been generalized to three dimensions. Recently, various fast iterative
+              solvers have been developed that furnish the solution for one excitation in 0(N
+              log N) operations and using 0(N) memory. They involve the use of fast multipole
+              method, and various methods to diagonalize the translation operator.
+
+The
+              current proposal is to continue developing new nonlinear inverse scattering
+              theo-ries with special emphasis on three-dimensional scatterers. The
+              investigators plan to move away from the Born-type methods and exploit new ways
+              of parameterizing the scattering object in order to achieve the best possible
+              reconstruction. They will use their progress in fast forward scattering solvers
+              as building blocks to speed up the inversion and solve much larger objects and
+              three-dimension-objects. Other means of solving large objects, particularly
+              objects buried in a slowly varying inhomogeneous background would be
+              investigated as well. Finally, they wish to develop new experimental apparatus
+              that can achieve high-fidelity measurements so that the super-resolution
+              phenomenon can be verified experimentally.  
+***  
+

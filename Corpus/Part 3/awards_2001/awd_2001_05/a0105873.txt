@@ -1,0 +1,105 @@
+Title       : A Framework for Utilization-Based Absolute Delay Guarantees Using Adaptive
+               Prefetching
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 12,  2001 
+File        : a0105873
+
+Award Number: 0105873
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $222950             (Estimated)
+Investigator: Tarek F. Abdelzaher zaher@cs.virginia.edu  (Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 400195
+	      Charlottesville, VA  229044195    434/924-4275
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   We propose to develop an architecture and theoretical underpinnings for
+              providing absolute delay
+guarantees for HTTP traffic. HTTP traffic constitutes
+              an overwhelming majority of all Internet
+traffic today. Both network load and
+              user-perceived end-to-end response time of web requests
+depend not only on
+              network conditions but also on the performance of web proxy caches
+              around
+major network backbones. For example, in an HTTP-dominated network,
+              increasing the total
+amount of cached data may increase hit ratio and
+              subsequently decrease both network load and
+network delay. Hence, an
+              architecture for end-to-end web traffic delay guarantees should
+              explicitly
+consider the effect of caching. It is the joint consideration of
+              caching and network performance that
+separates our work from prior efforts on
+              delay guarantees. Essentially, the joint problem considers
+data placement
+              (replication) as a dimension to manipulate for affecting traffic delays. The
+              approach
+is cost-effective since data storage is cheaper than network
+              bandwidth.
+     The first contribution of this project is to develop a scheme
+              for network load control that relies
+on adaptive data prefetching. The
+              architecture can be thought of as replacing admission control
+at the network
+              boundary. In an HTTP context, while admission control would prevent a
+              client's
+request from entering the network, data prefetching would bring the
+              information to the client's
+side before it is requested, hence de ecting the
+              request away from the backbone. While prefetching
+itself introduces traffic,
+              the performance gain comes from the fact that, unlike serving live
+              requests,
+prefetching can occur at a lower priority in the background without
+              jeopardizing user-perceived
+network performance. Hence, prefetching removes
+              time constraints from a big chunk of HTTP
+traffic which can now be served at a
+              lower priority. Consequently, the remaining (live) HTTP
+traffic will receive
+              better service from the network.
+    The second main contribution of the
+              project is a theoretical derivation of the relationship
+between network
+              resource utilization and the satisfaction of end-to-end deadlines.
+              Specifically, we
+prove that keeping network resource utilization due to live
+              web traffic below a given threshold
+ensures that all ow deadlines are met. We
+              call this threshold, the overcommitment threshold .
+This result allows us to
+              associate deadlines with live web traffic and ensure their satisfaction
+              simply
+by performing utilization control. The result obviates maintaining per-
+              ow state in the network for
+the purposes of satisfying absolute delay
+              guarantees.
+     Merging the aforementioned contributions together, we propose
+              to use our adaptive prefetching
+scheme to keep the amount of live web traffic
+              below the overcommitment threshold. Hence, we
+ensure the satisfaction of
+              absolute delay guarantees while requiring neither admission control on
+              the
+network boundary nor per- ow state in routers. The architecture calls only
+              for service differentiation
+in the network to separate live real-time web
+              traffic from background prefetching traffic which may
+receive lower priority.
+              The project will use the PI's existing evaluation testbed for implementing
+and
+              evaluating architectural prototypes.

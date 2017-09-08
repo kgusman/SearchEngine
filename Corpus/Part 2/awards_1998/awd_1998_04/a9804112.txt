@@ -1,0 +1,45 @@
+Title       : Specification-Based Testing of Concurrent Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a9804112
+
+Award Number: 9804112
+Award Instr.: Standard Grant                               
+Prgm Manager: Jon S. Rugaber                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $152606             (Estimated)
+Investigator: Richard H. Carver rcarver@cs.gmu.edu  (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804112  This research focuses on the development of specification-based 
+              testing techniques for concurrent programs.  The techniques being  investigated
+              are a combination of model-based and constraint-  based testing techniques. 
+              For a given finite-state machine M,  model-checking tools are used to find a
+              list of temporal logic  constraints that are satisfied by M.  The constraints
+              explicitly  characterize M's logical branching structure, which otherwise 
+              appears only implicitly in the states and transitions of the  finite-state
+              machine.  Test sequences are selected to cover the  logical branches identified
+              by the constraints.  The objective of  this research is to develop a structural
+              testing methodology for  finite state machine specifications that is not based
+              on covering  every state or transition.  Two methods for addressing the state 
+              explosion problem during model-based test generation are being  investigated. 
+              The first method, called specification slicing, is  used to partition a
+              finite-state model into several smaller sub-  models that are used for test
+              generation.  The second method is  called compositional testing.  During
+              compositional testing, test  coverage properties are established for sub-models
+              and these  properties automatically hold for the whole system.  Whether  these
+              two methods can be used to avoid the costly construction of  complete system
+              models for test generation is being  investigated.***

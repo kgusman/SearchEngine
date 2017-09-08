@@ -1,0 +1,52 @@
+Title       : Experimental Software Systems: ISAC: Integrated System Support for Adaptive
+               Communication and Computation Control in Clustered Environments
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : June 14,  2000      
+File        : a9806741
+
+Award Number: 9806741
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $564107             (Estimated)
+Investigator: Ananth Grama   (Principal Investigator current)
+              David K. Yau  (Co-Principal Investigator current)
+              Kihong Park  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2861,9218,HPCC,
+Abstract    :
+              EIA-9806741  Grama, Ananth Y.  Park, Kihong  Purdue University    ESS: ISAC:
+              Integrated System Support for Adaptive Communication and  Computation Control
+              in Clustered Environments    This project aims to build an integrated software
+              system (ISAC) for   application development in cluster-computing environments.
+              ISAC addresses   issues of communication control and load balancing to
+              facilitate an   effective parallel platform. In contrast to traditional
+              approaches, ISAC   views communication and computation control in an integrated
+              system. It   dynamically schedules computation and communication making use of
+              their   repetitive nature to achieve optimal performance. End-to-end congestion
+                control is augmented by a group communication mechanism that conjointly  
+              schedules communication and computation. Scheduling is carried out assuming   a
+              best-effort network environment in which resources are shared among a   pool of
+              applications. Communication control is adaptive, and scheduling is   performed
+              dynamically as a function of network state. Assuming that routers   implement a
+              form of weighted fair queuing wherein resource reservations can   be affected,
+              ISAC implements guaranteed-bandwidth channels either   per-connection or
+              per-multicast group using a form of admission control. In   conjunction with
+              process scheduling support at host stations, this allows   critical
+              applications to achieve guaranteed progress impervious to network   and
+              processor loads. It also allows applications to deal with heterogeneity   among
+              hosts and networking environments transparently. ISAC will   significantly
+              enhance the programmability and performance of   cluster-computing applications
+              ranging from scientific computing to   distributed web and database servers.

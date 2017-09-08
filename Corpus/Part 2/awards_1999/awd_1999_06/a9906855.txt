@@ -1,0 +1,102 @@
+Title       : Application Driven Evaluation, Design, and Implementation of Network Services
+               and Resource Sharing Models
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 25,  2002 
+File        : a9906855
+
+Award Number: 9906855
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $983750             (Estimated)
+Investigator: Roch Guerin guerin@ee.upenn.edu  (Principal Investigator current)
+              Jonathan M. Smith  (Co-Principal Investigator current)
+              Magda El Zarki  (Co-Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The focus of this proposal is on problems that arise in the context of QoS
+              enabled networks and their use by applications.  In particular, the main theme
+              of the proposal, is the development of a greater
+synergy between potential
+              users of network QoS capabilities, i.e., applications, and the design and
+              implementations of those QoS capabilities within the network.  In order to
+              accomplish such a goal, work will be carried out along the following three
+              major axes:
+
+1. Use and selection of network QoS services and parameters by
+              applications. The goal here is to identify performance parameters that are of
+              most significance to applications, and translate that knowledge into
+              {\em
+utility} curves that can then be used by both applications to select the
+              appropriate network service, and by the network to make intelligent decisions
+              on how to best handle an application's traffic in case of resources contention.
+               This includes not only assessing sensitivity to traditional QoS parameters
+              such as bandwidth, loss, delay, and jitter of different types of applications
+              traffic, e.g., transactions, audio, video, etc., but also considering more
+              complex scenarios involving applications with multiple traffic streams
+              which
+might involve different (dynamic) resource sharing rules depending on
+              the availability of network resources.
+
+2. Algorithms for performance
+              monitoring, resource sharing, and dynamic resource allocation in support of
+              both network and applications requirements.  The goal here is to design and
+              evaluate specific network level
+mechanisms in support of applications
+              requirements for dynamic sharing of resources and service monitoring.  For
+              example, access to a ``high quality'' service by certain traffic streams might
+              be predicated on the presence or absence of other streams.  Devising and
+              assessing mechanisms allowing the specification and implementation of such
+              functionality can greatly improve the ability of networks to deliver services
+              that are useful to applications.  The challenges are not only to design
+              mechanisms capable of supporting applications requirements, but also to
+              integrate them with existing network services and capabilities.  For example,
+              it may require coupling between services above and beyond what is currently
+              supported, e.g., ensure small delay to an audio stream, but only as long as a
+              given floor rate can be guaranteed to data transfers.
+
+3. Design and
+              implementation of programmability in network devices in support of applications
+              requirements and new service models.  The goal of this last dimension of the
+              proposal is to investigate the possibility of supporting applications needs and
+              some of the above associated mechanisms, by leveraging some of the
+              programmability that is being made available in a number of new network
+              devices.  The benefits of such an approach, if feasible, are that it can foster
+              incremental deployment as well as facilitate the introduction of new
+              capabilities if and when required by new applications.  The challenges are to
+              identify the appropriate trade-off between functionality and the implementation
+              constraints that the technology imposes.
+ 
+The investigation of the above
+              topics will be carried out through both experimental and analytical efforts. 
+              Experimentation will take place in the context of a newly established lab
+              devoted to multimedia and
+networking, that includes end-systems as sources of
+              application traffic, and networking equipment made available by several
+              vendors.  Furthermore, work on the design and implementation of new
+              mechanisms
+to better support application service requirements, will be done in
+              close collaboration with equipment vendors so as to facilitate their
+              incorporation and testing on the available platforms.  Finally, participation
+              in the QBone Internet2 testbed will allow us to carry out end-to-end
+              experiments that would not be feasible with only a local testbed.  In
+              particular, the QBone environment provides a representative sample of the type
+              of network QoS services that will be initially available, and the experiments
+              that will be carried out over
+it will offer the opportunity to investigate not
+              only how applications should use them, but also to identify related problems
+              that may arise in their initial deployment.
+

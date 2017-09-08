@@ -1,0 +1,81 @@
+Title       : ITR: Cooperative Communication Schemes for Wireless Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 16,  2002 
+File        : a0220287
+
+Award Number: 0220287
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $449998             (Estimated)
+Investigator: Tan F. Wong twong@ece.ufl.edu  (Principal Investigator current)
+              John M. Shea  (Co-Principal Investigator current)
+              Yuguang Fang  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              In a wireless network, multiple communications devices in close proximity form a
+              natural distributed antenna array. If a group of such devices transmit and
+              receive in some cooperative manner, then the system performance can be
+              significantly improved. This researchexplores techniques for cooperative
+              transmission and reception using multiple devices. This cooperative
+              communication approach is differentfrom traditional array processing because
+              the distributed nature of
+the communication nodes calls for network-oriented
+              design approaches and processing algorithms. In particular, techniques that
+              allow distributed and asynchronous processing that utilizes information
+              provided by other nodes in a cluster will be considered.
+
+For cooperative
+              transmission, distributed space-time coding will be employed to take advantage
+              of transmit diversity provided by the distributed array. One crucial issue for
+              distributed space-time coding is that only rough synchronization between the
+              nodes can be achieved. Hence space-time coding in an asynchronous setting needs
+              to be considered. This leads to research on asynchronous diversity and coding
+              gain analysis, symbol waveform design, and tradeoff between the complexity of
+              transmitter synchronization and complexity of the decoding process.
+
+For
+              cooperative reception, distributed iterative decoding will be employed to
+              obtain diversity advantage in reception. In this approach, multiple nodes form
+              a distributed antenna array by collaboratively processing a received signal. By
+              exchanging information in a distributed decoding process, the nodes are able to
+              extract diversity from the channel and decode the message. The main obstacle to
+              this approach is that there is a vast amount of information that can be
+shared
+              between the nodes. This problem can be solved by using iterative decoding to
+              extract important information from the received signal at each node, and only
+              this information is passed to other nodes. Each node will then utilize the
+              information from other nodes to perform further decoding to obtain the
+              diversity advantage provided by the additional information. The objective is to
+              develop distributed processing techniques that allow us to obtain the maximum
+              degree of
+diversity advantage from the signals received at multiple receiving
+              nodes, while requiring a minimum amount of information exchange between the
+              nodes.
+
+In order to make the above cooperative communication schemes work, a
+              control signaling strategy has to be designed to allow sharing of information
+              between nodes. More importantly, the physical-layer communication performance
+              of the proposed system will be dependent on
+the control signaling strategy.
+              Therefore this signaling design problem will be attacked by a cross-layer
+              design approach.
+
+Analytical guidelines for designing systems employing the
+              proposed cooperative communication schemes will be developed.  The expected
+              results of this research can be utilized in many different commercial and
+              military communication networks, such as cellular and sensor networks.
+

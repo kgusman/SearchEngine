@@ -1,0 +1,51 @@
+Title       : A Deterministic Model for Semistructured and Structured Data
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 27,  1999 
+File        : a9977408
+
+Award Number: 9977408
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: O. Peter Buneman peter@cis.upenn.edu  (Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              With the development of the Internet, databases are being copied, transformed,
+              and corrected on an unprecedented scale. With this comes the need to annotate
+              data: for correcting it, commenting on it, or for recording its provenance.
+              However, conventional databases have a regular structure and provide no "room"
+              for annotations which are typically irregular and required at all levels of
+              granularity. Annotations require some form of semistructured representation.
+              This investigation centers on a new model for structured and semistructured
+              data which is intended to facilitate the process of data annotation. The usual
+              models of semistructured data are based on an edge-labeled graph and are
+              "nondeterministic" in that a given vertex may have several out-edges with the
+              same label. The model proposed here is more restrictive in that these labels
+              must all be different. It is less restrictive because the labels themselves may
+              themselves carry data. In fact a label may itself be a small piece of
+              semistructured data. A number of advantages are claimed for this model. Like
+              XML, the data representation is entirely syntactic. All operations are
+              syntactic,, and serialization of data is immediate. Object identifiers in
+              particular are syntactic constructs, they have structure, and certain database
+              transformations may be achieved by manipulation of this structure. The goal of
+              the investigation is to develop the model and associated interfaces so that it
+              can be used as a common representation for both semistructured and structured
+              data. A second goal is to develop tools for data annotation.
+              
+http://db.cis.upenn.edu/Research/
+
+

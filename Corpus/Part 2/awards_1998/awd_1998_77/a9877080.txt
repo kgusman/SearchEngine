@@ -1,0 +1,82 @@
+Title       : Applying Learning Theory to Systems Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 10,  2000       
+File        : a9877080
+
+Award Number: 9877080
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $170192             (Estimated)
+Investigator: Stephen D. Scott sscott@cse.unl.edu  (Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9877080
+Scott
+
+     This project will focus on applying results developed
+              in learning theory to real-life problems.  Such application-based theoretical
+              work is important so that the learning models and problems studied capture as
+              best possible the needs of real-life problems.  Working to apply theoretical
+              techniques to real problems creates a better understanding of the real-world
+              problems and thus helps direct future theoretical work, facilitating the
+              transfer of results from theory to practice.
+     Many system control
+              algorithms (e.g. networking protocols) depend heavily on ad hoc methods in
+              their operation, and their performance can be very sensitive to the robustness
+              of these methods.  These ad hoc approaches are frequently based on assumptions
+              made about the operating environment, e.g. assuming a particular distribution
+              on the traffic patterns in a communication network without a sound statistical
+              basis.  This project will develop a framework based on formal learning methods
+              for assisting in automatic system control.  This framework will help to
+              determine if better performance can be obtained by a system control
+              algorithm.
+     One goal of this project is to continue research on
+              dynamically adjusting delays of acknowledgments in the TCP protocol.  Delaying
+              acknowledgments has two main advantages.  First, it allows a single
+              acknowledgment for more than one packet.  Second, if a data packet is being
+              sent in the opposite direction, then one can piggyback the acknowledgment on
+              the outgoing packet.  However, there is a tradeoff since delaying the
+              acknowledgment too much can increase the latency.  Most TCP implementations,
+              used today employ some sort of acknowledgment delay mechanism.
+     The
+              project applies different learning schemes to predict TCP packet arrivals.  The
+              learning schemes include ones based on the Weighted Majority (WM) algorithm,
+              ones based on the Exponentially Weighted Moving Average (EWMA) algorithm, and
+              ones based on distributional assumptions with a sound statistical basis. The
+              new ideas include new loss functions (functions that measure the learners'
+              performance) that are more appropriate for the application.
+     Another
+              application explored in this project is that of branch prediction of general
+              purpose programs.  A fast, accurate branch predictor is invaluable to a
+              computer architecture that relies on instruction-level parallelism (ILP)
+              techniques, e.g. pipelined and superscalar architectures.  Many commercial
+              architectures employ branch prediction schemes, and it is well known that even
+              a small increase in prediction accuracy can greatly increase the amount of ILP
+              that can be exploited.
+     An interesting facet of the branch prediction
+              problem is that it requires some or all of the algorithms to be implemented in
+              hardware.  Thus whatever approaches are adapted eventually lead to algorithms
+              that have fast and compact hardware implementations.  The principal
+              investigator's experience in hardware design and in learning theory will help
+              in this regard.
+     Applying learning theory results to these problems and
+              other systems problems will then provide guidance in defining new theoretical
+              learning models that better model real-life scenarios.  This project will also
+              carefully develop and study such new learning models.
+
+
+

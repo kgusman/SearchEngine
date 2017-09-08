@@ -1,0 +1,47 @@
+Title       : System Support for Scalable Distributed Services
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 20,  2001    
+File        : a9619371
+
+Award Number: 9619371
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $232300             (Estimated)
+Investigator: Mustaque Ahamad mustaq@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              As internetworked computing becomes pervasive,  common  services will be
+              accessed by a large number of widely  distributed clients. Thus, scalable
+              implementations of such  services must deal with (1) large number of clients,
+              and (2)  high latencies that will be common among widely distributed  nodes. 
+              One approach for reducing server load and  communication costs is to create
+              multiple instances of  a  service close to client groups that frequently access
+              it.  Also, when possible,  resource rich clients can cache  service state to
+              avoid communication latency for common  accesses. Service state replication and
+              caching both lead to  multiple copies of the service state and lead to the
+              problem  of consistency maintenance across copies when service state  can be
+              updated (e.g., to support interactions across  clients). The focus of this
+              project is on the  characterizations of consistency levels that are appropriate
+               in large scale systems with diverse sets of applications.  In addition, 
+              scalable protocols will be developed  to provide both read and write access to
+              service state  without requiring communication with all nodes that may have 
+              copies of the service state.  A distributed object based  middleware will be
+              implemented to support scalable service  and it will employ object caching  and
+              replication to  enhance service access performance and scalability. This 
+              middleware will be used in the development and evaluation of  services targeted
+              to the home that are reached via a variety  of communication media such as POTS
+              and cable  networks.

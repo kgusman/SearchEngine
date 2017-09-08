@@ -1,0 +1,63 @@
+Title       : Interior-point Methods for Large-scale Nonlinear Programming
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 13,  1998    
+File        : a9870317
+
+Award Number: 9870317
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1998    
+Expires     : November 30,  2001   (Estimated)
+Expected
+Total Amt.  : $162000             (Estimated)
+Investigator: Robert J. Vanderbei rvdb@princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9870317
+Robert Vanderbei
+
+The objective of this research project is to extend
+              interior-point methods so that they can be applied to smooth nonlinear
+              optimization problems.  In particular, an existing linear/quadratic solver will
+              be enhanced so as to become an easy-to-use and efficient system for the
+              solution of these problems.  If a problem is convex, the system will find a
+              globally optimal solution.  If it is nonconvex, then the system will find a
+              locally optimal solution in a neighborhood of a given initial solution.  The
+              algorithmic issues to be addressed include: (a) which merit function to use,
+              (b) when and by how much to perturb indefinite Hessians, (c) how to adapt the
+              predictor-corrector variant, (d) how and when to sparsify Hessians, (e) how
+              much to push initial values away from bounds, (f) how to detect and handle
+              problems in which the constraints don't satisfy a constraint qualification
+              condition, and (g) how to ensure that the infeasible interior-point method
+              doesn't evaluate any function outside its domain.  As part of this research, a
+              database of real-world nonlinear optimization models will be assembled.  This
+              database will be freely available via the internet.  Finally, techniques will
+              be sought that will enable one to use the interior-point-based
+              nonlinear-programming system to solve semidefinite programming
+              problems.
+
+Nonlinear optimization plays a fundamental role in all branches of
+              applied science and engineering.  Whether it is maximizing the speed at which
+              flutter destroys a wing, minimizing the use of nonrenewable resources in
+              hydrothermal power generation, designing a structure that can bear a specified
+              load with minimal amount of material, or minimizing side-lobe signal strength
+              in the output of an antenna array while preserving main-lobe characteristics,
+              there is one commonly shared theme: optimization.  Interior-point methods
+              provide a new approach to the solution of these problems, which promises to
+              enable one to solve them more reliably and much more efficiently than before.
+              This research project will focus on resolving the issues involved in producing
+              an efficient and robust interior-point algorithm for nonlinear
+              optimization.
+
+

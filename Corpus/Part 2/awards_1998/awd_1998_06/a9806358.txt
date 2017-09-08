@@ -1,0 +1,54 @@
+Title       : Least-Squares Finite Element Methods and Optimization-Based Domain Decomposition
+               Methods for Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 21,  1999       
+File        : a9806358
+
+Award Number: 9806358
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas W. Fogwell                       
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1998      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $102634             (Estimated)
+Investigator: Max D. Gunzburger   (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              9806358  Gunzburger      In the last few years, the engineering and mathematical
+              communities have shown  increasing interest in least-squares finite element
+              methods for solving a  variety of problems in fluids, electromagnetics,
+              elasticity, and other  applications. The great promise of least-squares methods
+              arises from the fact that, when compared to other discretization schemes, they
+              lead to discrete problems that are much easier to solve on a computer. In the
+              past the PI has studied numerous facets of least-squares finite element
+              methods. These include: the use of mesh-dependent weights in least-squares
+              functionals in order to achieve optimally accuracy, the solution of practical
+              implementation issues that needed to be addressed in order to make these
+              methods practical and competitive, and the application of these methods to
+              problems with discontinuous coefficients that arise, e.g., from inhomogeneous
+              media properties. The PI plans to apply least-squares finite element
+              methodologies to optimization and control problems and to develop, analyze, and
+              implement domain decomposition algorithms in the least-squares setting.   
+              Domain decomposition methods have attracted even more attention due to their 
+              usefulness in a parallel processing environment. The PI has developed novel 
+              non-overlapping domain decomposition methods based on optimization or optimal 
+              control ideas that posses numerous desirable features, the most important 
+              perhaps being that they are easily extended to nonlinear problems. The PI plans
+              to introduce preconditioners to speed-up the performance of the methods, to
+              look at different functionals and optimization parameters on which to base the
+              decomposition into subdomains so that again more efficient algorithms are
+              obtained, to apply and analyze algorithms to the solution of optimization
+              problems for partial differential equations, to develop  algorithms for
+              time-dependent problems, and to implement  algorithms on parallel computers
+              consisting of clusters of Pentium processors.

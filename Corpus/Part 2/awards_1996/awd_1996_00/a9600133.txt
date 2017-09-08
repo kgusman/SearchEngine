@@ -1,0 +1,50 @@
+Title       : Theory and Applications of Multigrid and Domain Decomposition Methods in
+               Computational Mechanics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 8,  1996     
+File        : a9600133
+
+Award Number: 9600133
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $92500              (Estimated)
+Investigator: Susanne C. Brenner brenner@math.sc.edu  (Principal Investigator current)
+Sponsor     : U of SC Columbia
+	      Byrnes Building, Room 511
+	      Columbia, SC  29208    803/777-7093
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9216,9263,HPCC,OTHR,
+Abstract    :
+              9600133  Brenner       In the application of finite element methods to problems
+              in  computational mechanics, difficulties such as the phenomenon of  locking,
+              the incompressibility constraint, cracked domains and  higher order equations
+              are encountered.  By combining the  techniques of nonconforming elements, macro
+              elements, singular  functions and mixed formulations, robust finite element
+              methods  that employ relatively few numbers of unknowns can be developed  to
+              overcome these difficulties.  The  investigator develops  multigrid and domain
+              decomposition algorithms for such finite  element methods.       Multigrid
+              algorithms compute the solutions of systems of  equations at a cost
+              proportional to the number of unknowns and  therefore are the most efficient
+              methods for solving large  systems.  Domain decomposition algorithms distribute
+              the  computation over different parts of the physical domain and hence  are
+              very suitable for parallel computers.  They are currently two  of the major
+              ideas in high performance computing.  The results  from this project can lead
+              to fast solvers for problems in  elasticity, plasticity, plates, beams, shells,
+              and fluid  mechanics.  In particular, a new multigrid method is developed for 
+              the computation of stress intensity factors, which are important  quantities in
+              the study of the macroscopic phenomena of materials  such as fatigues and
+              fractures.  These problems arise in the  design of structures such as
+              buildings, bridges, planes, and  ships, and in the analysis of how structures
+              perform.  Hence the  project provides tools for solving problems of
+              manufacturing and  of monitoring and renewing civil infrastructure.

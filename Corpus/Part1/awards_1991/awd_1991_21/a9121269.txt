@@ -1,0 +1,55 @@
+Title       : Evaluating Algorithms for Conservative Generation Garbage Collection
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 11,  1992     
+File        : a9121269
+
+Award Number: 9121269
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1992     
+Expires     : August 31,  1993     (Estimated)
+Expected
+Total Amt.  : $46930              (Estimated)
+Investigator: Benjamin G. Zorn zorn@cs.colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2876,
+Abstract    :
+                   This project has three important goals:  to propose and                   
+              investigate new effective algorithms for conservative generation of            
+              garbage collection in C and C++ (using true generation techniques), to         
+              use a new simulation-based evaluation technique that is largely                
+              language and system independent, and to prototype the most attractive          
+              algorithms and measure them directly.                                          
+                   In recent years, conservative collection algorithms have been             
+              used in C and C++.  This project focuses on developing, evaluating and         
+              implementing the most efficient generation techniques available in the         
+              context of conservative collection.  All existing conservative                 
+              algorithms for C and C++ require that every living object in the heap          
+              is scanned during each garbage collection-eliminating two essential            
+              advantages of generation collection (locality and efficiency).  The            
+              new algorithms investigated will only require that a small subset of           
+              the heap is scanned during each collection.  By investigating the use          
+              of garbage collection in such widely-used languages as C and C++, and          
+              by providing a thorough comparative evaluation of these techniques,            
+              this research may lead to widely-used versions of efficient garbage            
+              collection implementations.                                                    
+                   In the past, evaluation of garbage collection algorithms has been         
+              limited by the high cost of implementing the algorithms.  As a result,         
+              substantially different algorithms have rarely been compared in a              
+              systematic way.  Recently, however, Zorn showed that trace-driven              
+              simulation using object-level traces can be successfully used to               
+              evaluate and compare different garbage collection algorithms.  This            
+              project extends previous work by combining object-level tracing with           
+              abstract execution, thus allowing evaluation of garbage collection             
+              algorithms in a mostly language-independent manner.

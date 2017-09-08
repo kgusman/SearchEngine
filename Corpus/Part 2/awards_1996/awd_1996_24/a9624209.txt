@@ -1,0 +1,54 @@
+Title       : CAREER: Compiling for Heterogeneous Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 7,  1999      
+File        : a9624209
+
+Award Number: 9624209
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Kathryn S. McKinley   (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Heterogeneous parallel systems incorporate diverse models of  parallelism within
+              a single machine or across machines.  These systems provide high performance
+              for large, diverse  applications. Heterogeneity unfortunately complicates 
+              software development. Users currently hand parallelize each  task for each
+              architecture. These programs are not portable  and must be recoded if changes
+              occur (e.g., machines are  added or removed).  The user is also burdened with 
+              performing the appropriate optimizations to achieve high  performance. A
+              compiler can solve these problems. The most  important advantages of a compiler
+              based approach are:    (1) Portability and Ease of Use: Users program the 
+              appropriate model of parallelism for their algorithms. The  compiler
+              automatically maps them on to the specifics of the  available architectures.
+              (2) High Performance: The compiler  optimizes with aggressive, target specific
+              optimizations and  coordinates diverse hardware to achieve excellent 
+              performance.    To manage heterogeneity the compiler must: target diverse 
+              architectures, adjust optimization strategies to suit  targets, exploit
+              run-time changes in machine availability,  and allow languages to evolve.  The
+              objective of this  research is to investigate a compilation system to support 
+              these requirements. The system will use an innovative  compiler organization
+              and representations in order to  provide the flexibility that heterogeneity
+              requires.  This  project concentrates on the design and implementation of  this
+              compiler infrastructure.  The system will be used to  investigate automatic
+              parallelization and partitioning  strategies for a heterogeneous target.  It
+              will address  issues such as how to map programmer models of parallelism  on to
+              the corresponding machine and how to further optimize  it for total system
+              performance.  This compiler-based  approach will provide an infrastructure
+              capable of  performing the advanced dynamic and static optimizations  that
+              heterogeneous systems demand for high performa nce.  ***

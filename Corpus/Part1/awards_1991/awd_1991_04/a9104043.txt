@@ -1,0 +1,47 @@
+Title       : Principles and Applications of Partial Evaluation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 14,  1991      
+File        : a9104043
+
+Award Number: 9104043
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Paul Hudak paul.hudak@yale.edu  (Principal Investigator current)
+              Charles Consel  (Co-Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              Partial evaluation is a program transformation technique for                   
+              specializing a program with respect to some known part of its input.           
+              The resulting residual program has the property that when applied to           
+              the remaining part of the input, it will yield the desired result.             
+              Since many problems can be shown to be "specializations" of a more             
+              general problem, this provides the basis for a simple, automatic,              
+              formal methods approach to program development.                                
+                   This research comprises a comprehensive, in-depth study of the            
+              theory of partial evaluation.  Expected results include:  (1) a better         
+              understanding of the mathematical principles upon which partial                
+              evaluation is based, (2) better strategies for implementing a partial          
+              evaluator, including various static analyses to enhance performance,           
+              (3) plans for applications of partial evaluation, including: (a)               
+              semantics-based compilation (the automatic generation of compilers             
+              from denotational semantics specifications), (b) incremental                   
+              computation (the automatic generation of incremental programs from             
+              non-incremental ones), and (c) program execution monitoring (the               
+              automatic generation of monitors - debuggers, profilers, etc. - from a         
+              standard continuation semantics).

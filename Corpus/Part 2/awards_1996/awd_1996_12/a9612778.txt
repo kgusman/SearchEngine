@@ -1,0 +1,37 @@
+Title       : Robust Speech Recognition Using Vector Computing
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : January 7,  1997    
+File        : a9612778
+
+Award Number: 9612778
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 15,  1997   
+Expires     : December 31,  1998   (Estimated)
+Expected
+Total Amt.  : $285092             (Estimated)
+Investigator: Nelson Morgan morgan@icsi.berkeley.edu  (Principal Investigator current)
+Sponsor     : Internationl CompSci Inst
+	      1947 Center Street
+	      Berkeley, CA  947041105    510/666-2900
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is exploring the vector implementation of speech algorithms on the 
+              torrent processor, which was developed under previous NSF support.  Torrent is 
+              specialized for the low-precision digital signal processing that arises in
+              speech  recognition; it combines multiple fixed-point datapaths, a high
+              bandwidth memory  system, and a high-speed RISC general-purpose controller. 
+              Algorithms for the  computationally intensive tasks of speech recognition,
+              including acoustic  probability estimation, feature extraction, lexical search,
+              and evaluation of  grammatical probabilities, are being vectorized and
+              implemented on Torrent  processor.  The system will be demonstrated using a
+              2000-word natural speech  recognition task that will run using a free-standing
+              microphone in a noisy  environment.

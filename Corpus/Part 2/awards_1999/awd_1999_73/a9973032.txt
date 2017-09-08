@@ -1,0 +1,89 @@
+Title       : Efficient Description, Modeling, and Recognition of Natural Imagery via a Local
+               Basis Library
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 24,  1999    
+File        : a9973032
+
+Award Number: 9973032
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $70100              (Estimated)
+Investigator: Naoki Saito saito@math.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              9973032
+
+The investigator develops adaptive, hierarchical, and computationally
+              efficient algorithms for description, modeling, and recognition of natural
+              imagery by tightly combining computational harmonic analysis techniques and the
+              insight derived from the study of biological vision systems.  The specific
+              study aims are to: 1) Investigate the elementary image features that
+              efficiently characterize a given image class, and develop computationally
+              efficient stochastic image models using these features for simulation; 2)
+              Develop hierarchical algorithms to extract high-level complex features by
+              integrating the elementary features for building better stochastic models; and
+              3) Investigate the effectiveness of such stochastic models for recognizing and
+              classifying different image classes.  Throughout this study the investigator
+              fully utilizes the so-called local basis library as a basic tool to extract
+              elementary features that are the expansion coefficients (or nonlinear functions
+              of such coefficients) of an image with respect to the bases contained in this
+              library.  This local basis library consists of a collection of the local basis
+              dictionaries (such as wavelet packets, local cosine, local Fourier, and
+              brushlets) whose basis elements are localized in both space and spatial
+              frequency.  Each dictionary in turn contains a huge number of orthogonal or
+              biorthogonal bases, and is equipped with a fast numerical algorithm to select a
+              best basis tailored to a given task and to a given set of images by optimizing
+              task-specific criterion.  In Aim 1, the investigator specifically selects the
+              local features from the library by explicitly reducing the redundancy and
+              statistical dependence among them, and investigate the importance of the
+              sparsity and statistical independence for image representation and description.
+               Then, he analyzes the effectiveness of such features by constructing simple
+              stochastic models by assuming mutual independence or pairwise dependence among
+              them.  In Aim 2, the investigator integrates local features studied in Aim 1 to
+              extract high-level complex features by applying the localized versions of the
+              Karhunen-Loeve transform directly on those local features, and incorporates
+              such features into the stochastic models.  In Aim 3, the investigator examines
+              the effectiveness of combining the localized versions of the linear
+              discriminant analysis and the models obtained by Aims 1 and 2, for extracting
+              the key discriminant local features.
+
+Results of the project will be useful
+              for those who routinely work on image-based diagnostics such as radiologists
+              and geologists.  Radiologists use very subtle features of mammograms to
+              determine whether the patients have benign or malignant tumors.  Exploration
+              geologists use images of multiple scales ranging from actual rock samples to
+              seismic images to determine whether a specific subsurface layer contains oil or
+              gas.  Although these experts have highly trained eyes and have accumulated
+              large databases of images in their minds through training and experience, their
+              diagnostic rules are often of qualitative nature.  The investigator believes
+              that the above feature extraction tools will help these experts move their
+              diagnostic methods from a qualitative regime to a quantitative one.  In fact,
+              given a specific class of images (e.g., a collection of mammograms representing
+              malignant tumors), the above algorithms may allow these experts to build
+              stochastic models that specify the statistical dependency of critical features
+              of the images and to create new sample images from these models.  This ability
+              to create new simulated images at will is indispensable for assessing the
+              variability of the features and images.  If an expert can give a correct
+              diagnosis for these simulated images, then this implies that the implicit
+              diagnostic rules in their minds are encoded as an explicit stochastic model
+              built on features computed by these feature extraction tools.  This may lead to
+              the development of a distributed digital image diagnostic system, where imaging
+              devices and the diagnostic engines/knowledge bases are remotely located.  One
+              can easily imagine the usefulness of such systems in medicine, geophysical
+              exploration, and other fields requiring image diagnostics.
+
+

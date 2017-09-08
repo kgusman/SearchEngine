@@ -1,0 +1,52 @@
+Title       : Tools for Image and Video Transmission over Heterogeneous Network
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1998      
+File        : a9804959
+
+Award Number: 9804959
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $225001             (Estimated)
+Investigator: Antonio Ortega ortega@sipi.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Most current digital video systems merely replace existing  modes of analog
+              video delivery with their more efficient  digital counterparts. However, as
+              packet-based networks,  such as the Internet, start to be an essential
+              component of  the communications infrastructure and general purpose  computers
+              become the predominant communication terminal,  there is a need to provide a
+              new set of algorithms for video  compression and processing, which are
+              optimized for an endto-  end software processing environment. The challenge is
+              then  to find efficient ways of embedding video data on a  fundamentally
+              asynchronous transmission/processing  infrastructure. To address this challenge
+              this project  concentrates on two main areas: (i) computation/bandwidth 
+              scalable coding and (ii) robust asynchronous video  transmission algorithms.
+              The Internet is a heterogeneous  network, both in terms of its components
+              (hosts, routers)  and in terms of available bandwidth and processing speed. 
+              Thus bandwidth/computation scalable algorithms are desirable  to enable less
+              complex encoding/decoding at the expense of a  reduction in video quality. This
+              project is developing a  design methodology for variable complexity, input
+              dependent  coding/decoding algorithms where the goal is optimizing  average
+              (instead of "worst-case") complexity performance,  robust asynchronous video
+              transmission algorithms are also  being developed, as motivated by the limited
+              transmission  reliability offered by the Internet. Video is sensitive not  only
+              to losses of information (e.g. packets being dropped  due to congestion) but
+              also to excessive delay. This work  concentrates on new compression techniques
+              for asynchronous  video transmission where each video unit (a part of a frame) 
+              has a ``lifetime'' during which it is useful, and which can  span more than a
+              single frame time interval. This area  includes novel work in both rate control
+              and image domain  error correction/detection techniques.

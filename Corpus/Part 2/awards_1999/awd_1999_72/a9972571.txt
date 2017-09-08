@@ -1,0 +1,67 @@
+Title       : Kan: A Platform for Reliable Distributed Objects
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  1999     
+File        : a9972571
+
+Award Number: 9972571
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $120000             (Estimated)
+Investigator: Ambuj Singh ambuj@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal CCR-9972571
+Title: Kan: A Platform for Reliable Distributed
+              Objects
+PI: Ambuj K Singh
+
+The goal of the project is to design and
+              implement
+a distributed object-oriented system for supporting large and
+              
+complex parallel and distributed applications. 
+The system supports a
+              simple, yet powerful, programming model with the
+following language features:
+              asynchronous 
+method calls, concurrent threads, guards, nested transactions,
+              
+and objects that can be migrated and replicated transparently. 
+The system
+              achieves efficiency and scalability through dynamic 
+runtime optimizations
+              such as an adaptive thread pool,
+thread inlining, monitoring of object access
+              patterns,
+and dynamic clustering and granularity.
+The system is resilient to
+              node failures; this is attained
+through low-overhead algorithms for logging
+              and recovery.
+Investigating weaker notions of object consistency 
+that allow
+              reduced communication between processors
+is another goal of the
+              project.
+Shared whiteboards, electronic
+commerce, and parallel scientific
+              programs are some of the 
+targeted applications.
+The project will lead to a
+              better understanding of scalable, 
+fault-tolerant distributed systems.
+

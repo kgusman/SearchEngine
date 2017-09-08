@@ -1,0 +1,44 @@
+Title       : Reconfiguration and Performance Issues in Software Distributed Shared Memoroy
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1998      
+File        : a9803505
+
+Award Number: 9803505
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $212065             (Estimated)
+Investigator: Nian-Feng Tzeng tzeng@cacs.louisiana.edu  (Principal Investigator current)
+Sponsor     : Univ of Louisiana at Lafay
+	      104 University Circle
+	      Lafayette, LA  705032701    337/482-6203
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Software distributed shared memory (DSM) may support various  existing networks
+              of workstations and distributed memory machines  built from commodity or
+              customized microprocessors and networks,  without any hardware added. In order
+              for DSM to be employed in  long-running applications or high-availability
+              situations,  reconfiguration in response to processor failures or resource 
+              changes is crucial and inevitable. From the performance  standpoint, a
+              software-based DSM system ought to minimize its  coherence traffic overhead,
+              because such a system is especially  sensitive to the traffic amount over the
+              network.This research  proposal focuses on reconfiguration and performance
+              issues in  software DSM under release consistency, aiming to render such DSM  a
+              favorable computing paradigm.The key objectives of this research  include: (1)
+              pursuing efficient algorithms for identifying target  structures in distributed
+              systems under reconfiguration,  (2) investigating process migration by taking
+              advantage of  multiple disjoint paths, (3) developing a recoverable software
+              DSM  system based on fast checkpointing, (4) investigating into  aggressive
+              implementations of release consistency  for software DSM, and (5) pursuing
+              efficient barrier and  lock techniques for software DSM.

@@ -1,0 +1,89 @@
+Title       : Modeling and Design for the Lower Layers of 4th Generation Indoor/Outdoor
+               Wireless Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  2001   
+File        : a9979452
+
+Award Number: 9979452
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $697636             (Estimated)
+Investigator: Arnold L. Swindlehurst swindle@ee.byu.edu  (Principal Investigator current)
+              Brian D. Jeffs  (Co-Principal Investigator current)
+              Michael Rice  (Co-Principal Investigator current)
+              Michael A. Jensen  (Co-Principal Investigator current)
+Sponsor     : Brigham Young University
+	      D 341 Asb
+	      Provo, UT  846021043    801/378-6177
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 0000,9216,HPCC,OTHR,
+Abstract    :
+              While current wireless communications systems offer acceptable performance for
+              transmission of voice and simple digital data such as e-mail and paging
+              services, they cannot adequately support the higher data rates required for
+              example by graphics-rich multimedia applications or video conferencing. This
+              throughput limitation must be overcome in order to meet the growing desire for
+              instant information accessibility regardless of one's location around the
+              world, sometimes referred to as "global seamless roaming". Until recently, it
+              was believed that the primary obstacle to higher data rates in wireless systems
+              was due to multipath -- the scattering of a signal along many different paths
+              due to objects between the transmitter and receiver. However, remarkable new
+              research suggests just the opposite; in particular, it has been demonstrated
+              that if multiple antennas are used on both ends of a multipath-rich
+              communications link, and appropriate digital "space-time" codes are employed,
+              then dramatic increases in throughput can be achieved. Intuitively, this is
+              because each propagation path offers a separate ``independent'' channel over
+              which data can be transmitted. To take advantage of these spatially and
+              temporally diverse channels, antenna arrays are required on both the receive
+              and transmit ends of the link. This obviously leads to an increase in system
+              complexity, and raises questions concerning what type of communication
+              protocols must be used when multiple Tx and Rx (MTRx) antennas are employed.
+              These are issues addressed by this research project.
+
+The investigators are
+              conducting a thorough assessment of the design, implementation, testing, and
+              performance analysis of MTRx wireless communications systems. Specific tasks
+              include the following:
+
+(1)Experimental space-time channel characterization
+              and modeling for indoor and outdoor wireless channels -- Design and
+              implementation of a flexible, low-cost MIMO data acquisition system capable of
+              efficiently measuring spatial and temporal channel characteristics in various
+              settings as well as for different antenna directivity and polarization
+              properties; Development of statistical models that provide an accurate
+              description of the MIMO channel space-time characteristics based upon fits to
+              the observed data; Utilization of the model in assessing the validity of the
+              assumptions used in the development of MTRx algorithms, and the degradation in
+              performance of the algorithms when model mismatch occurs.
+
+(2)Analysis of how
+              space-time algorithms based on idealized assumptions fare in real multipath
+              environments -- An investigation of how imprecisely known channels degrade
+              performance, how accurately the channel must be known in order to obtain
+              acceptably error-free data transfer; A study of how frequency selective
+              channels degrade the performance of algorithms that assume flat fading; A
+              determination of the effects of channel non-stationarities such as Doppler on
+              space-time algorithm performance and on how often the channel be updated for
+              reasonable performance; Analysis of the effect of co-channel interference and
+              models for taking it into account.
+
+(3)The development of new, practical
+              strategies for space-time processing that are robust to realistic channel
+              effects and geared to multiple user access -- Investigation of space-time error
+              control coding strategies for real channels, with a focus on 3-dimensional
+              interleaver design, space-time ARQ and hybrid-ARQ, and space-time
+              code-combining; Implementation of various multiple access protocols using MTRx
+              wireless systems, including a study of space, time, frequency, and code
+              division multiple access, as well as packet-based approaches; Development of
+              appropriate MIMO channel estimators to be used with the space-time processing
+              algorithms requiring reliable channel state information. 

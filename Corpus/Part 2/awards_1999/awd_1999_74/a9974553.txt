@@ -1,0 +1,56 @@
+Title       : Applying Compiler Techniques to Proof-Carrying Code
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 19,  1999    
+File        : a9974553
+
+Award Number: 9974553
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : January 31,  2003    (Estimated)
+Expected
+Total Amt.  : $220000             (Estimated)
+Investigator: Andrew W. Appel appel@cs.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number:  CCR-9974553
+
+Title: Applying Compiler Technology to
+              Proof-Carrying Code
+PI:  Andrew W. Appel
+
+Proof-carrying code (PCC) is an
+              exciting new development in mobile-code
+security.  An untrusted code provider
+              provides a native-code program
+along with a proof of safety; the code consumer
+              can check the proof before
+executing the program.  Since proof-checking is a
+              simple and
+easily mechanized process, the trusted computing base of this
+              system
+can be quite small.  However, PCC is an immature technology and
+              faces
+several challenges: keeping proof size small, proving safety of
+              complex
+operations such as allocating and initializing data structures,
+              and
+making the code consumer's safety policy universal and
+              language-independent.
+This project will address each of these issues, applying
+              science and
+technology
+developed for compilers to the area of program
+              verification.
+

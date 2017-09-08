@@ -1,0 +1,52 @@
+Title       : New Prediction Paradigms for Parallel and Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  2001    
+File        : a0105628
+
+Award Number: 0105628
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $189035             (Estimated)
+Investigator: Gregory T. Byrd gbyrd@eos.ncsu.edu  (Principal Investigator current)
+              Eric Rotenberg  (Co-Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research aims to expand and redefine the role of prediction-based
+              techniques for parallel and distributed systems.  First, we reduce barrier
+              synchronization overhead by predicting the final producer of a
+value before
+              the barrier.  This producer identification allows the consumer to speculatively
+              proceed past the barrier, only waiting on the actual production as needed. 
+              Second, we introduce the slipstream
+paradigm to multiprocessor systems.  A
+              redundant version of each parallel thread runs concurrently, its execution
+              reduced by speculatively removing long-latency events, such as shared memory
+              writes.  The reduced thread dynamically detects sharing patterns, which are
+              used by the original thread to optimize its coherence and synchronization
+              actions, improving overall performance.  Finally, we investigate the use of
+              producer-validated message prediction to reduce traffic in a message-passing
+              environment.  Both the producer and the consumer of a message predict its
+              contents, using redundant prediction histories. Since the producer knows the
+              results of the consumer's prediction, it need only send those data that were
+              not correctly
+predicted.  This traffic reduction is significant in
+              environments in which communication is much more costly than computation, such
+              as networked embedded systems.  These three avenues of research represent an
+              excursion into new frontiers of prediction-based technology, resulting in
+              parallel systems that scale to new levels of availability and performance.
+
+

@@ -1,0 +1,48 @@
+Title       : ITR/SY(CISE) Learning Syntactic/Semantic Information for Parsing
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 10,  2001    
+File        : a0112435
+
+Award Number: 0112435
+Award Instr.: Standard Grant                               
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2001    
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $449442             (Estimated)
+Investigator: Eugene Charniak ec@bohr.cs.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0104000   Information Systems                     
+Abstract    :
+              This research concerns the unsupervised learning of structural information about
+              English that is not present in current tree-banks (specifically the various
+              Penn tree-banks).  That is, one wants a machine to learn this information
+              without having to create a corpus in which the information is annotated.   The
+              structural information to be learned often falls at the boundary between syntax
+              and semantics;  for example, does the fact that the "New York Stock Exchange"
+              has as part of the name the location "New York" fall under syntax or semantics?
+                What about the similarity between the expressions "[to] market useless items"
+              and "the market for useless items"?   The intention is to learn this kind of
+              information in a form that current statistical parsers can use so that they can
+              output more finely structured parses.   But this is not meant to suggest that
+              parsing is the sole use for this sort of information.   More and more systems
+              for automatically extracting information from free text use coreference
+              detection and "named-entity recognition" (e.g., recognizing that "New York" is
+              a location, but "New York Stock Exchange" is an organization).  There is
+              evidence to suggest that both coreference and named-entity recognition can be
+              improved with the finer level of analysis to be made possible by this research.
+                Or again, "language models" (programs that assign a probability to strings in
+              a language) are standard parts of all current speech-recognition systems; there
+              is evidence that suggests that finer grained syntactic analysis can improve
+              current language models.   Thus, this research will enable a wide variety of
+              systems to make better use of language input and so make these systems more
+              accessible to a diverse user pool.

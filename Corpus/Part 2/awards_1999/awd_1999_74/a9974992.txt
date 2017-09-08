@@ -1,0 +1,101 @@
+Title       : Next Generation Software: Coordinated Allocation of Processor and I/O Resources
+               in Parallel Systems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 7,  2002        
+File        : a9974992
+
+Award Number: 9974992
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $350000             (Estimated)
+Investigator: Evgenia Smirni esmirni@cs.wm.edu  (Principal Investigator current)
+Sponsor     : College of William & Mary
+	      Grants & Research Admin.
+	      Williamsburg, VA  231878795    757/221-3967
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2884,9216,9218,HPCC,
+Abstract    :
+              
+EIA-9974992
+Smirni, Evgenia
+College of William & Mary
+
+Next Generation
+              Software: Coordinated Allocation of Processor and I/O Resources in Parallel
+              Systems
+
+A problem that plagues most parallel systems today is inefficient
+              management of resources.  Parallel systems are frequently over-utilized, yet
+              they deliver relatively low performance to individual applications.  In recent
+              years, much research had been devoted to methods for allocating the processors
+              of a parallel system to competing applications.  However, an issue that has
+              been traditionally overlooked is that many applications also contend for shared
+              Input/Output (I/O) resources.  Since I/O resources belong to the slowest level
+              of memory hierarchy, their efficient management becomes critical for high
+              performance.
+
+The proposed research focuses on the development of an
+              allocation framework that integrates the management of computational and I/O
+              resources in parallel systems.  This research is facilitated, firstly, by
+              previously obtained quantitative data on the processing and I/O requirements of
+              parallel scientific applications.  Additionally, recent studies on processor
+              scheduling that explicitly consider the I/O demands of parallel scientific
+              applications demonstrate performance trends that differ significantly from
+              previously observed trends where only processor allocation is
+              considered.
+
+The proposed plan considers a systematic exploration of
+              coordinated allocation strategies of both processor and I/O resources and
+              investigates issues that have not been addressed in traditional processor
+              scheduling or I/O research in parallel systems.  The primary objectives of this
+              project are: 1) the development of an analytic model that effectively captures
+              the scalability of I/O intensive applications under different data
+              distributions on the disks and under different assignment of computational
+              resources, 2) the analysis of the relative advantages and disadvantages of new
+              dual resource allocation strategies through modeling and experimental
+              measurements, and 3) the development of a unified framework that allows the
+              processor scheduler and the parallel file system to operate jointly towards the
+              common goal of sharing the parallel resources amoung the various executing
+              applications in order to maximize overall system performance.  The proposed
+              work will be experimentally verified on a variety of parallel platforms and the
+              dual resource allocation algorithms will be implemented so as to ensure their
+              portability across these
+              platforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

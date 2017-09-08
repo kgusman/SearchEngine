@@ -1,0 +1,79 @@
+Title       : CAREER: Compiler Optimizations for Instruction Bandwidth
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 12,  2001  
+File        : a9876117
+
+Award Number: 9876117
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1999      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $199998             (Estimated)
+Investigator: Wilson C. Hsieh wilson@cs.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              9876117
+
+CAREER: Compiler Optimizations for Instruction Bandwidth
+
+Wilson C.
+              Hsieh
+
+
+This project reexamines how compiler optimization affects one of
+              the
+bottlenecks in commercial applications: the cost of
+              fetching
+instructions.  Standard compiler optimizations trade
+              instruction
+bandwidth for faster instruction sequences, which works well
+              for
+applications that have good instruction locality.  Unfortunately,
+recent
+              studies have shown that instruction bandwidth is a
+performance-limiting factor
+              in many commercial applications, such as
+databases, circuit simulators, and
+              multimedia programs.  In addition,
+technology trends in processor
+              architectures will also increase
+applications' demands for instruction
+              bandwidth.  The proposed
+research will explore several solutions to these
+              problems.  First, two
+new compiler optimizations to improve utilization of the
+              instruction
+cache, instruction cache scheduling and code factoring, will
+              be
+investigated.  Trace analysis of commercial applications will be used
+to
+              quantify their benefits.  Second, traditional compiler
+optimizations will be
+              reexamined and redesigned as necessary, with the
+goal of making them sensitive
+              to instruction cache utilization.
+Finally, architectural changes to support
+              explicit cooperation between
+the compiler and processor to make more efficient
+              use of the
+instruction cache will be explored.  This research will provide
+              a
+better understanding of how compilers should optimize large,
+commercial
+              applications, which is a field that has remained relatively
+unexamined in the
+              research community.
+
+

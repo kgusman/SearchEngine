@@ -1,0 +1,46 @@
+Title       : Adaptive, Profile-Based Compilation of Highly Interactive, Graphical
+               Applications by Demonstration
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 13,  1997       
+File        : a9633624
+
+Award Number: 9633624
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $173729             (Estimated)
+Investigator: Bradley T. Vander Zanden bvz@cs.utk.edu  (Principal Investigator current)
+Sponsor     : U of Tennessee Knoxville
+	      404 Andy Holt Tower
+	      Knoxville, TN  379960140    865/974-3466
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              Rapid prototyping environments provide high-level operations that  allow users
+              rapidly to create and modify interactive  applications, such as graphical
+              interfaces, scientific and  program visualizations, and simulations (i.e.,
+              quickly program  the Obig pictureO). These environments often sacrifice speed
+              and  storage for increased flexibility. Researchers have proposed 
+              optimizations that can reduce storage and improve performance.  However, the
+              programmer must manually apply these optimizations,  which impedes rapid,
+              iterative development of applications.  The  objective of  this project is to
+              develop adaptive, profile-based  compilation techniques that automatically
+              apply these  optimizations so that the programmer can make use of rapid 
+              prototyping techniques while still retaining excellent time and  storage
+              performance. Constraints and structured graphics are  targeted by this research
+              since studies show that these two  techniques facilitate the rapid, iterative
+              development of  graphical user interfaces. This project is developing
+              techniques  whereby: (1) a profiler monitors operations as they execute and 
+              extracts information about constraint evaluation and variable  access, and (2)
+              an adaptive compiler uses this information to  dynamically implement various
+              performance and storage  optimizations.  ***

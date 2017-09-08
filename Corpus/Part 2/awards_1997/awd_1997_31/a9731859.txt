@@ -1,0 +1,62 @@
+Title       : Realistic Computer Graphics for Natural Scenes
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  1998     
+File        : a9731859
+
+Award Number: 9731859
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $366926             (Estimated)
+Investigator: Peter S. Shirley shirley@cs.utah.edu  (Principal Investigator current)
+              Brian E. Smits  (Co-Principal Investigator current)
+              William B. Thompson  (Co-Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-6903
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project aims to improve the quality of computer graphic  images of outdoor,
+              natural scenes.  To date, renderings of  outdoor terrain have had a
+              cartoon-like quality that  significantly distracts from a sense of realism. 
+              Partially, this  is due to computational and source data constraints that limit
+               the geometric complexity of terrain that can be rendered.  The  thesis of the
+              research described here is that illumination and  material properties play an
+              equally important role in creating a  sense of realism from these scenes. 
+              Moreover, there are  important interactions between geometry, illumination, and
+               material properties in a model of outdoor terrain that should be  understood
+              when real-time constraints must also be satisfied.    Significant progress has
+              been made in the last decade in  understanding how to generate realistic
+              renderings of indoor  scenes.  The general approach is to analyze the physics
+              of light  transport in such environments and then to embody approximations  to
+              the physics in computational algorithms.  Correct modeling of  illumination and
+              material properties is vital.  It is now known  that a sense of realism depends
+              critically on accounting for  shadows, secondary illumination, and non-uniform
+              reflectance  functions.  Accurately approximating the effect of these 
+              properties involves great computational expense.  As a result,  methods for
+              rendering realistic imagery almost always exploit  assumptions about the nature
+              of the geometric structure and  illumination and materials properties likely to
+              be encountered.  Most of these assumptions derive from a presumption of indoor 
+              environments.    Outdoor scenes present very different computational 
+              characteristics.  While the physics is the same, geometry,  illumination, and
+              reflectance properties are all distinctly  different.  Many of the techniques
+              developed to support realistic  rendering of indoor scenes will require
+              substantial modifications  for natural, outdoor environments.  The most 
+              difficult computational prob lem to overcome is the need to be  able to
+              aggregate the effects of micro-structures into large  enough units that they
+              can be rendered effectively, while at the  same time preserving key aspects of
+              visual appearance.  This  problem exists across a wide range of scales, ranging
+              from  foliage, in which a collection of individual leaves generates a 
+              collective appearance that is quite different than that of the  constituent
+              members, to distant landmarks, where detail must be  suppressed without
+              removing those properties that make landmarks  distinctive and thus useful.

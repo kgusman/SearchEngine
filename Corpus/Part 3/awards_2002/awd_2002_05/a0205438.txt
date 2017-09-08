@@ -1,0 +1,85 @@
+Title       : ITR/AP: Beyond Polygons and Pixels: New Paradigms for Real-Time,
+               Physically-Based Rendering
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0205438
+
+Award Number: 0205438
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $2210696            (Estimated)
+Investigator: Donald P. Greenberg dpg@graphics.cornell.edu  (Principal Investigator current)
+              James A. Ferwerda  (Co-Principal Investigator current)
+              Kenneth E. Torrance  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              ITR: Beyond Polygons and Pixels: New Paradigms for Real-Time, Physically-Based
+              Rendering
+
+The ultimate goal of this research proposal is to provide
+              real-time, physically accurate synthetic images, delivering breakthrough
+              realism at fully interactive rates. We will achieve this by combining new
+              approaches for parallel graphics rendering with advanced, feature-level
+              psychophysical models of human vision and new image representations.
+              
+
+Currently, the two extremes of image synthesis are physically-based
+              rendering, where accurate simulation of light reflection gives faithful
+              predictions of the appearance of scenes, and real-time rendering, where crude
+              approximations to accurate simulation are tolerated to provide dynamic imagery
+              at interactive rates. High-quality, physically accurate images incorporating
+              indirect lighting, inter-reflections between surfaces, and color bleeding can
+              take hours or even days to compute on today's workstations, and incremental
+              improvements to the speed of rendering will not be enough to bridge the gap. We
+              estimate that real-time simulations of global illumination for complex scenes
+              might require 10 7 times more processing power than we have on multi-processor
+              workstations today. This can only be achieved by taking a radically different
+              approach to how we generate, encode, and display synthetic images, an approach
+              that separates computation by light reflection components and is based on
+              advanced psychophysical models of human vision and new image
+              representations.
+
+Low-cost, efficiently pipelined graphics accelerator boards
+              have become extremely popular, but these architectures only process local
+              illumination components, and thus cannot provide global illumination effects or
+              guarantee physical accuracy. To address this shortcoming, we have developed new
+              algorithms that exploit the speed of these accelerator boards for direct
+              lighting while performing global illumination computations in parallel on
+              clusters of off-the-shelf Intel microprocessors. We have reduced computation
+              times from hours to minutes for complex environments, but for real-time image
+              synthesis we need another four orders of magnitude speed-up.
+
+To reach this
+              goal, we must develop more advanced models of human visual perception.
+Current
+              perceptually-driven rendering methods are based on threshold models of human
+              vision that predict the limits of our abilities to discriminate luminance
+              contrasts, spatial patterns, motions, and colors, but provide no guidance for
+              optimizing the order or precision of rendering operations. For our new
+              perception oracles, we are developing higher-level visual models to monitor the
+              importance of scene features such as shadows and reflections to perceived image
+              quality. These new models will then drive the allocation of parallel computing
+              resources as well as select appropriate algorithms to provide the "steepest
+              ascent" solutions. New data structures for pictorial representation will
+              incorporate illumination and contrast gradients as well as pixel-by-pixel
+              intensities to ensure optimal display of physically accurate and perceptually
+              indistinguishable solutions under all viewing conditions. These capabilities
+              will extend the scientific, educational, and commercial application of
+              graphical simulations into visually critical tasks where predictive reliability
+              and speed are paramount.
+
+

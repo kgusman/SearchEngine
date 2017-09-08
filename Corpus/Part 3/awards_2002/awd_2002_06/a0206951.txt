@@ -1,0 +1,139 @@
+Title       : Sampled Data Stabilization and Tracking for Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a0206951
+
+Award Number: 0206951
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $75176              (Estimated)
+Investigator: Richard L. Rebarber rrebarbe@math.unl.edu  (Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9150,OTHR,
+Abstract    :
+              0206951
+Rebarber
+
+This project will focus on developing techniques for
+              sampled-data 
+feedback for infinite dimensional systems.  A discrete time
+              controller can 
+operator with only limited frequency response, and infinite
+              dimensional 
+systems often have high frequency effects which cannot be
+              ignored, so 
+there is not only interest in what can be done with sampled-data
+              control 
+design, but also in its limitations.  The following question is
+              basic: can a 
+given continuous-time controller be replaced by a related
+              sampled-data 
+controller, while maintaining the desired response of the
+              closed-loop 
+system?  Both idealized and generalized sample-and-hold will be
+              
+considered. Generalized hold can be used as a design parameter, and
+              
+generalized sampling can be used when the output is not sufficiently 
+smooth
+              to accommodate point evaluations in time.  The PI will 
+characterize as
+              completely as possible those continuous-time feedback 
+systems which do not
+              lose their closed-loop stability when a sampled data 
+scheme (with
+              sufficiently small sampling time) is applied to the feedback, 
+and will
+              determine whether the performance of the sampled-data system 
+can approximate
+              the continuous time performance.  The performance 
+measures considered are
+              closed-loop growth rate and stability radius. 
+Tracking techniques for
+              infinite dimensional systems will also be studied 
+and developed.  Suppose a
+              system has an external disturbance term which 
+is to be rejected, or an
+              external reference term to be tracked.  One common 
+approach to doing this is
+              by a low-gain controller suggested by the internal 
+model principle.  The
+              effectiveness of such a controller for a wide class of 
+systems will be
+              studied, as well as its sensitivity to frequency variations in 
+the external
+              signal. Sampled-data versions of tracking controllers will also 
+be
+              considered.  These sampled-data and tracking results will be applied to 
+PDEs
+              in more than one space variable, especially coupled PDE models 
+with at least
+              one hyperbolic component.  Due to the fact that these models 
+involve two
+              different of PDEs, coupled via highly unbounded operators, 
+the analysis has
+              features which are distinct from the analysis for 
+uncoupled systems.  For
+              this problem a central concern for output 
+feedback design is the analysis of
+              the input-output map, i.e. the map from 
+the control to the
+              observation.
+
+Advances in digital technology have led to an emphasis on
+              sampled-data 
+design in control engineering, but the development of sampled
+              data 
+control for infinite-dimensional systems such as PDEs has been limited. 
+              
+In many applications output data is available in discrete time rather than
+              
+continuous time, and a feedback controller for such a system should be
+              
+designed to take discrete data as its input, but act in continuous time. 
+              
+Since there is already an enormous literature on continuous time
+              
+stabilization of PDEs, the project will involve the investigation of how to
+              
+modify continuous time controllers to obtain sampled data controllers,
+              
+while maintaining system performance.  Also of interest are techniques for
+              
+designing effective sampled-data controllers without reference to
+              
+continuous time design.  Another topic to be considered is the design of
+              
+active feedback control tracking external signals and rejecting noise. As an
+              
+application, these methods will be used to design a controller to reject
+              
+noise in a PDE model which describes the interaction between sound 
+waves in
+              a cavity (for instance, an airplane cockpit) and the motion of a 
+flexible
+              wall of the cavity.  Suppose that there is an external noise source, 
+such as
+              engine noise, which is to be rejected, and active feedback control 
+is to be
+              applied to smart material actuators on the cavity walls.  Then a 
+properly
+              designed low-gain controller (either continuous time feedback or
+              
+sampled-data) will attenuate the sound pressure at and near finitely many
+              
+points of the cavity.
+

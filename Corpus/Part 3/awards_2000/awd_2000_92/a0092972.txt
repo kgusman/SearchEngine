@@ -1,0 +1,144 @@
+Title       : CAREER: Semidefinite Methods for Robust and Discrete Optimization and Their
+               Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 20,  2003     
+File        : a0092972
+
+Award Number: 0092972
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $325006             (Estimated)
+Investigator: Garud N. Iyengar garud@ieor.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              The objective of this project is to develop and implement new and
+efficient
+              optimization methods for robust and discrete optimization
+problems. The
+              applications of interest to us are in the fields of
+financial engineering and
+              network design. The robust optimization
+framework is an attempt to correct for
+              the modeling uncertainties
+that are inevitable in engineering. Optimization
+              problems are
+especially susceptible to modeling errors since, in trying to
+              exploit
+the constraints, the optimal solutions typically amplify the
+              errors
+several fold. In the robust framework, the perturbations are
+              modeled
+as unknown, but bounded, and optimization problems are
+              solved
+assuming worst case behavior of these perturbations. Robustness
+              to
+modeling and estimation errors is an issue of critical importance
+              for
+financial optimization problems because of the serious consequences
+of
+              making wrong bets! Surprisingly, however, robust optimization has
+not been
+              widely explored in financial engineering. The research
+proposed here
+              formulates robust dynamical models for financial
+problems and develops
+              semidefinite rogramming based methods for
+solving them. These models
+              systematically account for parameter
+uncertainty and robustly update
+              error-bounds as more information
+becomes available over time. In addition, the
+              project extends the
+semidefinite relaxation methodology to probabilistically
+              robust
+optimization problems that naturally emerge in the financial
+              context.
+The other research focus of this proposal is on
+              developing
+semidefinite models for graph theoretic problems such as
+              the
+traveling salesman problem and network design. These models employ
+linear
+              matrix inequalities (LM ) to represent  geometric
+constraints, such as graph
+              connectivity, specified number of
+edge/vertex disjoint paths, etc. The
+              optimization problems resulting
+from these LM models are, typically, mixed
+              integer semidefinite
+programs, i.e. semidefinite programs where some of the
+              decision
+variables are constrained to be integers. Currently,
+              mixed
+semidefinite programs are appproximately solved by relaxing
+              the
+integrality constraints. However, as computational ower increases and
+the
+              interior point methods for solving semidefinite programs become
+more
+              efficient, the PI expects that there would be a push for
+developing systematic
+              methods of tightening the relaxations - as in
+the case of linear programming
+              relaxations of mixed integer programs.
+As a first step in this direction, the
+              PI proposes to develop several
+cutting lane strategies for mixed semidefinite
+              programs. Although the
+problems of interest to the PI belong to disparate
+              application areas,
+they are linked in that linear matrix inequalities and
+              semidefinite
+programming provide the necessary tools to efficiently model
+              and
+solve them. The education component of this proposal includes
+developing
+              a sequence of graduate courses on engineering applications
+of optimization.
+              These courses would fill an important gap in the
+curriculum of the Deppartment
+              by providing students with a firm
+theoretical and practical grounding in
+              optimization. The World Wide
+Web will be extensively used in these courses.
+              All the teaching
+material will be available on the web. The PI will develop
+              Java-based
+applets for all the examples used in the courses which would
+              allow
+students to experiment with these examples in real time. Also,
+              the
+optimization resources on the web will be integrated into the
+curriculum.
+              This should be particularly useful to students from
+industry who would take
+              the courses over the Video Network. To expose
+undergraduate students to
+              research, the PI plans to organize an
+interdisciplinary research program in
+              optimization and its
+applications. To facilitate industry outreach, the PI
+              plans to
+implement the results of the proposed research into a
+              software
+package and publish expository articles on the applications of
+              the
+new techniques. The PI expects that the availability of a user
+friendly
+              software will spur further applications and encourage
+industrial
+              collaboration.

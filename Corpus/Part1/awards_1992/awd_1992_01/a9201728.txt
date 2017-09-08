@@ -1,0 +1,74 @@
+Title       : Mathematical Sciences: Parallel, Block and Two-Stage Iterative Methods for
+               Linear Systems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 3,  1994        
+File        : a9201728
+
+Award Number: 9201728
+Award Instr.: Continuing grant                             
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1992  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $135000             (Estimated)
+Investigator: Daniel B. Szyld szyld@euclid.math.temple.edu  (Principal Investigator current)
+Sponsor     : Temple University
+	      1601 N. Broad Street
+	      Philadelphia, PA  191226099    215/204-8691
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+                   The investigator studies iterative methods to solve linear                
+              algebraic systems of equations efficiently on both sequential and              
+              parallel computers.  In a large class of iterative methods, each               
+              iteration consists of a solution of another system of equations.               
+              If that system is in turn solved by an iterative method, it is                 
+              called a two-stage iterative method.  Among the questions to be                
+              investigated are criteria to determine the optimal or                          
+              near-optimal number of inner iterations to guarantee overall                   
+              convergence of the two-stage method.  When a matrix is                         
+              appropriately partitioned by blocks, and its diagonal blocks are               
+              nonsingular, many of the classical iterative methods can be                    
+              generalized to treat each submatrix as a component.  On a MIMD                 
+              parallel computer (a computer that executes multiple streams of                
+              instructions on multiple streams of data), each diagonal block                 
+              can be solved by a different processor, using components of                    
+              previous iterations as soon as they are available.  These are                  
+              chaotic or asynchronous parallel block iterative methods.  Their               
+              convergence properties as well as implementation details will be               
+              studied.  Iterative methods for the solution of the general                    
+              eigenvalue problem will also be studied.  Experiments with these               
+              methods will be performed on different parallel architectures.                 
+                   A large class of problems in science and enginering is                    
+              described by linear systems of equations.  These are equations in              
+              which the unknown quantities appear in a simple way.  An example               
+              of a linear system is the description of the forces on a building              
+              structure.  These forces need to be calculated to design the                   
+              building materials.  The quantities to be calculated, called the               
+              variables or unknowns, are the forces on particular points of the              
+              structure.  To describe a big structure, such as a high-rise                   
+              building or a bridge, many hundreds or thousands of equations are              
+              needed, but because the forces on each point come only from a few              
+              neighboring points, the equations are relatively simple.  A                    
+              simple iterative method to solve such equations, that is, to find              
+              the values of the unknowns, consists in giving an initial                      
+              approximation for the values of some unknowns, and then computing              
+              the values of the resulting forces on the other points of the                  
+              structure.  Parallel computers are simply a collection of                      
+              computers or processors that communicate with each other.  In the              
+              method just described, different processors can compute the value              
+              of the forces on different points simultaneously, using the                    
+              information already computed by the other processors.  This is                 
+              repeated until all values satisfy all equations.  This situation,              
+              if attained, is called convergence. Not all iterative methods                  
+              attain convergence.  In this project, the iterative methods for                
+              which convergence can be guaranteed will be studied.  Experiments              
+              will be carried out to test them.

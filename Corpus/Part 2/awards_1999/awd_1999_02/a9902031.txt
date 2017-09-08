@@ -1,0 +1,64 @@
+Title       : Saturation-Based Theorem Proving
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  1999    
+File        : a9902031
+
+Award Number: 9902031
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $198393             (Estimated)
+Investigator: Leo Bachmair leo@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Two kinds of calculi are prevalent in automated theorem proving: saturation
+              calculi and tableau and connection calculi.  The latter support a goal-directed
+              proof search, but the former are superior for logics with equality and similar
+              domains.  The most spectacular success for theorem proving to date---the
+              solution of the Robbins problem was obtained with a saturation method.
+
+In
+              saturation-based deduction, redundancy is a key concept.  Formulas or
+              inferences are redundant if they either do not contribute to any derivation of
+              a contradiction, or else contribute in ways that allow for alternative, but
+              simpler derivations.  If all inferences from a set are redundant, the set is
+              called saturated and is inconsistent only if there is an explicit
+              contradiction.  Saturation thus provides a basis for checking for
+              inconsistency.  An inference can always be rendered redundant by adding its
+              conclusion to the current set of formulas, but techniques that avoid the
+              generation of redundant formulas are indispensable for efficiency reasons.  The
+              objectives of this project are to develop further insights into this process
+              and to advance theorem proving technology by focusing on three key
+              technique---saturation, extension, and combination.
+
+Approximation refers to
+              techniques such as unification and constraints that connect inferences at
+              different levels, for variable-free and general formulas, respectively.  The
+              performance of saturation provers often depends on the subtle interaction
+              between approximation and redundancy techniques. The extension of a formal
+              language by new symbols has different uses in automated deduction, e.g., in
+              congruence closure algorithms.  This research aims at developing a theory of
+              congruence closure as saturation-based decision procedures, to include not only
+              standard congruence closure, but also extensions to richer theories and
+              elimination methods for translating back to the original
+              language.
+
+Saturation techniques have been implicitly used in computer
+              algebra methods such as Buchberger's algorithm or Wu's method for proving
+              theorems in geometry.  The plan is to reformulate these methods in logical
+              terms so as to integrate them in general-purpose provers and apply theorem
+              proving techniques to obtain optimized or extended decision procedures.
+

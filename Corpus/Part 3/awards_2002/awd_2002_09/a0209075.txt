@@ -1,0 +1,100 @@
+Title       : Interaction Analysis for Integrated Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 24,  2002      
+File        : a0209075
+
+Award Number: 0209075
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: Martin Rinard rinard@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Rinard, Martin
+CCR-0209075
+
+The project will investigate a new program
+              analysis, interaction
+analysis, and a new set of implementation techniques to
+              support
+future generations of embedded systems. Instead of executing
+              low-level
+code whose sole responsibility is to control a specific piece
+              of
+hardware, these future systems will be built in a layered fashion,
+with
+              the core control software surrounded by outer layers of software
+that
+              integrate the core software and the device that it controls into
+a larger
+              integrated, distributed system of devices and users.
+The key challenge
+              associated with realizing this vision is the need to
+effectively apply
+              implementation mechanisms that enable the outer
+layers to share the hardware
+              device without disrupting the actions of
+the time and safety critical core
+              code. The economics of developing
+large software systems will ensure that most
+              of the outer layers will
+consist of standard, off-the-shelf software
+              components from the world
+of laptop, desktop, and server computing. The outer
+              layer software
+will therefore have been developed to use implementation
+              mechanisms
+that are unsuited for use in time-critical control
+software.
+              Nevertheless, the core software and the outer layer software
+will need to
+              interact. With standard implementation mechanisms,
+interactions mediated by
+              objects shared with outer layers could easily
+lead to unacceptable delays and
+              a loss of real-time control in the
+core.
+The focus of this research is the
+              development and investigation of new
+interaction analysis algorithms that
+              extracts the interaction patterns
+between the core and outer layers, then uses
+              these patterns to
+classify objects into several categories. Each category can
+              then use
+an implementation mechanism appropriate for how it is used in
+              the
+system. The end result is a system in which the outer layers and
+              core
+software effectively cooperate without a loss of safety
+              or
+predictability.
+The envisioned analysis has several properties that will
+              make it
+suitable for this application. First, it is capable of extracting
+              a
+meaningful result with an analysis of only part of the program.
+Second, it
+              can effectively analyze the multithreaded programs that
+come from the
+              integration of the outer layers and the core. Third, the
+partial analysis is
+              goal-driven to extract the required information
+with an analysis of only those
+              parts of the program required to obtain
+the result.
+

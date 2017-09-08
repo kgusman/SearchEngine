@@ -1,0 +1,47 @@
+Title       : CAREER: Virtual Machine-Based Dynamic Analysis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 4,  2000    
+File        : a9875783
+
+Award Number: 9875783
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1999     
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: John Chapin   (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9150,9216,HPCC,
+Abstract    :
+              9875783 John Chapin
+This is a project to build tools for the dynamic analysis
+              of parallel servers, and to develop educational techniques for improving the
+              teaching of dynamic analysis skills. Parallel servers include operating
+              systems, web servers, and other applications which must run forever and respond
+              to multiple requests in parallel. Parallel servers are difficult to test and
+              debug using current approaches due to their inherent nondeterminism.  Better
+              dynamic analysis tools are a critical step towards improving the reliability of
+              this important class of programs. The core technology developed in this project
+              is a Java virtual machine specifically designed so that tools can easily
+              monitor and control the execution of Java programs. A hypothesis of the project
+              is that the use of such a tool platform will significantly simplify the
+              construction of analysis tools. The project is building three major tools. A
+              bidirectional debugger provides reverse in addition to forward execution
+              commands. An exhaustive-search tester supports thorough analysis of
+              timing-dependent behaviors. An exploratory modeling tool automates the
+              documentation and checking of the developer's evolving understanding of program
+              behavior. These tools will be deployed in undergraduate classes and integrated
+              into curricular materials developed to help teach dynamic analysis
+              techniques.
+

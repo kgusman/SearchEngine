@@ -1,0 +1,41 @@
+Title       : Staged Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 7,  1999      
+File        : a9619832
+
+Award Number: 9619832
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1997       
+Expires     : April 30,  2000      (Estimated)
+Expected
+Total Amt.  : $281165             (Estimated)
+Investigator: Peter Lee petel@cs.cmu.edu  (Principal Investigator current)
+              Frank Pfenning  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9619832  The goal of the research is to develop the notion of "staged 
+              computation." Intuitively, the idea is to execute programs  and use the results
+              of early computations to optimize later  computations. This is accomplished by
+              making use of both  partial evaluation and run-time code generation. The 
+              research investigates to what extent staged computation can  be exploited to
+              improve the adaptability and safety of  software while achieving good
+              performance. The focus of the  work is the design of an expressive type system
+              for staged  computation at the source level, a typed intermediate  language
+              within a compiler, and code generation technology  to take advantage of
+              explicit computation stages. The  starting point for the investigation is the
+              ML language. The  proposed research is expected to lead to new compiler 
+              technology that will support, in an integrated way, a  significantly larger
+              class of optimizations than is  currently possible, including both link-time
+              and run-time  optimization of code.  ***

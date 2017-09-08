@@ -1,0 +1,120 @@
+Title       : Integrated, scalable MBS for flow through porous media
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : September 14,  2000 
+File        : a0084554
+
+Award Number: 0084554
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard J. Fragaszy                     
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2000 
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $150071             (Estimated)
+Investigator: Dimitrios V. Papavassiliou dvpapava@ou.edu  (Principal Investigator current)
+              Henry J. Neeman  (Co-Principal Investigator current)
+              Musharraf M. Zaman  (Co-Principal Investigator current)
+Sponsor     : U of Oklahoma
+	      1000 Asp Avenue, Room 314
+	      Norman, OK  73019    405/325-4757
+
+NSF Program : 1634      GEOMECHANICS & GEOTECHNIC SYST
+Fld Applictn: 0106000   Materials Research                      
+Program Ref : 1039,1624,1634,9150,CVIS,
+Abstract    :
+              Fluid flow through porous materials is critical for understanding and predicting
+              the behavior of systems as diverse in function and scale as hydrocarbon
+              reservoirs, aquifers, separation tower and
+reactor units with packed beds,
+              filters, membrane separators and even catalytic converters.  Recently, there
+              has been a thrust to incorporate more physics in reservoir simulations, as well
+              as a
+call for substantial improvements in computational capability through the
+              use of High Performance Computing (HPC), in order to improve reservoir
+              management. This need has
+become particularly critical as oil and gas prices
+              have fluctuated within one year from the lowest
+level of the past two decades
+              to the highest. The goal of this project is to develop an integrated
+simulator
+              for flow through heterogeneous porous materials using a hierarchy of
+              simulations.
+Current approaches involve the use of simulations having a single
+              physical scale. However,
+recent advances in HPC have made it possible to
+              increase significantly the problem size and to
+use more sophisticated
+              approaches. The challenge is to combine the individual simulations into
+              an
+integrated multiscale system that will be able to include all physical
+              scales and will self-adjust in
+accordance with the input data. Emphasis will
+              be placed on the portability, scalability, efficiency
+and extensibility of the
+              final product. The proposed simulator will be an improved prediction tool
+for
+              hydrocarbon reservoir management and will be ready for use on integrated grid
+              architectures,
+as they become available.
+
+Flow through porous media is a
+              multi-scale phenomenon. Microscopic scale simulation, based on
+Lattice
+              Boltzmann Methods, will be used for the direct simulation of flow through
+              porous materials. Microtomographic digital images of rock samples will be used
+              to realistically
+represent the spatial domain subjected to flow, taking
+              advantage of the flexibility of Lattice
+Boltzmann Methods. At the mesoscopic
+              scale, stochastic methods will be used for the systematic
+isolation and study
+              of the effects of microscopic features of rock structure on the flow field.
+              The
+stochastic approach will also be used to develop a method for rock
+              property characterization. A
+macroscopic simulation, based on conventional
+              finite difference methods, will be used to test the
+impact of modified flow
+              models on hydrocarbon production at reservoir scale. The
+              macroscopic
+simulation will incorporate the behavior of production/injection
+              wells (which form singularities in
+a reservoir model) over the life of a
+              reservoir. It will also incorporate coupling of flow with
+geomechanics
+              (porosity-dependent permeability and non-Darcy coefficients). The
+              education
+effort resulting from this project will emphasize the training of
+              undergraduate students in the use
+of HPC resources.
+
+This research will: (i)
+              improve our understanding of the fundamental flow mechanisms;
+(ii) update the
+              model for non-Darcy flow through anisotropic porous materials; and (iii)
+              integrate
+the presence of discontinuities, such as wells and fractures, in the
+              simulation. The innovations of
+the proposed study include: (a) use of
+              state-of-the-art simulations at different scales; (b) use of
+experimentally
+              measured quantities to deduce the properties of the porous medium and to
+              update
+flow models; (c) integration of the individual components of a set of
+              prototype software into a
+seamless simulator for industrial use; and (d)
+              application of a hybrid of shared-memory and
+distributed parallelism to
+              achieve scalability on a variety of HPC architectures.  The research project
+              will be extremely valuable for the educational experience of the graduate
+              students involved. Its educational aspect will also involve the incorporation
+              of HPC  applications in the undergraduate curricula of three Departments and
+              the development of research projects for Research Experience for
+              Undergraduates. It will, thus, prepare a large group of the technical workforce
+              of our State to the useful aspects of HPC applications and to interact with HPC
+              infrastructure.
+

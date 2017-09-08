@@ -1,0 +1,47 @@
+Title       : Techniques for Fault-Tolerant Communication in Parallel Computers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 27,  1995  
+File        : a9525887
+
+Award Number: 9525887
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1996    
+Expires     : December 31,  1998   (Estimated)
+Expected
+Total Amt.  : $153756             (Estimated)
+Investigator: Robert Cypher cypher@cs.jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              The project studies techniques for performing efficient  communication in
+              parallel computers that have faulty components.   Parallel computers with a
+              large number of identical processors have  a great potential for
+              fault-tolerance.  The main challenge that  must be overcome in order to exploit
+              this potential for fault-  tolerance is the fact that faults also affect
+              communications  between processors.  Hardware faults in processors, routers,
+              and  communication links force messages to take new paths that avoid the 
+              faulty components.  In addition, the mapping of computations from  faulty
+              processors to nonfaulty ones changes the pattern of  communication.  As a
+              result, faults can have a major impact on the  performance, and even
+              correctness, of the communication subsystem  in a parallel computer. 
+              Specifically, the project focuses on the  following two key issues; creating
+              efficient, deadlock-free routing  algorithms for parallel computers with faulty
+              components, and  developing efficient mappings of communication-intensive
+              real-time  applications to parallel computers that contain faults.  This 
+              research will result in more efficient use of parallel computers  and a better
+              understanding of how their inherent potential for  fault-tolerance can be
+              utilized.

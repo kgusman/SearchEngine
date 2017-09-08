@@ -1,0 +1,40 @@
+Title       : Parallel I/O for 3D Volume Visualization
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : May 1,  1995        
+File        : a9502067
+
+Award Number: 9502067
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $165000             (Estimated)
+Investigator: Tzi-Cker Chiueh chiueh@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 1045,2891,9215,9251,HPCC,
+Abstract    :
+              This project is applying parallel I/O technology to reduce I/O  delay in volume
+              visualization.  Volume images that arise from such  applications as computer
+              tomography and 3D ultrasound are too large  to fit within random access frame
+              buffers.  As a result, disk I/O  is in the critical path for volume rendering. 
+              This project is  exploring the use of a new parallel volume rendering technique
+              that  traverses 3D data sets in an order that eliminates I/O conflicts in  a
+              parallel disk array.  Consequently, the entire bandwidth of the  disk array is
+              available to the rendering application.  In this  project, a high performance
+              volume visualization server using this  idea is being designed, implemented
+              with off-the-shelf components,  and evaluated.    A supplement supporting
+              Research Experiences for Undergraduates  will permit advanced undergraduate
+              students to contribute to the  project by implementing and measuring I/O
+              intensive applications.  JUSTIFICATION

@@ -1,0 +1,51 @@
+Title       : PDS: Architecture, Algorithms and Applications for Future Generation
+               Supercomputers
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 10,  1997   
+File        : a9634719
+
+Award Number: 9634719
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Vipin Kumar kumar@cs.umn.edu  (Principal Investigator current)
+              Ahmed H. Sameh  (Co-Principal Investigator former)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              This research proposes a preliminary evaluation of enabling technologies for 100
+              TeraFLOP class computers.  The research is broadly classified into the
+              following parts: architectures (single node architecture, parallel
+              architecture), system software (languages, compilers, programming tools and
+              environments), algorithms (design models, performance and scalability) , and
+              applications (scaling and realizable performance).  Single node architectures
+              for future generation computers will exploit considerable implicit parallelism.
+               Candidate technologies for single node architectures include super-scalar
+              execution, very long instruction words, simultaneous hardware multithreading,
+              and processors-in-memory.  The PIs propose a processor architecture based on
+              the VLIW with possible implementations using PIMs.  Parallel architectures are
+              based on clusters of these nodes in a hierarchical network.  Due to the large
+              number of computational units, algorithm design and scalability issues become
+              critical.  Hierarchical decomposition of problems with an emphasis on proper
+              mapping to the underlying architecture is necessary.  Whereas problems at
+              higher levels must be loosely coupled, they can be very tightly coupled at
+              lower levels.  Alternate algorithm design methodologies and abstract machine
+              models must be constructed.  Finally, the scope of applications that can
+              effectively use these architectures needs to be identified. This research will
+              perform a study of each of these aspects of future generation computers.  The
+              PIs expect to draw heavily from their experience in the design of scalable
+              parallel algorithms and architectures and from the CEDAR project.

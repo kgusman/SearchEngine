@@ -1,0 +1,60 @@
+Title       : CAREER: Incorporating Technology Scaling into the Design, Evaluation, and
+               Implementation of Computer Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 10,  2000    
+File        : a9984336
+
+Award Number: 9984336
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $201020             (Estimated)
+Investigator: Stephen W. Keckler skeckler@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              
+ABSTRACT
+PROPOSAL NUMBER: 9984336
+TITLE: Incorporating Technology Scaling
+              into the Design, Evaluation, and Implementation of Computer Architectures
+PI:
+              Stephen W. Keckler, University of Texas at Austin
+		 
+The objectives for the
+              research funded by this CAREER proposal are to investigate computer
+              architectures that simultaneously address the challenges of deep-submicron
+              technologies and meet the needs of modern dynamic applications.  The most
+              significant technology challenges are the diverging speeds of transistors and
+              wires, increased power consumption and heat generation in integrated circuits,
+              and higher susceptibility to transient logic faults due to decreasing feature
+              sizes.
+
+This research includes three components. First, accurate technology
+              models for future silicon fabrication technologies are developed. The focus is
+              on communication delay, both along wires and within microarchitecture
+              structures such as register files and ALUs and on the reliability of
+              microprocessor components when subjected to external energy sources.  Second,
+              these models are incorporated into the SimpleScalar toolset to evaluate
+              existing architectures under these new technological constraints and provide a
+              platform for evaluating future architectures.  Third, multiple processor cores
+              on a chip are investigated as a means to construct a "server-on-a-chip" and to
+              build a system that tolerates transient faults.  The necessary features of this
+              multicore architecture are hardware and system software that dynamically
+              schedule jobs to meet latency, throughput, and redundancy (for reliability)
+              requirements of the workloads.
+
+
+

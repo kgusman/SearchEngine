@@ -1,0 +1,70 @@
+Title       : Multithreaded Execution of Object Oriented Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 27,  1999 
+File        : a9902748
+
+Award Number: 9902748
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $189308             (Estimated)
+Investigator: Dharma P. Agrawal dpa@ececs.uc.edu  (Principal Investigator current)
+Sponsor     : U of Cincinnati
+	      Mail Location 627
+	      Cincinnati, OH  45221    513/556-6000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,9216,HPCC,
+Abstract    :
+              Development  of  software  in  OO  languages  has   become   very
+widespread 
+              in  every sphere of computing. On the hardware front,
+multithreaded 
+              high-performance  workstations  and  future   VLIW
+machines  or  SMP 
+              workstations  have  emerged  as  an affordable
+alternative  to  distributed 
+              and   parallel   computing.   These
+machines, single- or multi-CPU, are often
+              equipped with operating
+system supported multithreading and are usually
+              connected through
+a  communication  network.   This  proposal  intends to
+              develop a
+platform  for  partitioning  and  scheduling  OO   programs  
+              for
+concurrent execution on a multithreaded system. The first step
+              of
+proposed work is to perform coarse-grained  program  partitioning
+of  the 
+              flow  graph into tasks. We have successfully implemented
+such an experimental
+              framework for programs written  in  C  using
+the  Unravel flow graph and Metis
+              graph partitioning package. The
+next step of our approach is to build  a 
+              framework  for  runtime
+concurrent  execution  of the partitioned flow graph
+              based on our
+>experience of the Threaded-Executor model.   We  plan  to 
+              extend
+this  implementation  to  experiment with our recently
+              introduced
+Scalable Task Duplication Based Optimal Scheduling Algorithm. 
+              We
+also   propose   to   investigate  opportunities  for 
+              extracting
+instruction  level  parallelism  more   aggressively   for  
+              VLIW
+architectures  as  a result of better static type information
+              and
+interprocedural analysis.
+

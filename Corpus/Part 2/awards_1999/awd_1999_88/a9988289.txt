@@ -1,0 +1,85 @@
+Title       : Tight Frames of Rational Splines and Application to CAD/CAM and Computer
+               Graphics
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 23,  2000      
+File        : a9988289
+
+Award Number: 9988289
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $193986             (Estimated)
+Investigator: Charles K. Chui chui@arch.umsl.edu  (Principal Investigator current)
+              Wenjie He  (Co-Principal Investigator current)
+Sponsor     : U of Missouri Saint Louis
+	      8001 Natural Bridge Road
+	      Saint Louis, MO  631214499    314/516-5897
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+Cardinal splines (i.e. splines with equally-spaced knots) provide a
+              
+canonical example for demonstrating the mathematical structure of
+              
+multiresolution analysis (MRA), which is a very powerful tool for the
+              
+construction of orthogonal, semi-orthogonal, and bi-orthogonal 
+wavelets. 
+              However, for practical applications, splines with arbitrary 
+knots are often
+              needed; and although the multi-level (ML) structure of 
+spline subspaces is
+              still valid, the Fourier approach to the study of 
+cardinal splines and their
+              corresponding wavelets no longer applies to 
+this more general study.  In
+              addition, even for the cardinal setting, 
+orthogonal and semi-orthogonal
+              splines must be replaced by tight affine 
+(or wavelet) frames when compact
+              support (or finite time-duration) is 
+needed for both spline-wavelet analysis
+              and spline-wavelet synthesis.  
+Furthermore, for CAD/CAM applications, there
+              is also the need of 
+rational B-splines (or NURBS) for precise representation
+              of various 
+geometric objects such as conic sections.
+
+This proposal is
+              based on our recent results on tight frames of 
+cardinal splines and on our
+              newly developed complete ML structure of 
+NURBS in terms of their weights. We
+              propose to introduce non-stationary 
+time-domain techniques to build a unified
+              mathematical foundation of 
+tight affine frames of compactly supported splines
+              with arbitrary 
+knots, and more generally, of NURBS.  This will be followed by
+              
+development of efficient algorithms and computational schemes 
+associated
+              with these new basic functions, which will be used as 
+analysis and synthesis
+              tools for CAD/CAM and computer graphics 
+applications.  We also propose to
+              develop software libraries of these 
+analysis and design tools that will be
+              fully compatible with the 
+industrial standards such as IGES, STEP, and PHIGS,
+              for the CAD/CAM/CAE 
+industries.
+
+
+

@@ -1,0 +1,46 @@
+Title       : Career: Efficient Machine-Independent Programming of High- Performance
+               Multiprocessors
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 25,  2001     
+File        : a9625531
+
+Award Number: 9625531
+Award Instr.: Continuing grant                             
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Chau-Wen Tseng tseng@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              The goal of this project is to develop compilation techniques to support
+              efficient machine-independent programming of high-performance multiprocessors
+              through implementation of COSMIC, the "Communication-Optimizing, Shared-Memory
+              Integrated Compiler."  To achieve high performance, COSMIC will apply
+              optimizations for locality, synchronization, communication, and memory system
+              effects.  COSMIC follows two basic guidelines.  First, it uses compilation
+              techniques for message-passing machines to retain most of the benefits of
+              explicit messages.  Second, it exploits architectural and operating system
+              support available on shared-memory multiprocessors to improve flexibility and
+              performance.  A novel characteristic of COSMIC will be its ability to take
+              advantage of the multiple coherence protocols and hybrid message-passing
+              support found in software Distributed -Shared-Memory (DSM) systems and
+              Flexible-Shared-Memory system (FSM) machines.  To evaluate the impact on the
+              performance of scientific applications, COSMIC will be tested on programs from
+              benchmark suites such as Perfect, NAS, SPEC, and SADIE, as well as
+              representative applications (e.g., CHARMM, MOLDYN, DSMC, EULER, NRL Flame) from
+              fields such as computational chemistry, computational fluid dynamics, and
+              computational combustion.

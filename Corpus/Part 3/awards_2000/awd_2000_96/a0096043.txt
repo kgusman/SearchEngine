@@ -1,0 +1,65 @@
+Title       : Reconsidering Fragmentation and Reassembly
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : October 27,  1999   
+File        : a0096043
+
+Award Number: 0096043
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $71343              (Estimated)
+Investigator: George Varghese varghese@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Reconsidering Fragmentation and Reassembly    The Internet Protocol(IP)'s
+              success for the last 15 years, during  which several new technologies emerged,
+              is due to its support for  diversity.  IP's solution to the use of different
+              maximum packet sizes  on different networks is to split packets that are too
+              big into fragments,  and to reassemble these fragments at the destination.   
+              This project reconsiders several issues related to fragmentation and 
+              reassembly IP.  Reassembly is reconsidered first.  The current  reassembly
+              algorithms are too slow.  A simple expected case  optimization can be used to
+              improve reassembly performance to 38  instructions per fragment if the
+              fragments arrive in FIFO order; a  goal for this project is to implement this
+              optimization in the NetBSD  UNIX kernel.  The project also introduces the new
+              idea of Graceful  Intermediate Reassembly (GIR), which is a generalization of
+              the  existing IP mechanisms of destination and hop-by-hop reassembly.  In  GIR,
+              fragments are coalesced at an intermediate router in order to use  the largest
+              sized packets on its outgoing interface.  It can be shown  that GIR always
+              outperforms the usual IP mechanism of hop-by-hop  reassembly.  A goal for this
+              project is to modify existing IP router  code to show that GIR can be
+              implemented economically in routers with  small processing and memory costs.   
+              The project also reconsiders fragmentation.  It is shown that that  avoiding
+              fragmentation has costs of its own in terms of increased  packet processing
+              and/or round-trip delays.  Measurements are  described in which TCP performance
+              improves after turning on  fragmentation.  For example, on Ethernet under
+              NetBSD using a 536 byte  segment size for TCP results in a throughput of only
+              about 6Mb/s,  whereas a throughput of 8.45Mb/s is obtained using a segment size
+              of  1460 bytes (without fragmentation) and a throughput of 8.82Mb/s using  a
+              segment size of 16260 bytes with fragmentation.  The project will  also
+              investigate simple performance models th at can be used to  determine when
+              fragmentation is beneficial.          Finally, the project address the major
+              disadvantages of fragmentation.  A major problem is that when a fragment is
+              lost, the entire TCP segment must  be retransmitted, resulting in reduced or
+              zero goodput under loss.  A  new mechanism --- dynamic segment sizing, in which
+              the segment  size is dynamically reduced after loss --- is introduced, which
+              addresses  this problem.  Simulations (using a modified NetBSD kernel)  will be
+              used to show that dynamic segment sizing keeps the goodput at  reasonable
+              levels even under extremely lossy conditions.  All  mechanisms (reassembly
+              optimization, GIR, and dynamic segment sizing)  are orthogonal and can be
+              applied to other protocol suites besides  TCP/IP.  Ongoing information about
+              the status of this project can be found  in
+              http://dworkin.wustl.edu/~varghese/FRAG/fraginfo.html

@@ -1,0 +1,55 @@
+Title       : Distributed Simulation: New Performance Results and New Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 27,  1992       
+File        : a9110347
+
+Award Number: 9110347
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : June 30,  1994       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Devendra Kumar   (Principal Investigator current)
+Sponsor     : Case Western Reserve
+	      Adelber Hall Rm. 4
+	      Cleveland, OH  441067015    216/368-4510
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              The objective is to study how good or bad distributed simulation is            
+              for the simulation of a few specific systems; these systems are                
+              queuing networks, timed petri nets, and logic circuits.  Regarding             
+              queuing networks and logic circuits, the performance of three well             
+              known distributed simulation schemes will be studied.  Regarding timed         
+              petri nets, new distributed simulation algorithms will be developed            
+              and their performance studied.                                                 
+                                                                                             
+              This approach aims to answer several questions that have remained              
+              unanswered previously - relationship between overhead and performance,         
+              ideal speedups that one can expect, and relationship between the               
+              simulator parameters (such as delays on communication lines) and               
+              performance.  The essential elements of the approach are (i) simulate          
+              the distributed simulator instead of directly implementing it on a             
+              machine, which makes it easy to vary parameters such as communication          
+              delays, computation times etc.  (ii) study the relationship between            
+              overhead and performance by varying computation and communication              
+              times for overhead messages, and (iii) define and measure certain              
+              notions of ideal speedup that are more realistic than simply the               
+              number of processors.                                                          
+                                                                                             
+              The immediate benefit of this research would be to provide a better            
+              understanding of several performance issues, e.g., what is the cause           
+              of low performance -- too many overhead messages or lack of potential          
+              parallelism in the system?  It is commonly believed that overhead is           
+              the main problem.  This is not true in many cases.  In the long term           
+              this will lead to high performance distributed simulators custom               
+              designed for specific classes of systems.

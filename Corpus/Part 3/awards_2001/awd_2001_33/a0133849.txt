@@ -1,0 +1,97 @@
+Title       : CAREER: Approximate Algorithms for High-dimensional Geometric Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 29,  2002     
+File        : a0133849
+
+Award Number: 0133849
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  2002      
+Expires     : January 31,  2007    (Estimated)
+Expected
+Total Amt.  : $324894             (Estimated)
+Investigator: Piotr Indyk indyk@theory.lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 1045,2860,9216,HPCC,
+Abstract    :
+              This Career Development Plan involves an integrated collection of research and
+              
+educational activities focused on algorithms for high-dimensional 
+geometric
+              problems.
+
+Geometric computing with high-dimensional data is of crucial
+              importance to 
+many areas of computer science, including  machine learning,
+              data mining, 
+databases and information retrieval, computer vision and
+              computational biology.
+Example problems in this area are: nearest neighbor
+              search, many variants of 
+data clustering, and discovering linear structure of
+              the data (e.g. via 
+Principal Component Analysis (PCA)). 
+Unfortunately, the
+              classical geometric algorithms for many of these problems 
+do not scale well
+              with the dimension. For example, the running times of the 
+classical
+              algorithms for the nearest neighbor search depend exponentially 
+on the
+              dimension, which makes them inefficient for dimension higher than, 
+say, 20.
+              This is unfortunate, since many applications involve number of 
+dimensions
+              anywhere from a few hundred to a few million.
+
+In recent years, new, powerful
+              techniques for solving these
+problems have been discovered, most notably
+              dimensionality reduction and 
+random sampling in geometric spaces. The
+              algorithms obtained using those 
+techniques enjoy very low (at most linear)
+              dependence on the dimension, 
+at the cost of providing approximate answers.
+              The problems amenable to 
+these techniques include nearest neighbor search,
+              clustering and PCA.
+However, the algorithmic solutions to these problems still
+              possess 
+(sometimes quite severe) limitations. Our goal is to identify methods
+              for 
+circumventing these limitations and making the algorithms efficient, both
+              
+in theory and in practice.
+
+
+The techniques which led to the development
+              of the aforementioned 
+algorithms are new and still not widely known. 
+They
+              include many tools which have been developed during 70s and 80s 
+in the field
+              of mathematics called functional analysis. 
+However, computer scientists
+              became aware of those methods only very recently,
+and many of the fundamental
+              results are still not widely known or used.
+Therefore, it is important to make
+              these results accessible to large computer 
+science audience so that they can
+              be successfully used, investigated and 
+developed. In the Education Plan
+              section we outline a plan on how to make 
+them more accessible to students as
+              well as computer scientists.
+

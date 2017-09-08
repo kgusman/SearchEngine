@@ -1,0 +1,112 @@
+Title       : Multivariate Nonparametric Methodology Studies
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 4,  1998     
+File        : a9626187
+
+Award Number: 9626187
+Award Instr.: Continuing grant                             
+Prgm Manager: James L. Rosenberger                    
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 15,  1996      
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $219081             (Estimated)
+Investigator: David W. Scott scottdw@rice.edu  (Principal Investigator current)
+              Dennis D. Cox  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9187,9216,EGCH,HPCC,
+Abstract    :
+              DSM9616187  Scott    Nonparametric methodology is widely used in one and two
+              dimensions, but not  in high dimensions.  This research focuses on the
+              mid-range dimensions and  provides a deeper understanding of the implications
+              of the curse of  dimensionality and related problems associated with massive
+              data sets.  Particular emphasis has been given to multivariate regression and
+              density  estimation problems, and closely related applications such as
+              clustering  and ridges.  Anecdotal evidence has suggested a gap between the
+              apparent  successes of nonparametric methodology in practice and the poor
+              performance  predicted by theory.  We have examined new points of view,
+              especially related  to locally adaptive estimation.  Higher quality estimation
+              has often required  use of negative kernels, but our results have shown that
+              equivalent gains  are possible in regions where the Hessian is indefinite,
+              often in the tails  which dominate in higher dimensions.  In addition, we have
+              developed a  class of locally adaptive but not higher order algorithms that
+              work  better in practical problems and avoid problems of negativity.  We have 
+              addressed problems arising from high dimensionality in several ways.  We have
+              created algorithms for finding interesting subspaces from the density 
+              estimation point of view.  Such subspaces are defined by maximal bias content, 
+              sequentially peeling off low bias subspaces.  We have examined semiparametric 
+              models for density estimation that can work better than ordinary nonparametric 
+              algorithms, extending feasibility by several extra dimensions.  Visualization 
+              is especially important when dealing with medium dimensional data and the 
+              growing body of massive data sets.  One example of a new visualization tool  is
+              provided by the density grand tour, which performs an ordinary grand tour  but
+              displays a real-time view of a derived density estimate, the averaged  shifted
+              histogram.  We have found that traversing ridges and contours is useful  to
+              control or constrain viewing.  We h ave extended our density visualization 
+              capabilities to regression surfaces and related problems in visual clustering 
+              and visual discrimination applications.  Visualization is also important  for
+              organizing complicated multiple testing problems is clustering, such as  our
+              results in mode estimation and testing based on the mode tree.  We have 
+              investigated a local testing algorithm for collapsing modes as the basis for 
+              an improved clustering algorithm.  A natural extension has been demonstrated 
+              for multiprocessor and parallel architectures for massive data sets.  A great
+              challenge in mathematical sciences is provided by massive data sets.  At a
+              recent National Research Council workshop, numerous scientists identified 
+              critical statistical needs in their work:  alternatives to principal 
+              components, specialized visualization tools for exploring massive data,  better
+              clustering algorithms, and techniques for handling nonstationary data.  Results
+              from our research directly impact three of these four critical  opportunities. 
+              This program represents a comprehensive and long-term attack  on a host of
+              important data analytic problems in multivariate estimation.  %%%  Statistical
+              techniques that do not require formulae to be written down  explicitly are
+              called nonparametric methods and include the well-known  histogram as a simple
+              example.  Such techniques are widely used with data  in one and two dimensions,
+              but not in higher dimensions where most of the  grand challenge problems are to
+              be found.  This research focuses on  the mid-range dimensions where many
+              serious theoreticians have  expressed concern that nonparametric methods may
+              not work.  However, it is  well-known that many practicing scientists and
+              engineers have been  successfully using nonparametric methods with data from
+              signal processing,  image understanding, data mining, among a wide array of
+              real problems.  This research is providing a deeper understanding of the
+              implications of  the so-called curse of dimensionality and particular p roblems
+              associated  with massive data sets.  Particular emphasis is given to problems
+              in  multivariate regression and density estimation, as well as closely  related
+              applications such as clustering and ridges.  We have obtained  a new
+              understanding of how locally adaptive estimation should work  in overcoming the
+              usual limitations of nonparametric methodology in  several dimensions.  For
+              higher dimensional data, we have developed  algorithms for finding maximally
+              interesting subspaces from the density  estimation point of view.  Such
+              subspaces are defined by maximal bias  content and are constructed
+              sequentially, peeling off low bias subspaces.  Beyond two dimensions,
+              visualization is a critical task, especially as  related to the growing body of
+              massive data sets.  One example of a success  is provided by our new density
+              grand tour, which provides a new way  of looking at high dimensional data in
+              real-time. We have extended our  density estimation visualization capabilities
+              to regression surfaces.  Visualization is also very useful for examining data
+              to detect the  presence of clusters.  Such clusters are critical for
+              determining  the usefulness of data collected for proposes such as character 
+              recognition, remote sensing crop identification, ground water pollution,  as
+              well as many more specialized engineering and scientific applications. 
+              Multiprocessor and parallel architectures versions of these algorithms  are
+              particularly relevant in the massive data set situation.  A great challenge in
+              mathematical sciences is provided by handling  massive data sets.  At a recent
+              National Research Council workshop,  numerous scientists identified critical
+              statistical needs in their work:  alternatives to principal components,
+              specialized visualization tools  for exploring massive data, better clustering
+              algorithms, and techniques  for handling nonstationary data.  Results from our
+              research directly  impact three of these four critical opportunities.  This
+              program represents  a comprehensive and long-term  attack on a host of
+              important data analytic  problems in multivariate estimation.  Nonparametric
+              methodology seems to work  well in the hands of experts, and this research is
+              designed to not only aid  the expert but to facilitate the use of the
+              methodology by a wider audience.  ***

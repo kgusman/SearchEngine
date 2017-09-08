@@ -1,0 +1,51 @@
+Title       : Automatic Generation of Incremental Environments for Digital Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 29,  1992 
+File        : a9101051
+
+Award Number: 9101051
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1991 
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $113296             (Estimated)
+Investigator: Duncan H. Lawrie lawrie@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 4710,
+Abstract    :
+              Existing incremental switch-level simulators are interpretive in               
+              the sense that, upon stimulation of a transistor sub-network, they             
+              use a graph representation method to dynamically evaluate its                  
+              function.  In contrast, compiled switch-level simulators hardcode              
+              their evaluation procedures into fast boolean operations and                   
+              exploit the bit parallelism inherent in machine words.                         
+                                                                                             
+              This research examines compiled simulation techniques in the                   
+              context of incremental capture and simulation.  A prototype system             
+              capable of automatically generating compiled incremental                       
+              resimulators is being built.  This generation system is designed               
+              to interface directly with an incremental capture environment                  
+              system and to generate incremental resimulators that will interface            
+              directly with ICE.  Specific problems being addressed include:  (1)            
+              using boolean logic equations and/or binary decision diagrams as               
+              a basis for incremental switch-level simulation; (2) exploiting the            
+              user-defined hierarchy to accelerate incremental circuit analysis:             
+              (3) investigate bit parallelism in incremental simulation; (4)                 
+              automatically generate compiled incremental resimulators; and (5)              
+              explore time and space efficient methods for storing design                    
+              information and history traces (data compression and data                      
+              persistence).

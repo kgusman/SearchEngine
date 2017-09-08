@@ -1,0 +1,104 @@
+Title       : Device Controller Synthesis for Systems of Interacting Discrete-State Components
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 19,  2002      
+File        : a0115694
+
+Award Number: 0115694
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $219999             (Estimated)
+Investigator: Lawrence E. Holloway holloway@engr.uky.edu  (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      109 Kinkead Hall
+	      Lexington, KY  405060057    859/257-8311
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              With complex systems, monolithic models become impractical and it
+              becomes
+necessary to model them through subsystems and components. Development
+              of control
+logic for such systems also becomes complex, unless the structure
+              of the subsystems
+and components can be exploited in a systematic way. In this
+              proposal, we consider the
+development of methods that use the structure of
+              discrete-state model components for
+synthesizing control logic and diagnostic
+              information. These methods are automated,
+generating formal control logic
+              models that can be analyzed, generating control software
+that can be executed,
+              and generating diagnostic models that can provide fault diagnosis
+hypotheses.
+              Such automated methods would reduce controller development time, would
+provide
+              enhanced reliability compared to manually developed controllers, and would
+              be
+automatically reconfigured as underlying system designs are modified. In
+              this research,
+we propose to develop such tools and techniques by building
+              upon our prior research. In
+our previous research, techniques were developed
+              for: modeling common components
+of manufacturing systems; assembling such
+              components together to represent custom
+system designs; synthesizing control
+              logic called "taskblocks" for control of those
+components; and assembling
+              those taskblocks together sequentially and hierarchically
+in order to achieve
+              given specifications. Software tools were developed for graphical
+entry of the
+              component models and the specifications, and for automatically converting
+the
+              synthesized control logic into C++ code. An automatically synthesized
+              software
+"supervisor" then coordinates the multiple concurrent control
+              activities, steering the
+system around undesired states. The models we
+              consider are a form of discrete event
+system, and the synthesis techniques
+              build upon discrete event control methods.
+There are several unresolved issues
+              with this current approach that will be addressed in
+the proposed research.
+              One major emphasis of this work is recognizing and exploiting
+the multiple
+              layers of interaction with components of the system. The modeling frame-
+work
+              and our current analysis methods are ideally suited for such models of
+              interacting
+components, but they must be extended in order to compactly
+              represent components
+with large state spaces. A second issue involves the
+              timed dynamics of the system.
+Some activities may be time critical, such as
+              turning off an actuator within a certain
+period of time or immediately upon
+              receipt of a sensing. The synthesized control
+software should consider such
+              time issues, and should ensure appropriate priorities
+among various
+              potentially concurrent activities. Finally, we propose to extend our
+              current
+software tools to become a resource for other researchers and
+              educators. This would
+allow others to test, develop, and evaluate other
+              techniques using our graphical system
+editor, our code synthesis tool, and our
+              hardware interface techniques. The automated
+control synthesis and diagnostic
+              synthesis techniques will be demonstrated using both
+manufacturing and
+              embedded control applications.

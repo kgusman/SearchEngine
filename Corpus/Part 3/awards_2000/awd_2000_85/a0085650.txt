@@ -1,0 +1,119 @@
+Title       : Developing a Model to Map Global Positioning System (GPS) Data onto
+               Transportation Networks
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : June 29,  2001      
+File        : a0085650
+
+Award Number: 0085650
+Award Instr.: Standard Grant                               
+Prgm Manager: Miriam Heller                           
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2000 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $65415              (Estimated)
+Investigator: Lisa Aultman-Hall   (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      201 Kinkead Hall
+	      Lexington, KY  405060057    /   -
+
+NSF Program : 1638      INFRASTRUC SYS MGMT & HAZ RESP
+Fld Applictn: 
+Program Ref : 1039,1607,9150,CVIS,
+Abstract    :
+              The United States' global positioning system (GPS), NAVSTAR, consists of
+              a
+constellation of 24 satellites orbiting in high altitude. GPS
+              receivers
+that can be placed in any type of vehicle, including automobiles,
+              trucks,
+buses, airplanes, trains and ships, calculate their position on the
+              earth
+based on their distance from four or more of these satellites. This
+              ability
+to determine the location of vehicles in time has many useful
+              applications
+in transportation including tracking vehicles on networks for
+              navigation or
+travel surveys, as well as collecting and storing data about the
+              networks
+of roads, waterways or even pipelines for facility inventories.
+              Although
+development of a technique such as that proposed here to map GPS
+              point data
+to linear network configurations has many applications, it is
+              routing
+behavior and route choice as an improvement to traffic assignment
+              models in
+urban planning that are specifically of interest to this
+              researcher.
+
+The objective of this research is to develop a mathematical
+              model to
+determine routes on networks from GPS point data in order to automate
+              the
+route data collection process such that the recording of routes can
+              become
+routine and widespread.  The data points collected by GPS receivers for
+              the
+route of a vehicle travelling in a transportation system are recorded
+              as
+single points in space.  Network segments such as roads, even though
+              they
+have two dimensions including width, are represented as one
+              dimensional
+lines in a GIS or other network database.  Even if there were not
+              errors in
+both the GPS points and the network data it would be necessary for
+              the GPS
+points to be translated to links in order to consider the route
+              behavior or
+optimize it in the network system. Currently, errors that can not
+              be
+completely eliminated in both the GPS collected points as well as the
+              base
+linear networks make the process of matching the GPS data onto the
+              network
+complicated.  In many cases, humans are needed to directly transform
+              the
+GPS point data into a representation consisting of network line
+              segments
+for analysis.  This is not practical on a large scale for
+              full
+transportation networks where a large number of vehicles are being
+              tracked.
+
+In this project GPS point data for automobiles traveling on an
+              urban road
+network will be collected (urban roads will be used because their
+              close
+spacing as well as the interference from buildings challenges
+              the
+methodology). Data will be collected during various weather conditions
+              as
+well as at different times of the day when satellite configuration
+              varies
+and affects measurement quality.   The known actual routes will be
+              manually
+entered into the road network database and a mathematical model will
+              be
+developed to transform the GPS points into complete routes in link by
+              link
+network (line) nomenclature.  The model will make use of a minimum
+              path
+algorithm and link impedances defined based on GPS point density,
+              velocity
+and bearings. Goodness of fit measures that determine the extent of
+              match
+between the actual and modeled routes will be used to evaluate
+              alternative
+model specifications.
+
+This award is made under the Exploratory
+              Research on Engineering the
+Transport Industries (ETI) program solicitation.
+

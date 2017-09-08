@@ -1,0 +1,51 @@
+Title       : Model-Based Design of Optimal Nonlinear Filters for Binary Images
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 26,  1998       
+File        : a9796118
+
+Award Number: 9796118
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $129829             (Estimated)
+Investigator: Edward R. Dougherty e-dougherty@ee.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              All translation-invariant binary image filters possess morphological 
+              representations.  Hence, finding an optimal filter involves finding the 
+              structuring elements that yield a filter having minimum error - in our case, 
+              mean-absolute error (MAE).  This observation leads to automated design
+              procedures  for restoration and enhancement filters when treating both the
+              observed  (corrupted) and ideal images as random set processes.  A key design
+              aspect is  postulation of image models for the ideal and observed processes. 
+              This research  concerns filter robustness relative to modeling assumptions: to
+              what degree is  filter performance degraded relative to deviations from the
+              design assumptions?   Our approach is to assume parameterized ideal and
+              observed image processes and  to consider the effects of applying an optimal
+              filter for a given parameter  vector to images corresponding to different
+              parameter vectors.    The design of enhancement algorithms is an integral part
+              of the manufacture of  electronic office equipment.  This time-consuming (up to
+              a year), and performance  is limited by the ability of a human being to
+              consider only a relatively small  number of possible algorithms.  Recently,
+              enhancement algorithms have been  automatically designed by higher-level
+              algorithms that use statistics in  conjunction with mathematical models of
+              images and imaging systems, thereby  significantly cutting design time while at
+              the same time producing better  enhancement.  The present research investigates
+              design from various image models.   It also addresses the "robustness"
+              question: since a designed enhancement  algorithm is based on modeling
+              assumptions, practical application requires that  we have a reasonable idea of
+              how it will perform on image data that differs to  varying degrees from the
+              data on which it has been designed.

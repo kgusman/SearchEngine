@@ -1,0 +1,75 @@
+Title       : Mathematical Sciences: Non-Reflecting Boundary Conditions Based on Far Field
+               Expansions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 17,  1996      
+File        : a9530937
+
+Award Number: 9530937
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1996      
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Alvin Bayliss a-bayliss@northwestern.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,OTHR,
+Abstract    :
+              9530937  Bayliss    The effectiveness of non-reflecting boundary conditions for
+              wave   propagation problems which are based on far field expansions of the  
+              solution will be developed, implemented and assessed.  Primarily transient  
+              wave propagation problems will be considered, although many of the   techniques
+              will also be applicable in the frequency domain. The boundary   conditions are
+              based on first deriving convergent or asymptotic expansions   of the solution
+              valid in the far field and then constructing differential   operators which
+              annihilate the leading order terms in the expansions.    Generally these
+              operators require specification of an origin from which   outgoing waves are
+              assumed to emanate.  Techniques will be developed in   which interior
+              information is used to improve the performance of the   boundary condition.  In
+              particular, adaptive boundary conditions will be   developed in which the
+              origin is estimated dynamically and locally from   properties of the solution
+              in the interior.  Techniques to increase the order of   the boundary condition
+              without increasing the order of the differential   operator will also be
+              developed.  This will be done by incorporating   inhomogeneous terms into the
+              boundary operator, again using properties of   the computed solution in the
+              interior.  Finally, far field expansions and   associated boundary conditions
+              suitable for damping layers will be   developed, thereby allowing a reduction
+              in size of the layers.    The numerical computation of waves, for example,
+              acoustic and    electromagnetic waves, will be considered.  These problems are
+              typically   governed by equations specified in regions which are unbounded in
+              at least   one direction. In order for the problem to be formulated on a
+              computer it is   necessary that the unbounded region be replaced by a bounded
+              region.    Furthermore, it is necessary that some boundary condition be imposed
+              at the   edge (boundary) of the bounded region.  This boundary condition should
+                ideally simulate the ori ginal unbounded problem.  However, in general the  
+              boundary treatment will not be a perfect simulation of the unbounded   problem
+              and there will be spurious reflections emanating from the   boundary.  These
+              reflections will propagate into the interior region and   seriously degrade the
+              accuracy of the computed solution.  Thus, it is   essential for accurate
+              computation that these spurious reflections be   minimized.  Boundary
+              conditions will be considered based on properties of   the waves in the far
+              field, i.e., far from the sources where the waves are   generated.  Currently
+              for any given computation the boundary conditions   are generally determined in
+              advance, i.e., at the beginning of the   computation, and are not changed as
+              the solution evolves in time.  Thus,    the boundary conditions make no use of
+              information about the waves in the   interior. Methodologies will be developed
+              in which interior information can   be used to improve the performance of the
+              boundary conditions.  In this   approach, the boundary conditions will change
+              as time evolves, adapting to   the nature of the solution by making use of
+              interior information.  It is   anticipated that the resulting boundary
+              treatment will allow a significant   reduction in spurious reflections.  Thus,
+              the proposed new boundary   conditions offer the prospect of significant
+              improvement in efficiency and   accuracy for the computation of wave
+              propagation problems.  Applications   to acoustic, electromagnetic and elastic
+              wave propagation will be   considered.

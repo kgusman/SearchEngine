@@ -1,0 +1,53 @@
+Title       : Beyond the Frame: Perceptually Based Rendering with Distributed Graphics Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 13,  2002       
+File        : a0135943
+
+Award Number: 0135943
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2002       
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $52670              (Estimated)
+Investigator: David P. Luebke luebke@cs.virginia.edu  (Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 400195
+	      Charlottesville, VA  229044195    434/924-4275
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              0135943
+David Luebke
+University of Virginia
+
+The computer g aphics community
+              increasingly recognizes the importance of understanding and leveraging the
+              human pe ceptual system.Indeed,several researchers have proposed techniques to
+              accelerate rendering by exploiting the limitations of human vision. 
+              However,this research has focused on realistic rendering algorithms such as ray
+              and path tracing, which take seconds or minutes to render.Ve y little work has
+              been done on perceptually d iven interactive rendering,whe e each image must be
+              completed in milliseconds.Yet a dire need exists for techniques to accelerate
+              interactive rendering of ever-la ger datasets,fo despite
+tremendous strides in
+              graphics hardware,the growth in complexity of 3-D models appears to
+              be
+outstripping our ability to render them.
+One barrier to research on
+              perceptually motivated interactive rendering acceleration methods has been the
+              inflexibility of standard graphics hardware.The rendering pipeline, specialized
+              and perfected over many yea s,is now extremely fast at a narrow set of
+              rendering tasks,but researchers cannot tamper with the traditional
+              polygon-rendering underpinnings.  We propose to circumvent this barrier by
+              using software rendering,distributed across a cluster to achieve interactive
+              ates on complex scenes.This SGER focuses on building the equipment necessa y to
+              analyze several perceptual rendering techniques impossible under the
+              traditional polygon-oriented interactive rendering paradigm.

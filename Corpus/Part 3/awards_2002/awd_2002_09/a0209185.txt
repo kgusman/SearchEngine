@@ -1,0 +1,67 @@
+Title       : EHS: Composable Execution Environments: A Foundation for Building Robust
+               Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  2002       
+File        : a0209185
+
+Award Number: 0209185
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $310431             (Estimated)
+Investigator: Jay Lepreau lepreau@cs.utah.edu  (Principal Investigator current)
+              John D. Regehr  (Co-Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Lepreau, Jay
+CCR-0209185 
+"Composable Execution Environments:   A Foundation
+              for Building Robust Embedded Systems"
+				   
+Real-time and embedded systems
+              are built using a wide variety of "execution models"---collections of rules for
+              sequencing actions and mediating access to shared resources.  In general,
+              systems developed using restricted execution models are easier to understand,
+              debug, and test than are systems developed using powerful models.  They are
+              also more efficient and permit stronger properties to be proven about
+              them
+with less effort, such as non-violation of timing constraints and freedom
+              from deadlock, livelock, or race conditions.
+
+The instantiation of an
+              execution model with a specific set of tasks and their associated timing and
+              resource sharing requirements is called an "execution environment."  The
+              central premise of this project is that it is feasible and useful to structure
+              embedded systems as hierarchical compositions of execution environments.  If
+              successful, this research will result in a new way to develop embedded systems
+              software that permits developers to make use of powerful compositions of
+              execution environments without sacrificing the software engineering benefits of
+              individual, more restricted environments.
+
+To accomplish this, the
+              researchers must solve a number of research problems.  First, compositions of
+              execution environments must be analyzed and mapped to threads and schedulers in
+              such a way that no
+real-time deadlines or other constraints of the individual
+              environments are violated.  This will be accomplished by leveraging the
+              researchers' experience with hierarchical real-time scheduling,
+              with
+constraint checking for component systems, and with flexible execution
+              models in operating systems.  Second, compositions of execution environments
+              must not suffer from undue or unexpected degrees of inefficiency and
+              unpredictability. The researchers will accomplish this by leveraging their
+              experience in developing and optimizing component-based operating systems.
+

@@ -1,0 +1,53 @@
+Title       : RIA: Efficient Processing of Queries in Heterogeneous Database Systems
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 13,  1995      
+File        : a9309225
+
+Award Number: 9309225
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $98208              (Estimated)
+Investigator: Weiyi Meng meng@cs.binghamton.edu  (Principal Investigator current)
+Sponsor     : SUNY Binghamton
+	      Vestal Parkway East
+	      Binghamton, NY  13901    607/777-2000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+                                                                                             
+              RIA:  Efficient Processing of Queries in Heterogeneous Database                
+              Systems                                                                        
+                                                                                             
+              Users not familiar with different types of database systems                    
+              (including textual database systems) often have difficulty                     
+              retrieving data stored in these databases. One popular method is               
+              to create a global schema from the schemas of existing databases               
+              and to allow the global schema to be queried. Each query against               
+              the global schema needs to be decomposed into subqueries which                 
+              are then translated to queries acceptable by the corresponding                 
+              underlying database systems for data retrieval. The objective of               
+              this project is to improve the processing speed of the global                  
+              queries when using an object-oriented global schema. The speedup               
+              is achieved by two types of optimization mechanisms. One is built              
+              into the process of query decomposition and the other into query               
+              translation.  The optimization in query decomposition evaluates                
+              different decomposition strategies and chooses the best strategy.              
+              The optimization in query translation similarly evaluates                      
+              different translation plans. The existence of different types of               
+              databases requires that several translators be developed.                      
+              Relational, object-oriented and textual database systems are used              
+              as the underlying database systems in the project. The proposed                
+              optimizations of queries against the global schema are expected                
+              to significantly improve the overall performance of heterogeneous              
+              database systems.

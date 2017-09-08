@@ -1,0 +1,64 @@
+Title       : Experimental Software Systems: Adaptware: A Design Framework for Adaptive
+               Real-Time Systems
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : November 16,  2001  
+File        : a9806280
+
+Award Number: 9806280
+Award Instr.: Standard Grant                               
+Prgm Manager: Gregory R. Andrews                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $380000             (Estimated)
+Investigator: Kang G. Shin kgshin@eecs.umich.edu  (Principal Investigator current)
+              Farnam Jahanian  (Co-Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              9806280
+Shin, Kang G.
+Jahanian, Farnam
+The University of Michigan at Ann
+              Arbor 
+
+Experimental Software Systems: ADAPTWARE: A Design Framework for
+              Adaptive Real-Time Systems
+
+This project is to design, implement, and
+              evaluate a software framework, called the Adaptware, that consists of
+              architectural support, resource-management mechanisms, and programming
+              abstractions for adapting Quality-of-Service (QoS) to dynamically-fluctuating
+              resource capacity and demands.  This framework will reduce the cost and time of
+              real-time software development by providing the infrastructure necessary for
+              building reusable multi-purpose real-time software components.  In much the
+              same way as today's consumers can buy software and hardware components from
+              different vendors and construct a computing environment tailored to their
+              needs, this framework can provide the means of building and integrating
+              real-time system components so as to preserve their temporal correctness while
+              making it possible to dynamically compute predictable end-to-end temporal
+              guarantees commensurate with available resources. 
+
+We plan to demonstrate
+              the benefits of our framework by building a testbed and executing
+              representative applications on the testbed, drawn from both soft real-time
+              systems such as multimedia, and hard real-time systems such as automated
+              flight.  Software development costs of these applications are expected to be
+              reduced significantly by separating real-time application design from
+              resource-capacity assumptions on the target platform, hence facilitating
+              changes in platform capacity, configuration or load.  This project is also to
+              demonstrate how our abstraction of platform capacity (away from the programmer)
+              can help build real-time systems that can tolerate a range of violations of
+              their load and failure hypotheses by adapting application QoS dynamically to
+              the resources available.
+

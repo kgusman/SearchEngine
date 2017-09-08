@@ -1,0 +1,44 @@
+Title       : Practical Language-Based Security, From The Ground Up
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  2002      
+File        : a0209163
+
+Award Number: 0209163
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Michael Franz franz@ics.uci.edu  (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1667,9218,HPCC,
+Abstract    :
+              A comprehensive security architecture is proposed that uses language-based
+              mechanisms to eliminate errors due to circumvention of type safety, be they
+              intentional or erroneous, and that additionally uses security policy mechanisms
+              to contain malicious behavior.  This approach extends techniques previously
+              applied to mobile code and is based on a combination of a) mechanically
+              verifying the absence of such errors in any software before it is run, using
+              code representations that can be checked for such errors or that rule out
+              errors in the first place, and b) monitoring executing software for malicious
+              activity.
+
+The proposed system consists of multiple layers, each of which is
+              secured by the layer below it, the lowest of which can be provided in
+              tamper-resistant hardware.  Key to the solution is to provide a typed hardware
+              abstraction layer (THAL) that enables the construction of a type-safe system
+              "from the ground up", all the way down to the tamper-proof hardware.  Hence,
+              the goal is to build a practical system about which we can make security
+              guarantees from the hardware up, and not just "from the operating system up".
+

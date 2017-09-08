@@ -1,0 +1,44 @@
+Title       : Pseudo-Symmetric Binary Decision Diagrams (PSBDDs)
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 26,  2000      
+File        : a9629419
+
+Award Number: 9629419
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $183550             (Estimated)
+Investigator: Malgorzata Chrzanowska-Jeske jeske@ee.pdx.edu  (Principal Investigator current)
+Sponsor     : Portland State University
+	      P O BOX 751
+	      Portland, OR  972070751    503/725-3423
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              This research is on a data structure, Pseudo-Symmetric Binary Decision Diagrams 
+              (PSBDDs), for completely specified Boolean functions. It is based on Ordered 
+              Binary Decision Diagrams (OBDDs) and symmetric networks.  The structure of an 
+              OBDD for a totally symmetric function is used as a model for PSBDDs.  The
+              Shannon  expansion is used to generate the vertices of PSBDDs.  There is a join
+              operation  which combines two adjacent vertices such that the function is
+              represented as a  pseudo-symmetric network instead of a binary tree.  The
+              research consists of: a)  developing a PSBDD package with four types of
+              symmetry; b) investigating the best  heuristic for variable ordering, and
+              ordering sets of symmetric variables; c)  comparing mapping results for large
+              functions between PSBDDs and BDDs; d)  developing strategies for efficient
+              generation of PSBDDs for incompletely  specified functions; e) developing
+              diagrams using Davio I and Davio II  expansions; and f) suggesting new
+              architectures for Cellular-Architecture type  FPGAs which are design-automation
+              friendly.

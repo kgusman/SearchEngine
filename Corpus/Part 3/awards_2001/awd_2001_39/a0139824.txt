@@ -1,0 +1,98 @@
+Title       : FRG: Collaborative Research: Approximation of Lyapunov Exponents
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 7,  2002     
+File        : a0139824
+
+Award Number: 0139824
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $183723             (Estimated)
+Investigator: Erik S. Van Vleck evanvlec@mines.edu  (Principal Investigator current)
+Sponsor     : U of Kansas Ctr for Res In
+	      2385 Irving Hill Drive
+	      Lawrence, KS  660457563    785/864-3441
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1616,9150,9263,OTHR,
+Abstract    :
+                  This Focused Research Group project includes investigators
+from three
+              different universities: Luca Dieci at Georgia
+Institute of Technology, Michal
+              Jolly at Indiana University, and
+Erik Van Vleck at the University of Kansas. 
+              The project
+considers the approximation of Lyapunov exponents and
+              other
+spectral information for dynamical systems.  The main goal is to
+study
+              and implement numerical techniques to approximate Lyapunov
+exponents of
+              continuous dynamical systems, as defined by a system
+of time dependent
+              differential equations.  The investigators are
+implementing and comparing
+              so-called continuous and discrete QR
+and SVD approaches.  They distinguish
+              between linear and nonlinear
+problems, the chief difference being that in the
+              linear case no
+approximation of solution trajectory is attempted. 
+              The
+investigators study Lyapunov exponents for systems of large
+dimension,
+              such as spatially discretized time dependent PDEs.  In
+particular, they
+              consider PDEs for which an inertial manifold is
+known to exist, and study the
+              relative merits of techniques that
+compute the exponents after a prior
+              inertial manifold reduction
+versus those that work with the full (spatially
+              discretized) PDE.
+Methods that use the Jacobian and Jacobian-free methods
+              are
+compared.  The investigators also develop general purpose
+algorithms and
+              software for approximation of Lyapunov exponents
+and aim to include the
+              algorithms within standard software for
+differential equations.
+     In many
+              areas of science and engineering, physical and
+biological systems are modeled
+              with differential equations.  In a
+nutshell, a differential equation is a rule
+              specifying how a
+given initial state of the system evolves into future states.
+               In
+practice, we are given the differential equation and the initial
+state,
+              and need to find the solution (i.e., the evolution of the
+initial condition). 
+              Realistic models depend on parameters and
+the solution of the differential
+              equation will of course depend
+on the values of the parameters as well.  The
+              ultimate goal of
+this project is to provide scientists with quantitive means
+              of
+assessing the dependency of solutions with respect to variations
+of the
+              initial state or the parameters in the problem.  Lyapunov
+exponents, and other
+              related "spectral quantities," do exactly
+this.  A chief effort of the
+              investigators is the development of
+algorithms and computational software for
+              approximation of
+Lyapunov exponents and other spectra.

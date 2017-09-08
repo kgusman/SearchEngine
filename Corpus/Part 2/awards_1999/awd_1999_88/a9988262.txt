@@ -1,0 +1,52 @@
+Title       : Low-Energy Datapath Design for Programmable Digital Signal Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 14,  2003   
+File        : a9988262
+
+Award Number: 9988262
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 1,  2000   
+Expires     : October 31,  2003    (Estimated)
+Expected
+Total Amt.  : $320530             (Estimated)
+Investigator: Keshab K. Parhi parhi@ece.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research concentrates on design of low-energy application-specific
+              datapaths, low-energy schedules, and design tradeoffs with respect to number of
+              datapaths, level of pipelining and scheduling approaches. Applications are to
+              datapath design for low-energy implementation of digital signal processing and
+              cryptography systems using programmable digital signal processors. A VLIW (very
+              long instruction word) type programmable DSP (PDSP) is assumed. In such a PDSP,
+              different datapaths can be independently activated through the VLIW instruction
+              word. This research seeks modifications of datapaths in existing PDSP and
+              design of new datapaths that do not exist in current PDSPs for low power
+              implementations. The emphasis here is on simultaneous datapath and scheduling
+              or software co-selection. It is important not only to design the best datapaths
+              but also to design best scheduling approaches to reduce switching activity in
+              the datapaths to reduce energy consumption. In the context of fixed and
+              adaptive FIR digital filters and equalizers, the goal is to find datapaths
+              which are best suited to transpose-form FIR filters, to use strength-reduced
+              parallel structures to reduce the number of clock cycles and to perform
+              scheduling by switching activity. In RLS adaptive filters for space-time
+              adaptive processing and multi-user detection problems in wireless
+              communications, a hierarchical scheduling approach is being explored. Here a
+              globally parallel locally sequential partitioning approach is adopted where
+              each partition is mapped to a distinct CORDIC datapath. Within each partition
+              Givens' rotation operations are scheduled to reduce switching activity. In
+              elliptic cryptosystem design, the goal is to reduce energy consumption by
+              appropriate hardware-software codesign and parametric tradeoff analysis. 
+
+

@@ -1,0 +1,45 @@
+Title       : Predicated Analysis for Cost-Effective Run-Time Parallelization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 25,  2001     
+File        : a9721368
+
+Award Number: 9721368
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1998   
+Expires     : November 30,  2002   (Estimated)
+Expected
+Total Amt.  : $271652             (Estimated)
+Investigator: Mary Hall mhall@isi.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Compilers today are severely limited because they are static, basic optimization
+              decisions solely on knowledge provable at compile time.  In particular,
+              compilers produce only a single optimized version of a computation.  Thus, each
+              optimization is performed conservatively- i.e., only when it is guaranteed to
+              be safe (and expected to be profitable) for all possible inputs and control
+              flow paths taken through a program.  This project will develop a new, more
+              dynamic model of optimization called predicated optimization, whereby the
+              compiler strategically transforms some code segments optimistically, producing
+              multiple versions of a computation with each version's execution guarded by a
+              run-time test guaranteeing safety (or suggesting profitability) of the
+              optimizations applied.  Predicated optimization offers several advantages: (1)
+              it can enable optimizations only valid for some inputs to a program; (2) it can
+              enable optimizations valid for all inputs, but where compile-time analysis to
+              prove safety is infeasible; (3) it can enable optimizations only valid for
+              certain control flow paths taken through a program; and, (4) it can determine
+              profitability of an optimization that either depends on values from the
+              run-time environment or is too complex to access statically.  This project will
+              develop a general approach to predicated optimization and apply this approach
+              to improve the effectiveness of automatic parallelization.

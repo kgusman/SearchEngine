@@ -1,0 +1,42 @@
+Title       : Postdoc: A Scalable Parallel Approach to Molecular Dynamics with Quantum
+               Transitions
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 10,  1997     
+File        : a9704682
+
+Award Number: 9704682
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1997     
+Expires     : March 31,  1999      (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Peter J. Rossky rossky@mail.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              A scalable parallel algorithm is proposed for carrying out molecular dynamics
+              with quantum transitions.  The inclusion of quantum transitions in molecular
+              dynamics implies that one must solve the Schrodinger equation for the
+              electronic degrees of freedom along the trajectory of the classical nuclei. 
+              The calculation of forces on the classical nuclei is complicated by the lack of
+              specific analytic expressions for derivatives of the basis state expansion
+              coefficients for each adiabatic wavefunction.  The problem can be solved
+              through the use of perturbation theory, however the resulting equations must be
+              solved iteratively.  This iterative calculation, and subsequent calculation of
+              forces and wavefunction derivatives can be done in parallel for each classical
+              coordinate.  The application of the algorithm to a specific chemical system and
+              electronic structure method is outlined.  Given the large number of chemical
+              and physical phenomena that exhibit nonadiabatic effects, the algorithm
+              outlined here should be widely applicable.  This proposal represents the first
+              instance of the application of parallel computers to nonadiabatic dynamics.

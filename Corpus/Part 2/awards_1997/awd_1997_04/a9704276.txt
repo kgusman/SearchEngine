@@ -1,0 +1,41 @@
+Title       : Architecture Support and Code Generation for General Nested Loops
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 5,  1999        
+File        : a9704276
+
+Award Number: 9704276
+Award Instr.: Continuing grant                             
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1997      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Nelson L. Passos nelson.passos@mwsu.edu  (Principal Investigator current)
+              Ranette Halverson  (Co-Principal Investigator current)
+Sponsor     : Midwestern State Univ
+	      3400 Taft Boulevard
+	      Wichita Falls, TX  763082036    817/692-6611
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              Optimized codes for multi-dimensional problems such as image processing and
+              fluid  dynamics often require the problem space to be traversed in a direction
+              not  parallel to any of the basis vectors of the space.  Affine transformations
+              of the  iteration indices are needed for these oblique traversals.  This
+              project  is  implementing affine transformations for loop retiming in code
+              generators, with  consideration of the effect of conditional branches. 
+              Architectural support for  anticipating  conditional branches is also being
+              investigated.  With extensive  undergraduate participation, research is
+              proceeding toward several goals:   identification of new high-level language
+              constructs for describing loop  retiming; development of supporting hardware
+              features;  new techniques for  accomodating conditional branches;  and
+              development of simulators and other tools  for investigating loop
+              transformations.

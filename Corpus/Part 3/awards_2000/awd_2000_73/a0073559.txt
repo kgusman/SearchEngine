@@ -1,0 +1,78 @@
+Title       : A New Framework for Adaptive Subspace Filtering: Theory and Algorithms for
+               Application to Wireless Communications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2002       
+File        : a0073559
+
+Award Number: 0073559
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $545818             (Estimated)
+Investigator: Robert M. Gagliardi bobgags@solar.usc.edu  (Principal Investigator current)
+              Irving S. Reed  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This proposal is a continuation of the research on Reduced-rank Adaptive
+              Subspace Filtering for Spread Spectrum Communications, Array Signal Processing
+              and Detection, a research grant funded by the National Science Foundation under
+              Contract No. MIP-9706215. During the current grant, the theoretical foundations
+              of the cross-spectral metric (CSM) for reduced-rank were studied. The practical
+              processing algorithms to apply the CSM to several related research areas are
+              developed. Our research shows that the CSM method results in a better rank
+              reduction than the principal components method in the sense of the minimum mean
+              square error for filtering. The remaining problem with the CSM method is that
+              the eigenvectors of the data covariance matrix, that are used to span the
+              full-rank space, are unknown and have to be estimated from the observation data
+              in most applications. The expensive computation needed for obtaining these
+              eigenvectors will hinder the use of the CSM method in real-time processing. In
+              addition, the strategy used by the CSM method for searching a desired
+              rank-reducing subspace is not efficient: one has to compute all of the
+              eigenvectors and their corresponding eigenvalues in order to rank order the
+              cross-spectral items, but only a certain number of them are needed for the
+              subspace filtering. 
+A new framework for reduced rank subspace filtering,
+              built on a non-eigenvector-based subspace representation, is now proposed to
+              address these issues. In this new framework, a set of orthonormal vectors,
+              which tridiagonalizes, rather than diagonalizes, the covariance matrix, is used
+              to replace a set of eigenvectors as a basis of the full-rank space. Advantages
+              of this replacement are (1) the computation of the tridiagonalization has a
+              much lower complexity as compared to that of the diagonalization; (2) the rank
+              reduction from the full-rank N to the lower rank K only requires computing K or
+              less desired orthonormal basis vectors, instead of computing all N of them, and
+              (3) the resulting subspace remains optimal in the sense of maximum
+              signal-to-interference plus noise ratio. The proposed effort for this
+              non-eigenvector-based subspace filtering framework includes studying the
+              theoretical foundations, developing adaptive processing algorithms and their
+              computation architectures, deriving a rank reduction optimization metric, and
+              evaluating theoretical and implementation performances as compared to the
+              eigenvector based approaches. 
+New results in rank reduced adaptive filtering
+              will be directly applicable to several new research areas currently under
+              consideration such as space and time wireless systems and code addressed
+              multiple access signaling. In these applications, and similar extensions, low
+              dimension addressing signals are superimposed in larger
+              2-dimensional(frequency/time or space/time) signal spaces. Signal crosstalk in
+              the form of address overlap must be removed by processing over the entire 2-D
+              observation space. The ability to rank reduce data for efficient crosstalk
+              rejection will be a major step in the development of practical processing
+              algorithms. In addition, overlap interference will be time varying due to
+              continual data modulation (in the multiple accessing case) and due to the
+              spatial fading (in the space/time case). Hence adaptive updating processors
+              will be necessary for maximum efficiency.  The research developed in the newer
+              study proposed here will significantly influence practical filtering solutions
+              for these two dimensional cases.
+

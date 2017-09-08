@@ -1,0 +1,83 @@
+Title       : Optimization, Randomization, and Generalization in Symbolic Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 5,  2000       
+File        : a9988177
+
+Award Number: 9988177
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $262153             (Estimated)
+Investigator: Erich L. Kaltofen kaltofen@eos.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+Erich Kaltofen proposes to study mathematical optimization techniques on
+              problem formulations that are  imprecise due to numerical data; randomization
+              techniques that are the power tools in the design of fast algorithms with exact
+              arithmetic on black box matrices; and generalization of the computer programs
+              that implement these algorithms to multiple domains with methodologies such as
+              generic, reusable programming and interface protocols.
+
+  A difficulty in the
+              symbolic/numeric area is that inputs with imprecise coefficients as a result of
+              a physical measurement or a numerical computation can lack a known property
+              that is of interest. For example, instead of a double real root, a polynomial
+              has two conjugate complex roots that are very close together.  The optimization
+              problem is to compute efficiently the nearest input that has the desired
+              singularity.
+Our focus will be on the nearest pair of polynomials with a
+              common root under coefficient-wise change (infinity norm), the nearest singular
+              Toeplitz matrix, and the nearest bi-variate complex polynomial that factors
+              over the complex numbers, the latter two under any reasonable norm.
+
+   A
+              black box matrix is stored as a function that performs the matrix-times vector
+              product.  Efficient algorithms for performing linear algebra computations with
+              exact field arithmetic, such as solving a linear
+system with a black box
+              coefficient matrix, are based on the Lanczos/Wiedemann approach.
+Randomization
+              techniques, for instance, matrix pre-conditioning and Krylov sub-spacing with
+              random projections, avoid self-orthogonality when the coefficients are from a
+              finite field and general algorithmic
+break-down due to certain invariant
+              factors of the matrix. We propose to investigate how the different linear
+              algebra problems are interelated, for example if the computation of a solution
+              of an inhomogeneous black box linear system can be efficiently reduced to the 
+              computation of a column dependency of a black box matrix.
+
+   Generic
+              programming is a software design technique that generalizes a program so that
+              it can be used with more than one underlying domain.  The proposed
+              implementation of our black box algorithms not
+only permits the plug-in of a
+              black box matrix over a native coefficient field, but the code also imports
+              internally needed operations like polynomial and vector operations from
+              expertly fine-tuned existing packages across generic interfaces. Our library's
+              application program interface provides a serialization mechanism for black box
+              objects that is compliant with the MathML/OpenMath philosophy and that
+              allows
+Internet communication.
+
+  Finally, we propose research on two
+              classical problems. First, the polynomial-time computation of dense, low-degree
+              factors of high-degree sparse multi-variate polynomials with rational
+              coefficients, which would generalize a recent related result by Hendrik W.
+              Lenstra, Jr. Second, a time- and space-efficient realization of the
+              transposition principle for transforming a matrix-times-vector function to the
+              transpose vector-times-matrix operation.
+

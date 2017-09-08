@@ -1,0 +1,94 @@
+Title       : Distributed Bandwidth Management and Pricing in High-Speed Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 22,  2000    
+File        : a0073359
+
+Award Number: 0073359
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Ravi R. Mazumdar mazum@ecn.purdue.edu  (Principal Investigator current)
+              Catherine P. Rosenberg  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Bandwidth management and pricing of elastic services is key to the
+              efficient and profitable running of emerging high-speed networks. Elastic
+              traffic or traffic which can alter its rate characteristics to adapt to the
+              congestion state of the network, such as TCP/IP traffic, already forms a major
+              part of the traffic carried by today's networks, the Internet being the current
+              paradigm. In networks where the basic bandwidth availability and user
+              characteristics are not efficiently priced as well as managed, profitability or
+              efficiency is reduced since pricing and consequent user satisfaction are going
+              to determine demand and useful throughput (\goodput").  While the ideas of
+              dynamic optimal resource allocation and pricing based on user resource requests
+              and budgets are very attractive they cannot be implemented in a large network
+              for scalability reasons. This is due to both communication as well as
+              computational overheads. Hence, there is a need for creating a hierarchical
+              structure and to perform aggregation in order to make the concept implementable
+              and useful. However, the researchers believe that there is a need for a
+              well-defined framework so that they can understand and quantify the trade-offs
+              that have been made in terms of efficiency, overhead, fairness, complexity,
+              responsiveness (especially if the propagation delays are large) and robustness.
+              Other issues very much related to implementation are linked to measurement of
+              congestion and to convergence and stability of efficient and computationally
+              feasible distributed algorithms.
+     The proposed research will:
+     (1) 
+              Further develop and refine a game theoretic framework proposed by the PIs for
+              bandwidth allocation for elastic traffic. The allocation maximizes the
+              efficiency (in terms of network revenue) of network utilization and
+              incorporates the crucial notion of fairness. The main thrust will be the
+              development of appropriate solution concepts in non-static environments.
+    
+              (2) Use the above framework to develop pricing structures which will lead to
+              network efficiency while providing user level satisfaction.
+    (3)  Develop
+              distributed algorithms which enable the proper allocation of bandwidth as
+              defined through game theory above based on users' willingness to pay and
+              bandwidth demands. In particular, the issues of
+network measurements and local
+              information will be addressed. This can be seen as either a solution for
+              a
+small network or as a benchmark to which the researchers proposed solutions
+              incorporating hierarchy and aggregation will be compared.
+    (4)  Design of
+              scalable solutions incorporating aggregation and an appropriate hierarchical
+              structure of the network, i.e., user level, groups of users, etc.  Particular
+              attention will be paid to trade-offs in terms of
+performance and complexity.
+              Both the pure bandwidth allocation based on performance as well as
+              pricing
+based cases will be considered.
+    (5)  Study in the implementation
+              of these solutions in the context of network protocols such as TCP/IP. This
+              will involve issues related to stability, convergence, and adaptivity to
+              changing conditions.
+     (6) Develop notions of network bandwidth derivatives
+              or option pricing for booking or provisioning of bandwidth resources based on a
+              Black-Scholes paradigm. This is another example of the techniques that the
+              researchers plan to use. This one will be used at an intermediate level of the
+              researchers' network hierarchy, namely between a service provider and a network
+              operator.
+     The researchers expect that the proposed work will involve:
+              advances in applications of game theory; contributions to the notions of
+              aggregation and fairness; development of an approach to bandwidth options;
+              optimal pricing structures; development of feasible real-time algorithms for
+              bandwidth allocation; and contributions to implementation issues based on
+              available information. The techniques will be drawn from game theory, Lyapunov
+              theory, convergence of stochastic algorithms, nonlinear constrained
+              optimization, mathematics of finance, and stochastic analysis.
+

@@ -1,0 +1,57 @@
+Title       : SBIR Phase I: Algebraic Multigrid (AMG) Software
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 20,  1996  
+File        : a9661198
+
+Award Number: 9661198
+Award Instr.: Standard Grant                               
+Prgm Manager: Sara B. Nerlove                         
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1997    
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $72733              (Estimated)
+Investigator: John W. Ruge jruge@colorado.edu  (Principal Investigator current)
+Sponsor     : Front Range Sci Computatio
+	      1005 Gillaspie Drive
+	      Boulder, CO  803036544    303/494-6232
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4080,9216,HPCC,
+Abstract    :
+                ***  9661198  Ruge     This Small Business Innovative Research Phase I project
+              is testing and development of robust algebraic multigrid software for solving
+              unstructured-mesh problems, designed to run in both serial and parallel
+              environments, and which efficiently incorporates local refinement strategies in
+              the solution process. Many commercial and government codes, including those in
+              hydrodynamics, heat conduction and multigroup thermal radiation transport,
+              require solution of second-order elliptic partial differential equations, and
+              often employ unstructured discretizations in order to resolve complex
+              geometries and to facilitate adaptive refinement. A common solution strategy is
+              to set up an outer iteration (e.g., Newton's or Newton-like methods,
+              preconditioned conjugate gradient, implicit time-stepping) in which each step
+              requires the solution of discretized second-order elliptic partial differential
+              equations. Current solution methods are limited, with convergence degrading
+              with problem size, time steps, and highly resolved local refinement levels, so
+              that solution of realistic problems is prohibitively expensive. To counter
+              these difficulties, algebraic multigrid (AMG) uses the principles of standard
+              multigrid methods, but with an automated preprocessing phase in which the
+              various multigrid components are constructed. This leads to a very efficient
+              and robust solution method for such problems which is ideally suited for
+              unstructured grids since all of the processing is based on the matrices, thus
+              eliminating the usual multigrid requirement that the user supply coarser
+              discretization levels, which would be prohibitive or impossible for most
+              unstructured mesh applications. In Phase I, the emphasis will be on testing
+              existing AMG codes on problems of interest, determining efficient ways to
+              incorporate local refinement strategies in the solution proven, and extending
+              multigrid parallel implementation strategies to AMG.   Robust algebraic
+              multigrid software that is easily combined with existi ng codes has the
+              potential to greatly enhance the range of problems (in size and complexity)
+              that can be efficiently solved. Unstructured meshed at used widely in codes for
+              bow the public and private sectors in many applications. and these codes would
+              benefit greatly by the availability of robust AMG solvers  ***

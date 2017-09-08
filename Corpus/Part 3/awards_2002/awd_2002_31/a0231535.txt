@@ -1,0 +1,73 @@
+Title       : Scalable Programmable Appliance-based Network Intrusion Detection Architecture
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0231535
+
+Award Number: 0231535
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas J. Greene                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2003    
+Expires     : December 31,  2005   (Estimated)
+Expected
+Total Amt.  : $399999             (Estimated)
+Investigator: Lambert Schaelicke lambert@cse.nd.edu  (Principal Investigator current)
+              Joseph C. Freeland  (Co-Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9217,HPCC,
+Abstract    :
+              Network Intrusion Detection Systems (IDS) are one of several tools used by
+              security professionals to detect and respond to security breaches.  Typically
+              an IDS is implemented by tapping a network and diverting a copy of every
+              network message to a sensor. Usually, the sensor is a general-purpose computer
+              running software that examines every packet that it receives. This approach to
+              IDS is easy to implement as it relies on off-the-shelf hardware and software.
+              However, the overhead incurred by the general-purpose operating system and the
+              limited I/O throughput of most PC and workstation architectures restrict such
+              IDS to low and medium bandwidth networks. Special-purpose IDS platforms, on the
+              other hand, can be optimized to handle high-bandwidth traffic, but the lack of
+              flexibility and the high cost of custom hardware and software make this
+              approach not viable in practice.
+
+Recently, parallel and distributed IDS
+              architectures exist that operate on high bandwidth traffic by distributing
+              network packets over a number of general-purpose machines. This approach
+              combines the flexibility of off-the-shelf hardware and software with the high
+              performance of parallel processing. A systematic study of the scalability of
+              this approach as well as an analysis of suitable packet distribution strategies
+              has not been done. Because such clustered architectures pay a potential penalty
+              in terms of space and power required as they are essentially a set of complete
+              computer systems that occupy shelf or rack space, consume power, and require
+              time consuming management and configuration they have space and power costs
+              that are high.
+
+The goal of this project is to develop a scalable parallel
+              appliance-based architecture for network intrusion detection systems that is
+              able to reliably monitor high-bandwidth network segments, yet is cost-efficient
+              and retains the flexibility of general-purpose based IDS. High performance is
+              achieved by distributing network traffic among an array of low-cost sensors in
+              a way that does not impact the quality of intrusion detection, while maximizing
+              the available concurrency and minimizing required communication among sensors.
+              Utilizing off-the-shelf single-board computers leads to an inexpensive and
+              compact design that requires less power than a comparable number of complete
+              workstations or PCs.
+
+The key component of a parallel intrusion detection
+              platform architecture is the approach by which network packets are distributed
+              across the sensors. As a result, the system design will by guided by a
+              systematic analysis of network traffic characteristics which will provide input
+              into high-level models and simulations. To verify and evaluate the performance
+              and scalability of the resulting architecture, a prototype system will be
+              implemented based primarily on low-cost off-the-shelf hardware and software. By
+              addressing IDS issues using off the shelf components, a product to assist in
+              security breaches may be quickly developed.  This could have large, immediate
+              impact on an important network topic.

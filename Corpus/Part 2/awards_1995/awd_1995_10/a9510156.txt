@@ -1,0 +1,53 @@
+Title       : Object-Sharing Technology for Real-Time Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  1997     
+File        : a9510156
+
+Award Number: 9510156
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $210037             (Estimated)
+Investigator: James H. Anderson anderson@cs.unc.edu  (Principal Investigator current)
+              Kevin Jeffay  (Co-Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      300 Bynum Hall
+	      Chapel Hill, NC  27514    919/962-5625
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              The objective of this project is to develop an object-based  framework for
+              synchronization and interprocess communication in  real-time computer systems. 
+              This framework will integrate work  on scheduling theory with work on
+              delay-resilient shared objects.  The term ``scheduling'' refers to the problem
+              of sequencing tasks  on a shared execution unit such that it is possible to
+              determine  a priori if the timing requirements of tasks are respected.  A 
+              variety of scheduling policies will be considered in this  project, spanning
+              the spectrum from hard to soft real-time  systems.  By focusing on
+              delay-resilient shared objects, this  project represents a significant point of
+              departure from past  work on real-time synchronization.  Delay-resilient
+              objects are  distinguished by the fact that they are not locked.  The notion 
+              of a delay-resilient shared object builds upon recent promising  work on
+              wait-free and lock-free synchronization in shared-memory  multiprocessors. 
+              Although such work has been ongoing for several  years, this project represents
+              the first comprehensive effort to  integrate such objects within an
+              object-sharing framework for  real-time computing.  From a real-time
+              perspective, the key  advantage of delay-resilient objects is that they do not
+              give  rise to priority inversions.  Traditional object-sharing  approaches for
+              real-time systems rely on significant operating  system support to deal with
+              this problem.  The proposed approach  does not require such support, and thus
+              entails lower  synchronization overhead than traditional approaches.  Another 
+              advantage of the proposed approach is that it can be applied  across a variety
+              of diverse platforms.  Target platforms for this  project include
+              uniprocessors, shared-memory and message-passing  multiprocessors, and
+              workstation clusters.  ***

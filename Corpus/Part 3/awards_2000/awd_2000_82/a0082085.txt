@@ -1,0 +1,79 @@
+Title       : Differentiated Reliability (DiR) in Multi-layer Optical Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 25,  2000    
+File        : a0082085
+
+Award Number: 0082085
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2001    
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $500119             (Estimated)
+Investigator: Andrea Fumagalli andreaf@utdallas.edu  (Principal Investigator current)
+              Andras Farago  (Co-Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Current optical networks typically offer two degrees of service
+              reliability: full (100%) protection (e.g., in presence of a single fault in the
+              network) and no (0%) protection. This reflects the historical duality that has
+              its roots in the once divided telephone and data environments, in which the
+              circuit oriented service required protection, i.e., provisioning readily
+              available spare resources to replace working resources in case of fault, while
+              the datagram oriented service relied upon restoration, i.e., on dynamic search
+              for and reallocation of affected resources via such actions as routing table
+              updates.  
+     The current trend, however, is gradually driving the design of
+              networks towards a unified solution that will support, together with the
+              traditional voice and data services, a variety of novel multimedia
+              applications. Evidence of this trend over the last decade is the growing
+              importance of concepts, such Quality of Service (QoS) and Differentiated
+              Services to provide varying levels of service performance in the same network.
+              According to the fact that today's competitive networks can no longer provide
+              only pure voice and datagram services, the historical duality between fully
+              protected and unprotected (100% and 0% reliability in case of a single fault)
+              is rapidly becoming obsolete. Modern networks can no longer limit the options
+              of reliability only to these two extreme degrees. On the other hand, while much
+              work is being done on QoS and Differentiated Services, surprisingly little has
+              been discussed about and proposed for developing differentiated network
+              reliability to accommodate this change in the way networks are designed.
+    
+              In this proposal, the researchers proposed to address the problem of designing
+              cost effective multi-layer network architectures that are capable of providing
+              various reliability degrees (as opposed to 0% and 100% only) as required by the
+              applications. In the proposal, the concept of Differentiated Reliability (DiR)
+              is for the first time formally introduced and applied to provide multiple
+              reliability degrees (classes) in the same layer using a common protection
+              mechanism, e.g., line switching or path switching. According to the DiR
+              concept, each connection in the layer under consideration is assigned a minimum
+              reliability degree, defined as the probability that the connection is available
+              at any given time. The overall reliability degree chosen for a given connection
+              is determined by the application requirements. In a multi-layer network, the
+              lower layer can thus provide the above layers with the desired reliability
+              degree, transparently from the actual network topology, constraints, device
+              technology, etc. The cost of the connection depends on the chosen reliability
+              degree, with a variety of options offered by DiR.
+     The proposed research
+              explores the multifaceted aspects of DiR-based design of multi-layer optical
+              networks, with specific emphasis on the IP/WDM architecture. Optimally
+              designing a DiR network is in general extremely complex and will require
+              special techniques tailored to handle it with acceptable computational time.
+              Therefore, along with research on the architecture and modeling of DiR-based
+              networks the researchers propose a powerful novel discrete optimization
+              paradigm to efficiently handle the difficult tasks. The optimization approach
+              is based on adopting and adjusting the Fourier Transform technique for binary
+              domains. This unique technique makes it possible to realize an efficient
+              "filtering" of the complex design/optimization problem, such that the solution
+              becomes computationally feasible, while still preserving sufficient accuracy.
+

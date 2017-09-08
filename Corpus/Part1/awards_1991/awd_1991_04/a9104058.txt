@@ -1,0 +1,67 @@
+Title       : Mathematical Sciences: Exploitation of Symmetry in Discretization Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 15,  1993     
+File        : a9104058
+
+Award Number: 9104058
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1991      
+Expires     : June 30,  1995       (Estimated)
+Expected
+Total Amt.  : $284000             (Estimated)
+Investigator: Eugene L. Allgower allgower@math.colostate.edu  (Principal Investigator current)
+              Kurt Georg  (Co-Principal Investigator current)
+              Rick Miranda  (Co-Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9263,
+Abstract    :
+                   Boundary element and finite element discretizations of                    
+              integral equations and partial differential equations over                     
+              surfaces and bodies often lead to very large linear systems of                 
+              equations.  If the domain enjoys any symmetry, the computational               
+              effort involved in numerically solving these systems can be                    
+              significantly reduced via the effective use of techniques based                
+              upon group representation theory which have recently been given                
+              by the investigators.  This algebraic approach yields a                        
+              decomposition of the original large problem into a number of                   
+              smaller subproblems, each corresponding to an irreducible                      
+              representation of the symmetry group of the domain.  The size of               
+              each reduced problem is that of the large problem divided by a                 
+              factor equal to the order of the group divided by the dimension                
+              of the representation.  Previous work on exploiting symmetry has               
+              involved reducing partial differential equations to subdomains                 
+              and adapting boundary conditions over the symmetry axes.  Such                 
+              techniques do not apply to boundary integral methods.  It is                   
+              proposed in this project to develop flexible codes which                       
+              systematically implement reductions for a variety of symmetry                  
+              structures.  Constructions of symmetry-respecting                              
+              discretizations and theoretical investigations relating to                     
+              sparseness and parallel implementations will be carried out.                   
+                   Many problems in science and engineering have as their                    
+              natural domain a surface or body which is symmetric in some way.               
+              For example, circles, circular disks, spheres, intervals,                      
+              squares, and cubes, of any dimension, all have obvious symmetry.               
+              In addition to the symmetry of the domain of the problem,                      
+              often the equations themselves reflect a symmetry in the physics               
+              of the problem.  For example, the differential equations                       
+              governing heat flow are symmetric, in the sense that heat will                 
+              flow in all directions without any preferences in the absence of               
+              any outside stimulus.  When both the equations and the domain of               
+              the problem enjoy some symmetry, algebraic techniques may be used              
+              to reduce the computational effort involved in numerically                     
+              solving the given problem on the given domain.  This project will              
+              focus on making the necessary theoretical investigations and                   
+              developing algorithms for exploiting symmetry in the field                     
+              of numerical analysis.

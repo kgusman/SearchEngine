@@ -1,0 +1,48 @@
+Title       : A Theory of Fault-Tolerant Adaptive and Minimal Routing in Mesh-Connected
+               Multicomputers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 14,  1999      
+File        : a9900646
+
+Award Number: 9900646
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1999      
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $134109             (Estimated)
+Investigator: Jie Wu jie@cse.fau.edu  (Principal Investigator current)
+Sponsor     : Florida Atlantic Univ
+	      777 Glades Road
+	      Boca Raton, FL  334310991    305/393-3000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project aims to develop a general theory of fault-tolerant adaptive and
+              minimal routing in k-ary  n-dimensional meshes. This theory can be extended to
+              k-ary n-dimensional hypercubes, which are meshes with wraparounds. The theory
+              is based on a new fault model and an information model. Unlike many existing
+              fault models, the proposed fault model can handle boundary faulty nodes easily
+              without disabling too many non-faulty nodes. As opposed to some existing
+              fault-tolerant routing approaches where fault information is carried by the
+              header of the routing message, the proposed approach is based on coded
+              neighborhood information maintained at each processor. Each node in a
+              mesh-connected multicomputer collects and distributes fault information
+              concurrently but in a decentralized way. This collection and distribution
+              process exhibits desirable properties of self-stabilizing, self-optimizing, and
+              self-healing. Unlike many existing information models that require each node to
+              have knowledge of the entire system, the coded fault information associated
+              with each node represents limited-global information by exploring locality of
+              disturbances in the system.   Locality of fault information also ensures the
+              scalability of the proposed approach.  Insights gained in this project will
+              shed new light on constructing new fault-tolerant, adaptive, minimal, and
+              deadlock-free routing in mesh-connected multicomputers.
+
+

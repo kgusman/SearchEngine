@@ -1,0 +1,81 @@
+Title       : CAREER: On the Design of Randomized Algorithms for Robust Control Problems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 9,  1997       
+File        : a9702963
+
+Award Number: 9702963
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 15,  1997      
+Expires     : May 31,  2001        (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Ashok A. Tikku tikku@ee.umr.edu  (Principal Investigator current)
+Sponsor     : U of Missouri Rolla
+	      1870 Miner Circle, 101 ME Annex
+	      Rolla, MO  654091330    573/341-4134
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1045,1187,OTHR,
+Abstract    :
+                ECS-9702963  Tikku    Robust multivariable control analysis and design have
+              been central problems in control theory over the last   fifteen years.  Most of
+              the robust control research has been dominated by worst-(!a-,;e deterministic  
+              formulations of the control analysis and design problems.  Despite the
+              considerable successes of the worst-case   deterministic approach such as Hoo 
+              16  and     12,13 control theory, most of the robust control analysis and  
+              design problems involving real parametric and/or structured uncertainty remain
+              open.  Analytical results, such   as the celebrated Kharitonov theorem  45 ,
+              apply to rather specialized problems.  For general and   comprehensive
+              formulations such as the structured singular value theory --- u theory ----
+              analysis and design   problems have turned out to be. very difficult, and the
+              focus of research has been on obtaining upper and lower   bounds on the
+              quantities of interest.  Recent research on the computational complexity of
+              robust control analysis and design problems indicates that   these difficulties
+              are, most likely, inherent to the worst-case deterministic problem formulations
+              rather than a lack   of ingenuity.  In view of these results, it appears we
+              must abandon attempts to design deterministic algorithms that   perform well on
+              every problem instance, and/or change the worst-case robust control paradigm 
+              The focus of this proposal is on the design and analysis of randomized
+              algorithms for certain very general   robust control problems.  A randomized
+              algorithm is an algorithm that makes random choices during its   execution. 
+              Randomized algorithms have received considerable attention in the last twenty
+              years  33, 55    Surprisingly efficient randomized algorithms have been
+              designed for problems in diverse areas such as number   theory  65, 73 ,
+              computational geometry  57, 9 , parallel and distributed computing  39 ,
+              pattern matching  37 ,   approximate counting problems  34, 35, 36, 74  etc..
+              We contend the successes of randomized algor ithms in   solving difficult
+              computational tasks in such diverse areas, and the apparent shortcomings of our
+              current   approaches to robust control are compelling reasons to focus research
+              efforts on the design of randomized   algorithms.  Our research will take two
+              directions.  The first will focus on the design of (Las Vegas type) randomized 
+               algorithms which deliver the worst-case guarantees we seek in the traditional
+              robust control paradigm, and, at the   same time, perform well (e.g. have short
+              execution times) with high probability for every possible problem   instance. 
+              The second will focus on the design of (Monte Carlo type) randomized algorithm
+              that deliver   probabilistic statements of the form that a "certain
+              (stability/performance) property holds for most of the systems   in a
+              prescribed set (given by uncertain parameters in compact sets, unmodeled
+              dynamics given by balls in function   spaces, etc.) with a high degree of
+              confidence."    We intend to investigate the application of randomized
+              algorithms to a host of heretofore intractable robust   multivaxiable control
+              problems including: 1) m analysis problem; 2) m synthesis problem; 3) fixed
+              order m   synthesis problem; 4) reduced order Hoo. design problem; 4) Hoo model
+               reduction problem.    The focus of our education activities over the next four
+              years will be on the design/development of four new   courses: an introductory
+              course on randomized algorithms; a class on the application of randomized
+              algorithms to   robust control problems; a class on linear matrix inequalities
+              in control theory; a course on modeling and system   identification.  The
+              introductory course on randomized algorithms will establish necessary
+              background in the area   and will present randomized algorithms from various
+              application areas.  It will play a vital role in preparing   students to
+              implement such algorithms.  The follow up course on randomized algorithms will
+              stress the application   of randomized algorithms in robust control and will
+              present the la test developments in the area.  The course will   target
+              graduate students who want to conduct research in this area.

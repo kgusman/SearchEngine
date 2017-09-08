@@ -1,0 +1,83 @@
+Title       : A Systems Theoretic Approach to Robust Active Vision
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 14,  2002    
+File        : a0221562
+
+Award Number: 0221562
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $240004             (Estimated)
+Investigator: Mario Sznaier msznaier@frodo.ee.psu.edu  (Principal Investigator current)
+              Octavia I. Camps  (Co-Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              Active vision - the confluence of control and computer vision - is positioned in
+              an optimal situation to address the needs of a growing segment of the
+              population. Aware environments would enable elderly people to carry on
+              independent lives. Computers that interpret facial expressions to obtain cues
+              to user confusion or frustration can lead to simpler interfaces. Finally,
+              intelligent activity surveillance systems capable of detecting suspicious
+              activities can substantially improve the ability to prevent tragedies. Clearly
+              these applications would not be possible without the use of feedback to
+              compensate for uncertainty and errors, stemming for instance, from poorly
+              calibrated cameras, blurring or only partially determined feature
+              correspondences between images. Indeed, computer vision and control are already
+              linked through many successful proof-of-concept systems developed at several
+              research institutions, including Penn State. However, there is a consensus in
+              both the computer vision and control communities that, in spite of the implicit
+              power of visual control, there are relatively few instances where these
+              techniques have been successfully applied in unstructured environments. This
+              can be traced, to a large extent; to theft-agility (i.e. lack of robustness) of
+              active vision systems designed using classical methods.
+ 
+The present
+              proposal is motivated by preliminary work by the Co-PIs strongly indicating
+              that this fragility can be addressed by appealing to a common systems theoretic
+              substrate to make the interconnection between the different aspects of the
+              problem stronger and more direct. Specifically, the objectives of the proposed
+              research are:
+ 
+Development of a paradigm for systematically designing
+              provably robust active vision systems. This paradigm will address the computer
+              vision and control aspects of the problem within a common systems-theoretic
+              framework, exploiting their synergism to optimize performance. Examples of the
+              advantages offered by this approach include:
+ 
+(i)	Integration of robust
+              identification/model (in)validation based predictions into target localization
+              algorithms to improve robustness and reduce search time.
+ 
+(ii)	Robust
+              identification of models that combine computer vision and dynamical effects, as
+              well as the corresponding uncertainty structure.
+ 
+(iii)	Controller design
+              that exploits these models and the associated uncertainty structure to robustly
+              optimize performance.
+ 
+Comprehensive experimental validation and performance
+              characterization of the resulting systems, using several pan and tilt units and
+              dedicated image processing hardware currently available in our lab.
+ 
+The key
+              point of the research is the realization that the problems of robustly tracking
+              an object in a sequence of frames and robust performance analysis, share an
+              underlying common fact: they are equivalent to analyzing the existence of a
+              bounded L2 to L2 operator that satisfies certain interpolation conditions.
+              While the details are somewhat different in each case, this allows for
+              developing a common set of tools, by appealing to the rich language of convex
+              analysis to recast these problems into an LMI optimization form.

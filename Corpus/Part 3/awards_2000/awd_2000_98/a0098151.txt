@@ -1,0 +1,59 @@
+Title       : Structure-Sensitive Geometric Algorithms and Data Structures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  2002      
+File        : a0098151
+
+Award Number: 0098151
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $255003             (Estimated)
+Investigator: David M. Mount mount@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0098151
+Mount, David
+U of Maryland, College Park
+
+The vitality of
+              computational geometry depends heavily on its relevance to real-world problems
+              and applications.  This field has made significant contributions to these
+              areas, but continued success requires an understanding of the constraints and
+              structure present in the problems that arise in typical applications. 
+              Traditional worst-case asymptotic analysis is often too blunt a tool for
+              establishing the efficiency of geometric algorithms, since geometric data sets
+              often contain simplifying structure, which worst-case efficient algorithms may
+              ignore.  Another reason is that worst-case analyses may lead designers to
+              concentrate on difficult data configurations that arise only rarely in
+              practice.  As a result, many designers of geometric software do not look to
+              computational geometry as a relevant source of algorithms, and instead rely on
+              heuristics of unproven performance.
+
+The goal of this research is counter
+              this perception by developing ad implementing algorithms and data structures
+              for geometric problems that are both efficient in practice and whose efficiency
+              is formally provable.  Our approach in achieving practical efficiency is
+              through a sensitivity to presence of simplifying structure.  For most
+              algorithms this structure may be present in the input.  For data structures
+              this structure is present in the distribution of the queries.  Our goal is to
+              design and analyze algorithms and data structures that are most efficient when
+              this simplifying structure is present.  In the absence of this structure, these
+              algorithms would ideally degrade to the best worst-case algorithms.  This
+              approach will be applied to geometric problems in information retrieval
+              (multidimensional nearest neighbor searching and point location) pattern
+              recognition, robust statistics, and in clustering. 
+
+

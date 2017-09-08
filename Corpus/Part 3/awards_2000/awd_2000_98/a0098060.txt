@@ -1,0 +1,73 @@
+Title       : Proxy-based Dissemination of Dynamic Web Data
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  2001       
+File        : a0098060
+
+Award Number: 0098060
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $140000             (Estimated)
+Investigator: Prashant Shenoy shenoy@cs.umass.edu  (Principal Investigator current)
+              Krithi Ramamritham  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9217,HPCC,
+Abstract    :
+              Emerging web applications are increasingly likely to use dynamic web
+data.
+              Traditionally, requests for dynamic data---both time-varying
+              and
+dynamically-generated---have been handled directly by servers
+              and
+intermediate proxies haven't been allowed to process requests for
+              such
+objects (web proxies have been primarily employed to disseminate
+              data
+that is mostly static).  A pure server-based approach for
+              managing
+dynamic data is likely to limit the scalability of emerging
+              web
+applications and increase their vulnerability to server failures.
+              To
+overcome this drawback, novel proxy-based techniques will be developed
+to
+              manage and disseminate dynamic web data. The proposed
+research will address
+              two key issues: (i) data dissemination, which
+addresses the issue of
+              disseminating time-varying web data using
+proxy-based push and pull
+              techniques, and (ii) computation
+dissemination, which addresses the issue of
+              moving computations from
+servers to proxies so as to dynamically generate web
+              objects at a
+proxy. Both techniques have the potential of radically changing
+              the
+way web proxies are designed and used. These techniques will need
+              to
+satisfy three key requirements: user-cognizance (i.e., awareness
+of user
+              and application requirements), intelligence (i.e., the ability
+to dynamically
+              choose the most efficient set of mechanisms to service
+each application), and
+              adaptivity (i.e., the ability to react to
+changing load characteristics).  The
+              proposed techniques will be
+evaluated using an eclectic mix of simulation,
+              analysis and prototype
+implementation.
+

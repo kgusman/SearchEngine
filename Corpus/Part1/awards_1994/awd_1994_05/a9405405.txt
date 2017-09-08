@@ -1,0 +1,78 @@
+Title       : Enhanced Simulation Methods for Biomolecular Systems
+Type        : Award
+NSF Org     : MCB 
+Latest
+Amendment
+Date        : May 6,  1996        
+File        : a9405405
+
+Award Number: 9405405
+Award Instr.: Continuing grant                             
+Prgm Manager: Kamal Shukla                            
+	      MCB  DIV OF MOLECULAR AND CELLULAR BIOSCIENCE
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 1,  1994     
+Expires     : July 31,  1997       (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Terry P. Lybrand lybrand@bioeng.u.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1164      MOLECULAR BIOPHYSICS
+Fld Applictn: 0203000   Health                                  
+              61        Life Science Biological                 
+Program Ref : 9162,9181,9215,HPCC,
+Abstract    :
+              9405405  Lybrand  Two research projects related to bimolecular simulation method
+               development and application will be performed.  The first project  focuses on
+              development, implementation, and evaluation of  simulation methods for enhanced
+              configurational sampling in  molecular dynamics and free energy perturbation
+              calculations of  biomacromolecules.  This project is closely related to goals 
+              outlined in the High Performance Computing and Communications  (HPCC)
+              initiative, and involves modification of the popular  bimolecular simulation
+              program AMBER for parallel executive on  clusters of high performance Unix
+              workstations as well as massively  parallel supercomputers.  We are using the
+              PVM tool kit from Oak  Ridge National Laboratory for distributed parallel
+              processor  coordination and support.  Since PVM has now been optimized for a 
+              number of massively parallel machines including Cray T3D, Kendall  Square
+              KSR-2, and IBM SP1, this approach permits us to develop a  highly portable, yet
+              computationally efficient parallel version of  AMBER that will run on both
+              workstation clusters AND massively  parallel supercomputers with little or no
+              modification.  As we  develop the parallel version of AMBER, we are also
+              implementing and  testing new algorithms for free energy perturbation
+              calculation.   These algorithms utilize variational path optimization methods
+              and  other "scaling" techniques to improve configurational sampling, and  thus,
+              convergence and reliability, for free energy perturbation     calculations. 
+              These enhanced molecular simulation programs will be  applied to studies of
+              lipid bilayer assemblies and bilayer/peptide  complexes.  These bimolecular
+              systems are large and quite  complicated, and detailed molecular simulations
+              are extremely  computationally demanding.  Results from these simulations will
+              be  useful in analysis of companion experimental studies for lipid 
+              bilayer/peptide complexes currently under way, and may provide  useful
+              information for design of novel bioseparation and  small  molecule delivery
+              systems.   %%%  Computer simulation has become a powerful tool for study of
+              complex  biological molecules such as proteins, nucleic acids, and lipids.  
+              Computer simulation studies can aid in the analysis and  interpretation of
+              experimental results, and can be used to predict  properties that cannot be
+              measured directly.  While computer  simulation studies often yield quite
+              accurate results for simple  molecular systems, the enormous size and
+              complexing of biological  molecules poses much greater challenges.  Biological
+              molecule  simulation studies are usually classified as Grand Challenge 
+              computation problems, and require new methods and strategies as  outlined in
+              the High Performance Computing and Communications  (HPCC) initiative for
+              successful resolution.  We will develop and  evaluate a number of enhanced
+              simulation techniques that should  improve the efficiency and reliability of
+              computer simulation  methods for the study of biological molecules.  Included
+              in this  project is the modification of a current state-of-the-art molecular 
+              simulation program (AMBER) to run efficiently on a wide variety of  different
+              of different massively parallel supercomputers and  clusters of high
+              performance computer workstations.  This modified  version of AMBER will enable
+              more efficient and effective use of  currently exiting computational resources
+              for molecular  simulations.  These molecular simulation tools are of general 
+              utility in computer-aided design for catalysts, drugs, and  polymers.  We will
+              employ these enhanced molecular simulation tools  to study lipid bilayers and
+              bilayer/peptide complexes of importance  in basic biochemistry and
+              biotechnology applications such as  biosensors and bioseparations applications.
+                ***

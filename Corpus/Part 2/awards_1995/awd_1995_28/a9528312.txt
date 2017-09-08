@@ -1,0 +1,40 @@
+Title       : Motion Compensated Object Based Video Coding
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 15,  1998      
+File        : a9528312
+
+Award Number: 9528312
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1996      
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $334378             (Estimated)
+Investigator: John W. Woods woods@ecse.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              This research program investigates an advanced video compression approach for 
+              applications such as multimedia, video on networks, video conferencing, and
+              video  on demand.  It is a novel combination of object-based coding usually
+              used for  very low rates and 3-D subband/wavelet waveform-based coding, usually
+              reserved  for higher rates.    In this method, the motion field is first
+              segmented into objects which make up  the image frame, and move at different
+              velocities.  The boundaries of these  objects are coded using a type of contour
+              coding which preserves the shape of the  edge.  This contour coding is
+              performed as an update on the object boundaries  found for the previous frame. 
+              Finally the interior of these space-time objects  is coded using the waveform
+              coding method based on motion compensated 3-D subband  filtering.  The overall
+              goal is an efficient unified set of video compression  algorithms scalable from
+              video phone up to HDTV.

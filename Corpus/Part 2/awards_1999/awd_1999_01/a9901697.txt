@@ -1,0 +1,77 @@
+Title       : Scheduling and Operating Systems for Real-Time and Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 12,  2003     
+File        : a9901697
+
+Award Number: 9901697
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1999      
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $203776             (Estimated)
+Investigator: Kwei-Jay Lin klin@uci.edu  (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+Proposal Number: CCR-9901697
+
+Title: Scheduling and Operating System Support
+              for Real-Time and Embedded
+Systems
+
+Principal Investigator: Kwei-Jay Lin,
+              University of California, Irvine
+
+The design and implementation of a Linux
+              kernel for real-time and embedded 
+applications are proposed. The Real-time
+              and Embedded Linux (RED-Linux) 
+kernel is designed to support applications
+              that have both real-time and 
+non-real-time tasks with different QoS
+              parameters. By integrating a 
+micro-timer and inserting preemption points in
+              the kernel, RED-Linux will 
+provide a very short task dispatch latency and
+              interrupt handling response 
+time. A unified scheduling framework for
+              supporting various scheduling 
+paradigms (such as priority-driven, time-driven
+              and share-driven) will be 
+investigated. New scheduling algorithms will be
+              studied as a result of the 
+unified scheduling framework. Different from
+              previous real-time Linux 
+projects, RED-Linux will not implement a separate
+              real-time kernel (which 
+co-exists with the Linux kernel) to handle real-time
+              tasks.  All real-time 
+and non-real-time tasks are handled and scheduled by
+              the same kernel. 
+Real-time tasks are scheduled according to their real-time
+              and QoS 
+requirements.  Non-real-time tasks are scheduled with a fair share of
+              
+system time, sharing the resources used by real-time and other
+              
+non-real-time tasks. Finally, the project will investigate an open kernel
+              
+structure with modular components so that it can be used in different
+              
+embedded system environments by integrating components with specific
+              
+capabilities.
+
+

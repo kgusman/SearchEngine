@@ -1,0 +1,53 @@
+Title       : Formal Protection Modeling of Computer Security in Parallel and Distributed
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 26,  1993     
+File        : a9007816
+
+Award Number: 9007816
+Award Instr.: Continuing grant                             
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1990  
+Expires     : November 30,  1994   (Estimated)
+Expected
+Total Amt.  : $253171             (Estimated)
+Investigator: Ian F. Akyildiz ian@ee.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,
+Abstract    :
+              This project involves continued research in security of distributed            
+              systems and development of a formal protection model called the                
+              Distributed Model (D-Model).  The D-Model defines concurrency                  
+              conditions which guarantee that a  concurrent system cannot reach a            
+              state in which privileges are configured in a non-secure manner.               
+              This work will extend the D-Model to include the security correctness          
+              criteria of trusted subjects.  So far the D-Model conditions have been         
+              used to construct a distributed version of the Bell-LaPadula security          
+              model.  There are more applications of the D-Model within this                 
+              project, such as the Clark-Wilson Model,  Minsky's transfer of                 
+              privilege model, and the Military Message System Model (MMS) of                
+              Landwehr.                                                                      
+                   The second phase of the formal modeling part of this project will         
+              develop a so-called General Purpose Distributed Security Model                 
+              (GPDSM).  The result of this model will be a set of security models            
+              that can be used to depict all computer systems within the state-of-           
+              the-art.  The GPDSM must be formalized in the first step.  After the           
+              formalization, any model (e.g. the D-Model, MMS and Non-interference           
+              models) can be implemented in GPDSM.  Since synchronization is an              
+              important issue for constraining concurrency in distributed and                
+              parallel systems, the D-Model will be ported to a non-interference             
+              model framework (which is the GPDSM) in order to find a solution for           
+              non-interference synchronization problem.  The D-Model has currently           
+              no associated covert channel analysis tool.  The proposed GPDSM will           
+              also serve as both a model and a covert channel analysis tool.

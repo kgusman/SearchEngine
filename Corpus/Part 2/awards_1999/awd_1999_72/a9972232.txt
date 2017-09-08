@@ -1,0 +1,50 @@
+Title       : A Policy Language for Distributed Resource Management
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1999      
+File        : a9972232
+
+Award Number: 9972232
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $149490             (Estimated)
+Investigator: Marvin H. Solomon solomon@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Marvin H. Solomon
+CCR-9972232
+
+The internet presents the potential for
+              efficient and equitable allocation of distributed computing resources, such as
+              high-speed computers and databases, to those best able to use them
+              productively.  Realization of this potential requires a rotation for describing
+              producers and consumers of resources and a mechanism for allocating them
+              subject to bilateral constraints:  Consumers of resources may specify
+              acceptability criteria for resources, and purveyors of resources may impose
+              restrictions on consumers.  The Classified Advertisement language provides a
+              precise and powerful notation for defining these constraints and the
+              Matchmaking algorithm provides a mechanism for enforcing them.  This research
+              improves the efficiency of Matchmaking by discovering and exploiting
+              homogeneous properties of sets of Classified Advertisements.   It also extends
+              the Matchmaking paradigm to "co-matching" to support situations in which a
+              successful allocation required assembling a complete and consistent set of
+              resources, each of which may impose restrictions on others in the set.  Thee
+              enhancements are motivated by practical problems arising in the context of the
+              Condor distributed resource management system, which is widely used by
+              computational scientists to harness the power of idle workstations.  The
+              results of this research will be tested by applying it directly to improve the
+              Condor service.
+

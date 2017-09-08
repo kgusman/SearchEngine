@@ -1,0 +1,53 @@
+Title       : Quadratic Lyapunov Functions and State Feedback via InteriorPoint Optimization
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 18,  1995 
+File        : a9222391
+
+Award Number: 9222391
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1993  
+Expires     : February 28,  1997   (Estimated)
+Expected
+Total Amt.  : $190020             (Estimated)
+Investigator: Stephen P. Boyd boyd@stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+              55        Engineering-Electrical                  
+Program Ref : 0000,9146,9216,HPCC,MANU,OTHR,
+Abstract    :
+              9222391  Boyd  One of the most useful qualities of a properly designed feedback 
+              control system is robustness, i.e., the ability of the closed-  loop system to
+              continue working well despite large variations in  the (open-loop) plant
+              dynamics.  This property is also the source  of some of the hardest problems in
+              control system analysis and  synthesis.  For example, the problem of
+              determining a feedback  law that is guaranteed to work well when connected to
+              any plant  model from a given set of models-the robust synthesis problem-is  in
+              general quite difficult.  A recent advance is an analytic  solution to a
+              specific type of robust synthesis problem.  This  analytic solution can be
+              derived in several different frameworks:   Hoo-optimal control,
+              linear-quadratic game-theoretic control, or  linear exponential quadratic
+              Gaussian (LEQG) optimal control.  In  contrast, this research centers around a
+              method that couples  Lyapunov theory with (numerical) convex optimization (but
+              is  closely connected with the analytic solution method mentioned  above).  In
+              particular, newly developed interior point  optimization methods will be
+              applied to some convex and  quasiconvex problems that arise in control theory
+              (analysis and  synthesis).  Preliminary investigations suggest that the impact 
+              of interior point methods on Lyapunov function and state feedback  search
+              problems will be as profound as it has been on linear and  quadratic
+              programming.  The goal of the research is to develop  the foundations for
+              method of control system robustness analysis  and robust controller synthesis
+              that substitutes convex  optimization for the computations required in the
+              analytic  solution mentioned above, but in return solves a much larger  class
+              of problems.  Moreover, with interior point optimization  methods, the increase
+              in computation effort over that required  for the analytic solution, may be
+              quite modest.   ***

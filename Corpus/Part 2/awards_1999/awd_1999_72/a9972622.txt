@@ -1,0 +1,68 @@
+Title       : Numerical Analysis of Large Eddy Simulation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 16,  1999      
+File        : a9972622
+
+Award Number: 9972622
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1999     
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $105000             (Estimated)
+Investigator: William J. Layton wjl+@pitt.edu  (Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9972622
+
+This proposal is to begin the mathematical development of large eddy
+              simulation. Large eddy simulation (or LES) tries to predict the motion of the
+              large structures in the turbulent flow of a fluid.  LES has been highly
+              developed by the engineering computational fluid dynamics community since its
+              inception in 1970. The present proposal is to provide a mathematical and
+              numerical analytic foundation for the field. In particular, it includes:
+              modeling-derivation of improved space filtered flow models, asymptotics-
+              improved boundary conditions for such models, analysis-rigorous analytical
+              study of the modeling error, numerical analysis-derivation and validation of
+              algorithms for space filtered models, direct simulation- a new approach to LES
+              of direct simulation of large eddies, simulation- computational testing and
+              benchmarking of the models and algorithms under study.
+
+Understanding
+              turbulent flow is central to many important problems including environmental
+              and energy related applications (global change, mixing of fuel and oxidizer in
+              engines and drag reduction), aerodynamics (maneuvering flight of jet aircraft)
+              and biophysical applications (blood flow in the heart, especially the left
+              ventricle).  Turbulent flow is composed of coherent patches of swirling fluid
+              called eddies.  These range in size from large storm systems such as hurricanes
+              to the little swirls of air shed from a butterfly's wings. Large Eddy
+              Simulation (LES for short) seeks to predict the motion of the largest and most
+              important eddies uncoupled from the small eddies.  This uncoupling is
+              important
+because the large eddies are resolvable on a computational mesh (a
+              collection of chunks of the physical problem) which can be handled by a
+              supercomputer.  The proposed research centers on modeling the large eddies
+              (such as storm fronts, hurricanes and tornadoes in the atmosphere) in turbulent
+              flow, predicting their motion in computational experiments and validating
+              mathematically the large eddy models and algorithms developed.  Current
+              approaches to LES seem to be presently confronting some barriers to resolution,
+              accuracy and predictability.  It seems likely that many of these barriers can
+              be traced to the mathematical foundation of the models used, the boundary
+              conditions imposed and the algorithms employed for the simulations.  The
+              research undertaken is to develop these mathematical foundations as a guide for
+              practical high performance computation.  This research promises to make it
+              possible to extend the range of accuracy and reliability of predictions
+              important to applications, such as those described above, where technological
+              progress requires confronting turbulence.
+

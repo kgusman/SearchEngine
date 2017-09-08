@@ -1,0 +1,56 @@
+Title       : Efficient In-Situ and Reduced Chemistry Algorithms for Chemical Process Flow
+               Simulation
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : June 7,  1999       
+File        : a9996242
+
+Award Number: 9996242
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  1999        
+Expires     : September 30,  2000  (Estimated)
+Expected
+Total Amt.  : $175177             (Estimated)
+Investigator: Rodney O. Fox rofox@iastate.edu  (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              The principal objectives of this project are the development and implementation
+              of efficient in-situ and reduced chemistry algorithms for detailed chemical
+              process flow simulation.  The current trend in flow simulation in the chemical
+              process industries is towards the application of computational fluid dynamics
+              (CFD) to obtain a more complete descriptions of the flow field and chemical
+              species distribution inside chemical reactors.  For chemically reacting flows,
+              treatment of the chemical source terms resulting from complex kinetic schemes
+              (i.e. greater than 10 to 20 species) is often the most computationally
+              intensive part of a flow simulation.  Considerable gains in computational
+              efficiency are thus possible by exploiting two common features of complex
+              kinetic schemes, namely, the large separation in chemical time scales (relative
+              to flow time scales), and the compactness of the "accessed region" (i.e., the
+              compositions that actually occur in a particular simulation).  Two
+              methodologies that make use of these features will be investigated.  The first,
+              in-situ adaptive tabulation (ISAT), is applicable to moderately large kinetic
+              schemes (around 20 chemical species) and, due to its flexibility of
+              implementation, should be powerful for chemical process flow simulations.  The
+              second, intrinsic low-dimensional manifold (ILDM) method, is applicable to
+              larger kinetic schemes (provided that the majority of the chemical time scales
+              are smaller than the flow time scales), but computationally more difficult to
+              implement since it requires retabulation after each change in the kinetic
+              scheme or flow parameters.  In order to overcome the shortcomings of each
+              individual algorithm, implementations of a combined ILDM-ISAT algorithm will be
+              explored.    The algorithms will be implemented in an existing full probability
+              density function (PDF) code designed for turbulent reacting flow simulation. 
+              Full pdf simulations of two industrial chemical reaction schemes
+              (thermochlorination of methane and free-radical poly merization of ethylene)
+              will be carried out in order to validate and document the efficiency of the
+              algorithms under a wide range of actual plant reactor conditions.

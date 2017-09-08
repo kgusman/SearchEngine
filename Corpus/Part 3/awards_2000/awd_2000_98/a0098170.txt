@@ -1,0 +1,62 @@
+Title       : Efficient Representation of Massive Geometric Models
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2001       
+File        : a0098170
+
+Award Number: 0098170
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: Michael Garland garland@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0098170
+U of Ill Urbana-Champaign
+Michael Garland
+
+Numerous
+              graphics applications in areas ranging from CAD/CAM to realistic immersive
+              simulators rely on increasingly complex datasets to achieve convincing levels
+              of visual realism.  However, the enormity of the raw geometric data frequently
+              makes it impossible to efficiently process such datasets given limited hardware
+              capacity.  Surface models containing millions of triangles are now commonplace,
+              and advances in acquisition technology are making models containing several
+              billion triangles available.  Consequently, there has been considerable
+              interest over the last decade in techniques for the automatic simplification of
+              highly detailed polygonal models.  However, current methods are, almost without
+              exception, completely incapable of
+processing input models of this enormous
+              magnitude.  This is a very serious shortcoming, as these are exactly the class
+              of models for which effective simplification methods are most pressingly
+              needed.  The goal of this project is to develop new techniques for representing
+              and processing very large scale polygonal surface models, enabling the
+              efficient use of extremely complex models far beyond the capability of current
+              systems.
+
+Algorithmic scalability is essential in this domain.  This research
+              is focused on developing simplification methods which combine simple
+              out-of-core data operations with more complex output-sensitive (i.e., dependent
+              only on the output, rather than the input, size) processing phases.  The
+              general approach
+of this project is to adopt recursive partitioning strategies
+              directed by quadric error metrics.  An approximation can be produced from any
+              partition of the vertex set by merging all vertices within each cell of the
+              partition.  The use of quadric error metrics means that the aggressive
+              simplification methods
+designed for this project can be seamlessly coupled
+              with other quadric-based simplification algorithms in a multi-phase process.
+

@@ -1,0 +1,77 @@
+Title       : CAREER: Software Thread Integration for Low-End through High-End Embedded
+               Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  2003   
+File        : a0133690
+
+Award Number: 0133690
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2002   
+Expires     : January 31,  2007    (Estimated)
+Expected
+Total Amt.  : $340000             (Estimated)
+Investigator: Alexander Dean alex_dean@ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              This CAREER project investigates embedded systems architectures through the
+              application of compiler and architectural techniques which use an existing
+              processor more efficiently.  Rather than automatically adopt existing personal
+              computer paradigms for embedded systems, the main theme of this research is to
+              rethink architectures and compilers in the context of embedded systems and how
+              they are designed. 
+
+Software thread integration (STI) is a novel compiler
+              technique for automatically interleaving multiple procedures (which implement
+              multiple threads of control) into one non-speculative implicitly multithreaded
+              procedure. The threads are integrated at the assembly language level; the
+              compiler applies transformations to resolve conflicts in control-flow and
+              resource sharing. 
+
+This research project uses STI in two ways.  The first
+              builds on the extraction of more fine-grain concurrency from a generic
+              processor. STI enables switching from one thread to another with negligible (if
+              any) performance penalty or delay. This means that some of the hardware
+              resources added to compensate for the processor's poor fine-grain concurrency
+              are eliminated and the functions move to software. The research is developing
+              efficient methods to perform this hardware to software migration efficiently
+              and precisely enough to implement network protocol interfaces completely in
+              software, reducing size, weight, cost and development time for low-end embedded
+              systems.
+
+The second uses integration's augmentation of a thread's
+              instruction-level parallelism, leading to faster execution on processors which
+              are able to execute multiple instructions simultaneously. Modern digital signal
+              processors used in high-end embedded systems are able to do so, yet they are
+              poorly utilized because single threads do not contain enough independent
+              instructions. STI helps by increasing the number of independent instructions in
+              a thread to keep more functional units busy and finish the computation faster. 
+              This enables the more efficient use of lower-performance processors, reducing
+              system costs and development time. When coupled with power management
+              techniques, it also reduces power consumption and increases battery
+              life.
+
+The PI is creating a new embedded systems track within the computer
+              engineering curriculum at NC State University. Two new hands-on courses on
+              processor-based embedded systems are being added to supplement the PI's
+              existing embedded system design course. The first is a junior-level course that
+              introduces students to microcontrollers, interfacing them to the physical
+              environment, and using a real-time operating system with modern development
+              tools. The second is a graduate course that covers high-performance embedded
+              systems for media processing. Students learn to program and optimize media
+              applications (e.g audio or video compression and decompression) on various
+              architectures (superscalar, VLIW, chip multi-processor). The PI is also
+              involved in outreach activities at the NC School of Science and Mathematics to
+              promote interest in embedded systems design and programming.
+

@@ -1,0 +1,69 @@
+Title       : Numerical Modeling of Strong Heterogeneity in the Deep Mantle
+Type        : Award
+NSF Org     : EAR 
+Latest
+Amendment
+Date        : July 2,  2002       
+File        : a0106000
+
+Award Number: 0106000
+Award Instr.: Continuing grant                             
+Prgm Manager: Kaye Shedlock                           
+	      EAR  DIVISION OF EARTH SCIENCES              
+	      GEO  DIRECTORATE FOR GEOSCIENCES             
+Start Date  : July 15,  2001      
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $238525             (Estimated)
+Investigator: Barbara A. Romanowicz barbara@seismo.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1574      GEOPHYSICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Abstract for proposal EAR0106000 (PH #38x)
+
+Title: Numerical Modeling of
+              Strong Heterogeneity in the Deep Mantle
+
+PI's: B. Romanowicz, University of
+              California, Berkeley
+
+This project addresses the issue of how to model
+              teleseismic S waveforms to accurately account for strong 3D heterogeneity, such
+              as recently found in D", that cannot be handled using standard approaches, in
+              view of recent developments in numerical modeling, and with the goal of
+              improving our understanding of deep mantle dynamics.
+
+In the last few years,
+              much progress has been made in the development of numerical methods adapted to
+              spherical geometry and able to compute waves emanating from a realistic seismic
+              source, reaching, within reasonable computational time, periods of interest for
+              teleseismic studies, making no assumptions on the strength of velocity
+              contrasts, and able to handle interface waves and interface topography. The
+              most promising new method is the spectral element method. It combines the
+              advantages of the flexibility of a finite element method with the precision of
+              a pseudo-spectral method. Nevertheless this method has an excessive numerical
+              cost for realistic frequencies (i.e. at least 15-25 sec). Further progress has
+              been made recently by Capdeville (2000), who developed a hybrid method that
+              couples spectral element computations with a normal mode solution, so that the
+              spectral elements are used only in the target strongly heterogeneous regions.
+              This allows one to focus on the target region and extend computations to much
+              higher frequencies than if spectral elements are used for the whole
+              earth.
+
+In collaboration with Dr. Capdeville, we will apply this method to
+              waveform modeling of S-type waves (S, Sdiff, SKS, ScS) interacting with the
+              base of the mantle and the core-mantle boundary. We will particularly be
+              interested in modeling waveform distortion due to heterogeneity, such as that
+              observed in SPdKS, and SVdiff waveforms. In the process, we will also address
+              issues of crust and uppermost mantle effects on teleseismic body and mantle
+              waves. This work will involve adapting Capdeville's hybrid method to the 
+              specific case of D", collecting an appropriate global dataset of S waveforms
+              and forward modeling D" structure to match these waveforms.
+
+
+

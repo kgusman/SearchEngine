@@ -1,0 +1,43 @@
+Title       : On Deadlock-Avoidance, Livelock-Avoidance and Performance Improvements in
+               Discrete Event Systems: A Collection of Open Problems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 31,  2000    
+File        : a0000938
+
+Award Number: 0000938
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $183574             (Estimated)
+Investigator: Ramavarapu S. Sreenivas rsree@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              In this proposal we consider a large class of discrete-state systems such as
+              traffic networks, manufacturing systems, computer networks,
+              distributed/parallel computing.  A livelock in such systems is a situation when
+              some process is unable to finish because its clients perpetually create more
+              work for it to do after they have been serviced.  This phenomenon is different
+              from that of a deadlock where there is essentially no activity as each process
+              is perpetually in a state of waiting, anticipating the release of resources
+              that are held by other processes.  The issue of deadlock- and
+              livelock-avoidance is particularly important to the synthesis of protocols,
+              routing, cache/memory management, computer operating systems, manufacturing
+              systems, traffic management, operations management of large organizations, etc.
+               In this proposal, we present a collection of open-problems in the synthesis of
+              supervisory control policies that guarantee liveness (i.e. absence of deadlock
+              and livelock) in Petri net (PN) models of the discrete-state systems described
+              above.   We also present some open-issues in the performance improvement of PN
+              models that are deadlock- and livelock-free under supervision.

@@ -1,0 +1,74 @@
+Title       : Information Theoretic Learning for Pattern Recognition and Signal Processing
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : January 21,  2000   
+File        : a9900394
+
+Award Number: 9900394
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  1999        
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $219558             (Estimated)
+Investigator: Jose C. Principe principe@cnel.ufl.edu  (Principal Investigator current)
+              John G. Harris  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 0000,OTHR,
+Abstract    :
+              9900394
+Principe
+
+The focus of this research is the development and
+              evaluation of a new class of algorithms for information
+theoretic learning
+              (ITL). Conventional learning designs are usually based on an effort to minimize
+              either square error or a measure of entropy which can be computationally
+              difficult to handle.  This project will attempt to estimate  and use a new
+              measure of entropy, based on concepts from Renyi.  The appeal of the algorithm
+              is that it can be easily integrated with a Parzen window estimator yielding
+              several practical criteria to adapt universal mappers, either under
+              unsupervised or supervised paradigms.
+
+If the research is successful a novel
+              and quite general class of algorithms will be made available to
+the scientific
+              community interested in studying and applying learning systems. The natural
+              goal of this research is to further develop the ITL algorithms, an study their
+              application to a variety of important problems in learning. Specifically, the
+              project will study the properties of the estimator for both entropy  and mutual
+              information, ways to decrease the computational complexity of the algorithm,
+              extend it to time signals, set its parameter and access its scalability.  It
+              will also investigate new distance measures for mutual information optimization
+              and the feasibility of imple-menting an "entropy chip" in analog VLSI which
+              will use the laws of physics to do the computation.
+
+The research team/will
+              be investigating issues in information filtering, independent component
+              analysis and blind source separation using the newly developed ITL class of
+              algorithms. These areas are important in their own right, and have a momentum
+              that will be further advanced in this research. But the team will also use the
+              common computational infra-structure of estimating entropy and mutual
+              information from examples to compare the proposed ITL algorithms' performance
+              with the best available techniques in each field.  Specifically, (1) They will
+              extend the present state-of-the-art in the blind source separation of
+              convolutive mixtures.  They will apply the new
+learning algorithm to the
+              co-channel interference in mobile communication channels, and noise reduction
+              in hearing aids. (2) They will apply ITL to system identification and dynamic
+              modeling and com-pare it to our previous results using the mean square error.
+              (3) The problem of sparse representa-tions is crucial to understand the brain
+              and design intelligent artificial systems. We will be researching how to learn
+              sparse representation from data, using both overcomplete bases and the ITL
+              algorithm to implement independent component analysis. 
+***
+

@@ -1,0 +1,54 @@
+Title       : Parallel Nonlinear Elimination Methods and Software for Partial Differential
+               Equations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 16,  2000       
+File        : a0072089
+
+Award Number: 0072089
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $393082             (Estimated)
+Investigator: Xiao-Chuan Cai cai@schwarz.cs.colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Nonlinear Partial Differential Equations (PDEs) are the basic mathematical
+              description for a wide variety of important application areas. In particular,
+              this project will consider PDEs that arise in fluid dynamics, biology, and
+              radiation diffusion. Because of their complexity, these equations can only be
+              solved numerically by computers, and because of their particular properties
+              (shock waves, sharp fronts, and local singularities) they are difficult to
+              solve even then. This project will design, analyze, and implement software for
+              a class of iterative methods to numerically solve nonlinear PDEs. The software
+              will be provided in two forms - Matlab codes and a package interoperating with
+              the PETSc library - for other researchers to apply the methods.
+
+Technically,
+              the project will study a class of nonlinear elimination algorithms for solving
+              algebraic nonlinear equations with unbalanced nonlinearities. The elimination
+              methods avoid traditional methods' slow convergence when local singularities
+              appear by identifying "misscaled" nonlinear components and replacing them with
+              a function of the remaining more uniformly scaled components. The family of
+              algorithms thus devised will obtain parallelism from domain decomposition,
+              scalability (with respect to problem size) from multilevel methods, and
+              robustness (against local singularities) from incomplete elimination. The
+              methods will be tested on three important classes of applications: transonic
+              compressible flows (CFD), electric wave problems in the heart (computational
+              biology), and Marshak wave problems (radiation transport). The proposed
+              algorithm and software development will have a great impact on the three
+              applications, and will also have substantial influence on other areas of
+              computational science where large nonlinear equations need to be solved.
+

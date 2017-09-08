@@ -1,0 +1,45 @@
+Title       : Built-In IDDQ Sensors for Deep-Submicron Circuits
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1999  
+File        : a9971192
+
+Award Number: 9971192
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $193278             (Estimated)
+Investigator: Duncan M. Walker   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This proposal is on developing new methodologies for VLSI chip manufacturing
+              test built using very deep submicron technologies.  Existing test methods do
+              not scale up because of increased background currents that will exist.  The
+              approach is to explore the quiescent current (IDDQ) signature approach by using
+              magnetic filed measuring techniques, and to develop and apply built-in current
+              sensors (BICS) to provide the ability to distinguish between faulty and
+              fault-free IDDQ levels.  This problem is caused by the increase in subthreshold
+              leakage currents with each technology generation.  The BICS design goals
+              include microampere resolution, 1% area overhead, and 1 ms measurement time. 
+              Further, the project is developing design methods to automatically place BICSs
+              into a mesh-type supply network to achieve maximum coverage and resolution. 
+              Research problems include: the need to shut off the power supply during BICS
+              calibration; an accounting for large variations in fault-free IDDQ levels
+              caused by process, environment and circuit state variations.  Methods to
+              improve limit setting by extending the current siganture methodology are being
+              explored by using model-based estimates of normal IDDQ levels (derived from
+              simple electrical tests), and by exploiting the spatial correlation of BICS
+              measurements.  Algorithms and software demonstrating these ideas are being
+              developed.

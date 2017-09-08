@@ -1,0 +1,86 @@
+Title       : Joint Performance Optimization of Wireless Networks and Control Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 26,  2002      
+File        : a0140700
+
+Award Number: 0140700
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  2002     
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Stephen P. Boyd boyd@stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              Joint Performance Optimization of Wireless Networks and Control
+              Systems
+
+
+Current control technology is not well suited
+to operation over a
+              packet based network, and conversely,
+most networks are not optimized for
+              control applications.  
+Moreover, critical network performance parameters that
+              affect control
+system performance, such as bit rates
+and delay and packet
+              loss statistics, depend on various
+choices made in the network, such as powers
+              allocated to wireless
+transmitters, bandwidths or time-slot fractions
+              allocated to 
+channels, and routing methods.
+So in addition to the challenge
+              of working out how a control
+system can be made to work in a packet-based
+              
+networked environment, we also
+have the challenge of working out how the
+              network should be 
+configured, or operated, so as to improve control system
+              performance.
+This proposal addresses two fundamental issues that
+              arise.
+Neither solves the whole problem, but each addresses a critical
+              issue.
+
+The first topic involves joint optimization of
+a controller and
+              critical communication and network
+parameters such as transmit powers, packet
+              routing, and
+bandwidth and time-slot allocation. 
+To simplify this problem,
+              only the affects of these
+network parameters on bit rates, hence quantization
+              noise, is 
+considered.  The second topic considered is
+simultaneous routing
+              and resource allocation for wireless
+data networks.
+This is the problem of
+              jointly finding an optimal set
+of flows and communication resources that
+              maximize the performance of
+the network, with respect to some objective such
+              as optimal
+control system performance.
+Here we hope to develop algorithms to
+              dynamically allocate
+communication resources (such as transmit powers,
+              bandwidth)
+and simultaneously optimize routing decisions.
+

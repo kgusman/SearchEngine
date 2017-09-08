@@ -1,0 +1,58 @@
+Title       : M-reps: Deformable Solid Modeling for Graphics & Simulation, Using
+               Medially-Defined Multifigural Objects
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 16,  1999    
+File        : a9910419
+
+Award Number: 9910419
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $44046              (Estimated)
+Investigator: Stephen M. Pizer pizer@cs.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      300 Bynum Hall
+	      Chapel Hill, NC  27514    919/962-5625
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 
+Program Ref : 9216,9237,HPCC,
+Abstract    :
+              
+M-reps define a multiscale approach to graphics modeling and rendering,
+              replacing traditional polygonal and spline-based boundary representations
+              (B-reps) with a solid modeling paradigm based on medial representation by
+              meshes of medial primitives----diatoms.  Each mesh defines a protrusion, an
+              indentation, or a separate associated figure, and these figures are grouped in
+              directed graphs to create complete objects.  Each diatom represents the center
+              of a solid region of width r, with a width-proportional tolerance defined on
+              the diatom's associated surface regions and on its links to neighboring
+              diatoms.  Thus, a diatom mesh defines the figural boundary to within a
+              width-proportional tolerance, and provides a width-proportional sampling of the
+              figure's medial surface.
+
+This project will undertake four main areas of 
+              research to develop and demonstrate the potential of M-reps:
+
+1. augmenting
+              current modeling tools and techniques to incorporate figural hierarchies,
+              CSG-style boolean construction, boundary tolerances and width-proportionality
+              into the modeling process;
+2. adding specialized diatoms for creating sharp
+              edges, corners, and creases in M-rep models;
+3. implementing a new rendering
+              system which combines implicit surface rendering with scale-based models to
+              provide automatic simplification based on image-scale; and
+4. exploring
+              techniques for mapping boundary displacements and image textures to the
+              medially implied surface.
+
+
+

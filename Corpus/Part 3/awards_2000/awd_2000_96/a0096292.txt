@@ -1,0 +1,51 @@
+Title       : Video on Demand with VBR Encoded Video
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 19,  2000      
+File        : a0096292
+
+Award Number: 0096292
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 1,  1999   
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $175000             (Estimated)
+Investigator: Magda El Zarki elzarki@uci.edu  (Principal Investigator current)
+              Keith W. Ross  (Co-Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      160 Administration Building
+	      Irvine, CA  926971875    949/824-7106
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              This research studies how emerging broadband networks can   efficiently deliver
+              video on demand. The research assumes that   video is variable-bit-rate (VBR)
+              encoded. Particular emphasis   will be placed on a design which the P.I.s have
+              recently devised,   Join-the-Shortest-Queue (JSQ) Prefetching. Not only does
+              this   exciting design give constant-quality playback and almost 100%   link
+              utilization, but it also allows for immediate commencement   of the video upon
+              user request and near instantaneous response   to  interactive actions
+              (pause/resume and temporal jumps). This   research will examine two distinct
+              end-to-end architectures for   video on demand. In the first architecture,
+              there is one video server  from which all the videos emanate; the video server
+              is attached to  a cable headend or to an ADSL switch. In the second
+              architecture,  there are multiple video servers and there is a complex,
+              multi-link  network which separates the servers from the clients. The research 
+              will study JSQ prefetching for the first architecture; it will study  a
+              priority-based scheme which mimics JSQ prefetching for the second 
+              architecture. This research shall also develop analytically   based
+              call-admission rules for our JSQ prefetching design. It shall   investigate how
+              the special structure of MPEG-1 and MPEG-2   encoding can be exploited for
+              designing call admission schemes   and selective packet discard schemes at the
+              server.   It shall develop an auxiliary payload specification for transporting 
+              MPEG 1 and 2 video on demand over real-time protocol (RTP).  Finally, an
+              implementation of the JSQ prefetching scheme, which will  stream several
+              simultaneous videos to clients, will be developed.    The research is described
+              at http://www.seas.upenn.edu/~ross/jsq.html .

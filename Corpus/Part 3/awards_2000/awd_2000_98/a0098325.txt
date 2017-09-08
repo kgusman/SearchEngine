@@ -1,0 +1,44 @@
+Title       : Observation-Based Software Testing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 17,  2001     
+File        : a0098325
+
+Award Number: 0098325
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $204999             (Estimated)
+Investigator: H. Andy Podgurski andy@eecs.cwru.edu  (Principal Investigator current)
+Sponsor     : Case Western Reserve
+	      Adelber Hall Rm. 4
+	      Cleveland, OH  441067015    216/368-4510
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              A new approach to software testing called "observation-based testing" is
+              investigated. Observation-based testing is intended to reduce the cost of
+              testing by minimizing the number of test cases that must be evaluated manually
+              for conformance to requirements.  It calls for profiling the executions induced
+              by a set of potential test cases and then filtering the executions based on
+              their profiles to identify a subset that warrants manual evaluation.  The
+              executions are filtered using multivariate analysis techniques.  The subset of
+              execution that is selected for evaluation is one whose profiles suggest is more
+              likely to contain failures than are other subsets.  In order to provide a
+              methodology and set of tools for observation-based testing, alternative forms
+              of execution are evaluated to determine which are most effective for
+              identifying conditions associated with program failure; alternative procedures
+              for filtering executions are evaluated to determine which are most effective
+              for identifying failures among a set of executions; and alternative
+              observation-based techniques for estimating software reliability are evaluated
+              with respect to their efficiency.  In conjunction with such methodological
+              research, a prototype suite of tools is being developed to support
+              observation-based testing.

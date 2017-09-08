@@ -1,0 +1,74 @@
+Title       : Software Fault-Tolerance based on Observation and Control of Distributed
+               Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 2,  2002        
+File        : a9988225
+
+Award Number: 9988225
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $190000             (Estimated)
+Investigator: Vijay K. Garg garg@ece.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              To reduce the risks associated with software faults, the research 
+focuses on a
+              fault tolerance method based on controlled execution 
+with lookahead.  In this
+              approach, a program is run in a lookahead 
+mode without affecting the external
+              environment. During lookahead, 
+sufficient information is traced so that it
+              can be analyzed for faults.  
+If the analysis of the execution shows that
+              there are no faults, then 
+the lookahead execution is committed and its
+              effects are visible to 
+the environment.  Otherwise, the results from the
+              lookahead execution 
+are discarded, and the system is run in a controlled
+              mode. In this mode, 
+the system exercises control by introducing additional
+              synchronization 
+or by changing the order of messages to avoid the fault that
+              occurred 
+during lookahead.
+
+There are three main components of the project
+              - algorithms for
+detection of software faults, algorithms for
+              automatic
+control such as insertion of control messages and reordering
+              of
+messages based on lookahead, and a system which supports
+              controlled
+execution with lookahead.  For detection of software faults,
+              
+previous algorithms will be extended to work for more general model
+              of
+computation in the presence of failures. For automatic control, the project
+              
+will focus on synchronization faults in concurrent programs.
+Finally, a
+              system in Java that supports controlled
+execution with lookahead will be
+              developed.
+
+
+
+
+

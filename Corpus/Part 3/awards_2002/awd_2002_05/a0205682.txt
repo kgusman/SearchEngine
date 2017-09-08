@@ -1,0 +1,86 @@
+Title       : ITR: Reconfigurable Fabric
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 19,  2002      
+File        : a0205682
+
+Award Number: 0205682
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $1500001            (Estimated)
+Investigator: Majid Sarrafzadeh majid@cs.ucla.edu  (Principal Investigator current)
+              Yang Yang  (Co-Principal Investigator current)
+              Glenn Reinman  (Co-Principal Investigator current)
+              Deborah L. Estrin  (Co-Principal Investigator current)
+              Mani B. Srivastava  (Co-Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 1656,1667,9215,9216,HPCC,
+Abstract    :
+              Because of the relentless march of the silicon-based electronics technology as
+              predicted by Moore's Law, computation, storage, and communication are now woven
+              into the fabrics of our lives.  The emerging technology of flexible
+              electronics, where electronics components such as transistors and wires are
+              built on a thin flexible material, offers a similar opportunity to weave
+              computation, storage, and communication into the fabric of the very clothing
+              that we wear.  The implications of seamlessly integrating a large number of
+              communicating computation and storage resources, mated with sensors and
+              actuators, in close proximity to the human body will transform many aspects of
+              biomedical research and practice. For example, one can imagine biomedical
+              applications where biometric and ambient sensors are woven into the garment of
+              a patient or a person in a medically-critical or hazardous environment to
+              trigger or modulate the delivery of a drug.
+To realize this vision outside the
+              laboratory, radical innovation is required in the area of system-level
+              information technology. These systems will not scale to widespread use if they
+              are viewed simply as traditional chips or motherboards based on a different,
+              flexible form factor. Rather, a rethinking of the architecture and the design
+              methodology for all layers of these systems is needed. The reasons are
+              two-fold. First, the underlying technology of electronics in flexible materials
+              has characteristics and computation-communication cost trade-offs that are very
+              different from that of silicon and PCB-based electronics. Second, the natural
+              applications of these systems have environmental dynamics, physical coupling,
+              resource constraints, infrastructure support, and robustness requirements that
+              are very different from those faced by traditional systems. 
+One of the
+              challenges in developing the needed information technology architecture and
+              design methodology for these systems is that one needs to both conduct
+              experimental work and develop a conceptual understanding of the problem domain.
+              This research studies: 
+	Application: Use as a driver application capability,
+              reconfigurable fabric (R-Fabric) based on a combination of (i) the technology
+              of flexible electronics using organic materials, and (ii) computing,
+              communication, and sensing elements implemented as E-Buttons.
+	Architecture:
+              Develop the general architecture concepts and cost/performance optimization
+              techniques. The issues that we will focus on will include (i) appropriate
+              primitives for composing the architecture, (ii) system interconnect network
+              optimized for the electrical characteristics of the organic electronics, (iii)
+              techniques to cope with the high ration of communication to computation cost,
+              and (iv) architecture level self-configuration and re-configuration for robust
+              operation.
+	Programming: Develop techniques and primitives for programming a
+              system composed of hundreds of computation, storage, sensing, and actuation
+              elements that are individually resource constrained and are connected by a
+              structured but fault-prone high-cost interconnect network.
+	Processors:
+              Develop domain-specific processor architecture optimized for these
+              power-constrained, physically coupled applications.
+
+Design Methodology:
+              Develop techniques and hybrid emulation platform for systematic architecture
+              exploration, simulation, optimization, and reconfiguration of these
+              systems.
+
+

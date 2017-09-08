@@ -1,0 +1,60 @@
+Title       : Robust Algorithmic Building Blocks for Parallel Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 10,  2000      
+File        : a9988304
+
+Award Number: 9988304
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $133584             (Estimated)
+Investigator: Alexander A. Shvartsman aas@cse.uconn.edu  (Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      438 Whitney Road Extension
+	      Storrs, CT  062691133    860/486-3622
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              PROJECT SUMMARY
+Proposal Number: NSF 9988304
+Robust Algorithmic Building
+              Blocks for Parallel Computing 
+PI: Alexander A. Shvartsman
+This research
+              investigates algorithmic approaches to robust building blocks for parallel
+              computing. The research direction is based on the idea that parallel solutions
+              to computational problems can be formulated as compositions of building blocks,
+              components that encapsulate efficient and fault-tolerant parallel
+              implementations of well-defined computation primitives. Building blocks come
+              equipped with precise specifications of their compositionality, and in general
+              provide services at a higher level of abstraction than the operations made
+              available by common parallel programming languages. A major goal of this
+              research is to provide provably efficient building blocks that help the
+              designers of complex parallel applications to concentrate on algorithm design
+              while freeing them from the need to perpetually consider the problem of
+              efficient and effective mapping of the algorithms expressed in some notation to
+              a specific target machine. Traditionally, research in the distributed computing
+              field has concentrated on fault-tolerance, while parallel computing research
+              has taken speed-up as its main focus. This research synthesizes these two foci,
+              and together with the building block methodology, it yields an approach to
+              computing with multiple processors that obtains scalable parallel speed-up,
+              while providing correctness and compositionality guarantees, and enabling
+              graceful degradation in the face of failures. By combining the research on
+              robust parallel computing with the building blocks approach to constructing
+              complex systems, this work intends to substantially advance the
+              state-of-the-art in the theory of effective and efficient parallel computing.
+              Towards this end this research program deals with robust (i.e., efficient and
+              fault-tolerant) algorithms, lower bounds that define the limits for achieving
+              our efficiency goals, composable building blocks that encapsulate key
+              algorithms, and program simulations and transformations that allow to
+              efficiently execute programs specified at a high level of abstraction on the
+              available parallel platforms.

@@ -1,0 +1,62 @@
+Title       : Applying Learning Theory to Networking Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 6,  1998       
+File        : a9734940
+
+Award Number: 9734940
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert Sloan                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $119213             (Estimated)
+Investigator: Sally Goldman sg@cs.wustl.edu  (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will focus on applying results developed by learning  theory
+              researchers to real-life problems.  Such application-based  theoretical work is
+              important so that the learning models and  problems studied capture as best
+              possible the needs of real-life  problems.  Working to apply theoretical
+              techniques to real  problems creates a better understanding of the real-world 
+              problems and thus can help direct the future theoretical work,  facilitating
+              the transfer of results from theory to practice.  Many networking protocols (as
+              well as other system control  algorithms) utilize one or more tunable
+              parameters, e.g.  thresholds and window sizes.  Frequently the methods used to
+              set  or adjust the values of the parameters are ad hoc and are based  on
+              certain assumptions about the operating environment, e.g.  assuming a
+              particular distribution on the traffic patterns in a  communication network.
+              This project will develop framework based  on formal learning methods for
+              automatic parameter tuning in  system control algorithms to study if better
+              performance can be  obtained. One such networking application this project will
+              study  is that of dynamically adjusting delays of acknowledgements in  the TCP
+              protocol.  Delaying  acknowledgements has two main advantages.  First, it
+              allows a  single acknowledgement for more than one packet.  Second, if a  data
+              packet is being sent in the opposite direction, then we can  piggy-back the
+              acknowledgement too much can increase the latency.  Most TCP implementations
+              used today employ some sort of  acknowledgement delay mechanism. This project
+              investigates  several schemes to dynamically adjust acknowledgement delay, 
+              including ones based on the Weighted Majority (WM) algorithms and  ones based
+              on the Exponentially Weighted Moving Average (EWMA)  algorithm.  These schemes
+              will be contrasted based on efficiency  and efficacy , as well as proving
+              theoretical results about them  in terms of how well they respond to "volatile"
+              TCP connections.  That is, if the connecti on occasionally switches from sparse
+              data  transmission (where the goal might be to minimize latency, as in  the
+              case of an interactive application) to dense data  transmission (where the goal
+              might be to minimize the number of  acknowledgements and latency is not as
+              important, as in the case  of a file transfer) and back again.  Simulation
+              results will be  used to supplement the theoretical results. Applying learning 
+              theory results to this problem and other networking problems will  then provide
+              guidance in defining new theoretical learning models  that better model
+              real-life scenarios.  This project will also  carefully develop and study such
+              new learning models.

@@ -1,0 +1,75 @@
+Title       : RARE: Reconfigurable Computing via the Internet
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 7,  2001        
+File        : a0086472
+
+Award Number: 0086472
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2001       
+Expires     : March 31,  2002      (Estimated)
+Expected
+Total Amt.  : $60723              (Estimated)
+Investigator: Clay S. Gloster, Jr.   (Principal Investigator current)
+              Joel J. Ducoste  (Co-Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Frequently, applications that require several hours to a few weeks to execute on
+              typical desktop computers are ported to supercomputers or large compute
+              servers. Not only is this option costly, but often the entire program must be
+              rewritten to effectively utilize multiple processors and other resources
+              available on these systems. Reconfigurable computing (RC) systems can offer an
+              advantage over this option since RC systems have been demonstrated that deliver
+              performance approaching that of a supercomputer at a fraction of the cost.
+              However, not only could it take several months to complete an RC system design,
+              but RC system developers must be trained in both hardware design and software
+              development.
+
+The research project will develop a Remote Adaptive-Computing
+              REsource on the Internet (RARE) that will assist scientists and engineers in
+              solving problems that require excessive execution time when solved on a typical
+              desktop computer. RARE comprises a comprehensive set of routines that have been
+              optimized for high performance on a reconfigurable computer. A novel
+              client/server program interface, developed as a part of this research effort,
+              will manage the loading and execution of user process requests. The user
+              interface to the resource consists of a library of functions and procedures
+              that perform typical scientific/engineering computations. The goal of the
+              project is to speedup local and remote versions of scientific data processing
+              applications by orders of magnitude at reduced costs. Users of the system need
+              only call a local or remote procedure that executes the application on the
+              reconfigurable computing resource. A novel feature is that data is sent to RARE
+              from a remote site, processed on hardware that has been optimized to perform a
+              particular task significantly faster than a typical desktop computer, and
+              transmitted back to the user via the Internet.
+
+Recent experiments verify
+              that remote hardware versions of several algorithms (implemented on a
+              reconfigurable computer) can complete execution significantly faster than
+              logical software versions of the same algorithm (implemented on a typical
+              desktop computer). This statement is true in spite of the communication
+              overhead that is present due to data transmission via the Internet.
+              
+
+Applications in the area of Computational Fluid Dynamics (CFD) are prime
+              candidates for this resource since many of these computer simulation models
+              require enormous execution times. Typically, CFD simulations require the
+              solution of a large number of simultaneous equations or extensive computation
+              of derivatives and/or integrals. One such CFD model, developed at NC State,
+              requires two weeks to run on a desktop computer and this model is only a subset
+              of the complete system simulation. Software profiling reports obtained during
+              execution of these models demonstrate that more than 70% of the total execution
+              time is spent in a small number of atomic procedures. Hence, these applications
+              are the primary focus of this research project.
+
+

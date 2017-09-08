@@ -1,0 +1,67 @@
+Title       : CAREER: Distributed Deduction with Contraction and Foundation of Strategy
+               Analysis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 16,  2001     
+File        : a9701508
+
+Award Number: 9701508
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Maria Paola Bonacina bonacina@cs.uiowa.edu  (Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,2891,9216,HPCC,
+Abstract    :
+              This project has two parts, one in distributed deduction and one  in the theory
+              of theorem-proving strategies.  Distributed  deduction couples the traditional
+              aim of making computation  faster by parallelization, with the aim of
+              investigating new  forms of automated reasoning, that may arise from the
+              combination  of deductive computing and distributed computing.  The research 
+              will consider the coarse-grain parallelization of contraction-  based
+              strategies, that are among the most successful strategies  available,
+              especially on equational problems.  The objective is  to design new techniques
+              to subdivide a theorem-proving problem  among concurrent deductive processes,
+              in such a way that each of  them has less work than a sequential process, and a
+              proof may be  found faster.  This part of the work will consist in the 
+              definition and implementation of distributed strategies with  these features.  
+               Theorem-proving strategies are evaluated usually by testing their 
+              implementations. The long-term goal of the theoretical part of  this research
+              is to make possible some complexity analysis of  theorem-proving strategies
+              prior to implementation, so that  useful features may be recognized sooner. 
+              Recent work by the  proponent shows that progress in this direction is
+              feasible.  This project will develop a methodology of analysis, that covers 
+              both forward reasoning and backward reasoning, sequential and  parallel
+              strategies.  As part of the project the methodology will  be applied to analyze
+              selected features of strategies, such as  contraction, lemmaizing/caching and
+              forms of parallel search.  The two parts of the project are deeply connected,
+              because the  methodology for strategy analysis is based on a model of the 
+              search space and search process, which is used also as a  fundamental tool of
+              analysis to achieve the objectives in  distributed deduction.    The
+              educational component of this project comprises two  objectives in course
+              development.  The first one is the evolution  of an undergraduate cour se in
+              programming language concepts into  a course where the concepts are learnt in
+              functional and logic  programming.  The purpose is to offer to the students
+              some  exposure to paradigms that are underrepresented in the  curriculum.  This
+              is important, since long-lasting programming  maturity requires the flexibility
+              fostered by the practice of  multiple paradigms.  The second one is the
+              development of a  graduate course in artificial intelligence. It will be a
+              course  in logical methods for artificial intelligence, with an emphasis  on
+              fully automated deduction.  The students will acquire a solid  understanding of
+              some of the most important concepts in the  logical foundations of computer
+              science, together with the  preparation for seminars or research projects in
+              deduction. Both  lectures and assignments will emphasize the practical 
+              consequences of the theory, and students will conduct experiments  with
+              state-of-the-art theorem provers.

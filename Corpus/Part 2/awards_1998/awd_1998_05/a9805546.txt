@@ -1,0 +1,62 @@
+Title       : High Order Number Schemes for Multi-Dimensional Systems of Conservation Laws and
+               Conservative Schemes for MultiphaseFluids
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 7,  1998        
+File        : a9805546
+
+Award Number: 9805546
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1998       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $77252              (Estimated)
+Investigator: Xu-Dong Liu xliu@math.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9215,9263,HPCC,OTHR,
+Abstract    :
+              DMS-9805546  Xu-Dong Liu    This project is concerned with several new numerical
+              methods for  solving multidimensional systems of conservation laws, including a
+              new  fully conservative scheme for multi-phase fluid calculations. The first 
+              contribution of this project is the extension of Friedrich's positivity 
+              principle from multi-dimensional symmetric linear systems to systems of 
+              conservation laws, which has become one of the guidelines for designing 
+              numerical methods. A family of positive schemes is constructed.  Positive
+              schemes are very robust, simple and of low cost. Many  numerical experiments
+              have shown that positive schemes are among the  best 2nd order accurate high
+              resolution methods. This is also the first  work of this type which contains
+              theoretical results for scheme design  in multi-dimensional hyperbolic systems.
+              The second contribution of  this project is the new Convex
+              Essential-Non-Oscillatory (CENO) schemes  for multi-dimensional hyperbolic
+              systems. The scheme can be implemented  in component-wise fashion. Therefore
+              its apparent advantages are: (1)  No complete set of eigenvectors is needed and
+              hence weakly hyperbolic  systems can be solved. (2) Component-wise limiting is
+              twice as fast as  field-by-field limiting in each space dimension, which makes
+              Convex ENO  one of the fastest existing schemes. (3) The component-wise version
+              of  the scheme is simple to program. In addition, (4) the Convex ENO scheme  is
+              very robust.  The third contribution of this project is the  introduction of a
+              fully conservative method for multi-phase flow  problems. This new idea enables
+              us to avoid the spurious oscillations  near material interfaces common to all
+              other conservative schemes. This  is done through the addition of a general
+              equation of state.  The new  scheme works essentially for mixture of any fluids
+              such as gamma-law  gas, water and JWL (explosive material). The new idea works
+              in any  space dimension and is scheme-independent, which means it should apply 
+              to a typical users' existi ng code.  Preliminary numerical experiments  show
+              that this scheme is very promising.    This project is aimed at solving real
+              world problems and is intended to  have a significant impact on semiconductor
+              device modeling, underwater  and solid explosives modeling, computational fluid
+              dynamics,  magneto-hydrodynamics, and many other applications, which are all a 
+              part of high-performance computing. The principal goals are: (1) to  design and
+              improve numerical methods for more efficiency, simplicity,  and robustness; (2)
+              to improve computer simulation of multi-phase  fluids. The methods reported in
+              this project are a step towards this  goal.

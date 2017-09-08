@@ -1,0 +1,93 @@
+Title       : CAREER: Geometric Tools for Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a9875024
+
+Award Number: 9875024
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Santosh S. Vempala vempala@math.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              CCR-9875024
+Vempala
+
+The goal of this research is to develop several tools
+              for the design of efficient algorithms and apply them to fundamental
+              algorithmic problems in computer science, as well as to modelling and solving
+              some of the new challenges in the field. 
+
+The design of approximation
+              algorithms lends itself to a particularly geometric interpretation.  There are
+              two steps involved: (1) Find a Relaxation, i.e., a set that encloses the set of
+              solutions to the original problem and is easier to solve, (2) Find a Rounding,
+              i.e., a mapping from a solution of the relaxation to a true solution.  The
+              first idea this project sets out to explore is that of a Convex relaxation. 
+              The set of solutions to the original problem can be viewed as a convex set
+              (viz. Their convex hull) and any convex set enclosing this is a relaxation. 
+              The quality of a relaxation is dependent on how well it estimates the true
+              optimum of the problem.  Building on the past success of this approach, the
+              project pursues promising relaxations for two fundamental problems, finding the
+              Minimum Sparsity Cut (or Conductance) of a graph, and the Minimum Traveling
+              Salesman problem in a directed graph.
+
+The second idea is based on a
+              technique of Lovasz and Schrijver, Called "lift-and-project," to progressively
+              refine any given convex relaxation.  Although the technique has so far been
+              used only to solve special cases of NP-hard problems in polynomial time, it
+              appears to be well-suited for approximation algorithms, and one objective of
+              this research is to adapt it for this purpose.  A natural candidate for this
+              approach is the problem of finding the Maximum Acyclic Subgraph of a directed
+              graph.
+
+The next two ideas are techniques for rounding.  Random Projection
+              has recently enjoyed much success as an algorithmic tool, for problems ranging
+              from VLSI layout to finding nearest neighbors.  Here it is developed by
+              refining its application to the problem of learning the intersection of
+              half-spaces (convex bodies).
+
+It is often the case that a relatively small
+              subset of the solutions to a relaxation, upon rounding, leads to the worst case
+              performance of the algorithm, whereas on average, near-optimum solutions to the
+              relaxation exhibit much better performance.  To exploit this, the idea is to
+              find a Random Near-Optimum of the relaxation, and then round this to a true
+              solution.  The problem of finding a random near-optimum can be solved
+              efficiently via a random walk.  Two candidate problems where this strategy
+              might improve the quality of approximation are the Maximum Cut problem and the
+              Minimum Bandwidth problem.
+
+The last tool is a fast algorithm for
+              approximating a given matrix with another matrix of small rank.  Standard
+              methods to compute such low-rank approximations take time that is polynomial in
+              the size of the matrix.  In the context of problems such as information
+              retrieval on the internet, this can be prohibitively expensive.  I contrast,
+              the running time of the new algorithm depends only on the quality of the
+              desired approximation and not on the size of the matrix.  This algorithm will
+              be applied as a tool to speed up existing (polynomial-time) algorithms for
+              several applications, including linear equations, searching for nearest
+              neighbours, and text and image retrieval.
+
+These ideas are being integrated
+              into education in the form of two courses, one at the senior undergraduate
+              level, and the other at the graduate level.  The former would be based on the
+              basic concepts and successful ideas that come out of this research, while the
+              latter would be exploratory and present promising directions and relatively
+              difficult results.
+
+
+

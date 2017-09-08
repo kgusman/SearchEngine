@@ -1,0 +1,55 @@
+Title       : Parallel Algebraic Recursive Multilevel Solvers: Advances in Scalable and Robust
+               High Performance Linear System Solution Methods
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 30,  2002     
+File        : a0000443
+
+Award Number: 0000443
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2000      
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $469838             (Estimated)
+Investigator: Yousef Saad saad@cs.umn.edu  (Principal Investigator current)
+              Masha Sosonkina  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Parallel iterative methods are leading candidates for solving large-scale
+              engineering and scientific problems, which usually appear as sparse linear
+              systems. However, their robustness and overall efficiency remain mixed and
+              problem-specific. These characteristics are closely tied to the preconditioners
+              used as inputs to these methods. Preconditioners for general sparse linear
+              systems remain by far the biggest stumbling block to obtaining good performance
+              for iterative solution methods on high-performance computers in engineering and
+              scientific applications. Accordingly, the main thrust of this project is to
+              develop a class of preconditioning techniques based on the researchers'
+              Algebraic Recursive Multilevel Solver (ARMS) framework. The researchers will
+              develop the new methods and test them on realistic problems arising from the
+              researchers' collaborations.
+
+The project will develop a class of parallel
+              multi-level ILU-type preconditioning techniques using  ARMS methods. Recursive
+              multi-level ILU methods allow the unification of many standard iterative
+              solvers into a single generic code. Their multi-level nature allows them to
+              bridge the gap between the excellent problem-specifc performance of multigrid
+              methods and the general-purpose nature of preconditioned Krylov solvers. The
+              project will examine performance and scalability for classes of existing and
+              new procedures thus obtained, including Schwartz procedures, Schur complement
+              methods, direct solvers, and multilevel techniques. It will also conduct
+              extensive realistic tests. In summary, this work promises advances in three
+              important components of developing parallel solution methods: effective and
+              scalable algorithms, use of effective computer science tools and data
+              structures, and testing and validation.
+

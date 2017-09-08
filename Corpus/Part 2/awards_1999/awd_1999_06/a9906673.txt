@@ -1,0 +1,99 @@
+Title       : A Terabit IP Router with Advanced QoS Support
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 20,  2003     
+File        : a9906673
+
+Award Number: 9906673
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $454202             (Estimated)
+Investigator: H. Jonathan Chao chao@poly.edu  (Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The Internet is widely considered as the most reachable platform of
+              next-generation information infrastructure.  Although IP/DWDM (internet
+              protocol over dense wavelength division multiplexing) technology has been
+              demonstrated to transport 1 terabit/s bandwidth over a single fiber, the
+              capability of routing IP packets at 1 terabit/s still remains to be seen. 
+              Furthermore, in order to provide different
+quality-of-service (QoS)
+              requirements for the Next Generation Internet (NGI), IETF has suggested the
+              Internet Integrated Services (IIS) with resource ReSerVation signaling protocol
+              (RSVP).  Although several
+algorithms have been proposed to guarantee the
+              stringent delay bound for the guarantee service flows, how to implement them at
+              the aggregate rate of terabit/s remains challenging.
+
+This proposal tackles
+              the problem by designing a large-capacity switch fabric for a terabit IP router
+              and tightly controlling packet delay at the input and output ports of the
+              router.  The proposed terabit IP
+switch router consists of multiple routing
+              modules (RMs) that are interconnected by a fast switch fabric. Each RM forwards
+              arriving packets independently, thus allowing the router to scale flexibly up
+              to terabit/s.  With the application of the following innovations, supporting
+              the IIS at terabit/s is conceivably achievable.
+
+First, a novel dual round
+              robin (DRR) arbitration scheme is proposed to provide statistically bounded
+              delay at the input ports of a nonblocking input-output buffered crossbar packet
+              switch with a moderate speedup.  The DRR is a distributed switch control
+              scheme, in which input selection and output contention resolution are
+              separatedly handled by two independent sets of round-robin arbiters.  The
+              switch is used to provide high speed interconnection among RM's.  By using
+              bit-slice technique with multiple switch planes, the switch operation speed is
+              reduced and can be implemented with low-cost CMOS technology.
+
+Second, a
+              novel token tunneling mechanism is proposed to implement the DRR scheme at
+              terabit/s.  It is shown that with state-of-the-art 0.25-micron CMOS technology,
+              the arbitration time can be as small as
+10 ns for a 256x256 Tb/s packet
+              switch. This scheme can also be extended to handle multiple-priority traffic. 
+              To demonstrate the feasibility of the concept, an application specific
+              integrated circuit (ASIC) that implements the DRR scheme will be
+              prototyped.
+
+Finally, packet fair queuing (PFQ) has been proven capable of
+              providing delay bound guarantee for the IIS.  It will be used at the output
+              ports of the router.  Arrival packets are usually time stamped based on their
+              committed rates.  However, time stamp's computation and sorting always pose a
+              great challenge for high speed networks, especially with hundreds of thousands
+              of flows that need to be supported.  Therefore, a novel RAM-based searching
+              engine (RSE) is proposed to implement the PFQ scheduler at 10 Gb/s for each
+              output
+port at low cost by using off-shelf parts while supporting hundreds of
+              thousands of flows.
+
+Furthermore, due to the heterogeneous networking
+              environment in the Internet, hierarchical packet scheduling is required to
+              accommodate different service classes and multiple Internet Service
+              Providers
+(ISP's).  The shaper-scheduler scheme has been proven capable of
+              providing tight delay bound in the hierarchical packet scheduling environment. 
+              Unfortunately, the scheme is very complicated and has not
+been shown feasible
+              at high speed and at low cost, especially for packet media.  Therefore, a
+              general shaper-scheduler is proposed for both ATM and packet networks.  The
+              concept of the RSE will be extended
+to a two-dimensional RSE (2-D RSE) that
+              implements the general shaper-scheduler.  To demonstrate the feasibility of the
+              concept, a 2-D RSE will also be prototyped.
+
+All the prototypes and the
+              developed technologies will be made transferable to the industry in order to
+              expedite the deployment of the terabit IP routers in the NGI.

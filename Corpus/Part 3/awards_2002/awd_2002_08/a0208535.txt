@@ -1,0 +1,57 @@
+Title       : Towards Improved Logics For Reasoning About Security
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0208535
+
+Award Number: 0208535
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Joseph Y. Halpern halpern@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : ,1667,9218,HPCC,
+Abstract    :
+              
+Security protocols are notoriously difficult to design and prove correct. The
+              goal of this project is to design a logic that deals with a number of
+              deficiencies in current logics.  The focus will be on  two issues: 
+
+(1)
+              Getting more realistic notions of knowledge: Informal arguments regarding the
+              correctness of security protocols often involve statements about knowledge and
+              belief.  Assumptions such as "The adversary does not know the key" and "The
+              participants believe that k is a good session key" are standard.  The standard
+              semantics for these operators has the problem that agents are able to deduce
+              all logical tautologies and the logical consequences of their knowledge.
+              Because agents "know" how to factor, for example, they can break RSA.
+
+(2)
+              Modeling more general intruders: Current logics almost invariably use the
+              Dolev-Yao intruder model, which assume that an intruder can compose messages,
+              replay them, or decipher them if she knows the right keys, but cannot otherwise
+              "crack" encrypted messages.  While useful, this model is restrictive, in that
+              it does not consider the knowledge that agents have of the protocol being run
+              and cannot deal with probabilistic arguments, such as an adversary randomly
+              guessing the right key to use.  
+
+The research will take as its point of
+              departure the standard models of knowledge and belief based on possible worlds,
+              augmented with probability, so as to be able to reason about knowledge and
+              probability.  The notion of algorithmic knowledge, where an agent uses an
+              algorithm to compute what it knows, will be used to deal with resource-bounded
+              reasoning.  
+
+

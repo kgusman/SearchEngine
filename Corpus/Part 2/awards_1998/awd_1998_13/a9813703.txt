@@ -1,0 +1,86 @@
+Title       : Mechanisms for Secure and Robust Agent-Based Distributed Computing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : December 23,  1999  
+File        : a9813703
+
+Award Number: 9813703
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $201131             (Estimated)
+Investigator: Anand Tripathi tripathi@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              A mobile agent is a program  capable  of  migrating  autonomously from
+node  to
+               node, to perform computation on behalf of a human user.  The
+mobile agent
+              paradigm can play a significant  role  in current  and  future
+network-centric
+              applications, especially in the context  of  the  Next
+Generation  Internet.  
+              Security  and robustness  concerns about mobile
+agents are currently
+              identified as the biggest obstacle preventing the
+widespread deployment  and
+              use of agent-based applications.
+
+The primary objective of the proposed
+              research is to  investigate security
+and  robustness  issues  in  building  a 
+              mobile  agent programming system,
+in an open distributed environment,  such 
+              as the  Internet.  The proposed
+research addresses issues related to
+              programming primitives and
+system-level mechanisms  for  building agent-based 
+               applications.    The
+approach  presented  in  this proposal is based on
+              supporting the mobile
+agent  paradigm  using mobile  objects.   This  raises 
+              a  number of
+research challenges related to protection of host  resources, 
+              protection
+of  mobile agents,  and  secrecy  and authenticity of information
+              carried
+by agents. It also requires mechanisms  for  remote  monitoring 
+              and
+control  of  agents,  and recovery from failures. Another related
+              challenge
+to be addressed by this effort is in building  scalable mechanisms 
+              for
+naming and locating objects in the network.  The proposed research will
+              be
+based on the Java language and will use cryptographic  techniques to
+              design
+protocols to solve several of the security problems.  The
+              facilities
+provided by Java (such  as object  serialization,  reflection,
+              security
+features, etc.) will be used in devising mechanisms for agent
+              mobility and
+supporting protection  domains  for  agent  execution  on  remote
+               hosts.
+A prototype implementation of a mobile agent system will  be  built
+              to
+serve  both  as  a  research  infrastructure  as  well  as  a
+              demonstration
+of the  mechanisms  to  be  developed  during  this effort.  
+              The system
+will be evaluated using both theoretical and experimental
+              analyses.
+
+

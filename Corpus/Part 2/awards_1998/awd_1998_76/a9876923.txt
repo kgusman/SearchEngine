@@ -1,0 +1,47 @@
+Title       : Hierarchical Lattice Parallelism
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 28,  2001      
+File        : a9876923
+
+Award Number: 9876923
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $301627             (Estimated)
+Investigator: Scott B. Baden baden@ucsd.edu  (Principal Investigator current)
+              Keiko K. Nomura  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The current generation of high-performance computers are hierachical
+              multiprocessor machines. These computers can be an effective technology for
+              solving challenging problems. However, their complexity leads to an array of
+              tradeoffs in writing programs that hinders timely implementation. In
+              particular, the built-in assumptions of a flat hierarchy in most existing
+              parallel programming models makes it difficult to express efficient
+              hierarchical algorithms needed on these machines. This project will compare two
+              approaches to programming hierarchical parallel machines: an explicitly
+              hierarchical model that is aware of the machine's structure, and a model that
+              abstracts the communication to hide the hierarchy. Both models will be
+              investigated by extending the KeLP2.0 framework, which provides support for
+              masking communication latency (either hierarchical or not) by pipelining. This
+              supports the design of application-specific overlap techniques. The
+              investigators will carry out detailed performance studies of several
+              applications, including Direct Numerical Simulation (DNS) of turbulent flows.
+              The results of these will be incorporated in alternative implementation
+              policies within the KeLP runtime system. The KeLP system will be made available
+              to interested researchers as a possible platform for further investigation in
+              hierarchical parallel programmig.
+

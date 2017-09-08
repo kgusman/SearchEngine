@@ -1,0 +1,115 @@
+Title       : Efficient Algorithms for Molecular Sequences, Evolutionary Trees, and Physical
+               Maps
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a9988353
+
+Award Number: 9988353
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $267427             (Estimated)
+Investigator: Tao Jiang jiang@cs.ucr.edu  (Principal Investigator current)
+Sponsor     : U of Cal Riverside
+	      Office of Research Affairs
+	      Riverside, CA  925210217    909/787-5535
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              "Efficient Algorithms for Molecular Sequences, Evolutionary
+    Trees, and
+              Physical Maps"
+
+PI:  Tao Jiang
+Proposal Number:  9988353
+Institution: 
+              University of California-Riverside
+
+
+
+Project
+              Summary
+---------------
+
+Biological, biomedical and pharmaceutical research
+              is undergoing a major
+revolution as new experimental approaches, such as
+              high-throughput DNA
+sequencing, are yielding unprecedented amounts of genetic
+              data.
+The exploration of this information is critically dependent upon the
+              
+development of advanced computational methods for data analysis.
+From this
+              dependency, a new interdisciplinary research field, 
+{\em Computational
+              Molecular Biology}, has emerged in recent years. This
+project aims at
+              investigating some fundamental algorithmic issues
+in several key areas of
+              computational molecular biology,
+including multiple sequence alignment, the
+              reconstruction of
+evolutionary trees, physical mapping, and DNA
+              sequencing.
+
+Multiple sequence alignment is a standard model for comparing a
+              set of
+(biomolecular) sequences simultaneously. Software tools for computing
+              multiple
+sequence alignments are routinely used by biologists.
+This project
+              continues the study of a unique approach for multiple sequence alignment
+that
+              takes into account the evolutionary history of the input sequences.
+The
+              objectives include improved approximation methods to compute multiple
+sequence
+              alignment and evolutionary tree simultaneously. 
+
+Efficient and accurate
+              inference of evolutionary trees has long been a
+challenging topic for both
+              biologists and computer scientists. 
+This project is especially focused on
+              quartet-based evolutionary tree reconstruction
+methods that attempt to extract
+              topological information about quartets
+(i.e. sets of four) of input species
+              and then recombine these quartet topologies
+into a full evolutionary tree.
+              Efficient approximation algorithms will be 
+devised that explicitly aim at
+              minimizing the inconsistency between the output tree
+and the estimated quartet
+              topologies. 
+
+The other objectives of the project include the study of
+              efficient (approximation)
+algorithms for some combinatorial problems that are
+              motivated by physical mapping and
+(shotgun) DNA sequencing, which are two
+              fundamental steps in the Human Genome Project. 
+Some specific topics to be
+              studied include the complexity of fragment identification
+in multiple complete
+              digest mapping with bounded multiplicity and the approximation
+of (vairants
+              of) shortest superstrings.
+
+Although this research is theoretical in nature,
+              its results will 
+likely have applications (or implications) in the
+              development of software tools
+for multiple sequence alignment, phylogenetic
+              inference, and restriction mapping.
+

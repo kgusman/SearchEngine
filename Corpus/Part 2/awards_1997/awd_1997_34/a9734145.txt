@@ -1,0 +1,49 @@
+Title       : PECASE: An Empirical Investigation of the Dynamics of Measurement-based
+               Admission Control Algorithms Within an Economic Framework
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 23,  1999     
+File        : a9734145
+
+Award Number: 9734145
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1998        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $505000             (Estimated)
+Investigator: Sugih Jamin jamin@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,1187,9135,9218,HPCC,
+Abstract    :
+                    Abstract    On today's Internet, packets are delivered in a best-effort
+              manner.  The Internet Engineering Task Force (IETF) is standardizing support 
+              for realtime packet delivery on the Internet. The viability of  relaxed, as
+              opposed to hard guarantees, realtime services depends  fundamentally on the
+              ability of its measurement-based admission  control algorithms to determine
+              which connection can be admitted to  the network without violating service
+              specifications.  Previous  research has demonstrated the viability of
+              measurement-based admission  control algorithms and relaxed realtime services. 
+              However, two  important questions remain.  First, independent of any specific 
+              algorithm, what traffic characteristics can serve as primary  indicators to
+              guide the setting of an algorithm's parameters?  Second,  can global
+              inefficiencies resulting from the local nature of  independent admission
+              decisions be minimized?  This research proposes  to use equivalent token-bucket
+              filter of aggregate traffic to guide  the setting of the admission control
+              algorithm's parameters, and to  apply a market-based approach to global
+              resource allocation.  While  there is a sizeable body of literature in the
+              application of  market-based control to the allocation of computing resources,
+              no previous  work on distributed resource allocation that involves multiple 
+              resources and takes into account transaction costs, i.e.~the cost to  negotiate
+              and execute a transaction, has been reported.  Further  information on this
+              project is available from 
+              http://irl.eecs.umich.edu/jamin/research/CAREER.html.

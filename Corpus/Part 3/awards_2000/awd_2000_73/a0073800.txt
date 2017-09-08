@@ -1,0 +1,70 @@
+Title       : Program and storage transformations for improving memory performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0073800
+
+Award Number: 0073800
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $120348             (Estimated)
+Investigator: Jagannathan Ramanujam jxr@ece.lsu.edu  (Principal Investigator current)
+Sponsor     : La St U & A&M Coll
+	      330 Thomas Boyd Hall
+	      Baton Rouge, LA  70803    225/578-3386
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Jagannathan Ramanujam, Louisiana State University
+
+
+The performance of
+              programs on modern processors depends critically on
+how their memory access
+              characteristics can be matched to the
+multi-level memory hierarchy commonly
+              used in these processor
+architectures.  The goal of this project is derive
+              compiler
+transformations to improve the memory performance of
+              scientific
+computations. In particular, a combination of program
+              restructuring
+and memory layout transformations of data will be derived to
+              handle a
+larger class of programming constructs than perfect nests and
+              regular
+memory accesses. This project will study several important
+              problems,
+including: (a) strategies to integrate tiling and data shackling
+              in
+order to effectively orchestrate the movement of data through
+              memory
+hierarchies; (b) issues in the design of a
+              sophisticated
+locality-enhancing compiler for regular and irregular codes;
+              (c)
+extensive experimental evaluation of locality-enhancing
+transformations;
+              (d) insights on the interaction between techniques
+for exploiting
+              instruction-level parallelism and register-level reuse;
+and (e) possible
+              insights on improvements in the design of memory
+systems for applications,
+              including the design of application-specific
+cache architectures.  Most
+              importantly, these compiler techniques will
+allow users to easily exploit the
+              enormous computation power in modern
+processor architectures.
+

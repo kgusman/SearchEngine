@@ -1,0 +1,81 @@
+Title       : CAREER: Flexible Strategies for Internet Content Distribution
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 14,  2001       
+File        : a0093296
+
+Award Number: 0093296
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2006        (Estimated)
+Expected
+Total Amt.  : $482467             (Estimated)
+Investigator: John W. Byers byers@cs.bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              The emergence of new technologies for content distribution including content
+              delivery networks (CDNs, end system multicast, distributed content exchange and
+              application-level anycast are fundamentally changing the relationships between
+              consumers and producers of digital content.  Whereas traditional approaches to
+              content delivery are predicated on point-to-point connections from a client to
+              a single origin server, these new mechanisms for content distribution
+              fundamentally undermine the assumptions inherent in that model.  For example,
+              CDNs redirect clients to a number of equivalent replica servers, while end
+              system multicast goes further and blurs the distinction between client and
+              server by requiring that every participant who wishes to access content serve
+              content as well.  To illustrate this point, consider the access graph plotting
+              the flow of TCP connections serving a popular document through the network at
+              an instant in time.  Until very recently, this graph could easily be
+              characterized as forming a hub-and-spoke topology with the hub at the origin
+              server; now its complex structure is little known except perhaps to network
+              engineers within the CDNs themselves.
+   Broadly, the researcher's  interests
+              lie in characterizing the impact that new and increasingly distributed content
+              delivery mechanisms will have on network traffic, resource management and the
+              design of network protocols.  In the research component of the researcher's
+              career development program, he focuses  on strategies for addressing the
+              challenges and opportunities that distributed content delivery mechanisms will
+              place on reliable transport protocols.  In particular, the complex one-to-many
+              and many-to-many relationships between consumers and producers of digital
+              content will place strain on transport protocols such as TCP, as those
+              protocols are not designed to accomodate the fluid interactions which will take
+              place when users have a multiplicity of service options.  The researcher argues
+              for lightweight reliable transport services designed for maximum flexibility
+              which can accomodate connection preemption, connection suspension, connection
+              migration and connection aggregation.  While these considerations are
+              fundamental , they have not been carefully studied in the context of TCP
+              because of daunting technical hurdles, complexity, and absence of a driving
+              need.  The researcher brings new techniques to bear on the problem, as the
+              proposed work leverages his  experience with fast forward error correcting
+              coding techniques which he has  applied in the domain of  reliable multicast
+              [11] and downloading digital content from multiple mirror sites in parallel
+              [10].  In some of the settings  considered, such as dynamic server selection
+              and redirection, the flexibility which the proposed techniques afford can be
+              considered to be a performance optimization, but in other settings, such as
+              providing reliability for end system multicast, the researcher argues that the
+              flexible services proposed are essential to delivering high performance.
+  
+              The proposed educational aspect of the researcher's career development program
+              focuses on enhancing the undergraduate and graduate student experience in his
+              department and building a stronger basis for industrial and inter-institutional
+              networking research collaborations in the Boston area.  Proposed activities
+              center around ongoing projects to promote undergraduate involvement in
+              networking research; to enhance the department's networking curriculum; and to
+              encourage students to participate in the computer science community outside of
+              the university, whether by volunteering at a community outreach program or by
+              becoming involved in local organizations of computer scientists.  An exciting
+              initiative which the researcher is e actively involved in and which will help
+              achieve these goals is the institution of a center for networking research at
+              Boston University.
+

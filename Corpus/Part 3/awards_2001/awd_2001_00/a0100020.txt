@@ -1,0 +1,56 @@
+Title       : Nonconvex Combinatorial Optimization without Auxiliary Binary Variables
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : March 20,  2003     
+File        : a0100020
+
+Award Number: 0100020
+Award Instr.: Continuing grant                             
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 1,  2001       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $405693             (Estimated)
+Investigator: George L. Nemhauser   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0107000   Operations Research                     
+Program Ref : 9147,MANU,
+Abstract    :
+              This project is about solving Nonconvex Combinatorial Optimization Problems
+              (NCOPs) by linear programming based branch-and-bound algorithms.  Most NCOPs
+              can be reformulated as mixed-integer programs (MIPs) by the addition of
+              auxiliary binary variables.  For this reason the study of NCOPs other than MIPs
+              has been very limited.  However, reformulation may have many disadvantages
+              including increasing the size of the problem significantly.  There are some
+              NCOP structures that arise naturally in many practical applications and
+              therefore merit study in their own right.  These include:  (1) semi-continuous
+              -  if a nonnegative variable is positive, it must be at least some positive
+              constant;  (2) k-cardinality -  no more than k variables from a set of n
+              nonnegative variables may be positive;  (3) special ordered set of type 2 -  no
+              more than 2 variables from a sequence of n nonnegative variables may be
+              positive, and if 2 variables are positive, they must be adjacent in the
+              sequence.  The primary objective of this project is to study these and a small
+              number of other NCOP structures, as has been done for MIPS, and to develop
+              preprocessing procedures, polyhedral results (cuts), branching procedures, and
+              primal heuristics for dealing with them directly.  The end result will be
+              efficient branch-and-cut algorithms for linear programs with piecewise linear
+              nonconvex objectives, nonconvex quadratic programs, scheduling and facility
+              location problems, and several other NP-hard problems for which an MIP approach
+              has not been very successful. 
+
+Decision making problems in manufacturing and
+              logistics, such as resource allocation and facility location are represented by
+              optimization models.  This project contributes to the knowledge of algorithms
+              for solving such optimization models that contain certain types of
+              nonlinearities that make the models very difficult to solve. The results of
+              this project will provide significant enhancements to the optimization tools
+              that are used in practice.
+

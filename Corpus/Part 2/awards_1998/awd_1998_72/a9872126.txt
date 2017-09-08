@@ -1,0 +1,79 @@
+Title       : PARASOL: An Adaptive Framework for Parallel Processing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : December 17,  1998  
+File        : a9872126
+
+Award Number: 9872126
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1999    
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $199662             (Estimated)
+Investigator: Lawrence Rauchwerger rwerger@cs.tamu.edu  (Principal Investigator current)
+              Nancy M. Amato  (Co-Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Parallel computers, particularly shared-memory multiprocessors, are
+              now
+widespread.  However, programmers still have great difficulty
+              exploiting
+their potential to obtain good performance on real applications.
+              Parallel
+computing will only be truly successful when this difficulty is
+              removed.
+The investigators attack this problem by statically analyzing
+              programs to
+determine their structure, embedding run-time measurements to
+              determine
+their dynamic needs, and triggering adaptive optimization at
+              run-time that
+is tuned to those needs.
+
+Technically, the investigators and
+              their students plan to explore several
+innovative techniques and/or
+              combinations of known evaluation and
+optimization techniques:
+
+  * Their
+              compiler will insert adaptive capabilities directly into
+    applications,
+              rather than going through a third party such as
+    the operating system. The
+              application will then monitor its system
+    resource usage and control work
+              based on its predicted demands
+    and the optimal workload of the system.
+
+
+               * They will use a parallel performance model for adaptive
+    optimization at
+              run-time. The model will be used to both
+    predict execution times for
+              potential optimizations and to
+    diagnose computational inefficiencies.
+
+ 
+              * They will implement run-time parallelization and optimization
+    techniques
+              and integrate them in the POLARIS compiler and the
+    PARASOL system.
+
+  *
+              They will use run-time parallelization to reduce the impact of
+    latency in
+              the applications.
+
+

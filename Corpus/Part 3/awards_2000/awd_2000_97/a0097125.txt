@@ -1,0 +1,92 @@
+Title       : Recursive Decoding for Reed-Muller Codes and their Modifications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 7,  2003      
+File        : a0097125
+
+Award Number: 0097125
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $308034             (Estimated)
+Investigator: Ilya I. Dumer dumer@ee.ucr.edu  (Principal Investigator current)
+Sponsor     : U of Cal Riverside
+	      Office of Research Affairs
+	      Riverside, CA  925210217    909/787-5535
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Recursive decoding for Reed-Muller codes and their modifications
+	
+Powerful
+              error correction is in great demand in modern communication systems. However,
+              practical performance of the best  codes is often limited due to infeasible
+              decoding complexity or excessive length of the blocks to be used. In
+              particular, optimum maximum likelihood decoding has huge complexity even on
+              short blocks of one hundred bits. By contrast, iterative decoding combines low
+              complexity and superior performance using long blocks that include tens of
+              thousands bits. Therefore this research focuses on code constructions and
+              decoding algorithms that can achieve good performance and low decoding
+              complexity while using the blocks of moderate length. The particular goal of
+              the research is to employ the blocks ranging from 100 bits to 1000 bits, where
+              neither maximum likelihood decoding nor iterative procedures achieve good
+              performance at a low complexity. Due to short lengths and fast decoding, the
+              new codes can be used in a variety of high-speed applications arising in
+              broadband and wireless systems.
+	
+To achieve this goal, the researchers
+              employ fast recursive techniques that split original codes of length n into two
+              codes of length n/2. These techniques are applied to Reed-Muller (RM) codes,
+              their subcodes, and new code modifications. The basic procedure splits the RM
+              code  (r, m)  into the two constituent RM codes  (m - 1, r - 1)  and  (m - 1,
+              r). Decoding is then relegated further to the shorter codes. In all
+              intermediate steps, the decoder only recalculates the reliabilities of the
+              newly defined symbols. Finally, fast optimum decoding is performed on the basic
+              RM codes of the first order. For longer codes, this repetitive multilevel
+              recursion increasingly outperforms other low-complexity algorithms, such as
+              bounded distance decoding and majority decoding.   The procedures are further
+              enhanced by using very short lists of candidates taken in the intermediate
+              steps of the recursion.   Another enhancement uses subcodes of RM codes, for
+              which tracking a few plausible candidates already gives near-maximum likelihood
+              decoding. In particular, even short RM codes of length 128 achieve low output
+              bit error rates (BER) at a signal-to-noise ratio (SNR) of 2.5 dB. Further
+              research topics include:
+	
+General study of recursive decoding algorithms.
+              The goals are:
+	
+(a) to estimate the output BER in each step of multilevel
+              recursions;
+	
+(b) to choose the most protected subcodes of RM codes;
+	
+(c)
+              to evaluate the output BER in recursive list decoding;
+	
+(d) to design new
+              criteria for choosing short lists of candidates.	
+
+Design of new recursive
+              algorithms. The goal is to design more advanced constructions that:
+	
+a)
+              split the original block into multiple subblocks with different levels of
+              protection;
+	
+(b) use the recursions with new constituent codes different
+              from RM codes;
+	
+(c) incorporate permutation techniques in recursive
+              decoding;
+	
+(d) achieve efficient decoding for blocks up to 1024 bits used at
+              SNR of 1 to 2 dB.
+

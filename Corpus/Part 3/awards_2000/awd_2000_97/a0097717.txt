@@ -1,0 +1,59 @@
+Title       : Generating Image Trajectories and Direct Image Jacobians for Visual Servoing
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 14,  2001      
+File        : a0097717
+
+Award Number: 0097717
+Award Instr.: Standard Grant                               
+Prgm Manager: Junku Yuh                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2001      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $171571             (Estimated)
+Investigator: Nicola J. Ferrier ferrier@engr.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              This is a three year standard award. Visual servoing, the use of visual feedback
+              in the control of a robot end-effector, can provide a superior robot interface
+              than those offered by teach pendants or tele-operated systems.  Visual servoing
+              is advantageous when precise fixturing is impractical or impossible. In image
+              based servoing, control is effected in the image.  This method has the
+              advantages that one does not have to reconstruct 3D information about the
+              robot's environment, and that control laws exist that are not overly sensitive
+              to camera calibration errors.  However, there are problems with image based
+              servoing that need to be overcome in order to develop robust, stable systems. 
+              This project will address two issues impeding the application of image-based
+              servoing.  First, image feature-point path planning methods will be developed
+              and demonstrated.  Previous research efforts have focused on the form, and
+              possible decompositions, of the "Image Jacobian", relating manipulator
+              velocities to image motion.  In contrast, this project will develop methods to
+              determining a path within the image to use as input to a "standard" image-based
+              regulator. The PI's approach will both improve controller performance and also
+              ensure the image features remain within the field of view during the
+              manipulation task.  Second, a parameterized direct image-to-actuator model will
+              be analyzed, evaluated, tested, and compared with classical approaches.  The
+              error signal from the image together with the image Jacobian typically map to
+              end-effector velocities which then must be converted to actuator velocities
+              using the robot kinematic model.  A controller that converts image
+              displacements directly to actuator commands would eliminate the intermediate
+              step thus enhancing system performance, both in terms of speed and accuracy. 
+              Addressing issues of robustness and sensitivity will facilitate application of
+              these techniques outside of the laboratory.  Success of this project will
+              facilitate the acceptance of image based servo techniques as a viable control
+              method in production operations.  The key scientific contributions created by
+              this effort will include advances in the design of image based visual servo
+              controllers through (1) the introduction of superior robot motion command
+              generation created through image path planning and (2) the introduction of a
+              parameterized direct image Jacobian with appropriate understanding of the
+              model's limitations.

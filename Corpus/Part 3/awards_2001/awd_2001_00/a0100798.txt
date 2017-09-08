@@ -1,0 +1,88 @@
+Title       : CNPq: Service Differentiation, Efficiency, and Scalability in Distributed
+               E-Commerce Servers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 9,  2001     
+File        : a0100798
+
+Award Number: 0100798
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $155497             (Estimated)
+Investigator: Ricardo Bianchini Ricardob@cs.Rutgers.Edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1085,9218,HPCC,
+Abstract    :
+              The focus of this proposal is the design and implementation of
+cluster-based
+              electronic commerce servers (or simply distributed
+e-commerce servers) that
+              are efficient, scalable, and capable of
+service differentiation.  To achieve
+              these properties, our servers
+will efficiently adapt their quality of service,
+              will efficiently
+handle any type of incoming request according to the client's
+              profile,
+will not involve any centralized resources, and will cache both
+              static
+and certain dynamic content.  The key challenges are in
+              determining
+the set of policies and mechanisms that should be used
+              to
+differentiate the services provided and to implement truly efficient
+and
+              scalable policies and mechanisms for request processing.  At the
+end of the
+              project, we will demonstrate two distributed e-commerce
+servers (an on-line
+              store and an auction server) running on a cluster
+with 64 processors.
+
+The
+              contributions of this project will be the following: (1) A
+complete and
+              general characterization of e-commerce workloads; (2) An
+understanding of the
+              issues involved in service differentiation for
+distributed e-commerce servers,
+              including the use of optimizations
+based on the past history of actions taken
+              by high-priority clients;
+(3) The design, implementation, and evaluation of
+              mechanisms for
+shared state maintenance and transaction support in
+              distributed
+e-commerce servers; and (4) The study of techniques and mechanisms
+              for
+improving the efficiency and scalability of distributed
+              e-commerce
+servers.
+
+We believe that the potential implications of our
+              research and
+contributions are far reaching.  In fact, we think that the
+              impact of
+our research can be substantial, given how significantly
+              various
+companies have come to rely on their on-line networking
+              operations.
+Furthermore, our research can be useful for operating systems
+              and
+distributed systems teaching purposes, as our software
+              infrastructure
+will provide a tool for the study of distributed e-commerce
+              servers.
+

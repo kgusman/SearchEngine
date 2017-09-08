@@ -1,0 +1,42 @@
+Title       : Parallel Algorithms for Generating Large Tables of Primes
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  1996    
+File        : a9634559
+
+Award Number: 9634559
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : January 31,  1998    (Estimated)
+Expected
+Total Amt.  : $15843              (Estimated)
+Investigator: Kathy J. Liszka liszka@uakron.edu  (Principal Investigator current)
+Sponsor     : University of Akron
+	      302 East Buchtel Avenue
+	      Akron, OH  443250001    330/375-7111
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9221,HPCC,
+Abstract    :
+              The search for efficient algorithms to produce primes is  motivated largely by
+              the needs of cryptologists and number  theorists.  Many open problems in these
+              areas rely on very large  tables of primes for their solution.  The Sieve of
+              Erathosthenes  is a well known method for generating tables of primes up to a 
+              given natural number, N.  Significant work has been published  that improves on
+              the original sieve to generate primes, some in  sublinear time.  This project
+              will investigate six variations on  the sieve to generate large tables of
+              primes efficiently using  parallel architectures.  Initial testing and
+              implementation of  the algorithms will be based on selected mapping and 
+              communication structures that are determined to be optimal.  The  most
+              effective architecture will be identified for each  algorithm.  Preliminary
+              data will give insight into the scope of  memory limitations that must be
+              addressed in order to generate  primes to N = 10^18.  Break even points between
+              the various  algorithms will be provided because it is important to determine 
+              how feasible it is to reach a certain point given a particular  algorithm.  ***

@@ -1,0 +1,49 @@
+Title       : SGER: A Framework for Debugging Domain Specific Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  1999    
+File        : a9985560
+
+Award Number: 9985560
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $52766              (Estimated)
+Investigator: Premkumar T. Devanbu devanbu@cs.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2880,9216,9237,HPCC,
+Abstract    :
+              PI's Name: Devanbu, Premkumar T. 
+Institution: University of California,
+              Davis.
+TITLE: A Framework for Debugging Domain-Specific Languages
+
+Domain
+              specific languages (DSL), high-level programming languages with constructs
+              expressing precisely the concepts of a specific application domain, can be used
+              to implement entire applications as DSL scripts.  DSLs are growing in
+              popularity, and are proving to be an effective means of improving productivity.
+               However, people writing applications in domain specific languages are
+              typically without debugging support and must resort to  unpleasant, primitive
+              methods to debug  their scripts. Many  tools  (e.g., parser-generators) support
+              DSL implementation, but a debugger for a DSL still must be built from scratch,
+              without tool support. This project develops a re-usable infrastructure for
+              building DSL debuggers.  By analyzing interpreter-based implementations of
+              DSLs, a uniform, general model of the most common features of the data
+              structures found within the run-times of interpreters is developed.  The model
+              is then  used to leverage a reusable, retargetable debugging framework
+              (comprising a GUI, command interpretation machinery, etc.) that can be added at
+              low cost to an existing interpreter to provide debugging support.
+
+

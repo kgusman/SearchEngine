@@ -1,0 +1,53 @@
+Title       : Type Systems for Secure Remote Evaluation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  1996    
+File        : a9612176
+
+Award Number: 9612176
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $118072             (Estimated)
+Investigator: Geoffrey S. Smith smithg@cs.fiu.edu  (Principal Investigator current)
+Sponsor     : Florida International Univ
+	      11200 SW 8th Street
+	      Miami, FL  33199    305/554-2000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              A remote evaluation system is characterized by a client that  sends a program to
+              a compute server for execution on its behalf.  The server returns to the client
+              the results of executing the  program.  This is in contrast to RPC and CGI
+              scripts which are  examples of server-side programs, not remote evaluation.   
+              Remote evaluation appears to be gaining currency as evidenced by  new
+              programming languages emerging to support it.  Among them are  Telescript, Tcl,
+              Oblique and Java.  The download-and-execute  paradigm supported by Java and
+              Java-compatible Web browsers is an  example of remote evaluation; in this case,
+              however, a Web server  sends a Java-enhanced HTML file to a browser which the
+              browser  then executes.    Server security is a major problem with remote
+              evaluation.  A  server's availability, privacy and integrity must not be 
+              compromised.  Current techniques for ensuring server security is  ad hoc. 
+              There is no precise characterization of what kind of  security properties these
+              techniques can guarantee.  Consequently, the typical reaction is to limit, or
+              in most cases  prohibit altogether, an application's access to server
+              resources.  This greatly weakens the remote evaluation paradigm.    This
+              research investigates the role of programming language  design and type systems
+              in ensuring the security of servers in  remote evaluation systems. 
+              Specifically, the long-term objective  is to develop static analyses, within
+              the context of type  systems, to ensure that remotely-evaluated programs do not
+               violate a server's privacy or integrity.  Type soundness theorems  are being
+              developed and proved with respect to a formal semantics  for a core imperative
+              language.  They precisely characterize the  security properties of well-typed
+              programs written in the  language.  The impact of features such as concurrency
+              and  exceptions in a programming language on security properties is  also
+              investigated.  ***

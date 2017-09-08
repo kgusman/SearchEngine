@@ -1,0 +1,104 @@
+Title       : Approximation Issues in Stability & Control of Distributed Parameter Systems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 17,  1998      
+File        : a9803494
+
+Award Number: 9803494
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1998       
+Expires     : March 31,  2002      (Estimated)
+Expected
+Total Amt.  : $56341              (Estimated)
+Investigator: Richard H. Fabiano fabiano@uncg.edu  (Principal Investigator current)
+Sponsor     : U of NC Greensboro
+	      P.O. Box 26170
+	      Greensboro, NC  274022465    336/334-5878
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9178,9229,SMET,
+Abstract    :
+              The project deals generally with the analysis and development of reliable 
+and
+              suitable approximation schemes for mathematical models of complex 
+physical
+              phenomena such as damped elastic structures, processes with 
+delays, coupled
+              structures (including models of smart materials), etc. A 
+standard approach to
+              analyzing and solving problems for such systems is 
+to instead consider an
+              approximate system, which ideally is both finite 
+dimensional and rich enough
+              to retain properties of the original (infinite 
+dimensional) system. But it is
+              well known that some approximate systems 
+do not retain important properties
+              of the original system, such as growth 
+rate, stability robustness, etc. (In
+              fact, it is well known that some models 
+of elastic structures with boundary
+              damping have an energy decay rate that 
+is not preserved by standard "finite
+              element" or "finite difference" 
+approximate systems). This project focuses on
+              how and why certain 
+properties are retained or lost under approximation, and
+              on developing a 
+systematic method for constructing "property-preserving"
+              approximation 
+schemes. The key is analyzing the geometry (inner product)
+              under which 
+the original system is projected onto the approximating system,
+              and one 
+thrust is that changing geometries can improve approximations so that
+              
+important properties are better preserved. This is a recent idea on which
+              
+the PI has demonstrated successful implementation for some preliminary
+              
+examples. This project will extend in significant ways the method and the
+              
+applications.
+
+There are many practical applications in science and
+              engineering that 
+involve elastic structures, such as large antennae, fluid
+              flow over an 
+airfoil, vibrating buildings, etc. In the presence of evolving
+              "smart 
+materials" and actuator technologies, these lead to complex
+              mathematical 
+models that cannot be fully resolved on even the most powerful
+              
+computers. A standard strategy for overcoming this difficulty is to instead
+              
+consider a simpler model (an "approximation scheme") which is a 
+reasonably
+              good approximation of the original complex model, and which 
+can also be
+              solved on a computer. There are typically many approximation 
+schemes for any
+              given model, and since something is always lost in the 
+approximation, some
+              important questions are - how good is a 'reasonably 
+good approximation'? and
+              - which important properties are lost or 
+preserved? Further, since these
+              computer models are used to better 
+understand and control these complex
+              systems, high-fidelity 
+approximation schemes are essential. This project will
+              focus on these 
+questions, with the goal of developing a systematic
+              methodology for a 
+broad range of applications, and of developing software
+              based on the 
+theory.
+

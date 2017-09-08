@@ -1,0 +1,50 @@
+Title       : The x-chip: An Experiment in Hardware Demultiplexing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 3,  1994     
+File        : a9204390
+
+Award Number: 9204390
+Award Instr.: Continuing grant                             
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $329663             (Estimated)
+Investigator: Larry L. Peterson   (Principal Investigator current)
+              Mary L. Bailey  (Co-Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+                   An important issue in the design of host-network interfaces is            
+              how much protocol processing should be done in hardware (i.e. on               
+              the network device) and how much should be done in software (i.e.,             
+              on the host).  THis issue is becoming increasingly important as                
+              improving network performance puts more and more stress on the end             
+              host.  Recent work in this area has focused on moving one or more              
+              high-level protocols from the host to the network device.  In                  
+              contrast, the principal investigators propose to investigate                   
+              another point on the design spectrum. --a chip that implements a               
+              collection of protocol-independent functions.  The PIs have                    
+              identified key functions that span multiple  protocols, and plan to            
+              provide these functions in hardware.                                           
+                   The chip, called the x-chip is an outgrowth of the PIs' work              
+              on the x-Kernel--software architecture that supports protocol                  
+              implementations.  One of the design philosophies of the x-Kernel               
+              has been to identify tasks that are common to all protocols, and to            
+              provide general software tools that support these tasks.  The                  
+              x-chip takes this philosophy one step further by moving certain                
+              aspects of the support tools into hardware.  The ultimate goal is              
+              to integrate the network device and the network software                       
+              infrastructure vertically.

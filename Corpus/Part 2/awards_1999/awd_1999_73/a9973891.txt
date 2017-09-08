@@ -1,0 +1,86 @@
+Title       : The Exploration of Phylogenetic Tree Space through Combinatorics, Statistics and
+               Geometry
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 26,  1999      
+File        : a9973891
+
+Award Number: 9973891
+Award Instr.: Standard Grant                               
+Prgm Manager: Lloyd E. Douglas                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1999  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $74999              (Estimated)
+Investigator: Susan P. Holmes susan@stat.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 1260      INFRASTRUCTURE PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1592,OTHR,
+Abstract    :
+              The research  proposal I am developing aims to help biologists understand the
+              properties of the space of
+all phylogenetic trees.  I propose to combine three
+              approaches to tackle this problem,
+combinatorial, statistical and
+              geometrical.
+
+I have already made some good progress through a combinatorial
+              approach to the problem that I have started with Persi Diaconis.  We have built
+              a bijection between the space of all phylogenetic trees and the space of
+              perfect matchings.  This has provided new distances between trees, ways of
+              doing random walks on tree space, and a new approach to the $NP$ complete
+              optimization procedures involved in building phylogenetic trees.
+
+The
+              embedding of tree estimation in a statistical framework allows one to see trees
+              as a special type of parameter to be estimated.  The next step needed is the
+              ability to construct confidence regions.  My first work on this subject was
+              done with Brad Efron and Betz Halloran a few years ago and started me on this
+              project.
+
+Currently biologists validate the tree estimated by perturbing the
+              data and then summarizing this simply
+by associating p-values to the branches
+              of the tree.  Communication between statisticians and biologists
+has a
+              difficult history in this field.  One school of taxonomists has been
+              encouraging the use of maximum likelihood for the estimation of the
+              tree.
+
+Other taxonomists have been using parsimony as their criterion, and
+              have been highly critical of
+what they called the `statistical approach'.  In
+              fact their own method is statistical also, but the parsimony method is a
+              nonparametric approach, whereas the Maximum Likelihood is a parametric one. 
+              The MLE model is finite dimensional, however, statisticians know that if one
+              allows the number of parameters to increase as this number becomes larger than
+              the amount of information contained in the data, the method becomes
+              nonparametric.  Making this interpretation known to biologists would be a
+              worthwhile enterprise, the consequence would be that nonparametric-parametric
+              discussion in statistics could enlighten the parsimony-MLE
+              debate.
+
+Understanding the geometry of the tree-space would help understand
+              how to  combine trees obtained from perturbed data or different genes  on the
+              same set of species.  I hope to continue a collaboration I have started with a
+              combinatorialist, Louis Billera and a topologist, Karen Vogtmann on a more
+              mathematical understanding of tree space that would allow for a more natural
+              definition of distances between points in the `tree polytope'. This topological
+              study of tree space is crucial in the definition of a notion of neighborhood
+              that would then allow a definition of continuity in the estimation
+              function.
+
+The notion of confidence region could then be defined, and it
+              would also be possible to combine trees from built from different datasets or
+              to combine trees  with other data (biogeographic, for instance).  Finally I
+              will diffuse my matlab  tree analysis programs and preliminary results through
+              a web site `Geometry of Tree Space'.   This POWRE project is supported by the
+              MPS Office of  Multidisciplinary Activities (OMA).

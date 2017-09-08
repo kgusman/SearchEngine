@@ -1,0 +1,51 @@
+Title       : RIA: Message Passing in Distributed Real-Time Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 26,  1990      
+File        : a9009154
+
+Award Number: 9009154
+Award Instr.: Standard Grant                               
+Prgm Manager: John R. Lehmann                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $62500              (Estimated)
+Investigator: Parameswaran Ramanathan parmesh@ece.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              Due to its potential for high reliability and high performance, a              
+              carefully designed distributed system can make an ideal controller for         
+              real-time applications.  However, the main drawback of a distributed           
+              system is that the communication latency between tasks executing on two        
+              different nodes can be fairly large.  This research is to improve the          
+              communication performance by addressing the problems related to message        
+              passing in a distributed system with point-to-point interconnection            
+              topology.                                                                      
+                                                                                             
+              First, the assignment of deadlines to messages based on the deadlines          
+              of related tasks is formalized.  Message passing techniques are then           
+              developed that have higher probabilities of messages meeting their             
+              assigned deadlines.  Since, by the first objective, the deadlines have         
+              been assigned in a proper manner, the new message passing techniques           
+              result in a better communication mechanism between the real-time tasks.        
+                                                                                             
+              Our approach is to first characterize the probability distribution             
+              function of message delivery times.  Using this distribution, the              
+              deadlines for messages from the deadlines of related tasks will then be        
+              derived.  Finally, use will be made of the multiple disjoint paths in          
+              a distributed system to increase the probability of a message meeting          
+              its assigned deadline.

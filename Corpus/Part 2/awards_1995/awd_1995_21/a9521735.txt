@@ -1,0 +1,50 @@
+Title       : An Integrated Compiler-Runtime Approach to Software Distributed Shared Memory
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 19,  1996     
+File        : a9521735
+
+Award Number: 9521735
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1996      
+Expires     : March 31,  1998      (Estimated)
+Expected
+Total Amt.  : $175000             (Estimated)
+Investigator: Willy Zwaenepoel willy@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              This research effort focuses on an integrated compiler-runtime  approach to
+              support software distributed shared memory (DSM).  The goal is to achieve
+              performance close to hand-tuned message  passing programs while still
+              presenting the user with a shared  memory programming model. The work is
+              primarily directed towards  "networks of workstations", but it is also
+              applicable to  dedicated distributed memory machines like the IBM SP-2. 
+              Notwithstanding advances in the design and implementation of  software DSM
+              systems over the last few years, message passing has  remained the most
+              commonly used method for programming  distributed memory machines, because
+              message passing systems, in  general, perform better than DSM systems.    This
+              proposal addresses this issue by building an integrated  compiler-runtime DSM
+              system, including the optimization of  explicitly parallel shared memory
+              programs through compiler  analysis.  Specifically, the ability of the compiler
+              to predict  access patterns, rather than merely react to them as the runtime 
+              system does, will allow prefetching and aggregation of messages,  and will
+              avoid unnecessary data movement and consistency actions.    The work will be
+              based on the TreadMarks DSM system developed at  Rice.  The proposed work will
+              contribute to the better  utilization of networks of workstations and, more
+              generally,  distributed memory machines for parallel computing. Earlier work 
+              on TreadMarks has already contributed to that goal, in that it  has produced
+              one of the most advanced runtime systems for DSM,  that has been used by other
+              researchers for work in computational  genetics, mixed integer programming, and
+              seismic modeling.  ***

@@ -1,0 +1,48 @@
+Title       : Adaptive Multicast Transport of Realtime Video Over ATM Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 10,  2001       
+File        : a9628109
+
+Award Number: 9628109
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $433133             (Estimated)
+Investigator: Tatsuya Suda suda@ics.uci.edu  (Principal Investigator current)
+              Lubomir F. Bic  (Principal Investigator former)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+                  While existing research shows that reactive congestion control mechanisms 
+              are capable of providing high video quality and channel utilization for 
+              point-to-point real-time video, there has been relatively little study of  the
+              reactive congestion control of point-to-multipoint video, especially in  ATM
+              networks.  Problems complicating the provision of multicast,  feedback-based,
+              real-time video service include (1) implosion of feedback  returning to the
+              source as the number of multicast destinations increases,  and (2) variance in
+              the amount of available bandwidth on different branches  in the multipoint
+              connection.    The proposed research addresses and solves the two problems
+              mentioned above  by introducing and investigating a new service for real-time
+              multicast  video.  Multipoint feedback mechanisms are used to adaptively
+              control the  transmission rates of each layer of a multi-layered video stream. 
+              The  proposed service relies on adaptive, multi-layered coding at the video 
+              source and closed-loop feedback from the network in order to control the  high
+              and low priority video generation rates of the video encoder.  It also 
+              supports a minimum bandwidth guarantee and the best effort support of video 
+              traffic exceeding the minimum rate.    To study these mechanisms, mathematical
+              analysis, simulations, and  empirical experiments using the ATM testbed network
+              available to the P.I.  are employed.

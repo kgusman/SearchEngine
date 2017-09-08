@@ -1,0 +1,61 @@
+Title       : Fast Algorithms for Tomography
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 28,  1999 
+File        : a9972980
+
+Award Number: 9972980
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $198105             (Estimated)
+Investigator: Yoram Bresler ybresler@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              FAST ALGORITHMS FOR TOMOGRAPHY
+
+PI: Yoram Bresler
+
+Tomography, or the
+              reconstruction of an object from a collection of its line integrals from
+              various directions (known as its Radon transform) is a well-studied problem. 
+              Perhaps most importantly, it is the principle underlying most of the key
+              diagnostic imaging modalities including x-ray Tomography (CT), PET and SPECT,
+              certain forms of MRI, and emerging techniques such as electrical impedance
+              tomography (EIT) and optical tomography.  Tomography is also the fundamental
+              principle in numerous other problems and applications in science and
+              engineering -- from electron microscopy of subcellular structures and
+              nondestructive evaluation (NDE) in manufacturing, through geophysical
+              exploration and environmental monitoring, to remote sensing by synthetic
+              aperture radar (SAR).  The most widely used technique for solving the
+              tomographic problem is known as Filtered Backprojection (FBP), and is
+              ubiquitous in the realm of medical x-ray CT. But the FBP method is slow, and
+              new technologies are making data acquisition possible at rates that cannot be
+              handled by the FBP method and existing computer technology.  This research
+              involves new ways of solving the tomography problem that use a very small
+              fraction of the effort required by the FBP.
+
+The investigator is studying a
+              number of promising techniques for accelerating the FBP reconstruction
+              algorithm.  He has discovered that the Radon transform can be factored in a
+              special way, and that this new factorization leads to an O(N^2 log N) method
+              (for reconstructing an N X N image from N projections) for solving the
+              tomographic problems, as opposed to the FBP method, which is an O(N^3) method. 
+              For large N, as are typically encountered in third or fourth generation x-ray
+              CT systems, this represents a speedup of nearly two orders of magnitude.  This
+              research also involves the use of this factorization to accelerate solutions to
+              more complicated tomographic problems, in which data are missing or
+              distorted.
+

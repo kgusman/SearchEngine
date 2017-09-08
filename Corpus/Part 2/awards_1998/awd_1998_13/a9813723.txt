@@ -1,0 +1,90 @@
+Title       : Fast Scalable Level Four Switching
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 19,  2002      
+File        : a9813723
+
+Award Number: 9813723
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $965353             (Estimated)
+Investigator: Jonathan S. Turner jst@cs.wustl.edu  (Principal Investigator current)
+              Subhash Suri  (Co-Principal Investigator current)
+              George Varghese  (Co-Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 
+Program Ref : 4095,9218,HPCC,
+Abstract    :
+              Looking up the route to send a message is a major bottleneck in
+              traditional
+Internet Routers.   Traditional routers only use the destination
+              address in
+a message to determine how to forward the message.   However, in
+              the last
+few years, there have been proposals for more sophisticated routers
+              that
+are capable of what is called Layer 4 Switching.  We believe that
+              the
+capabilities provided by Layer 4 Switching in terms of security, quality
+              of
+service, and guaranteed service will make Layer 4 Switching an
+              integral
+part of the Next Generation Internet.
+
+In Layer Four switching, the
+              route and resources allocated to a packet are
+determined by the destination
+              address as well as other header fields of the
+packet (such as source address,
+              TCP port numbers etc.).  Layer Four
+Switching unifies a number of recent
+              trends (such as firewall  processing,
+resource reservation, providing virtual
+              private networks) into a single
+framework.  The forwarding database of this
+              new kind of router consists of
+a potentially large number of filters on key
+              header fields.  A given packet
+header can match multiple filters; thus each
+              filter is given a cost, and
+the packet is forwarded using the least cost
+              filter that matches the packet
+headers.
+
+The flexibility and service
+              differentiation provided by Layer 4 Switching
+comes at a cost.  Given that
+              traditional Internet forwarding based only on
+destination addresses is itself
+              a challenge to implement at Gigabit speeds,
+Layer 4 Switching at Gigabit
+              speeds is a difficult problem for next
+generation routers.  In this proposal,
+              we address the question of designing
+and implementing fast algorithms for
+              Layer 4 Switching that can be
+implemented at Gigabit speeds even with hundreds
+              of thousands of filters.
+We introduce three promising candidate algorithms
+              (cross-producting, Grid
+of Tries, and Tuple Search).  We propose to implement,
+              evaluate, and
+fine-tune these new ideas, consider combination schemes, and to
+              search for
+other fast algorithms for fast filter matching.  As part of our
+              proposal we
+plan to design a chip capable of doing Layer 4 Switching at
+              Gigabit speeds.
+
+

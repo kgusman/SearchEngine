@@ -1,0 +1,141 @@
+Title       : CARGO: Multi-Scale Topological Analysis of Time-Evolving Shapes
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : March 29,  2002     
+File        : a0138420
+
+Award Number: 0138420
+Award Instr.: Continuing grant                             
+Prgm Manager: Benjamin M. Mann                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : May 1,  2002        
+Expires     : April 30,  2005      (Estimated)
+Expected
+Total Amt.  : $600000             (Estimated)
+Investigator: Jarek Rossignac jarek@cc.gatech.edu  (Principal Investigator current)
+              Greg Turk  (Co-Principal Investigator current)
+              Robert W. Ghrist  (Co-Principal Investigator current)
+              Andrzej Szymczak  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1260      INFRASTRUCTURE PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              DMS-0138420
+Jarek Rossignac
+
+We propose to develop the theoretical
+              foundations and a 
+set of practical computing tools for the automatic analysis
+              
+of time-evolving shapes. Given a family of surfaces that 
+represent the
+              boundary of a 3D shape whose geometry and 
+topology change with time, we
+              propose to construct a 
+higher-dimensional multiresolution representation,
+              which 
+we have named Atlas Transition Diagram, abbreviated ATD, 
+that will
+              identify and track the morphological and 
+topological features of the 3D shape
+              as they evolve with 
+time and with resolution. Our ATD will also associate a
+              
+chart to each feature, thus providing a surface-parameterization 
+that
+              naturally follows the branches and handles of each 
+shape in the family. The
+              charts evolve smoothly with time 
+and resolution and are topologically glued
+              together at 
+their common boundaries to provide a continuous mapping,
+              
+S(r,t,u,v;f); f), that, given a feature ff, a resolution rr, 
+a time tt, and
+              two parameters u and v, will identify a 
+unique point on the surface and will
+              allow us to trace 
+its evolution with rr and tt. The theoretical underpinnings
+              
+and algorithmic designs that will lead to a practical 
+implementation of an
+              efficient system for building and 
+querying ATDs go far beyond simple
+              extensions of Morse 
+theory, of surface segmentation approaches, and of
+              
+multi-resolution techniques, which have so far been 
+mainly explored for
+              static surfaces in 3D.
+
+Evolving surfaces are important to many scientific
+              
+and engineering disciplines, including medicine, 
+developmental biology,
+              cell biology, computational 
+fluid dynamics and computer aided design. They
+              may 
+for example represent the growth of a tumor, the shifting 
+in position
+              of a vortex over an airplane wing, or the 
+budding of fingers on the hand of a
+              human embryo.  We 
+propose to develop and integrate a collection of
+              
+theoretical and algorithmic tools for the analysis 
+and automated
+              visualization of such evolutions. These 
+tools will allow us to partition the
+              evolving surface 
+into features upon which a high-level description of 
+the
+              shape of the surface and of its evolution will be 
+based. Furthermore, they
+              will allow us to track their 
+points, and thus surface properties, through
+              time and 
+to better visualize their evolutions through texture 
+maps that
+              continuously evolve with the features and 
+highlight their boundaries and
+              natural orientation. 
+Finally, these tools will help us support queries
+              
+about the time and nature of topological changes 
+in the evolving surface,
+              which may be important for 
+the automatic analysis and retrieval of scientific
+              
+datasets. To achieve these results, we propose to 
+build a surface
+              representation that is controlled 
+independently or simultaneously by time and
+              resolution 
+and to decompose the time/resolution domain into cells 
+where the
+              surface topology (number of components and 
+through holes) and its partition
+              into features remain 
+constant. To validate our theoretical contributions
+              
+and to increase their impact on the community, we plan 
+to develop a
+              prototype implementation for animated 
+objects with triangulated boundaries.
+              We expect to 
+make the source code of this implementation and its
+              
+programming interface publicly available. We envision 
+exploring
+              collaborations with application developers 
+in Science, Engineering, Medicine
+              and Biology to help 
+us refine and validate this approach.
+

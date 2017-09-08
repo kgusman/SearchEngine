@@ -1,0 +1,80 @@
+Title       : Measurement-based Traffic Characterization and Resource Allocation
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 16,  2002     
+File        : a9980561
+
+Award Number: 9980561
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2000      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $274370             (Estimated)
+Investigator: Thomas M. Chen tchen@engr.smu.edu  (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Compared to traditional voice and data networks, next generation networks
+              will present more difficult challenges to traffic control because (1) the
+              carried traffic will be much more diverse and complex in nature, (2) traffic
+              rates will be faster, and (3) network performance levels must be protected for
+              certain applications requiring a quality of service (QoS).  Traffic analysts
+              attempt to gain an understanding of the stochastic nature of the traffic from
+              volumes of collected traffic measurements, and derive traffic models and
+              control algorithms to manage network resources (such as connection admission
+              control in ATM networks). Unfortunately, traffic analysis is typically a time
+              consuming process and requires a high level of statistical expertise.  Many
+              stochastic traffic models have been studied but methods for evaluating their
+              validity for real traffic are generally lacking.  The objective of the proposed
+              research is to improve understanding of real network traffic by developing
+              systematic methods for processing raw traffic measurements, deriving traffic
+              characteristics, and applying these characteristics to real-time resource
+              management.  The approach is based on a modular library of traffic models and
+              statistical estimation techniques to fit and test each
+model to observed
+              traffic.
+     The proposed research project will be carried out in three
+              phases.  The first phase will develop a modular library of traffic models
+              including the well-known Markov on-off model, Markov modulated Poisson process
+              (MMPP), Markov modulated fluid, autoregressive process, and fractional brownian
+              motion or other self-similar models.  Each model consists of a number of
+              estimatable parameters and a set of structural properties.  Research in the
+              first phase will derive parameter estimation methods for each traffic model
+              using maximum likelihood estimation or Bayesian estimation, and evaluate the
+              validity of each model using hypothesis testing, chi-square goodness of fit
+              tests, and other tests depending on the particular properties of each model. 
+              Given raw traffic measurements, the best-fit traffic model in the library can
+              be methodically selected at any time.
+     The second phase of the proposed
+              project will derive efficient sequential estimators from the first phase and
+              implement these estimators in software for real-time traffic analysis and
+              visualization.  The software will work with a hardware traffic collection
+              system to infer general statistical characteristics (such as burstiness) and
+              display the best fitting traffic model. The traffic model will reveal the
+              underlying behavioral properties of the traffic.
+     Finally, the third phase
+              will study real-time resource allocation using the estimation methods and
+              software from the earlier phases.  Instead of assuming a traffic model a priori
+              for resource allocation, the proposed method will dynamically select the best
+              fitting traffic model from a library and adapt resource allocation decisions in
+              real time.  This approach may eliminate the uncertainty and inaccuracy in the
+              traditional static approach.  The method will be studied by means of OPNET
+              simulations for the specific problem of ATM connection admission control.
+    
+              Successful results from the proposed project will be software tools and
+              algorithms to help network
+administrators gain insight into the nature of
+              network traffic and fine-tune their control of network resources.  The project
+              will also be useful to researchers, educators, and students by providing tools
+              to examine real traffic and understand underlying behavior.
+

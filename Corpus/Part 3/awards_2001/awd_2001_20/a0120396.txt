@@ -1,0 +1,84 @@
+Title       : High-Frequency Low-Noise Mixed-Signal Adaptive Equalizer Towards SOC Design of
+               Data Transmission Circuits
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 15,  2002      
+File        : a0120396
+
+Award Number: 0120396
+Award Instr.: Continuing grant                             
+Prgm Manager: Kawthar A. Zaki                         
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2002    
+Expires     : December 31,  2004   (Estimated)
+Expected
+Total Amt.  : $225000             (Estimated)
+Investigator: Jin Liu jinliu@utdallas.edu  (Principal Investigator current)
+              John P. Fonseka  (Co-Principal Investigator current)
+              David K. Johnson  (Co-Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 1519      INTEGRATIVE SYSTEMS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,1752,OTHR,
+Abstract    :
+              This research proposes to design a 1GHz receiver equalizer in CMOS technology
+              for system-on-chip (SOC) implementation of high-speed long transmission
+              distance transceivers.  Analog FIR filter will be used as the equalizing
+              filter, which has higher speed than the equalizing filters commonly used today.
+              This proposal will address the challenges in designing high-speed FIR filters,
+              including analog tap delay line and the learning algorithms. A low-noise error
+              detection scheme is proposed and will be studied in terms of communication
+              theory for better understanding and improvements. Potential application of the
+              proposed equalizer in high-speed wireless data communications will also be
+              studied. In addition, we propose to explore design for test methodology for
+              low-cost test, diagnostics, and characterization of the proposed adaptive
+              mixed-signal equalizer.
+
+In data transmissions, the signal containing the
+              data is attenuated when transmitted through media and the attenuation is a
+              function of the transmission distance and frequency. Frequency dependent
+              attenuation within the signal bandwidth causes inter-symbol-interference (ISI)
+              in the received signal. ISI in turn causes errors in data recovery, thus limits
+              the transmission distance and transmission rate. To reduce ISI, the frequency
+              dependent attenuation must be compensated, or equalized.
+
+Depending on the
+              transmission media, the state of the art CMOS transceivers operate at the
+              speeds ranging from 100-Mbit/s to about 10-Gbit/s. Currently, equalization is
+              only used in lower speed (100- to 200-Mbit/s) data transmission over low-cost
+              cables (around 130-meter UTP5 cables). For transmission bit rates in the order
+              of Gbit/s, pre-emphasizing filters have been used
+to boost high frequency
+              components in the transmitter. Multiplexing techniques, such as
+multilevel
+              signaling and multi-phase clocks, allow the pre-emphasizing filters to operate
+              at
+several-hundred-MHz, while enabling multi-Gbit/s data transmission. But,
+              pre-emphasizing
+filter boosts the high frequency components of the transmitted
+              signal and introduces strong
+emission in the transmitter. To avoid emission
+              problems, receiver equalizer is more desirable.
+The main challenges of
+              receiver equalizer are the design of high-speed equalizing filters and
+              the
+complexity of filter adaptation algorithm.
+
+One of the broader impacts
+              of the proposed activity is on providing trained mixed-signal
+design engineers
+              for the industry. There has been growing concern over the expected shortage
+              of
+graduating engineers specialized in the mixed-signal circuit design area.
+              The proposed research
+will strengthen the mixed-signal circuit design program
+              in university for educating skilled design
+engineers for industry.
+
+

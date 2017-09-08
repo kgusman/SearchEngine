@@ -1,0 +1,53 @@
+Title       : CAREER: rePLay: a Microarchitecture to Support Dynamic Program Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 12,  2003     
+File        : a0092740
+
+Award Number: 0092740
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2001  
+Expires     : January 31,  2006    (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Sanjay J. Patel sjp@crhc.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,1187,9215,HPCC,
+Abstract    :
+              Dynamic optimization is a newly emerging area of computer systems research that
+              offers good potential for large  advances in computer performance.  The crux of
+              dynamic optimization is the incorporation of dynamic information available only
+              at execution time into the optimization process.  Examples of potentially
+              useful dynamic information include the likely behavior of branches and the
+              likely values of operands. More immediate access to run-time information gives
+              dynamic optimizers a notable edge over traditional static optimizers.
+
+The
+              rePLay Framework is a set of microarchitectural components for supporting
+              dynamic optimization.  RePLay contains hardware that allows the dynamic
+              optimizer to run in parallel with program execution thereby reducing the large
+              overheads associated with dynamic optimization. RePLay contains hardware for
+              identifying candidate regions, for optimizing these regions, fetching regions,
+              and sequencing between them.  Furthermore, this microarchitecture creates a
+              tight coupling between the optimizer and hardware that detects run-time events.
+                Initial results indicate that dynamic information can be used to create very
+              long (approx   100 instructions) atomic, single entry, single exit regions of
+              code for optimization.
+
+The research focuses on the development of the rePLay
+              Framework, specifically in the development of
+hardware-based optimizations and
+              hardware schemes to support potentially speculative value-based
+              optimizations.
+
+

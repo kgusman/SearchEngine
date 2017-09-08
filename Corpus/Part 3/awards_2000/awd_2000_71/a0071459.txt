@@ -1,0 +1,115 @@
+Title       : Space Decomposition Methods in Nonsmooth Optimization
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 12,  2000      
+File        : a0071459
+
+Award Number: 0071459
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  2000      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Robert B. Mifflin mifflin@math.wsu.edu  (Principal Investigator current)
+Sponsor     : Washington State Univ
+	      Office of Grants & Research Dev
+	      Pullman, WA  991643140    509/335-9661
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              
+ Abstract for Space Decomposition Methods in Nonsmooth Optimization
+ DMS
+              0071459 
+
+The proposed research concerns developing theory and methods for
+              combining 
+polyhedral and quadratic approximation to produce a rapidly
+              convergent 
+algorithm for minimizing a nonsmooth function of many variables.
+              The idea 
+is to use a bundle method to determine a so-called VU-space
+              decomposition 
+such that on V-space the cutting-plane aspect of bundling works
+              fast and on 
+U-space a quasi-Newton approximation of a Hessian of a
+              U-Lagrangian can be 
+employed. Such methods can be used to solve large or
+              complicated 
+optimization models via separation of variables or constraints.
+              For 
+example, a water pressure control problem of finding values for flow
+              rates 
+and pump pressure gaps to minimize pumping cost subject to maintaining
+              
+water pressures in allowable ranges at all points in a pipe network can be
+              
+solved via separation of the variables. If the flow rates are fixed then
+              
+the subproblem of finding optimal values for the pressure gaps is an
+              
+easy-to-solve linear minimization problem. With this approach the outer
+              
+problem of finding optimal values for the flow variables is a nonsmooth
+              
+problem whose solution can be found efficiently via the techniques to be
+              
+developed. The theoretical research is concerned with properly defining a
+              
+class of functions which is special enough for the members to have
+              
+U-Hessians and general enough to include functions from many
+              
+applications.
+
+The computational methods proposed for development are
+              significant because 
+they can be applied in many practical decision-making
+              situations. These 
+include the determination of values of parameters for
+              fitting models to 
+data such as in topographic or geophysical modeling. They
+              also include 
+application of decomposition techniques to large or complicated
+              models such 
+as those occurring in allocation of scarce resources, traffic
+              assignment, 
+manufacturing, structural engineering, logistics and strategic
+              planning. 
+The pipe network problem in the first paragraph is an important
+              example 
+occurring in civil infrastructure design. It illustrates the need to
+              make 
+trade-off decisions when considering conflicting design criteria such as
+              
+simultaneously having high reliability and low cost. Another area of
+              
+application is in power system planning subject to environmental protection
+              
+constraints. These decision  models will increase in importance as
+              
+deregulation of the energy supply sector takes effect. These problems
+              
+naturally decompose into higher level problems of deciding which types and
+              
+sizes of power generation plants to build and lower level problems of
+              
+deciding how best to operate the various units to meet daily energy demand.
+              
+Additionally, this research fits in well with on-going efforts in
+              
+high-performance computing, because its methods will utilize parallel
+              
+processing for solving very large and/or very complex
+              decision-making
+problems.
+
+
+

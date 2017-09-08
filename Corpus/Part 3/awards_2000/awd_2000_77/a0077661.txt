@@ -1,0 +1,68 @@
+Title       : A Content - Indexed Image Database of Cetacean Fins
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : October 30,  2002   
+File        : a0077661
+
+Award Number: 0077661
+Award Instr.: Continuing grant                             
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 1,  2000     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $810433             (Estimated)
+Investigator: Gilbert R. Hillman gil.hillman@utmb.edu  (Principal Investigator current)
+              Bernd G. Wursig  (Co-Principal Investigator current)
+              Nasser Kehtarnavaz  (Co-Principal Investigator current)
+Sponsor     : U of Texas Med Branch Gal
+	      301 University Boulevard
+	      Galveston, TX  775550136    409/761-1011
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0104000   Information Systems                     
+              0510204   Data Banks & Software Design            
+Program Ref : 9184,BIOT,
+Abstract    :
+              During the three-year period 1997 to 2000, a computer software system was
+              developed to assist biologists in identifying individual dolphins in field
+              photographs. The system maintains a database of dorsal fin images, and matches
+              new images to the individuals in the collection. The system is in use in the
+              laboratories of colleagues. During the three year period of this award, new
+              data acquisition, feature extraction and indexing techniques will be
+              introduced, improving the system's performance and extending its use to
+              additional biological species.
+
+Many field photographs are unusable because
+              of poor photographic quality, caused by motion blur, splashes, or glints of
+              reflected sunlight that obscure part of the fin's boundary. This problem will
+              be addressed by using digital video data acquisition. Sequential frames showing
+              the same fin will be combined, reducing noise and interference and increasing
+              the likelihood of obtaining usable images. 
+
+The analysis of the shape of the
+              trailing edge of the dorsal fin will be extended by using spatially coarse
+              descriptors that capture the overall distribution of notches. These descriptors
+              will be computed automatically and will capture properties such as "has deep
+              notches" and "most notches are near the tip." These properties will be more
+              robust than matching the exact edge shape, and will rapidly narrow the search
+              and reduce errors.
+
+A variant on the kd-tree search strategy, based on
+              interval arithmetic, will be introduced. The use of interval-valued database
+              indices will allow searching to accommodate scaling and geometric uncertainties
+              without trial-and-error variation.
+
+The system will be extended to humpback
+              and sperm whale tail fluke images, introducing new features as indices.
+              
+
+Arrangements have been made for collaborative testing by prominent
+              laboratories that maintain large collections of marine mammal sightings as
+              photographic archives. The project will interact with these groups, supporting
+              them as they use the project's system and using their criticisms and
+              suggestions to improve the photo-identification system.
+

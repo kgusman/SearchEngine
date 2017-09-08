@@ -1,0 +1,81 @@
+Title       : ITR: Scalable Edge Router for Differentiated Services Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 16,  2002 
+File        : a0219110
+
+Award Number: 0219110
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $363680             (Estimated)
+Investigator: Bharat Bhargava bb@cs.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              This research studies and designs coordinated trafficconditioning, network
+              monitoring, flow control, and provisions the networkproperly to meet the
+              demands for data and multimedia traffic
+in various applications. An edge
+              router component to monitor a large network for service level agreement (SLA)
+              violations and bandwidth theft attacks is developed. This network monitoring
+              scheme involves only edge routers. The conditioner and flow control components
+              alleviate the congestion and unfairness in resource allocation. The edge
+              routers share the congestion information with upstream routers to save resource
+              wastage in the downstream domains. 
+
+Continuous monitoring of network
+              activity is required to maintain confidence in the security of networks with
+              quality of service (QoS) support. These solutions have to be scalable in order
+              to
+deploy them in the heterogeneous Internet. A scalable edge router cannot
+              use excessive per-flow information and cannot involve core routers. The
+              researchers follow this principle in designing edge routers to
+              achievescalability. 
+
+The following is a list of contributions that are
+              obtainedthrough experiments, simulation, and collaboration with industry.
+
+1.
+              For the edge router, we determine the optimal traffic assignment rate for each
+              traffic class and weight assignments at the queue to maximize the profit for
+              the service provider of a network
+domain. Proper provisioning provides service
+              level agreement bounds, such as throughput, delay, and loss for each
+              user.
+
+2. To ensure all flows are getting their share of SLA, the flows of a
+              network domain is monitored for possible SLA violation and bandwidth theft
+              attack. We define and employ throughput,
+delay, packet loss, and security as
+              QoS parameters for the design of an edge-to-edge SLA monitoring scheme. This
+              contributes to detecting service violations and attacks, especially denial of
+              service (DoS) attacks.
+
+3. The traffic conditioners at the edge routers
+              intelligently mark and shape packets differentially based on the class
+              parameters and according to network state.  Through experimental studies,
+we
+              show that the flow characteristics provide better resource utilization and
+              improve the application level quality of service.
+
+4. The edge routers detect
+              and regulate unresponsive flows that cause poor performance for adaptive flows,
+              such as TCP, which retreats during congestion. The ingress (entry) edge
+              routers
+propagate the congestion information to the egress (exit) routers of a
+              previous upstream network domain. This reduces the resource wastage at the
+              downstream network due to undelivered
+packets.
+

@@ -1,0 +1,54 @@
+Title       : Theory and System Building for Asynchronous Parallel Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 11,  1997      
+File        : a9700365
+
+Award Number: 9700365
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1997      
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $211646             (Estimated)
+Investigator: Michael O. Rabin rabin@deas.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+                The thrust of this project is to extend the underlying theory,  enhance,
+              perfect, test, and write applications for the Octopus  System which was
+              developed by the PI during 1994-96.  Octopus is  a uniquely novel software
+              layer that harnesses together the  computing power of clustered workstations or
+              PC boards to produce  a fault-tolerant, scalable system which provides high
+              throughput  and fast turnaround for large parallel computations.  Octopus is 
+              based on and realizes previous and current fundamental work and  is a prime
+              example for theory translated into an actual system.  The project continues the
+              fundamental work side by side with the  system building work, to the mutual
+              benefit of both, and  investigates further applications of randomization. Over
+              the past  four years the PI has innovated, in collaboration with others, a 
+              theory of asynchronous parallel computations.  The Asynchronous  Parallel
+              System (APS), consists of a number of processors  executing at possibly
+              different rates and addressing a logically  (but not necessarily physically)
+              shared memory.  The theory  showed how to efficiently simulate the execution of
+              parallel  programs written for synchronous parallel computers without  faults
+              on realistic asynchronous parallel systems in which  processors may also fail. 
+              The most efficient simulations were  developed for large-grained n-thread
+              parallel programs.  In such  a program most threads execute a substantial block
+              of  instructions within each parallel step, and the program variables  comprise
+              a large number of memory words (examples are: a row of a  large matrix, or a
+              string of keys in a parallel merge-sort).  A cluster of workstations or PC
+              boards connected by a high  bandwidth switch is one realization of the APS
+              model.  The  asynchrony arises from the absence of a common driving clock and 
+              the fact that each node may be multi-programmed.  The Octopus  System consists
+              of such a cluster managed by the Octopus layer.  The system is up and running
+              and realizes the control, loa d  distribution, and fault-tolerance properties
+              of Octopus.

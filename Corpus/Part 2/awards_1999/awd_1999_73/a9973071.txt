@@ -1,0 +1,99 @@
+Title       : A Computational Framework for Multi-Rigid-Body Dynamics with Contact and
+               Friction
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 5,  1999     
+File        : a9973071
+
+Award Number: 9973071
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Mihai Anitescu anitescu@math.pitt.edu  (Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              This research investigates fundamental challenges in creating
+multi-rigid-body
+              simulation environments that have a robust and
+realistic behavior for a large
+              class of configurations and
+interactions. The problem specifically targeted by
+              this proposal is
+the difficulty, due to the apparent lack of solutions of the
+              resulting
+model, in consistently formulating and efficiently solving
+              the
+constrained Newton laws of mechanics when Coulomb friction is
+involved. 
+              Recent results, partly developed by the author have shown
+that a well-defined
+              numerical approach is possible in an
+impulse-velocity complementarity
+              formulation. The proposed research
+addresses the need to integrate recent
+              developments in the study of
+models of friction with advanced numerical
+              integration and
+optimization techniques.  The complementarity formulation will
+              play a
+central part in this project but alternative methods will also
+              be
+explored. The algorithms developed will accommodate numerical
+              issues
+rarely approached in a complementarity setting such as stiffness
+              and
+constraint drift control. Several specialized optimization methods
+will
+              be designed to address distinguished problems that appear in a
+constrained
+              simulation, such as constraint stabilization in presence
+of contact
+              degeneracy.
+
+This research will overcome essential difficulties in all areas
+              of
+investigation that depend on the correct simulation of the motion
+              of
+objects in contact with friction such as robotics, virtual
+              reality,
+biomechanics, manufacturing design.  In all these areas, contact
+              with
+friction is a fundamental component, whether it is related to the
+              user
+pushing or pulling a stack of virtual objects in frictional contact
+with
+              one another in virtual reality, to a robot grasping and
+manipulating a load,
+              or to the correct simulation of human walking
+where friction is necessary to
+              prevent slipping.  Yet in spite of the
+omni presence of contact and friction
+              in everyday life its simulation
+has proved to be very difficult, partly
+              because of the lack of a
+consistent and efficient theoretical and
+              computational framework. It
+is the aim of this proposal to extend the recent
+              results in frictional
+contact modeling in directions that will answer the
+              requirements of
+high-quality, high-performance multi-rigid-body dynamics
+              simulation for use 
+in robotics, virtual reality, manufacturing design and
+              other fields.
+This will enable the development of software that will become
+              
+an important component of the manufacturing infrastructure of the future.

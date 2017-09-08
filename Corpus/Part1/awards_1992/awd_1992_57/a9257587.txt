@@ -1,0 +1,47 @@
+Title       : NYI: Vector Quantization Codebook Processing and Organization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 6,  1996   
+File        : a9257587
+
+Award Number: 9257587
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1992 
+Expires     : February 28,  1998   (Estimated)
+Expected
+Total Amt.  : $312500             (Estimated)
+Investigator: Eve A. Riskin riskin@ee.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 9107,9216,9297,HPCC,
+Abstract    :
+              Riskin         New ways to use Vector Quantization (VQ) other than strictly  for
+              data compression are being investigated, and are being  applied to applications
+              such as image processing, halftoning,  progressive transmission, and immunity
+              against communication  channel noise.   In many applications, both VQ and many
+              image processing  operations are applied to small subblocks of an image. The
+              image  processing step can be applied ahead of time to each vector in a  VQ
+              codebook, with the processed vectors stored along with the  codebook. If the
+              computational complexity of the VQ encoder is  lower than that of the image
+              processing step, this reduces the  computational complexity. This approach is
+              being applied to  halftoning, edge detection, and histogram equalization.      
+                 In a progressive transmission system, the received image is  reconstructed
+              as an increasingly better reproduction of the  transmitted image as bits
+              arrive. Ways to organize and order a VQ  codebook so that it can be used for
+              direct progressive  transmission of full search VQ are being studied.  In an
+              ordered  VQ, the VQ codeword index is correlated with the codeword  location in
+              the input space. This ordinal mapping feature of  clustering codewords with
+              similar indexes to obtain additional  reproduction vectors for the decoder is
+              being exploited.   Extentions to progressive transmission of ordered VQ indexes
+              over  noisy communication channels are being included.                         
+                                         

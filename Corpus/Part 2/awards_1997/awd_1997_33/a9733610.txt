@@ -1,0 +1,51 @@
+Title       : CAREER: Accurate and Robust Admission Control in Integrated Services Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 3,  1998      
+File        : a9733610
+
+Award Number: 9733610
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1998      
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Edward W. Knightly knightly@ece.rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              ATM and next generation IP networks will provide the fundamental  building
+              blocks for integrated services networks: the ability to  reserve network
+              resources on behalf of bursty real-time applications.  However, provisioning
+              network resources accurately is quite challenging  in the real-world
+              environment characterized by heterogeneous and highly  bursty traffic streams
+              which exhibit rate variations over multiple time  scales.  The goal of this
+              research is to design accurate and robust  admission control and resource
+              management algorithms that scale to  large internetworks.  In particular, we
+              plan to study the following  three problems. First, in a shared public network,
+              applications cannot  be trusted to adhere to their specified traffic parameters
+              and  therefore must be policed. However, deterministic policing must not 
+              preclude statistical resource sharing, which is essential for efficient 
+              resource utilization. We are designing an accurate envelope-based  resource
+              allocation algorithm that enables the network to statistically  multiplex
+              traffic streams while simultaneously enforcing applications'  specified traffic
+              parameters.  Second, many applications will be unable  to specify their traffic
+              parameters in advance so that the network must  somehow reserve resources even
+              for applications with unknown resource  requirements.  We are developing a
+              measurement-based service that  adaptively measures the envelope of the
+              aggregate traffic flow to  predict future resource requirements and performance
+              parameters for  such ill-characterized applications.  Finally, internetworks
+              are  characterized by a large number of heterogeneous components so that a 
+              resource management scheme must scale to such realistic environments.  We are
+              devising end-to-end resource management techniques that exploit  coarse-grained
+              representation and allocation of network resources.

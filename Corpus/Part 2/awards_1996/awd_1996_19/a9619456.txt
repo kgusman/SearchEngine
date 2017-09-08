@@ -1,0 +1,45 @@
+Title       : A Fully Capable Bidirectional Debugger
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 5,  1997     
+File        : a9619456
+
+Award Number: 9619456
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $80000              (Estimated)
+Investigator: Robert F. Boothe boothe@usm.maine.edu  (Principal Investigator current)
+Sponsor     : Univ of Southern Maine
+	      96 Falmouth St
+	      Portland, ME  041049300    207/780-4411
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9619456  Traditional debuggers allow stepping along the forward execution  path
+              of a computer program and monitoring the program's state as  it executes. They
+              are a crucial tool in the process of program  development, however they also
+              can be frustrating in many  situations when the user wishes to see not what the
+              program is  going to do in the future, but rather what happened in the past  to
+              bring it to where it currently is. This research will  investigate and develop
+              algorithms and mechanisms that can be  used in constructing a bidirectional
+              program debugger. Efficient  backwards movement algorithms will be investigated
+              for all  traditional forward movement operations: step, next, finish, and 
+              location breakpoints. The underlying techniques expected to be  utilized and
+              developed in this research are code augmentation,  transparent re-execution,
+              I/O replay, and checkpointing. In  addition, this research will investigate
+              efficient bidirectional  algorithms for conditional breakpoints and data
+              breakpoints,  which are currently often inefficient operations or unavailable 
+              even in the forward direction. Debuggers are widely used from  introductory
+              programming students trying to understand why their  program has gone astray,
+              to professional programmers trying to  find bugs in large and complicated
+              systems. Development of better  debugging tools will benefit all who are
+              involved in program  development and maintenance.  ***

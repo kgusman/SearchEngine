@@ -1,0 +1,53 @@
+Title       : Dynamic Scheduling and Resource Management in Computer Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 24,  2001       
+File        : a9705392
+
+Award Number: 9705392
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1997    
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: David D. Yao yao@ieor.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 1519      INTEGRATIVE SYSTEMS
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              ECS-9705392  Yao    This project is motivated by two recent developments at the
+              IBM T.J. Watson Research Center concerning the scheduling and resource
+              management in computer operating systems: (1) implementation of the so-called
+              "time-function scheduling" in both OS/400 (the operating system for IBM's
+              AS/400 product line) and AIX (the UNLX-based operating system for IBM's RS/6000
+              product line); and (2) a prototype scheduler for distributed-memory,
+              multiprocessor environments (e.g., IBM's SP2 and clusters of workstations),
+              which integrates several scheduling paradigms such as gang scheduling and
+              load-sharing scheduling.  In both cases, through extensive theoretical studies,
+              in addition to empirical studies, it has been found that the schedulers provide
+              effective and flexible control of resources that achieves a diverse set of
+              scheduling objectives and improves the performance of a variety of applications
+              in large and complex scientific and engineering applications.    What we
+              propose here is to explore and establish the control-theoretic foundation of
+              these schedulers, and in return further enhance the dynamic scheduling and
+              resource management protocols in high-performance operating systems. 
+              Specifically, we propose to study the mathematical structure of the schedulers
+              in the context of discrete-event systems.  Some of the PI's recent works in
+              this area have established the connection between the optimality of simple
+              control rules of a wide class of discrete-event systems and discrete
+              mathematical structures such as matroid and antimatroid.  Here, we want to
+              explore related structures such as polymatroid and extended polymatroid, which
+              are associated with conservation laws and generalized conservation laws of many
+              stochastic systems, so as to bring out the effectiveness, or in some cases,
+              optimality, of the schedulers.  We also propose to implement the theoretical
+              results for empirical studies, by way of adding new features to the prototype
+              testbeds at Watson.

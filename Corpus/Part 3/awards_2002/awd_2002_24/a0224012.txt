@@ -1,0 +1,84 @@
+Title       : CISE Research Resources: Instrumentation for Experimental Research in Machine
+               Learning, Collaborative Filtering, and Virtual Environments
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0224012
+
+Award Number: 0224012
+Award Instr.: Standard Grant                               
+Prgm Manager: Rita V. Rodriguez                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Thomas G. Dietterich tgd@cs.orst.edu  (Principal Investigator current)
+              Ronald Metoyer  (Co-Principal Investigator current)
+              Jonathan L. Herlocker  (Co-Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              EIA 0224012
+Dietterich, Thomas G.
+Herlocker, Jonathan L.
+Metoyer, Ronald
+
+              Oregon State University 
+
+Title:  CISE RR: Instrumentation for Experimental
+              Research in Machine Learning, Collaborative Filtering, and Virtual Environments
+              
+
+ This project, upgrading the current cluster for use in large
+              pre-computations that enable effective real-time performance, supports
+              equipment servicing the following four projects:
+Real Time Animation of Human
+              Characters for Use in Immersive Training Environments,
+Probabilistic
+              Recommendation Methods for Collaborative Filtering (CF),
+Machine Learning for
+              Spatial and Sequential Data, and
+Reinforcement Learning for Learning Search
+              Control Heuristics with Applications to Protein Structure Determination from
+              Nuclear Magnetic Resonance Spectroscopy and to Real-Time Animation.
+The first
+              project aims at automatically selecting and ordering short sequences of
+              captured motion to drive a character along a trajectory while maintaining
+              naturally looking transitions between the sequences. The project exploits
+              off-line reinforcement learning (dynamic programming) algorithms to pre-compute
+              a policy for moving between any pair of poses under a range of trajectory
+              constraints. Real-time control of characters is then permitted without the need
+              for large run-time searches. The second project utilizes collaborative
+              filtering (CF) systems that can predict a probability distribution over the
+              rating of an item. Currently CF, a method by which multiple computer users
+              indirectly help each other make decisions and identify solutions to problems,
+              provides ratings or votes returning the items with the higher number of votes,
+              rather than attaching a probability. The equipment will speed the research
+              process by enabling the testing of un-optimized prototype implementations of
+              new algorithms, and hence allow the evaluation of proposed algorithms without
+              the delay of manual optimization. The third project deals with emerging
+              applications of machine learning (e.g., computer intrusion detection,
+              information extraction from web pages, remote sensing) involving temporal,
+              sequential, or spatial data where nearby data points are typically correlated.
+              The PIs have developed a parallel implementation of a sequential analysis
+              method for conditional random fields (CRFs) that gives near-linear speedups in
+              the computation time, but which is limited in the size of data sets that can be
+              processed. The cluster upgrade should yield a faster solution and allow
+              consideration of larger data sets. The last project, experiments with two new
+              algorithms for reinforcement learning that scale to large search spaces as long
+              as the number of reachable states is small enough to fit in main memory. One
+              method combines linear programming with support-vector machine techniques; the
+              other combines gradient descent search with dynamic programming. These methods,
+              requiring an expensive off-line computation, result in an efficient heuristic
+              that can be applied to the run-time search. Moreover, the cluster will be used
+              by students in a parallel computation course.
+

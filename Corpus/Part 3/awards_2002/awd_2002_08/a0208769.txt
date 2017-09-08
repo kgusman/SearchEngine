@@ -1,0 +1,85 @@
+Title       : A Paradigm for Scalable Open Real-Time Computing Under Uncertainty
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 9,  2002       
+File        : a0208769
+
+Award Number: 0208769
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Tarek F. Abdelzaher zaher@cs.virginia.edu  (Principal Investigator current)
+              John A. Stankovic  (Co-Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 400195
+	      Charlottesville, VA  229044195    434/924-4275
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Abdelzaher 
+CCR-0208769
+" A Paradigm for Scalable Open Real-Time Computing
+              Under Uncertainty"
+
+A key challenge for embedded real-time computing is that
+              of providing temporal performance guarantees. Unfortunately, the wealth of
+              knowledge developed to date in the area of performance assurances in
+              embedded
+systems has been confined to a somewhat restrictive application
+              domain where detailed knowledge is assumed of both the available resource
+              capacity in the system and the resource requirements of individual tasks. These
+              restrictions prevent many previous research results from being applied to a
+              wider scope of mainstream applications and services where QoS guarantees are
+              required, yet load and resource models are unavailable. This research seeks a
+              solution to the problem of providing performance guarantees in the absence of
+              detailed load and resource knowledge.  The goal is to establish that
+              fine-grained guarantees are achievable with real-time system performance even
+              in the absence of fine-grained models of system load and resource capacity.
+              
+
+This is approached through new foundations for performance guarantees in
+              embedded real-time systems operating under uncertainty. The research  centers
+              on a new calculus aimed to counter fundamental limitations on robustness and
+              scalability in current approaches for performance guarantees.  There are two
+              main elements: 
+
+1) A theory for robust schedulability analysis based on
+              feasible regions:  A feasible region is a set of aggregate system states in
+              which all timing constraints are guaranteed to be met. This research is
+              developing methods for deriving multi-dimensional feasible regions in a
+              continuous state space, where the dimensions represent aggregate measurable
+              quantities such as the overall utilization of different system resources. 
+              Maintaining a system within feasible region boundaries guarantees temporal
+              correctness based on aggregates only. These mechanisms will be more scalable
+              and suitable for systems where detailed information about the load and
+              resources is unavailable. 
+
+2) Middleware components that enforce conformance
+              of a run-time system to its feasible region. The theoretical framework being
+              developed is incorporated into a middleware framework based on control theory,
+              which executes run-time performance monitoring and feedback control mechanisms
+              to ensure that system state converges to a feasible region. This condition is
+              enforced using admission control and QoS adaptation.
+
+These two elements
+              maintain guarantees on real-time behavior by linking applications with the
+              middleware, specifying desired QoS guarantees, and leveraging run-time feasible
+              region enforcement mechanisms to provide correct temporal behavior in in open
+              real-time systems.  This increases the scope of embedded computing from
+              predominantly closed custom-designed systems to large distributed open systems
+              composed of commercial off-the-shelf components such as web servers, mainstream
+              operating systems, and standard protocols such as TCP/IP, where accurate load
+              and resource knowledge is unavailable. High impact is expected through the
+              ability to achieve predictable behavior in many important systems ranging from
+              large Web server farms and Internet routers to ubiquitous computing systems,
+              and smart spaces.
+

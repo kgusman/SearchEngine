@@ -1,0 +1,57 @@
+Title       : Investigations in Mixed Integer Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 25,  1998    
+File        : a9721402
+
+Award Number: 9721402
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $118710             (Estimated)
+Investigator: Eva K. Lee   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              A primary focus of this research is to develop effective  computational methods
+              for mixed integer programs. A nonlinear  interior-point based branch-and-bound
+              solver will be developed,  emphasizing effective implementation of the
+              nonlinear subproblem  solver within the tree search environment, and its
+              practicality  in solving real-world instances. Parallelism will be exploited to
+               take advantage of concurrent computing and to enhance the  solver's capability
+              for solving these NP-hard problems.    Another focus of this research is to
+              explore new applications of  mixed integer programming. As applications provide
+              invaluable  insight and motivation for advancing the frontiers of an evolving 
+              discipline, the work will, in part, focus on structures arising  from practical
+              applications. The first problem arises from the  computationally intensive area
+              of statistical classification,  which has close connections with machine
+              learning, neural  networks and pattern recognition. This work will build on 
+              previous work involving a classification model  formulated initially as a
+              nonlinear MIP. The novel aspects of the  model are that it allows a level of
+              control on misclassification  probabilities and allows entities to be
+              classified into a  reserved judgment region. Such an approach is well-suited
+              for  applications in which misclassification can have  dire consequences (e.g.,
+              medical diagnosis). Variations in the  basic model will be explored in an
+              attempt to uncover a version  that is both computationally tractable for large
+              scale problems,  and effective in generating rules that yield accurate 
+              classification.    A second application concerns treatment planning
+              optimization for  brachytherapy --- a type of radiation therapy that involves 
+              implanting radioactive sources (seeds) in or near tumors. The  optimal
+              placement and dosage of the radioactive seeds in  brachytherapy is a
+              challenging problem. A novel mixed integer  programming model has been
+              developed, and the focus now lies  in developing effective co mputational
+              strategies based on the  polyhedral structure of the model. Clinical
+              computational tests  will be performed using data from prostate cancer cases.
+              The  resulting optimization solver will be designed, along with  graphical
+              evaluation tools, for real-time use in the operating  room.

@@ -1,0 +1,104 @@
+Title       : Career: Toward a QoS Provision Architecture in Noncooperative Networks: Theory
+               and Implementation.
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 18,  1999     
+File        : a9875789
+
+Award Number: 9875789
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1999        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $348401             (Estimated)
+Investigator: Kihong Park   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,4097,9218,HPCC,
+Abstract    :
+              With the increased deployment of high-speed local- and wide-area networks
+              carrying a multitude of information from email to bulk data to voice and video,
+              provisioning adequate quality of service (QoS)  to the diverse application base
+              has become an important problem.  Current techniques---some stemming from
+              intrinsic limitations---make it difficult to provide differentiated QoS and
+              guarantees without resorting to over-provisioning which renders these services
+              prohibitive.
+
+Given the expected use of the Internet as an everyday, casual,
+              yet evermore indispensable component of economic, educational, entertainment,
+              and other societal functions by the population at large, a new architecture is
+              needed to transform the homogeneous clump that constitutes today's best-effort
+              bandwidth  into stratified services  with graded QoS properties that better
+              matches the diverse QoS needs of a compendium of applications, multimedia or
+              otherwise.  Crucial to the success of this venture is that neither the user nor
+              the network be required to engage in complex computations which would thence
+              make the solution outright infeasible or render it equally as expensive as
+              over-provisioning.
+
+This proposal describes a QoS provision architecture
+              suited for best-effort environments based on ideas from microeconomics and
+              noncooperative game theory.  We construct a noncooperative QoS provision model
+              where users are assumed to be selfish, and packets are  routed over switches
+              where---as a function of their enscribed priority---differentiated service is
+              delivered.  Quality of service is an induced phenomenon, achieved as a result
+              of interaction between selfish applications mediated by the underlying
+              network
+substrate.
+
+The present approach differs from previous works in
+              three significant ways---one, it is one of the most comprehensive
+              noncooperative resource allocation models specifically formulated to model QoS
+              provision, two, the approach describes a specific network architecture suited
+              to many-switch wide area network environments, and three, it addresses both
+              theoretical and practical aspects, with an emphasis on realizability.  Not only
+              does the PI study the noncooperative QoS provision modelfrom a
+              game-theoretic
+perspective showing the existence of a rich structure relating
+              Nash equilibria to Pareto and system optima, he also investigate the problem of
+              facilitating adequate services when the model is extended to
+              incorporate
+multi-dimensional QoS vectors with possibly conflicting
+              requirements, the effect of system variance on QoS rendered, the adaptive
+              relocation of network resources to hot spots using programmable general
+              processor sharing switches, and the myriad of distributed control problems
+              arising in many-switch systems.
+
+This proposal describes the PI's previous
+              research---both single-switch and many-switch---and outlines a program for
+              future research that emphasizes an integrated approach to theoretical and
+              practical issues with a strong view toward feasible implementations.
+
+The
+              dual goal of this proposal is to describe a strategy for developing the
+              networking curriculum and education in the Computer Sciences  Department at
+              Purdue University.  The main goals are threefold.  First, expand and reorganize
+              the existing networking curriculum to impart more  structure, depth, and
+              guidance to the student.  This is achieved by enhancing the graduate program
+              with two new networking courses, Advanced Topics in Networking (already
+              implemented) and Experimental Networks. In the undergraduate curriculum, a new
+              networking course was recently introduced by the PI with several more in the
+              planning stage.  Second,  enhance the strength of the graduate research program
+              by incorporating state-of-the-art networking technology into the curriculum
+              (the PI has procured equipment funding for ATM switches which will be
+              incorporated into the fall 98 networking curriculum) and devising a new course
+              in Experimental Networks
+involving active student participation as players in
+              network games where noncooperative and cooperative protocols and their
+              behavioral consequences are studied.  Finally, with distance learning fast
+              becoming a reality spurned by the growth in enabling networking technology and
+              continuing education demand, the PI hopes to develop an undergraduate-level
+              networking course that can be effectively taught over the Web.  This will be
+              facilitated by the PI's graduate networking course being televised in the fall
+              1998 semester as part of Purdue's CEE program to off-campus sites who will
+              receive live video/audio feed and a voice channel for questioning.
+
+

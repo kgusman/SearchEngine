@@ -1,0 +1,107 @@
+Title       : Symmetric Cone Optimization Algorithmic and Structural Study Application
+               Development
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 18,  1999    
+File        : a9901991
+
+Award Number: 9901991
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $250665             (Estimated)
+Investigator: Farid Alizadeh alizadeh@rutcor.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The main goal of this project is to investigate all aspects of optimization
+              problems over symmetric cones and extensions from algorithmic, numerical and
+              software development points of view. Such optimization problems include and are
+              closely related to semidefinite programming (SDP) and quadratically constrained
+              
+quadratic programming (QCQP). In the first part, general techniques for both
+              degeneracy properties and their impact on numerical behavior of various
+              algorithms will be studied thoroughly. Particular attention will be given to
+              the problem of dealing with absences of strict complementarity which thus far
+              has eluded satisfactory numerical behavior in all known algorithms. Next, the
+              process of extending special proof techniques and tools which were originally
+              developed for analysis of the semidefinite and convex quadratically constrained
+              quadratic programs, to the more general venue of symmetric cone optimization
+              will be carried out. The techniques developed by interior point researchers
+              will be extended to all symmetric cone optimization problems. A potential
+              impact of this aspect of the research will be unification of various efforts in
+              
+interior point studies, especially the primal-dual methods, to the more
+              general area of symmetric cone optimization which includes linear,
+              semidefinite, and quadratically constrained quadratic programming as special
+              case.
+ 
+Next, the central problem of using the optimal solution of an SDP (or
+              a QCQP) to "warm start" another SDP (or QCQP) that differs from the original by
+              one or few new constraints or variables will be investigated . This effort is
+              central in order to make SDP or QCQP serious tools for solving large integer or
+              mixed integer programs via branch and bound, cutting planes or similar
+              techniques. A particular goal is to invent new dual based active set methods to
+              carry out this goal. The project will start with perhaps the easier problem of
+              investigating QCQP both in its own right and in order to gain insight in the
+              
+effort to tackle SDP and ultimately general symmetric cone optimization
+              problems. Also there is a puzzling gap in using QCQP problems as relaxation of
+              integer programs. While LP and SDP relaxation abound, the QCQP approach has
+              been use only on limited problems such as plant location and Steiner trees. A
+              general scheme to relax any (zero-one) integer program to QCQP is missing. A
+              goal of this effort is to design such a general relaxation. The impact is
+              potentially significant. While SDP at least in principle seems to be more
+              powerful than LP to as a relaxation of integer programs, the difficulty of
+              solving large scale problems, especially lack of satisfactory techniques to
+              solve sparse problems, has so far limited its wide scale use. The limitations
+              on QCQP are much less severe and a general relaxation scheme to these problems
+              could have significant 
+impact on at least some integer programming
+              problems.
+
+Next new relaxation of integer program to more general convex
+              programs than the traditional linear programming or SDP will be studied. A
+              particular scheme based on using norms more general than the Euclidean norm
+              will potentially yield new class of cones to which one can extend SDP
+              relaxation. This work will be 
+theoretical and fundamental at the
+              outset.
+
+Numerical study and in particular use of sparse structure
+              encompasses another aspect of the project. In particular unlike semidefinite
+              programming and somewhat like linear programming there is an significant
+              opportunity in taking advantage of sparsity in order to solve large scale QCQP
+              problems with primal-dual interior point methods. The details are different
+              than linear programming and present considerable challenge in designing
+              numerically stable and efficient algorithms. 
+
+Software development will also
+              be a central part of the investigation. Especially due to the vast variety of
+              formats that SDP and QCQP, and in general symmetric cone optimization problems
+              arise in applications, a user friendly interface will be essential if the
+              software will be of wide applicability. 
+Therefore, in addition to
+              implementing and fine tuning the "solver engine", an elaborate shell around the
+              engine is planned. This interface ill be designed to accommodate various
+              problems form eigenvalue optimization to sum of norms constraints. As much as
+              possible format conversions will be automated.  Interface to popular public
+              modeling languages such as AMPL is planned. In addition WEB based interaction
+              between users and software (such as web based submission of data, or cross
+              platform interaction between user's data and the software) is planned. In
+              particular some preprocessing of the data may be 
+done on the client side,
+              before the data is submitted over the WEB to the server for solution.
+
+

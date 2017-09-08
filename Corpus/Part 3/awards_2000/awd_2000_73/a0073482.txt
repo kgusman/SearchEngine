@@ -1,0 +1,59 @@
+Title       : Supporting Compiled Communication on Commodity Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 19,  2000 
+File        : a0073482
+
+Award Number: 0073482
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Xin Yuan xyuan@cs.fsu.edu  (Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323064166    850/644-5260
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+               This project investigates the compiled communication technique on 
+commodity
+              networks. In compiled communication, high performance 
+communication is
+              achieved by using the compiler to analyze the communication 
+requirement of a
+              program and to manage network resources statically to 
+support the
+              communications. As a result, runtime communication overheads, 
+such as buffer
+              management, are reduced and/or amortized over a number of 
+communications, and
+              the communication performance is improved. Compiled
+communication is more
+              powerful than traditional communication optimization 
+techniques in that it
+              performs communication optimizations in both the
+compiler and the
+              hardware/operating system/runtime system. The outcome
+of the proposed research
+              is an extension of the MPI library that supports
+the compiled communication
+              model, a SUIF based restructure compiler that 
+can generate communication code
+              using the compiled communication model,
+an experimental demonstration of how
+              much performance improvement can be
+achieved by using the compiled
+              communication model, and a clear 
+identification of the advantages and
+              limitations of the compiled communication
+model.
+

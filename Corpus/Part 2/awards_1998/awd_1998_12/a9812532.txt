@@ -1,0 +1,54 @@
+Title       : Reliable Data Sharing in Wide Area Gigabit Networked Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 31,  2000    
+File        : a9812532
+
+Award Number: 9812532
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $303065             (Estimated)
+Investigator: Panos K. Chrysanthis panos@cs.pitt.edu  (Principal Investigator current)
+              Sujata Banerjee  (Co-Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              This project's goal is to study the impact of the new capabilities of high-speed
+              networks on the design and performance of data management protocols. In
+              particular, the focus is on high-speed wide-area networks (WANs) where the
+              propagation latency is the dominant communication cost, the migration of large
+              amounts of data is not an issue, and efficient multicasting and guarantees on
+              network Quality of Service (QoS) parameters are available. In this project,
+              existing concurrency control, commit and recovery protocols are being evaluated
+              with respect to performance scalability under the new network assumptions.
+              Further, new protocols are being developed that utilize the huge bandwidth and
+              minimize the number of sequential phases of messages exploiting the
+              multicasting capability and the provision of QoS guarantees such as bounded
+              end-to-end packet delay and packet loss. At the same time, because of the need
+              to scale to thousands of clients and servers, not all of which may be
+              operational at any given time, the new WAN data management protocols are
+              designed to achieve higher site autonomy in a cooperative manner, reducing
+              global synchronization and supporting disconnected operations. The various
+              protocols are empirically evaluated using computer simulation under different
+              scenarios. The results of this research are expected to provide a better
+              insight into the synergy between database and network technologies. This, in
+              turn, will facilitate the deployment of future high performance WAN data server
+              systems which are part of the necessary infrastructure that will support
+              important nation- and world-wide applications such as electronic commerce and
+              other web-based applications.
+              
+
+http://www.cs.pitt.edu/admt/projects/wands.html
+

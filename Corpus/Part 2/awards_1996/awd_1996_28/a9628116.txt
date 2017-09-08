@@ -1,0 +1,71 @@
+Title       : Time-Constant-Based Traffic Control and Multiplexing for High-Speed Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 17,  1998    
+File        : a9628116
+
+Award Number: 9628116
+Award Instr.: Continuing grant                             
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $258608             (Estimated)
+Investigator: Ioannis Stavrakakis   (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              Recent technological advances have lead to the deployment of high-speed 
+              networks which are capable of supporting a large number of applications in  an
+              integrated fashion.  In this environment, the time required for the 
+              transmission of a fixed size information block (slot) has been constantly 
+              decreasing.  A direct consequence of a shrinking slot is that time  intervals
+              (in seconds) increase in size, when measured in network time  units (slots). 
+              As a result, time intervals which were considered to be too  small in the past
+              seem larger and -- for that matter -- their  interpretation and associated
+              functionalities may need to be reconsidered.  In the shrinking slot environment
+              time is becoming a commodity which may be  used more effectively in the design
+              of high-speed networks.    The proposed research will be focused on the
+              development of traffic  management schemes which incorporate rather explicitly
+              the significant  time-constants (in slots) associated with the traffic
+              generation process  and QoS descriptors of the diversified applications in a
+              high speed  networking environment. Both, traditional computer-data-type and
+              real time  applications will be considered.    In the first part of the
+              proposed research, a Time-Constant-Based Call  Admission and Traffic Control
+              (TC-based CATC) framework is presented, for  controllable (or, ABR/UBR in ATM
+              Forum's classification) applications.  This proposal is based on the positive
+              impact of a large time-constant  associated with a controllable application, on
+              the effectiveness of a  feedback-based traffic control scheme; this impact has
+              been observed in  preliminary results.  The proposed class of TC-based traffic
+              control  policies can be viewed as a class of ``generalized'' adaptive,
+              rate-based  traffic control policies, since classical adaptive, rate-based
+              policies are  included in this large class. As a result, there is great
+              potential to  substantially improve on the performance achieved by the past
+              schemes.  The  TC-based CATC scheme is expected to  provide for a faster
+              response to  bandwidth availability fluctuations at different time-scales, by
+              employing  distinct mechanisms for the different time-scales. It is easy to
+              argue that  the proposed TC-based policies are scalable.    In the second part
+              of the proposed research, multiplexing schemes for  real-time applications are
+              considered.  These schemes attempt to preserve  time-constants of importance
+              associated with these applications and/or take  advantage of
+              time-constant-based Quality of Service requirement, to  maximize resource
+              utilization. Specific proposals include the integration  of the regulation and
+              scheduling functions to improve performance by  coordinating their
+              functionality, as well as ``reinvent'' statistical  multiplexing for real-time
+              applications by taking advantage od the  increased room for traffic
+              manipulation in time, as the network speed  increases and QoS-defining
+              time-constants increase.    Finally, a major part of the proposed research will
+              be dedicated to the  study of a number of interesting problems arising from the
+              above proposals,  which are becoming increasingly relevant to the broad high
+              speed networking  environment as the network time unit decreases.

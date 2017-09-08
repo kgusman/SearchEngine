@@ -1,0 +1,57 @@
+Title       : TerraDir: Scalable, Configurable Distributed Directories for the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 18,  2001 
+File        : a0123765
+
+Award Number: 0123765
+Award Instr.: Standard Grant                               
+Prgm Manager: Alan R. Blatecky                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $709974             (Estimated)
+Investigator: Samrat Bhattacharjee bobby@cs.umd.edu  (Principal Investigator current)
+              Peter J. Keleher  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4089      Network Centric Middleware Svc
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1596,9217,HPCC,
+Abstract    :
+              A new generation of sophisticated, multi-party distributed applications are
+              being proposed and implemented over the Internet.  Many of these applications,
+              such as distributed publish-subscribe services, ubiquitous files system and
+              distributed auctions, require the location and coordination of a large number
+              of resources dispersed throughout the network.  A fundamental building block
+              for these applications, is a distributed directory.  The distributed directory
+              enables applications to locate required resources in a timely and efficient
+              manner, and helps the application to scale.
+
+The proposal describes TerraDir;
+              a set of protocols for implementing customizable, distributed, peer-to-peer
+              directories over which a range of wide-area resource discovery applications can
+              be implemented.  The architecture addresses scalability and flexibility.  The
+              research will concentrate on:
+- dynamic view implementation (decoupling naming
+              from location)
+- configurability (applications are not monolithic, must
+              address wide needs)
+- caching (multiple locations of caches)
+- fault
+              tolerance (required for success), and
+- network layer techniques for finding
+              peers and distributing applications.
+
+Each TerraDir Directory is a private
+              namespace, and multiple TerraDirs can be active at the same time to provide
+              other virtual directors.  Since the TerraDir is designed to be implemented over
+              the existing Internet, the protocols address end-to-end requirements and do not
+              require any special network support.
+

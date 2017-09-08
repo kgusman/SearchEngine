@@ -1,0 +1,48 @@
+Title       : Monte Carlo Arithmetic
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 13,  1998       
+File        : a9732309
+
+Award Number: 9732309
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1998       
+Expires     : April 30,  1999      (Estimated)
+Expected
+Total Amt.  : $53140              (Estimated)
+Investigator: D. Stott Parker stott@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Monte Carlo Arithmetic (MCA) is an extension of standard floating-  point
+              arithmetic that exploits randomness in basic floating-point  operations.  MCA
+              uses randomization to implement random rounding  --- which forces roundoff
+              errors to be randomly distributed ---  and random unrounding --- which randomly
+              extends the inputs of  arithmetic operations to arbitrary precision.    MCA has
+              potential theoretical and practical benefits.  Random  rounding can be used to
+              produce roundoff errors that are truly  random and uncorrelated, and that have
+              zero expected bias,  thereby avoiding some anomalies of floating-point
+              arithmetic.  Random unrounding detects catastrophic cancellation, which is the 
+              primary way that significant digits are lost in numerical  computation.    The
+              primary practical benefit of MCA appears to be that it can  give ordinary
+              mortals an intuitive, empirical sense of the  accuracy of their computed
+              results.  MCA transforms a floating-  point computation into a Monte Carlo
+              computation, and roundoff  analysis into statistical analysis.  By running a
+              program  multiple times, one directly measures sensitivity of particular 
+              outputs to random perturbations of particular inputs.  Generally, it gives a
+              different perspective on the study of  error.    The project will encompass two
+              tasks:  first, development of an  MCA environment, a set of tools permitting
+              numerical analysts to  run existing programs with MCA instead of standard
+              floating-  point, and to analyze the results; second, study of several large- 
+              scale applications, numerically interesting models that try to  establish, one
+              way or the other, the usefulness of MCA in  practice.

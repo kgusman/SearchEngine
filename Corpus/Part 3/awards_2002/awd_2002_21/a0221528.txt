@@ -1,0 +1,109 @@
+Title       : Transport Protocols for the Wired/Wireless NGI: Implementation and Experimental
+               Evaluation
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 9,  2002  
+File        : a0221528
+
+Award Number: 0221528
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $700000             (Estimated)
+Investigator: Mario Gerla gerla@cs.ucla.edu  (Principal Investigator current)
+              M.Y. Sanadidi  (Co-Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The Next Generation Internet (NGI) poses scalability challenges to the efficient
+              operation of 
+the  transport  protocol  (TCP).  In  particular,  as  the 
+              product  (bandwidth  x  delay)  grows,  the 
+congestion window required to
+              .fill the pipe. becomes quite large, especially on cross-country 
+links. One
+              well known  problem in TCP in this scenario is the selection of the .initial
+              
+window.. More recently, new challenges have emerged because of the increasing
+              popularity 
+of nomadic access to the Internet via wireless links (e.g.,
+              wireless LANs, satellite links, 
+UMTS, etc).  The data rates on wireless links
+              have been constantly on the rise, approaching 
+the 50Mbps on 802.11a wireless
+              LANs and thus providing an effective extension of backbone 
+services to mobile
+              users. However, wireless links tend to introduce random packet errors and
+              
+loss  that are not correlated to congestion.  This creates problems to
+              conventional TCP 
+protocols (e.g., TCP New Reno and TCP SACK), which interpret
+              any loss as a buffer overflow 
+(i.e., as a symptom of congestion) and thus
+              reduce the congestion window unnecessarily with 
+consequent loss in
+              performance. The drop in performance is proportional to the (bandwidth x
+              
+length) product  of the connection and can be quite significant in the high 
+              bandwidth NGI 
+environment, especially on cross country paths  including .last
+              hop wireless LANs, UMTS 
+links, or  high bandwidth satellites.   
+Several 
+              approaches  to  enhance TCP  congestion  control  over  high bandwidth 
+              wireless  links 
+have  been  reported  in  the  literature  (e.g.,  TCP 
+              Peach,  TCP Westwood  (TCPW)).  Some  of 
+these  enhancements  have  been 
+              quite  successful.  For  example,  TCPW,  a  TCP  variant  that 
+uses
+              bottleneck bandwidth share estimation. to adjust the congestion window upon
+              loss, has 
+shown scalable properties and good link utilization in large leaky
+              pipes., (i.e. large 
+bandwidth delay product, and non negligible  random
+              packet loss).  
+This proposal is about carrying out a systematic, experimental
+              investigation of performance 
+of TCP over wired/wireless paths. This
+              investigation will include the comparison of various 
+TCP enhancements
+              proposed so far in the literature. It will consider a representative set of
+              
+experimental  environments  and  application  scenarios.  The  proposed 
+              project  is  in  part 
+motivated  by  our  recent  positive  experience  with 
+              TCPW  Internet  experiments  of  large  file 
+transfers over lossy paths. In
+              this project the researchers will broaden the scope to include a vast gamut of
+              TCP wireless enhancement techniques. The researchers  will  identify the pros
+              and cons of each scheme, characterize the traffic/network environment for which
+              it is best suited, and, more generally, develop  models  that  relate  wireless
+               media  characteristics,  TCP    congestion  control 
+parameters and
+              performance results.   
+In summary, given:  (1) the increasing importance of
+              nomadic computing and  wireless access  
+to the high speed wired Internet; (2)
+              the performance degradations observed in conventional 
+TCP  protocols  over 
+              wireless  path,  and  (3)  the  encouraging  improvements  offered  by
+              
+modified, wireless versions  of  TCP  (which  yet  retain  the  basic  end 
+              to  end  paradigm),  the researchers believe this a very appropriate time to
+              engage in a systematic, experimentally based 
+evaluation of wireless TCP 
+              protocols  by  a  team  that  includes  protocol  developers, 
+applications
+              developers and network measurement experts.

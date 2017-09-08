@@ -1,0 +1,65 @@
+Title       : Collaborative Research: Implementation of Tabu Search for the Design of Novel
+               Molecules using Parallel Computers
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : June 6,  2002       
+File        : a0224887
+
+Award Number: 0224887
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  2002     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: David C. Miller david.c.miller@rose-hulman.edu  (Principal Investigator current)
+Sponsor     : Rose-Hulman Inst of Tech
+	      5500 Wabash Avenue
+	      Terre Haute, IN  47803    812/877-1511
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 0000,9237,OTHR,
+Abstract    :
+              Research:
+
+Product design methodology is a mechanism that permits the
+              synthesis of new materials with specifically tailored properties.  Two
+              challenges in computational molecular design are (1) the ability to predict the
+              physical and chemical properties of a given molecule and (2) the ability to
+              solve the large optimization problem which arises from the search for the best
+              molecule for a given application.  Research in molecular characterization can
+              predict many physical and chemical properties to a reasonable accuracy for
+              common molecules.  A missing technology is a set of parallel algorithms which
+              can efficiently solve the large mixed-integer optimization problems using
+              parallel computing hardware.  This project focuses the application of tabu
+              search, a stochastic technique for the solution of such optimization problems,
+              to the molecular design of novel polymers.
+
+Tabu search uses a neighborhood
+              search algorithm which is efficient at searching the entire solution space,
+              thus enabling globally optimal solutions to be found within a reasonable time. 
+              These algorithms are amenable to parallelization since each member of a
+              solution set can be updated independently.  As part of this project, the PIs
+              plan to develop a parallel implementation suitable for use on clusters of
+              workstations.  The work will focus on the development of improvements to handle
+              the types of constraint that occur when predicting the physical properties of
+              polymers, and the application of these improvements within a parallel
+              implementation for use on clusters of multiprocessor
+              workstations.
+
+Impact:
+
+-Tailor-made molecules have huge potential in the
+              chemical process industries. 
+-This Small Grant for exploratory research will
+              permit two young PIs to venture into a totally new research area for them. 
+              
+-This collaborative project between an undergraduate institution,
+              Rose-Hulman, and the University of Kansas, will provide opportunities to
+              undergraduates to be involved in research otherwise not open to them.
+

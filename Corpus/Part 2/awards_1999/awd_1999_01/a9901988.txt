@@ -1,0 +1,55 @@
+Title       : New Applications and Algorithms that Involve the Kronecker Product
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 24,  1999    
+File        : a9901988
+
+Award Number: 9901988
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $247874             (Estimated)
+Investigator: Charles Van Loan   (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The Kronecker product has a rich and very pleasing algebra that supports a wide
+              range of fast, elegant, and practical algorithms. Three trends in scientific
+              computing suggest that this important matrix operation will have an
+              increasingly greater role to play in the future. First, the application areas
+              where Kronecker products abound are all thriving. These include signal
+              processing, image processing, semidefinite programming, and quantum computing.
+              Second, sparse factorizations and Kronecker products are proving to be the
+              preferred way to look at fast linear transforms. Researchers have taken the
+              Kronecker methodology as developed for the fast Fourier transform and used it
+              to build exciting alternatives. Third, as computers get more powerful,
+              researchers are more willing to entertain problems of high dimension and this
+              leads to Kronecker products whenever low-dimension techniques are "tensored"
+              together. Moreover, Kronecker products are a useful way to keep track of data
+              motion in memory hierarchies that are the hallmark of advanced machines. 
+
+In
+              light of these developments, the goal of this project is to widen the use of
+              the Kronecker product in numerical linear algebra. The first step is to study
+              the nearest Kronecker product problem because progress in this area will lead
+              to new and interesting ideas for preconditioners. Other applications that
+              require Kronecker product approximations have been identified and many new
+              methods are called for. All of the algorithmic work will culminate in
+              production of Matlab and C++ libraries.  The research will heighten the profile
+              of the Kronecker product throughout the field of matrix computations and
+              thereby make it easier for researchers to spot Kronecker "opportunities" in
+              their work. By building an "infrastructure" of effective Kronecker-product
+              algorithms, applications that feature the operation will proliferate at an even
+              greater rate.
+

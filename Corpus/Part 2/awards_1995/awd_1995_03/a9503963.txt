@@ -1,0 +1,46 @@
+Title       : Postdoc: Extensive Spatiotemporal Chaos in Extended Nonequillibrium Systems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 26,  1995       
+File        : a9503963
+
+Award Number: 9503963
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1995       
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Eberhard Bodenschatz eb22@cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 1245,4083,9218,HPCC,
+Abstract    :
+              9503963  Bodenchatz  The objective of this proposal is to study numerical and
+              analytically the microscopic equations describing certain experimental systems.
+               This research will take three directions,  it will make quantitative
+              comparisons between simulations experiments, study lengthscale and order
+              parameters in experimental systems, and examine the appearance and role of
+              topological defects.  A specific goal of this proposal is to use the powerful
+              parallel computing facilities to explore new physical regimes which are
+              described by the Boussinesq equations.  Although the equations have been
+              simulated before, the simulations have been limited to small systems, short
+              integration times, limited fixed resolution, or particular boundary conditions.
+               By comparing a code using spectral methods to one based on iterative methods,
+              such as multigrid or conjugate-gradient-like methods, we will develop a general
+              scalable Boussinesq solver optimized for parallel computers that will allow
+              long integrations of large systems with aspect ratios greater than 100 and with
+              adjustable resolution in all directions.  This next generation convection code
+              will allow this research to perform exhaustive explorations of spatiotemporal
+              chaos in extended convection systems, and, hopefully, these explorations will
+              constitute a significant step toward a formalism similar to equilibrium
+              thermodynamics.

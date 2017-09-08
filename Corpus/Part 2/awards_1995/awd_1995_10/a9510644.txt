@@ -1,0 +1,48 @@
+Title       : Multistrategy Constructive Induction: A Theory and Methodology for Task-Oriented
+               Improvement of Knowledge Representation Spaces for Learning
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : May 27,  1998       
+File        : a9510644
+
+Award Number: 9510644
+Award Instr.: Continuing grant                             
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1996   
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $225000             (Estimated)
+Investigator: Ryszard S. Michalski michalski@gmu.edu  (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9139,HPCC,
+Abstract    :
+              This research concerns a fundamental problem of machine learning,  which  is 
+              how  to learn when the originally given representation  space  is  of low
+              quality.  Most machine learning methods  search  for desirable knowledge in the
+              same representation space in which  training examples are presented (that is,
+              use the same attributes  or  terms  as  those  employed in the  training 
+              data).   If  the  original  representation space is inadequate, that is, the 
+              given  attributes  or descriptive terms are insufficiently  relevant  to  the
+              present learning task, such methods do not perform well. This  project
+              investigates several novel ideas and methods for learning  in  such 
+              situations.   In  particular, we  are  investigating  a  constructive 
+              induction  approach to  the  problem,  in  which  a  learning system performs a
+              double intertwined search - one for an  improved  knowledge  representation 
+              and   one  for  the   "best"  hypothesis  in  that  space.  In the
+              multistrategy   constructive  induction  methodology, a combination of
+              strategies  is  employed  for  transforming the initial representation space
+              into  the  new  task-oriented  space.   the  space transformation  operators 
+              are  divided  into  "constructors" that expand the space by  inventing  new 
+              attributes  and  "destructors"  that  reduce  the  space  by  removing  or
+              abstracting the current attributes, guided by  "meta  rules" that are initially
+              provided, but incrementally improved by  a secondary learning process.

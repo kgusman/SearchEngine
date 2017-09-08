@@ -1,0 +1,63 @@
+Title       : ITR: Covirt: Security Defenses for Insecure Operating Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0219085
+
+Award Number: 0219085
+Award Instr.: Standard Grant                               
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $420000             (Estimated)
+Investigator: Peter M. Chen pmchen@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1667,1686,9218,HPCC,
+Abstract    :
+              Ensuring the security of today's computer systems is an urgent and
+              difficult
+problem. The complexity and rapid pace of change in current software
+              systems
+prevents developers from verifying or auditing the code thoroughly
+              enough to
+eliminate vulnerabilities. This project seeks to provide security
+              defenses
+that work in the presence of compromised operating systems and
+              applications.
+Even if an attacker compromises the operating system, these
+              defenses will
+continue to ensure their intended security policies.
+
+This new
+              level of security is made possible by adding a virtual-machine
+              layer
+underneath the vulnerable operating system and applications.  This
+              additional
+software layer enables new security services that do not depend on
+              the
+integrity of the target software.  This project explores four new
+              security
+services that can be added via virtual machines: 1) the ability to
+              replay
+and analyze the complete, instruction-by-instruction execution of a
+              computer
+system, including actions after the point of compromise; (2) the
+              ability to
+recover the system to a prior state after an intrusion; (3) the
+              ability to
+prevent intrusions by safely testing hypothetical "what if"
+              scenarios; and (4)
+the ability to detect intrusions by monitoring all actions
+              of the computer
+system.
+

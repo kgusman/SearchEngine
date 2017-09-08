@@ -1,0 +1,64 @@
+Title       : Multi-Sender and Multi-Receiver Network Security
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 9,  1998  
+File        : a9508528
+
+Award Number: 9508528
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $275240             (Estimated)
+Investigator: Yvo G. Desmedt   (Principal Investigator current)
+Sponsor     : U of Wisconsin Milwaukee
+	      P O BOX 340
+	      Milwaukee, WI  532010340    414/963-4444
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              (Message inbox:25)  Received: from  198.181.231.162  (aubrey.cise-nsf.gov) by
+              note1.nsf.gov with SMTP id AA24133    (5.65c/IDA-1.4.4 for <twilkins>); Fri, 28
+              Jul 1995 09:29:21 -0400  X-Sender: abush@popsrvr.nsf.gov  Message-Id:
+              <ac3ea4b8020210047593@ 198.181.231.162 >  Mime-Version: 1.0  Content-Type:
+              text/plain; charset="us-ascii"  Date: Fri, 28 Jul 1995 09:29:43 -0500  To:
+              twilkins  From: abush (Aubrey Bush)  Subject: Desmedt Abstract    ABSTRACT   
+              NCR-9508528  University of Wisconsin-Milwaukee  Multi-Sender and Multi-Receiver
+              Network Security  Yvo Desmedt    State of the art network security is based on
+              end-to-end encryption and  link encryption.  In many security operations there
+              are multiple senders  and/or receivers.  The straightforward application of
+              link or end-to-end  oriented techniques to network security implies either that
+              the required  bandwidth increases dramatically or that a terrible key
+              management problem  is created.  Several multi-sender-multi-receiver
+              cryptosystems have been  presented previously.  One of these schemes guarantees
+              unconditionally the  authenticity of broadcast.  Several schemes have been
+              developed in which  the power to use a cryptosystem is shared non-interactively
+              without the  need for having a trusted party.  The schemes protect against
+              insiders  conspiring with outsiders.  Some of the schemes allow a majority of 
+              co-senders to co-sign a document non-interactively without enabling a  minority
+              to use the occasion to substitute a fraudulent message.  Others  allow a
+              majority of co-receivers to co-decrypt a ciphertext.  A minority  cannot use
+              such a decryption process to decrypt another ciphertext.  Different schemes
+              allow for different security requirements (e.g. heuristic  and proven secure). 
+              Having demonstrated previously the feasibility to  achieve several of the
+              original objectives refinements are studied here  including (1) how one can
+              detect and correct internal disrupters who jam  the co-production of a
+              signature by sending erroneous data (and simi lar  problems will be addressed
+              for the joint description of ciphertext), (2)  how to trace those who
+              co-signed, in general those who used their share of  cryptographic power, and
+              (3) how to improve previously developed schemes  and study bounds on
+              performance.   
+              ***************************************************************************** 
+              Aubrey M. Bush  Program Director, Acting Deputy Divison Director  Division of
+              Networking and Communications Research and Infrastructure  National Science
+              Foundation  4201 Wilson Boulevard  Arlington, VA 22230  703 306 1949 
+              abush@nsf.gov

@@ -1,0 +1,49 @@
+Title       : ITR: Guarding Quasi-Invariants: Generalizing Specialization for System Software
+               Security & Reliability
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 7,  2002     
+File        : a0219902
+
+Award Number: 0219902
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Calton Pu calton@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1667,1686,9218,HPCC,
+Abstract    :
+              This project will develop concepts and techniques to improve the security and
+              reliability of system software by detecting and managing invisible links in the
+              code.  Invisible links are dependencies among program components that are
+              difficult to find by looking at the code alone.  A common source of invisible
+              links is the optimization process that removes "unnecessary" code due to some
+              system invariants.  Software reuse and evolution may invalidate these
+              invariants, break invisible links, and cause crashes such as the Ariane 501
+              rocket.  Further, malicious attacks such as TOCTTOU (time-of-check to
+              time-of-use) often exploit invisible links.  
+
+Our approach combines three
+              techniques that have not been brought together previously.  First is a software
+              abstraction with support for flexible correctness criteria definitions, called
+              Transactional Activity Model, which will demark code boundaries that contain
+              invisible links.  Second is the use of wrappers to implement the enforcement of
+              correctness criteria on top of production software, for example, concurrency
+              control around the Unix file system for TOCTTOU.  Third, program specialization
+              techniques, in particular, the guarding of quasi-invariants, can make invisible
+              links visible and generate the code to maintain the integrity of these links
+              (e.g., making sure the file has not been replaced by the attacker).  This
+              combination offers the promise to reveal invisible links and therefore manage
+              those dependencies explicitly.

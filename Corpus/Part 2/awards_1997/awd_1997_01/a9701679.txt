@@ -1,0 +1,60 @@
+Title       : CAREER: Multi-threaded Research and Education
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 18,  2001     
+File        : a9701679
+
+Award Number: 9701679
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Eric K. Torng torng@cse.msu.edu  (Principal Investigator current)
+Sponsor     : Michigan State University
+	      
+	      East Lansing, MI  48824    517/355-1855
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Many computer systems are multi-threaded.  Traditional  on-line problems
+              abstract away the existence of multiple  threads, either by collapsing multiple
+              threads into a single  thread or by reducing each thread to a single request.
+              This  project studies a new class of problems:  on-line systems  with
+              multi-threaded inputs.  To model multi-threaded inputs,  multiple client input
+              model where each client (thread) is  represented by a directed acyclic graph
+              (DAG) are  introduced.  Three practical problems investigated are the 
+              multi-threaded paging problem, where processes compete for  both central
+              processing unit (CPU) time and fast memory  locations; the multi-threaded disk
+              scheduling problem where  processes and/or database transactions compete for
+              access to  the disk; and the multi-threaded operating system problem,  the
+              natural combination of these two problems.  These  problems generalize into the
+              k-client problem, a dual  version of the well-studied k-server problem, and the
+               k-server l-client problem.  One important goal of this  research is to learn
+              how to design a complex system such as  a fast memory manager, a CPU scheduler,
+              and a disk  scheduler.  In particular, determine if the algorithms and  results
+              obtained by considering each system component in  isolation can be easily
+              combined to produce new algorithms  and results for the complete system. In
+              education, there are  two complementary projects.  The first project deals with
+               the process of learning how to teach.  The PI applied for  and received a
+              highly competitive MSU Lilly Endowment  Teaching Fellowship.  In this intensive
+              year-long program,  the PI will work together with a group of five promising 
+              young faculty to learn fundamental educational principles  taught by leading
+              education scholars from around the  University and around the country.  The
+              second project is to  build a more cohesive curriculum emphasizing the
+              practical  importance of all topics, especially theory.  This is  achieved by
+              leading a departmental effort to wr ite a  comprehensive computer science
+              textbook written in hypertext  markup language (HTML).  This HTML textbook will
+              utilize  hyperlinks to highlight the connections between and within  courses. 
+              For example, links will connect a module on stacks  and queues from a data
+              structures course with modules from  an operating systems course where these
+              structures are used.  This HTML textbook project may also supplement
+              departmental  efforts to offer distance learning courses to nontraditional 
+              students.

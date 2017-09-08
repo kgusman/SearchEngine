@@ -1,0 +1,95 @@
+Title       : Theory and Applications of Information-Based Complexity
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 23,  2001    
+File        : a0097348
+
+Award Number: 0097348
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $249908             (Estimated)
+Investigator: Joseph F. Traub traub@cs.columbia.edu  (Principal Investigator current)
+              Henryk Wozniakowski  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0097348
+Traub, Joseph F.
+Columbia University
+
+There is huge
+              interest in solving high dimensional problems. Many applications involve
+              functions of hundreds, thousands or even an infinite number of variables.
+              Examples occur in physics, chemistry,
+mathematical finance, and economics.
+              
+
+It is the rare high dimensional problem that can be solved analytically.
+              Generally one must settle for an approximate numerical solution to within an
+              error e. The computational complexity is the minimal computational resource
+              need to solve a problem to within e. Time is the resource considered
+and is
+              measured by the number of information operations, arithmetic operations and
+              comparisons. An example of an information operation is the computation of a
+              function value.
+
+If a worst case deterministic assurance of an
+              e-approximation is desired, then often the computational complexity depends
+              exponentially on the number of variables d; the problem suffers the "curse
+              of
+dimensionality". Examples include integration, approximation,
+              globaloptimization, integral and partial differential equations over typical
+              isotropic classical spaces of r-times continuously differentiable
+functions.
+              If the computational complexity is exponential in either 1/e or d the problem
+              is said to be  intractable. If the complexity is polynomial in 1/e and d, it is
+              tractable.  If, in addition, the minimal number of information operations,
+              arithmetic operations and comparisons is independent of d the problem is
+              strongly tractable. 
+
+Intractability may sometimes be broken by settling for
+              a stochastic assurance of error; examples are randomization (for instance,
+              Monte Carlo) or the average case. A second way in which intractability
+              might
+be broken is additional domain knowledge about the problem. An example
+              of the domain knowledge is that the integrands in certain mathematical finance
+              problems are non-isotropic. Additional domain knowledge can sometimes be used
+              to make the problem strongly tractable even in the worst case deterministic
+              setting!
+
+Continuation of research on achieving tractability and strong
+              tractability is proposed. In particular, one proposed area of research is under
+              what conditions is a double-win achievable for high dimensional integration:
+ 
+                * convergence faster than Monte Carlo,
+    * with a worst case deterministic
+              assurance.
+The theoretical results will be used to improve the FinDer software
+              system.
+
+    More generally, research is proposed on the following topics:
+ 
+                * Theory and Computer Experiments for Mathematical Finance,
+    *
+              Tractability of Quasi-Monte Carlo and Monte Carlo Algorithms,
+    * Variable
+              Smoothness, 
+    * Generalized Tractability. 
+
+
+
+
+
+

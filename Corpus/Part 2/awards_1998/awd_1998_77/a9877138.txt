@@ -1,0 +1,61 @@
+Title       : Efficient Cryptographic Protocols and Protection of Privacy
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 9,  1999       
+File        : a9877138
+
+Award Number: 9877138
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1999      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $346500             (Estimated)
+Investigator: Michael O. Rabin rabin@deas.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The proposed project has two main thrusts, aimed at creating efficient and
+              secure cryptographic algorithms and protocols, and providing means for
+              protecting and enhancing privacy in the electronic era.
+
+Public-Key
+              Cryptography (PKC) occupies a central position in modern secure communications
+              and electronic commerce.  There are a number of fundamental issues, of great
+              practical and theoretical significance, related to PKC.  Let ER be a public-key
+              encryption function.  Under reasonable assumptions an encryption C = ER(M)
+              protects the secrecy of M.  But there are more subtle attacks on ER.  Two such
+              threats which are very difficult to protect against, are the chosen ciphertext
+              attack and the malleability attack.  In the latter, and adversary may replace,
+              say, the ciphertext C by C* = ER(M + 3), without knowing what M is.  A
+              considerable amount of profound work was invested in protecting encryptions
+              against these dangerous attacks.  All the generally applicable solutions
+              involved application of general Zero Knowledge Proofs (ZKP) and consequently,
+              while in principle of polynomial complexity, required an inordinate amount of
+              computations.  Recently the PI was able to immunize any semantically secure
+              encryption function ER against chosen ciphertext attacks and malleability
+              attacks by considerably more efficient algorithms which do not require ZKPs.  A
+              key role is played by a novel and efficient Proof of Plaintext Knowledge
+              Protocol.  All these methods are generic, in the sense that they apply to
+              enhance any PK encryption ER.  Further development, applications and
+              optimization of these novel methods will be pursued.  The overall objective is
+              to achieve a comprehensive, provably secure, and efficient methodology for PKC
+              and its applications.
+
+The electronic computing and Internet era exposes
+              individuals to considerable threats to their privacy.  The second thrust is
+              aimed at bringing cryptography to bear on the solution of these privacy
+              problems.  Again, the emphasis is on truly efficient and provably secure
+              solutions for such problems as secure and privacy preserving access to data
+              bases containing personal data, privacy protection for transactions such as
+              voting.  
+

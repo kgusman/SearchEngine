@@ -1,0 +1,78 @@
+Title       : CAREER: Multicast for the Masses: Scaling the Internet Multicast Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 5,  1998      
+File        : a9734515
+
+Award Number: 9734515
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1998     
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Steven McCanne mccanne@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+                    Over the past few years, the principal investigator has designed, 
+              implemented, and deployed a number of applications and application-level 
+              protocols that utilize IP Multicast for large-scale, multiparty 
+              remote-conferencing over the Internet Multicast Backbone or Mbone.  In the
+              current incarnation of the MBone tools, a separate application handles each 
+              media (e.g.,for audio,for video, and for whiteboard) and together these tools
+              comprise a flexible multi-party communication system that scales to roughly
+              1000 participants.  This NSF CAREER proposal builds upon this previous work on
+              the MBone tools  with a new emphasis on massive scalability. A principal goal
+              is to design new end-to-end protocols complemented by new network services that
+              will facilitate multi-party communication systems that scale to millions of
+              hosts.  At this extreme, ``multicast for the masses''becomes a reality.  If
+              successful,the traditional infrastructures for mainstream mass media ---e.g.,
+              analog cable networks and over the air radio broadcasts ---can be replaced by
+              integrated packet-switched networks running highly scalable multicast
+              protocols.      The proposed approach for achieving this thousand-fold 
+              improvement in scalability is multifaceted.  Initially,  the investigator will
+              design minimal but powerful extensions to the  IP Multicast service model that
+              will provide end hosts with more flexible  mechanisms for exploiting the
+              underlying network topology.  In the current Internet architecture, network
+              topology is  deliberately hidden.  While this has led to robust protocols  and
+              robust networks, it places fundamental scaling  restrictions on end-to-end
+              multicast protocols.  Instead, the  proposed work will investigate whether  a
+              properly modified IP Multicast service model  can enable new end-to-end
+              protocols that scale  to the extreme degree proposed herein.      One
+              particularly promising extension to IP Multicast   is a new forwarding  service
+              called subtree multicast or subcast.  Subcasts provide the topol ogically-aware
+              network localization  that end-to-end protocols require in order to scale
+              gracefully.  Whereas a normal multicast packet is sent to every receiver in a 
+              target multicast group, a subcast packet is sent only to a well-defined,
+              localized subset of the group. Leveraging subtree multicast, the proposed work
+              aims to overcome many of the scaling limitations in current end-to-end
+              multicast protocols,  and in particular, seeks a new, subcast-based design for
+              the local recovery component  of modern reliable multicast transport protocols.
+              But, more generally, subcasts hold the promise to have far-reaching impact on a
+              number of end-to-end multicast protocols  (e.g., announce/listen protocols like
+              RTCP, session directory protocols, multicast address allocation schemes,
+              congestion control probes as RLM, and distributed voting algorithms like
+              SCUBA),and the proposed work will investigate the integration of subcasts into
+              these existing protocols as well as new ones.      Research prototypes based on
+              subcast technology  will be fielded in real, ``production'' environments and
+              integrated to the extent possible into the proposed educational activities. To
+              this end, the investigator will develop on-line curricula  that utilizes an
+              experimental webcast system to deliver course content over the  network, for
+              example, to students in their dormitories, homes, or offices. The resulting
+              applications and tools will also be deployed in a ``distance-learning
+              classroom'', currenty under development at U.C. Berkeley, which houses classes,
+              seminars, and research group meetings. To realize this ambitious goal, the
+              proposed project will integrate artifacts and infrastructure from the MASH
+              multimedia networking project at U.C. Berkeley and other similar efforts in the
+              network research community that are investigating and building new multicast
+              applications  and protocols.

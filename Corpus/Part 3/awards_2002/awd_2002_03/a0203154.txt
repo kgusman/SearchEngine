@@ -1,0 +1,69 @@
+Title       : Enhancing the Performance of Hp-adaptive Methods for Parabolic and Elliptic
+               Systems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 1,  2002     
+File        : a0203154
+
+Award Number: 0203154
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2002     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $110985             (Estimated)
+Investigator: Peter K. Moore pmoore@mail.smu.edu  (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              
+The investigator will develop tools that will enhance the adaptive solution of
+              parabolic and elliptic systems in three space dimensions.  A new a posteriori
+              error estimation strategy, interpolation-error based error estimation,
+              developed in one dimension will be extended to three dimensions. This strategy
+              provides asymptotically exact estimates of the error not only for the current
+              grid, but for a grid whose elements are one degree higher than the current one.
+               The estimates involve obtaining approximations of appropriate solution
+              derivatives from the finite element solution and are thus, easy to compute. 
+              They will enhance the reliability of hp-refinement codes.  The investigator
+              will also improve efficiency through the development of new assembly and
+              solution algorithms for large linear systems.  A new incomplete assembly
+              algorithm that appears promising in a nonadaptive setting will be extended to
+              an hp-adaptive code.  Incomplete assembly is analogous to incomplete
+              factorization in that only a fixed number of nonzero entries are stored per row
+              and a drop tolerance is used to discard small values.  A variable
+              order-variable step implicit/explicit solver will be built.  A method for
+              selecting a good initial guess for an approximate inverse preconditioner for
+              time-dependent problems based on past history will be investigated. These
+              strategies will be embedded in an hp-refinement code developed previously by
+              the investigator and tested on a set of reaction-diffusion systems.
+
+  Many
+              important physical and biological processes can be modeled by elliptic and
+              parabolic partial differential equations, especially those of the
+              reaction-diffusion type.  Some examples include pattern formation in chemical
+              and biological systems, combustion and voltage propagation in the heart. 
+              Solving such problems often involves significant computational resources, both
+              time and storage, especially when the problems must be solved in three space
+              dimensions. Adaptive methods have proven effective by automatically targeting
+              these resources to areas where the solution must be enhanced while reducing the
+              effort in areas where the solution is changing little. They also increase the
+              reliability of the solution by basing resource allocation on appropriate
+              estimation of the error.  The aim of this proposal is to significantly improve
+              adaptive methods in two ways. First a new error estimation strategy will be
+              developed that is cheaper and provides more information on which to base
+              resource allocation, thereby increasing reliability.  The second involves the
+              creation of several new methods to solve large systems of equations thus
+              improving both time and storage efficiency.  This in turn, means that
+              scientists and engineers will be able to explore more realistic models rather
+              than deliberate over the finer details of numerical analysis.
+

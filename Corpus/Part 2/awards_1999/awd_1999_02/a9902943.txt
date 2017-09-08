@@ -1,0 +1,68 @@
+Title       : Routing and Scheduling Issues in Support of Advance Reservations
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 15,  2001    
+File        : a9902943
+
+Award Number: 9902943
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $449700             (Estimated)
+Investigator: Roch Guerin guerin@ee.upenn.edu  (Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The general topic of the proposal is advanced reservations in itegrated packet
+              networks.  The ability to secure in advance the resources needed by a
+              distributed application is becoming increasingly important.  This is true, not
+              only for high-end scientific or medical applications which require simultaneous
+              access to several facilities and pieces of sophisticated equipment, but also
+              for more mundane applications such as video-conferencing, whose reasonably high
+              resources requirements make it desirable to ensure that the necessary network
+              resources are available at the same time as the conference participants are. 
+              Support for advance reservations involves multiple aspects such as extensions
+              to protocols, and in particular reservation (signalling) protocols, and
+              enhanced resource management procedures, e.g., call admission.  While there has
+              been a number of previous works addressing both of these aspects, the
+              corresponding two sets of issues have typically been considered separately.  In
+              addition, the advance reservation models that have been used, have essentially
+              focused on asingle service model, i.e., the availability of a given amount of
+              resources, from a given starting time, and for a given duration (with possibly
+              a random component in both the starting time and the duration).  The goals of
+              this proposal are, therefore , to investigate jointly protocol extensions and
+              enhancements to resource management, as well as consider more general service
+              models for advance reservations.  In particular, the researchers  will consider
+              the problem of routing of advance reservation requests in the context of an
+              extension to the OSPF protocol, where link state updates have been extended to
+              carry resource availability infromation over different time intervals.  This
+              allows for a distributed implementation which improves scalability by avoiding
+              that all advance reservation requests be forwarded to a central server. 
+              However, it introduces new problems in order to contain the corresponding
+              increase in protocol traffic while ensuring adequate performance.  In that
+              context, the researchers will study issues related to the trade-off between
+              information accuracy and routing performance, and also investigate the use of
+              mechanisms such as preemption priorities to offer applications a range of
+              service options, e.g., request large amount of bandwidth at a low priority
+              together with a small amount at a high priority.  In addition, the researchers
+              will also consider, again jointly with the associated routing problem, various
+              extensions to the advanced reservation model, such as mininmizing completion
+              time, maximizing available bandwidth, etc., that are of potential interest to
+              adaptive applications that can modify their behavior according to the available
+              service.  The researchers believe that the joint development of the necessary
+              infrastructure, e.g., extensions to the OSPF protocol, and the investigation of
+              desirable extensions to the traditional advance reservation model, will allow
+              them to make significant progress in both our basic understanding of the
+              inherent complexity in supporting advance reservation, and our ability to
+              deploy such capabilities.

@@ -1,0 +1,66 @@
+Title       : Internet Congestion Control: Design, Modeling, and Analysis
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 20,  2000      
+File        : a9980552
+
+Award Number: 9980552
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2000      
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Donald F. Towsley towsley@cs.umass.edu  (Principal Investigator current)
+              Weibo Gong  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Future high-speed networks will be significantly larger and more complex
+              than any existing network.  The variety and interaction of the applications,
+              the middleware and transport protocols, and the router/switch resource
+              management algorithms will make the design, development, control, management
+              and evaluation of these networks an exceptionally difficult task. One of the
+              most critical components in the network control architecture is that concerned
+              with congestion control. The Internet has relied till now on the additive
+              increase, multiplicative decrease mechanism, found in most variations of TCP,
+              for congestion control. There is increasing recognition, however, that new
+              congestion control mechanisms, which will be able to coexist with TCP, are
+              needed in future high speed networks. This is due to the increasing need to
+              provide for heterogeneous application requirements and because of many future
+              applications will rely on multicast. As is, TCP congestion control is
+              inadequate for handling either heterogeneity or multicast.
+     There is also
+              a need for a better methodology for modeling and analyzing the TCP performance
+              and the performance of coming congestion control algorithms. The development of
+              such a methodology is especially needed to evaluate the behavior of a mix of
+              TCP sessions and future non-TCP sessions so as to avoid any unpleasant
+              surprises as they are deployed. This proposal describes new and fundamental
+              research in two broad areas:
+     (1)Formula-based congestion control. The
+              researcher proposes research on a new approach to rate-based congestion
+              control.   The project introduces a formula-based approach in which a session
+              monitors its end-end loss rate and adapts its transmission rate accordingly.
+              The research shows how this can be used to construct a TCP-friendly rate
+              control algorithm and then outline a research agenda for exploring and
+              exploiting the potential of this approach to support multicast applications,
+              and to support heterogeneous applications.
+     (2)Performance evaluation of
+              congestion control algorithms. The researcher proposes research on the
+              performance evaluation of different congestion control algorithms based on the
+              use of 
+stochastic differential equations.
+     This proposed research
+              represents a fundamentally important step in the understanding, design,
+              analysis of congestion control algorithms needed by the next generation
+              transport protocols.
+

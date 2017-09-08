@@ -1,0 +1,42 @@
+Title       : New Paltz Interprocedural Compiler
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 20,  1997       
+File        : a9633010
+
+Award Number: 9633010
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $93662              (Estimated)
+Investigator: Michael Hind hind@mcs.newpaltz.edu  (Principal Investigator current)
+Sponsor     : SUNY New Paltz
+	      
+	      New Paltz, NY  12561    914/257-2121
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              The focus of this research is on interprocedural program  analysis; the specific
+              goal of this project is to quantify  the tradeoffs between precision and
+              compilation speed for a  number of interprocedural analyses. The initial work
+              on this  project has focused on implementing a flow-sensitive  interprocedural
+              pointer alias analysis. The current  activities on this project are aimed  in
+              the following three  directions. (1) A flow-insensitive interprocedural pointer
+               alias algorithm will be implemented. The tradeoffs in  precision and
+              efficiency between this algorithm and the flow-  sensitive variant will be
+              quantified. (2) A sparse  representation of alias information will be developed
+              that  avoids storing redundant information at the cost of  retrieving it during
+              an alias query. (3) Experiments will be  conducted to demonstrate the
+              effectiveness of this  representation. A natural extension of a flow-sensitive 
+              pointer alias analysis for C++ type analysis will be  implemented. Experiments
+              will be conducted to demonstrate  its effectiveness and compare it to previous
+              work.  ***

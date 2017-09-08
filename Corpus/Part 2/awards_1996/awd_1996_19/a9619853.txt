@@ -1,0 +1,44 @@
+Title       : Fast, Realistic Image Synthesis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 15,  1997     
+File        : a9619853
+
+Award Number: 9619853
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1997     
+Expires     : March 31,  1998      (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Paul S. Heckbert ph+@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The goal of this project is to accelerate the rendering of three  dimensional
+              surface models using multiresolution modeling  techniques.    Multiresolution
+              modeling is the description of shape at multiple  levels of detail.  In
+              conventional image synthesis, an object is  rendered from the same geometric
+              model independent of its screen  size, but this is unnecessarily slow for small
+              and distant  objects.  With multiresolution models, nearby objects are 
+              rendered using a detailed model, while distant objects are  rendered using a
+              coarse model employing many fewer polygons.    To date, the creation of
+              multiresolution models has been largely  manual.  New algorithms will be
+              developed to adaptively simplify  polygonal surface models, attempting to find
+              an accurate  approximation to the surface using as few polygons as possible, 
+              and to do this as quickly as possible.  Methods for smoothing the  transitions
+              between levels of detail will be developed.  The  resulting image should be
+              indistinguishable from a scene rendered  from a fully detailed model.   
+              Multiresolution models can speed up a number of applications,  including flight
+              and driving simulation, computer aided design,  visualization, video games,
+              virtual reality, and computer  animation.  They can allow scenes of great
+              complexity to be  rendered in real time.

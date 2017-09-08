@@ -1,0 +1,43 @@
+Title       : ALGORITHMS: Efficient Algorithms for Metacomputing of Partial Differential
+               Equations (PDEs)
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a0305405
+
+Award Number: 0305405
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2003      
+Expires     : February 28,  2006   (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Marc Garbey garbey@cs.uh.edu  (Principal Investigator current)
+Sponsor     : U of Houston
+	      4800 Calhoun Boulevard
+	      Houston, TX  772042015    713/743-9222
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Meta-computing was implemented by many projects among which GLOBUS is the most
+              widely known. Experiments with large configurations and real applications have
+              shown that the latency of wide area networks is prohibitively high and that
+              substantial bandwidth can hardly be achieved. Our recent research on efficient
+              algorithms for the meta-computing of Partial Differential Equations (PDEs) has
+              shown that it is feasible to design efficient algorithm for meta-computing of
+              unsteady combustion problems or elliptic solvers on three dimensional Cartesian
+              grids. The development of such algorithms is (very)
+difficult. For Poisson or
+              Helmholtz operators, the speed of propagation of information in the spatial
+              domain is infinite. However, (1) information that propagates at infinite speed
+              can be damped in space relatively quickly according to Green function
+              properties and (2) more than 90 per cent of the information carried in a
+              practical computation is noise. We are designing a family of domain
+              decomposition methods that can rigorously take advantage of both factors.
+

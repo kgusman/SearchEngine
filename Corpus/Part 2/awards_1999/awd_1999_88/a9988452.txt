@@ -1,0 +1,48 @@
+Title       : System Support for Distributed Information Change Monitoring
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 30,  2002     
+File        : a9988452
+
+Award Number: 9988452
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $280000             (Estimated)
+Investigator: Ling Liu lingliu@cc.gatech.edu  (Principal Investigator current)
+              Calton Pu  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The project investigates the design and implementation issues in the mointoring
+              of information changes in large distributed networks such as the Internet and
+              World Wide Web.  One of the objectives is to develop efficient and scalable
+              strategies, techniques, and systems support for distributed control of large
+              numbers of information change monitoring requests.  Research questions to be
+              addressed include the following.  What software techniques and tools are able
+              to extract, integrate, and query streams of data over semi-structured or
+              unstructured data?  Which distributed trigger and data processing techniques
+              are most scalable and yet efficient in the presence of millions of information
+              change monitoring requests?  How do change monitors adapt to wide system
+              parameter variations in runtime environments such as the Internet?  How do they
+              scale up as the number of information sources reach millions?  Critical system
+              components include change detection algorithms (e.g., tree comparison for web
+              pages), trigger and query grouping, indexing, and caching, as well as parallel
+              processing.  Appropriate components will be implemented and evaluated through
+              simulation and measurements on the Internet.  These experiments will emphasize
+              the efficiency and scalability of Internet-scale information change monitoring
+              systems.  The research results will aid in the engineering, implementation and
+              evaluation of systems and middleware software support for scalable and
+              efficient processing of distributed triggers and queries, as well as effective
+              detection and notification of information changes.

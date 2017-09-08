@@ -1,0 +1,45 @@
+Title       : Intelligent Web Prefetching to Reduce Client Latencies
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 1,  2002      
+File        : a9903052
+
+Award Number: 9903052
+Award Instr.: Standard Grant                               
+Prgm Manager: Alan R. Blatecky                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $438020             (Estimated)
+Investigator: Haym Hirsh hirsh@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4090      ADVANCED NET INFRA & RSCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1087,9217,HPCC,
+Abstract    :
+              Delays on the World-Wide Web are a well-known problem for users. Caching of web
+              objects closer to clients is a technique shown to improve performance because
+              requested objects that are in the cache can be presented to the client without
+              traversing sometimes slow network connections to a possibly overloaded web
+              server. Prefetching, in advance of their need, soon-to-be-requested objects
+              that are not in the cache can improve performance even further. Such objects
+              can often be predicted from a range of information sources, such as client and
+              server histories as well as the contents of the objects currently and
+              previously retrieved by the client. In this work, the researcher proposes to
+              develop intelligent prefetching algorithms that use machine learning techniques
+              to develop models that make predictions based on past experience, and to test
+              their implementation in a proxy cache with the goal of reducing user-perceived
+              latency. Moreover, adding prefetching to a cache raises some subtle problems
+              for evaluation methods, and so the researcher proposes a new methodology for
+              proxy cache evaluation that can also handle prefetching systems. The high-level
+              goals of this research are to propose and implement both prefetching algorithms
+              and a sufficient evaluation methodology for such algorithms. This evaluation
+              methodology will then be used to measure the progress made toward the ultimate
+              objective of reducing user latencies.

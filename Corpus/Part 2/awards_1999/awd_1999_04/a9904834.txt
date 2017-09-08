@@ -1,0 +1,63 @@
+Title       : Protein Model Refinement and Flexible Docking by Constrained Free Energy
+               Minimization
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : June 28,  2001      
+File        : a9904834
+
+Award Number: 9904834
+Award Instr.: Continuing grant                             
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $556356             (Estimated)
+Investigator: Sandor Vajda vajda@bu.edu  (Principal Investigator current)
+              Charles DeLisi  (Co-Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 0510204   Data Banks & Software Design            
+              0510301   Structure & Function                    
+Program Ref : 9184,BIOT,
+Abstract    :
+              
+This project focuses on two fundamental problems. The first is the development
+              of flexible protein docking algorithms for the case in which the association
+              occurs with substantial conformational change involving side chains and loop
+              regions. The second problem is the development of con-formational search
+              algorithms for refining low resolution protein models with 6 to 10 A RMSD from
+              the native structure, obtained by homology modeling, fold recognition. or ab
+              initio structure prediction. In both applications, free energy potentials,
+              combining molecular mechanics with em-pirical solvation and entropic terms,
+              will be used as target functions. It has been shown that such potentials can be
+              more effective in decoy discrimination than purely empirical functions. However
+              even with a normalization procedure to reduce the noise in the van der Waals
+              energy, the combined potentials exhibit a multicomponent/multifrequency
+              behavior, and are very difficult to minimize. The free energy is regarded as
+              the sum of three functions: a smooth component that includes elec-trostatic,
+              solvation, and entropic contributions, an intermediate frequency component of
+              internal (bonded) energy terms, and the van der Waals term which is essentially
+              a high frequency noise, and carries little information about the distance from
+              the native state.
+
+Most established methods of finding the global minimum of
+              a multicomponent/multifrequency potential generate a large number of trial
+              conformations and then rank them according to their free energies. This project
+              will use a radically different approach that mimics native folding or
+              association pathways. The basic idea of the method is performing minimization
+              of the smooth free energy components, but restricting the search to regions of
+              the conformational space with low van der Waals energy. Since this group has
+              already shown that the combined potential has good discriminatory power, the
+              key to a successful docking or model refinement is the ability to generate
+              enough near-native conformations. It is expected that exploiting the gradient
+              of the smooth free energy components will substantially increase the efficiency
+              of sampling, and the resulting methods will be useful to the broad molecular
+              biology/biochemistry community.
+

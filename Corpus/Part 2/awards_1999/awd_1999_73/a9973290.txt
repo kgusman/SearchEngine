@@ -1,0 +1,108 @@
+Title       : Fast Integral Methods for Adaptive Incompressible Flow Simulations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 13,  1999    
+File        : a9973290
+
+Award Number: 9973290
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1999    
+Expires     : January 31,  2003    (Estimated)
+Expected
+Total Amt.  : $91000              (Estimated)
+Investigator: Michael L. Minion minion@math.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              The proposed research is dedicated to the development and implementation of
+              integral equation methods for linear equations based on the Fast Multipole
+              Method (FMM) for use with adaptive finite difference methods for incompressible
+              flow.  The scientific objective of this course of research is to produce new
+              methods for the study of phenomena in incompressible flow systems which are not
+              easily approached with existing methods.  For incompressible flow systems, the
+              divergence constraint requires the solution of global elliptic equations which
+              greatly increases the complexity and computational cost of simulation. Many
+              fluid systems also contain a large range of relevant length scales which
+              necessitates the use of spatially and temporally adaptive methods.  When
+              applicable, integral equation methods offer the possibility of efficient,
+              adaptive, high-order methods which are readily applicable to complex
+              computational geometries and are also highly parallel.  Three distinct
+              applications of FMM will be developed and coupled with adaptive fluid
+              solvers:
+solution of the Poisson equation, solution of the surface
+              Laplacian,
+and the fast summation of impulse potentials, each in the context
+              of a
+specific physical problem.  The numerical study of
+              Boussinesq
+convection, in which strong localized fronts develop, requires that
+              a
+standard Poisson equation be solved.  Simulating front formation of
+the
+              quasigeostrophic thermal scalar and internal waves in two fluid
+systems
+              requires that a psuedo-differential operator equivalent to a
+surface Laplacian
+              be inverted.  A new approach to modeling thin
+flexible membranes in
+              incompressible flows requires that membrane
+forces be evaluated at all grid
+              points as well as a Poisson equation
+be solved to enforce incompressibility. 
+              For all of these physical
+problems, adaptive methods offer the opportunity to
+              study problems
+which are unapproachable with uniform mesh methods.
+
+The
+              range of important fluid flow applications which the proposed
+research could
+              impact is quite diverse.  Examples include modeling the
+ocean or climate,
+              predicting oil recovery or contaminant flows in the
+ground, simulating
+              combustion or nuclear reactions, and modeling the
+flow of blood in organs like
+              the heart or kidneys.  For these types of
+applications, the solution of linear
+              equations represents the most
+computationally intensive part of the overall
+              computer model.  The use
+of integral equation methods to solve the linear
+              equations within
+these models represents a distinct change from the majority
+              of current
+computer simulations.  Any increase in the efficiency in which
+              these
+equations can be solved translates directly into the ability
+              for
+scientists to run larger and more accurate models.  The 
+mathematical and
+              computational techniques necessary to make integral
+equation methods an
+              attractive alternative to more standard approaches
+has only been fully
+              developed in the last 10 years.  Because of the
+complexity and newness of
+              these methods, little work has been done to
+exploit their power in
+              applications involving fluid flow.  The
+applications that will be pursued as
+              test cases for the new methods
+represent problems for which current numerical
+              techniques are
+inadequate for answering fundamental questions of interest
+              to
+scientists.  The algorithms developed will also serve as a stepping
+stone
+              for future methods applicable to more complicated problems.

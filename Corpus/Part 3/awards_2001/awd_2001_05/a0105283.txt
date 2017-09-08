@@ -1,0 +1,103 @@
+Title       : Collaborative Research: Restricted Caches, An Experimental and Theoretical Study
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 26,  2002     
+File        : a0105283
+
+Award Number: 0105283
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $223619             (Estimated)
+Investigator: Eric K. Torng torng@cse.msu.edu  (Principal Investigator current)
+              Richard J. Enbody  (Co-Principal Investigator current)
+Sponsor     : Michigan State University
+	      
+	      East Lansing, MI  48824    517/355-1855
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The gap between processor speed and main memory access speed
+can cause
+              processors to spend much of their time waiting on memory accesses.
+As the gap
+              has grown, this memory latency has become an
+increasingly significant
+              bottleneck in processor performance.
+Existing cache designs have worked well
+              to fill the gap,
+but new cache designs are needed as the gap continues to
+              grow.
+A promising new class, restricted caches, includes
+skew caches, assist
+              caches, victim caches, and other multi-lateral caches.
+Experiments have
+              indicated that some restricted caches
+offer significant potential for
+              improvement over traditional
+set-associative caches.  They also have revealed
+              some interesting
+phenomenon that are not possible in traditional caches.  For
+              example,
+skew caches seem to exhibit self-reorganization.
+However, no
+              theoretical explanation exists for this behavior or for
+why these restricted
+              caches perform well.
+
+The investigators study the performance of distinct
+              restricted cache
+structures and algorithms for managing them.
+The
+              investigators first identify an underlying structural difference
+between
+              restricted caches and traditional fully-associative
+caches: all cache lines
+              are not identical.  Specifically, in a
+restricted cache, unlike in a
+              traditional set-associative cache,
+there exist pairs of memory blocks whose
+              sets of legal cache lines
+are not identical and have a non-empty
+              intersection.
+Using this insight, the investigators evaluate and
+compare
+              different cache structures using new techniques.
+Most other analytical studies
+              of caches focus only on the performance
+of algorithms for a given cache
+              structure and do not explicitly
+compare the effectiveness of distinct cache
+              structures.  The
+investigators also study the performance of various
+              algorithms
+for these cache structures using a variety of techniques such
+as
+              resource augmentation, standard competitive analysis,
+and trace-based
+              simulation.  Their results indicate that traditional
+cache management
+              algorithms behave very differently on restricted
+caches than they do on
+              traditional set-associative caches.
+For example, the least recently used (LRU)
+              algorithm that is strongly
+competitive for traditional caches is not
+              competitive at all for
+restricted caches unless explicit rearrangement of
+              items in the
+cache is allowed.  Finally, the investigators construct a
+trace
+              warehouse to facilitate the comparison of distinct trace-based
+simulation
+              studies as well as to help new researchers learn this
+this evaluation
+              technique.

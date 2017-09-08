@@ -1,0 +1,67 @@
+Title       : A Rapid Prototyping Approach to Semiconductor Device Manufacturing Process
+               Simulation
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 20,  2000 
+File        : a0082381
+
+Award Number: 0082381
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $170469             (Estimated)
+Investigator: Raymond A. Adomaitis adomaiti@isr.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              0082381
+Adomaitis
+
+We  propose to develop the computational framework that
+              will make possible a rapid proto-typing approach to simulator development for
+              microelectronic device fabrication process systems. This research is intended
+              to fill the gap that exists between supercomputer-based, highly resolved
+              simulations and lumped-parameter models, a range currently spanned by
+              specialized methods for process simulation, analysis,  model reduction, and
+              parameter estimation - numerical tools that are generally incompatible with
+              each other. The proposed approach to process simulation is based on developing
+              computational elements that have a one-to-one correspondence to the steps taken
+              when  implementing high-dimensional projection, spectral filtering and advanced
+              weighted residual methods, such as the reduced basis and nonlinear Galerkin
+              projections.  Methods for assessing model validity; solution analysis (e.g.,
+              stability), and discretization error will be addressed in this framework.
+              Indeed, because of its reliance on parameter estimation methods, an absolute
+              measure of reduced-model predictive power always will be produced in this
+              simulation framework. These interconnected computational tools will be
+              developed in the MATLAB environment, taking advantage of MATLAB's
+              object-oriented programming features to simplify simulations of complex systems
+              and to create a pathway to incorporating our simulation tools in spectral
+              element and other commercial software packages.
+
+The need to generate
+              computationally efficient, validated simulations for improving across-wafer
+              processing uniformity in chemical vapor deposition and other semiconductor
+              materials manufacturing unit operations provides the primary motivation for
+              this research.  Reduced models are suitable for real-time and run-to-run
+              control, efficient process recipe optimization, and model-based sensing and
+              estimation of unmeasurable processes, such as microfeature evolution.  This
+              proposal will support the joint research between the PI and the Tecbnology CAD
+              group of Intel through a graduate student internship aimed at testing the
+              simulation tools in a corporate research environment. The basic elements of
+              this approach also will be developed in the context of a commercial chemical
+              vapor deposition (CVD) cluster tool located at the University of  Maryland,
+              with the goal of producing a  validated, reduced model to be used for wafer
+              temperature prediction and conformal CVD studies.  
+***  
+

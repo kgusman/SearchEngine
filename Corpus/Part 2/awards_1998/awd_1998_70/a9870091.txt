@@ -1,0 +1,62 @@
+Title       : Analysis of Fluid Motion
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 1,  1999  
+File        : a9870091
+
+Award Number: 9870091
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1998      
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: J. Thomas Beale beale@math.duke.edu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              DMS-9870091  J. Thomas Beale    Abstract     The purpose of the proposed work is
+              to analyze the errors in  numerical methods for the time-dependent motion of
+              water waves,  to design improved methods, and to verify the reliability of the 
+              proposed methods with error estimates, convergence proofs, and  computational
+              tests.  The methods of interest are called boundary  integral methods.  They
+              have been widely used in ocean engineering  as well as in applied mathematics. 
+              The motion of the water surface  is tracked by markers representing material
+              particles which are moved  according to a velocity field computed from
+              quantities on the surface.    The velocity is expressed in terms of singular
+              integrals, since the  governing equations are formulated through potential
+              theory.  The  evolution has the character of nonlinear, nonlocal wave motion on
+               the boundary.  Numerical instabilities have long been observed in  such
+              methods, but analysis of the two-dimensional case has shown  that they can be
+              ruled out by proper design.  The first goal of the  proposed research is to
+              develop stable, convergent numerical methods  for the simulation of exact,
+              time-dependent, three-dimensional water  wave motion which is periodic in the
+              horizontal directions.  Thus the  full nonlinear motion will be dealt with, but
+              interactions with solid  objects will be neglected.  The method of calculation
+              of the singular  integrals is a primary issue, one which may have relevance to
+              other  problems.  A second goal is to deal with the errors from edges where  a
+              solid object meets the water surface.    Practical predictions of the motion of
+              fluids and solids  are often made by numerical solution of the equations  which
+              express the basic physical laws of the motion.  Methods of the type studied
+              here have been used in  ocean engineering in order to predict the motion of 
+              large water waves, the interaction of water waves with  ships or stationary
+              objects, and the force exerted by  a wave on a wall or object.  Calculations of
+              these probl ems  and others have encountered numerical instabilities; that is, 
+              because of the numerical approximation, small scales may  grow in a way
+              unrelated to the physical problem.  Mathematical analysis can be used to
+              understand such  errors and to design improved methods.  Previous  work for
+              two-dimensional waves (those not varying in  the third direction) has
+              identified the sources of errors  for this special case.  The purpose of the
+              present  work is to carry out such analysis in more  difficult and realistic
+              cases where the sources of  errors are likely to be more serious.  It is hoped
+              that  improvements in the numerical methods could contribute  to reliable
+              predictions of water wave motion.

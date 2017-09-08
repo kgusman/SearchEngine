@@ -1,0 +1,46 @@
+Title       : Speculation Control Execution for Energy Efficiency
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0072870
+
+Award Number: 0072870
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $249999             (Estimated)
+Investigator: Dirk C. Grunwald dirk.grunwald@colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Modern processors improve instruction level parallelism by speculation. The
+              outcome of data and control decisions is predicted, and the operations are
+              speculatively executed and only committed if the original predictions were
+              correct. There are a number of other ways that processor resources could be
+              used, such as threading or eager execution.  As the use of speculation
+              increases, more processors will need some form of speculation control to
+              balance the benefits of speculation against other possible activities.  This
+              research examines a set of microarchitectural features that can benefit from
+              speculation control, including trace formation; instruction fetch management,
+              execution resource management and memory access prioritization.  The research
+              also explores how out-of-order processor designs can use multi-voltage levels
+              to reduce energy, and how the processor can provide feedback to an operating
+              system that further controls energy use via dynamic voltage scaling.  This work
+              is done using a microarchitectural model that supports multithreading and
+              multiprocessor simulations. This work is part of a broader effort that includes
+              experimentation with existing computers, design and modification of operating
+              systems for energy efficiency and the adoption of microarchitectural models
+              designed for comparing energy efficient processor designs.
+
+

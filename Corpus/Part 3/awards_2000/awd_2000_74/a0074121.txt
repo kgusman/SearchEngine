@@ -1,0 +1,88 @@
+Title       : Design of Translucent Optical WDM Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 11,  2000    
+File        : a0074121
+
+Award Number: 0074121
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2000      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $271023             (Estimated)
+Investigator: Byravamurthy Ramamurthy byrav@cse.unl.edu  (Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9218,HPCC,
+Abstract    :
+                   The unprecedented growth in the number of networked users and the emergence
+              of high-bandwidth end-user applications impose new challenges in the design of
+              architectures for next-generation computer networks.  Optical networks,
+              employing Wavelength Division Multiplexing (WDM), transcend the bandwidth
+              limitations of electronic networks by utilizing the enormous capacity of the
+              optical fiber.  Though this technology looks extremely promising, large-scale
+              deployment of such optical networks in the future depends on a rapid
+              convergence of communication network requirements and physical network
+              realities.  The focus of the  proposed research in optical networks is to
+              facilitate this process, by tackling several system-level challenges while
+              acknowledging the limitations of existing devices.                             
+                                                             Wavelength Division Multiplexing
+              of numerous multi-gigabit/sec channels is being deployed right now on existing
+              and new fiber infrastructure in respones to explosive growth in both local and
+              long-haul digital traffic.  WDM deployment is surging because capacity may be
+              economically provisioned by activating additional wavelength channels on
+              existing fiber plant.  However, as the fiber capacity grows, increasing strain
+              is placed on the capacity of costly electronic switches at network nodes and
+              access points.  A reconfigurable transparent optical network seeks to provide a
+              low-cost alternative by ensuring that the signal leaves the optical domain only
+              at the source and destination, thereby avoiding unnecessary opto-electronic
+              conversion.                                                                    
+                                                                                     There
+              are, however, fundamental limits imposed by physical-layer impairments that
+              limit the length of end-to-end connections in transparent optical networks. 
+              Connections that span several nodes and large distances may acumulate severe
+              impairments imposed by fundametal physical constraints such as fiber dispersion
+              and nonlinearties, spontaneous emission noise, and device imperfections such as
+              crosstalk.  Since the physics of point-to-point communications performance is
+              well understood experimentally and theoretically, it has been argued that
+              nation-scale networks will avoid physical-layer impairments by deploying
+              point-to-point WDM with electronic regeneration at each node.  Such a network
+              is called an opaque optical network.  Unlike the case of point-to-point links
+              and physical-layer optical devices, the analysis and simulation of complex
+              all-optical or hybrid optical-electronic networks is still in its infancy and
+              well-tested tools are only now being developed.                                
+                                                                                        The
+              goals of this project are to propose, evaluate and study designs for the
+              next-generation high-bandwidth WDM-based optical networks, which are compatible
+              with the physical-layer characteristics of optical devices.  In particular, the
+              researcher plans to investigate the following research topics:                 
+                   Sparse Regeneration and Translucent Optical Networks:  There has been a
+              great deal of discussion regarding transparency vs. opacity in (national-scale)
+              optical wavelength devision multiplexed (WDM) networks [11].  In [22], the
+              researcher introduced the notion of a translucent optical network - a network
+              which supports selective regeneration of optical signals within the network. 
+              The researcher's study showed that, for medium-scale networks translucency can
+              help to improve the overall network performance.  For larger-scale networks,
+              where impairments introduced by fiber nonlinearities and dispersion cannot be
+              ignored, the researcher anticipates that a higher degree of opacity may be
+              needed to combat signal degradations, but this is an open problem for further
+              research.  The researcher also plans to investigate the effect of a few signal
+              regenerators at select locations in a nation-wide WDM network.                 
+                                         Routing and Wavelength Assignment with Power
+              Considerations:  Routing and wavelength assignment (RWA) is an important
+              problem that arises in wavelength division multiplexed (WDM) optical networks. 
+              Previous studies have solved many variations of this problem under the
+              assumption of perfect conditions regarding the power of a signal.  The
+              researcher propose to investigate this problem while allowing for degradation
+              of routed signals by components such as taps, multiplexers, switching elements,
+              fiber links, etc.  The researcher plans to include novel amplifier and other
+              device models to characterize the performance of the networks.

@@ -1,0 +1,45 @@
+Title       : SBIR Phase I: A New Approach to Solving the Shortest Path Problem
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 16,  1998  
+File        : a9861247
+
+Award Number: 9861247
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael F. Crowley                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1999    
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $99998              (Estimated)
+Investigator: Chujen Lin chujen@i-a-i.com  (Principal Investigator current)
+Sponsor     : Intelligent Automation Inc
+	      7519 Standish Place, Suite 200
+	      Rockville, MD  208552743    301/222-0444
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9139,HPCC,
+Abstract    :
+              9861247
+     This Small Business Innovation Research Phase I project  details
+              an analog parallel distributed (APD) solution to the shortest path-problem, the
+              time complexity of which depends on the required accuracy of the solution. The
+              algorithm is based on Bellman's formulation of the SPP. Rather than
+              implementing a classic gradient descent in our system as is typical, a new
+              energy minimization technique was developed. The resulting modified gradient
+              descent has the important benefit of not stabilizing at local minima. It also
+              permits a straightforward distributed VLSI implementation which with the
+              currently available technology is expected to have a peak accuracy within 0.5%
+              and time constant of a fraction of a microsecond. A powerful decomposition
+              technique has already been devised and used to characterize the dynamic
+              behavior of the system.
+     Applications of the algorithm involve analog
+              routing assessment or routing control and search problems in chip-level
+              artificial intelligence. The decomposition method may be useful in analyzing
+              the APD paradigm for other combinatorial problems on graphs.
+
+

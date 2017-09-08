@@ -1,0 +1,96 @@
+Title       : An Event-driven Programmable Network Architecture for the Next Generation
+               Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 4,  2000   
+File        : a9872785
+
+Award Number: 9872785
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $965906             (Estimated)
+Investigator: Bharghavan Vaduvur bharghav@crhc.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              Recent years have witnessed an explosive growth in the volume and the diversity
+              of applications that use the Internet.  IN the past, most of the data traffic
+              traversing the Internet was reliable, sequenced, non real-time, and between a
+              stationary pair of hosts.  However, the next generation Internet will need to
+              support very diverse environments (e.g., heterogeneous wireline/wireless and
+              mobile networks), applications (e.g., multimedia, WWW, telnet), and services
+              (multicast, different classes of quality of service, etc.).    Because
+              applications with diverse requirements need to react differently to the
+              dynamics of the network, the next generation Internet protocols will, of
+              necessity, have to be more proactive in the way they deal with
+              application-specific requirements.  Additionally, new services will need to be
+              developed and rapidly deployed for emerging applications. 
+
+In this project,
+              we propose a novel event-drive programmable network architecture that is
+              scalable, robust, flexible, extensible, and simple to program.  Our
+              architecture enables on-the-fly instantiation of new network services both by
+              users and service providers, dynamic creation of virtual networks, quality of
+              service, service advertisement, flexible network resource management, and
+              resource arbitration among contending applications.  Our goal is to make
+              programming the network almost as simple as programming a stand-alone computer.
+              
+
+Our approach is to provide an event-drive view of the network.  A 'virtual
+              network' is defined by a set of services, each of which is an <event,
+              event-handler> pair.   The network provides a default set of services.   Each
+              service provider can create its own 'virtual network context', which is an
+              instantiation of a virtual network.  Virtual network contexts have a
+              hierarchical structure, i.e., a service provide may allow users or applications
+              to create their own virtual network contexts within the context of the service
+              provide.  Each virtual network context inherits the services of its parent
+              context, but can customize these services or create new ones.  Services can be
+              customized either by binding an event to a different event-handler, or by
+              creating new events (which can be triggered by other event-handlers).   A
+              network-wide 'distributed services directory' maintains a (partial) library of
+              available and publicly disseminated services.  In this model, a virtual network
+              context can be easily customized piecemeal by changing only a few of the
+              services relevant to a user.     At the same time, it is easy to compose new
+              services and build entire virtual networks by mixing and matching from a menu
+              of publicly available services. 
+
+In order to make programming services
+              simple, our architecture provides a simple programming abstraction of the
+              distributed network state to applications, thereby reducing the complexity of
+              developing services.  A distributed network manager provides simple mechanisms
+              for accessing, updating, caching, and locking both local and non-local network
+              state belonging to multiple nodes in potentially heterogeneous networks.  The
+              network manager is a self-configuring distributed software based on the 'spine'
+              infrastructure that we have developed in the past, and also provides resource
+              management, resource allocation, and resource arbitration among top-level
+              virtual network contexts.   We believe that our combined service model and
+              network management architecture is unique in contemporary research, and may
+              prove to be an appropriate architecture for the next generation Internet.
+              
+
+In order to better understand the subtleties of the architecture and
+              service requirements in a real environment, we will build a four cluster
+              testbed consisting of heterogeneous wireline/wireless networks spanning the
+              country, with clusters located in Champaign, Chicago, Boston, and San Jose.  
+              We will build hte infrastructure in collaboration iwth Motorola, TranSwitch,
+              and Maverick Semiconductor.   The goal of htis evnvironment is to provide
+              quality of service for unicast and multicast flows in a mobile computing
+              environment.  We choose this application environment because of its comcplexity
+              and our previous expertise in building such environments in the context of hte
+              traditional Internet.  We believe that at the ned of this project, we iwll be
+              able to develop an architecture that can effectively address the diverse and
+              complex requirements of hte next generation Internet. 
+
+

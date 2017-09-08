@@ -1,0 +1,49 @@
+Title       : CAREER/REU: Complete Sensor Based Planning for Highly Articulated Robots
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : May 31,  2002       
+File        : a9702768
+
+Award Number: 9702768
+Award Instr.: Continuing grant                             
+Prgm Manager: Junku Yuh                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1997       
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $370000             (Estimated)
+Investigator: Howard M. Choset choset@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1045,1187,9139,9251,HPCC,
+Abstract    :
+              The realistic deployment of highly articulated robots relies on a  provably  
+              complete  sensor  based  planner  for  these   robots.  Consequently,  the
+              operation of such robots motivates  the  long-  term  research  effort to
+              develop a sensor based  planner  for  a  broad  class of highly articulated
+              robots. The research considers  the  next step towards this goal: this approach
+              introduces a  new  roadmap structure for an arbitrary shaped object. The
+              roadmap  is  termed the hierarchical configuration Voronoi graph (HCVG) and it 
+              can  be used to plan a path between two points and to explore and  map  an 
+              environment. Furthermore, and perhaps more  importantly,  the  HCVG  applies to
+              situations where the robot has no a  priori  information about its environment
+              and thus, the robot  must  rely  on  its  sensor  information to achieve  its 
+              goal.   A  powerful  feature  of  the HCVG is its incremental construction 
+              procedure,  which  is a necessary component of a sensor based planner because 
+              there typically is no one vantage point from where the robot  can  ``see'' the
+              entire environment; the robot needs to couple sensing  with  motion.  Four key
+              aspects of this ppocedure are (1) it uses  only  line of sight distance
+              information, (2) it requires minimal  sensor  processing,  (3)  it  need  not 
+              explicitly  compute  the  configuration  space of the robot, and (4) it is
+              complete.   This  incremental  construction procedure is  general  to  any 
+              roadmap  method  and thus provides a framework in how local line of  sight 
+              information  can be used to create a global map.  This  award  is  coordinated 
+              with  a  companion award from the  Office  of  Naval  Research in support of
+              this research.

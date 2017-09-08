@@ -1,0 +1,75 @@
+Title       : ITR: Static and Dynamic Tools for Software Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 24,  2002      
+File        : a0086160
+
+Award Number: 0086160
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $1003417            (Estimated)
+Investigator: Monica S. Lam lam@cs.stanford.edu  (Principal Investigator current)
+              Dawson R. Engler  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1661,9216,HPCC,
+Abstract    :
+              Proposal Number:  0086160
+Title: Static and Dynamic Tools for Software
+              Design
+PIs: Monica Lam and Dawson Engler
+
+This project aims to develop a new
+              programming methodology whereby the
+programmer, the compiler and the runtime
+              system all cooperate in
+maintaining the integrity of a software program.  The
+              proposed system
+allows programmers to capture application-level semantics
+              and
+invariants of interest at a high abstract level. Whereas specific
+tools
+              have been developed by compiler writers to detect specific
+common programming
+              errors, this system will allow programmers to
+formulate the correctness
+              property or safety criterion that they wish
+to check in their programs.  It
+              places the full power of sophisticated
+static and dynamic analyses in
+              programmers' hands, allowing them to
+analyze and manipulate the program at
+              ease.  Success of this reserach
+will have a significant impact on improving
+              software reliability.
+
+Expected results of this research include (1) a
+              high-level interface
+with which the programmers communicate information to the
+              system, (2)
+technology for creating new application-specific program analysis,
+              (3)
+deep program analysis techniques such as pointer alias analysis
+              and
+path-sensitive analysis to improve the precision of the static
+checker,
+              and (4) new ways to combine static and dynamic analysis to
+locate violations
+              of the stated properties in the code.  A prototype
+system will be developed
+              and tested on general-purpose codes such as
+open-source operating systems,
+              compilers and browsers as well as
+embedded systems such as routers and
+              telephone switches.

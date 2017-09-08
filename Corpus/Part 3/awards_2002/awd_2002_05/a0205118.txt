@@ -1,0 +1,72 @@
+Title       : Collaborative Research: ITR: Acquiring Accurate Dynamic Field Data Using
+               Lightweight Instrumentation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  2002    
+File        : a0205118
+
+Award Number: 0205118
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2007     (Estimated)
+Expected
+Total Amt.  : $500000             (Estimated)
+Investigator: Alan F. Karr karr@niss.org  (Principal Investigator current)
+Sponsor     : Nat'l Inst. of Stat. Sci.
+	      PO Box 14006
+	      Research Triangle Pk, NC  277094006    919/685-9300
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 1658,1667,1687,9218,HPCC,
+Abstract    :
+              ABSTRACT
+0205625,0205118, 0205429, 0205627 
+
+TITLE: Collaborative Research:
+              ITR: Acquiring Accurate Dynamic Field Data Using Lightweight
+              Instrumentation
+
+Dynamic analyses, such as testing and profiling, play a key
+              role in state-of-art approaches to software quality assurance (QA).  With rare
+              exception, these analyses are performed in-house, on developer
+platforms,
+              using developer-provided input workloads. Shortcomings of this approach include
+              that the results simply cannot be  trusted to tell us how the software actually
+              performs in the field.
+
+The project goal is to give developers unprecedented
+              insight into the actual runtime behavior of their software, allowing developers
+              (and ultimately the software itself) to change, optimize, and adapt the
+              software based on highly accurate field data. Lightweight, collaborative
+              dynamic analyses conducted around-the-world and around-the-clock form the new
+              platform: (1) lightly instrument fielded software (i.e., each program copy
+              performs a small part of the analysis) (2) collect the partial data from many
+              instances of the software, fusing it to conduct the complete analysis, (3)
+              change the running program instances based on the findings and (4) repeat the
+              process.
+
+Seven critical research challenges form the core of the project:
+              
+1. Lightweight instrumentation--Develop instrumentation that is  virtually
+              transparent to individual users. 2. Compositional analysis techniques--Develop
+              distributed analysis techniques that decompose
+traditional analyses into
+              smaller steps, distribute the steps among multiple users, and then fuse each
+              user's results into an accurate solution to the original problem.  3.
+              Scalability--Develop storage
+and analysis techniques to deal with the high
+              data volumes we expect to encounter. 4. Anomaly Detection--Define data-driven
+              techniques to automatically identify anomalous behaviors of deployed
+software.
+              5. Privacy and Security--Incorporate privacy and security safeguards into our
+              data collection and analysis approaches.  6. Dynamic updating
+              mechanisms--Develop techniques to make runtime changes to the location and
+              function of instrumentation, and to parts of the software itself. 7. Validate
+              approach on industrial
+software. 

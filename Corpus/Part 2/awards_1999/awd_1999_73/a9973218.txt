@@ -1,0 +1,67 @@
+Title       : Minimization of Piecewise Quadratic Functions and Applications
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 24,  1999      
+File        : a9973218
+
+Award Number: 9973218
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $71806              (Estimated)
+Investigator: Wu Li wuli@math.odu.edu  (Principal Investigator current)
+Sponsor     : Old Dominion Research Fdn
+	      2033 Hughes Hall
+	      Norfolk, VA  23529    757/683-4293
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9973218
+
+The proposer's main objective is to resolve some theoretical and
+              computational issues in developing innovative and efficient numerical methods
+              for solving constrained minimization problems that can be reformulated as
+              unconstrained minimization of piecewise quadratic functions.  More
+              specifically, the proposer's objectives are the following: (i) identifying
+              constrained minimization problems that can be converted to the unconstrained
+              minimization of convex piecewise quadratic functions; (ii) designing numerical
+              algorithms for solving the unconstrained reformulation problem that take
+              advantage of the structure of the original problem; (iii) developing matrix
+              factorization and matrix updating techniques for solving symmetric (but
+              possibly singular) systems of linear equations; and (iv) establishing error
+              bounds that are useful for convergence analysis of numerical algorithms for
+              solving certain minimax problems for convex quadratic functions.  The potential
+              impact of the project is an innovation on how quadratic programming problems
+              should be solved in sequential quadratic programming methods as well as in
+              trust region methods for solving constrained minimization problems.  The theory
+              on new merit functions will provide a completely new perspective on how
+              constraints should be handled in solving constrained minimization problems. 
+              The new penalty function theory also serves as a theoretical basis for
+              developing new methods for solving constrained minimization problems.  New
+              techniques for finding a descent Newton direction when the Hessian of an
+              objective function is only positive semidefinite will significantly advance the
+              theory on Newton methods and allow people to use Newton methods to find a
+              minimizer of a convex piecewise quadratic function in finitely many iterations,
+              even though the set of all minimizers might be unbounded.  New error bounds
+              will provide new ways to establish convergence results for some numerical
+              algorithms.
+
+Quadratic programming is the key for solving constrained
+              minimization problems that have significant applications in many areas such as
+              bio-engineering, chemical engineering, aircraft design, etc.  For example, a
+              faster and more accurate way of solving certain constrained minimization
+              problems means a shorter and more efficient design cycle in developing new
+              aircraft for Boeing.  This project aims at using an innovative approach for
+              solving large-scale quadratic programming problems that can be used to obtain
+              accurate solutions of constrained minimization problems efficiently. This will
+              lead to better software tools for solving many engineering application
+              problems.
+

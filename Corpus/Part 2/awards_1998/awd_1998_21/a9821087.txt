@@ -1,0 +1,44 @@
+Title       : Deriving and Analyzing Learning Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2001       
+File        : a9821087
+
+Award Number: 9821087
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300237             (Estimated)
+Investigator: Manfred K. Warmuth manfred@cse.ucsc.edu  (Principal Investigator current)
+              David Paul Helmbold  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Cruz
+	      1156 High Street
+	      Santa Cruz, CA  950641077    408/429-0111
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              It can be difficult to tell which learning algorithm is best for a particular
+              situation.  The bias of many on-line learning algorithms can be encoded with a
+              "distance function" on the hypothesis space, and (for simple problems) an
+              amortized analysis can be used to provide relative performance guarantees
+              (analogous to the competitive ratios for k-server problems).  These guarantees
+              can be used to indicate when one bias is more appropriate than another,
+              allowing an intelligent choice of learning algorithm.
+
+This project explores
+              the connection between the distance functions over hypotheses and the Bregman
+              divergences used in convex optimization.  By adapting the tools developed for
+              Bregman divergences, the investigators will improve and generalize the
+              performance guarantees.  This will result in more accurate predictions of how
+              well the various learning algorithms will perform on a wider variety of
+              problems.  Furthermore, the improved understanding will enable the derivation
+              of new learning algorithms tailored to specific situations.
+

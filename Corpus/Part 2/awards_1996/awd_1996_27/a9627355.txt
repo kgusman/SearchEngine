@@ -1,0 +1,66 @@
+Title       : Mathematical Sciences: Object Oriented Software Design for Optimization and
+               Inverse Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 18,  1997    
+File        : a9627355
+
+Award Number: 9627355
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: William W. Symes symes@caam.rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Symes  9627355    The investigator and his colleague aim to bridge the often
+              large  gap between ``off-the-shelf'' software packages for numerical 
+              optimization, on the one hand, and complex applications in  science and
+              engineering, on the other, through further  development of the Hilbert Class
+              Library, an object-oriented  programming environment written in C++.  This
+              approach to  programming expresses optimization algorithms in terms of their 
+              natural abstract components (vector addition, inner product, and  so forth),
+              without imposing unnecessary constraints on data  structure and representation.
+               Application software, on the other  hand, can be written using the most
+              suitable data structures,  algorithms, and languages (various dialects of
+              Fortran, for  instance).  The programming environment provides a flexible and 
+              largely automatic interface between the generic optimization code  and the
+              application-specific code.  In addition to the  elaboration of the basic class
+              library, objectives of this  proposal include the implementation of several
+              modern algorithms  for large-scale optimization, the design of a software
+              toolkit  that allows application programmers and numerical optimizers easy 
+              access to the HCL programming environment, and testing on a  variety of
+              realistic problems.  For example, research in seismic  data processing methods
+              provided the original motivation for this  project, and remains a principal
+              target.    Reuse of software is a long-standing goal of software engineering 
+              research, as software development and maintenance represents the  bulk of the
+              cost of computation.  Object oriented programming  designates an approach to
+              software design that elevates  reusability to the status of guiding principle. 
+              Traditional  ("procedural") programming style embeds the internal details of 
+              data and algorithms in the interfaces between program parts.   Object oriented
+              programming hides or encapsulates these details,  which permits program parts
+              to be interchanged with considerably  great er ease.  For this and other
+              reasons, object orientation has  become the dominant methodology in commercial
+              programming,  especially for graphics applications.  It has not up to now had 
+              much impact on scientific computation, which has an equally great  need for
+              reusable software.  Many scientists do not use freely  available high quality
+              numerical programs, simply because the  procedural style in which these
+              programs are written makes them  incompatible with natural data representations
+              in such fields as  computer aided design and manufacturing, materials science,
+              and  biotechnology.  An object oriented framework for basic scientific 
+              computations, as proposed here, could lead to greatly enhanced  interchange of
+              software between numerical analysts and other  scientists, and so improve the
+              efficiency of computational  research.

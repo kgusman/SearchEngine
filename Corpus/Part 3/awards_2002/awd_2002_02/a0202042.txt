@@ -1,0 +1,56 @@
+Title       : Parallel Reliable Global Optimization with Interval Arithmetic
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 25,  2002 
+File        : a0202042
+
+Award Number: 0202042
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $98059              (Estimated)
+Investigator: Chenyi Hu CHu@mail.uca.edu  (Principal Investigator current)
+Sponsor     : U of Central Arkansas
+	      201 Donaghey Avenue
+	      Conway, AR  720350001    501/450-3451
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,9229,HPCC,
+Abstract    :
+              In this proposed RUI research, we will apply our current research results
+              supported by NSF
+to design efficient parallel algorithms and to develop
+              software to reliable numerical solutions
+for both unconstrained and
+              constrained multivariate global nonlinear optimization problems.
+To achieve
+              high reliability, even in the presence of uncertainty in the data, roundo 
+              error, and
+nonlinearities by finite digit computations, we apply interval
+              arithmetic in this project. The basic
+algorithms to be used are interval
+              branch-and-bound method and interval Newton/generalized
+bisection method.
+In
+              designing parallel algorithm and developing portable software, we will take
+              full advantages
+of parallel computing to significantly reduce not only elapsed
+              computation time but also total
+amount of computation due to the spatial
+              nature of the problem we address. To achieve high efficiency,
+we will balance
+              workload dynamically among available processors through
+              inter-processor
+communication. The software will be architecture independent.
+              General sparsity and scalability
+will be considered as well. The research
+              results, parallel software package, installation and user
+guides, and testing
+              examples will be freely disseminated through the Internet.

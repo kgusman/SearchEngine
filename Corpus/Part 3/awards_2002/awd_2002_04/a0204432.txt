@@ -1,0 +1,72 @@
+Title       : Constructing Large Complex Systems via Tractable Pairwise Composition of
+               Software Components
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 30,  2002    
+File        : a0204432
+
+Award Number: 0204432
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Paul Attie attie@ccs.neu.edu  (Principal Investigator current)
+              David H. Lorenz  (Co-Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The objective of the project is to produce useful and practical
+methods for the
+              development of large complex software systems. The
+research will address the
+              problem of composing software components
+into large systems that have
+              guaranteed correctness properties.
+State-explosion (the exponential growth of
+              the number of possible
+system behaviors with the number of the system's
+              components) is
+avoided by analyzing interactions among every pair of
+              components
+separately, rather than inspecting the interaction of all
+              components
+at once.  This local approach nevertheless enables us to prove
+              that
+the overall system behaves as desired.  Since the number of
+              behaviors
+that have to be analyzed is much smaller, the amount of effort
+              needed
+to rigorously analyze and verify large systems is greatly
+              reduced.
+
+The main activities are:
+
+1. Develop techniques for the precise
+              description of the
+required behavior of a software component.
+
+2. Develop
+              practical methods for reasoning about the behavior that
+results when a set of
+              components are connected to form a large
+system.
+
+The benefit of this
+              research is to reduce the cost of creating
+realistic size software systems
+              that have demonstrable correctness
+properties.
+
+
+

@@ -1,0 +1,67 @@
+Title       : Fault Detection and Diagnosis for Mixed-Signal Circuits Using Wavelet Based
+               Transient Current Analysis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0204356
+
+Award Number: 0204356
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $160000             (Estimated)
+Investigator: Kaushik Roy kaushik@ecn.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              As intrinsic leakage in transistor increases with technology scaling the
+              effectiveness of quiescent current (IDDQ) testing reduces significantly.
+              Transient current (IDD) based testing has been often cited and investigated as
+              an alternative and/or supplement to IDDQ testing in Digital CMOS circuits.
+              While the potential of IDD testing for fault detection has been established for
+              digital and analog circuits, there is no known efficient method for fault
+              diagnosis using IDD analysis. We propose a novel integrated method for fault
+              detection and diagnosis in digital CMOS circuits using IDD waveform analysis
+              using wavelet transform. We use wavelet transform to decompose the IDD waveform
+              in both time and frequency domain. The time-frequency resolution of the IDD
+              signal helps us detect as well as localize faults. Initial experimental results
+              on an 8-bit ALU show that wavelet based IDD analysis has the potential to
+              efficiently detect and localize faults considering practical issues like effect
+              of process variation and measurement noise.  
+
+Transient current (IDD)
+              analysis can also be effective for defect oriented testing of analog circuits.
+              We observe that wavelet transform renders an efficient way for analyzing IDD
+              for fault detection in analog circuits. The property of wavelet for resolving
+              events in both time and frequency domain simultaneously and the property of
+              better sub-banding than Fourier analysis, makes it a effective tool for IDD
+              analysis. Moreover wavelet transform can be easily adapted to current waveforms
+              from different circuits. We have observed that for equivalent number of
+              spectral components, sensitivity of wavelet based fault detection in analog
+              circuits is much higher than fourier or time-domain analysis for both
+              catastrophic and parametric faults.  Initial experimental results on a
+              benchmark circuit show that wavelet based method is on average 25 times more
+              sensitive than DFT for parametric faults and can be considered as a promising
+              alternative for analog fault detection amidst measurement hardware noise and
+              process variation. In the proposed research we will develop an integrated fault
+              detection and diagnosis methodology using wavelet based transient current
+              analysis for mixed-signal circuits.
+
+We will present the results of our
+              research in domestic and international conferences. International conferences
+              include (International Conference on CAD and CG in Macau, December 2003, and
+              International Conference on CAD and CG 2005; IEEE Design and Test in
+              Europe).
+
+

@@ -1,0 +1,81 @@
+Title       : Regulation, Scheduling, and Flow Control for Quality of Service Support
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 9,  2000     
+File        : a9980526
+
+Award Number: 9980526
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Rajeev Agrawal agrawal@engr.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The proposed project will investigate a number of problems in the efficient
+              support of different qualities of service (QoS). Due to the scarcity of network
+              resources and the emergence of new applications, it is considered crucial that
+              the current internet evolve from a best effort service to one that supports
+              different QoS. This problem was explored in the IETF first in the context of
+              integrated services and more recently in the context of differentiated
+              services. One of the key problems with the work in integrated services was the
+              lack of scalability of per-microflow scheduling in the core of the network, and
+              the basic tenet of differentiated services has been to move per-microflow
+              operations to the edge of the network and deal with only macroflows in the
+              interior of the network. Nevertheless, some of the key traffic elements such as
+              regulators (to shape, police, and mark microflows at the edge as well as
+              macroflows at the boundary of different subnetworks) and schedulers (across
+              different macroflows and service classes) are still needed to provide the
+              different QoS. Higher multiplexing gains are also sought by looking at flows
+              statistically rather than in the worst case. Moreover, schemes that use a
+              combination of end-to-end flow control and policing/marking at the microflow
+              level and dropping (RIO)/scheduling at the macroflow level have also been
+              proposed to provide a combination of assured QoS along with the ability to use
+              additional available bandwidth. The objective of this proposal is to engineer
+              these key traffic control elements - regulators, schedulers, and flow control
+              mechanisms - so as to not only deliver the different QoS desired, but to do so
+              in a manner that maximizes the network utility.
+     In order to accomplish
+              this objective, the project will rely on a modeling and analysis framework that
+              has recently been developed by the researcher and his collaborators. This
+              framework provides a unified mathematical model (based on the notion of traffic
+              envelopes/ service curves / service processes) for regulators and schedulers as
+              well as an easy way to analyze fork-join networks of such elements with (or
+              without window/rate flow control). In particular, the researcher's prior work
+              has shown how the impact of the entire network may be reduced to that of an
+              equivalent single element with an (end-to-end) service curve given in terms of
+              the service curves of the individual elements using an easy composition rule.
+              Furthermore, the worst-case and probabilistic end-to-end performance for such
+              networks is then easily obtained in terms of this end-to-end service curve.
+              Since the framework is analyzable, one can "invert" the results of the analysis
+              to derive rules for the design of efficient traffic control elements. More
+              interestingly, the framework allows for the representation of a sophisticated
+              service curve for a single traffic control element, as a network of simple
+              service curves.  This representation can then be exploited to synthesize
+              complex but highly efficient regulators and schedulers. This modeling framework
+              therefore provides a systematic way to analyze, design, and synthesize traffic
+              control elements for differentiated services networks.
+     In particular, the
+              proposed project will lead to the following: It will result in the synthesis of
+              more efficient regulators and schedulers. It will develop other guaranteed
+              services (besides leased line emulation) in the context of differentiated
+              services networks. It shall produce better admission control schemes for
+              probabilistic service. For both guaranteed and probabilistic service, it will
+              also lead to efficient allocation of network resources into service curves for
+              different flows via pricing. In the case of adaptive service with certain
+              minimum requirements, it will lead to a better understanding of the interplay
+              between the in-profile and out-of-profile traffic, and how this interplay may
+              be exploited to enhance existing adaptive mechanisms such as TCP.
+

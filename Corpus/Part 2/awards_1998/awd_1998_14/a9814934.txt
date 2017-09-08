@@ -1,0 +1,51 @@
+Title       : Implementation Techniques for High-Performance Real-Time IP Routers
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 4,  2001       
+File        : a9814934
+
+Award Number: 9814934
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $285000             (Estimated)
+Investigator: Tzi-Cker Chiueh chiueh@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              Real-time IP routers that provide Quality of Service (QoS) guarantees is a
+              fundamental building block for Next-Generation Internet, which promises
+              differentiated service levels that are independent of external
+network loads
+              and enforced on a connection-by-connection basis.  Although a large body of
+              theoretical work in the past decade has resulted in >advances of our
+              understanding of the complexity of various real-time packet
+scheduling
+              techniques, relatively little research has gone into the implementation aspects
+              of building such routers. This project proposes to study in depth
+              software/hardware implementation techniques for high-performance scalable
+              real-time packet routers. Specifically, we plan to focus on the following three
+              issues: routing-table lookup, real-time packet scheduling, and systems support
+              for and applications of the concept of active networking.  The project
+              directors  are going to carry out the proposed research with an experimental
+              approach by building a software-only parallel real-time IP router called Suez,
+              which is constructed out of a cluster of high-performance commodity PCs
+              connected by a Gigabit/sec system area network. The goal of the Suez project is
+              to evaluate the feasibility and performance behavior of the proposed
+packet
+              routing and scheduling implementation techniques in a fully operational
+              prototype, and to demonstrate that with the help of efficient software support,
+              off-the-shelf PC components can be interconnected to build multi-million
+              packets per second scalable real-time packet routers.
+

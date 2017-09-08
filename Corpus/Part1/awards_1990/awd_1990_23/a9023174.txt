@@ -1,0 +1,43 @@
+Title       : Implementation and Evaluation of a Parallel Text Searcher for Very Large
+               Databases
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : January 31,  1997   
+File        : a9023174
+
+Award Number: 9023174
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $1923462            (Estimated)
+Investigator: Lee A. Hollaar   (Principal Investigator current)
+              Ellen M. Riloff  (Co-Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0108000   Software Development                    
+              0308000   Industrial Technology                   
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+              56        Engineering-Mechanical                  
+Program Ref : 4725,9215,9286,HPCC,
+Abstract    :
+                     This project concerns the application of the Utah  Retrieval System
+              Architecture to very large databases of  full-text documents.  This effort
+              involves the development  of a mediumscale (4 to 10 GBytes) parallel backend
+              search  server using augmented RISC processors as the searching  engines.  Data
+              is being gathered and analyzed to determine  if the existence of a high-speed
+              search server changes the  complexity and arrival rate of queries by real users
+              (law  students).  In addition, a suitable partitioning of  functionality such
+              that remote users can be supported by  such a searching engine over
+              medium-speed networks (such as  ISDN) is being studied.  The researchers are
+              also examining  how the system can be reconfigured to deal with disk and 
+              searcher failures.                                                         

@@ -1,0 +1,49 @@
+Title       : CAREER: Automated Analysis of Security and Fault-Tolerance of Distributed
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  2002       
+File        : a0196456
+
+Award Number: 0196456
+Award Instr.: Continuing grant                             
+Prgm Manager: Jon S. Rugaber                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $204998             (Estimated)
+Investigator: Scott D. Stoller stoller@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              9876058  Scott Stoller  
+The proposed research focuses on the development of
+              analysis methods and tools that increase the fault-tolerance and security of
+              distributed software by helping programmers to debug, systematically test, and
+              (when feasible) verify such software. Verification techniques based on
+              state-space exploration apply directly only to finite-state systems.  However,
+              many distributed software systems have unbounded parameters (e.g., the number
+              of client processes).  The proposed research develops reductions that exploit
+              partial independence between regions of the state space, so that verification
+              of a finite-state system yields conclusions about the original unbounded
+              system.  Most state-space exploration tools force the user to construct and
+              analyze simplified models of software.  The proposed tool aims to analyze
+              programs written in general-purpose languages, such as Java.  The tool's basic
+              design follows that of VeriSoft: state-space exploration is performed without
+              storing the set of visited states, with optimizations to reduce the redundant
+              computation (multiple visits to a state) that this may cause.  The proposed
+              research extends this approach to handle systems that use cryptography. 
+              Software used in undergraduate and graduate operating systems courses will be
+              enhanced with the form of state-space exploration just described, providing
+              students with powerful support for finding synchronization errors and other
+              bugs.
+

@@ -1,0 +1,51 @@
+Title       : Computational Methods for Mixed Effects Models
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 27,  1997      
+File        : a9704349
+
+Award Number: 9704349
+Award Instr.: Standard Grant                               
+Prgm Manager: James L. Rosenberger                    
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1997      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $70402              (Estimated)
+Investigator: Douglas M. Bates bates@stat.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+                     Computational Methods for Mixed-Effects Models        Douglas M. Bates,
+              U. of Wisconsin - Madison              Abstract    This research extends
+              current computational methods and software  implementations for the estimation
+              of parameters in mixed-effects  models.  There is a special emphasis on
+              extensions to models where  there are several levels of random effects nested
+              within each other.  Another emphasis is on models where the within-subject
+              response  depends nonlinearly on the parameters of interest.  The primary 
+              implementation is in the S computer language and complements current  graphical
+              and analytical methods available in that language.    When a response is
+              measured on several occasions for each of several  "subjects" or experimental
+              units, the resulting data are called  repeated-measures data.  If the data on
+              each experimental unit are  collected over time, they are also known as
+              longitudinal data.  A  statistical model for such data will usually incorporate
+              both fixed  effects, parameters that describe the typical behaviour in the 
+              population from which the experimental units are selected, and random  effects,
+              quantaties that describe the variation within the population.  Models with both
+              fixed effects and random effects are called  mixed-effects models.  This
+              research provides new computational  methods for fitting mixed-effects models
+              to observed data.  The new  methods are suitable for use with parallel
+              computers and with other  high performance computing environments.  This is
+              important because  some of the applications of mixed-effects models in
+              manufacturing  (evaluation of integrated circuit designs) and biotechnology 
+              (modelling of genetic effects in animal breeding) involve fitting  complicated
+              models to thousands and sometime millions of observations;  a task that pushes
+              the limits of current computers.

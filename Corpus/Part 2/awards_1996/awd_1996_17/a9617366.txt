@@ -1,0 +1,52 @@
+Title       : Ultra-Low Rate Progressive Coding of Images
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 4,  1999     
+File        : a9617366
+
+Award Number: 9617366
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1997    
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $399484             (Estimated)
+Investigator: Pamela C. Cosman pcosman@uscd.edu  (Principal Investigator current)
+              Kenneth A. Zeger  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Algorithms for progressive image compression seek to represent an image in such 
+              a way that a small fraction of the data file can allow a displayed image to be 
+              recognizable, and a larger portion of the data allows improved image quality.  
+              The main applications of progressive image compression are for browsing of
+              remote  databases, Internet image hopping, and fast remote decision-making
+              tasks where  many images must be scanned.  The goal is to compress images to
+              rates so low as  to yield "just-recognizable" quality.  The user can then
+              exploit just-  recognizable images while progressively scanning an image
+              database by "quitting"  each image as soon as it is determined not to be the
+              one sought.  This research  involves theoretical understanding of ultra-low
+              rate progressive image coding  both with and without channel noise, as well as
+              the development and evaluation  of practical algorithms for applications such
+              as low-bandwidth video compression  and packet network image transmission.   
+              One portion of this research focuses on algorithm development, including 
+              optimization of wavelet zerotree coding for ultra-low rates, and coding using 
+              regions or line caricatures.  The investigators are studying the effect of 
+              channel noise on progressive coding systems, and are developing both grayscale 
+              and color bit progressive image coding algorithms that do not exhibit 
+              catastrophic breakdown in the presence of channel noise.  One promising
+              approach  uses rate compatible punctured convolution codes applied to images
+              compressed  with a wavelet zerotree method.  Experimental studies of response
+              times for human  observers of progressive image coders will allow the
+              researchers to  quantitatively compare one progressive image coder against
+              another, and yield  insight into human perceptual responses to
+              just-recognizable imagery.

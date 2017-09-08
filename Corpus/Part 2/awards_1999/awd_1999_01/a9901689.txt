@@ -1,0 +1,72 @@
+Title       : Graph-Based Mobile-Code Representations for High-PerformancePortable Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  1999    
+File        : a9901689
+
+Award Number: 9901689
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: Michael Franz franz@ics.uci.edu  (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9901689
+"Graph-Based Mobile-Code Representations for High-Performance
+              Portable
+Software"
+Michael Franz
+
+This project investigates
+              machine-independent program representations 
+for mobile-code applications.
+              Existing approaches have been based on 
+abstract machines: each program is
+              encoded as a linear sequence of 
+"byte-codes" in the instruction set of the
+              virtual machine. This 
+research instead focuses on hierarchical, graph-based
+              formats that 
+are able to preserve the high-level semantics of the original
+              source
+program to a much higher degree than linear representations. This
+              
+becomes particularly important when dealing with explicit
+              source-level
+parallelism in high-performance software: transporting such
+              programs 
+via a representation without hierarchical constructs implies
+              
+sequentialization when the source code is compiled, and possibly 
+a
+              subsequent re-parallelization in the eventual native-code generator. 
+This is
+              not only costly, but very likely to lead to a loss of 
+efficiency. Moreover,
+              hierarchical encoding schemes promise to 
+directly and space-efficiently
+              encode most of the control-flow 
+and data-flow information necessary for
+              advanced code optimizations, 
+as well as provide for simpler verification of
+              mobile-code security. 
+Lastly, preliminary evidence suggests that hierarchical
+              solutions 
+scale better to large programs than solutions based on linear
+              
+byte-code streams for abstract machines.
+
+

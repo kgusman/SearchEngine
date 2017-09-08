@@ -1,0 +1,129 @@
+Title       : Research in Robust and Efficient Computational Methods for Partial Differential
+               Equations Arising in Fluid Flows and Electromagnetics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 23,  2002       
+File        : a0073698
+
+Award Number: 0073698
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $103089             (Estimated)
+Investigator: George S. Dulikravich gsd@mae.uta.edu  (Principal Investigator current)
+              Pavel B. Bochev  (Principal Investigator former)
+Sponsor     : U of Texas Arlington
+	      Office of Research
+	      Arlington, TX  760190145    817/273-2105
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              
+This project is directed towards the development, analysis and numerical
+              
+validation of new finite element methods for fluid flows and
+              
+electromagnetics.  The research in methods for fluid flows will focus on
+              
+applications of nonstandard least-squares principles in the construction
+of
+              the numerical algorithms.  While for incompressible viscous flows
+              
+conventional least-squares principles have established themselves as a
+              
+viable alternative to mixed Galerkin methods, such principles are not
+              
+completely satisfactory in the context of high Re or transonic flows.  To
+              
+circumvent existing computational defects of L2-norm methods such as
+              
+sensitivity to singularities, lack of norm equivalence and etc., the new
+              
+algorithms will be based on mesh-dependent and negative-norm least-squares
+              
+principles.  The emphasis of the second research direction will be on eddy
+              
+current computations in three dimensions.  To address computational
+              
+complexity of 3D simulations algorithms will use equivalent potential
+              
+formulations of the governing equations.  The issue of proper gauge
+              
+selection for the potentials will receive a thorough and systematic
+              
+examination so as to ensure well-posed sets of differential equations. 
+              
+Algorithmic development will pay special attention to the efficient
+              
+implementation of the relevant boundary and interface conditions where
+              
+least-squares terms will be used to enforce these conditions
+              weakly.
+
+
+
+The common thread which links the two principal research
+              directions of
+this project is the focus on new computational algorithms for
+              partial 
+differential equations.  Such equations arise in virtually every
+              field of 
+science and engineering and their efficient numerical solution is
+              critical 
+for our ability to conduct computer simulations of physical
+              processes 
+ranging from atmospheric motions to flows of current in
+              superconductors.  
+As a result, development of high performance computational
+              tools which 
+enable realistic simulations will play an increasingly important
+              role for 
+the future advances in science and technology.  The impact of such
+              
+computational algorithms will be felt not only in terms of tremendous cost
+              
+and/or time savings made possible by replacing field experiments by
+              
+virtual, computer experiments, but also by the fact that in some instances
+              
+computer models may be the only feasible design approach.  In the focus of
+              
+this project is the development of such tools for differential equations
+              
+arising in modeling of fluid flows and electromagnetic fields.  Two
+              
+specific applications that we have in mind are computation of
+              
+three-dimensional eddy currents and simulations of transonic and high
+              
+Reynolds number flows.  One motivation for our research is the practical
+              
+relevance of these problems.  For instance, solution of the eddy current
+              
+equations arises in such varied areas as development of toroidal field
+              
+magnets for fusion power, modeling of plasma physics phenomena, and design
+              
+of tape heads, while transonic and high Re flows are relevant to design of
+              
+aircraft and modeling of dispersion of pollutants.  At the same time
+              
+numerical solution of these problems in realistic three-dimensional
+              
+settings continues to be an outstanding and challenging computational
+task.
+              Thus, our research is also motivated by the real and existing need to 
+develop
+              efficient and robust computational tools for electromagnetics and 
+fluid flow
+              applications which can be used in such realistic settings.
+
+

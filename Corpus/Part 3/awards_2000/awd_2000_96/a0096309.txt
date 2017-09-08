@@ -1,0 +1,57 @@
+Title       : Risk Sensitive Control of Hybrid Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 25,  2000      
+File        : a0096309
+
+Award Number: 0096309
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $191283             (Estimated)
+Investigator: Thordur Runolfsson   (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    313/764-1817
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9629866  Runolfsson    Dynamic systems that depend on a auxiliary parameter
+              that characterizes the mode of operation of the system arise in many
+              applications.  In some applications this parameter can be measured, in others
+              it can be estimated and in still others it is completely unknown except for,
+              perhaps, some apriori estimate about its size.  The methods that are chosen in
+              incorporating the auxiliary parameter in the design of a control systems
+              depends on the characteristic of the parameter.  If the parameter is
+              deterministic and can be measured, gain scheduling methods are frequently
+              employed in the design of real systems.  If the parameter is (deterministic)
+              unknown and not measurable, robust design methods are usually used.  If, on the
+              other hand, the parameter is stochastic with known statistic, stochastic
+              methods are usually employed.  A particular case of this situation is the case
+              when the auxiliary parameter can be modelled as finite state continuous time
+              Markov chain.  Such systems arise in various applications and system
+              formulations such as power systems, manufacturing systems and fault-tolerant
+              control system.      In this research we study risk-sensitive control for
+              hybrid systems with a Markovian jump parameter.  In particular, the objective
+              of the control is to minimize the infinite-horizon risk-sensitive cost
+              functional. Preliminary investigations show that the relationship between H(_
+              control, linear differential games and risk-sensitive control does not hold for
+              hybrid systems.  The main reason for this appears to be that the risk
+              sensitivity cost functional measures the risk sensitivity of the system to
+              transitions caused by the random jump parameter as well as the noise input. 
+              The risk sensitivity of the cost functional to transitions induced by the jump
+              parameter may be of a great value in the design of systems where it is desired
+              to make the system performance as insensitive to the effects of the jump
+              parameter as possible.  In this research we will develop risk sen sitive
+              control of hybrid stochastic systems and study in detail both system theoretic
+              properties and design techniques for such systems.  Furthermore, the benefits
+              of the developed techniques will be evaluated for the applications described
+              above.

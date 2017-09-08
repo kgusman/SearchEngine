@@ -1,0 +1,47 @@
+Title       : Multiview Storage Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 29,  2001     
+File        : a0098263
+
+Award Number: 0098263
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2001        
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $260000             (Estimated)
+Investigator: A.L. Narasimha Reddy   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9217,HPCC,
+Abstract    :
+              This project proposes to build a Multi-View Storage System, MVSS.  Similar to a
+              Multi-View Database System, MVSS allows multiple views of the same file on the
+              physical disk to be generated dynamically.
+To support multiple views, devices
+              will be "multiported".  Different views of a file can be customized to provide
+              different types of service at a multiported device.  MVSS separates the
+              deployment of services from file system implementations and thus allows
+              services to be performed at various levels of the
+storage system. Multiple
+              views of the file are provided to the user through file system
+              namespace.
+Through these views, MVSS provides a flexible and extensible way
+              for supporting a wide range of services including device-level
+              enhancements.
+
+In this project, we will build an experimental testbed
+              incorporating these ideas and plan to evaluate them through real applications.
+              Database Select operations, MPEG filtering for QOS, sorting and a
+number of
+              other applications will be used to drive the prototype system.
+

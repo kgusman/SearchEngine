@@ -1,0 +1,82 @@
+Title       : Constrained Power and Performance Optimization for Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 25,  2003  
+File        : a0098335
+
+Award Number: 0098335
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $220000             (Estimated)
+Investigator: Rajesh K. Gupta   (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Constrained Power and Performance Optimization for Embedded Systems
+
+The goal
+              of this research is to explore techniques for power management of
+embedded
+              systems with provable bounds on power efficiency as well as adverse
+effects on
+              latency due to power management.  The current state of the art in
+system-level
+              power management is limited to shutting parts of a system after
+a certain
+              period of idle time, thus ignoring the application timing
+constraints, runtime
+              traffic and application usage information.  This work
+will develop
+              power-performance control "knobs" that will allow us to make
+effective online
+              decisions. Specific applications will include power-aware
+resource scheduling
+              in RTOS, timing-aware power optimizations and tradeoffs
+between power savings
+              and application quality of service (e.g., missed
+deadlines).
+
+Our technical
+              focus is on solving two key problems:  (a) latency-constrained
+power
+              optimization, i.e., minimization of system-level power consumption
+with
+              constrains on the effect of system latency due to power management; and
+(b)
+              power-constrained performance optimization, e.g., system-level
+              task
+implementation and scheduling within a given power budget. As a first
+              step,
+we focus on analytic bounds on the effectiveness of online power
+              management
+algorithms and their efficiency by developing bounds on latency
+              increases
+due to power management.  We introduce the notion of a competitive
+              ratio as
+a quantitative measure of how well a given power management
+              algorithm
+performs against an optimum power consumption profile. Next, we
+              incorporate
+these analytic bounds in a broader system-level timing and power
+              simulation
+engine which enables an accurate performance simulation while
+              minimizing the
+details related to actual system functionality. Our
+              experimental evaluation
+is through RTOS implementation of  new power
+              management services through
+coordinated scheduling and resource shutdown.
+
+

@@ -1,0 +1,60 @@
+Title       : Compiler Optimizations for Limited Memory Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 8,  2000  
+File        : a0073512
+
+Award Number: 0073512
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $260093             (Estimated)
+Investigator: Santosh Pande   (Principal Investigator current)
+Sponsor     : U of Cincinnati
+	      Mail Location 627
+	      Cincinnati, OH  45221    513/556-6000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 2876,9215,HPCC,
+Abstract    :
+              Embedded systems are widely used in a variety of applications which involve
+              ubiquitous computing. Due to small form factors (such as in hand-held devices)
+              and other application needs, embedded systems are characterized  by limited
+              resources such as the computing power and memory. In addition the application
+              needs demand real time performance requirements and low power consumption.
+              High-level languages such as C, C++ or Embedded Java are replacing assembly
+              language in programming embedded systems due to the complexity of modern
+              application domains that need to be mapped. This can however incur a code size
+              and performance penalty due to the semantic gap between the high level
+              languages and the underlying embedded instruction set architecture. This is
+              where the role of compiler optimizations becomes critical.These optimizations
+              are a must (and not optional) since available resources on embedded systems are
+              quite limited and unless applications are optimized they may not even fit the
+              available resources (such as the memory). 
+
+The focus of this proposal is to
+              devise compiler optimizations for embedded systems to maximally use the limited
+              resources such as the available amount of on-chip and off-chip memory. We first
+              propose compiler optimizations  for data and code segments of embedded software
+              for size and speed given the constraints on limited on-chip memory and
+              addressing modes. Since local resources are very limited on these processors
+              and since the embedded devices typically form a part of bigger systems in the
+              form of sensors, actuators etc., they are often networked.   In such a
+              networked environment, data and code are down-loaded on an embedded device
+              just-in-time from a server and then executed. A very important issue is then
+              how to dynamically optimize codes that are down-loaded  on to an embedded
+              device just-in-time.  Since local resources are very scarce, such dynamic
+              optimizations prove immensely useful. This is the second set of topics we
+              address in the proposal. 
+
+We anticipate that these optimizations could not
+              only improve performance of existing applications mapped on these systems but
+              could also allow mapping new application domains on them by satisfying their
+              resource constraints.

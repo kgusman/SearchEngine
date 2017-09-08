@@ -1,0 +1,56 @@
+Title       : Data Structures for Sorting, Searching, Hashing, Computational Geometry and
+               Nonprocedural Databases
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 28,  1991  
+File        : a9006059
+
+Award Number: 9006059
+Award Instr.: Standard Grant                               
+Prgm Manager: Dana S. Richards                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1991      
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $75773              (Estimated)
+Investigator: Dan E. Willard dew@cs.albany.edu  (Principal Investigator current)
+Sponsor     : SUNY Albany
+	      Office for Sponsored Prgms.
+	      Albany, NY  12222    518/437-4550
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+                   Data structures to accommodate fast retrieval are perhaps the             
+              oldest and certainly one of the most fundamental topics in computer            
+              science.  This project addresses several open problems of both                 
+              pragmatic and theoretical interest.                                            
+                   The first group of open questions concerns worst-case algorithms          
+              that outperform the information theoretical lower bound.  Recently an          
+              O(log N/log log N) worst-case time algorithm for dynamic tree                  
+              operations and an accompanying O(N log N/log log N) worst-case time            
+              sorting algorithm have been designed.  Both algorithms run on                  
+              essentially all digital computers and on all possible data inputs.             
+              The new approach to sorting and searching rests on utilizing the power         
+              of a digital computer's arithmetic and bitwise logical operations.             
+              Numerous open questions arise about what upper and lower bounds for            
+              sorting, searching, balance tree operations, and hashing can be                
+              demonstrated in this modified mathematical model.                              
+                   A second research area focuses on computational geometry.  Many           
+              geometric problems, such as Voronoi diagram construction,  have been           
+              thought to require at least N log N time because of their reduction            
+              to sorting procedures, but all such theoretical lower bounds need to           
+              be reconsidered in light of the recent results for sorting and                 
+              searching.  There are also several open questions raised by earlier            
+              research into  range query theory.  One particular question concerns           
+              developing lower bounds that take into account the presence of                 
+              subtraction, and a second concerns the time-space tradeoff for                 
+              especially reporting queries.                                                  
+                   Range query algorithms for batch queries, especially procedures           
+              for executing relational calculus and SETL-like expressions, will also         
+              be studied.

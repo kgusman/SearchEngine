@@ -1,0 +1,50 @@
+Title       : Surface Visibility for Large Model Visualization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0083836
+
+Award Number: 0083836
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $241257             (Estimated)
+Investigator: Greg Turk turk@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Many uses of computer visualization rely on displaying surfaces so that a person
+              can easily understand the relationships between the different parts of the
+              visualized object. This project will study new methods to identify the visible
+              parts of an object, and will use this information to produce better images
+              (that is, more accurate and complete images) of scientific data. Some possible
+              applications of this work are medical visualization (e.g. showing the chambers
+              of the heart), studying fracture mechanics (e.g. identifying interior cracks),
+              and computational fluid dynamics (e.g. finding and studying vortices in
+              turbulent flow).
+
+Technically, the project has two sub-goals. First, it will
+              automatically identify interior structures of a complex surface, that is, those
+              regions that are not visible from locations outside the object. Currently, this
+              is done manually or by connected component analysis, both of which have
+              limitations. This project will explore both analytical and sampling approaches
+              to quickly computing a visibility function for all surface points. Secondly,
+              the project will automatically produce a group of viewpoints and associated
+              images (an image coverage) that collectively show every visible portion of a
+              given surface. This can be used to both save the user from the error-prone task
+              of manually rotating the object to see all visible portions, and may aid in
+              creating simplified models for rapid navigation and display. This project will
+              explore several approaches, including sampling-based ones, to this previously
+              unsolved problem.
+

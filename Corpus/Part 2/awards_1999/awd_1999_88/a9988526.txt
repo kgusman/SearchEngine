@@ -1,0 +1,79 @@
+Title       : Further Studies in Complexity and Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  2000    
+File        : a9988526
+
+Award Number: 9988526
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $275013             (Estimated)
+Investigator: Michael Saks saks@math.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Abstract
+
+PI:  Michael Saks
+Proposal Number:  9988526
+Institution:  Rutgers
+              University
+
+This project covers ongoing and new work in several diverse areas
+              in the theory of computation:
+
+(1) Time-space tradeoffs for branching
+              programs,
+(2) Exact algorithms for  NP-Hard problems,
+(3) Private Information
+              Retrieval, and 
+(4) Online algorithms for distributed web servers,
+
+
+Two
+              basic resources in computation are computation time
+and memory (space).  There
+              are many computational problems known where there seems to be a  tradeoff
+              between these resources: by increasingthe memory used one can significantly
+              reduce the time needed.  However, we don't know whether these apparent
+              tradeoffs are inherent properties of the  computational problems, or are just
+              due to our lack of understanding. The first part of the project aims at
+              analyzing the mathematical structure of some specific computational problems in
+              order to establish that these tradeoffs are indeed inherent. There is a large
+              class of problems, the so-called NP-complete problems, whose solution on large
+              inputs seems to require a very large amount of time. One of the most basic of
+              these is the satisfiability problem for boolean formulas, which asks whether
+              for a given boolean formula it is possible to set its variables in such a way
+              that the formula evaluates to 1. In the second part of this investigation, we
+              seek to find the faster algorithms for this problem, and to investigate the
+              limits to speed of the algorithms, as well as for related computational
+              problems. The third part is based on a problem that arises in trying to
+              maintain the privacy of users who request information from a large database. 
+              In some such situations, the users do not want it known what information they
+              are requesting. Various methods for maintaining user privacy have been
+              proposed.  In some versions of this problem, maintaining privacy seems to
+              require a large amount of communication between the user and the database.  In
+              this investigation, we seek to determine whether such a large amount of
+              communication is really necessary, and if so, whether small relaxations in the
+              privacy requirements can significantly reduce the communication cost. In the
+              fourth part, we look at the problem of a web server that is providing documents
+              from a large library to users on the web.  The requests for documents arrive
+              over time, and the server wants to satisfy the requests so that no requester
+              ever waits too long.  Because a set of requests to the same page can be served
+              faster than the same number of requests to different pages, it may be
+              advantageous to delay some requests in order to group together requests of the
+              same type. We seek to develop and analyze different algorithmic strategies for
+              this problem.
+

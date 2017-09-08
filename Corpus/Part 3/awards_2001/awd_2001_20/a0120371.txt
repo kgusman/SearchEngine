@@ -1,0 +1,75 @@
+Title       : Research for Mixed Signal Electronic Technologies: A Joint Initiative Between
+               NSF and SRC: Fast Methods of Coupled EM. Circuit and Logic Simulation for
+               Giga-Scale
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a0120371
+
+Award Number: 0120371
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $225003             (Estimated)
+Investigator: C.J. Richard Shi cjshi@ee.washington.edu  (Principal Investigator current)
+              Vikram Jandhyala  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 1752,9215,HPCC,
+Abstract    :
+              This project aims at developing fast algorithms for rapid simulation of
+              giga-scale systems-on-chip, where coupled circuit, logic, and electromagnetic
+              (EM) effects (including RLC parasitics, coupling, cross talk, skin and thermal
+              effects---both quasi-static and full-wave), are becoming increasingly
+              important.  For coupled EM and circuit simulation, we propose to investigate a
+              novel partial-element equivalent electric circuit (PEEC) approach. For coupled
+              EM and digital simulation, we propose to investigate variant time stepping in
+              EM analysis and to use conservative synchronization with digital events. More
+              specifically, our approach consists of the following key
+              elements:
+
+Developing fast integral-equation-based solution methods that will
+              make feasible EM simulation in these settings, and will permit hierarchical or
+              multilevel EM analyses at varying degrees of model
+              complexity.
+
+Implementation of fast and hierarchical schemes through a
+              variation of the partial equivalent electric circuit method for triangular mesh
+              tessellations.
+
+Coupling of EM simulation schemes directly to digital logic
+              simulation in order to analyze switching and ground bounce in power-ground
+              plane situations.
+
+Exploitation of structure and redundancies present in EM,
+              circuit-level as well as coupled-system matrices in order to drastically reduce
+              memory and computation time to a degree such that rigorous and complete coupled
+              simulation will be feasible for complex-systems-on-chip.  Sensitivity analysis,
+              reduced-order modeling, and multi-physics simulations are targeted in
+              addition.
+
+Development of optimized compilation techniques for generating
+              ordinary differential equation (ODE) code for circuit simulation, and for
+              exploiting the circuit structural regularity for fast hierarchical circuit/EM
+              simulation.  The application drivers for testing proposed coupled EM/circuit
+              and EM/digital simulation will include (1) Giga-hertz CMOS transceivers on
+              chip, and (2) Power/ground network of giga-hertz digital circuits including
+              gate switching activity modeling.
+
+It is intended that the development of
+              fast and rigorous EM/circuit and EM/logic simulation will enable accurate yet
+              efficient sign-off simulation of next generation mixed-signal circuits and
+              systems, enable simulation in the loop design optimization and architecture
+              tradeoff, and finally enable design for testability where EM effects are
+              becoming hard to characterize, predict, and measure.
+

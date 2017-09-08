@@ -1,0 +1,56 @@
+Title       : Measurement and Prediction of Parallel Program Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 20,  1998      
+File        : a9510173
+
+Award Number: 9510173
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1996   
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $206403             (Estimated)
+Investigator: Thomas J. LeBlanc leblanc@cs.rochester.edu  (Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              The goal of this research is to develop a set of tools and  techniques for
+              performance analysis and tuning of parallel  programs that bridges this gap
+              between measurement and modeling,  and theory and practice. The approach to
+              performance measurement  and modeling is called "lost cycles analysis", and is
+              based on  the observation that the distinction between productive  computation
+              and parallel overhead is useful both for performance  diagnosis and for
+              performance prediction. This approach  decomposes all parallel overhead into
+              mutually-exclusive, yet  comprehensive categories (such as load imbalance and 
+              communication overhead), each of which can be measured and  modeled separately.
+               These categories express overheads in common  units, called "lost cycles", and
+              together represent the portion  of the total execution time not devoted to
+              useful computation.    This research  effort's goal is to build a lost cycles
+              toolkit,  integrating empirical model-building techniques from statistics  with
+              the measurement and modeling techniques of lost cycles  analysis to generate
+              accurate models of application performance.  The toolkit will use a priori
+              knowledge of the sources and  characteristics of overhead in parallel systems
+              to guide and  constrain the modeling process.  It will incorporate techniques 
+              for optimum  experimental design into an experiment generation  tool that will
+              generate a "script" of representative program  executions.  During these
+              executions it will use a measurement  tool to record the lost cycles for each
+              overhead category as a  function of the variables of interest (including, but
+              not limited  to, the number of processors and the problem size). It will use 
+              the measurement results obtained from the executions to select  from a database
+              of standard models for overhead categories.  In  addition, it will use a tool
+              for fitting models of overhead  categories to experimental data to establish
+              the constants  associated with a particular hardware and software system. By 
+              automating perfo rmance modeling as much as possible, this effort  intends to
+              make lost cycles analysis practical for everyday use  by parallel programmers. 
+              ***

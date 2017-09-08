@@ -1,0 +1,51 @@
+Title       : Numerical Solution of Least Squares Eigenvalue Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  1990    
+File        : a9000526
+
+Award Number: 9000526
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1990    
+Expires     : January 31,  1993    (Estimated)
+Expected
+Total Amt.  : $54975              (Estimated)
+Investigator: Jesse L. Barlow barlow@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              This project addresses a number of open questions concerning the               
+              accurate solution of least squares and eigenvalue problems.  These two         
+              problem areas are interrelated, but there are separate issues for each         
+              one of them.                                                                   
+                                                                                             
+              For the work on least squares problems, there remain important issues          
+              in both the analysis and implementation of the algorithms.  Both               
+              direct and iterative methods for the solution of equality constrained          
+              least squares problems will be considered.  The work on direct methods         
+              concerns error analysis and implementation issues for sparse problems          
+              and for message passing architectures.  The effort on iterative                
+              methods concerns the development of a class of preconditioners that            
+              would work well on constrained least squares problems.                         
+                                                                                             
+              The investigation of the eigenvalue problems is based upon theoretical         
+              questions.  Recently perturbation bounds on the relative errors in the         
+              eigenvalues of a certain class of symmetric diagonally dominant                
+              matrices have been developed.  It has been shown that some algorithms          
+              achieve these bounds.  For one important class of algorithms,                  
+              divide-and-conquer algorithms, it is not known whether the relative            
+              error bounds can be achieved.  Since this class of algorithms has              
+              shown good performance on several distributed memory architectures,            
+              the resolution of this open question will have a significant impact on         
+              how eigenvalue problems are solved.

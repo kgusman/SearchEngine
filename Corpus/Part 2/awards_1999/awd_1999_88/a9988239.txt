@@ -1,0 +1,58 @@
+Title       : Low-Power System-on-a-Chip Design for Minimum Transient Energy
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  2000    
+File        : a9988239
+
+Award Number: 9988239
+Award Instr.: Standard Grant                               
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $131776             (Estimated)
+Investigator: Michael L. Bushnell bushnell@caip.rutgers.edu  (Principal Investigator current)
+              Vishwani D. Agrawal  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              In this project, the original theory for hazard elimination in combinational
+              circuits is being expanded to also accelerate circuit speed while reducing
+              power consumption.  This method relies on transistor timing adjustments to
+              eliminate hazards, and also on transistor resizing to speed up multiple circuit
+              paths.  One method being investigated is to enumerate path delays in the
+              circuit, and use them as non-linear programming constraints.  This will be
+              feasible if the circuit is partitioned.  Another method being investigated is a
+              different formulation that does not require path enumeration.  Experiments on
+              both formulations are being conducted using linear and non-linear programming
+              solvers.  Since it is not clear which method is superior, both will be tried
+              using AMPL, which is a widely used mathematical programming package.
+	Hazards
+              account for 60% of the power used in certain arithmetic circuits.  Hazards are
+              eliminated with either the balanced path delay method or by an original method
+              of increasing logic gate inertial delays so that gates do not respond to
+              hazard-creating input conditions.  Agrawal and Bushnell have proven the minimum
+              transient energy conditions necessary for a circuit to use minimal energy, and
+              developed the first optimal linear programming method for transistor resizing
+              to minimize transient energy. They use a simultaneous application of both the
+              balanced path delay method, and the method of increasing logic gate inertial
+              delays to make logic gates filter out hazards.  The balanced path delay method
+              frequently requires the insertion of buffers to balance path delays, or
+              decreased transistor sizes on fast paths to achieve the same effect.  Hazard
+              filtering, instead, merely requires that logic gates be slowed down so that
+              they cannot react to hazard-producing conditions at their inputs.  The project
+              is developing a non-linear programming method to adjust path delays by
+              transistor resizing to simultaneously lower power and speed up the circuit,
+              while limiting the increase in chip area.  This beneficial method substantially
+              reduces power while speeding up the circuit, which lowers chip packaging,
+              cooling, and silicon costs.
+

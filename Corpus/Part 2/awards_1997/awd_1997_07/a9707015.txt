@@ -1,0 +1,70 @@
+Title       : A Posteriori Error Estimation and Up-Scaling for Mixed Finite Element Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 5,  1997     
+File        : a9707015
+
+Award Number: 9707015
+Award Instr.: Standard Grant                               
+Prgm Manager: Jong-Shi Pang                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Todd J. Arbogast arbogast@brahma.ticam.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              9707015  Todd Arbogast    A POSTERIORI ERROR ESTIMATION AND  UP-SCALING FOR
+              MIXED FINITE ELEMENT METHODS      This project concerns the approximation of
+              second order elliptic and parabolic  partial differential equations by mixed
+              finite element methods on logically  rectangular grids.  The first objective is
+              to develop a local a posteriori  error estimator or indicator, so that spatial
+              errors can be localized.  We  propose to estimate the error by exploiting the
+              equivalence between mixed and  non-conforming methods for rectangular elements.
+               The second objective is to  develop up-scaling or homogenization techniques
+              for highly variable  coefficients and point-like sources, i.e., for resolving
+              fine length scales in  the model system that are below the size of a practical
+              computational mesh.  The error associated with using these up-scaling
+              techniques must be  quantifiable.  We propose to base our techniques on the
+              discrete equations, and  use the coarse scale Raviart-Thomas projection
+              operator which preserves the  flux across any element face.  The third
+              objective is to demonstrate the  applicability of the techniques in a practical
+              setting; we consider the  simulation of subsurface flow.  The first two
+              objectives are complementary.  Error estimation would allow us to refine the
+              mesh where the solution is ill  behaved, as near sharp fronts, local
+              heterogeneity, or sources (i.e., wells),  so that computational effort can be
+              concentrated to resolve the major length  scales in both the data and the
+              solution.  Up-scaling would allow us to further  resolve some scales below the
+              mesh size.      Our understanding of fluid flow underground is important to a
+              range of  activities, including the clean-up of ground-water contamination and
+              oil and  gas production.  Ground-water supplies are increasingly threatened by 
+              contaminants introduced into the environment by improper disposal or accidental
+               release.  U.S. petroleum production has declined markedly in recent years. 
+              These problems can be ameliorated by  complex engineering processes that
+              require  careful design and monitoring, which in turn depend on our ability to
+              simulate  on a computer the movement of fluids underground.  Our computer
+              simulations  must be sufficiently detailed that we can further predict
+              physical, chemical,  and biological processes and the consequences of human
+              intervention.  Such  simulation requires that we approximate accurately the
+              differential equations  governing the movement and interaction of the fluids. 
+              It is difficult to do  this for a number of reasons, but the most basic is a
+              lack of resolution: we  can only use data and compute fluid velocities at a
+              small number of grid points  in space.  To date there has been no effective way
+              to estimate the error in the  approximation to the fluid velocity.  If we knew
+              that our errors were large, we  could take corrective action by increasing the
+              grid resolution, up to the  limits of the computer resources available.  Beyond
+              that limit, it is necessary  to approximate certain very small-scale quantities
+              below the grid scale (such  as local variations in rock properties) by
+              replacing them by some appropriately  defined average quantities.  We address
+              these concerns in this proposal, and  demonstrate the applicability of our
+              techniques in practical settings to gain  their acceptance by engineers.

@@ -1,0 +1,79 @@
+Title       : NSF CNPq Collaborative Research on Design Environments for Application-Specific
+               Programmable Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 5,  2001    
+File        : a9901628
+
+Award Number: 9901628
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: Srinivas Devadas devadas@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1085,5913,9215,9218,HPCC,OTHR,
+Abstract    :
+              This research is on embedded systems design tools for building
+              custom
+application-specific instruction processor (ASIP) architectures that
+              are no
+bigger, or no more complex than necessary. Developing an ASIP, not
+              only
+requires hardware design, but also requires the use of a set of
+              evaluation
+tools such as an assembler, compiler and simulator. This
+              investigation uses
+a processor description to serve as a common starting point
+              for the
+development of these tools, as well as for hardware synthesis. The
+              ISDL
+language, being developed at MIT, for exactly this purpose is being used
+              in
+developing a complete software development environment, as well as
+              hardware
+generation. The simulator is used to obtain clock cycle estimates
+              on
+application code, and to evaluate the overall architecture
+              performance.
+Synthesis of processor datapaths enables hardware generation and
+              provides
+accurate, cycle-time estimates. To support software compilation,
+              a
+retargetable assembler, code generator and optimizer will be developed
+              that
+receive as input both a machine description in ISDL, and the program to
+              be
+compiled onto the described machine. New optimizations to produce code
+              of
+the highest quality in a reasonable amount of time are being evaluated.
+              The
+base of our retargetable compiler is SPAM, an embedded compiler
+              framework
+that has been developed by researchers at MIT, Princeton and
+              UNICAMP,
+Brazil. In many cases, application code is not written in
+              high-level
+programming languages, and it is necessary to deal with assembly or
+              legacy
+code. Thus automatic methods for optimized binary-to-binary translation
+              are
+being investigated. To do this, the legacy binary/assembly code
+              is
+decompiled to intermediate forms used by our compiler infrastructure
+              and
+then using the optimizing compiler technology to generate
+              high-quality
+assembly for the target architecture.
+

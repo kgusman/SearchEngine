@@ -1,0 +1,43 @@
+Title       : Abstracting Component Interactions to Support Distributed Software Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 21,  1997     
+File        : a9619522
+
+Award Number: 9619522
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1997       
+Expires     : April 30,  2000      (Estimated)
+Expected
+Total Amt.  : $175000             (Estimated)
+Investigator: Gul A. Agha agha@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9619522  Computing applications in the real world are generally  distributed and
+              open to interaction with their environment.  Creating an architecture for such
+              systems requires  developing mechanisms for managing complex interactions 
+              between distributed components. As requirements and the  environment change,
+              both the individual components and the  pattern of interactions between them
+              evolve. This implies  that interaction mechanisms may need to be synthesized 
+              during the execution of the system according to the evolving  needs of
+              components. In current software, the implementation  of policies governing
+              interactions between components is  typically represented using a variety of
+              low-level  primitives -- such as message-passing, remote procedure  call, or
+              shared memory -- and is therefore a major source of  code complexity. The
+              project is studying programming  techniques for abstract and modular
+              representation of  interaction patterns. Such programming techniques will allow
+               code for distributed applications to evolve gracefully --  for example, by
+              reusing components when only their  interaction context changes. The research
+              is based on  Actors, a formal model of concurrent computation in open 
+              distributed systems.  ***

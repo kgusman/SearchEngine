@@ -1,0 +1,49 @@
+Title       : A System of Data Assimilation Based on Parallel Second Order Adjoint and Reduced
+               Rank Kalman-Filter Methods
+Type        : Award
+NSF Org     : ATM 
+Latest
+Amendment
+Date        : March 10,  2003     
+File        : a0201808
+
+Award Number: 0201808
+Award Instr.: Continuing grant                             
+Prgm Manager: Stephan P. Nelson                       
+	      ATM  DIVISION OF ATMOSPHERIC SCIENCES        
+	      GEO  DIRECTORATE FOR GEOSCIENCES             
+Start Date  : June 15,  2002      
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $433321             (Estimated)
+Investigator: Ionel M. Navon NAVON@csit.FSU.EDU  (Principal Investigator current)
+              Zhuo Liu  (Co-Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323064166    850/644-5260
+
+NSF Program : 1527      LARGE-SCALE DYNAMIC METEOROLOG
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Four-dimensional variational analysis (4-D Var) is the most advanced data
+              assimilation system currently employed in operational numerical weather
+              prediction centers.  While the scheme has many strengths and advantages, one
+              shortcoming is that the error covariance matrix is fixed.  The Kalman filter
+              (KF) approach alleviates this shortcoming by explicitly propagating the error
+              covariance matrix for model variables so that it is flow dependent.  However,
+              the computer memory requirement for the KF approach is very large, rendering it
+              unfeasible in operational applications.  To address this problem, this project
+              will study the feasibility of developing a reduced rank Kalman filter to be
+              coupled with the 4-D Var system.  Namely, the 4-D Var scheme will be used to
+              perform the analysis but the background cost function will use a flow-dependent
+              error covariance matrix for the subspace defined by the leading Hessian
+              singular vectors.  The research will be built on an advanced numerical weather
+              prediction model for which the second order adjoint system will be developed. 
+              A comparison of the reduced rank Kalman filter with the ensemble Kalman filter
+              (EnKF) will be made using the ECMWF analysis data and satellite observations.
+              
+ 
+4-D Var remains the leading-edge technology for data assimilation of NWP
+              systems.  This research has the potential to improve 4-D Var applications in
+              the operational environment.

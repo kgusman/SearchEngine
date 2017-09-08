@@ -1,0 +1,54 @@
+Title       : RIA: Data Reduction and New Visualization Techniques for Three-Dimensional Data
+               Sets
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 14,  1997   
+File        : a9696024
+
+Award Number: 9696024
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1995    
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $28300              (Estimated)
+Investigator: Bernd Hamann hamann@cs.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+                                                                                             
+              This research is concerned with data reduction and general                     
+              visualization techniques for scalar-valued 3D data sets.  Many                 
+              practical applications deal with 3D data sets where points in                  
+              space, with associated function values, are given.  Such data                  
+              sets occur in medicine (tomography), geosciences and physical                  
+              sciences (temperature, pressure, radiation), and several other                 
+              sciences and disciplines of engineering measurements or                        
+              mathematical simulations.  Generally, such data sets are huge,                 
+              aggravating the tasks of data storage, interactive data                        
+              manipulation, and real-time data visualization.                                
+                                                                                             
+              Discrete scalar-valued data sets can be reduced by considering                 
+              derivative information at the given data points.  Curvature                    
+              information of graphs of functions locally approximating the data              
+              can be used to define a measure of the significance of single                  
+              data points can be weighted and removed iteratively form the 3D                
+              point set.  The proposed methods for 3D points, and 3D                         
+              retriangulation strategies.  The result of reduction algorithm is              
+              a data set consisting of scattered 3D points and an associated                 
+              triangulation (tetrahedra).                                                    
+                                                                                             
+              Common visualization techniques require structured data sets,                  
+              points typically being organized in a rectilinear ("cuberille")                
+              grid.  This research will introduce visualization methodologies                
+              allowing discretized scalar fields, with arbitrarily located data              
+              points, to be rendered.

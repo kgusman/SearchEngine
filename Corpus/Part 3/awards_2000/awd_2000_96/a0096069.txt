@@ -1,0 +1,46 @@
+Title       : Career: Reusable Specifications for Retargetability
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  2001     
+File        : a0096069
+
+Award Number: 0096069
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $47520              (Estimated)
+Investigator: Norman Ramsey nr@eecs.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              This research addresses the problem of retargeting tools  used to  translate,
+              analyze, instrument, improve, and migrate  programs.  Such  tools include not
+              only compilers, but also assemblers,  linkers,  debuggers, binary-code
+              modifiers, and binary translators.  The primary  retargeting technique being
+              applied is the generation of  machine-dependent  components from compact,
+              reusable descriptions of machine  properties.    The research objectives are to
+              describe machine properties  clearly and concisely, to represent instruction
+              semantics in  a way that supports retargeting, to reuse specifications to 
+              retarget a variety of tools, and to reuse analyses of  specifications to derive
+              components for multiple machines.  Instruction semantics are specified in three
+              layers.  Descriptions of whole instruction sets will be written using  the
+              metalanguage layer. These descriptions will be  mechanically transformed into
+              the register-transfer layer,  which defines each instruction's semantics in  a
+              form that is easy to analyze.  The interpretation layer  will provide semantic
+              interpretations of register transfers;  different interpretations support
+              different analyses and  component generators. The major payoff of this research
+              is  in developing new capabilities in machine specification; it  should deepen
+              our understanding of properties of machines,  foster innovation in
+              machine-level tools, and help others  save effort, cost, and time in developing
+              tools of  scientific and practical value.

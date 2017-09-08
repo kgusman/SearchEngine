@@ -1,0 +1,65 @@
+Title       : A Flexible End-to-End Protocol Framework
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 5,  1998       
+File        : a9612855
+
+Award Number: 9612855
+Award Instr.: Continuing grant                             
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $120569             (Estimated)
+Investigator: Kenneth L. Calvert   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Support for emerging network applications requires that the basic  delivery
+              service provided by the network infrastructure be augmented  with services that
+              are implemented in the end systems connected to the  network.  Examples of such
+              services include: recovery from messages  lost in the network; encrypting
+              transmitted information; verifying  that received information was not forged or
+              modified in transit;  adjusting the rate of transmission to available
+              bandwidth; and  attaching identifying information to the transmitted data so
+              that the  receiver can process it even if it arrives out of order.  Some of 
+              these services are provided today by protocols that are organized in  layers. 
+              Although it is a very useful paradigm for organizing network  functionality,
+              research and experience have identified several  problems with layering as it
+              is applied to end-to-end functions  (i.e. those that are implemented in the end
+              systems rather than the  network). In particular, layering causes services to
+              be too coarsely  grouped together, so that applications may have to make use of
+              some  services they don't need in order to get others.  (For example, TCP 
+              forces an application that needs congestion control to also accept  reliability
+              -- which, if not needed, just adds unnecessary overhead.)  Layering also causes
+              functions to be implemented in more than one  place in the stack, and hides
+              information that might be useful for  improving efficiency.    This project
+              aims to develop and deploy a platform for end-to-end  functions that
+              incorporates the lessons learned about protocol design  and implementation over
+              the last several years.  The platform, which  is called Tau, is not intended to
+              identify all the functions that  applications may ever require, but rather to
+              streamline the process of  incorporating those functions into systems and
+              applications as they  are identified and developed.  The approach involves
+              developing a  simple conceptual framework and a common message format that
+              supports  optimization of  common processing paths, while also allowing for 
+              extension at a (modest) cost in efficiency.    Tau has three main features. 
+              The first is an explicit composition  mechanism (a metaheader) that promotes
+              modularity of function and  implementation but avoids the problems associated
+              with layering.  The  second is a generic protocol interface, which allows
+              individual  protocol functions to be implemented separately, then composed 
+              efficiently, to provide just the services required by the application.  In
+              developing this feature, the project will contribute new methods of 
+              integrating code for fast execution while preserving modularity at the  source
+              code level.  The third feature is a set of protocol functions  that can be
+              extended to include new services in addition to the  traditional ones mentioned
+              above.    Information on the Tau Project is available via the World-Wide Web at
+               http://www.cc.gatech.edu/fac/Ken.Calvert/Tau.html

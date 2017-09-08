@@ -1,0 +1,53 @@
+Title       : Efficient Compilation Issues for Scalable Distributed-Memory Multicomputers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 19,  1996 
+File        : a9526325
+
+Award Number: 9526325
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $91408              (Estimated)
+Investigator: Prithviraj Banerjee banerjee@ece.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              Distributed-memory, massively-parallel multicomputers can  provide the high
+              levels of performance required to solve the  Grand Challenge computational
+              science problems.  Multicomputers offer significant advantages over shared- 
+              memory multiprocessors in terms of cost and scalability.  Unfortunately,
+              extracting all the computational power from  these machines requires users to
+              write efficient software  for them, which is an extremely laborious and
+              error-prone  process.  The distribution of data across processors is of
+              critical  importance to the efficiency of the parallel program in a 
+              distributed memory system. In this project  the problem of  automated data
+              distribution in such machines is being  investigated. The approach is unique in
+              that it is based on  sophisticated cost models of communication and computation
+               that are parameterized by architectural metrics empirically  measured for
+              different target machines. Using the cost  estimates, data distributions are
+              selected to minimize the  overall execution time of the program by maximizing 
+              parallelism (while maintaining load balance) and minimizing  the amount of
+              communication overhead (by maximizing data  locality). Both static and dynamic
+              distribution will be  supported in a unified framework to automatically select 
+              data distributions which can dynamically change over the  course of a program's
+              execution in order to provide scalable  parallel performance for large, complex
+              applications. This  approach not only has a solid theoretical basis, but is 
+              being integrated into a sophisticated compiler which can  actually generate
+              code for a variable number of processors  supporting all block, cyclic, and
+              block-cyclic data  distributions. The compilation techniques investigated in 
+              this project will also be integrated with simultaneous  support for regular and
+              irregular accesses in parallel  applications through a novel interval-based
+              representation.  ***

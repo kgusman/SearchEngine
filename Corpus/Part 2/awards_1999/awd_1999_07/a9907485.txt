@@ -1,0 +1,48 @@
+Title       : Implementation Techniques Building Scalable Cluster-Based 3D Graphics Engines
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 30,  1999 
+File        : a9907485
+
+Award Number: 9907485
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2000    
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $295779             (Estimated)
+Investigator: Tzi-Cker Chiueh chiueh@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The most apparent architectural trends in high-performance computing in the
+              recent years is the emergence of cluster or network of workstations (NOW)
+              architectures, where a set of off-the-shelf high-performance desktop machines
+              connected by a high-speed system-area interconnect can efficiently execute
+              parallel programs and sometimes out-perform custom-built multiprocessors or
+              multicomputers that axe orders of magnitude more expensive. The key driving
+              force behind cluster computing is the unstoppable advances in microprocessor
+              performance, which in turn is enabled by the economies of scale in the PC
+              industry. We are witnessing a similar technological revolution in 3D graphics
+              hardware arena. The performance of low-cost 3D graphics cards is improving at
+              an astonishing rate of 80% per year within the last five years, and if
+              continuing at this rate, is expected to out-pace high-end graphics engines such
+              as those from Sili-con Graphics in 2003. Despite these incredible performance
+              progresses, most of these graphics cards remain relatively inexpensive. The
+              central research questions that this project aims to answer are whether it is
+              feasible to build parallel 3D graphics engines that are based on the clustering
+              architecture and 3D graphics cards and whose overall performance can scale with
+              the number of CPUs/graphics processors, and if so, what the enabling
+              algorithmic and architectural techniques axe. The project will address these
+              questions by designing, implementing, and evaluating efficient software for a
+              cluster-based parallel 3D graphics system called Sunder, which is built on top
+              of Linux and Mesa.

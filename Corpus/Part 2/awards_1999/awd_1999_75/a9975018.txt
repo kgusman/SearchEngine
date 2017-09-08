@@ -1,0 +1,56 @@
+Title       : Next Generation Software: SmartApps: Smart Applications for Heterogeneous
+               Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 24,  2002 
+File        : a9975018
+
+Award Number: 9975018
+Award Instr.: Standard Grant                               
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Lawrence Rauchwerger rwerger@cs.tamu.edu  (Principal Investigator current)
+              Nancy M. Amato  (Co-Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2884,9218,HPCC,
+Abstract    :
+              EIA-9975018
+Rauchwerger, Lawrence
+CISE Next Generation Software(NG)
+Texas
+              Engineering Experimental Station
+
+SmartApps:  Smart Applications for
+              Heterogeneous Computing
+
+
+This proposal proposes to generate  SMART
+              APPLICATION code that uses information about its input data, operating system
+              services and architecture capability, to adaptively reconfigure the application
+              and the OS/hardware platform.  To enable very aggressive optimizations, we
+              propose to build a two-stage compiler which has a static and run-time
+              component.  The run-time component is extremely fast, works in parallel on the
+              target machine and can read all relevant input data, and the operating system
+              and architectural capabilities.  Furthermore, to adapt the performance to
+              variable program inputs during execution, we propose to use novel speculative
+              run-time adaptive optimization techniques (for example, the PI's speculative
+              parallelization and  a feedback loop of performance evaluator, predictor and
+              optimizer inputs.  All this support will be enabled by a run-time library and
+              the necessary compiler-embedded code in the executable.  With this approach,
+              the application can adapt itself and its environment to its needs by issuing
+              appropriate commands.  For instance, it is able to control data placement by
+              the OS, control the I/O subsystem, modify coherence protocols and establish
+              network connections.  Moreover, smart applications are able to respond to the
+              failures and large performance variations that distributed systems suffer.

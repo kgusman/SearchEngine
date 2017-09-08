@@ -1,0 +1,80 @@
+Title       : Finite Element Methods of Least-Squares Types
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 21,  1997      
+File        : a9705793
+
+Award Number: 9705793
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $81000              (Estimated)
+Investigator: Pavel B. Bochev bochev@uta.edu  (Principal Investigator current)
+Sponsor     : U of Texas Arlington
+	      Office of Research
+	      Arlington, TX  760190145    817/273-2105
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9148,9216,9263,HPCC,MANU,
+Abstract    :
+              9705793  P.Bochev        The main focus of this research is directed at the
+              design of fast,   robust and accurate algorithms for the numerical solution of
+              nonlinear   partial differential equations. To accomplish these objectives we  
+              consider finite element methods based on application of least-squares  
+              variational principles. Such principles offer significant computational   and
+              theoretical advantages that are not present in other discretization   schemes,
+              e.g., mixed Galerkin methods. Most notably, corresponding   least-squares
+              methods are not subject to stability constraints, such as   the inf-sup
+              condition, and lead to symmetric and positive definite   algebraic problems.
+              The principal objective of the research will be to   develop, analyze and
+              implement finite element methods that can fully  exploit the inherent
+              advantages of the least-squares formalism,   especially in the context of
+              realistic applications. Our efforts here   will be guided by the impact of both
+              the mathematical structure of model   problems and the computational features
+              of least-squares principles   upon the algorithmic design of the methods. The
+              research will be carried   in the context of systems of partial differential
+              equations that are   compact perturbations of linear elliptic operators.
+              Least-squares   principles for these systems are obtained through minimization
+              of    problem-dependent, norm-equivalent functionals. As a result,  
+              discretization   of the associated Euler-Lagrange equations leads to systems of
+              nonlinear   algebraic equations having symmetric and positive definite
+              Jacobians.  These equations are solved using Newton linearization combined with
+                robust continuation techniques. To address large-scale computations, at  
+              each Newton step the linearized systems are solved using robust  
+              preconditioned iterative methods implemented without assembly of the  
+              discretization matrix. Design of efficient preconditioners for these  
+              iterative solvers will exploit novel ideas, including the use of negative   
+              norms in the least-squares functionals.    With the advent of new and more
+              powerful digital computers numerical   simulation is emerging as a viable and
+              cost-effective alternative to   expensive field experiments and tests. However,
+              despite the increased   computational power there is still a real and existing
+              need to develop   fast and robust computer algorithms for a wide range of
+              industrial   applications. This is especially true for applications involving
+              numerical   solution of the Navier-Stokes equations. The tremendous practical  
+              importance of these equations stems from their fundamental role    in the
+              modeling of fluid flows arising in such diverse applications as   atmospheric
+              motions, flow of air around aircraft, and lubrication of ball   bearings. At
+              the same time numerical solution of the Navier-Stokes   equations in realistic
+              settings remains difficult and computationally   challenging. Indeed,
+              large-scale solution of these equations in three   dimensions required in
+              applications such as weather forecast, hurricane  tracking, and modeling of air
+              pollution, continues to be an outstanding   problem which motivates this
+              research project. Our principal goal is to   develop new, reliable and accurate
+              numerical algorithms for the Navier-Stokes   equations that can be used for
+              computations carried in realistic settings. To   accomplish this we explore
+              alternative ways to discretize the model problem,   i.e., to replace this model
+              by a set of equations that can be solved on a   computer. The research will
+              focus on the development of novel discretization   techniques leading to
+              equations that require less computational resources and   that are easier to
+              solve than the equations obtained by standard methods. This   allows us to
+              develop more robust, faster and easier to use codes. In addition   to fluid
+              flow problems the research will also target numerical solution of  mathematical
+              models arising in elasticity, electromagnetics and   reaction-diffusion
+              applications, among others.

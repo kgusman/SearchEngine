@@ -1,0 +1,44 @@
+Title       : Concurrent Garbage Collection for Multithreaded-multiprocessor Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 22,  2001      
+File        : a0098235
+
+Award Number: 0098235
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $110902             (Estimated)
+Investigator: Morris J. Chang   (Principal Investigator current)
+Sponsor     : Illinois Inst of Tech
+	      3300 South Federal Street,
+	      Chicago, IL  606163793    312/567-3035
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9217,HPCC,
+Abstract    :
+              Memory management consumes a great deal of time on today's computer systems, and
+              will take even longer in the future.  Software techniques have successfully
+              hidden most of this overhead on personal workstations by shifting the work to
+              times when the system is waiting for user
+interaction.  Such techniques are
+              less effective on SMP servers, where the overall computational overhead is what
+              matters.  The Dynamic Memory Management Unit (DMMU), a special-purpose hardware
+              mechanism based on bitmaps and combinational logic can greatly diminish this
+              overhead.  Preliminary results for three languages show that this approach is
+              much
+faster than software memory allocation, and consumes only slightly more
+              memory than software-allocation techniques. This proposal calls for the
+              integration of this hardware unit into SMP systems, which would allow
+              concurrent garbage collection in multithreaded-multiprocessors
+environments.
+              This can speed up the performance of server applications written in
+              Object-Oriented languages such as C++ and Java.
+

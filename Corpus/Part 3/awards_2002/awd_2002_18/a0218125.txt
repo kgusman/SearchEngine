@@ -1,0 +1,63 @@
+Title       : Dynamic Abstraction in Reinforcement Learning
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 14,  2002    
+File        : a0218125
+
+Award Number: 0218125
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $199605             (Estimated)
+Investigator: Andrew G. Barto barto@cs.umass.edu  (Principal Investigator current)
+              Sridhar Mahadevan  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 0000,OTHR,
+Abstract    :
+              This project investigates reinforcement learning algorithms that use dynamic
+              abstraction to exploit the spatial and temporal structure of complex
+              environments to facilitate learning. The use of abstraction is one of the
+              features of human intelligence that allows us to operate as effectively as we
+              do in complex environments. We systematically ignore details that are not
+              relevant to a task at hand, and we rapidly switch between abstractions when we
+              focus on a succession of subtasks. For example, in planning everyday
+              activities, such as driving to work, we abstract out irrelevant details such as
+              the layout of objects inside the car, but when we actually drive, many of these
+              details become relevant, such as the locations of the steering wheel and the
+              accelerator. Different abstractions are appropriate for different tasks or
+              subtasks, and the agent has to shift abstractions as it shifts to new tasks or
+              to new subtasks.
+This project combines the theory of options with factored
+              state and action representations to give precise meaning to the concept of
+              dynamic abstractions and to study methods for creating and exploiting them. It
+              will develop formalisms for representing option models in terms of factored
+              state and action representations by extending existing formalisms for
+              single-step dynamic Bayes network models to the multi-time case. It will
+              investigate how the multi-time formulation call facilitate creating and using
+              dynamic abstractions. An algebraic theory of abstraction will be developed by
+              extending relevant concepts from classical automata theory to multi-time
+              factored models. Methods will be developed for learning compact multistep
+              option models by extending an existing mixture model algorithm for learning
+              transition models from single-step to multi-step models. In general the notion
+              of dynamic abstraction will be a valuable tool to apply to many difficult
+              optimization problems in large-scale manufacturing (e.g., factory process
+              control), robotics (navigation), multi-agent coordination, and other
+              state-of-the-art applications of reinforcement learning. Since this research
+              combines ideas from the fields of decision theory, operations research, control
+              theory, cognitive science, and AI, it may provide a useful bridge that has the
+              potential to foster contributions in all of these fields.
+
+
+
+

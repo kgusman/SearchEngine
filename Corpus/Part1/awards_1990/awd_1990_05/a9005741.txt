@@ -1,0 +1,64 @@
+Title       : Frequency Domain Relaxation of Power Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 15,  1991    
+File        : a9005741
+
+Award Number: 9005741
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1990  
+Expires     : August 31,  1993     (Estimated)
+Expected
+Total Amt.  : $186753             (Estimated)
+Investigator: Peter E. Crouch peter.crouch@asu.edu  (Principal Investigator current)
+              Daniel J. Tylavsky  (Co-Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              It is well recognized that one of the most                                     
+              computationally intensive problems encountered in                              
+              the analysis and simulation of electric power systems                          
+              if the transient stability problem.  Hence it is this                          
+              area in which the high speed parallel and vector                               
+              computers being made available today, will find the                            
+              most applicability in the near and distant future.  One                        
+              current trend in increasing the computational power                            
+              of digital computing engines is to use inexpensive                             
+              moderate speed processors and medium to large scale                            
+              parallelism (10-1000 processors) such as the Sequent                           
+              Balance, Encore Multimax, Intel iPSC, BBN Butterfly.                           
+              Another trend is to use the more expensive high                                
+              speed vector processors and small scale parallelism                            
+              (1-10) such as the CRAY and IBM vector processors                              
+              with parallel pipelines, while there are other                                 
+              computers with a foot in both camps, such as the                               
+              Alliant.                                                                       
+                                                                                             
+              Frequency domain based algorithms, rather than                                 
+              traditional time domain algorithms, display three                              
+              important characteristics which have the potential for                         
+              utilizing the specialist architectures in the machines                         
+              above.  First, frequency domain techniques often lead                          
+              to algorithms which are very naturally parallelizable,                         
+              whereas time domain algorithms suffer from                                     
+              precedent relationships which are inherent in                                  
+              numerical integration schemes and limit the amount                             
+              of exploitable parallelism.  Second, frequency domain                          
+              techniques applied to power system dynamics                                    
+              problems, often result in algorithms which are rich in                         
+              highly vectorizable inner product calculations,                                
+              contrasting the time domain algorithms, in which                               
+              code vectorization is extremely limited.  Third,                               
+              frequency domain data compression can be easily                                
+              exploited.

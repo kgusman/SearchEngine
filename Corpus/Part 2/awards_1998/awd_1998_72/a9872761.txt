@@ -1,0 +1,72 @@
+Title       : The Fork-Join Terabit per Second Router
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 4,  2001       
+File        : a9872761
+
+Award Number: 9872761
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $547355             (Estimated)
+Investigator: Nick McKeown nickm@ee.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              The Internet is facing two problems simultaneously: we need a
+              faster
+switching/routing infrastructure, and we need to introduce
+              guaranteed
+qualities of service (QoS). As a community, we have proposals for
+              each: we
+can make the routers faster by using input-queued crossbar
+              switches,
+instead of shared memory systems; and we can introduce QoS using
+              WFQ-based
+(weighted fair queueing) packet scheduling. But we don't know how to
+              do
+both at the same time. Until now, the two solutions have been
+              mutually
+exclusive - all of the work on WFQ-based scheduling algorithms has
+              required
+that switches/routers use output-queueing, or centralized shared
+              memory.
+
+The Fork-Join Router is designed to address both problems. The
+              router is a
+very high performance, scalable, fault-tolerant system designed to
+              operate
+at multi-terabits per second, yet provide exact support for qualities
+              of
+service. The router is highly parallel, and is composed of
+              multiple,
+identical, independently operating planes. When they arrive, all of
+              the
+packets belonging to the same flow are directed (forked) to the same
+              plane
+of the router for processing. Prior to departure, the flows are
+              remerged
+(joined) so
+as to maintain the QoS of each flow through the
+              system.
+
+Before a fork-join router can be built (as a prototype, or in
+              industry as a
+commercial product) some significant questions must be answered:
+              How can
+the fork, join and switch scheduling functions be implemented? Our
+              work
+focusses on answering these problems.
+
+

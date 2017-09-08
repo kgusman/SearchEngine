@@ -1,0 +1,95 @@
+Title       : CAREER: Effective Methods for Finding Software Errors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 5,  2003      
+File        : a0238570
+
+Award Number: 0238570
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  2003      
+Expires     : March 31,  2008      (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Dawson R. Engler engler@csl.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Software reliability is one of the most important problems in computer
+science.
+               A single operating system error can crash the machine.  A single
+security
+              hole can compromise the integrity of the entire system or, as
+software and its
+              errors is replicated, the integrity of entire networks.
+This research focuses
+              on practical techniques to effectively find large
+numbers of such software
+              errors.  Initial results are promising: the
+approach has found hundreds of
+              security holes and thousands of serious
+errors in the Linux operating system,
+              as well as in large commercial
+systems.
+
+The research centers on using
+              static analysis to find errors in source
+code. It uses two main techniques:
+              (1) metacompilation (MC) to check
+correctness rules (such as ``a call to the
+              lock() function must be paired
+with a call to unlock()'') and (2) belief
+              analysis to infer such rules
+automatically.
+
+Metacompilation uses
+              programmer-written, system-specific static checkers
+to find software bugs. 
+              Because these extensions can be written by
+system implementors themselves,
+              they can take into account the ad hoc
+(sometimes bizarre) semantics of a
+              system.  Because they are compiler
+based, they also get the benefits of
+              automatic static analysis.
+
+Belief analysis: A major obstacle to finding
+              program errors in a real
+system is knowing what correctness rules the system
+              must obey. These
+rules are often undocumented or specified in an ad hoc
+              manner.
+Belief analysis automatically infers such checking information
+              from
+the source code itself, rather than the programmer, thereby avoiding
+the
+              need for a priori knowledge of system rules.  It works by analyzing
+source
+              code to infer what programmers believe to be true and checking
+these beliefs
+              for contradictions.  For example, if a call to ``lock()''
+is paired with a
+              call to ``unlock()'' 1000 times and not paired once,
+this is a good indication
+              that the code believes these calls must be
+paired, and that the single
+              deviation is an error.
+
+The research will also involve an educational
+              component.  The most
+significant feature will be heavily involving
+              undergraduates in research.
+Empirically, doing so helps them think creatively,
+              independently, as
+well as pushing them to go much deeper than a typical
+              class.
+

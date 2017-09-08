@@ -1,0 +1,112 @@
+Title       : Interior-Point Methods for Conic Optimization
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 30,  2002      
+File        : a0209457
+
+Award Number: 0209457
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $264653             (Estimated)
+Investigator: Michael J. Todd miketodd@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Todd
+0209457
+     In this project, the investigator and his students
+              study
+improved interior-point algorithms for convex, especially
+second-order
+              and semidefinite, programming problems.  In
+particular, they investigate
+              finding more accurate solutions to
+large-scale problems of this kind,
+              interpreting the output of
+infeasible-interior-point methods as searching for
+              infeasibility
+certificates when applied to infeasible problems, using ideas
+              of
+Riemannian geomentry to develop new interior-point methods for
+possibly
+              infeasible problems, and studying new barrier functions
+to be used in highly
+              asymmetric problems, where usual primal-only
+or primal-dual methods would be
+              inefficient.  All these ideas are
+tested out by implementing them in the
+              software package SDPT3,
+developed by the investigator and two of his
+              collaborators, which
+is a competitive primal-dual code available over the
+              internet (e.g., at
+http://www.math.cmu.edu/~reha/sdpt3.html) and within the
+              NEOS 
+system (http://www-neos.mcs.anl.gov/neos/server-solvers.html)
+for
+              distributed computing.
+     Interior-point algorithms are a new and
+              exciting
+computational method for solving large-scale resource allocation
+and
+              other optimization problems.  For example, they have been
+used to develop
+              better designs for truss structures, such as
+bridges, that are better able to
+              resist a wide range of external
+loads.  Another application is the design of
+              antenna arrays to
+highlight the receptivity in certain directions while muting
+              that
+in all other directions.  In finance, they are used to develop
+"optimal
+              portfolios" to balance an acceptable rate of return with
+low volatility
+              (unfortunately, these methods are only as good as
+the data they employ, and
+              past history often does not give a good
+indication of future performance).  In
+              this and other contexts,
+the idea of robust optimization, to find solutions to
+              problems
+that satisfy all constraints even when the data are perturbed
+              a
+little, and that give good performance measures even when the
+data are
+              slightly changed, is very attractive, and this class of
+methods is successful
+              in treating some problems of this kind
+also.  A last application mentioned
+              here is currently being
+studied by the investigator and a statistics
+              colleague: trying to
+find a good way to classify new data into one of two
+              classes
+(e.g., with or without a cancerous tumour) on the basis of
+              some
+training data (with known classification).  This problem is of
+interest
+              in data mining and biomedical fields.  In all these
+problems, there is a
+              desire to solve larger and larger instances
+(involving tens of thousands of
+              variables and constraints) more
+and more accurately.  The investigator and his
+              collaborators
+study theoretically and practically ways to improve
+              existing
+algorithms to extend their capabilities in these directions.
+
+

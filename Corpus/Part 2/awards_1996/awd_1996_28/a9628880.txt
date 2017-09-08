@@ -1,0 +1,130 @@
+Title       : Logical and Stochastic Approaches to Mismatch Resolution in Machine Translation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : November 27,  2000  
+File        : a9628880
+
+Award Number: 9628880
+Award Instr.: Continuing grant                             
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 15,  1996   
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $394985             (Estimated)
+Investigator: Jean M. Gawron gawron@ai.sri.com  (Principal Investigator current)
+              Megumi Kameyama  (Co-Principal Investigator current)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 6845      HUMAN COMPUTER INTER PROGRAM
+Fld Applictn: 0104000   Information Systems                     
+              0116000   Human Subjects                          
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              A major bottleneck in present-day machine translation (MT) is identifying
+              appropriate approximations when no exact translation exists between the source
+              and target languages.  An MT system must resolve mismatches either by
+              incorporating implicit information from context or leaving out some information
+              in the source text.  A prototype MT system is implemented, incorporating the
+              usual MT steps, analysis (analyzing English sources into an English-oriented
+              semantic representation), transfer (transferring the English-oriented semantics
+              into a Japanese-oriented semantics), and generation (building Japanese targets
+              from the transferred semantics), and adding a novel Mismatch Resolution Module
+              (MRM) called when generation fails.  In this architecture, both analysis and
+              generation modules are purely monolingual, and transfer is simplistic,
+              incorporating minimal context information, and the bulk of mismatch resolution
+              and disambiguation is done in the generation-MRM loop, where the MRM offers
+              solutions to the problems encountered by generation. Two kinds of MRMs are
+              explored, logical and statistical, with the design goal of a single MRM
+              combining the advantages of both approaches.  Translations are evaluated by
+              monolingual English speakers applying evaluation measures modeled on those of
+              the DARPA MT program.  The focus is on translating the Japanese joint venture
+              business articles in the MUC-5 corpus into English.  This project attacks the
+              crucial mismatch resolution problem with a novel architecture, logical and
+              statistical techniques, and on-line text resources.                            
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                    

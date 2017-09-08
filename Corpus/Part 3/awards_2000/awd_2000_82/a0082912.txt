@@ -1,0 +1,67 @@
+Title       : ITR: System Support for Automatic and Consistent Replication of Internet
+               Services
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0082912
+
+Award Number: 0082912
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $361984             (Estimated)
+Investigator: Amin M. Vahdat vahdat@cs.duke.edu  (Principal Investigator current)
+              Jeffrey S. Chase  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9216,HPCC,
+Abstract    :
+              This project explores two complementary techniques for addressing
+fundamental
+              limitations in replicating network services. The first aspect
+of this proposal
+              seeks to automatically replicate service programs and
+state information to
+              allow transparent caching or replication of dynamic
+services. The goal of the
+              research is to allow transparent caching or
+replication of dynamic services, a
+              key step toward automatically converting
+unscalable service implementations
+              into scalable ones. The second thrust of
+this work is to allow network
+              services to dynamically trade replica
+consistency for increased system
+              availability and performance. The TACT
+(Tunable Availability and Consistency
+              Tradeoffs) toolkit allows Internet
+services to flexibly and dynamically choose
+              their own
+availability/consistency tradeoffs. We use three consistency
+              metrics,
+Numerical Error, Order Error and Staleness to capture
+              application-specific
+consistency requirements of Internet services. 
+              Applications use these
+metrics in addition to application-specific parameters
+              to assign a numeric
+value to system consistency, e.g., the percentage of user
+              requests that
+must eventually be rolled back because of underlying
+              replica
+inconsistency.  Finally, TACT allows consistency to be specified on
+              a
+per-user, client, and replica basis, enabling differentiated quality
+              of
+service.
+

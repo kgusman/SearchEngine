@@ -1,0 +1,100 @@
+Title       : Simulation Platform for the Earthquake Response of Reinforced Concrete
+               Structures
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : April 3,  2003      
+File        : a0084598
+
+Award Number: 0084598
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : February 1,  2001   
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $149980             (Estimated)
+Investigator: Kaspar J. Willam willam@bechtel.colorado.edu  (Principal Investigator current)
+              Charbel Farhat  (Co-Principal Investigator current)
+              Xiao-Chuan Cai  (Co-Principal Investigator current)
+              P. Benson Shing  (Co-Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 1637      STRUCT SYS & HAZ MIT OF STRUCT
+Fld Applictn: 
+Program Ref : 1057,1623,CVIS,
+Abstract    :
+              Motivation:
+Reinforced Concrete Structures, RCS, are strongly heterogeneous
+              composites, the performance of which depends on the subtle interaction of the
+              brittle concrete and the ductile reinforcement. Under extreme seismic events,
+              the interplay between the two components is critical for the safety and
+              survival of RCS as demonstrated by dramatic failures recent earthquake in
+              Turkey, Taiwan, Japan, and the USA.
+Objectives:
+It is proposed to develop a
+              3-dim simulation platform for the earthquake response, SPER, to model
+              progressive failure of RCS subjected to seismic events. The parallel finite
+              element architecture of FEMS-FETI, which was developed by the team of Dr.
+              Farhat for the solution of large fluid-structure interaction problems, provides
+              the basic platform for the proposed earthquake simulation environment. SPER
+              will feature a novel nonlinear solver using incomplete elimination, and an
+              innovative interface model to capture localized cracking and shear failure in
+              concrete. For proof of concepts, a RC column will be examined in which
+              quasi-static failure takes place in the form of a cascade of events, such as
+              spalling of the concrete cover, progressive debonding of the reinforcement,
+              yielding and rupturing of the transverse stirrups, and subsequent buckling of
+              the axial reinforcement. As an illustrative example on system analysis, a
+              two-span RC bridge structure will be selected to highlight the 3-dim
+              interaction between the bridge super-and the pier and to showcase the
+              scalability of SPER. The long-term objective envisions multilevel substructure
+              models of elevated transportation systems exemplified by the Hanshin Express
+              Way, which exhibited dramatic multiple segment failure during the 1995 Kobe
+              earthquake.  
+Methodology:
+The proposed SPER software will be based on a
+              combination of multilevel/multigrid, domain decomposition and incomplete
+              nonlinear elimination methods. Roughly speaking, in these algorithms, (i)
+              domain decomposition provides the parallelism, (ii) multilevel provides a
+              scalable computing environment with respect to problem size and the number of
+              processors on parallel computers, while (iii) incomplete elimination removes
+              the sensitivity of the nonlinear solver to localized singularities. 
+              
+Relevance:
+Progressive degradation of RCS is a matter of great importance in
+              earthquake engineering. The current design philosophy has moved to a
+              performance-based approach which requires reliable assessment of the structural
+              behavior beyond the elastic range. SPER is designed to simulate the seismic
+              performance of existing RCS which have been built according to older and often
+              non-conservative earthquake provisions, and to assist the development of rapid
+              and cost-effective rehabilitation procedures.  
+Outreach:
+SPER will be
+              disseminated through a web site which will document the progress and outcome of
+              the model-based earthquake simulation software of RCS. In the long haul, the
+              intention is to eventually incorporate the 3-dim capabilities of SPER into the
+              forthcoming NSF Network for Earthquake Engineering Simulation (NEES), and to
+              develop therein an internet-based capability for earthquake simulations which
+              may be used by colleagues in academia and the earthquake engineering
+              community.
+Human Resources and Education:
+The exploratory research will
+              involve three graduate research assistants from the Civil Engineering, Computer
+              Science and Aerospace Engineering, respectively, which will be guided and
+              supervised by the four Co-Pi's in three departments. They will work in an
+              interdisciplinary environments that encompasses civil infrastructure systems,
+              parallel computing technologies, and numerical solution schemes. The simulation
+              platform SPER will be used as an education tool in a number of undergraduate
+              and graduate courses that are being offered in the Civil Engineering Program at
+              the University of Colorado, such as the Design of Reinforced Concrete
+              Structures, Earthquake Engineering, and Computational Mechanics. SPER will also
+              serve as a demonstration tool for public outreach, especially to high school
+              teachers and K-12 students, on earthquake disaster awareness. This effort will
+              take advantage of the new Integrated Teaching and Learning laboratory (ITLL) at
+              the University of Colorado which has received national attention because of its
+              novel approach to learning through discovery.  
+

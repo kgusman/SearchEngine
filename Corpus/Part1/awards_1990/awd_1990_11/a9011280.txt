@@ -1,0 +1,47 @@
+Title       : IOStone: Developing a Comprehensive Measure of I/O Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 3,  1993     
+File        : a9011280
+
+Award Number: 9011280
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Arvin Park   (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              I/O system performance has become and will remain an important                 
+              research focus as processor speeds continue to improve faster than I/O         
+              system speeds.  Because there presently exists no accurate way to              
+              measure I/O system performance, it is hard to objectively evaluate new         
+              I/O system designs.                                                            
+                                                                                             
+              A measure for I/O performance that simulates measured system workloads         
+              is being developed.  The few studies of I/O system workloads to date           
+              have failed to consider: (i) mixtures of both file system activity and         
+              paging activity, (ii) CPU overhead of I/O system calls, (iii)                  
+              variations of I/O activity across different application domains (e.g.          
+              business vs. scientific applications), and (iv) interarrival timings           
+              of I/O requests.  Detailed measurements of these factors in I/O system         
+              performance, will be made and used to construct a comprehensive                
+              measure of I/O system performance.  This measure can be used to                
+              compare I/O system designs and to balance processor performance with           
+              I/O system performance.  Preliminary measurements indicate that a good         
+              balance between processor and I/O performance is currently rarely              
+              achieved.  Results for these studies will make it possible to analyze          
+              performance tradeoffs for new I/O system designs.

@@ -1,0 +1,57 @@
+Title       : High Performance Integration of Advanced Tertiary Stores
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a9972212
+
+Award Number: 9972212
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1999      
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $170353             (Estimated)
+Investigator: Darrell Long darrell@cse.ucsc.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Cruz
+	      1156 High Street
+	      Santa Cruz, CA  950641077    408/429-0111
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The rapidly growing disparity between processor and I/O performance must be
+              addressed.  Two intriguing trends in storage systems are the appearance of new
+              technologies that suffer from asymmetric read-write performance, and the
+              widening gap between data transfer rate and access time.  A current example is
+              a tertiary storage system with an automated library mechanism.  Such a system
+              exemplifies the wide performance gap between data transfer rate and access time
+              due to mechanical media handling.
+
+The goal of this work is to address these
+              issues through the development of techniques for high-performance integration
+              of automated tertiary storage libraries.  These issues include:
+
+1.
+              Addressing the issue of read-write performance asymmetry, though the use of a
+              log-structured, write-buffered architecture.
+
+2. The minimization of
+              mechanical access delays, by pre-grouping related data on the same media
+              volume, as it is migrated from local storage.
+
+This research will be of
+              direct benefit to today's growing storage needs by allowing high-performance
+              access to vast storage.  It addresses the important issue of latency reduction
+              in cases where data rate far exceeds access speeds.  It also enables the
+              efficient general-purpose adoption of emerging storage technologies, such as
+              magneto-optical and volume holographic, by alleviating problems of read-write
+              performance asymmetry.
+
+
+
+

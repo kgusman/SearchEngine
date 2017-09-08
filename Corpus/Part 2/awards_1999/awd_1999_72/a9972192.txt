@@ -1,0 +1,55 @@
+Title       : Using Code Shipping to Optimize Distributed System Execution
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  1999     
+File        : a9972192
+
+Award Number: 9972192
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $120000             (Estimated)
+Investigator: Richard D. Schlichting rick@cs.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Richard Schlichting
+CCR-9972192
+
+The movement of code from one machine in a
+              distributed system to another has often been used as a way to gain a
+              functionality or performance advantage.  This project focuses on using code
+              shipping to optimize execution performance in distributed systems.  Code
+              shipping involves statically extracting code fragments form an existing
+              program, constructing executable parcels written in a language such as Java
+              from the fragments, and shipping the parcels to another machine for execution. 
+              An example use of code shipping is to implement call folding to remote
+              procedure calls (RPCs), where multiple RPCs from a client to a server are
+              folded into a single RPC.  The program fragment that performs the calls,
+              including any intervening statements, is extracted and generated as a parcel at
+              compile time, and then shipped to the server at run time as an argument in the
+              single remaining RPC and executed there.  Thus, the calls to the server
+              operations that originally required network transmissions are now local.  In
+              contrast to previous approached, code shipping involves automatic generation of
+              parcels and other software components from regular source code, typically
+              involves finer-grain fragments, and emphasizes performance optimization rather
+              than function enhancement.
+
+The goal of this project is to explore code
+              shipping as a technique for optimizing execution in distributed systems.  The
+              issues being investigated range from identifying optimization possibilities in
+              the code to developing appropriate transformation techniques.  Our
+              investigations are based on pragmatic approached to the problem, with the work
+              being done in the context of building a prototype code shipping sys
+

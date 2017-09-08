@@ -1,0 +1,87 @@
+Title       : Improving Hugs: Haskell as a Research Tool
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 3,  1999  
+File        : a9974980
+
+Award Number: 9974980
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $129591             (Estimated)
+Investigator: Tim Sheard   (Principal Investigator current)
+              Mark P. Jones  (Co-Principal Investigator current)
+Sponsor     : Oregon Health Sciences U
+	      3181 S W Sam Jackson Rd
+	      Portland, OR  972013011    503/748-1031
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number: CCR-9974980
+Title: Improving Hugs: Haskell as a Research
+              Tool
+PI's: Tim Sheard and Mark Jones, Oregon Graduate Institute
+
+The
+              programming language Haskell has emerged as the standard lazy
+functional
+              language, and offers strong typing, higher-order features, and
+parametric
+              polymorphism.  The Hugs interpreter is a simple, easily ported,
+implementation
+              of Haskell. This project will enhance Hugs, focusing on
+issues of usability
+              and integration with the high-performance Glasgow
+Haskell Compiler.
+
+The
+              project improves the Hugs interpreter in several ways:
+
+Integration with GHC
+              runtime system:
+By completing the integration of the Glasgow Haskell Compiler
+              run-time
+system with the Hugs interpreter, a fully interoperable system
+              capable
+of executing a mixture of compiled and byte-code interpreted code
+              will
+be constucted.
+  
+Declarative debugging: 
+The project will investigate
+              the problem of tracing the computational steps
+of a lazy functional program,
+              at a level of abstraction consistent with the
+programmers view of the
+              program.
+
+
+Better Error Reporting:
+The project investigates how to improve
+              the type error debugging
+process by building improved type inference systems
+              into
+Hugs, capable of reporting both where and why type errors
+              have
+occurred.
+ 
+Successful integration with the GHC run-time system has
+              numerous
+benefits. It allows the Hugs interpreter to access the existing
+              GHC
+features including compiled preludes and libraries, while maintaining
+the
+              small footprint and ease of use of an interpreter. Completion of
+the project
+              will greatly increase the size and complexity of the
+problems to which the
+              Hugs interpreter can be applied.
+

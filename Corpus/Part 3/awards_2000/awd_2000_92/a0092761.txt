@@ -1,0 +1,95 @@
+Title       : CAREER: Making Exponential-Time Learning Algorithms Efficient
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 21,  2001     
+File        : a0092761
+
+Award Number: 0092761
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : July 31,  2006       (Estimated)
+Expected
+Total Amt.  : $299952             (Estimated)
+Investigator: Stephen D. Scott sscott@cse.unl.edu  (Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 1045,1187,9150,9216,HPCC,
+Abstract    :
+              In the past fifteen years, researchers have developed new algorithms
+for
+              machine learning (computer programs that learn from experience)
+that have
+              excellent theoretical guarantees on their error.  These
+so-called
+              multiplicative weight update algorithms receive inputs (like
+an image taken by
+              a robot), and make a prediction as to whether or not
+that image came from a
+              particular location.  The theoretical error
+bounds imply that the number of
+              mistakes made by these algorithms is
+guaranteed to be very small.  However,
+              many applications of these
+algorithms require an enormous amount of time to
+              learn and predict.
+Thus special techniques must be employed to make them
+              efficient.  The
+investigators study new, general, theoretical techniques to
+              make these
+algorithms faster.  This research also involves empirically
+              evaluating
+such algorithms in new areas, including computational biology,
+              which is
+studied extensively at the investigators' university. 
+              Applying
+theoretical techniques to real problems creates a better
+              understanding
+of the real-world problems and helps direct future theoretical
+              work,
+guiding the transfer of results from theory to
+              practice.
+
+Specifically, the investigators study multiplicative
+              weight-update
+algorithms such as Weighted Majority (WM) and Winnow, which
+              have
+on-line mistake bounds with a logarithmic dependence on N, the
+              total
+number of features.  This attribute efficiency allows them to
+              be
+applied to problems where N is exponential in the input size,
+              yielding
+great flexibility in their application areas.  Such areas
+              include
+pruning decision trees, pruning ensembles of classifiers,
+              learning
+finite geometric concepts, learning DNF formulas, and
+              using
+pseudo-Bayesian predictors over finite hypothesis spaces.  However,
+              a
+large N requires techniques to efficiently compute the weighted sums
+              of
+these algorithms.  This research explores methods to overcome
+              this
+difficulty, including exploiting commonalities among the features,
+              and
+the more general approach of using Markov chain Monte Carlo
+              (MCMC)
+methods to estimate the total weight contribution without the need
+              for
+special structure in the problem.  The investigators also are
+              applying
+their algorithms to various problems in computational
+              biology,
+including drug activity prediction, analyzing microbial
+              population
+dynamics, and identifying special types of human genes.

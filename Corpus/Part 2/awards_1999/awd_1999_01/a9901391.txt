@@ -1,0 +1,76 @@
+Title       : Controlled Recovery in Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  1999       
+File        : a9901391
+
+Award Number: 9901391
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: Sukumar Ghosh   (Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number  CCR-9901391
+Controlled Recovery in Distributed Systems 
+PI:
+              Sukumar Ghosh
+
+
+A distributed system traditionally consists of a set of
+              
+interconnected processes that do not share a global memory. 
+Communication
+              among processes is either through locally shared
+memory, or through messages
+              that propagate along the links joining pairs
+of processes. In many
+              applications, a distributed system is required to 
+stage a spontaneous
+              run-time recovery from failures of an unforeseen nature, 
+or from
+              environmental perturbations. The design of such systems, known as
+              
+self-stabilizing systems or simply stabilizing systems, has been
+extensively
+              studied in recent years. 
+
+A major weakness in current stabilizing
+              distributed systems is their 
+inability to correlate the recovery time with
+              the extent of failure.  A 
+second concern is the potential of non-faulty
+              processes being contaminated 
+during the recovery phase, a problem that may
+              have alarming consequences 
+with the rapid proliferation of large distributed
+              systems. This motivates 
+the study of controlled recovery in distributed
+              systems, where control
+implies that certain performance constraints are
+              satisfied during recovery.
+The study of controlled recovery will lead to a
+              better understanding
+of the design of safety-critical systems. In addition to
+              studying
+the algorithmic foundations of the design of such systems,
+              applications 
+in the areas of multimedia data routing and ad-hoc networks of
+              mobile
+nodes will be examined.
+
+
+

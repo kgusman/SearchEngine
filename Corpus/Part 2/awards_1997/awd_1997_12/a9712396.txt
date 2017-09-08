@@ -1,0 +1,59 @@
+Title       : Equality Reasoning: Word and Unification Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 25,  1997    
+File        : a9712396
+
+Award Number: 9712396
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $161887             (Estimated)
+Investigator: Paliath Narendran dran@cs.albany.edu  (Principal Investigator current)
+              Deepak Kapur  (Co-Principal Investigator current)
+Sponsor     : SUNY Albany
+	      Office for Sponsored Prgms.
+	      Albany, NY  12222    518/437-4550
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project concerns equational reasoning, with emphasis on  word and
+              unification problems. The investigation comprises  graphs, congruence closure
+              and equational unification, along  with further development of these topics,
+              and combinations  of these topics. The objective is to develop new 
+              decidability and complexity results, and to design and  implement efficient
+              algorithms.  The approach to word  problems will use the rewriting paradigm,
+              concentrating on  procedures and data structures for computing 
+              complete/canonical sets of rewrite rules.  In particular,  the method using
+              SOUR graphs for completing rewrite systems  will be investigated, particularly
+              the way in which SOUR  Graphs can be used to develop procedures for solving the
+               word problem in certain classes of theories.  The first part of the research
+              will be to examine the  procedure in its simplest form, on string rewriting
+              systems.  Once methods are developed to solve the word problem in its  simplest
+              form, those methods will be moved back into pure  equational logic, and finally
+              into full first order  equational logic.  For ground equational theories, the
+              plan is to investigate  techniques for computing congruence closures based on
+              the  rewriting paradigm developed in studying Shostak's  congruence closure
+              method.  Applications to combinations of  decision procedures will be
+              investigated.  The relationship  between the congruence closure method and SOUR
+              graphs will  be investigated and exploited.  In unification, the concentration
+              is on semantic  unification, where some of the function symbols have  semantics
+              associated with them, usually specified in the  form of an equational theory. 
+              The main focus of the  applications is automated reasoning and symbolic 
+              computation.  E-unification problems arising in process  algebra. Knowledge
+              representation and constraint solvers  will also be investigated.  Both
+              theoretical and practical  issues will be studied: (1) on the theoretical side,
+               decidability and complexity issues on various eq uational  unification and
+              disunification problems will be investigated-  --this is a continuation of work
+              done over the past several  years; (2) on the practical side, the goal is to
+              come up  with efficient algorithms along with fast implementations,  making use
+              of heuristics. Implementations will be  incorporated into the Unification
+              Workbench, a library of  unification algorithms.

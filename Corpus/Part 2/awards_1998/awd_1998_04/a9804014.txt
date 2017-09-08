@@ -1,0 +1,44 @@
+Title       : The Design, Definition, and Implementation of Programming Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 24,  1998     
+File        : a9804014
+
+Award Number: 9804014
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $330000             (Estimated)
+Investigator: John C. Reynolds john.reynolds@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804014  Reynolds  The main goal is the design of a purely functional 
+              programming language with a sufficiently refined type  structure to give the
+              programmer explicit control over  storage allocation. The proposed starting
+              point is Benton's  logic LNL, which integrates the computational lambda 
+              calculus of Moggi with a language using linear types. It  should be possible to
+              implement a language based on LNL so  that linear values do not need garbage
+              collection or  reference counts, and so that the user has explicit control 
+              over the choices between linear and nonlinear values, and  between call by
+              value and call by name. Further  possibilities include the ability to "freeze"
+              a linear  structure temporarily (which would prohibit updating while 
+              permitting multiple references), the inclusion of types for  specifying
+              in-place algorithms, and an extension to permit  concurrent processes whose
+              interaction can yield  nondeterminate results. Additional topics that may be 
+              pursued are: the unification and generalization of  approaches to reasoning
+              about side effects, aliasing, and  interference, the modeling of polymorphic
+              types by means of  partial equivalence relations on Scott domains, and the 
+              investigation of the relationship between partial  equivalence relations on
+              domains and information systems.  ***

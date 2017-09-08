@@ -1,0 +1,76 @@
+Title       : Mathematical Sciences: Computational Analysis of Wave Propagation in the
+               Presence of Multiple Scales
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 20,  1993    
+File        : a9304406
+
+Award Number: 9304406
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1993      
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $56500              (Estimated)
+Investigator: Thomas M. Hagstrom hagstrom@math.unm.edu  (Principal Investigator current)
+Sponsor     : University of New Mexico
+	      Sholes Hall
+	      Albuquerque, NM  87131    /   -
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 
+Abstract    :
+              9304406  Hagstrom       The investigator conducts research on the numerical 
+              simulation of nonlinear wave propagation in the presence of  multiple temporal
+              and spatial scales.  The project addresses both  the development, analysis, and
+              implementation of novel numerical  methodologies, and their application to
+              challenging problems in  fluid dynamics.  Multiple scales problems are
+              computationally  difficult because the uniform resolution of the smallest
+              scales  present would lead to a prohibitively large number of degrees of 
+              freedom in the approximate solution.  They are also a  common feature of
+              scientifically and technologically important  fluid flow phenomena. 
+              Mathematically, they are generally  associated with singular perturbations of
+              the governing  equations, and can be analyzed by asymptotic techniques.  The 
+              investigator uses asymptotic analysis in a number of ways to  guide and
+              complement the numerical computations.  Particular  problems to be studied in
+              detail include the generation and  interaction of sound waves with
+              concentrations of vorticity in  slightly compressible flows, the effects of
+              complex reaction and  diffusion mechanisms on flame dynamics, and nonlinear
+              waves in  incompressible fluids in cylindrical geometries.  Slightly 
+              compressible flows have two distinct time scales, the fast scale  being
+              associated with the propagation of sound waves and the slow  with
+              incompressible flow effects.  Understanding the interaction  between the
+              dynamics on these disparate scales is of importance,  for example, in
+              aeroacoustics.  Numerical problems considered  include the construction of
+              accurate radiation boundary  conditions at artificial boundaries for long time
+              computations  and the development of efficient time-stepping procedures.  For 
+              the combustion problems, the investigator experiments with  various high order
+              difference methods for solving the zero Mach  number reacting flow equations. 
+              Using adaptive methods to  capture the thin flame front, he undertakes a
+              detailed study of   various models for the chemical kinetics and transport 
+              coefficients.  For the simulation of cylindrical flows, he has  developed
+              efficient Chebyshev pseudospectral methods for  differential operators in
+              cylindrical and helical coordinates  with coordinate mappings to resolve
+              internal critical layers for  high Reynolds numbers.  One application will be
+              to the  long-standing problem of transition to turbulence in pipes.       The
+              science of wave propagation has a rich history  and provides a unified approach
+              to the analysis of diverse  physical phenomena.  Advanced numerical methods, in
+              concert with  modern computing technology, are a powerful tool for the 
+              comprehensive study of the dynamics of nonlinear waves.  The  computational
+              approach runs into difficulties, however, when  disparate scales are present. 
+              These can be time scales, where  different waves propagate at very different
+              speeds, or spatial  scales, where certain physical quantities vary greatly in 
+              relatively thin layers.  To fully resolve the finest scales  throughout the
+              physical domain is far too taxing for even the  most powerful computers. 
+              Therefore, one must develop specialized  methods, based on a careful
+              mathematical analysis of the solution  structure.  The specific problems
+              considered here display both  multiple time scales (sound wave - vortex
+              interactions) and thin  layers (reaction zones in flames).  They are
+              fundamental problems  from the physical point of view, and also provide a
+              testbed for  new computational techniques.  ***

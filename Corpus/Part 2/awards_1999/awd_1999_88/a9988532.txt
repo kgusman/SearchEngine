@@ -1,0 +1,63 @@
+Title       : Mobility Management in Next Generation Wireless Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 15,  2002     
+File        : a9988532
+
+Award Number: 9988532
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $299977             (Estimated)
+Investigator: Ian F. Akyildiz ian@ee.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Future wireless mobile systems promise universal coverage and require terminals
+              to be capable of seamless roaming between networks, which may be of different
+              types. Next generation mobile terminals will haveto exist in a world of
+              multiple standards, and mobility management 
+procedures (i.e., location
+              registration, paging and handoff) will have to be interoperable across network
+              providers and network backbones as well as geographical regions. 
+
+Location
+              registration, paging and handoff will be investigated, and new protocols will
+              be introduced to solve these problems. From the standpoint of location
+              management, the mobile terminals must register before they enter new systems in
+              order to reserve radio resources. In addition, the signaling formats must be
+              converted and the mobile terminals must be authenticated. A new scheme is
+              proposed, which estimates the user mobility pattern in order to help new
+              protocols and to estimate the signaling costs of the new mobility management
+              procedures. Also, a new intersystem location update scheme is introduced, which
+              reduces the signaling traffic by assigning update distance thresholds based on
+              a per-user profile. Furthermore, the boundary location area is introduced,
+              which enables the MTs to request location update between two different systems.
+              Another problem for future wireless systems is the intersystem paging problem.
+              The search operation may be carried out not only in the system where the mobile
+              terminal last registered, but also in the system the mobile terminal has passed
+              since the last call. A new scheme is proposed that combines and reorders the
+              paging areas in decreasing order of location probabilities, until the delay
+              bound has reached a certain threshold value as a QoS parameter. For handoff
+              management, the radio access system must support intersystem handoffs for
+              mobile terminals with multiple connections that are sending and receiving
+              multimedia traffic with different Quality of Service (QoS) expectations. Radio
+              signal strengths must be measured and compared across different air interfaces
+              and power levels, and signaling procedures must cooperate between the switches
+              of each system. A new intersystem handoff scheme is proposed that uses boundary
+              cells to perform system transformations when mobile terminals begin to handoff
+              into new systems. Finally, a new signaling protocol will be developed to
+              handoff the mobile terminal into the boundary cell, perform the format
+              transformation, and then handoff the mobile terminal into the new system.
+

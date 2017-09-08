@@ -1,0 +1,52 @@
+Title       : Software Implemented Fault Tolerance in Multicomputers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 27,  2000      
+File        : a9630096
+
+Award Number: 9630096
+Award Instr.: Standard Grant                               
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $230003             (Estimated)
+Investigator: Mark G. Karpovsky markkar@engc.bu.edu  (Principal Investigator current)
+              Dimiter R. Avresky  (Co-Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              The main objective of this proposal is to develop an integrated approach for 
+              increasing the dependability of parallel computers. For detection and diagnosis
+               of hardware faults at the local (node) level, this approach will combine
+              off-line  built-in self testing, on-line concurrent checking, and software
+              techniques  implementing path and algorithmic-based checks.  The aim of this
+              proposal is to  develop a systematic method for generating and placing checks
+              into the  implementation of an application. For automating the verification
+              process and  placement of checks in programs, an interactive tool, VERIFY, will
+              be developed.  For estimating the coverage factor provided by these techniques,
+              a software  fault-injection tool will be created.  Efficient and fast
+              reconfiguration  algorithms will be developed for avoiding single and multiple
+              faulty nodes and  links. A user transparent software layer will be created for
+              implementing the  proposed algorithms.  This will be written on top of the
+              existing system software  that residents in every node of parallel computing
+              systems.    The Software Object-Oriented Fault-Injection Tool (SOFIT) will be
+              ported on the  nCUBE and Tandem SeverNet. The recovery time overhead will be
+              estimated in the  presence of single and multiple faults injected by SOFIT into
+              the nodes and links  of the nCUBE and SeverNet when programs are being
+              executed. A dependability  evaluation study will be performed.  The objective
+              of this research is to show  that this integrated approach can be used
+              successfully for improving the  reliability of the nCUBE and SeverNet by an
+              order of magnitude.

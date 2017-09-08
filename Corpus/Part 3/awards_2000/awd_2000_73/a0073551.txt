@@ -1,0 +1,70 @@
+Title       : Predicate-Sensitive Software and Hardware Analysis to Enable Optimization and
+               Speculation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0073551
+
+Award Number: 0073551
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $310000             (Estimated)
+Investigator: Jeanne Ferrante jferrante@ucsd.edu  (Principal Investigator current)
+              Bradley G. Calder  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 2876,9215,HPCC,
+Abstract    :
+              Predicated execution is a feature used in the Explicitly Parallel
+Instruction
+              Computing (EPIC) architecture for achieving the
+instruction level parallelism
+              (ILP) needed to keep increasing future
+processor performance.  The IA-64
+              processor being developed at Intel
+with Hewlett Packard is an example of an
+              EPIC architecture.  An
+advantage of predicated execution is the elimination
+              of
+hard-to-predict branches by combining both paths of a branch into a
+single
+              path, thereby obtaining additional opportunities for ILP.
+However, this
+              merging of several paths into one has disadvantages, as
+it complicates
+              optimizations and scheduling in both software and
+hardware.
+
+This research
+              develops a comprehensive framework for new compiler and
+hardware analysis
+              whose projected impact is to realize the performance
+of predicated execution. 
+              Underlying our framework is the efficient
+maintenance and use of predicate
+              relationships and precise information
+about predicated regions.  This proposal
+              builds on our prior work by
+(1) incorporating critical path and resource
+              constraints into a
+compiler intermediate form for predicated compilation, (2)
+              developing
+hardware structures to allow predicate speculation and
+              out-of-order
+execution, (3) developing software and hardware dynamic
+              predication
+and (4) developing predicate-sensitive compiler
+              optimizations,
+especially those based on value prediction or profiling.
+

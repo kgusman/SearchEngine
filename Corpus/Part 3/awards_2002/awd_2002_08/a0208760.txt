@@ -1,0 +1,72 @@
+Title       : Compiler Schemes for Server-assisted Energy-efficient Mobile Computing on
+               Handheld Devices
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 26,  2002      
+File        : a0208760
+
+Award Number: 0208760
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $249578             (Estimated)
+Investigator: Zhiyuan Li li@cs.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Handheld computing devices with wireless network connections
+ have a great
+              potential to be powerful mobile tools to
+ access information and software
+              resources in the networked
+ world.  Unfortunately, the computing power
+ and
+              connection time of current handheld devices
+ are severely constrained by the
+              short battery life.
+ Moreover, the battery issue also places constraints on
+
+              various design aspects including program memory and secondary
+ storage, CPU,
+              and operating system.
+ 
+ With connection to computing servers through
+              wireless networks,
+ there exist many opportunities for handheld devices to
+
+              save battery by carefully utilizing the power of the servers.
+ This project
+              explores compiler and run-time techniques
+ to assist the partitioning of
+              application programs into
+ server tasks and client tasks.  The optimal
+              partition
+ depends on available network bandwidth and on the nature
+ of
+              applications.  In order for handheld devices to optimally
+ exploit servers for
+              a wide range of applications, careful
+ tradeoff is made between energy
+              consumed by network communication
+ versus computation.
+ 
+ The proposed
+              compiler techniques and run-time support
+ include compile-time and run-time
+              analysis of work and
+ communication requirement, exploitation
+ of low-power
+              networking states on handhelds, run-time
+ decision-making, and a light-weight
+              software coherence mechanism.

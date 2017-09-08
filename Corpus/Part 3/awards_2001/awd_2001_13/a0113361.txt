@@ -1,0 +1,117 @@
+Title       : ITR/SI: On Robust and Secure Mobile Ad Hoc and Sensor Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 8,  2002       
+File        : a0113361
+
+Award Number: 0113361
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Dharma P. Agrawal dpa@ececs.uc.edu  (Principal Investigator current)
+Sponsor     : U of Cincinnati
+	      Mail Location 627
+	      Cincinnati, OH  45221    513/556-6000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1667,9216,HPCC,
+Abstract    :
+              A Mobile Ad hoc NETwork (MANET) is a collection of mobile autonomous system of
+              nodes connected
+by wireless links with multi-hop communication and no
+              underlying infrastructure. Research in the field of
+MANET is receiving
+              unprecedented attention due to their profound impact on human life. The
+              most
+important problems in MANET are Routing, Quality of Service, Security,
+              Power management and Traffic
+and Mobility modeling and we plan to address many
+              of these issues.
+In a MANET, when a mobile node has a packet to send, it first
+              consults its route cache to determine
+whether it already has a route to
+              destination, else it initiates route discovery by broadcasting. Once a
+              route
+is established, its continuation and maintenance is of prime concern for
+              efficient communication. A route
+could be broken by mobility and is determined
+              by route error packets. Rather than employing a
+conventional way of global
+              re-flooding for a new route search, we address this by Local Route
+              Repair
+(LLR) approach and achieve re-connectivity with minimum overhead.
+              Further work is needed to extend
+our scheme by increasing the length of
+              patch-up part. We expect this to yield a higher amount of savings
+in terms of
+              routing overhead and delay when unidirectional links are present. We also plan
+              to define an
+analytical framework for different protocols and determine their
+              performance.
+The need for scheduling in a MANET arises primarily due to
+              limited availability of resources. We plan to
+study the impact of packet level
+              scheduling strategies that transmit packets based on a metric derived
+from
+              characteristics of the data being transmitted, like the length of the packets
+              or the length of the route
+being traversed by the packets or even the priority
+              of the packets. We plan to test other routing schemes
+and define and formulate
+              an analytical model for packet queue at each node so that we could
+              determine
+end-to-end delay of different types of packets.
+Effective operation
+              of MANETs is dependent on maintaining appropriate routing information in
+              a
+distributed fashion. Confidentiality of routing information is important so
+              that not only the payload data
+but also the routing message headers carrying,
+              the location information of the mobile nodes can be
+exchanged securely. We
+              have defined an authentication scheme that can prevent the external attacks.
+              We
+minimize substantial overhead by performing mutual authentication using
+              challenge-response mechanism
+along the reply path only when the route reply is
+              received. We plan to propose a distributed intrusion
+detection system to
+              handle them. We will build these systems based on traffic profiles that we
+              would
+obtain after extensive study of the traffic patterns. We are planning to
+              perform a detailed simulation to
+obtain metrics that would help us in
+              differentiating valid and malicious data.
+Wireless sensor networks can be
+              easily deployed without any installation costs or pre-planned
+organization. To
+              increase fault tolerance, thousands of these sensors might be employed. The
+              traditional
+routing protocols defined for wireless ad hoc network do not scale
+              well for sensor networks as they are
+data centric and application-specific
+              unlike traditional networks. Most protocols for sensor network
+collect data
+              periodically from environment. We feel that there exists a need for networks
+              geared towards
+responding immediately to changes in the sensed attributes.
+              Very recently, we have proposed a protocol
+called TEEN for such networks. We
+              are also looking at ways to combine the best features of both
+proactive and
+              reactive protocols to form a hybrid network. We also believe that sensor
+              networks should
+provide the end user with the ability to control the three-way
+              trade-off between energy efficiency,
+accuracy and response time dynamically.
+              In brief, the proposal research will have a long-term impact on
+the robustness
+              and security of MANETs and sensor networks.

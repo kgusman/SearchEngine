@@ -1,0 +1,77 @@
+Title       : Admission Control in High Speed Multimedia Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 18,  1997 
+File        : a9706148
+
+Award Number: 9706148
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $200146             (Estimated)
+Investigator: Ioannis Paschalidis yannisp@bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              In recent years, technological advances and bandwidth availability have  brought
+              about a web of new multimedia and real-time applications, such as  internet
+              telephony, interactive TV, video-on-demand, and  videoconferencing. These
+              applications have important uses in a wide range of  activities from education
+              and health care to entertainment.  Their full  deployment will clearly have a
+              huge impact on the quality of our lives and  the society as a whole.    Such
+              applications, however, are very bandwidth demanding, very sensitive to 
+              congestion, and require real-time and reliable communication.  Although 
+              appropriate protocols, such as the Asynchronous Transfer Mode (ATM)  protocol
+              and an enhanced version of Internet's TCP/IP protocol (with RSVP),  already
+              exist, Quality of Service (QoS) provisioning remains one of the  fundamental
+              open problems that need to be addressed before real-time  applications can be
+              reliably supported.  If congestion is not an option,  restricting the number of
+              users that are allowed in the network becomes an  extremely useful tool in
+              guaranteeing QoS. The central goal of this research  is to devise such an
+              admission control procedure and test its performance in  practice.    To
+              provide QoS guarantees the network should prevent congestion which causes 
+              packet losses due to buffer overflows and excessive delays.  A worst case 
+              based admission control algorithm (which allocates to calls bandwidth  equal to
+              their peak rate) leads to significant underutilization of the network 
+              resources, since traffic is typically bursty, i.e., the peak rate is not 
+              sustained for long. To achieve more efficient use of the resources the 
+              proposed approach will permit some congestion phenomena which will be 
+              occurring infrequently enough to allow for the provision of statistical  QoS
+              guarantees. More specifically, it is desired to operate the network in a 
+              regime where loss probabilities and probabilities of excessive delays are 
+              particularly small (e.g., on the order of 10^{-6}). Real-time app lications 
+              can tolerate such small frequencies of congestion phenomena.    This research
+              will draw upon methods developed in applied probability,  optimization, and
+              optimal control theory, and will use, extending whenever  necessary, many of
+              the ideas developed recently by the PI. Calculating  congestion probabilities
+              for non-trivial traffic models is particularly hard.  The proposed work will
+              therefore resort to asymptotic results using large  deviations theory (a
+              subfield of applied probability) as the main analytical  tool.     Issues that
+              are considered as prerequisites for successful admission control  will be first
+              resolved. Among them the proposed research will address:   -Traffic Modeling.  
+                The aim is to propose models that capture the statistical properties of the
+              traffic which are relevant to admission control.   -Performance analysis.     
+              The goal is to asymptotically estimate congestion probabilities in a    
+              multiclass and multihop network environment.     The final product of the
+              proposed work will be an admission control algorithm  that provides statistical
+              QoS guarantees to admitted calls and possesses the  following characteristics: 
+              -Support for multiple service classes.      Applications will be bundled in
+              service classes based on the statistical     character of the traffic they
+              generate and on their QoS requirements.  -Full utilization of available
+              bandwidth.       The controller will be flexible enough to investigate
+              different bandwidth     allocation strategies among service classes and deny
+              admission only when     there is no feasible allocation that guarantees QoS to
+              all connected calls.   -End-to-End QoS guarantees.     Real-time
+              implementation.    More information about this project can be obtained from the
+              Web at   http://ionia.bu.edu/

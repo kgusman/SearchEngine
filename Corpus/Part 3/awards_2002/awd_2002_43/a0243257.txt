@@ -1,0 +1,43 @@
+Title       : Generative and Discriminative Methods for Gene Finding and Functional Annotation
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0243257
+
+Award Number: 0243257
+Award Instr.: Standard Grant                               
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 1,  2002  
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $299550             (Estimated)
+Investigator: William S. Noble   (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              The tasks accomplished by this project are divided into two phases corresponding
+              to the two tasks of gene prediction and functional annotation.  In the first
+              phase, a gene-finding system is developed and applied.  This system is designed
+              to be scalable and extensible with respect to the gene features it models, the
+              machine learning algorithms it employs, and the range of experimental data from
+              which it learns.  This project first validates the system by applying it to the
+              complete C.elegans genome, and then retrains the system for the more difficult
+              task of recognizing genes in human DNA.  The second phase of this project
+              consists of two parts.  First, the software framework used for the gene finding
+              system from phase one is generalized to model families of related proteins. 
+              Second, in order to learn from non-sequential data, the project develops
+              functional classification techniques using a discriminative learning method
+              called support vector machines (SVM's).  The statistics calculated by the
+              sequence-based modeling system functions as one set of features used by the SVM
+              system.  Additional features will come from DNA microarray experiments, the
+              upstream promoter region of each gene, phylogenetic profiles and similarity
+              scores to known protein families.

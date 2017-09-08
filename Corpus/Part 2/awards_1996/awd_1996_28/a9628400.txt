@@ -1,0 +1,51 @@
+Title       : Development of Reliable Distributed Protocols
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 12,  1996    
+File        : a9628400
+
+Award Number: 9628400
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $130654             (Estimated)
+Investigator: Moshe Y. Vardi vardi@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              This project focuses on the verification aspect in the  development of reliable,
+              fault-tolerant, distributed  protocols.  High-performance computing technology,
+              such as distributed real-  time systems, high-performance memory systems,
+              wide-band I/O  systems,  modular operating systems, high-speed network 
+              interfaces, commodity workstation clusters, and the like, is  reliant on an
+              underlying layer of distributed software (often  implemented in hardware),
+              which consists of suites of protocols  for check-pointing, communication,
+              coordination, data  distribution, recovery, and synchronization of distributed 
+              components.  These protocols provide a critical software layer  for
+              high-performance computing systems. Having such a  standardized layer is
+              crucial to interoperability,  portability,scalability, and reusability of
+              existing software.  Unfortunately, developing reliable software for distributed
+               environments is a notoriously difficult task.  Here reliability  refers  to
+              pre-committed real-time performance, dynamic  reconfigurability, security,
+              robustness, and high assurance.  The  difficulty in producing reliable
+              distributed software is twofold.  First, designing reliable distributed
+              software is extremely  challenging.  Not only does the software have to be free
+              from  programming errors, but it also has to be resilient against  hardware and
+              software faults.  Second, because of the  nondeterministic behavior of
+              distributed environment, it is very  difficult to verify that the software
+              meets its desired  specification.   The focus of this project is on the study
+              of  algorithms and data structures applicable to the verification of  programs.
+               It draws upon ideas and results from logic, graph  theory, and automata
+              theory, combining both theoretical and  experimental aspects.  ***

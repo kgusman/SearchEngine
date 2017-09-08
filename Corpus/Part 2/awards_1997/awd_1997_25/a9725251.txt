@@ -1,0 +1,72 @@
+Title       : Predictive, Sensor-Assisted Wireless Multimedia Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 12,  1999       
+File        : a9725251
+
+Award Number: 9725251
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $892465             (Estimated)
+Investigator: Stephen B. Wicker wicker@ee.cornell.edu  (Principal Investigator current)
+              Terrence L. Fine  (Co-Principal Investigator current)
+              Joseph Y. Halpern  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              ABSTRACT    NCR-9725251  Stephen Wicker, Terrence Fine, and Joseph Halpern 
+              Cornell University  Predictive, Sensor-Assisted Wireless Multimedia Systems   
+              The PCS systems of the future will provide a variety of services to mobile
+              users, including voice, high speed data, video, e-mail, teleconferencing, and
+              the transfer of medical Images.  The intelligent PCS network will be required
+              to provide channel access with a minimum of call blocking, negotiate quality of
+              service, allocate resources, and track users throughout their sessions.  It is
+              proposed to develop a series of expert systems that will optimize random
+              access, resource allocation, and mobility management protocols.  These expert
+              systems will use a number of technologies and techniques from the fields of
+              neural networks, artificial intelligence, and knowledge representation.   
+              There are three levels of agents in the proposed intelligent PCS network:
+              mobile user, Base Station Controller (BSC), and the Mobile Switching Center
+              (MSC). It is assumed that the PCS system is cellular, with several BSC's
+              interacting with a single MSC.  It is proposed to determine a means for
+              representing and exploiting the information available to each type of agent.   
+              At the physical layer, in-band transmitted power levels will be tracked by a
+              grid of low-cost sensors (radiometers).  The sensors will provide power
+              measurements as a function of time and location.  In the proposal it is shown
+              that this information can be used in the development of a BSC-based intelligent
+              ALOHA multiple access scheme.  Neural networks are described that can
+              efficiently use the sensor data to estimate the number of users involved in
+              individual collision events.  This information is used in turn to estimate the
+              number of backlogged users and to select an optimal backoff algorithm, thus
+              maximizing Aloha channel throughput.    The sensor grid can also be used by the
+              BSC and MSC to support resource allocation, handoffs, and the tracking of
+              scheduled user transmissions.  In the proposed  research program, sensor-based
+              expert systems will be developed for three distinct phases of PCS operation:
+              system planning and layout, multiple access, and adaptive resource allocation. 
+                Higher level information can be acquired and used at the BSC's and the MSC. 
+              The BSC's will obtain information regarding the local users' bandwidth and
+              quality of service requirements as a function of time. The BSC's will also
+              track local channel conditions, and develop a detailed propagation model for
+              the cell.  The model will be used to as an aid to power control within the
+              cell.  The BSC is expected to act as an autonomous agent in local resource
+              allocation and power control.      The MSC will be responsible for allocating
+              resources between cells.  An allocation protocol will be developed to move
+              resources between cells in response to traffic information acquired by the
+              BSC's and passed to the MSC.  The BSC's will also pass propagation and user
+              tracking information to the MSC.  The MSC will use this information to create a
+              global propagation and user tracking model that will support the handoff
+              decision process.  An effort will be made to develop usage tendency profiles
+              for individual users.  The collection of user profiles will be used to develop
+              models for global resource allocation.

@@ -1,0 +1,57 @@
+Title       : Theory of Quantization and Synchronization with Timing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 27,  2001     
+File        : a9815006
+
+Award Number: 9815006
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $340155             (Estimated)
+Investigator: David L. Neuhoff neuhoff@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              Though the cost of storing and transmitting information continues to decrease,
+              such reductions seem only to stimulate demand for information and,
+              consequently, for further developments in data compression.  The first goal of
+              this research is to advance the theory and practice of quantization as a lossy
+              data compression methodology, for sources such as speech, images, video and
+              music.  Synchronization is a key issue in data compression systems that operate
+              in environments where decoding may begin at an arbitrary point in the
+              compressed stream of bits, or where the compressed stream may be corrupted by
+              insertion, deletion or substitution errors.  The second goal of this research
+              is to develop a theory of data synchronization
+that takes into account the
+              users need to know the time indices of the data, as well as its values.
+
+The
+              quantization theory to be developed will increase the qualitative and
+              quantitative understanding of how the performance of lossy compression systems
+              relates to their complexity, with the goal of enabling better systems to be
+              designed.  The methodology is largely, but not exclusively, based on high
+              resolution theory techniques and concepts.  The focus is primarily on vector
+              quantization, both as a practical technique and as a paradigm for studying
+              fundamental issues.
+Though synchronization methods have been much developed,
+              there is no theory for the analysis and design of synchronization codes that,
+              in addition to permitting the decoder to synchronize with the encoder, enable
+              it to produce estimates of the time indices of the data it decodes.  This
+              research will develop such a theory.  It will focus on optimizing the tradeoffs
+              among coding efficiency (rate), resynchronization delay, and the production of
+              timing information.  The application of such methods to coding for channels
+              with insertion, deletion and substitution errors will also be investigated.
+
+

@@ -1,0 +1,52 @@
+Title       : Formal Methods in Concurrent and Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 10,  1996 
+File        : a9623229
+
+Award Number: 9623229
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $107127             (Estimated)
+Investigator: A. Prasad Sistla sistla@cs.uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              With the widespread use of distributed and concurrent  systems and with the
+              increase in the complexity of software  for such systems, it becomes important
+              to develop various  methods for ensuring the quality of concurrent software 
+              systems. This project explores various methods for automated  and
+              semi-automated analysis and verification of concurrent  and distributed
+              systems. In particular, the research seeks  methods based on temporal logic
+              model checking for  verification of concurrent systems.    Although model
+              checking has been applied fairly successfully  for verification of quite a few
+              real-life systems, its  applicability to a wider class of practical systems has
+              been  hampered by the state explosion problem (i.e. the enormous  increase in
+              the size of the state space). In this research,  symmetry based techniques are
+              used to overcome the state  explosion problem. In particular, symmetry is
+              exploited for  verification of liveness properties of real-life concurrent  and
+              distributed software systems. The effectiveness of  symmetry-based methods for
+              model checking requires efficient  solutions to the orbit problem. A solution
+              to the orbit  requires checking if two given global states are equivalent 
+              under the symmetry. An efficient solution to this problem  facilitates the
+              construction of the quotient structure by  collapsing each set of equivalent
+              states into a single  state. The project investigates various efficient
+              algorithms  for the orbit problem for many of the symmetries that occur  in
+              practical systems. It is implementing an on-line model  checking system that
+              exploits symmetry by simultaneously  constructing reduced global state graph
+              (i.e. the quotient  structure) and exploring the partially generated quotient 
+              structure for existence of certain fair strongly connected  components
+              containing an incorrect computation.  ***

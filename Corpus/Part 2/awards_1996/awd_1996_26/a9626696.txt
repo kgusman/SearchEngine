@@ -1,0 +1,61 @@
+Title       : Numerical Analysis Problems in Radiotherapy Planning
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 30,  1996    
+File        : a9626696
+
+Award Number: 9626696
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Christoph Borgers christoph.borgers@tufts.edu  (Principal Investigator current)
+Sponsor     : Tufts University
+	      Ballou Hall
+	      Medford, MA  02155    617/627-3417
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,OTHR,
+Abstract    :
+              Borgers  9626696       The investigator studies grid-based computational methods
+               for the simulation of steady particle beams penetrating passively  scattering
+              backgrounds.  Such beams are of interest in several  fields; the application
+              motivating the parameter choices in this  project is radiation therapy using
+              electron beams.  Mathematically, the problem is modeled by a linear Boltzmann 
+              equation with inflow boundary conditions.  The linear Boltzmann  equation
+              resembles a convection-diffusion equation in  six-dimensional position/velocity
+              space.  Particles are convected,  while their direction vector undergoes a
+              process resembling  diffusion on the unit sphere, and their energy undergoes a 
+              process resembling convection-diffusion.  The boundary data in a  beam problem
+              have singularities corresponding to sharp beam edges  and monodirectionality of
+              incident beams.  The first half of the  project concerns accurate ways of
+              dealing with these  singularities.  Difference schemes designed for convection 
+              problems with discontinuous solutions are used to resolve beam  edges. 
+              Explicit-implicit schemes with implicit treatment of the  directional diffusion
+              are used to deal with the  monodirectionality of incident beams.  The second
+              half of the  project concerns the treatment plan optimization problem in 
+              radiation therapy.  Specifically, the investigator studies the  application of
+              methods using second derivatives and of multilevel  methods.  At its present
+              stage, the project focuses on model  problems in two space dimensions with one
+              additional independent  variable denoting particle direction.      
+              Computational techniques are extensively used for radiation  therapy treatment
+              planning in current clinical practice.  The  numerical methods underlying
+              current treatment planning systems  have been developed by the medical physics
+              community; the  radiotherapy planning problem has received little attention
+              from  mathematicians and numerical analysts.  However, numerical  techniques
+              developed for particle b eam problems by the nuclear  engineering community,
+              and techniques developed in different  contexts by numerical analysts, have a
+              strong potential of being  helpful in the development of more accurate
+              treatment planning  algorithms.  In the judgement of medical physicists,
+              advances in  the accuracy of treatment planning algorithms may translate into 
+              greater success in the radiation treatment of cancer.  The  investigator, whose
+              background is in numerical analysis, studies  the application of approaches
+              developed by numerical analysts to  the radiotherapy planning problem.

@@ -1,0 +1,62 @@
+Title       : SBIR Phase II: Integration and Distribution of Low-Jitter On-Chip Clock for
+               High-Speed Analog-to-Digital Converters
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : January 29,  2003   
+File        : a9983361
+
+Award Number: 9983361
+Award Instr.: Standard Grant                               
+Prgm Manager: Winslow L. Sargeant                     
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 1,  2000      
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Deepnarayan Gupta gupta@hypres.com  (Principal Investigator current)
+Sponsor     : HYPRES, Inc.
+	      175 Clearbrook Road
+	      Elmsford, NY  10523    914/592-1190
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9218,HPCC,
+Abstract    :
+              This Small Business Innovation Research Phase II project aims to integrate two
+              superconducting technologies (rapid-single-flux-quantum (RSFQ) and
+              long-Josephson junction (LJJ))  to build a wide-bandwidth digitizer with
+              on-chip clocking. The performance of a Flash analog-to-digital converter (ADC)
+              can be enhanced by replacing the external high-frequency clock generator with
+              an on-chip clock with very low timing jitter. In Phase I, we demonstrated an
+              on-chip 10-50 GHz RSFQ clock source using an LJJ resonator with a quality
+              factor of 106. We also built a clock selector circuit that allows the user to
+              select different clock frequencies. We also implemented ballistic transport of
+              SFQ pulses on impedance-matched striplines. In Phase II, we will integrate the
+              high-quality LJJ oscillator along with associated circuitry with a Flash ADC
+              through a hybrid stripline/JTL (Josephson transmission line) clock distribution
+              network. A phase-locked loop (PLL) will be built to synchronize the LJJ
+              oscillator with an external stable low-frequency reference to ensure long-term
+              stability. The LJJ oscillator together with the PLL will constitute a self
+              contained clock module capable of generating 10-100 GHz SFQ clock with
+              femtosecond time jitter. This universal clock module can be used in almost all
+              future superconducting electronic circuits and systems.
+
+ A transient
+              digitizer instrument capable of sampling rates above 10 GSamples/s is not
+              commercially available today, in spite of a growing demand in fields such as
+              inertial confinement fusion and high-energy physics. HYPRES is developing such
+              an instrument focusing on the $630M/year market for digitizer instruments.
+              Elimination of expensive multi-GHz external clock generators will simplify the
+              digitizer design, lower power consumption, simplify packaging and reduce its
+              cost. Other applications of a wideband ADC include communication signal
+              processors and microscan receivers. A by-product of the Phase II work will be a
+              self-contained multi-GHz clock module that can be used as on-chip clock for a
+              variety of superconducting circuits, including processors for a petaflops-scale
+              supercomputer currently being developed. The LJJ oscillator coupled with the
+              fluxon sender circuit, developed in Phase I, can be used for building
+              instantaneous clock recovery and data re-timing circuits for handling
+              burst-mode data in data communication networks.
+

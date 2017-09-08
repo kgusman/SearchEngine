@@ -1,0 +1,52 @@
+Title       : Data Embedding, the Method of Types, and Universal Receivers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 21,  2000 
+File        : a0093859
+
+Award Number: 0093859
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $47161              (Estimated)
+Investigator: Jerry D. Gibson gibson@seas.smu.edu  (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,9237,HPCC,
+Abstract    :
+              The field of information hiding includes steganography, where a message is
+              concealed in another data stream, and watermarking, where ownership data is
+              included in a digital object to be protected. A third field of information
+              hiding is the field of data embedding, wherein additional information is
+              incorporated in the transmitted data stream by using a key and distorting
+              (slightly) the original object. The embedded information cannot be
+              reconstructed without the key. We propose an entirely new approach to data
+              embedding based upon the method of types and universal receiver design. In our
+              approach, a new data sequence is embedded in the original data stream using the
+              method of types, and the embedded data is extracted using a type-based
+              universal receiver. The choice of type and rate for the embedded data is based
+              upon an analysis of portions of the original data stream. The universal
+              receiver learns the type from the received data alone, and hence, there is no
+              side information as in previous data embedding techniques. The embedding
+              process and the receiver are both data adaptive, so the original data stream
+              can be reconstructed without error.
+
+We investigate the fundamental limits of
+              this approach to data embedding by analyzing the characteristics of the
+              original data stream that facilitate data embedding, by studying which
+              techniques allow the highest data rates to be embedded, and by examining the
+              tradeoffs between embedded data rate and errors in the embedded data. This
+              approach to data embedding offers the possibility of expanding the delivered
+              data rate of many existing telecommunications links, both wired and wireless,
+              without changing allocated bandwidths.
+

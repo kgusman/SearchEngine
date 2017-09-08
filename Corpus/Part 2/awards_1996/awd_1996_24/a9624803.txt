@@ -1,0 +1,45 @@
+Title       : CAREER: Sparks: Coherence as an Abstract Type
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 8,  2000   
+File        : a9624803
+
+Award Number: 9624803
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1996     
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Peter J. Keleher keleher@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,2891,9215,HPCC,
+Abstract    :
+              Software distributed shared memory (DSM) systems provide the  abstraction of
+              shared memory to networks of workstations and  distributed memory machines,
+              such as the Paragon, CM-5, or SP-2.  Unfortunately, the latencies for global
+              operations in either  environment are several orders of magnitude more
+              expensive than  on tightly-coupled multiprocessors.  The result is that 
+              current DSMs perform well for only a restricted class of  applications.  The
+              Sparks project is designed to address this  restriction by providing a protocol
+              construction library that  will allow DSM performance to be improved to within
+              a few percent  of tightly-coupled multiprocessors.  Sparks' abstractions allow 
+              the design space of high-level synchronization operations to be  explored
+              cleanly and systematically, rather than in an ad hoc  fashion.  The emphasis is
+              more on creating and investigating the  abstractions that make a broad variety
+              of optimizations possible,  rather than on the individual optimizations
+              themselves.  However,  the performance gains allowed by the synchronization
+              types  created via the Sparks library will be thoroughly quantified. The 
+              Sparks interface will be implemented in CVM, a new distributed  shared memory
+              system.  In addition to providing support services  to Sparks, CVM implements
+              novel coherence protocols and multi-  threading support.  ***

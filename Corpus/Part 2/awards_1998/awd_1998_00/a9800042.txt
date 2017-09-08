@@ -1,0 +1,58 @@
+Title       : Lower Bounds in Parallel Complexity
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 14,  2003  
+File        : a9800042
+
+Award Number: 9800042
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1998       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $216963             (Estimated)
+Investigator: Ketan Mulmuley mulmuley@cs.uchicago.edu  (Principal Investigator current)
+Sponsor     : University of Chicago
+	      5801 South Ellis Avenue
+	      Chicago, IL  606371404    773/702-8602
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              One of the most fundamental problems in theoretical computer  science, perhaps
+              next in importance to only the P vs. NP  problem, is the P vs. NC problem. 
+              Earlier work by the PI  has shown that many important combinatorial
+              optimization  problems such as mincost flow and maxflow do not have fast 
+              parallel algorithms in a PRAM model without bit operations;  this is like the
+              usual PRAM model, the main difference being  that the instruction set of the
+              processors does not contain  any bit operations.  Since the maxflow and
+              mincost-flow  problems are P-complete, they do not have fast parallel 
+              algorithms even in the unrestricted PRAM model assuming P  NC.  The
+              significance of the result was in the fact that  this could be proved
+              unconditionally, i.e., without assuming  P  NC, in a model that is natural and
+              realistic for the  problems under consideration.  In fact, the PRAM model 
+              without bit operations has been widely used in practice in  the design of
+              parallel algorithms for a large number of  algebraic and weighted combinatorial
+              optimization problems.  These include fast parallel algorithms for solving
+              linear  systems, and for minimum-weight-spanning trees, shortest  paths, global
+              mincuts in weighted undirected graphs,  blocking flows and max flows,
+              approximate roots of  polynomials, and several problems in computational
+              geometry.  Thus, our lower bound provided a concrete support for the  belief
+              that P-completeness implies high parallel complexity,  and for the  P   NC
+              conjecture itself, by proving its weaker implications  in a restricted, but
+              realistic parallel model of  computation.    This project extends these
+              techniques to investigate  parallel complexity of several other problems that
+              are not  known to be, or expected to be, P-complete, and  consequently, whose
+              parallel complexity is not well-  understood at present.  These include
+              problems from several  different areas: network flows, matroidal optimization, 
+              computational geometry, numerical computation, approximate  optimization, and
+              so fo rth.  Investigating parallel  complexity of these problems in a unified
+              manner is of  considerable practical as well as theoretical significance  in
+              the design and analysis of parallel algorithms.    The project includes further
+              applications of deep techniques  from algebraic to questions of lower bounds in
+              complexity  theory.

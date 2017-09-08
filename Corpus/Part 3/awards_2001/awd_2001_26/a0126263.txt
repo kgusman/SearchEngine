@@ -1,0 +1,91 @@
+Title       : Advances in Modern Performance Analysis: A New Approach
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 18,  2002 
+File        : a0126263
+
+Award Number: 0126263
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $230000             (Estimated)
+Investigator: Khosrow Sohraby sohrabyk@umkc.edu  (Principal Investigator current)
+Sponsor     : U of Missouri Kansas City
+	      5100 Rockhill Road
+	      Kansas City, MO  641102446    816/235-1303
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              The future high-speed networks are expected to support a variety of services
+              such as data,
+voice, image, and video with diverse traffic flow
+              characteristics and Quality-of-Service (QoS)
+requirements. Developing a
+              framework for the design, control and management of wide
+area packet networks
+              which can effciently support such QoS requirements is a
+              fundamental
+challenge.
+
+Conventional frameworks for the teletraffic analysis
+              of networks and QoS guarantees are
+either deterministic or probabilistic. In
+              the deterministic approach, the worst-case traffic
+envelopes are used. This
+              most likely will lead to conservative resource allocation policies
+and
+              inefficient usage of the network resources. In the standard probabilistic
+              frameworks,
+the traffic is usually modeled as a variant of Poisson process,
+              e.g., MMPP, MAP, etc. Such
+models are amenable to traditional teletraffic
+              analysis but only capture simple and limited
+correlation structures in the
+              data.
+
+The researchers propose to significantly expand the analytical
+              methodology in solving complex teletraffic problems arising in modern computer
+              and communications networks. Their approach
+which is rooted in classical
+              ballot theorem handles a large class of arrival processes including
+the
+              standard Markovian processes, general periodic processes, processes described
+              by
+time-series (auto-regressive and moving average), or even general processes
+              described by the
+joint distribution of number of arrivals in equally-spaced
+              non-overlapping discrete intervals.
+Special attention will be paid in deriving
+              algorithmic solutions which are numerically robust
+and efficient even when the
+              system utilization is high.
+
+The researchers proposed approach is unifying,
+              it avoids root-findings, and unlike the matrix analytical approach or recently
+              introduced state-space spectral decomposition method, it does not
+involve
+              potentially expensive iterations. Further, it is transform-free and may provide
+              a
+simple form of solution amenable for further analytical studies such as tail
+              behavior or
+asymptotic analysis.
+
+The researchers general arrivals processes
+              could be used for the end-to-end performance analysis once the departure
+              process from a network node is appropriately approximated or
+              probabilistically
+bounded. Since they are not limited to traditional Markovian
+              models, such an approach
+appears to be viable.
+
+The researchers  propose to
+              implement our general algorithms and make them available as a scientific
+              package to the research community.

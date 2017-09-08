@@ -1,0 +1,98 @@
+Title       : Digital Representation of Structural Response for the Reliability Assessment of
+               Complex Systems
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : August 9,  2002     
+File        : a0218594
+
+Award Number: 0218594
+Award Instr.: Standard Grant                               
+Prgm Manager: Perumalsamy N. Balaguru                 
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $239929             (Estimated)
+Investigator: Michel Ghosn ghosn@ce.ccny.cuny.edu  (Principal Investigator current)
+              Gene H. Golub  (Co-Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/650-5418
+
+NSF Program : 1635      INFRASTRUCT MAT & STRUCT MECHA
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 1057,CVIS,
+Abstract    :
+              
+DIGITAL REPRESENTATION OF STRUCTURAL RESPONSE 
+FOR 
+THE RELIABILITY
+              ASSESSMENT OF COMPLEX SYSTEMS
+
+ABSTRACT
+
+Current research efforts in
+              structural engineering are geared toward the development of performance based
+              design and safety evaluation criteria that take into consideration the various
+              uncertainties in estimating system behavior and future loading conditions. 
+              System reliability methods provide the means to address these important points.
+               However, most existing analytical reliability techniques have one or more
+              limitations in their ablity to: a) accurately model structural behavior at high
+              loads, b) consider different performance criteria, c) identify multiple equally
+              important failure modes, and d) account for load combinations. The application
+              of simulation techniques in conjunction with general purpose finite element
+              packages provides methods with a strong potential for resolving many of these
+              outstanding issues.  The purpose of this research is then to develop a
+              simulation-based method for the reliability assessment of structural systems,
+              which would realistically model their behavior at high loads, be implementable
+              in practical situations, and provide accurate solutions for complex structures
+              using efficient algorithms. 
+
+The first tool required to perform a
+              simulation-based reliability analysis of a structural system consists of an
+              accurate and efficient nonlinear analysis program capable of modeling the
+              behavior of the structure for a specific (deterministic) set of conditions. The
+              second tool is a systematic search algorithm that can identify
+              probabilistically dominant failure modes accounting for the randomness of loads
+              and material properties. Closed-form solutions for the response of complex
+              nonlinear structures are difficult to obtain and only a digital representation
+              of their behavior is possible through the application of the finite element
+              method. Point estimates of the response under different load intensities and
+              material properties are usually obtained from variations on the Newton-Raphson
+              algorithm.  These point estimates may often misidentify the ultimate capacity
+              and may not accurately model the softening part of the loading curve due to the
+              accumulation of numerical errors and because of the properties of the stiffness
+              matrix in these ranges. In this study, the Singular Value Decomposition, SVD,
+              method in combination with the Lanczos algorithm will be used to accurately
+              trace the response of a structure at high loads. The efficiency, robustness,
+              and stability of the proposed method will be demonstrated.  
+
+Due to the
+              random nature of the problem, the safety assessment of a structure can only be
+              established using reliability techniques. Since the behavior of a structure
+              with several failure modes is best represented in digital form, modern
+              heuristic techniques may provide the most appropriate tools to assess its
+              reliability.  In particular, Genetic Algorithms, GA, have been shown to provide
+              robust techniques for the reliability analysis of structures with multiple
+              failure modes but may be inefficient due to the shotgun search strategy that
+              they are based upon. To improve the efficiency of GA, a filtration operator
+              will be introduced based on the principle of genetic elitism. The modified GA
+              will provide an efficient method to estimate the reliability of complex
+              structures, as well as identify its dominant failure modes and controlling
+              random variables.  
+
+This project will introduce advanced tools of
+              computational mathematics into the field of structural mechanics. The study
+              will stress the application of the proposed methods for the simulation based
+              design of civil engineering structures although they will be applicable to
+              fields as varied as electronic circuit design and
+              Micro-Electro-Mechanical-Systems.  Training of students in the subjects of
+              matrix computational methods, artificial intelligence, and statistical
+              computing will be a primary goal.  Such training will provide future
+              generations of structural engineers with the well-rounded education needed to
+              make decisions and provide solutions to real life complex problems under
+              uncertainty. 
+

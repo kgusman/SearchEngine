@@ -1,0 +1,56 @@
+Title       : SBIR Phase II: Computation of Three-Dimensional Travel Times for Seismic
+               Prospecting via the Fast Marching Method
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : April 5,  2000      
+File        : a9901828
+
+Award Number: 9901828
+Award Instr.: Standard Grant                               
+Prgm Manager: T. James Rudd                           
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1999 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $392225             (Estimated)
+Investigator: Alexander M. Popovici mihai@3dgeo.com                         www.3dgeo.com  (Principal Investigator current)
+Sponsor     : 3DGeo Development, Inc
+	      465 Fairchild Drive, Suite 226
+	      Mountain View, CA  940432251    415/969-3886
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0104000   Information Systems                     
+              0108000   Software Development                    
+Program Ref : 1271,9139,HPCC,
+Abstract    :
+                   This Small Business Innovation Research (SBIR) Phase II project will
+              commercialize innovative and significant recent advances in the applications of
+              partial differential equations, viscosity theory of Hamilton-Jacobi equations,
+              and hyperbolic conservation laws to problems of imaging seismic data volumes
+              used in oil and gas exploration. In order to perform contemporary reservoir
+              development and exploration, fast and accurate three-dimensional prestack depth
+              migration is required, which itself requires successful parameterization of
+              wave propagation phenomena with asymptotic Green's functions commonly generated
+              by raytracing or finite difference traveltimes.  During Phase I, the firm
+              analyzed the performance and capabilities of fast Marching Methods (FMM) for
+              calculating the required asymptotic Green's functions.  FMM techniques compute
+              the correct viscosity solution to the first arrival equation and are the
+              fastest travel time computation schemes available.  They rely on a marriage of
+              upwind finite difference operators for entropy-satisfying gradients, consistent
+              entropy-satisfying approximations, and fast heap sort algorithms.  The methods
+              are, unconditionally stable, require no time step, and are particularly
+              well-suited for the large variations in velocities typical and inherent in
+              oil/gas exploration.  Phase I results indicate that FMM techniques indeed offer
+              significant advantages over previous techniques, and can be extended to
+              calculate energetic and multivalued traveltimes.
+     When coupled with
+              migration software, the speed, robustness and accuracy of FMM allows
+              significant increase in efficiency and accuracy of seismic imaging.  This has a
+              direct and significant impact on the oil/gas industry by providing a fast,
+              accurate and easy to use imaging method for the complex geological structures
+              that are being explored and exploited in today's competitive exploration and
+              production environment. 
+

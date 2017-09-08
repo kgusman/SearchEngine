@@ -1,0 +1,65 @@
+Title       : Development of a Population Genetics Database Prototype
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : October 22,  1998   
+File        : a9630311
+
+Award Number: 9630311
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $148219             (Estimated)
+Investigator: Joseph E. Neigel jneigel@louisiana.edu  (Principal Investigator current)
+              Paul L. Leberg  (Co-Principal Investigator current)
+Sponsor     : Univ of Louisiana at Lafay
+	      104 University Circle
+	      Lafayette, LA  705032701    337/482-6203
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0102000   Data Banks                              
+              0108000   Software Development                    
+              61        Life Science Biological                 
+Program Ref : 1174,9139,9169,EGCH,HPCC,
+Abstract    :
+                The investigators will develop a prototype database of  published surveys of
+              animal mitochondrial DNA (mtDNA).  Surveys of genetic variation in natural
+              populations have  been a major component of research in population biology and 
+              systematics. The data from these surveys are valuable  resource for further
+              research and for applications in  conservation biology.  Animal mtDNA surveys
+              are appropriate  targets for standardized methods of representation and 
+              analysis. Variation in mtDNA reflects a hierarchy of  maternal lineages, which
+              often exhibit considerable temporal  and geographical structure. Although
+              surveys of mtDNA  variation may employ any of several methods to detect 
+              variation (DNA sequencing, RFLP, DGGE, SSCP), there are  standard statistical
+              quantities that can be calculated from  any of these data, as well as standard
+              methods for  interpreting these statistics.    The investigators will identify
+              authors of animal mtDNA  surveys by literature searches, and contact them with
+              a  request for data. When necessary (and feasible), they will  also extract
+              data from printed tables in published articles  and reports. The raw data will
+              first be assembled as a  hierarchical database in which the data for each
+              survey will  consist of records for individual animals that include  genetic
+              and other biological data. An object database will  be developed in which each
+              survey will be represented as an  object that includes both data and a set of
+              methods for  manipulating and representing the data. The methods will  provide
+              both statistical and graphical representations of  population genetics surveys
+              that can be directly compared.  Database programming will done in C++, a
+              standard object  oriented programming language, and will use PARODY, a 
+              database management system that supports persistent data  objects.    The
+              investigators will test the functionality of the  prototype object database
+              with an application that requires  a uniform representation of population
+              surveys that conforms  to a single sta tistical model. This application will
+              detect  patterns in the geographic distributions of mtDNA variation  that are
+              shared among multiple species, and will assess  their statistical significance
+              by performing a meta-  analysis. Previous studies utilizing graphical
+              comparisons  of the geographic distributions of mtDNA variation for  multiple
+              species have revealed similarities that have been  interpreted as evidence for
+              the influence of common  historical and environmental forces. However this
+              graphical  approach is not based on any statistical model. The object  database
+              will enable a new approach to the analysis of  multiple population genetic
+              surveys, based on the  statistical principles of meta-analysis.

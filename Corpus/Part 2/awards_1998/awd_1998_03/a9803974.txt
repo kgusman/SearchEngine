@@ -1,0 +1,48 @@
+Title       : Triggers and Queries in Distributed Software Systems for Moving Objects
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 12,  1999    
+File        : a9803974
+
+Award Number: 9803974
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $260000             (Estimated)
+Investigator: A. Prasad Sistla sistla@cs.uic.edu  (Principal Investigator current)
+              Clement T. Yu  (Co-Principal Investigator current)
+              Ouri Wolfson  (Co-Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The project proposes research on distributed systems that  monitor the positions
+              of various moving objects and process  queries and triggers referring to their
+              positions.  Applications of such systems, called Moving Object  Information
+              (MOI) applications, typically occur in  transportation systems in the civilian
+              sector and in the  digital battlefield management in the military.  This 
+              proposal considers two different architecture models for the  MOI systems; in
+              the first one a single central server (CS)  monitors the position of the
+              objects and answers queries;  the second architecture is fully distributed in
+              which the  moving objects communicate with each other to answer the  queries
+              and to monitor trigger conditions.  The project  proposes various location
+              update policies for maintenance of  the position information of the objects in
+              the CS model. All  these policies maintain the position of an object as a 
+              dynamic attribute that changes with time. The project plans  to investigate the
+              cost effectiveness of these policies  through analytical and experimental
+              studies.  A query  language based on Future Temporal Logic (FTL) is proposed 
+              for specifying spatial and temporal queries and trigger  conditions on the
+              moving objects. The language  permits  specification of the desired levels of
+              uncertainties in the  answer. Research towards the development of efficient 
+              query/trigger processing mechanisms in the two architectures  are proposed. The
+              proposed mechanisms will be evaluated in  an experimental testbed.

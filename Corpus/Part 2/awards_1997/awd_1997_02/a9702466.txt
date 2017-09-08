@@ -1,0 +1,47 @@
+Title       : CAREER: Enhanced Software Distributed Shared Memory as a Compiler Target
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 3,  2000      
+File        : a9702466
+
+Award Number: 9702466
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1997      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Sandhya Dwarkadas sandhya@cs.rochester.edu  (Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,2891,9216,HPCC,
+Abstract    :
+              This research aims to improve the ease-of-use  and performance of parallel
+              systems by combining  state-of-the art compiler technology with an  enhanced 
+              implementation of software distributed shared  memory (DSM). The programming
+              interface, compile-  time analysis, and runtime support necessary to  achieve
+              these goals will be developed.  Compilers that target the underlying message 
+              passing on distributed systems offer good  performance for applications whose
+              access  patterns are regular.  However, other types of  accesses, if compilable
+              at all, currently  require complex run-time support. Run-time DSM  systems
+              provide good overall performance by  fetching data on-demand, but incur
+              additional  overhead for regular accesses  The research supported by this grant
+              aims to  develop enhancements to the DSM interface that  will utilize static
+              information about program  behavior, including data accesses and  consistency
+              requirements, and provide a uniform  interface and implementation for different
+               levels of hardware support for shared memory, as  well as for the hierarchical
+              structure of memory  in some architectures.  The proposed work will contribute
+              to the better  utilization of distributed systems for parallel  computing. To
+              further this goal, a course on  parallel computing will be developed that will 
+              target not only undergraduate students in  computer science, but also potential
+              parallel  computer users in  other science and engineering disciplines. Every 
+              opportunity will be used to stress the  interaction among different system
+              components,  and their effect on performance and programming.  ***

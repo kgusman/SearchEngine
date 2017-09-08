@@ -1,0 +1,76 @@
+Title       : Feasibility Study of Decomposition of Semiconductor Device Model
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 19,  1996      
+File        : a9627223
+
+Award Number: 9627223
+Award Instr.: Standard Grant                               
+Prgm Manager: Rajinder P. Khosla                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  1996     
+Expires     : July 31,  1997       (Estimated)
+Expected
+Total Amt.  : $18000              (Estimated)
+Investigator: Elizabeth J. Brauer brauer@engr.uky.edu  (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      201 Kinkead Hall
+	      Lexington, KY  405060057    /   -
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 0000,9221,OTHR,
+Abstract    :
+              9627223  Brauer  Process engineers gather data to make decisions regarding
+              semiconductor fabrication processes in two ways.  One, test structures are
+              designed, fabricated, and evaluated on wafers costing upwards of  $1000 and
+              requiring several weeks of manufacture.  The second method involves computer
+              simulations of limited accuracy, long runtimes, and poor convergence.  Neither
+              method is completely satisfactory in terms of cost, time, and accuracy.   
+              Given the continuing decrease in computing cost, modeling and simulation of
+              semiconductor processes and devices, collectively known as Technology
+              Computer-Aided Design (TCAD), is an increasingly useful tool for process
+              engineers.  Much research has been done in this area but the results have not
+              been adequate for industrial use while industry needs continue to grow. 
+              Historically, commercial TCAD tools have lagged leading-edge process
+              development by one generation. Thus, increased effort in TCAD research and
+              commercialization is a critical need, as identified by the Semiconductor
+              Industry Association.    This proposal addresses the need for improved device
+              simulation by investigating the feasibility of using additive decomposition in
+              the solution of the semiconductor device equations.  We are specifically
+              interested in implementing the semiconductor hydrodynamic model in a practical,
+              computationally efficient, parallelized device simulation tool use in a
+              industrial setting.  The hydrodynamic model is chosen for three reasons. 
+              First, hot electrons degrade long-term reliability through shifts in transistor
+              threshold voltage and the hydrodynamic model has been shown to accurately model
+              the hot electron effect in submicron MOSFETs.  Second, the semiconductor
+              hydrodynamic model is much cheaper computationally than the Monte Carlo method.
+               Third, previous work developing the hydrodynamic model predicts accurate
+              simulation of  MOS devices to gate lengths of  0.1um.    Numerical robustness
+              and computational cost are roadblocks to practical use of the hyd rodynamic
+              model.  The proposed work is a novel approach to semiconductor device
+              simulation by application of additive decomposition, a technique for
+              decomposing governing equations into large-scale and small-scale parts without
+              averaging that has been successfully applied to Burgers' equation and the
+              Navier-Stokes equations governing fluid flow.  To our knowledge, no researcher
+              has applied additive decomposition to the semiconductor device model.  The
+              additive decomposition technique is particularly well suited to problems with a
+              large range to time and/or space scales, as found in the carrier concentration
+              and carrier temperature in submicron MOS devices, leading to convergence
+              difficulties and requiring robust numerical techniques in the solution method. 
+              Furthermore, additive decomposition adds another level of parallelization,
+              improving the computational cost.    The project investigates the feasibility
+              of the additive decomposition technique applied to the one-dimensional
+              semiconductor equations.  The drift-diffusion model is a simple version of the
+              hydrodynamic model and is, thus, an ideal vehicle for the feasibility study. 
+              The test case is the submicron ballistic diode with an n+-n-n+  structure,
+              which captures the essential features of the MOS channel.  The proposed work
+              develops and tests the discretization and parallelization schemes for the
+              one-dimensional drift-diffusion model using additive decomposition.    The
+              project collaborators are Mr. Scott Irving, Process CAD Engineering Manager,
+              National Semiconductor, and  Prof. James McDonough, Department of  Mechanical
+              Engineering, University of Kentucky.  ***

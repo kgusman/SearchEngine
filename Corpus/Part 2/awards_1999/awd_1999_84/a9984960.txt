@@ -1,0 +1,49 @@
+Title       : CAREER: Generating Provably Correct Query Optimizers
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 1,  2002       
+File        : a9984960
+
+Award Number: 9984960
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $320313             (Estimated)
+Investigator: Mitch Cherniack mfc@cs.brandeis.edu  (Principal Investigator current)
+Sponsor     : Brandeis University
+	      P.O. Box 549110
+	      Waltham, MA  024549110    781/736-2121
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Database query optimizers are large, complex, and error-prone software systems.
+              The goal of this project is to assist researchers and developers in building
+              optimizers that are "provably correct". Specifically, this research group is
+              building a framework which accepts specifications of optimizer components and
+              their interactions, and generates optimizers that can be shown to satisfy the
+              property that the plans they construct always return the data specified in a
+              user queries. The group's approach separates the components of the optimizer
+              into those that require correctness proofs (the safety critical components)
+              from those that do not. Languages are under design for formally specifying
+              those components, and tools are under construction that both generate these
+              components according to the specifications, and generate proof obligations
+              enabling their verification with an automated theorem prover. The experimental
+              research is linked to the educational goal of training students in the
+              application of formal methods in building large software systems. The results
+              of this project will provide a sandbox for database researchers in both
+              academia and industry, to introduce new optimizer techniques and products while
+              providing tangible guarantees that they are free of errors.
+              
+{http://www.cs.brandeis.edu/~mfc/cokokola.html}
+
+
+
+

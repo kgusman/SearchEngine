@@ -1,0 +1,44 @@
+Title       : CAREER: Hardware/Software Real-Time Operating System Design and Synthesis for
+               System-on-a-Chip
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 19,  2002     
+File        : a9984808
+
+Award Number: 9984808
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $224839             (Estimated)
+Investigator: Vincent J. Mooney mooney@ece.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              Future systems built on a billion-transistor chip will be immensely complex.
+              These Systems-on-a-Chip (SoC) will be built with multiple heterogeneous
+              processor cores, and an operating system is needed to control the interactions
+              between and computations occurring in both hardware and software. This project
+              is developing a Systems-on-a-Chip Operating System (SoCOS) implementation with
+              timing guarantees able to satisfy hard real-time application demands. The
+              following topics are being explored: (1) a SoCOS compiler where part of the
+              SoCOS is implemented in hardware in order to both speed up critical bottlenecks
+              and more effectively manage concurrency among hardware and software; and (2)
+              design and synthesis of a Dynamic Memory Management Unit (DMMU) in hardware for
+              multiple processors and hardware, where the SoC has two main levels of memory
+              hierarchy: each processor's local cache, and larger on-chip memory. The DMMU
+              handles allocation of the larger on-chip memory; software on each processor
+              handles its local cache. A quantification of the trade-offs among
+              implementation and synthesis strategies for SoC Operating Systems is being
+              investigated.
+

@@ -1,0 +1,110 @@
+Title       : TCP-Unaware Approaches to Improve Performance of TCP Over Wireless Links
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 2,  2000     
+File        : a9973153
+
+Award Number: 9973153
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $103183             (Estimated)
+Investigator: Nitin H. Vaidya   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Wireless communication technology has gained widespread acceptance in recent
+              years.  Therefore, issues
+related to performance of transport protocols (such
+              as TCP) over wireless links are of interest. The focus
+of this proposal is on
+              TCP-unware techniques to improve TCP performance over paths that include
+              wireless
+links.  The path from a TCP sender to a TCP receiver usually includes
+              several intermediate nodes which may
+drop TCP packets if congestion occurs. 
+              TCP makes the implicit assumption that all packet losses are due
+to
+              congestion.  Since wireless links are prone to transmission errors, this
+              assumption is not accurate for TCP
+over wireless links.  Nevertheless, TCP
+              reduces its congestion window when packet losses due to transmission
+errors
+              occur.  This phenomenon is known to result in poor throughput for TCP over
+              wireless links.
+Existing approaches for improving TCP performance over
+              wireless links require intermediate nodes to
+take TCP-speciffic actions {
+              these approaches are said to be TCP-aware.  For instance, one such
+              protocol
+requires that an intermediate node interpret TCP packets and drop
+              some duplicate TCP acknowledgements
+when appropriate.  Such protocols are
+              often not useful in practice.  For instance, when encryption is used
+              for
+security, intermediate nodes may not be able to decipher contents of TCP
+              packets.  Therefore, TCP-aware
+protocols cannot be used.
+                    
+                                                                                             
+                                                                                          
+              The objective of this project is to investigate TCP-unaware mechanisms that do
+              not require any inter-
+mediate node to take TCP-speciffic actions. The
+              following issues will be investigated:
+
+-  Design of TCP-unaware link layers
+              that help improve TCP performance. The researchers will also consider other
+              issues related to link layer design, including interaction of link layer with
+              Random Early Detection (RED), providing diffierent reliability levels for TCP
+              data and acknowledgements, and scheduling policies for link level
+              retransmissions.
+
+-  Sender-based heuristics for distinguishing between
+              congestion losses and wireless losses:  Using such a
+heuristic, the sender can
+              determine whether a packet was lost due to congestion or due to
+              wireless
+transmission errors.  Knowing the cause of a packet loss, the sender
+              can take appropriate action for each
+type of packet loss. The impact of such
+              heuristics on TCP performance will be evaluated.
+
+-  Receiver-based
+              heuristics for distinguishing between congestion losses and wireless losses: 
+              When the
+receiver is closer to a wireless link, it may be in a better position
+              to diagnose whether a packet is lost
+due to wireless transmission errors or
+              not.
+
+-  Evaluation of a TCP-unaware approach that attempts to imitate a
+              TCP-aware link layer mechanism.
+                                              
+                                                                                             
+                                                             The proposed techniques will be
+              evaluated using simulations as well as experimentation on a wireless
+testbed
+              built with AT&T WaveLan technology.
+                                          
+                                                                                             
+                                                          Educational Impact: Results from
+              the research proposed here will be published in technical conferences
+and
+              journals.  The results will also be incorporated into graduate courses on
+              networking and mobile computing.  The software developed for the project will
+              be used to design experiments for these courses, and disseminated for use by
+              instructors in other universities.  Students working on this project will gain
+              expertise in an important technology area.
+

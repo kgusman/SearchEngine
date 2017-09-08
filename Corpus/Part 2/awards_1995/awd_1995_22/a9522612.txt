@@ -1,0 +1,48 @@
+Title       : Implicity Restarted GMRES and Arnoldi Methods for Nonsymmetric Systems of
+               Equations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 25,  1999     
+File        : a9522612
+
+Award Number: 9522612
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1995  
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $56189              (Estimated)
+Investigator: Ronald B. Morgan Ronald_Morgan@baylor.edu  (Principal Investigator current)
+Sponsor     : Baylor University
+	      Post Office Box 97088
+	      Waco, TX  767987088    /   -
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              Morgan  9522612  In this project, improvements of the restarted GMRES method for
+               solving large nonsymmetric systems of linear equations will be  investigated. 
+              The goal is to develop a method that is  competitive with short recurrence
+              Lanczos methods such as QMR,  but maintains the desirable properties of GMRES. 
+              These  properties include extraction of the minimum residual solution  from the
+              subspace, generally steady convergence, and numerical  stability.  It is also
+              desired to not significantly raise cost  per iteration and storage
+              requirements.    The convergence of GMRES can be improved by including
+              approximate  eigenvectors in the subspace.  Once these eigenvalues are 
+              essentially deflated from the spectrum of the matrix, removing  even just a few
+              small eigenvalues from the spectrum can  significantly improve the convergence.
+               In this project a new and  efficient way of including eigenvectors is
+              proposed.  Sorensen's  implicit-QR Arnoldi method for eigenvalues is combined
+              with an  interior eigenvalue version of Arnoldi.  The surprising result is 
+              that the approximate eigenvectors become part of a new Krylov  subspace.  This
+              Krylov subspace can be used with GMRES.  The  expense per iteration is even
+              less than that of regular GMRES for  the case where matrix-vector products are
+              expensive, and the  number of iterations needed is sometimes greatly reduced.  
+               The resulting implicitly restarted GMRES method will be studied  and compared
+              with other methods.  ***

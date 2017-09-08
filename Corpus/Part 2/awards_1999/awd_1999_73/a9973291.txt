@@ -1,0 +1,80 @@
+Title       : Numerical Methods for Multimaterial and Multiphase Flows
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 15,  1999      
+File        : a9973291
+
+Award Number: 9973291
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1999      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $139171             (Estimated)
+Investigator: Smadar Karni karni@math.lsa.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9973291
+
+This proposal concerns the development and implementation of
+              algorithms for 
+compressible multimaterial and multiphase flows.  In both
+              types of flows, a major numerical stumbling block is accounting correctly for
+              thermodynamical relaxation processes and equilibrium between the fluid
+              components.  Failure to do so is the reason why state-of-the-art single fluid
+              algorithms often do not work in multifluid flows.  Karni was among the first to
+              realize that the key to robust multifluid algorithms is good control over the
+              pressure field, and has been active in developing and implementing algorithms
+              for complex multimaterial flows.  It is proposed: (i) to develop multimaterial
+              algorithms for stiff fluids with surface tension.  Numerical issues such as
+              stiffness, singular source treatment, interface sharpening and efficient time
+              integration will be studied.  Comparison with asymptotic theories and
+              experiments of oscillating bubbles will be conducted; (ii) to extend
+              multimaterial algorithms to multiphase flow models, in particular to the
+              2-velocity 2-pressure multiphase model which is sufficiently general and is
+              time hyperbolic.  Numerical aspects such as global conservation, positivity,
+              efficient integration of stiff source terms will be addressed.  The methods
+              will be validated against numerical benchmark tests. (iii) to use multimaterial
+              computations to 'validate' multiphase flow models by numerical averaging.
+              Studying mean flow properties might provide numerical Hugoniot curves for the
+              multiphase (nonconservative) systems, and might shed light on the controversial
+              issue of constitutive closures.  This part will be done in collaboration with
+              H.M. Glaz of the University of Maryland.
+
+Multimaterial and multiphase flows
+              are flows consisting of several 'pure' gas or liquid components.  For example,
+              hydrogen and air, air in water, liquid droplets in air or even dust in air. 
+              Depending on the application, the interest may be to follow the motion of the
+              interface that separates the different fluids and study its dynamics and
+              stability.  For example, computing the dynamics of a an oscillating gas bubble
+              in water is useful for understanding the propagation of sound waves underwater,
+              and for studying underwater explosions.  In order to burn fuel efficiently in
+              combustion chambers one needs to understand mixing processes, which in turn are
+              governed by the dynamics of, say, a hydrogen jet in air.  In some other
+              applications, the number of interfaces may be huge and following the dynamics
+              of individual interfaces is not only impossible but is also not interesting.
+              For example, in bubbly liquids such as soda cans, in liquid suspensions such as
+              in sprays or in dusty gases, the motion of a single bubble or droplet is not of
+              interest.  Rather, the interest is in understanding how the fluid mixture
+              behaves 'on average'.  Both types of flows lead to mathematical models that
+              need to be solved on computers, and are computationally very intensive.  They
+              are also not easy to compute. The 'average' models are also mathematically less
+              well understood.  Experiments, while available, are difficult to conduct and
+              are restricted by the accuracy of the instruments and their often large margins
+              of error.  Computer simulations provide therefore a complementary tool which
+              may shed light and give insight into the complex problems of interest.  The
+              past few years have seen a growing interest in developing methods suitable for
+              computing multimaterial/multiphase flows and in their efficient implementation
+              to studying complex flow phenomena.  This project concerns further development
+              and implementation of such methods.
+

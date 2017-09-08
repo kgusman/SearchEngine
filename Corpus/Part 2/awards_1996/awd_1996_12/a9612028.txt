@@ -1,0 +1,60 @@
+Title       : PDS: Pursuing a Petaflop: Point Designs for 100TF Computers Using PIM
+               Technologies
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 9,  1996  
+File        : a9612028
+
+Award Number: 9612028
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Peter M. Kogge kogge@cse.nd.edu  (Principal Investigator current)
+              Edwin H. Sha  (Co-Principal Investigator current)
+              Steven C. Bass  (Co-Principal Investigator current)
+              Jay B. Brockman  (Co-Principal Investigator current)
+              Danny Ziyi Chen  (Co-Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              There are two major problems with the current state of the art in
+              high-performance computing.  First, the cost of the very highest end machines
+              lies far beyond the point where widespread deployment is feasible, and second
+              (and more critical) the software environments for these machines are awkward at
+              best, and capable of eking out only fractions of the performance that the
+              hardware is capable of supplying.  The thesis of this  is that much of the
+              problem stems from our historical separation of memory and CPU logic parts. 
+              Individual CPU clock rates and internal architectures continue to accelerate,
+              and thus require ever increasing amounts of bandwidth from the memory
+              subsystem.  These rates have far exceeded the bandwidth capabilities of our
+              densest DRAM memory  parts (needed to control system costs), and the gap will
+              widen over time.  The net effect is complex memory hierarchies, which in turn
+              drives cost and software complexity in addressing these hierarchies
+              efficiently.   A new technology is emerging to counter this fundamental defect:
+              the combination on one chip of both dense DRAM and very significant amounts of
+              logic. This capability permits new architectures termed Processing-In-Memory
+              (PIM) to place computing either right next to, or even inside of, the memory
+              macros, where there are huge amounts of raw bandwidth.  The first such chip,
+              EXECUBE, integrated onto a 4Mbit DRAM chip 8 complete CPUs configured in a 3D
+              binary hypercube, and was capable of being used as a one chip-type building
+              block for MPPs of both MIMD and SIMD organization.  The objective of this
+              project is to look at utilizing PIM technology potentials over the next decade
+              and demonstrate that they promise efficient solution.  The approach to be used
+              involves configuring and studying some "point design" MPPs with 100 tera(fl)op
+              potential for several interesting classes of problems, and then utilizing the
+              novel features of these architectures, along with matching system software and
+              software development tools, to attack them  in ways that may permit not only
+              exceptional performance, but also greatly simplified programming environments.

@@ -1,0 +1,49 @@
+Title       : CISE Research Instrumentation: Semantics-based Prefetching for Mobile Computing
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : February 26,  1996  
+File        : a9529304
+
+Award Number: 9529304
+Award Instr.: Standard Grant                               
+Prgm Manager: Rita V. Rodriguez                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1996  
+Expires     : January 31,  1997    (Estimated)
+Expected
+Total Amt.  : $46680              (Estimated)
+Investigator: Gail E. Kaiser kaiser@cs.columbia.edu  (Principal Investigator current)
+              Daniel J. Duchamp  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 2890      CISE INSTRUMENTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9218,HPCC,
+Abstract    :
+                CDA 95-29304  Kaiser, Gail E.  Duchamp, Daniel J.    Columbia University   
+              Semantics-based Prefetching for Mobile Computing    This proposal investigates
+              collaborative workflow environments, and previously constructed an
+              infrastructure that assumes conventional high-speed networking.  Professor
+              Kaiser is developing new algorithms and techniques to support mobile hosts. 
+              The research addresses prefetching based on semantic information on what the
+              user is likely to do next drawn from the workflow definition tailoring the
+              specific environment instance, to permit low-bandwidth and temporarily detached
+              operation by participants in collaborative enterprises.  Professor Duchamp is
+              developing operating system support for intelligently prefetching files from a
+              file system or objects from an objectbase.  The goal is to improve performance
+              and automate cache loading prior to disconnecting from the network, via two
+              types of prefetching: The first is performed by the file system, transparent to
+              applications; the file system ``learns'' file access patterns and uses these
+              patterns to prefetch if/when the patterns recur.  The second type of
+              prefetching is application-directed; applications with knowledge of their
+              future data accesses can use a special interface to instruct the operating
+              system what to prefetch.  Professor Kaiser's workflow system is the major
+              example application for this type of prefetching.  Both the collaborative work
+              and operating systems directions require mobile notebook computers for
+              development, testing, and measurement of the prototype support.

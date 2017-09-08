@@ -1,0 +1,88 @@
+Title       : CAREER: Hybrid Control of Complex Networked Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : April 21,  2000     
+File        : a9985072
+
+Award Number: 9985072
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 15,  2000     
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Claire J. Tomlin tomlin@leland.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1045,OTHR,
+Abstract    :
+              This project is devoted to research and teaching in the area of hybrid systems
+              theory.  The goal is to develop a control theory for complex networks of
+              systems, each with its own objectives, decision-making, and information
+              processing capabilities.  The systems have dynamics which are primarily
+              continuous-state and continuous-time, yet the aggregate network is in general
+              too complex to model with continuous tools alone.  Control theory to date has
+              achieved tremendous success in the analysis and synthesis of single control
+              systems, as well as the development of control laws for groups of systems which
+              are connected together by point-to-point links so that information is received
+              and processed synchronously at each subsystem.  Using continuous-state tools,
+              simple hierarchical control schemes have also been designed and used with great
+              success.  The control of an aircraft is an excellent example: the complex
+              system of hydraulic valves which controls the surfaces of today's commercial
+              jets is transparent to the pilot, due to a control layer in between that bounds
+              the operation of the hydraulics and displays this simplified abstraction of the
+              complex system to the pilot.
+
+We are now interested in designing control laws
+              for systems which are vastly more complex than continuous, synchronous control
+              theory allows.  Examples include air traffic control systems,  highway systems,
+              communication systems, the interconnected power grid, financial networks such
+              as the stock market, and networks of distributed MEMS sensors.  In each of
+              these examples, the sensors and resources are distributed across the systems,
+              yet there is a strong need for the systems to coordinate to perform some task
+              or achieve some goal.  The systems are also asynchronous, since correlated but
+              different information is available to the controllers at different times.  We
+              propose to design hierarchical, hybrid control systems: ours will be a
+              hierarchy in which discrete state models are used at the highest level to model
+              the large mode spaces in the system, and in which the lowest level incorporates
+              distributed sensing and control, asynchronous receipt and processing of
+              information, and multiple objective functions.  Our research will focus
+              on:
+
+1. Design of the real-time hybrid interface: A key focus of this
+              research is on the development of a robust and computationally efficient hybrid
+              system interface between the discrete-state system abstraction and the
+              continuous-state subsystems.  This interface will provide a priori proofs that
+              the system will function as desired, and automatic synthesis of both discrete
+              and continuous control laws.
+
+2. Control of asynchronous systems:
+              Hand-in-hand with autonomous interacting agents comes the issue of asynchrony. 
+              In classical control theory, sensor data is sampled and actuator commands are
+              issued at a fixed rate.  We propose to design an asynchronous control theory,
+              in which sensors transmit time-stamped data packets whenever new information is
+              available and controllers pick up packets relevant to their current
+              function.
+
+3. Algorithms for automated air traffic systems: In future air
+              transportation systems, it is proposed to automate and move much of the current
+              air traffic control functionality on board the aircraft.  This provides a
+              superb environment in which to develop the theory proposed here, and we will
+              draw on this rich application domain for examples and laboratory
+              experiments.
+
+The education component of this project is a new curriculum in
+              control theory at Stanford.  The courses will combine systems theory from both
+              control theoretic and computer science perspectives.  In addition, a new
+              Laboratory will be developed, with the goal of studying, modeling, and
+              controlling complex systems.
+
+

@@ -1,0 +1,43 @@
+Title       : Management and Processing of Data Streams
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0118173
+
+Award Number: 0118173
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $445000             (Estimated)
+Investigator: Jennifer Widom widom@db.stanford.edu  (Principal Investigator current)
+              Rajeev Motwani  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              For many recent applications, the concept of a data stream, possibly infinite,
+              is more appropriate than a data set. By nature, a stored data set is
+              appropriate when significant portions of the data are queried again and again,
+              and updates are small and/or relatively infrequent. In contrast, a data stream
+              is appropriate when the data is changing constantly (often exclusively through
+              insertions of new elements), and it is either unnecessary or impractical to
+              operate on large portions of the data multiple times. The goal of this research
+              project is to develop models and techniques for the management and processing
+              of data streams. Sampling, summarization, and online approximation algorithms
+              will be employed to facilitate query processing and data mining over streams.
+              The results of this project will provide efficient data stream techniques for
+              data management, memory management, query processing, data mining, and data
+              analysis. In addition, a software prototype will be developed for
+              experimentation with algorithms and query processing, and as a testbed for some
+              sample applications of significant scope, such as networking monitoring and
+              traffic engineering, and medical monitoring data. 

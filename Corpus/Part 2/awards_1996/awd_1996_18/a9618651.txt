@@ -1,0 +1,73 @@
+Title       : Collaborative Project:Analysis of Pattern Formation in Drosophila by Importance
+               Sampling on Parallel Processors
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 6,  1997     
+File        : a9618651
+
+Award Number: 9618651
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: John B. Reinitz   (Principal Investigator current)
+Sponsor     : Mt Sinai School of Medicin
+	      One Gustave L. Levy Place
+	      New York, NY  100296504    /   -
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              Reinitz  9618651       The investigator with Yuefan Deng of SUNY Stony Brook and
+               their colleagues study large scale optimization methods applied  to problems
+              concerning gene networks and pattern formation in the  fruit fly Drosophila. 
+              These optimization problems arise in a  method known as "gene circuits", which
+              was developed by one of  the principal investigators and his coworkers.  The
+              essence of  this method is the numerical inversion of a set of nonlinear 
+              ordinary differential equations by least squares fits of the  trajectories of
+              the equations to gene expression data obtained by  fluorescence microscopy.  In
+              the past, these fits were performed  by simulated annealing on serial computers
+              using the Metropolis  algorithm under the control of the Lam cooling schedule. 
+              They are  computationally intensive, and the range of problems that can be 
+              considered was limited by the speed of available serial  processors.  The
+              investigators are developing new computational  methods for the solution of
+              these problems on parallel  processors.  Importance sampling is the most
+              efficient, or the  most important, ingredient of an algorithm in treating
+              complex  continuum optimization problems such as the pattern formation 
+              analysis undertaken here.  Simulated annealing is one method for  importance
+              sampling; the investigators are developing a general  method for parallel
+              simulated annealing on nonseparable problems.  Other importance sampling
+              methods are derived from methods that  make use of the continuum properties of
+              the problem at hand, such  as Newton's method.  The investigators develop a
+              family of  parallel importance sampling methods and then synergistically 
+              combine them.  This family of methods includes genetic  algorithms, continuum
+              methods, a Lagrangian reformulation of the  fitting problem, and simulated
+              annealing.       Networks of interacting genes lie at the heart of the 
+              problems that will face biologists and biotechnologists in the  twenty first
+              century.  Processes ranging from embryonic  d evelopment to cell division and
+              cell death are controlled by  networks of genes.  In order to understand how
+              these networks  work, it is necessary to understand their internal "wiring 
+              diagrams".  In particular, it is important to know how genes turn  each other
+              on and off.  Modern molecular biology allows  investigators to see which genes
+              are on or off at a given moment,  but in order to understand the "wiring"
+              between genes, it is  necessary to analyze changes in gene activity over time
+              and  analyze them by computer.  The method of analysis can be reduced  to an
+              "optimization" problem, in which the smallest value of a  complicated function
+              is sought.  In this project, the  investigators are finding new ways to solve
+              optimization problems  on large scale parallel high-performance computers. 
+              Particular  emphasis is placed on parallel methods for simulated annealing,  an
+              exceptionally powerful optimization method.  This research is  important to
+              many areas beyond gene networks.  Simulated annealing  and related methods are
+              used in structural biology and other  biotechnology areas related to drug
+              discovery.  It is also used in  the design of integrated circuits.  These and
+              other areas are  likely to benefit from this work.  Funding for the project is 
+              provided by the program of Computational Mathematics and the  Office of
+              Multidisciplinary Activities in MPS and by the  Developmental Biology program
+              in BIO.

@@ -1,0 +1,61 @@
+Title       : Adaptive Schemes for Multi-Carrier Based Communications Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 29,  2001      
+File        : a9903381
+
+Award Number: 9903381
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $328647             (Estimated)
+Investigator: Yeheskel Bar-Ness barness@yegal.njit.edu  (Principal Investigator current)
+Sponsor     : Foundation @ NJIT
+	      323 Martin Luther King Blvd.
+	      Newark, NJ  071021824    973/596-3430
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              Multi-carrier based communication systems have the advantage of better
+              exploitation of the channel bandwidth, and hence simple receivers design.  As a
+              result they find broad applications in wireline as well as wireless
+              environments.  Examples are the high-rate digital subscriber line (HDSL),
+              digital audio broadcasting (DAD) and digital terrestrial television
+              broadcasting (DTTB).  Additionally, the use of multi-carrier techniques in
+              wireless PCS has been considered in the IMT-2000 (third generation mobile
+              communication systems) standardization process.  For multi-user application,
+              these systems are referred to as Multi-Carrier Code Division Multiple Access
+              (MC-CDMA).
+
+The performance of MC-CDMA is limited by multiusers interference
+              (MUI).  Optimal multi-user detection accomplishes MUI cancellation by
+              exploiting the knowledge of all users' signatures.  Due to complexity of the
+              optimum multi-user detector, various sub-optimum detectors structures have been
+              considered.  In a multicarrier modulated system it is advantageous to use
+              closely spaced subcarriers, but not without high sensitivity of performance to
+              frequency offset.  The latter might be caused by Doppler shift as result of
+              mobile movement, as well as from a mismatch between the carrier frequencies at
+              the transmitter and receiver.  In addition, the constellation of the desired
+              signal at each subcarrier is rotated.  This in turn results in inter-rail
+              interference between the I- and Q-rails, which further reduces the carrier to
+              interference ration (CIR).  It was found that, in contrast to DS-CDMA, for
+              MC-CDMA the conventional full dimensional decorrelator is dependent on the
+              channel, prompting the use of an adaptive detector, which will be examined in
+              this research.  Additionally, where MC-CDMA is considered for downlink, the
+              investigators will use, a novel reduced complexity detector which does not
+              require the knowledge of the other users' codes, but instead, uses a so-called
+              compound code to represent all the interferers.  This effectively reduces the
+              complexity to a 2 x 2 detector, which is equivalent to the complexity of a
+              full-dimensional detector in the case of only two active users.  The
+              investigators will also develop an adaptive detector that has he capability to
+              correct the effects of a frequency offset utilizing a bootstrap based adaptive
+              signal separator. 
+

@@ -1,0 +1,50 @@
+Title       : Incorporating Fault Tolerance at the Application Level
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0104482
+
+Award Number: 0104482
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $210607             (Estimated)
+Investigator: Israel Koren koren@ecs.umass.edu  (Principal Investigator current)
+              C.Mani Krishna  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Preliminary work by the PIs has shown that application-level information can be
+              exploited to greatly reduce the amount of redundancy required to deal with
+              transient failures, which are by far the most common type of failure.  For
+              example, in a radar target-tracking application, our approach required only 15%
+              redundancy to provide complete fault-tolerance against transient faults. 
+              Another use of ALFT is in providing a temporary patch in the event of a
+              permanent processor failure, allowing the system more time to execute a
+              recovery algorithm.
+
+ALFT is orthogonal to other approaches to
+              fault-tolerance, so that it can be used either by itself or in combination with
+              them.  For example, a designer might use ALFT to guard against transients, and
+              make a small amount of hardware redundancy available, in the form of
+              line-replaceable spares, to deal with permanent failures.
+
+The objective of
+              this project is to develop Application-Level Fault Tolerance strategies and
+              investigate their
+effectiveness for various classes of real-time applications.
+               The main focus will be to generalize our approach to include as many different
+              types of applications as possible, develop the most suitable strategy for each
+              application type and evaluate the efficiency of the developed scheme.
+

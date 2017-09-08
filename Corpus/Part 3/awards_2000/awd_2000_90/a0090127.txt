@@ -1,0 +1,74 @@
+Title       : Automatic Performance Tuning of Numerical Kernels
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0090127
+
+Award Number: 0090127
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $497737             (Estimated)
+Investigator: Katherine A. Yelick yelick@cs.berkeley.edu  (Principal Investigator current)
+              James W. Demmel  (Co-Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Large scale simulations in computational engineering and science often spend a
+              great deal of their time in a few computational methods kernels, such as dense
+              or sparse matrix-vector products, relaxation on a structured or unstructured
+              mesh, or the computation of forces between pairs of attracting or repelling
+              particles. There has been a great deal of work in generating high performance
+              libraries for these applications, including dense and sparse linear algebra,
+              multigrid methods, and n-body techniques.
+
+One idea established in these
+              application-level libraries is to organize the computations around a set of
+              numerical kernels, with the assumption that these kernels will be highly
+              optimized on each of the hardware platforms of interest. The best known example
+              of this approach is the BLAS (the Basic Linear Algebra routines), which are
+              used in building LAPACK, ScaLAPACK, and other libraries; the BLAS are
+              implemented by hardware vendors and are highly tuned to the memory hierarchy of
+              each machine.
+
+However, this approach is limited by the growing number of
+              kernels, the large number of machines, the increasing depth of memory
+              hierarchies and complexity of processors, and by the difficulty of performance
+              tuning each kernel on each machine. The great majority of these kernels are
+              susceptible to large speedups when machine-specific tuning is performed.
+              However, the hand tuning takes weeks or months of a skilled engineer's time,
+              and this work must be repeated for each micro-architecture, or operating system
+              change. 
+
+This research will work to automate the process of
+              architecture-dependent tuning of numerical kernels, replacing the current
+              hand-tuning process with a semi-automated search procedure. Prototypes of this
+              approach exist for dense matrix-multiplication (Atlas and PHiPAC), FFTs (FFTW),
+              and sparse matrix-vector multiplication (Sparsity). These results show that we
+              can frequently do as well as or even better than hand-tuned vendor code on the
+              kernels attempted. These systems use a hand-written "search directed code
+              generator (SDCG)" to produce many different implementations of a single kernel,
+              which are all run on each architecture, with the fastest one being selected.
+              This approach will be extended to a much wider range of numerical kernels by
+              combing compiler technology with algorithm-specific transformation rules to
+              automate the production of these SDCGs.
+
+Ultimately, the technology is
+              expected to be useful in conventional compilers, provided that appropriate
+              abstract data types or annotations are used to side-step very difficult or
+              "impossible" dependency-analysis needed to justify the desired code
+              transformations. This work should also stimulate research into new high level
+              numerical methods and architectures, both of which are limited by the lack of
+              highly tuned kernels. 
+

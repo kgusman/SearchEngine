@@ -1,0 +1,109 @@
+Title       : VISUALIZATION: A Metadata-Driven Visualization Interface Technology for
+               Scientific Data Exploration
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 30,  2002    
+File        : a0222991
+
+Award Number: 0222991
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $265054             (Estimated)
+Investigator: Kwan-Liu Ma ma@cs.ucdavis.edu  (Principal Investigator current)
+              Michael Gertz  (Co-Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              This project lays out our plan for research and development aimed atdramatically
+              improving the process
+and outcome of scientific data analysis and
+              visualization. The improvement will be achieved by coupling an expressive and
+              extensible metadata management framework with novel visualization interfaces
+              that facilitate
+effective reuse, sharing, and cross-exploration of
+              visualizationinformation and thus will make a profound
+impact on a broad range
+              of scientific applications. The process of scientific visualization is
+              inherently iterative. A good visualization comes from experimenting with
+              visualization and rendering parameters to bring out the most relevant
+              information in the data.
+This raises a question. Considering the computer and
+              human time we routinely invest for exploratory and
+production visualization,
+              are there methodologies and mechanisms to enhance not only the productivity
+              of
+scientists but also their understanding of the visualization process
+              anddata used?
+Recent advances in the field of data visualization have been
+              made mainly in rendering and display
+technologies (such as realtime volume
+              rendering and immersive environments), but little in coherently managing,
+              representing, and sharing information about the visualization process
+and
+              results (images and insights).
+Naturally, the various information about data
+              exploration should be shared and reused to leverage
+the knowledge and
+              experience scientists gain from visualizing scientific data. A visual
+              representation of the
+data exploration process along with expressive models
+              for recording and querying task specific information
+help scientists keep
+              track of their visualization experience and findings, use it to generate new
+              visualizations, and share it with others.
+While previous research has
+              addressed some related issues, a more comprehensive study remains to be
+done.
+              Thus, we propose two complementary avenues of research: (1) new user interfaces
+              for data visualization tasks, and (2) expressive metadata models supporting the
+              recording and
+querying of information related to data exploration tasks. In
+              addition, a set of user studies will be
+conducted on a Web-based visualization
+              testbed realizing (1) and (2) in order to refine the proposed
+methodologies
+              and designs.
+Traditional user interfaces cannot support the increasingly
+              complex process of scientific data exploration.
+A fundamental change in the
+              conventional designs and functionality must be made to offer more
+intuitive
+              interaction, guidance, and enhanced perception. We will begin our study with
+              enriching the graphbased and spreadsheet-like interfaces we have developed, and
+              also investigate alternative designs. An expressive and extensible metadata
+              model representing the data exploration process and its embedded data
+              visualization process is needed.                                               
+                                                                                      Such a
+              model along with an appropriate user interface makes it possible to manage
+              diverse information about the input and results of the visualization process,
+              analyze parameter coverage and usage, identify unexplored visualization spaces,
+              and incorporate findings on the process and results in form of visualization
+              metadata. The model is independent of the actual visual interface used and is
+              open in that its realization in form of a metadata repository can be loosely
+              coupled with a variety of different visualization tools. A set of interfaces
+              and protocols to the repository will be designed to manage, query, and analyze
+              visualization metadata gathered from and utilized by different visualization
+              tools.
+Our goal is ambitious and can only be accomplished by working closely
+              with application scientists.
+They will help us understand
+              application-dependent and independent visualization requirements,
+              processes,
+and information. In return, we will offer them a new and greatly
+              improved way to understand their scientific
+data, which will help them lead to
+              new discoveries quicker, likely with reduced cost.
+
+

@@ -1,0 +1,56 @@
+Title       : Jaguar: Java in Next-Generation Database Systems
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 29,  2000      
+File        : a9812020
+
+Award Number: 9812020
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $370000             (Estimated)
+Investigator: Johannes E. Gehrke johannes@cs.cornell.edu  (Principal Investigator current)
+              Praveen Seshadri  (Principal Investigator former)
+              Philippe Bonnet  (Co-Principal Investigator current)
+              Thorsten von Eicken  (Co-Principal Investigator former)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              The goal of the Cornell Jaguar project is to exploit the features of Java in a
+              database system. Java's portability and security are ideal for extensible
+              database systems. However, several systems issues arise when a database server
+              is integrated with a Java virtual machine. These issues are explored by
+              extending the Predator database system with Java. The mode of research involves
+              implementation and performance measurement. The topics explored include
+              security for user-defined Java extensions, resource management (using the
+              techniques developed in the Cornell J-Kernel project), scalability for highly
+              concurrent workloads, and optimization of queries with Java extensions in a
+              client-server environment. The results from this stage of the project provide a
+              comprehensive understanding of how to efficiently support Java extensions in a
+              database system. Can Java be used for traditional database server
+              functionality? The next stage of the project addresses this question. The goal
+              is to run queries partially at the server and partially at the client, thereby
+              optimizing execution across slow networks. Java is an ideal choice to represent
+              portable algorithms, and the project studies different server designs for
+              portable query processing. However, the use of Java could reduce the overall
+              server performance. An important result of this project is a qualitative and
+              quantitative study of the tradeoffs between the different design choices.
+              Research results will be disseminated through publications, and by
+              instantiation in a full-fledged database system, Predator. The new technology
+              developed has the potential to significantly influence the next-generation of
+              database systems. 
+
+http://www.cs.cornell.edu/Info/Projects/PREDATOR ; 
+              http://www.cs.cornell.edu/jkernel/
+

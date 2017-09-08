@@ -1,0 +1,60 @@
+Title       : ITR/AP: A Live-Data Simulation with Application to Bridge Performance
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a0112930
+
+Award Number: 0112930
+Award Instr.: Standard Grant                               
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $451343             (Estimated)
+Investigator: Xiao-Chuan Cai cai@schwarz.cs.colorado.edu  (Principal Investigator current)
+              Yunping Xi  (Co-Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              This project will develop a new generation of numerical simulation systems using
+              advanced parallel computers, mathematical models, and real-time data. Modern
+              sensor technology and the Internet have made it possible to monitor closely the
+              performance of structures such as highway bridges. However, there are often
+              limits on the possible number of embedded sensors, and accurate prediction the
+              overall structural performance therefore requires other technologies, such as
+              computer modeling, at the same time. This project will merge the two
+              technologies, creating a computer modeling system that incorporates the live
+              data in the numerical simulation.
+
+Using measured data as an integrated part
+              of a numerical simulation is a challenging research project. Because data
+              collected by the sensors must be moved continuously into the numerical
+              simulation, the traditional paradigm of reading control parameters at the start
+              of the computation is not possible. Instead, this project will use the ALICE
+              memory snooper from Argonne National Laboratory to allow the constant
+              interruption introduced by the transmission of the measured data. This will in
+              turn allow a parallel computer to exchange information with remote sites
+              without going through slow disk I/O. To fully integrate the sensor data with
+              the computation, the project will develop new numerical schemes based on
+              classical multigrid methods, but using the measured data to build the coarse
+              space. The measured data will also be used as a basis for calibrating and
+              validating the parameters in the mathematical model.
+
+The new simulation
+              system will be used in a high cycle fatigue test of bridge decks, which will be
+              conducted in the Structures Laboratory at the University of Colorado at
+              Boulder. Field tests will also be scheduled on new bridges to be constructed
+              with a variety of installed sensors. These tests are part of ongoing projects
+              sponsored by other agencies. The synergy of these projects will help develop
+              and validate the proposed simulation system.
+
+

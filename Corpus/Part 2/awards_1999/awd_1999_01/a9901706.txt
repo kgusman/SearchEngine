@@ -1,0 +1,119 @@
+Title       : Feedback Control Real-Time Scheduling
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  1999     
+File        : a9901706
+
+Award Number: 9901706
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : October 31,  2000    (Estimated)
+Expected
+Total Amt.  : $99969              (Estimated)
+Investigator: John A. Stankovic jas9f@cs.virginia.edu  (Principal Investigator current)
+              Gang Tao  (Co-Principal Investigator current)
+              Sang H. Son  (Co-Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 9003
+	      Charlottesville, VA  229069003    804/924-0311
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Title  -  Feedback Control Real-Time Scheduling
+PIs - J. Stankovic, S.
+              Son and G. Tao
+
+Abstract
+
+Despite the significant body of results in
+              real-time scheduling, many
+real world problems are not easily supported. 
+              While algorithms such as
+Earliest Deadline First, Rate Monotonic, and the
+              Spring scheduling
+algorithm can support sophisticated task set characteristics
+              (such as
+deadlines, precedence constraints, shared resources, jitter, etc.),
+              they
+are all "open loop" scheduling algorithms.  Open loop refers to the
+              
+fact that once schedules are created they are not "adjusted" based 
+on
+              continuous feedback. While open-loop scheduling algorithms can 
+perform well
+              in static or dynamic systems in which the workloads can 
+be accuratedly
+              modeled, they can perform poorly in unpredictable dynamic 
+systems, i.e.,
+              systems whose workloads cannot be accurately modeled.  
+Unfortunately, many
+              real-world complex systems are dynamic and 
+unpredictable.  In addition, most
+              scheduling paradigms assume that
+timing requirements are known and fixed,
+              while in real systems timing 
+requirements are more flexible.  For example,
+              instead of a single 
+fixed deadline for a task, a deadline range might be
+              acceptable to 
+the physical system.  If this range was passed to the
+              scheduling system, 
+more robust scheduling could be possible.
+
+We propose to
+              develop the
+beginnings of a new scheduling paradigm, which we call
+              feedback
+control real-time scheduling.  Feedback control real-time scheduling
+              will
+define error terms for schedules, monitor the error, and continuously
+              adjust
+the schedules to maintain stable performance.  Feedback control
+              real-time
+scheduling will be able to deal with dynamic systems that are both
+              resource
+insufficient and with unpredictable workload.  It can also be
+              integrated 
+with flexible real-time requirements.  We plan to base this new
+              paradigm 
+on the theory and practice of control theory, adaptive control
+              theory, 
+and stochastic control.  In this proposed research we will begin by
+              
+integrating practical feedback control techniques into scheduling
+              
+algorithms.  These scheduling algorithms regard the computer system 
+as a
+              control system with the scheduler as the controller.  The
+outcome from this
+              beginning study
+should include a practical scheduling algorithm, plus
+              some
+experimental evidence to use in the long-term endeavor of creating 
+a
+              theory and practice of feedback control scheduling.  Such results will 
+apply
+              to many real world systems including real-time database applications, 
+defense
+              applications, agile manufacturing, and distributed multimedia.  
+The results
+              would be that these systems meet significantly more deadlines 
+thereby
+              improving the productivity of a manufacturing plant or an on-line 
+real-time
+              database system.  General principles developed in this research 
+should also
+              be applicable to feedback scheduling in non-real-time systems.  
+This could
+              improve the throughput and performance of general timesharing 
+systems.
+
+
+

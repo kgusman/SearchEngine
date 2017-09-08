@@ -1,0 +1,51 @@
+Title       : Prototyping Multiscalar Processors
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : June 17,  1997      
+File        : a9505853
+
+Award Number: 9505853
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1995     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $1308462            (Estimated)
+Investigator: Gurindar S. Sohi sohi@cs.wisc.edu  (Principal Investigator current)
+              James E. Smith  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is evaluating a new architectural paradigm that can  extract and
+              exploit the parallelism in sequential code.  This new  approach uses both
+              software scheduling in the compiler, as in VLIW,  and hardware scheduling at
+              run-time, as in superscalar  architectures.  The compiler segments code into
+              large blocks of  instructions that form subgraphs of the control-flow graph,
+              though  not necessarily basic blocks.  The compiler appends synchronization 
+              information to each block that describes which registers must be  shared with
+              blocks.  The compiler appends synchronization  information to each block that
+              describes which registers must be  shared with other blocks.  The blocks or
+              tasks are passed to  separate identical parallel execution units, each of which
+              executes  its task sequentially.  Tasks are scheduled optimistically, so that 
+              some tasks may be executed by a unit when they would not be  executed in a
+              sequential system; in such cases, the tasks are  "squashed," which means that
+              their results are not written to  memory or registers.  At the end of each
+              task, it blocks until the  system determines that the task will not be
+              squashed; at that time  results are committed.  The collection of execution
+              units appears  logically to be one unit, with a single register file.  Shared 
+              register values are passed on an inter-execution-unit network, and  tasks that
+              need shared values block until the values are produced.    During the first two
+              years of this award is devoted to compiler  design for the new architecture, to
+              comparison with other  architectures using simulation, and to conceptual
+              refinement of the  architecture.  During later years, work is expected to focus
+              on  implementation.

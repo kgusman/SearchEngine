@@ -1,0 +1,60 @@
+Title       : Presidential Young Investigator Award: Parallel Algorithms for Integer and Mixed
+               Integer Nonlinear Programs Arising in the Management and Design of Chemical
+               Processes
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : July 19,  1994      
+File        : a9058073
+
+Award Number: 9058073
+Award Instr.: Continuing grant                             
+Prgm Manager: Georgia-Ann Klutke                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  1990     
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $187500             (Estimated)
+Investigator: Joseph F. Pekny   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0308000   Industrial Technology                   
+              59        Engineering NEC                         
+Program Ref : 9147,9227,MANU,
+Abstract    :
+                   A broad range of chemical process engineering problems                    
+              including systematic process design, retrofit design, batch                    
+              scheduling, production planning, facility layout, and plant startup            
+              may be naturally modeled as mixed integer nonlinear programs                   
+              (MINLP).  Although a large number of models have been published                
+              for a variety of specific situations, practical application of                 
+              MINLP methods has been limited because conventional solution                   
+              techniques are effective only on models of limited size.  An                   
+              important goal of this long term research program is the                       
+              development of highly parallel algorithms for solving MINLP.  In               
+              particular, this research seeks to be able to use hundreds of                  
+              powerful processors to substantially extend the range of                       
+              tractability for MINLP.  The dramatic increase in solution                     
+              capability is critical in incorporating multiple objectives,                   
+              realistic physics, flexibility, and robustness into engineering                
+              design and operation models.  Three important issues that must be              
+              addressed in the course of developing effective parallel MINLP                 
+              algorithms are: (1) the systematic  exploitation of problem                    
+              structure (2) the partitioning of the workload among processors and            
+              (3) the utilization of concurrently available information to                   
+              improve algorithm performance.  Central to understanding these                 
+              issues is the development of special purpose parallel algorithm                
+              performance.  Central to understanding these issues is the                     
+              development of special purpose parallel algorithms for highly                  
+              structured integer programs.                                                   
+                   Research will proceed along two complementary paths: (1)                  
+              development of general purpose parallel MINLP algorithms (2)                   
+              development of special purpose parallel algorithms for highly                  
+              structured integer programs.  The underlying goal of both paths is             
+              to learn how to effectively use massive amounts of parallelism                 
+              while at the same time exploiting problem specific features.

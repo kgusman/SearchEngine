@@ -1,0 +1,43 @@
+Title       : RUI: Constraint Systems for Analysis of Scientic Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 27,  1998      
+File        : a9808694
+
+Award Number: 9808694
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $84747              (Estimated)
+Investigator: David G. Wonnacott davew@cs.haverford.edu  (Principal Investigator current)
+Sponsor     : Haverford College
+	      Lancaster Avenue
+	      Haverford, PA  19041    215/896-1000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will investigate the nature of constraint  systems that can be used
+              to solve problems in the compile-  time analysis of programs that manipulate
+              arrays.  Accurate  analysis of array references is critical to the automatic 
+              optimization of scientific programs for parallel  supercomputers.  Empirical
+              evidence has shown that this  analysis can be described accurately using
+              constraints  (which is not surprising), and that the resulting  constraints can
+              be manipulated efficiently (which is quite  surprising, given the constraint
+              system involved).  This  project will investigate the apparent discrepancy
+              between  the worst-case complexity of the general constraint solver  (2^2^2^n)
+              and the observed efficiency of constraint-based  dependence analysis, seeking a
+              formal description of a  constraint system that includes many of the cases that
+              arise  during analysis of benchmark programs but can still be  manipulated
+              efficiently.  Such a formal description will  provide a deeper understanding of
+              the practical applications  of constraint manipulation algorithms and provide a
+              guide  for potential users.  The new constraint manipulation  algorithms will
+              be implemented within the framework of the  National Compiler Infrastructure
+              and made freely available.

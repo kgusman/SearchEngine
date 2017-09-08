@@ -1,0 +1,41 @@
+Title       : RIA: Convex-Programming Design of Signals and Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 3,  1998   
+File        : a9896034
+
+Award Number: 9896034
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1997    
+Expires     : December 31,  1998   (Estimated)
+Expected
+Total Amt.  : $20732              (Estimated)
+Investigator: Jeffrey O. Coleman   (Principal Investigator current)
+Sponsor     : U of MD Baltimore County
+	      1000 Hilltop Circle
+	      Baltimore, MD  21250    301/455-1000
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              The PI is creating a special-purpose programming language in which  optimization
+              problems can be specified in a natural and direct way.   The focus is on
+              developing associated translation software to  convert such a specification
+              into a particular canonical form for  numerical optimization using recently
+              developed, ultra-efficient,  interior-point algorithms.  The canonical form is
+              a linear-matrix-  inequality (LMI) program, where each constraint takes the
+              form of  a requirement that a linear (plus a constant) matrix function of  the
+              optimization variables be positive definite.    Control theorists have recently
+              demonstrated that a tremendous  variety of common (and uncommon) constraints
+              can be put into this  generic form.  Often, however, the required LMI
+              constraints are not  related to the underlying problem in an intuitive way. 
+              Software to  translate specifications in a "comfortable language" to sets of 
+              LMIs is being developed in order to make these powerful  optimization
+              techniques easy to apply.  The language is being  applied to real problems in
+              communication and signal-processing  circuit designs.

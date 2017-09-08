@@ -1,0 +1,67 @@
+Title       : Data Compression Techniques for Improving Memory Hierarchy Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a0105355
+
+Award Number: 0105355
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Rajiv Gupta gupta@cs.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              
+Abstract:
+This project is aimed at developing data compression techniques
+              for
+substantially reducing the data memory footprint of memory
+              intensive
+applications. We will study the behavior of a wide range of
+              applications
+to identify characteristics of data held in data structures by
+              these
+programs that can be exploited in carrying out data compression.
+              We
+will develop a suite of data compression transformations that will
+              be
+implemented by the compiler. Our goal is to develop data
+              transformations
+that can be applied to partially compressible data structures,
+              that is,
+data structures in which all the data is not compressible. This
+              approach
+will not only result in transformations that are widely applicable,
+              but
+also lead to techniques for applying them that are efficient. In
+              particular,
+instead of relying on complex compile-time analysis for proving
+              their
+applicability, we will be able to use simple value profiling
+              techniques
+to identify data structures that are mostly compressible and then
+              apply
+the transformations to them.  We will develop data compression
+              extensions
+(DCX) to a RISC-style instruction set for efficiently
+              manipulating
+compressed data. In addition, we will also address other low
+              level code
+generation issues, such as impact of transformations on register
+              pressure
+and instruction cache behavior, which can have a significant impact
+              on
+performance.

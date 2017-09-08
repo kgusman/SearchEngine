@@ -1,0 +1,114 @@
+Title       : Computational Methods to determine Epistatic Effects
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 13,  2000 
+File        : a0073785
+
+Award Number: 0073785
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  2000 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $210980             (Estimated)
+Investigator: Philip J. Hanlon hanlon@math.lsa.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9183,9263,BIOT,
+Abstract    :
+              Hanlon
+
+0073785
+
+     The investigator designs effective algorithms to
+              identify
+
+epistatic effects that contribute to a complex
+              quantitative
+
+phenotype.  The algorithms apply to datasets that, for
+              each
+
+individual in a sample, identifies alleles at a fixed set of
+
+markers
+              along with the value of the quanitative trait.  The
+
+algorithms seek an
+              optimum fit for the phenotype as a sum of
+
+epistatic effects.  The approach
+              is to perform repeated searches
+
+for an optimum fit in the space of all
+              possible combinations of
+
+effects.  The search utilizes random walk
+              hill-climbing
+
+techniques.  These hill-climbs are adaptive in the sense
+              that
+
+certain parameters, which control the choice of steps in the
+
+random
+              walks, evolve based on the outcomes of previous walks.
+
+     It is widely
+              accepted that the genetic components of most
+
+interesting quantitative traits
+              (eg. blood pressure, height)
+
+involve interactions between many genes.  So,
+              computational
+
+methods to infer the genetic basis of quantitative traits
+              must
+
+include an analysis of epistatic effects, i.e., instances where
+
+the
+              choice of allele at two or more genetic markers influences
+
+the value of the
+              quantitative trait in ways that are different
+
+from the sum of the effects of
+              the individual alleles.  In this
+
+project the investigator develops
+              computational methods to
+
+identify these epistatic effects by a process of
+              doing repeated
+
+searches through the space of possible effects looking for
+              ones
+
+that explain a significant amount of the variation of the
+              trait.
+
+These searches are self-educating in the sense that later
+
+searches
+              learn from earlier searches.  As the number of searches
+
+increases, the
+              adaptive mechanism focuses the search on
+
+particularly strong epistatic
+              effects.
+
+
+
+
+

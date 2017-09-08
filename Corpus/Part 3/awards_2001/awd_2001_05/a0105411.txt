@@ -1,0 +1,72 @@
+Title       : Compiling for Locality in Advanced Scientific Computations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2001      
+File        : a0105411
+
+Award Number: 0105411
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $215000             (Estimated)
+Investigator: Chau-Wen Tseng tseng@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              With modern processor architectures, programs can achieve good
+performance only
+              if they possess sufficient data locality to exploit
+on-chip caches.  This
+              research focuses on developing and evaluating
+software support for improving
+              locality for advanced scientific
+applications for both sequential and parallel
+              machines.  The basic
+premise is that both compile-time analyses and
+              sophisticated run-time
+systems are necessary.  Run-time systems are needed
+              because many
+programs are not analyzable statically. Compiler support is
+              crucial
+both for inserting interfaces to the run-time system and for
+              directly
+applying program transformations where possible.
+
+This proposal
+              investigates locality optimizations needed for three
+features found in
+              advanced scientific applications (3D arrays,
+irregular accesses, and
+              pointers).  It focuses on extending
+locality optimizations to handle cache
+              conflicts between multiple
+data, deep memory hierarchies (multi-level caches
+              and TLBs), hardware
+and software prefetching, nonlinear memory layouts,
+              parallel and
+cluster architectures, and memory performance tools. 
+              Locality
+optimizations will be applied to representative programs
+              and
+experimentally evaluated on advanced computer systems.
+
+The results of
+              this research should help improve the performance
+of computationally intensive
+              scientific applications.  Because
+of trends in computer architectures, lessons
+              learned are also
+likely to be useful for application domains such as
+              image
+processing and high-performance databases.

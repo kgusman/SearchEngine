@@ -1,0 +1,141 @@
+Title       : System Level Design of Embedded Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0209193
+
+Award Number: 0209193
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Warren P. Alexander alex@ittc.ku.edu  (Principal Investigator current)
+Sponsor     : U of Kansas Ctr for Res In
+	      2385 Irving Hill Drive
+	      Lawrence, KS  660457563    785/864-3441
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,0000,9150,9216,HPCC,OTHR,
+Abstract    :
+              A. Project Summary
+
+The objective of this research is to develop and
+              demonstrate
+capabilities for analyzing complex interactions between
+              heterogeneous
+embedded systems specification domains.  Three research
+              activities are
+being undertaken: (i) development of domain models for
+              important
+embedded systems requirements domains; (ii) development of
+              semantics
+for combining heterogeneous embedded systems specifications; and
+              (iii)
+development of techniques for predictive analysis of
+              composed
+specifications.  The results of this research are being
+              evaluated
+using problems from the Ambient Computing Environments (ACE)
+              research
+center at The University of Kansas / ITTC.
+
+The facet-based
+              approach being investigated involves modeling and
+integrating heterogeneous
+              specifications using domain specific
+semantic systems.  Each system model, or
+              facet, is defined by
+extending a domain.  A domain provides a vocabulary and
+              model of
+computation for describing a system from one perspective.  Facets
+              use
+domains as modeling semantics and are composed to describe components
+and
+              systems.  Specifically, individual models are composed to define:
+(i) multiple
+              aspects of the same component; and (ii) heterogeneous,
+multi-component
+              systems.  Projection functions and morphisms support
+specification
+              transformation and composition using category and
+institution theoretic
+              semantics.  Special projection functions, called
+interactions, model how and
+              when models from one domain interact with
+models from another. Interactions
+              support integrated component
+analysis and modeling communication between
+              heterogeneous components.
+
+Developing domain models, domain interaction
+              models, and prototype
+analysis tools demonstrates the effectiveness of the
+              facet-based
+approach for modeling embedded systems.  The first and second
+              research
+tasks encompass the development of domain and domain
+              interaction
+models for defining embedded components.  Both functional
+              and
+performance constraint models are being supported.  Domain models
+              are
+being developed to represent basic models of computation and
+vocabularies
+              for specification. Interaction models consisting of
+projection functions and
+              specification morphisms are being defined to
+move information between domains.
+               The third research task is the
+development of software systems for analyzing
+              specifications.  Two
+complimentary approaches are being explored: (i) formal
+              analysis; and
+(ii) simulation.  Formal analysis is achieved by mapping
+              domain
+definitions to existing formal analysis environments. 
+              Specification
+simulation is achieved by mapping domain definitions to
+              communicating,
+heterogeneous simulation environments.
+
+Challenge problems
+              from the NSF and DARPA sponsored Ambient Computing
+Environments (ACE) research
+              infrastructure at ITTC are being used to
+evaluate ongoing research.  ACE
+              provides an environment where
+computing moves seamlessly with individuals
+              within a physical
+environment.  ACE is implemented as a collection of highly
+              mobile,
+heterogeneous embedded systems that perform tasks including
+              personal
+data management, control of robotic devices, and various
+              sensor
+related tasks The results of this research have widespread impact
+              on
+the research and industrial communities.  The Rosetta systems
+              level
+specification language is being used for domain models,
+              interaction
+definitions and system specifications for embedded systems. 
+              Rosetta
+is being standardized by the Accellera CAD standards organization as
+              a
+next-generation systems level design language.  Successful results
+from
+              this research activity are being disseminated as a part of the
+base Rosetta
+              domain system and are being integrated into the
+collection of standard Rosetta
+              domain models.
+
+
+

@@ -1,0 +1,43 @@
+Title       : Binary Component Adaptation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 21,  1998      
+File        : a9804061
+
+Award Number: 9804061
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $213085             (Estimated)
+Investigator: Urs Hoelzle urs@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804061  Reusable object-oriented software components often must be  adapted to
+              fit into a new application that also uses other,  independently developed
+              components. This research investigates  Binary Component Adaptation (BCA), a
+              new way to integrate  components. Component adaptation takes place after the 
+              component has been delivered to the reusing programmer, and the  component is
+              directly modified in place in order to make changes.  By directly rewriting
+              binaries, BCA combines the flexibility of  source-level changes without
+              incurring its disadvantages. BCA can  rewrite component binaries at load time
+              and also guarantees  release-to-release compatibility. That is, an adaptation
+              is  guaranteed to be compatible with a new binary release of the  underlying
+              component as long as the release does not modify the  public interface except
+              by adding new elements. A BCA system will  be constructed for Java to show that
+              an efficient implementation  is feasible, and will be made available publicly
+              to allow an  evaluation of BCA's usefulness based on  the feedback received
+              from external users. BCA promises to solve  a number of important integration
+              and evolution problems; if  successful, it could significantly improve the
+              reusability of  Java components, thus reducing software development costs.***

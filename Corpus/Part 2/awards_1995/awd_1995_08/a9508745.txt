@@ -1,0 +1,128 @@
+Title       : Practical Program Restructuring for Software Evolution
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  1997       
+File        : a9508745
+
+Award Number: 9508745
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1995       
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $218365             (Estimated)
+Investigator: William G. Griswold wgg@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+                 This project is developing and evaluating new techniques  for tool-assisted
+              restructuring of large systems.  The excessive cost of  software evolution is
+              due in large part to  inappropriate structure of a system,  relative to the
+              changes taking place.  Tool-assisted program restructuring is studied for
+              changing a system's structure at lower cost and risk than  making  changes  by
+              hand.  In this approach, a tool user selects transformations  to apply to
+              chosen program components.  The tool checks to make sure that each 
+              transformation will preserve the functional behavior of the program.  If so, it
+               performs the transformation to the chosen component and updates any related 
+              components to preserve consistency.    Tool-assisted restructuring has not been
+               demonstrated to be practical in industrial-scale applications.  For  example,
+              exhaustive interprocedural data flow analysis is required by some  tools, but
+              is costly to perform on large programs. Previous restructuring  research has
+              not addressed common complicating constructs such as pointer  arithmetic,
+              function pointers, comments, textual macros, and conditional  compilation.   
+              To make the restructuring of large programs practical, this  project is
+              developing and adapting techniques to address these problems.  Demand-driven
+              data flow is being investigated to overcome many performance  problems of
+              exhaustive data flow analysis. Query prioritization and caching of  replies are
+              studied to minimize burdensome and potentially incorrect user  queries. Testing
+              and semantic differencing may also provide checks of  correctness after
+              restructuring.  A case study is intended to  evaluate the  techniques developed
+              and the benefits of large-scale  restructuring.                                
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                       

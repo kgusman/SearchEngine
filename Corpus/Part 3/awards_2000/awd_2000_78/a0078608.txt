@@ -1,0 +1,78 @@
+Title       : SBIR Phase II: Simulation of Rapid Thermal Processing in a Distributed Computing
+               Environment
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 17,  2000  
+File        : a0078608
+
+Award Number: 0078608
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan E. Figueroa                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : December 1,  2000   
+Expires     : November 30,  2002   (Estimated)
+Expected
+Total Amt.  : $399576             (Estimated)
+Investigator: Jiwen Liu liu@esi-al.com  (Principal Investigator current)
+Sponsor     : Engineering Sciences Inc
+	      1900 Golf Road, Suite D
+	      Huntsville, AL  35802    205/883-6233
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9146,9150,MANU,
+Abstract    :
+              This Small Business Innovation Research (SBIR) Phase II project will continue to
+              develop and demonstrate a computational tool for detailed simulation of Rapid
+              thermal processing (RTP) in a distributed computing
+environment by taking
+              advantages of the findings in Phase I. RTP has become a key technology in
+              the
+fabrication of advanced semiconductor devices. As wafers get larger and
+              chip dimensions smaller, the
+understanding of the highly coupled physics such
+              as radiative heat transfer, transient fluid flow and heat
+transfer as well as
+              chemical reactions through numerical modeling using high-performance computing
+              is
+the key to the design, optimization, and control of RTP reactors. In Phase
+              II, A 3D surface radiation
+model based on the modified discrete transfer
+              method (MDTM) will be developed to treat radiative
+transfer in the lamphouse
+              and process chamber as a whole process. The detailed pattern effects will
+              be
+taken into account by rigorously solving time-domain Maxwell's equations
+              through a finite volume
+approach. The rarefied gas dynamics in low pressure
+              RTP will be modeled by adding Burnett terms into
+the Navier-Stokes equations.
+              The governing equations that contain various multi-disciplinary
+              physical
+models will be solved by a 3D unstructured finite volume method. To
+              address computationally intensive
+3D simulation needs, an efficient parallel
+              strategy will be implemented in the solution procedure. Data
+communication
+              among parallel processors will be conducted by the Message Passing Interface
+              (MPI)
+library.  To accelerate the overall solution convergence and improve the
+              parallel performance, the
+algebraic multi-grid (AMG) method will be used to
+              solve the discretized equations in each processor. It is
+expected that the
+              proposed simulation tool can be used to systematically investigate the
+              underlying
+physics occurring in RTP systems, and to help in the design,
+              optimization, and control of RTP reactors.
+
+The proposed simulation tool will
+              significantly benefit the semiconductor manufacturing equipment industries that
+              require a detailed understanding of multimode and highly coupled transport
+              phenomena.  The potential applications include the design, optimization, and
+              control of RTP reactors and many other manufacturing and materials processing
+              systems.
+

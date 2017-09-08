@@ -1,0 +1,80 @@
+Title       : Numerical Simulation of Delayed Fracture by Surface Reaction in Material
+               Structures of Small Feature Sizes
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : August 23,  2000    
+File        : a9988788
+
+Award Number: 9988788
+Award Instr.: Standard Grant                               
+Prgm Manager: Jorn Larsen-Basse                       
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2000 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $299171             (Estimated)
+Investigator: Jean Herve Prevost prevost@princeton.edu  (Principal Investigator current)
+              Timothy J. Baker  (Co-Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 1633      SURFACE ENG & MATERIALS DESIGN
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9146,MANU,
+Abstract    :
+              9988788
+Prevost
+	Many advanced devices, such as microprocessors and
+              Micro-Electro-Mechanical-Systems (MEMS), are material structures of small
+              feature sizes.  Because these devices are part of all major engineering
+              systems, an ability to predict their lifetime is of great importance to both
+              the defense and the commercial industry.  The smallness of the features poses a
+              broad challenge to scientific computation.  One pervasive problem is cracking
+              in the small dimension, driven by the combined action of residual stresses and
+              environmental molecules.  Such cracking often occurs long after the devices
+              have been made.  No method has been developed to predict the delayed cracking
+              in such devices.  The main difficulties are readily understood in the context
+              of the lifetime prediction method established for large engineering components.
+               For a large component such as a ceramic tile on a reentry space vehicle, the
+              lifetime prediction relies on the crack growth model.  It assumes that cracks
+              pre-exist in the ceramic tile, and grow under the combined action of stresses
+              and environmental molecules.  To predict the lifetime requires two experimental
+              data: the initial crack size, and the crack growth law (i.e., the crack
+              velocity as a function of the stress intensity factor).  However, both are
+              difficult to obtain for micro devices.  Fabrication processes are controlled
+              down to the feature sizes, so that the meaning of an initial crack is
+              ambiguous, and in any case its size will never be measured experimentally on a
+              routine basis.  Moreover, the allowable crack velocity is so small (say 0.1
+              micron per year) that no experimental method exists to obtain the crack growth
+              law. This proposal proposes to address these problems via numerical
+              simulations.
+	This program will develop a lifetime prediction method for micro
+              devices.  The method relies on a crack nucleation model.  A device initially
+              has no sharp cracks, although stress concentration sites, such as corners, are
+              pervasive.  A solid constituent, such as silicon dioxide, loses mass to its
+              environment by chemical reaction on the surface.  The rate of the reaction
+              depends on the local stress.  Because the stress field is nonuniform, the
+              reaction proceeds faster at a corner root than elsewhere, gradually changing
+              the root into a sharp crack.  This model was envisioned in the 1960s, and has
+              regenerated interest in recent years.  A main difficulty in using the model has
+              been computational.  Existing work has been restricted to idealized geometries
+              and materials.  The proposed work will develop a finite element method to
+              simulate the crack nucleation process in complex structures incorporating
+              interface models formulated by Prof. Z. Suo. The work will focus on situations
+              where a device spends its lifetime mainly on crack nucleation rather than
+              subsequent crack growth. Preliminary work using 2D models shows considerable
+              promise, and this work will be further extended and address the very difficult
+              3D problems. An interdisciplinary research team is assembled, integrating
+              expertise in multiphysical processes, multiprocessor finite element
+              implementation, and mesh adaptation for large shape change and intensifying
+              stress field.  The numerical effort will be coupled with ongoing experimental
+              works by Professor A.G. Evans and a complementary NSF-funded experimental
+              research effort by Professor W. Soboyejo both at Princeton University. These
+              will provide test cases that will be used to validate our computational models.
+              
+***
+

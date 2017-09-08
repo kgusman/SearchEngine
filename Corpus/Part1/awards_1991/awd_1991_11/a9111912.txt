@@ -1,0 +1,51 @@
+Title       : Loosely-Coupled Processes
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 1,  1994   
+File        : a9111912
+
+Award Number: 9111912
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1991   
+Expires     : May 31,  1995        (Estimated)
+Expected
+Total Amt.  : $284794             (Estimated)
+Investigator: Jayadev Misra misra@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+                   Large-scale distributed programming, where processes communicate          
+              via messages, is a reality whereas large-scale shared variable                 
+              programming remains an ill-understood activity.  It is postulated that         
+              the distinction between these two classes is the type of                       
+              communication-it is disciplined in the former case and arbitrary in            
+              the latter case.  Furthermore, implementations of shared-variable              
+              systems on multiprocessors with individual caches pose several                 
+              problems, including cache-coherence.  This work attempts to impose             
+              certain disciplines on shared variable programming so that large-scale         
+              system design becomes feasible and the implementations avoid most of           
+              the issues associated with cache coherence.                                    
+                   The plan of research is to identify a substantial class of                
+              shared-variable systems that enjoy some of the advantages of                   
+              distributed (i.e., message-passing) systems.  The systems will be              
+              constrained to a class called loosely-coupled, in which the                    
+              computations of different processes are largely non-interfering even           
+              though they share variables.  Loosely-coupled systems will acquire             
+              certain properties-such as absence of "race conditions" -normally              
+              associated with distributed systems.  Designs of loosely-coupled               
+              systems will be accomplished without extensive analysis of scenarios           
+              based on execution sequences, process interactions or deadlock.                
+              Compositional proof theories for such systems will be developed and            
+              the efficient implementation of such a system on multiple-memory               
+              multiprocessor architectures will be indicated.

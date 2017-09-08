@@ -1,0 +1,78 @@
+Title       : Control of Nonstationary Systems Using Information Preserving Neural Networks
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : December 24,  1991  
+File        : a9008596
+
+Award Number: 9008596
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 15,  1990   
+Expires     : March 31,  1993      (Estimated)
+Expected
+Total Amt.  : $128865             (Estimated)
+Investigator: Douglas J. Cooper cooper@eng2.uconn.edu  (Principal Investigator current)
+              Francesco Palmieri  (Co-Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      14 Dog Lane
+	      Storrs, CT  062694133    203/486-2000
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+              53        Engineering-Chemical                    
+Program Ref : 1403,1494,
+Abstract    :
+              Pattern recognition based control methods can produce stable                   
+              and robust performance in a range of applications and these                    
+              methods can be designed such that relatively little effort or                  
+              expertise is required on the part of an industrial                             
+              practitioner for implementation.  Artificial neural nets                       
+              (ANNs) are well suited for pattern recognition applications.                   
+              A strength of ANNs are their ability to interpolate and                        
+              generalize pattern classifications, consequently they hold                     
+              promise as an improved framework for pattern based controller                  
+              design.  For example, ANNs can be trained to learn a process                   
+              input - output relationship using historical plant data, and                   
+              can then be installed online in the role of the internal model                 
+              of an adaptive controller.  Another example is training ANNs                   
+              directly in the error feedback relationship of a process and                   
+              then using the ANN as the controller itself.  To maintain an                   
+              accurate description, ANN based controller architectures must                  
+              provide sufficient degrees of freedom to ensure plasticity,                    
+              thus permitting system behaviors never previously experienced                  
+              by the controller to be properly addressed.  The research                      
+              project involves the use of pattern recognition to identify                    
+              and represent current process characteristics while satisfying                 
+              these requirements.                                                            
+                                                                                             
+              The focus of this work is the study of control systems that                    
+              (1) are autonomous in their decision making for design,                        
+              implementation and adaptation, (2) provide stable and robust                   
+              performance over a wide range of applications, and (3) succeed                 
+              in dealing with nonlinear, nonstationary systems.  The PIs'                    
+              method of approach is to study an architecture comprised of                    
+              several ANNs that each perform specific functions and                          
+              integrate them into a unified design.  These functions                         
+              include:  classification of the patterns exhibited in the                      
+              recent histories of the manipulated input and controlled                       
+              output to form a pictorial model of the current process                        
+              character,  translation of this pictorial model into                           
+              appropriate algorithmic controller parameters for use in any                   
+              of a number of popular on-line controller algorithms,                          
+              controller performance evaluation based on the patterns                        
+              exhibited in the recent history of the controller error, and                   
+              use of this performance evaluation in the unsupervised                         
+              training of the pictorial to algorithmic translation mentioned                 
+              above to improve performance and maintain stability in                         
+              nonlinear and nonstationary applications.  The controller will                 
+              be tested on a range of single-input single-output process                     
+              simulations.  The processes will display a range of                            
+              characteristics, including variations in process order, the                    
+              degree of linearity of the process gain, the variability of                    
+              the dominant time constant, the size of the signal to noise                    
+              ratio, and with both slowly and suddenly changing                              
+              nonstationary changes in the simulated process character.

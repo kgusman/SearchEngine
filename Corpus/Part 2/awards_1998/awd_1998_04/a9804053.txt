@@ -1,0 +1,46 @@
+Title       : Predictable Deforestation: A Typed Approach to Eliminating Virtual Aggregates
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 18,  1998    
+File        : a9804053
+
+Award Number: 9804053
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $50637              (Estimated)
+Investigator: Franklyn A. Turbak fturbak@wellesley.edu  (Principal Investigator current)
+Sponsor     : Wellesley College
+	      
+	      Wellesley, MA  02481    617/235-0320
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804053  Expressing programs as the composition of mix-and-match parts  that
+              communicate via aggregate data structures (lists, trees,  arrays, etc.) is a
+              well-known modularity technique that  simplifies the construction,
+              modification, and verification of  software systems. Unfortunately, programmers
+              often eschew this  technique to avoid the time and space costs of creating, 
+              manipulating, and disposing of intermediate aggregates.  Deforestation is an
+              optimization that reduces these costs  by automatically eliminating some of
+              these aggregates.  With  existing deforestation mechanisms, (1) it is difficult
+              to predict  which aggregates will be eliminated, and thus difficult to reason 
+              about the time and space requirements of the optimized program,  and (2) only
+              simple aggregates and/or producer/consumer  topologies can be handled. The goal
+              of this project is to design  a predictable deforestation technique that
+              addresses these  limitations via a type system that distinguishes between real 
+              aggregates present at run-time and virtual aggregates eliminated  at
+              compile-time. The type system will (1) indicate that  deforestation is possible
+              (or warn the programmer when it  is not); (2) permit the programmer to reason
+              confidently about  the time and space requirements of the optimized program;
+              and (3)  handle a wide range of aggregates and producer/consumer  topologies.
+              Predictable deforestation will be implemented in a  compiler for the ML
+              programming language.***

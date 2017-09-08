@@ -1,0 +1,53 @@
+Title       : Fast and Numerically Accurate Algorithms for Matrices with Displacement
+               Structure
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 10,  1996      
+File        : a9628117
+
+Award Number: 9628117
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $79180              (Estimated)
+Investigator: Thomas Kailath tk@isl.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9217,HPCC,
+Abstract    :
+              Numerous applications in sciences and engineering, as well as in  computational,
+              applied and pure mathematics give rise to problems  involving matrices with
+              Toeplitz, Hankel, Toeplitz-plus-Hankel,  Vandermonde structures,
+              controllability, observability, Cauchy,  Loewner, Pick, Schur-Cohn,
+              Routh-Hurwitz matrices, Bezoutians,  along with many other patterns of
+              structure.  standard  mathematical software tools (e.g., MATLAB, MathCad, Maple
+              V, NAG  library, LAPACK), are based on standard (structure-ignoring)  methods,
+              and therefore their use is often not appropriate for  obtaining a satisfactory
+              solution.  Here are two major reasons.  First, ignoring the structure
+              artificially squares the size of  the data, which requires unnecessary storage
+              and an extremely  large amount of CPU time.  Secondly, many structured
+              matrices,  e.g. Hankel, Pick, Hilbert, Vandermonde, are extremely ill- 
+              conditioned, which means that all available standard methods  often fail to
+              produce even one correct digit in the computed  solution.  The theme of this
+              project is the study of several theoretical and  computational problems related
+              to Cauchy and Cauchy-like  matrices, which arise in many applied areas,
+              including signal  processing, system Theory H-infinity control.  Use of the
+              concept of displacement structure suggests that  algorithms for Cauchy-like
+              matrices can be used to  design  efficient practical algorithms for many other
+              important kinds of  structured matrices, such as Toeplitz, Hankel,
+              Toeplitz-plus-  Hankel, Vandermonde, Chebyshev-Vandermonde matrices, etc.  In 
+              fact, all these matrices can be transformed into Cauchy-like  matrices just by
+              applying a few fast Fourier, cosine of sine  transforms.  It is planned to
+              extend the results to develop fast  and numerically accurate algorithms for new
+              classes of structured  matrices.  ***

@@ -1,0 +1,61 @@
+Title       : ITR: Static and Dynamic Techniques for Latency Hiding in Data-Intensive
+               Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a0085938
+
+Award Number: 0085938
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $800000             (Estimated)
+Investigator: Todd Mowry tcm@cs.cmu.edu  (Principal Investigator current)
+              Garth A. Gibson  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1661,9216,HPCC,
+Abstract    :
+              Many of today's performance-critical applications involve manipulating
+              data
+sets that are either too large or too rarely used to be reliably found
+              in
+local memory caches or local cache servers.  Due to the enormous
+              disparity
+between processor cycle times and disk and network access latencies,
+              these
+applications waste a large fraction of their time waiting for data; as
+              we
+look to the future, this problem is expected to become even worse. 
+              To
+overcome this problem, this research will combine aggressive
+              storage
+prefetching with intelligent cache management to fully hide the data
+              access
+latency while using memory resources intelligently.  Program
+              transformation
+tools and runtime support systems will be developed that
+              collaborate to
+customize memory hierarchy and distributed cache resource
+              management for
+data-intensive applications.  With application-specific
+              guidance of memory,
+network and disk resources, it is possible to decrease
+              execution times by
+orders of magnitude.  The ultimate goal of the research is
+              for programs to
+never waste time waiting for data, and for programmers to
+              never waste their
+valuable programming time thinking about this performance
+              problem.
+

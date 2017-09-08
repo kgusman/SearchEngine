@@ -1,0 +1,54 @@
+Title       : Formal Verification of Hybrid Systems Using Global Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0208956
+
+Award Number: 0208956
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Paul I. Barton pib@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number: 0208956
+Title:  Formal Verification of Hybrid Systems Using
+              Global Optimization
+
+
+The embedding of logic-based controllers in modern
+              technological systems such as automobiles, air and spacecraft, oil refineries
+              and chemical processes, power generation plants and distribution networks,
+              etc., is ubiquitous. Such systems are characterized by a coupling between
+              continuous state dynamics and the discrete state dynamics of the logic based
+              controllers, which are simultaneously responsible for interlock, sequencing and
+              safety functionality. As performance and safety demands on technological
+              systems increase, the design of logic based controllers encompassing all these
+              functionalities simultaneously is increasingly complex. Once a design has been
+              proposed, it is highly desirable to verify formally that the design does indeed
+              implement all the desired functionalities. Ideally this verification step
+              should take into account the continuous dynamics of the underlying
+              technological system. This project is developing formal verification
+              technologies that can accommodate such hybrid systems.
+
+Formal verification
+              problems for hybrid systems can in principle be formulated and solved as
+              mixed-integer optimization problems. However, for formal verification purposes,
+              it is essential to guarantee that the global solution of the optimization
+              problem is found in a finite number of iterations. This project is developing
+              novel deterministic global optimization algorithms for hybrid systems in the
+              continuous time domain that can provide such guarantees.
+

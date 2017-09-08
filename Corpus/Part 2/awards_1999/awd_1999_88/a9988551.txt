@@ -1,0 +1,49 @@
+Title       : A Semantically-Based Methodology for Proving Safety, Liveness, and Security
+               Properties of Parallel Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 5,  2001      
+File        : a9988551
+
+Award Number: 9988551
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Stephen D. Brookes brookes+@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Current research to establish behavioral properties of concurrent systems uses
+              several different paradigmatic semantics, each with its own domain of
+              applicability.  This project develops a unifying denotational semantic
+              
+framework for reasoning about safety and liveness properties of concurrent
+              programs in a broad variety of paradigms, including shared-variable
+              parallelism, asynchronous communicating processes, dataflow networks, and
+              Java-style concurrent objects.  A single, simple, mathematical model based on
+              "transition traces" is applied to interpret these paradigms, permitting
+              analysis and comparison of programs and specifications across paradigms. This
+              denotational approach additionally supports syntax-directed, or compositional,
+              reasoning. By combining concurrency with procedures and local variable
+              declarations, the framework developed will support Java-style concurrent
+              object-oriented programming and assist in developing a formal basis for the
+              design of correct and secure Java programs. Principles of reasoning that apply
+              to multiple paradigms, as well as laws of equivalence specific to a particular
+              paradigm, are identified.  To demonstrate the utility and advantages of the
+              transition-trace approach, semantically-based techniques are applied to
+              security protocols.  The project also explores the applicability of
+              semantically-based reasoning in improving the efficiency of automated model
+              checking. 
+

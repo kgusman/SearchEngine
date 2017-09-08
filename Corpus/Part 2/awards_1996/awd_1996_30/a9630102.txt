@@ -1,0 +1,47 @@
+Title       : Interoperable Query Processing with Networked Heterogeneous Information Servers
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : December 3,  1999   
+File        : a9630102
+
+Award Number: 9630102
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $252003             (Estimated)
+Investigator: Louiqa Raschid louiqa@umiacs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9218,HPCC,
+Abstract    :
+              This research investigates interoperable query processing with heterogeneous
+              networked information servers.  Servers may be databases, image servers, WAIS
+              servers, or Internet search engines.  The sources may support OLE (Object
+              Linking and Embedding) DB or ODMG/OQL (Object Data Management Group/Object
+              Query Language)-like interfaces.  Architectures are based on mediators (based
+              on some common data model), and wrappers (that provide answers from sources in
+              the common model and format). This research defines WHOL, a High Order Wrapper
+              Language, to extend wrapper technology  and support mediator queries that
+              cannot be directly evaluated against the sources.  Techniques for evaluating
+              WHOL queries are developed.  WHOL supports scalability, as new (dissimilar)
+              sources are incorporated, and extends wrappers into active brokers of
+              information. Techniques for flexible mediator query processing are developed, 
+              for wrappers whose capability ranges from simple parameterized functions, to
+              support  complex optimization and evaluation engines.  Cost models for mediator
+              query processing, and semantics for query evaluation in wrappers with
+              unavailable sources, are also developed.  Algorithms are developed for wrapper
+              query processing with time-varying descriptions, and other meta-data, on
+              sources.  Solutions will be incorporated within the Disco architecture being
+              developed in INRIA, France.  This research will extend the capability and
+              scalability of wrappers and mediators in heterogeneous networked architectures

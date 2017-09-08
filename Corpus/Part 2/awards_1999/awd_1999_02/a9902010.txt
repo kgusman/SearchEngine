@@ -1,0 +1,65 @@
+Title       : Theory and Implementation of Algorithms for Semi-Definite and Cone Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 29,  1999      
+File        : a9902010
+
+Award Number: 9902010
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1999       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $230990             (Estimated)
+Investigator: Renato D. C. Monteiro monteiro@isye.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              In a semidefinite programming (SDP) problem, a linear function of a symmetric
+              matrix variable X is minimized subject to linear equality constraints on X and
+              the essential constraint that X be positive semidefinite.  Several problems can
+              be cast as SCP problems including linear programs, convex quadratic problems
+              with convex quadratic inequality constraints, matrix norm minimization and a
+              variety of maximum and minimum eigenvalue problems.  In addition, SDP has many
+              applications in engineering, combinatorial optimization and
+              statistics.
+
+Today, it is known that several interior-point algorithms for
+              linear programs can be extended to SDP problems.  As in linear programming,
+              many of these methods are polynomially convergent and perform very efficiently
+              in practice.  In particular, the class of primal-dual interior-point methods
+              and their higher-order variants are very effective methods for solving SDP
+              problems.  In contrast to linear programming, there are many ways one can
+              compute the Newton search directions used in primal-dual algorithms for SDP. 
+              For this reason, the theory of primal-dual methods for SDP is substantially
+              more difficult than that for LP.  
+
+This project addresses the development of
+              the theory and implementation of algorithms for SDP problems.  The objectives
+              of this research consist of: 1) advancing the knowledge of the theory of
+              polynomial and superlinear convergence analysis of primal-dual methods for SDP;
+              2) studying the existence and asymptotic behavior of continuous trajectories
+              for SDP; 
+3) developing superlinearly convergent higher-order primal-dual
+              methods for SDP problems which do not have strictly complementary solutions; 4)
+              developing interior-point primal-dual algorithms to solve more general classes
+              of cone programming problems; 5) developing new methods for solving specially
+              structured SDP problems based on nonlinear programming techniques; 6)
+              implementing these new approaches and comparing them against existing SDP
+              methods; 7) extending primal-dual interior point algorithms to the context of
+              nonlinear SDP  and complementary problems.
+
+This research will lead to new or
+              improved algorithms to find exact or approximate solutions to large-scale
+              optimization problems arising in diverse applications in industry, finance,
+              science, and engineering.
+

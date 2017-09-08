@@ -1,0 +1,82 @@
+Title       : SCALAR: Scalable Architecture for Replication of Data
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  2001       
+File        : a9902023
+
+Award Number: 9902023
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $220000             (Estimated)
+Investigator: Peter Scheuermann peter@eecs.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number : CCR-9902023
+TITLE :  SCALAR : Scalable Architecture for
+              Replication on the Web
+PI: Peter Scheuermann
+Project Summary:
+
+The wide use
+              of the World-Wide Web and the ease of access to the Internet
+are changing
+              
+drastically our requirements in distributed systems. The
+              exponentially
+growing scale of use of the 
+Web is stressing the capacity of
+              the Internet and leads to poor performance
+and low reliability of 
+Web
+              service. Replication is one of the major techniques that have been
+proposed to
+              overcome these problems.
+
+This project will focus on the development of a
+              prototype system that will
+provide a scalable 
+architecture for replication
+              on the Web.  A new client/server architecture
+that will allow for
+              user-transparent geographic replication is
+investigated. In this system, the
+              clients are downloaded as 
+signed applets to commercially available browsers.
+              Web servers that support
+servlets can be
+directly extended with servlets,
+              otherwise with server-side proxies that
+support servlets. Unlike 
+other
+              proposed Web architectures, both clients and servers take active
+roles in this
+              architecture.
+Server machines determine the documents to be
+              replicated/migrated and best
+locations for the 
+documents, while client
+              machines choose the best server to submit their
+requests based on estimates of
+              the servers' prior response times. Heuristic
+algorithms based on clustering
+              techniques
+will be developed in order to determine sets of documents that
+              be
+beneficially migrated/replicated as a unit.
+                              
+                       
+
+

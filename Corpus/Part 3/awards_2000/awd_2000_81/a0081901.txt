@@ -1,0 +1,85 @@
+Title       : ITR: Collaborative Research: Resource Allocation and Denial of Service
+               Prevention in Active Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0081901
+
+Award Number: 0081901
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $45291              (Estimated)
+Investigator: Jonathan M. Smith jms@central.cis.upenn.edu  (Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9218,HPCC,
+Abstract    :
+              The Internet is used by a rapidly expanding and changing set of applications.
+              The need for the network to evolve and even to provide application specific
+              processing is significant. However the current network infrastructure is hard
+              to evolve and does not readily support customizability. The goal of Active
+              Networking [21, 3, 2] is to facilitate this evolution and customization by
+              making the network infrastructure programmable. One way of adding
+              programability is to allow code to be down-loaded into the routers, thus
+              enabling the addition or modification of services. A more radical approach is
+              to allow the packets themselves to carry programs to be executed selectively on
+              the network's routers. Among other issues, these two approaches increase the
+              possibility of denial of service attacks whereby a user places excessive
+              demands on network resources in order to deny access to another user. However,
+              they also enable new approaches to handling such attacks and to addressing the
+              general problem of allocating resources within the network.
+
+The proposed
+              research focuses on issues involving programmable, or active, packets. Active
+              packets facilitate denial of service attacks in several ways. First, unlike
+              conventional data transport packets, an active packet may require processor
+              cycles and memory at the routers beyond those needed to simply forward the
+              packet. Second, in general, the execution of an active packet at a router may
+              cause more than one active packet to be transmitted from the router. Such
+              behavior is useful, since it allows a packet to fan out across the network, but
+              it is potentially dangerous since it can lead to an exponential growth in the
+              resources used by a single initial packet. Experience with active packet-based
+              systems [9, 8, 23, 22, 24] suggests that denial of service is the single
+              biggest obstacle which must be overcome before such systems are
+              feasible.
+
+The proposed research tackles this problem along various fronts.
+              First, the researchers propose to design packet programming languages that make
+              some types of behavior intrinsically impossible. For example, in PLAN [9],
+              packet programs are guaranteed to terminate and thus can never use an
+              un-bounded number of router cycles. The researchers will explore tradeoffs
+              between restricting behavior in terms of resource requirements and limiting the
+              expressibility and thus the flexibility of active packets. However, not all
+              potentially harmful behaviors can be eliminated in this manner. Thus, on a
+              second front, the researchers will consider mechanisms that explicitly account
+              for a packet's resource usage in the network. For example, each packet may
+              carry a resource bound, which is decremented as resources are used, and which
+              triggers termination when the bound is used up. The proposed research combines
+              both implicit and explicit mechanisms for controlling resource usage, with
+              algorithms to control the flow of traffic into the network to decrease the
+              likelihood of denial of service. More generally, one can envisage assessing
+              costs to active packets that execute on congested resources. Thus, on a third
+              front, the researchers propose to investigate mechanisms based on congestion
+              costs to achieve more efficient resource allocations and how they can be
+              facilitated via active packets.
+
+Three methodologies will be used to validate
+              proposed solutions. First, the researchers will draw on mathematical modeling
+              to motivate the benefits and investigate the characteristics of the proposed
+              solutions. Second, the researchers will leverage expertise and past work on 
+              implementing active networks to demonstrate what is feasible to build, and
+              explore the constraints each solution will place on eventual applications.
+              Finally, the researchers will use network simulation to investigate systems on
+              a scale not achievable on the experimental testbeds.
+

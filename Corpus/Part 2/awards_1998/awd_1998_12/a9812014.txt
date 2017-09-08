@@ -1,0 +1,51 @@
+Title       : Fast Decision Support Queries in Main-Memory: Algorithms, Optimization and
+               Implementation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 26,  1998    
+File        : a9812014
+
+Award Number: 9812014
+Award Instr.: Standard Grant                               
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Kenneth A. Ross kar@cs.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              An organization may place its data into a centralized database from which
+              complex decision-support queries can be made. These queries typically need to
+              process and combine large amounts of data very efficiently. Answers to these
+              queries can be very valuable in the application domain, enabling informed
+              changes to organizational behavior. New techniques for evaluating and
+              optimizing general decision-support queries are being developed in the context
+              of a main-memory database. It is becoming possible to store gigabytes of data
+              in RAM. Thus one begins to ask whether decision support query processing could
+              obtain the performance benefits of having data reside in main memory. The
+              approach taken is to study the performance issues associated with processing
+              complex queries in main memory. By designing and using algorithms, access
+              structures, and data representations tailored to main-memory databases, we can
+              avoid much of the overhead that is apparent in a disk-based system even when
+              the data set fits in main-memory. By allowing updates only in an off-line batch
+              window, one gains the flexibility to organize the data in a way that is tuned
+              for fast query response. A prototype system is being implemented to demonstrate
+              the benefits of the proposed techniques, measured in terms of query response
+              times. The system has a Web interface. The prototype will be evaluated using
+              medical data from the Columbia Presbyterian Medical Center. The novel
+              techniques developed in the course of this project will have broad use in
+              applications that process complex queries over datasets that can fit in main
+              memory. 
+http://www.cs.columbia.edu/~kar
+

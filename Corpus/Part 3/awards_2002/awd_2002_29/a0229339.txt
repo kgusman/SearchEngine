@@ -1,0 +1,83 @@
+Title       : SGER: Path Dissolution in Propositional Logic
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 17,  2002 
+File        : a0229339
+
+Award Number: 0229339
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $40000              (Estimated)
+Investigator: Erik Rosenthal erosenthal@newhaven.edu  (Principal Investigator current)
+Sponsor     : University of New Haven
+	      300 Orange Avenue
+	      West Haven, CT  065161916    203/932-7000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              ABSTRACT
+0229339
+Erik Rosenthal 
+U of New Haven
+
+The problem SAT 
+              determining whether a formula in propositional logic is satisfiable  has
+a
+              long history in computer science. It is important in complexity theory and has
+              myriad applications
+in fields such as robotics, optical character recognition,
+              database systems, computer
+architecture, circuit design, and verification, to
+              name but a few.
+The traditional view of much of the mechanical theorem proving
+              community has been that
+interesting applications of automated deduction
+              require first-order rather than propositional
+logic. That view has begun to
+              change in light of recent successes with propositional logic.
+Propositional
+              logic is of course intractiable (unless NP = P). One approach to this
+              problem
+with knowledge representaion and database systems is knowledge
+              compilation  preprocessing
+the underlying propositional theory. The idea is to
+              do as much computation as possible in an
+offline phase. Then queries in the
+              online phase can be handled quickly. Horn clauses, ordered
+binary decision
+              diagrams, sets of prime implicates/implicants, and decomposable
+              negation
+normal form (DNNF) have all been proposed as targets of such
+              compilation.
+Path dissolution is an inference mechanism that works naturally
+              with formulas in NNF. It
+is strongly complete in the sense that any sequence
+              of link activations will eventually terminate,
+producing a linkless formula
+              called the full dissolvent. The paths that remain are models of the
+original
+              formula. Full dissolvents have been used effectively for computing the prime
+              implicants
+and implicates of a formula.
+Decomposable negation normal form was
+              first introduced in 1998 and is currently being
+studied for application to
+              knowledge representation and database systems. A formula in DNNF
+is a full
+              dissolvent, and it appears that many of the advantages of DNNF exist with full
+              dissolvents.
+It also appears that a full dissolvent of a formula can be
+              obtained more effciently than
+a DNNF representation of the formula. The main
+              thrust of this project will be to examine the
+relationship of DNNF and full
+              dissolvents.

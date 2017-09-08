@@ -1,0 +1,99 @@
+Title       : Switching and Routing for All Wireless Multi-Beam Ad-Hoc Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 7,  2001  
+File        : a0087765
+
+Award Number: 0087765
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300084             (Estimated)
+Investigator: Joseph Y. Hui jhui@asu.edu  (Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The use of multi-beam antenna arrays for transmission and reception allows
+              wireless units to send and
+receive tens of beams in different directions and
+              using multiple frequency bands. If we deploy a large number
+of such multi-beam
+              wireless units over a large area, we obtain a highly connected and high
+              capacity wireless
+network. We call this the All Wireless Network (AWN).
+    
+              Analogous to Dense Wavelength Division Multiplexing (DWDM) in All Optical
+              Networks (AON), we
+propose an analogous Frequency Division (FD) and Space
+              Division (SD) technique for All Wireless
+Networks (AWN). Unlike point-to-point
+              connectivity of an AON, we argue that massively parallel number of
+beams with
+              flexibly assigned direction and frequency from wireless multi-beam units can
+              provide unlimited
+connectivity and bandwidth. We rely on spatial parallelism
+              to achieve an extremely high network throughput.
+     An AWN can be arranged
+              as a spatially distributed multi-stage circuit switch or a fully connected
+              ring,
+allowing multi-rate and multi-cast capability of a parallel and
+              spatially distributed switch fabric. A single
+multi-beam wireless unit can
+              receive from multiple beams to achieve a Gigabit per second throughput for
+              an
+application. The wireless unit can also serve as relay nodes to switch
+              incoming beams of given direction and
+frequency through a switch fabric onto
+              outgoing beams of different direction and frequency. This is analogous
+to all
+              optical switching for DWDM in an AON, except we have an added dimension of free
+              and continuous
+spatial connectivity, rather than fiber-to-fiber
+              connectivity.
+     We shall devise switching and routing theory and techniques
+              for SD/FD circuit switching over AWN,
+taking into account co-channel and
+              adjacent channel interference and various fading factors. We formulate
+metric
+              for routing that accounts for power consumption, distance covered, and
+              externality induced to other
+routes. We study social optimality versus
+              individual optimality for such routing techniques.
+     Using the OPNET
+              software package, we shall implement a simulation of the AWN. The
+              transmitted
+radiation pattern is modeled for each wireless multi-beam unit. We
+              distribute many such units over an area,
+either randomly or using various
+              wireless interconnection network topologies. Propagation barriers are
+              also
+modeled. The graphical simulation provides estimation of power and
+              interference level. Various power control
+and routing protocols will be tested
+              using the simulation software.
+     Theoretical and simulation results will be
+              used to design an Internet Circuit (IC) Router. Routing and
+switching
+              algorithms will be made distributed with a multiple -path connection set-up
+              using a link state routing table, or using source initiated connection
+              requests. We plan to implement a simple IC Router for the
+internetworking of
+              wireless multi-beam units for concept demonstration.
+     We believe that the
+              proposed AWN architecture shall be low cost, high performance, and highly
+              flexible
+for traffic pattern and link/node impairments. The high throughput of
+              the AWN will allow high quality
+multimedia applications to be delivered
+              on-demand entirely by wireless communications.

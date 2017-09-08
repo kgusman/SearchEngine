@@ -1,0 +1,50 @@
+Title       : Automated Detection of Informational Signs and Hazardous Objects: Visual Aids
+               for the Blind
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 11,  2000      
+File        : a9800670
+
+Award Number: 9800670
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1998      
+Expires     : May 31,  2001        (Estimated)
+Expected
+Total Amt.  : $270098             (Estimated)
+Investigator: Alan L. Yuille yuille@ski.org  (Principal Investigator current)
+Sponsor     : Smith-Kettlewell Eye Rsch
+	      2318 Fillmore Street
+	      San Francisco, CA  941151813    415/345-2000
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              This  research  will develop a framework for the rapid  detection,  location, 
+              and  identification of visual targets in  unconstrained  real  world domains. 
+              This framework will lead to algorithms which  can be implemented on portable
+              computers with video input with the  goal  of  being  used, for example, to
+              enable  the  blind/visually  impaired  to  navigate in real world scenes.  
+              These  requirements  mean that the algorithms must be extremely efficient at
+              extracting  information  from  the  input  images.   The  approach  will   use 
+              statistical  analysis of the targets and background,  taking  into  account 
+              variations due to illumination and viewpoint  variations,  to determine
+              probabilistic models for the appearance of the target  and  background.  From
+              these models, sets of tests and  groups  of  tests  will  be  determined. 
+              These tests will be designed  to  be  maximally  informative, based on
+              statistical  measures  of  errors  rates   such  as  Chernoff  Information, 
+              and  to  lead  to   fast  implementations on portable PC's.  The search
+              strategy is based on  the intuition of picking tests which maximize the
+              expected gain in  information  about the target hypothesis.  In practical 
+              problems,  however,  it will not always be possible to compute these expected 
+              information  gains  in real time.  Therefore the  search  strategy  will  make 
+              use  of  a  more general formulation  in  terms  of  A  algorithms where the
+              search is guided by a heuristics taylored  to  the  application  domain. 
+              Expected information  is  one  possible  heuristic  but  there  are  many 
+              others  which  are  more  easily  computable  and which can still give provable
+              convergence  to  the  optimal solution.

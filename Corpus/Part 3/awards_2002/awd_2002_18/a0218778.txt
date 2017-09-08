@@ -1,0 +1,57 @@
+Title       : ITR: Superimposed Training for Wireless Fading Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0218778
+
+Award Number: 0218778
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $290000             (Estimated)
+Investigator: G. Tong Zhou gtz@ece.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1686,9216,HPCC,
+Abstract    :
+              G. Tong Zhou
+Georgia Tech Research Corp
+
+A major challenge in wireless
+              communications is that the channel changes, sometimes rapidly; thus channel
+              state information needs to be acquired frequently before the symbol recovery
+              stage. Two prevalent approaches for channel estimation are training based and
+              self-recovering (i.e., blind) ones. Pilot symbol assisted modulation (PSAM) is
+              a popular training method, in which known pilots are periodically inserted into
+              the symbol stream prior to transmission. These pilot symbols occupy time slots
+              and impose a recurring transmission overhead. Blind approaches on the other
+              hand, are completely data-driven with no loss of information rate but a
+              significant increase in complexity. For fast fading channels, blind algorithms
+              may require too many data to converge or converge too slowly to be
+              practical.
+
+This research investigates a class of superimposed training
+              algorithms that combine the best of both worlds. Instead of inserting pilots as
+              in PSAM, known periodic pilots are superimposed onto the symbol stream, prior
+              to waveform modulation. The channel estimation algorithm may appear to be
+              blind, but is superior to blind approaches because simple first-order, and no
+              more than second-order statistical methods, are used for channel estimation.
+              The superimposed training approach can also be viewed as a watermarking
+              technique with the pilot sequence serving as the marker. It is shown to be
+              applicable to a variety of wireless channels: frequency selective, time
+              selective, and doubly selective fading channels, as well as nonlinear channels.
+              Issues investigated include trade-offs among bit error rate, transmission
+              power, information rate and capacity, as well as optimization of pilot
+              strength, transmission power allocation, and the effect of the added pilots on
+              nonlinear power amp!
+lifiers.

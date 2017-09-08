@@ -1,0 +1,57 @@
+Title       : An Algorithmic Methodology for Validation of Mixed Hardware/Software Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 8,  2001    
+File        : a9900757
+
+Award Number: 9900757
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $345000             (Estimated)
+Investigator: Srinivas Devadas devadas@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Modern integrated systems are often a mixture of hardware and
+              software
+components. Debugging and verifying these embedded computer
+              systems
+requires the integration of hardware and software verification
+              mechanisms.
+This research is investigating methods for checking correctness of
+              an
+embedded system (hardware and software) design by verifying that
+              a
+description of the design has the proper behavior as elicited by a
+              series
+of input stimuli. The approach is called coverage directed validation,
+              and
+coverage metrics are being devised. These measure the extent of
+              design
+verification provided by a set of functional simulation vectors,
+              which
+compute statement execution counts (controllability information), and
+              check
+to see whether effects of possible errors activated by program stimuli
+              can
+be observed at the circuit outputs (observability information). In
+              particular, 
+the project is exploring efficient methods to compute
+              observability-based
+code coverage metrics that can be used for both embedded
+              software and
+HDL coverage.
+
+

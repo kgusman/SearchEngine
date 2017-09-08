@@ -1,0 +1,51 @@
+Title       : Scheduling Proxy and Adaptive Algorithms for Irregular Applications on SMP
+               Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a9988266
+
+Award Number: 9988266
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $120157             (Estimated)
+Investigator: Chengzhong Xu czxu@ece.eng.wayne.edu  (Principal Investigator current)
+Sponsor     : Wayne State University
+	      656 W. Kirby
+	      Detroit, MI  48202    313/577-2424
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Clusters of symmetric multiprocessors (SMPs) are emerging as one of the most
+              cost- effective ways for high performance computing. However, delivering their
+              full potential heavily relies on efficient cluster-wide resource management
+              systems. This project focuses on run-time scheduling techniques for irregular
+              applications on SMP clusters. Since an SNIP cluster deploys a hierarchical
+              organization, it is the depth of the memory hierarchy with its different access
+              primitives and costs at each level that makes dynamic scheduling on the cluster
+              challenge.
+
+The first objective of this project is to develop scheduling
+              proxy architecture to take advantage of the hierarchical organization of the
+              clusters. The architecture designates one of the processors in each SMP, either
+              statically or dynamically, for scheduling among the nodes. The scheduling proxy
+              balances the workload in proportional to the nodal
+capacities and enhances the
+              communication locality. The scheduling proxy architecture facilitates the use
+              of distributed scheduling algorithms between the nodes. The second objective of
+              this project is to develop parametric algorithms, based on existing ones for
+              massively parallel computers, to reflect the possible heterogeneity of the
+              nodes and the communication links. Major undertaking is a rigid analysis of the
+              adaptivity of the parametric algorithms. The scheduling proxy architecture and
+              adaptive algorithms ease the burden of parallel programming and ensure the
+              efficiency of cluster computing.
+

@@ -1,0 +1,129 @@
+Title       : Research Initiation Award: Efficient Algorithms for Automatic Parallel Program
+               Decomposition
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 21,  1996     
+File        : a9409736
+
+Award Number: 9409736
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1994      
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $98220              (Estimated)
+Investigator: Craig M. Chase chase@ece.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+               Parallel program decomposition is the process by which a single  application is
+              decomposed into multiple processes for  execution on parallel  hardware.  For
+              real programs, the  execution speed of a good decomposition can  exceed that of
+              a  poor decomposition by factors of ten or more.  Unfortunately,  optimal
+              program decomposition is known to be an NP-hard  problem, and efficient  exact
+              solutions are unlikely to  exist.  Hence, the key to finding automatic 
+              approaches to  the program decomposition lies in discovering efficient 
+              algorithms that produce approximate solutions.    A novel decomposition 
+              algorithm with nearly linear time  complexity is explored.  The algorithm 
+              initially decomposes  the program into a sequence of small, parallelizable 
+              sections of code, known as partitionables.  A locally  optimal decomposition is
+               selected for each partitionable  based on information contained in an 
+              empirically derived  database.  Dynamic data redistribution is combined with a 
+              static technique called decomposition smoothing to produce a  good global 
+              decomposition.    The principal contributions of the research are:  (1) to 
+              define new methods for program decomposition that go beyond  simply minimizing 
+              communication and consider aggregate  parallel execution performance, (2) to 
+              establish the extent  to which fast decomposition strategies can produce 
+              acceptable solutions for practical applications, and (3) to  collect and 
+              disseminate a database of performance results from kernels of scientific 
+              applications.                                                                  
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                           

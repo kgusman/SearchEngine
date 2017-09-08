@@ -1,0 +1,63 @@
+Title       : ITR/AP: Collaborative Research: Sampling Methods for Optimization and Control of
+               Subsurface Contamination
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 30,  2001    
+File        : a0112653
+
+Award Number: 0112653
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas W. Fogwell                       
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : October 1,  2001    
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $166667             (Estimated)
+Investigator: Cass T. Miller casey_miller@unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      300 Bynum Hall
+	      Chapel Hill, NC  27514    919/962-5625
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Abstract    :
+              The objectives of this project are (1) to simultaneously design optimization
+              methods and subsurface flow and transport simulators for a variety of
+              subsurface contaminant remediation problems, (2) to implement the
+              optimization-simulation combination in a way that exploits parallelism in both
+              the optimization and simulation, including some ideas for grid-based
+              implementations of search-poll type methods, (3) to apply the new algorithms to
+              two demonstration problems, (4) to train a generation of students in this
+              multidisciplinary setting.  Two of the PIs, Dennis and Kelley, have expertise
+              in a wide range of optimization technology, both gradient-based methods for
+              smooth problems and sampling methods for problems for which gradients are not
+              available.  Kelley and Miller have a long-standing collaboration in numerical
+              methods for simulation of multi-phase flow.  The PIs will exploit this
+              expertise and design the simulators and optimization algorithms simultaneously.
+               There will be IT-centered activity in software.  Two codes, FOCUS and IFFCO,
+              are under development by the principal investigators.  The most mature of
+              these, IFFCO an implicit filtering optimization code, will be ported to MPI
+              from PVM, packaged for ease of installation and testing, documented as a book,
+              and released in final form.  The PIs will also continue to develop FOCUS, an
+              implementation of the surrogate management framework ideas.  Remediation of
+              subsurface contamination is an important issue world-wise. The goal is to clean
+              up, or render immobile, underground contaminants such as fuel spills from
+              underground tanks or industrial waste from leaking drums, and do this at
+              minimum cost.  Management decisions must be made, and the potential financial
+              penalty of bad decisions is great.  Mathematical models of subsurface systems
+              are often used to assist in making such decisions and these models are
+              increasingly linked with optimization approaches to aid design and management
+              decision making.  Subsurface remediation strategies involve decisions such as
+              the restoration approach to use, the selection of locations to install devices,
+              such as wells, and the rates of extraction from or injection into these wells. 
+              There are open scientific problems in simulation related to fundamental
+              modeling and choice of numerical methods that need to be addressed as part of
+              the design of software to optimize the remediation methods.  The three PIs have
+              expertise in simulation, modeling, and experimental work in multi-phase flows
+              as well as broad expertise in optimization methods.  The objectives of this
+              project are to design models, simulators, and optimization methods
+              simultaneously with the goal of more efficient optimal design based on more
+              accurate models.

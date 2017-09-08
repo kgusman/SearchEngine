@@ -1,0 +1,192 @@
+Title       : CAREER: Simulation of Lighting and Acoustics in Interactive Virtual Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  2003   
+File        : a0093343
+
+Award Number: 0093343
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2001      
+Expires     : February 28,  2006   (Estimated)
+Expected
+Total Amt.  : $325004             (Estimated)
+Investigator: Thomas A. Funkhouser funk@cs.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              The long-term goal of my integrated research and educational
+plan is to develop
+              interactive virtual environment sys-tems
+supporting realistic aural/visual
+              simulation of large 3D
+models containing multiple interacting
+              users.
+
+Research Plan
+
+The main objective of the proposed research project
+              is to
+develop efficient algorithms for simulating the propagation
+of light
+              and sound waves through a virtual environment by
+scattering at surfaces of a
+              3D model. This research problem
+is central to providing a realistic experience
+              in an
+immersive virtual environment, as its solution enables
+global
+              illumination and sound spatialization. It is also
+significant for several
+              other applications, including motion
+planning, inverse modeling, scene
+              capture, heat transfer,
+radio power prediction, fire propagation, and
+              traffic
+analysis, which are all important in fields beyond immersive
+virtual
+              environments.
+
+For simulations of both lighting and acoustics,
+              the
+fundamental problem is to compute a solution to an integral
+equation
+              expressing the wave field at every point in terms
+of the wave field on
+              surrounding surfaces. The main
+difficulty is that the wave field has
+              discontinuities due to
+occlusions, caustics, and specular highlights, which
+              induce
+large variations over small portions of the integration
+domain (i.e.
+              surfaces or directions). Previous integration
+methods based on radiosity and
+              Monte Carlo path tracing are
+generally not practical for typical virtual
+              environments.
+
+I plan to investigate a hybrid beam tracing and path
+              tracing
+approach. The general strategy is to trace beams that
+partition the
+              space of rays into topologically distinct
+bundles corresponding to different
+              sequences of scattering
+events at surfaces of the 3D scene
+              (reverberation
+sequences), and then use them to guide sampling in
+              an
+interactive path tracing algorithm. The motivation for this
+approach is
+              that attributes of a relatively small number of
+beams traced during the first
+              phase can provide useful
+information about the wave field that can be used to
+              guide
+and accelerate evaluation of samples during the second
+phase. This
+              approach enables efficient methods for: 1)
+enumeration of reverberation
+              sequences, 2) decomposition of
+integration domain, 3) conservative
+              approximation, 4)
+spatial coherence in ray intersections, 5) sampling
+              of
+reverberation sequences, 6) progressive refinement, and 7)
+off-line
+              precomputation. The challenge is to develop methods
+that trace beams through
+              3D models quickly and reap the
+benefits of the traced beams in useful
+              applications.
+
+My research plan is to investigate hybrid beam tracing
+              and
+path tracing approaches to solve classical problems for
+virtual
+              environments. The new research contributions will be
+made at four levels:
+              theory, algorithms, applications, and
+experiments. First, I plan to
+              investigate new theory for
+modeling wave propagation as a discrete set of
+              reverber-
+ation paths incorporating multiple scattering effects
+including
+              diffractions. Second, I plan to develop new
+algorithms that efficiently find
+              significant reverberation
+paths with general types of scattering in general 3D
+              models.
+Third, I plan to investigate new applications where the
+proposed
+              approach for computing reverberation paths can be
+used to solve classical
+              problems. Finally, I plan to perform
+experiments to evaluate the results of
+              computed simulations
+both quantitatively and qualitatively in comparison
+              to
+measured wave fields. The overall outcome of this research
+will be a
+              computational framework and a suite of methods for
+computing general
+              reverberation paths in general 3D models
+and evaluating them in interactive
+              applications.
+
+Throughout this project, I plan to investigate the
+              synergies
+between sound and light and to apply the lessons learned
+from one
+              wave phenomenon to the other. Based on historical
+precedent, I believe that it
+              will be possible to develop
+better simulations of virtual environments by
+              studying both
+sound and light together.
+
+Educational Plan
+
+The objectives
+              of my educational plan are to teach students
+and to develop new methods for
+              education. In particular, one
+special goal of mine is to enable the use of
+              interactive
+virtual environment systems in the educational process. I
+plan to
+              investigate this novel media for education by
+designing new interdisciplinary
+              courses that will allow
+students and teachers from widely varying backgrounds
+              to
+learn about and experiment with virtual environment systems.
+I also plan
+              to develop new educational materials (textbook,
+course notes, software tools,
+              and 3D models), to mentor
+students (graduate, undergraduate, and K-12), and to
+              develop
+outreach programs for disadvantaged people (mentoring
+              under-
+privileged students and deploying
+              handicap-assisting
+applications).
+
+By both developing interactive virtual
+              environment systems
+for research, and investigating their use for teaching,
+              my
+research and educational activities are uniquely integrated.
+

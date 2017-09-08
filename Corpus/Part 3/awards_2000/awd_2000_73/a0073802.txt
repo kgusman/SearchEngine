@@ -1,0 +1,75 @@
+Title       : High Performance QoS Routing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0073802
+
+Award Number: 0073802
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Klara Nahrstedt klara@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Internet traffic has increased at an exponential rate over the past decade.
+               Much of recent explosion in Internet data can be attributed to the phenomenal
+              growth in the number of new users, the migration of corporate data to the
+              Internet, and a surge in usage of multimedia as a content delivery medium.  As
+              a result, Internet traffic has doubled every few months and shows no signs of
+              slowing down.  Another development is the ever increasing demand for multimedia
+              applications such as ReadAudio, Windows Media and others.  These applications
+              would benefit greatly if the underlying network infrastructure provided some
+              form of Quality of Service (QoS) guarantee.
+     Attempting to keep pace with
+              the bandwidth and other QoS requirements for multimedia applications, network
+              equipment vendors and Internet service providers have continuously developed
+              and deployed faster routers and higher speed links at the edges of backbone
+              networks.  Yet current demand for QoS guarantees within the routers still far
+              exceed the supply.  Recent development of Internet differentiated services
+              (DiffServ) aims to provide services such as premium and assured services in
+              addition to the existing best-effort service within routers in order to satisfy
+              the demand for bandwidth and other QoS requirements.  However several routing
+              problems with respect to QoS guarantees are still open.
+     The researchers
+              will investigate the limitations of the current IP routers and their routing
+              algorithms leading to the development of a high-performance QoS routing
+              framework.  The researchers will apply two major ideas: differentiated routing,
+              deploying different types of routing protocols for different service classes in
+              an integrated fashion, and parallel algorithms and structures within the
+              routers to decrease the routing overhead.  Hence, primary objectives of the
+              proposed framework are to implement and theoretically support two innovative
+              elements: (1) differentiated routing services and protocols to provide
+              differentiation in routing decisions depending on QoS requirements, and (2) a
+              QoS-aware router architecture with parallel computation on multiple general
+              purpose processors to achieve cost effective, scalable and high-throughput
+              routing.
+     The first objective, exploration of differentiated routing, will
+              allow the researchers to provide QoS-aware routing decision solutions within
+              DiffServ networks.  The second objective, investigation of parallel algorithms
+              and structures within a QoS-aware router architecture, will allow the
+              researchers to provide fast solutions, hence low per-packet routing overhead,
+              to three major problems within DiffServ routers: routing table computation,
+              packet forwarding and packet scheduling.
+     To achieve these two objectives,
+              the researchers will investigate concepts and theoretical framework for
+              high-performance QoS routing, and verify concepts and theoretical framework via
+              simulations and prototype implementation.
+     What makes this research
+              feasible and promising are recent developments in QoS-aware systems, parallel
+              algorithms and end-to-end QoS routing algorithms.  These components make it
+              possible to support flexible and generic high-performance QoS routing
+              framework, accessible to any distributed multimedia applications.
+

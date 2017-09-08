@@ -1,0 +1,62 @@
+Title       : CAREER: Employing Flow Analyses in Practical Program Transformation Environments
+               for Mostly-Functional Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 5,  1999      
+File        : a9623753
+
+Award Number: 9623753
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1996       
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: J. Michael Ashley jashley@eecs.ukans.edu  (Principal Investigator current)
+Sponsor     : U of Kansas Ctr for Res In
+	      2385 Irving Hill Drive
+	      Lawrence, KS  660457563    785/864-3441
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,2891,9216,HPCC,
+Abstract    :
+              A flow analysis is an automatic tool that collects information  about programs.
+              Flow information is crucial, for without it the  correctness of sophisticated
+              program transformations cannot be  verified. Such transformations are
+              important, because they can  transform a program written to solve a problem
+              cleanly into a new  program that, for example, is more efficient and fault
+              tolerant.  Ultimately, flow analysis-justified transformations can boost 
+              software reliability and programmer productivity. Despite their  utility,
+              however, existing flow analyses for mostly-functional  languages are
+              impractical for use in production-quality  environments. They have high
+              algorithmic complexity, they can  only process language subsets, and they are
+              accurate only when  programs are written in a certain style.    This CAREER
+              project has three goals to address these problems and  incorporate advanced
+              analysis techniques into the undergraduate  curriculum. The first goal is to
+              use a practical flow analysis in  a production Scheme compiler to justify
+              optimizations. The second  goal is to use the flow analysis and the experience
+              gained from  its application to develop a program transformation toolkit for 
+              building automatic, flow analysis-based program transformers. The  third goal
+              is to incorporate the results into the undergraduate  curriculum so that
+              students understand what a flow analysis is,  how it works, and how it can be
+              profitably applied.    Achieving these goals advances both research and
+              education.  Besides solving the above problems, the research aspect of this 
+              project pursues contributions in the areas of language  implementation and
+              semantics-based program manipulation.  In particular, optimizations are being
+              implemented that can  improve the performance of dynamic languages, program 
+              transformation techniques are being developed that allow more  realistic
+              programs to be manipulated. The transformation toolkit  developed is expected
+              to provide the research community with  needed infrastructure for 
+              experimenting with transformations.    The educational aspect of this CAREER
+              investigation seeks to  improve the undergraduate programming languages
+              curriculum by  addressing the distinction between static and dynamic properties
+               of programs and how static information can be used to optimize  programs. Such
+              an understanding is essential to undergraduate  education as programming
+              languages are playing an increasingly  prominent role in customizable software.
+               ***

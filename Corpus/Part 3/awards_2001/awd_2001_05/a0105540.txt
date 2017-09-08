@@ -1,0 +1,61 @@
+Title       : Increasing Parallel Program Performance with the LC Memory Consistency Model
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a0105540
+
+Award Number: 0105540
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Lori L. Pollock pollock@udel.edu  (Principal Investigator current)
+              Guang R. Gao  (Co-Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              This research takes a significant step towards enabling and evaluating the
+              application of compiler
+optimizations for uniprocessor performance within
+              explicitly parallel programs, with a flexible view
+of memory consistency. Two
+              important unanswered questions are targeted: 
+(1) What kind of performance can
+              be gained with the Location Consistency (LC) memory model in comparison
+to the
+              sequential consistency (SC)-derived models for shared memory parallel
+              programs,
+amidst the new developments of compiler analysis and optimization
+              for SC-derived models?
+(2) As a compromise between the two divergent
+              approaches, can both the SC-derived models and the LC model be supported within
+              the same program, by developing a programmer-controlled memory consistency
+              strategy
+supported by compiler technology?
+The results
+will include:
+(1)
+              specification and implemenation of a programming model that assumes an
+              end-to-end view of the memory system based on the LC model, and a study of its
+              programmability,
+(2) compilation analyses to uphold programmer-controlled
+              memory consistency so programmers can choose between the memory models in
+              different parts of the same application,
+(3) development and refinement of
+              cache consistency protocols based on the LC model in a software caching
+              context,
+(4) experimental evaluation of compiler optimization and program
+              performance under
+different memory consistency models and cache protocols.
+

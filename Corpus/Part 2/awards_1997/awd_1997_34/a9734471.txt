@@ -1,0 +1,46 @@
+Title       : Career: Adaptive Parallel Processing for Dynamic Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  2001     
+File        : a9734471
+
+Award Number: 9734471
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1998       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Lawrence Rauchwerger rwerger@cs.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Existing restructuring compilers have been successful in  detecting the
+              parallelism of regular programs, i.e., codes  with relatively simple access
+              patterns that are  statically (compile time) defined, by using current 
+              dependence tests and symbolic methods. Unfortunately, for  more than 50% of
+              programs the access pattern are either very  complex or are completely
+              undefined before execution.  Examples of such "cycle consuming" applications
+              are SPICE,  DYNA-3D, GAUSSIAN, DMOL, CHARMM and FIDAP. As modeling  techniques
+              become more sophisticated, future large scale  simulations will be mostly
+              dynamic in nature, thus  increasing the fraction of statically non-analyzable
+              codes  and therefore effectively decreasing the coverage of current  compiler
+              technology. Sparse, dynamic programs are  fundamentally intractable through
+              classic compile-time  analysis techniques making parallelization or other 
+              optimizations impossible. This work will extend the coverage  of current
+              technology to dynamic programs by creating a  framework that will complement 
+              static compilation  with run--time  analysis and optimization techniques. 
+              Application level programmable hardware for the acceleration  of certain
+              simple, repetitive operations will also be  studied. Finally, an adaptive
+              strategy in which static and  run-time methods will be connected in an adaptive
+              loop with  hardware and software performance monitors and statistical 
+              databases will tune the application to its data during  execution.

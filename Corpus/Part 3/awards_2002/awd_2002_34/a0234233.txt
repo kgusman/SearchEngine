@@ -1,0 +1,66 @@
+Title       : SOFTWARE: Autonomous Scheduling on Large Distributed Systems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : February 21,  2003  
+File        : a0234233
+
+Award Number: 0234233
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2003  
+Expires     : December 31,  2005   (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Jeanne Ferrante jferrante@ucsd.edu  (Principal Investigator current)
+              Larry Carter  (Co-Principal Investigator current)
+              Henri Casanova  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Advances in network and middleware technologies have brought computing with many
+              widely-distributed and heterogeneous resources to the forefront, both in the
+              context of Grid Computing and of Internet Computing.  These large distributed
+              platforms allow scientists to solve problems at an unprecedented scale and/or
+              at greatly reduced cost.  The high level goal of this work is to further the
+              development of software methodologies and algorithms to enable
+              scientists,
+engineers and others to use large heterogeneous distributed
+              systems.
+
+Application domains that can readily benefit from such platforms
+              are many; they include computational neuroscience, factoring large numbers,
+              genomics, volume rendering, protein docking, or even searching for
+              extra-terrestrial life.  Indeed, those applications are characterized by large
+              numbers of independent tasks, which makes it possible to deploy them on
+              distributed platforms with high network latencies.  More specifically, in this
+              work we assume that all application data initially resides in a single
+              repository, and that the time required to transfer that data is a significant
+              factor. Efficiently managing the resulting computation is a difficult and
+              challenging problem, given the heterogeneous and typically dynamic attributes
+              of the underlying components.  Such an approach allows for adaptivity and
+              scalability, since decisions and changes can be made locally.  
+This approach
+              is particularly effective for scheduling in environments that are heterogenous,
+              dynamic, and unstructured, such as global and peer-to-peer computing platforms
+              consisting mostly of home PC's.
+
+This research develops a simple yet general
+              computation and communication model for Grid and Internet platforms, and
+              autonomous and decentralized scheduling techniques based on this model.  It
+              analyzes the optimality of these techniques in terms of steady-state and
+              overall application performance. Further, it encorporates adaptability and
+              fault-tolerance, and evaluates the resulting techniques by both simulating and
+              running real applications on actual testbeds.  Its overall impact to the
+              scientific community is to enable scientists to solve important classes of
+              problems faster and in a more cost-effective fashion.
+
+

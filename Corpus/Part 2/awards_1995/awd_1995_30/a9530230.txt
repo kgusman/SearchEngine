@@ -1,0 +1,54 @@
+Title       : SBIR Phase II: Implicit Massively Parallel Navier-Stokes Solver for Hybrid
+               Structured-Unstructured Grids
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : August 30,  1996    
+File        : a9530230
+
+Award Number: 9530230
+Award Instr.: Standard Grant                               
+Prgm Manager: Sara B. Nerlove                         
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1996    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $296643             (Estimated)
+Investigator: Scott T. Imlay   (Principal Investigator current)
+Sponsor     : Amtec Engineering Inc
+	      3075 112th Avenue NE, Suite 100
+	      Bellevue, WA  980048003    206/827-3304
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              ***  Imlay   9530230         This Small Business Innovation Research Phase II
+              project will develop an efficient Computational Fluid Dynamics (CFD) software
+              package which uses hybrid structured-unstructured grids to minimize the grid
+              generation effort, and massively parallel processing (MPP) computers to
+              minimize run time. The recent emergence of high performance MPP computers has
+              theoretically reduced the computer time required for the design and analysis of
+              systems involving fluid flow using CFD. However, in practice, algorithms used
+              in MPP today were developed for sequential computers and therefore do not
+              harness the full power of massively parallel processing. Also, MPP computers
+              have not simplified the structured grid generation process, which may take
+              weeks for complex  configurations. During phase I, an efficient implicit
+              finite-volume method was developed for solving the 2D Navier-Stokes equations
+              on MPP computers using hybrid structured-unstructured grids and domain
+              decompostion. The structured grids are used to resolve boundary layers near
+              walls and unstructured grids are used to discretize the remainder of the flow
+              field. During phase II, the algorithm will be extended to 3D, the domain
+              decompostion will be expanded and improved, and quasi-dynamic load balancing
+              will be added. Also, the potential market will be broadened by adding
+              incompressible flow capability, the ability to run in parallel on networks of
+              engineering workstations, and an interactive MOTIF user interface which will
+              make the parallelism nearly transparent to the users.       The proposed
+              solution algorithm has the potential to dramatically reduce the time required
+              to perform a CFD analysis. The use of hybrid grids will simplify the grid
+              generation process for practical (complex) geometries and the use of MPP
+              computers will reduce the run time. The resulting analysis package will be
+              marketable to the aerospace industry and other industries.   ***

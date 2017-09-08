@@ -1,0 +1,109 @@
+Title       : Algorithms for Discrete and Stochastic Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 5,  2002     
+File        : a0208015
+
+Award Number: 0208015
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2002     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $122000             (Estimated)
+Investigator: Howard C. Elman elman@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              This project concerns the development and analysis of efficient
+numerical
+              algorithms for problems arising in computational modeling,
+with emphasis on
+              two main topics: algorithms for systems of equations
+arising from the
+              stochastic finite element method, and algorithms for
+algebraic systems arising
+              in models of fluid dynamics.  The first of
+these addresses the fact that
+              models of physical phenomena often
+contain parameters or equation coefficients
+              whose precise properties
+are not well understood.  Examples include
+              permeability properties of
+media in which quantities (e.g., pollutants in
+              groundwater) are
+flowing or diffusing, and boundary conditions (e.g., along
+              the ocean
+bottom).  In the stochastic finite element method, the random
+              aspects
+of problems are handled in a manner analogous to the introduction
+              of
+new spatial dimensions.  This methodology appears to have the
+potential to
+              be more efficient than Monte-Carlo methods, provided
+efficient algorithms are
+              available for the algebraic systems that are
+generated after discretization. 
+              Our aim is to study the algorithmic
+issues that arise from this approach.  For
+              the second project, we will
+develop and study efficient algorithms for solving
+              systems of
+equations arising in models of incompressible flow,
+              principally,
+methods for eigenvalue problems derived from linear stability
+              analysis
+of steady solutions, and multigrid algorithms for the
+              discrete
+convection-diffusion equation.  These are fundamental problems
+              arising
+throughout fluid dynamics, and their efficient solution is
+              critical
+for development of effective computational models.
+
+The general aim
+              of this project is to enhance the utility and
+effectiveness of mathematical
+              modeling for understanding scientific
+and engineering phenomena.  There are
+              useful models for many disparate
+physical processes, including blood flows,
+              dispersal of environmental
+pollutants, performance of aerospace vehicles, and
+              atmospheric and
+oceanographic phenomena.  Understanding such processes through
+              purely
+experimental techniques is prohibitively expensive or
+              impossible,
+whereas the use of modeling and together with algorithmic
+              solution
+introduces a basic understanding of the physics by
+              providing
+approximations to quantities such as flow rates and
+              pressures.
+Accurate solutions are only available, however, if reliable and
+              fast
+solution algorithms can be used.  Moreover, it is often the case
+              that
+certain aspects of models, such as the geologic properties
+              of
+transporting media or the velocities of flows along boundaries, are
+not
+              known with certainty.  Our goal for this work is to develop fast
+solution
+              algorithms for mathematical models and to ensure that the
+solution strategies
+              are able to handle uncertainty and to produce
+reliable statistical information
+              about solutions at low computational
+cost.
+

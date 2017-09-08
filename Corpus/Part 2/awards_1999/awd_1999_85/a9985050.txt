@@ -1,0 +1,69 @@
+Title       : CAREER: Compiler Optimizations for Low Power
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a9985050
+
+Award Number: 9985050
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Ulrich Kremer uli@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              Current low power technology focuses on low power hardware designs
+and OS-level
+              power management. In contrast, compiler support for 
+low-power is still in its
+              infancy, mainly due to the fact
+that most classical optimizations for speed
+              and space    
+typically reduce a program's overall power consumption as well,
+              
+making power as a separate optimization objective redundant. 
+However,
+              recent trends and developments in architecture and OS 
+design have made power
+              dissipation an optimization objective in its
+own right. These recent
+              developments are (1) more advanced OS-level 
+power management support, (2)
+              availability of low-power wireless 
+communication, and (3) reconfigurable
+              architectures with dynamic 
+voltage scaling capabilities. This project
+              investigates low-power 
+optimizations in the context of the Java programming
+              language. Java 
+has become the language of choice for portable programming
+              across a 
+variety of different architectures, including mobile computers,
+              
+personal digital assistants (PDA), and embedded systems. Such devices 
+rely
+              on battery power for significant periods of their up-time, if 
+not during the
+              entire time of their operation, making power savings 
+a crucial issue. The new
+              low-power optimizations may trade-off 
+execution time for power savings. They
+              include application-driven 
+power management, location-aware method/task
+              mapping to remote 
+servers, and instruction scheduling for reconfigurable
+              architectures 
+with dynamic voltage scaling. 
+

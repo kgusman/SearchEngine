@@ -1,0 +1,54 @@
+Title       : Parallel Algorithms for Many-Body Problem for Atoms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 16,  1992      
+File        : a9005687
+
+Award Number: 9005687
+Award Instr.: Continuing grant                             
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1990 
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $159599             (Estimated)
+Investigator: Charlotte F. Fischer cff@vuse.vanderbilt.edu  (Principal Investigator current)
+Sponsor     : Vanderbilt University
+	      512 Kirkland Hall
+	      Nashville, TN  37240    615/322-2631
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,
+Abstract    :
+                                                                                             
+              The many-body problem in quantum mechanics is well-known for its               
+              complexity, but with the aid of supercomputers it should be                    
+              possible to increase the accuracy of calculations by several                   
+              orders of magnitude.  The use of supercomputers, however,                      
+              presents many problems - new methods and new approaches need to                
+              be developed.                                                                  
+                                                                                             
+              The long-range goal of this project is to develop parallel                     
+              algorithms for atomic structure calculations, based on the proven              
+              multiconfiguration Hartree-Fock method (MCHF), that execute                    
+              efficiently on vector/concurrent architectures such as the shared              
+              memory Cray Y-MP and the distributed memory Intel iPSC-RX                      
+              hypercube.  The first task is the revision of the finite                       
+              difference methods used by MCHF to spline based methods for which              
+              higher accuracy and better vectorization properties have been                  
+              achieved.                                                                      
+                                                                                             
+              The use of splines in MCHF atomic structure calculations, leads                
+              to large, sparse, generalized eigenvalue problems for which only               
+              a few eigenvalues and eigenvectors are needed.  Often the problem              
+              is a non-linear, generalized eigenvalue problem.  Another                      
+              frequently occurring problem is the solution of large, sparse,                 
+              structured systems of equations where parts of the matrix are                  
+              dense.  Vector/concurrent algorithms for these problems will be                
+              developed and incorporated into an atomic structure package based              
+              on the MCHF method.

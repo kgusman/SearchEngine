@@ -1,0 +1,88 @@
+Title       : Fast, High Order Vortex Methods Based on Deforming Basis Functions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 27,  1999      
+File        : a9971800
+
+Award Number: 9971800
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1999     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $71000              (Estimated)
+Investigator: Louis F. Rossi Louis_Rossi@uml.edu  (Principal Investigator current)
+Sponsor     : Univ of Mass Lowell
+	      600 Suffolk Street
+	      Lowell, MA  018543602    978/934-4705
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9971800
+
+This project expands and enhances existing knowledge of a new
+              category of vortex method based on deforming basis functions.  Vortex methods
+              approximate the vorticity field of a flow as a linear combination of localized
+              basis functions.  These basis functions move with the flow velocity at the
+              basis function centroid, and the velocity field is calculated from the
+              vorticity field through a Biot-Savart integral.  For flows dominated by
+              isolated regions of vorticity, vortex methods offer considerable advantages
+              because they are naturally adaptive in the sense that computational elements
+              are dedicated exclusively to regions that have vorticity.  Most vortex methods
+              use rigid, axisymmetric basis functions though there are some exceptions.  This
+              project studies vortex methods that use basis functions which deform with local
+              flow deviations, and builds upon the recent development of a high spatial order
+              vortex method based on deforming elliptical Gaussians.  Elliptical Gaussians
+              are special in the sense that they represent self-similar, exact solutions to
+              the relevant advection-diffusion equation.  To implement such a scheme, one
+              must develop methods for evaluating the Biot-Savart integral for an elliptical
+              Gaussian and identify the relevant convergence parameters for the method as a
+              whole.  Though a two-dimensional scheme has already been developed, the
+              Principle Investigator will enhance this method by developing a fast summation
+              algorithm.  The Principle Investigator will extend this method to three
+              dimensions, providing a crucial link between vortex stretching and the geometry
+              of vortex filaments.  The new method will be used to perform careful
+              calculations of a variety of problems including vortex dipole collisions and
+              jet transients.  Finally, the Principle Investigator will extend this approach
+              to moisture transport through unsaturated porous media.
+
+This work provides a
+              means of quickly and accurately calculating fluid flow properties on a wide
+              range of problems including but not limited to aerospace applications,
+              industrial processes, ocean currents and atmospheric flows of all sorts.  The
+              Principal Investigator will also extend these concepts along new lines to
+              develop methods that can accurately calculate the motion and diffusion of
+              moisture and contaminants in unsaturated soils.  This type of method, called a
+              "vortex method", is unusual in that these schemes are naturally adaptive.
+              Naturally adaptive methods dedicate computational resources exclusively to the
+              dominant regions of the flow.  These methods simulate flows by calculating the
+              evolution of the local angular momentum in the fluid.  Often, the angular
+              momentum is restricted to a small fraction of the total volume of the fluid. 
+              For instance, weather systems are driven by a collection of storm systems that
+              represent concentrated regions of angular momentum.  Using such a method, one
+              can reconstruct the entire flow field based solely on the evolution of the
+              angular momentum which means that the computer only need perform calculations
+              over a small area to capture the entire flow field.  Vortex methods have the
+              added advantage of being easily parallelized on multiple processor computers so
+              that one can take full advantage of supercomputing facilities and networks of
+              connected computers.  Also, the Principal Investigator will apply these
+              techniques to an entirely new type of problem involving flow through
+              unsaturated porous media such as dry soils, clays or concrete.  Similar to
+              vortex methods, this new technique takes advantage of the fact that the
+              movement of moisture is dominated by narrow "preferred paths" occupying a
+              relatively small fraction of the total domain of interest.  These paths are
+              created by moisture-media interactions, and the computer need only dedicate its
+              resources to those regions containing moisture.  Finally, many aspects of these
+              activities make excellent undergraduate research projects.  These research
+              activities will enhance students' interests and knowledge in mathematics,
+              environmental science and high performance computing.  Thus, in addition to its
+              scientific merits, this project will give students at the University of
+              Massachusetts Lowell meaningful research experiences and enhance collaboration
+              across several disciplines.
+

@@ -1,0 +1,86 @@
+Title       : Modulated Coding For Frequency-Selective Multipath Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 23,  2002       
+File        : a0097240
+
+Award Number: 0097240
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $299105             (Estimated)
+Investigator: Xiang-Gen Xia xxia@ee.udel.edu  (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              This research involves the mitigation of  multipath interferences
+in a
+              frequency-selective fading channel. As broadband digital
+              wireless
+communications is more demanded than ever, such as wireless
+              image/video
+web browsing and wireless data transmission, the technical
+              challenges
+are exponentially increasing. One of such challenges is that, when
+              the
+bandwidth of a channel becomes wider, there are more severe multipaths
+in
+              a wireless system. This implies that the multipath interference
+mitigation
+              becomes more important than ever.
+
+Modulated coding (MC), a convolutional
+              coding defined on the complex
+field, has been recently proposed by the PI to
+              optimally mitigate
+intersymbol interferences (ISI) when the ISI channel is
+              known at both
+the transmitter and the receiver. The advantage of MC is that,
+              since
+the arithmetic operations of both MC and ISI are over the complex
+              field,
+they can be naturally combined together, which provides the
+              convenience
+of the optimal MC study for a given ISI channel. Since the
+              encoding
+simplicity of the MC, it is also convenient for further adding
+              a
+conventional error correction coding (ECC) before the MC. It has been
+shown
+              that the combined MC and turbo coding of an ISI channel may
+outperform the
+              AWGN channel capacity at low SNR. As an example, for the
+two tap ISI channel
+              [0.7071,0.7071], the bit error rate is 0.00001 at the
+code rate 1/4 and the
+              SNR E_b/N_0=-1.15 dB, which is above the AWGN
+channel capacity. The
+              disadvantage of the previous MC study is that the
+transmitter needs to know
+              the ISI channel, which although may be possible
+for some applications, such as
+              storage channels and  wireline channels,
+may not be practical for some other
+              applications, such as wireless
+channels. The aim of this proposal is to
+              optimally design and update MC
+without the full knowledge of the ISI/multipath
+              channel at the
+transmitter with applications, in particular, in wireless
+              communication
+systems. Due to the simple structure of MC, the MC update at
+              the
+transmitter is possible, which is unlike the existing coding schemes.
+
+

@@ -1,0 +1,56 @@
+Title       : Non-Lipschitz Optimization Problems Involving Eigenvalues
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2001       
+File        : a0098145
+
+Award Number: 0098145
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $276142             (Estimated)
+Investigator: Michael L. Overton   (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0098145
+New York University
+Michael Overton
+
+Non-Lipschitz
+              Optimization Problems involving Eigenvalues
+
+Optimization problems involving
+              eigenvalues arise in many applications.  In recent years, attention has focused
+              on semidefinite programs, which are linear optimization problems in the space
+              of real symmetric matrices, with positive semidefinite constraints.  This
+              project focuses on optimization problems in the larger space of square
+              matrices, not necessarily symmetric.  
+
+In the problems being studied,
+              eigenvalues may appear in the optimization objective, in the constraints, or
+              both.  The dependence of eigenvalues as functions of a matrix is non-Lipschitz
+              at points where the eigenvalue
+multiplicity is greater than one.  Hence, such
+              optimization problems are non-Lipschitz. They arise in areas ranging from
+              control theory (e.g., stability constraints) to Markov chains (e.g., optimizing
+              convergence rates).
+
+The goal is fourfold:  analyze theoretical questions
+              including necessary and sufficient conditions for optimality; build on these
+              theoretical foundations to develop numerical algorithms that are able to find
+              minimizers and verify that they satisfy optimality conditions; implement the
+              algorithms in software that can be used by the general scientific community;
+              and apply the results to the solution of important interesting problems that
+              arise in practice.

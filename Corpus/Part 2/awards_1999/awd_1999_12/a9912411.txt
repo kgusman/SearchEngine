@@ -1,0 +1,37 @@
+Title       : Geometric Modelling Using Non-Uniform Catmull-Clark Surfaces
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2000      
+File        : a9912411
+
+Award Number: 9912411
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2000       
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $265002             (Estimated)
+Investigator: Thomas W. Sederberg tom@cs.byu.edu  (Principal Investigator current)
+Sponsor     : Brigham Young University
+	      D 341 Asb
+	      Provo, UT  846021043    801/378-6177
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              For many years, the de-facto standard method for representing geometric shapes
+              in a computer has been non-uniform rational B-splines (NURBS). However, NURBS
+              have some well-known limitations. One of them is the surface intersection
+              problem:  if you intersect two NURBS surfaces, the result cannot be represented
+              exactly as a trimmed NURBS surface for reasons that can be proven using
+              algebraic geometry.  This project will explore ways of converting NURBS
+              surfaces into non-uniform Catmull-Clark surfaces (NURCC) without data-loss, and
+              how to express the intersection of two NURCCs as a single NURCC.  A second
+              problem with NURBS is that they cannot seamlessly represent shapes with
+              arbitrary topological complexity.  This project will explore how to represent
+              the union of two or more NURBS surfaces as a single continuous NURCC surface.

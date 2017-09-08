@@ -1,0 +1,51 @@
+Title       : SBIR Phase II: A Fast Parallel Grid-Free Method for Simulating Turbulent
+               Incompressible Flow In/Around Time-Varying Geometries
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a0216671
+
+Award Number: 0216671
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan E. Figueroa                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2002 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $500000             (Estimated)
+Investigator: Adrin Gharakhani adrin@Applied-Scientific.com  (Principal Investigator current)
+Sponsor     : ASR
+	      1800 E. Garry Ave., Suite 214
+	      Santa Ana, CA  927055803    949/752-7545
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This Small Business Innovation Research (SBIR) Phase II project builds on
+              algorithms developed for simulating turbulent incompressible flows in and
+              around time-varying geometries.  The Phase II project proposes to develop and
+              commercialize a state-of-the-art computational fluid dynamics (CFD) package
+              utilizing the algorithms developed.  The computational engine is based upon an
+              advanced parallel, adaptive fast multipole (FMM) implementation of a 3-D
+              Lagrangian vortex-boundary element method.  Turbulence is accounted for via
+              Large Eddy Simulation (LES) using a dynamic Smagorinsky sub-grid scale model. 
+              The method is (1) grid-free in the fluid domain, (2) virtually free of
+              numerical diffusion, (3) inherently solution-adaptive, and (4) capable of
+              modeling inhomogeneous unsteady wall-bounded turbulent flow.  During Phase II
+              additional innovative algorithms will be developed for FMM to substantially
+              increase it computational speed as well as accuracy.  Additionally, an LES
+              model for unsteady inhomogeneous flows will be implemented and tested
+              rigorously using problems of potential interest to industry.
+
+The software is
+              ideal for simulation and analysis of complex laminar-through-turbulent flow
+              phenomena involving massive flow separation, unsteady vortex shedding,
+              transient jets in cross-stream, and wake-body interaction.  Examples of
+              interest to industry are flow over bluff bodies such as ground vehicles or
+              buildings, in data storage units with rotating and moving parts; in internal
+              combustion engines; and in and around rotating machinery such as pumps and
+              fans.

@@ -1,0 +1,215 @@
+Title       : CAREER: Reusable, Realistic Motion Libraries for Computer Animation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 27,  2002     
+File        : a0092970
+
+Award Number: 0092970
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : January 31,  2006    (Estimated)
+Expected
+Total Amt.  : $325000             (Estimated)
+Investigator: Zoran Popovic zoran@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Animation is a tremendously powerful medium of expression.
+Ideas that would be
+              complex or even impossible to express
+with still images or words can easily be
+              conveyed using
+animated sequences. Unfortunately, even when the concept to
+be
+              conveyed via animation is simple, the process of
+producing the animation is
+              inordinately difficult. Indeed,
+this is one of the reasons computer animation
+              has become so
+dominant - it holds the promise of automating, and
+              thus
+significantly simplifying, the production process. Sadly,
+the process of
+              transferring ideas into computer animations
+is still far from simple. For
+              example, the animated feature
+film Toy Story 2 required extremely hard work by
+              as many as
+200 highly skilled computer and animation experts for more
+than
+              three years.
+
+My career goal is to develop the concepts and algorithms
+that
+              will enable effortless, rapid development of realistic
+animations that
+              effectively convey the creator's purpose.
+This research hopes to create the
+              theoretical and
+experimental foundation for building much more
+              powerful
+animation tools than exist today. Such tools will sharply
+reduce the
+              production time needed by skilled animators and,
+more importantly, enable
+              average computer users to express
+their ideas through animation. Such tools
+              will also help
+educators teach more effectively and allow each one of us
+              to
+become creators and directors of personal and fictional
+stories. Only when
+              animation production is easier will
+animation be as commonplace on the web as
+              images and text
+are today. Moreover, intuitive methods for creating
+realistic
+              human motion will further enable the creation of
+human avatars in
+              tele-presence applications, new
+anthropomorphic human-computer interfaces, and
+              realistic
+digital actors in feature films and video games. Computer
+animation
+              will not achieve its full potential until 1)
+animation tools require little or
+              no skill, 2) an animator's
+creativity is not stifled by the limitations of
+              the
+animation tools, and 3) the animation systems are available
+to every
+              person with a computer and a story to tell. I hope
+to significantly contribute
+              towards these goals.
+
+At the heart of this research is the observation that
+              the
+animator's creativity will not be fully realized until it
+becomes easier
+              to produce realistic motion sequences. This
+problem is tremendously
+              challenging because the underlying
+physical models of motion are difficult to
+              create and
+control. I believe that the solution lies in the creation
+              of
+highly-flexible realistic motion libraries, together with
+tools to modify
+              them intuitively and extensively. The power
+of libraries stems from the
+              ability to reuse already
+existing high-quality motion, reducing the need
+              for
+animation skills. In this paradigm, the process of animation
+turns into
+              selecting the specific motion library, and
+modifying a set of motion
+              properties that transform the
+original motion into a final animation.
+
+In my
+              research, I propose to develop a methodology for
+creating and using realistic
+              motion libraries flexible
+enough to be used in a wide range of applications.
+              In 1995,
+I proposed the use of motion transformation as new way to
+create
+              animations  - a method fundamentally different from
+the traditional way of
+              creating animations from scratch.
+This transformation approach is particularly
+              useful for
+modifying realistic motion data captured from real-world
+actors.
+              Unfortunately, during the transformation process,
+much of the realism tends to
+              be lost. Recently, I published
+a novel transformation approach which
+              demonstrates that
+animations can be intuitively transformed into a wide
+              range
+of new sequences without violating the fundamental dynamic
+properties
+              of motion. The realism is preserved by
+maintaining a model of the dynamic and
+              biomechanic
+properties of the animated character.
+
+In the future, I will
+              further develop mathematical models
+that can be combined with real-world data
+              to create reusable
+motion libraries. Aside from preserving the realism
+              of
+motion, the most important requirement for effective motion
+libraries is
+              the flexibility with which the libraries can be
+adjusted to meet the needs of
+              an animator. I plan to achieve
+this flexibility by decomposing a character's
+              motion into a
+fundamental component and a style component in a way
+that
+              allows us to independently transfer these components to
+new characters. For
+              example, the animator can produce a
+child's cheerful run sequence by starting
+              with a running
+motion library extracted from the captured human run.
+              This
+motion can be modified by applying a happy, exuberant motion
+style,
+              which is then transferred to an animated character of
+a small child. Such
+              decoupling of the fundamental motion,
+style, and performing character provides
+              an extremely
+powerful and flexible animation paradigm that can produce a
+wide
+              range of animations from a very small motion dataset.
+
+The main goal of the
+              educational component of this proposal
+is to demonstrate the utility of
+              advanced animation tools in
+education and story-telling. I am particularly
+              interested in
+introducing these new animation tools to Seattle
+              high-school
+students to verify that our research does indeed empower
+every
+              story-teller with an accessible medium of expression.
+I am also planning a
+              project-oriented animation course
+intended for undergraduate and graduate
+              students involved in
+animation research, as well as in art and music.
+              Together,
+the students will work on using our tools to create an
+artistic
+              short film project. This synergistic effort will
+expose the artists to the
+              latest animation technology and
+provide direct user feedback to students
+              involved in
+research. In addition, the created motion libraries as well
+as
+              the animation tools, will be freely distributed through
+the web and CDs with
+              the hope that they will help animation
+become an effective communication
+              medium across educational,
+economic and cultural boundaries.
+
+

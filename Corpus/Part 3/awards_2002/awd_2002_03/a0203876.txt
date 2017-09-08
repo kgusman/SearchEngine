@@ -1,0 +1,55 @@
+Title       : Smart Event Models and Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 10,  2002      
+File        : a0203876
+
+Award Number: 0203876
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Gail E. Kaiser kaiser@cs.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number 0203876
+Title: "Smart Event Models and Architectures"
+Gail E.
+              Kaiser, Columbia University
+
+
+This project investigates wide-area
+              publish/subscribe event system models and architectures.  The focus is on two
+              new models called Smart Events and Active Events, and an event bus architecture
+              called Virtual Private Event Networks (VPENs).
+
+Smart events are associated
+              with a structural type model (a grammar or schema), and a semantic model that
+              defines the processing to be performed on the structural subcomponents.  Smart
+              events are routed via content-based messaging, where subscriptions may specify
+              complex patterns indicating the events of interest. Active events include their
+              semantic model directly as mobile code. Active events operate as
+mobile agents
+              transported (conceptually) under their own power point-to-point.  Smart events
+              may optionally include active event substructures, enabling content-based
+              messaging to be applied to this subset of active events.
+
+VPENs extend
+              multi-protocol label switching (MPLS) protocols and mechanisms to the
+              application layer, to improve the performance of content-based routing by
+              preplanning label switched paths when publisher advertisements as well as
+              consumer subscriptions are available.  VPENs also add encryption-based security
+              and privacy in the style of virtual private networks (VPNs).
+

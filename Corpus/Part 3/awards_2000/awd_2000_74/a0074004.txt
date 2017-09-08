@@ -1,0 +1,75 @@
+Title       : Terabit Lookups
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 5,  2000       
+File        : a0074004
+
+Award Number: 0074004
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: George Varghese varghese@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Network protocols lookup state using a number of data structures for
+              functions such as IP lookups (e.g., tries), bridge lookups (e.g., hash tables),
+              and packet filtering (e.g., Pathfinder).  Network lookups are a key bottleneck
+              for Internet routers today.  As Internet link speeds move to 10 Gbps (OC-192)
+              and 40 Gbps (OC-768), state lookups must complete in tens of nanoseconds.  The
+              researcher  argues in this proposal that solutions to such next generation
+              lookup problems must span a number of areas from algorithms to computer
+              architecture.   The proposal is devoted to investigating such crosscutting
+              issues that arise in the context of next generation network lookups.
+    
+              Current lookup technology that uses external DRAM (Dynamic RAM) cannot scale to
+              this speeds; thus
+Terabit lookups will require the use of on-chip or off-chip
+              SRAM (Static RAM).  Such memory is limited by either expense or manufacturing
+              process | e.g., on-chip SRAM of 16 Mbits is considered optimistic.  In this
+              proposal, the researcher considers the issues involved in dealing with such
+              state lookups at Terabit speeds using limited fast memory while providing
+              provable guarantees.
+     An important issue  considered in this proposal is
+              SRAM memory utilization: if the lookup chip is to provide guarantees about the
+              amount of state (e.g., number of IP prefixes) it can handle, the resarcher
+              shows that the lookup chip must use a memory allocator which can guarantee a
+              provable memory utilization ratio.  However, all conventional memory allocation
+              algorithms (e.g., First Fit, Best Fit, Buddy System) only guarantee poor worst
+              case utilizations:  for example, for requests of size 32 standard allocators
+              can only guarantee a utilization ratio of 1/log2 32 = 20% because of possible
+              fragmention.  The proposal introduces new problem-specific memory allocation
+              schemes that can be tuned to provide worst-case memory utilization ratios close
+              to 100%.  For example, a chip that does IP lookups using the researcher's new
+              allocation schemes can guarantee to handle almost 5 times the number of
+              prefixes that can be handled by a conventional allocator, and yet can allow
+              insert/delete times of around 100 microseconds.  The researcher's
+schemes use
+              new algorithms; optimal versions of the researcher's schemes also require new
+              SRAM memory designs that allow shifted access in addition to normal word
+              access.
+     The research also proposes to investigate other issues including
+              the interaction of memory allocation with pipelining (i.e., dynamically
+              allocating memory to stages), and the introduction of new lookup primitives
+              that can support accounting and Quality of Service.  For example, the
+              researcher wishes to investigate a novel paradigm for pipelining a trie based
+              on depth rather than height which appears to have a more bounded use of memory.
+               As a second example,the researcher wishes to investigate the possibility of
+              doing prefix lookups that contain a cost field; such a lookup can be used to
+              update a accumulated cost field per input link.  The proposal seeks to
+              investigate these and other issues that arise when designing Terabit lookups,
+              to search for new mechanisms, and implement, evaluate, and fine-tune the
+              researcher's new ideas.
+

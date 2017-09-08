@@ -1,0 +1,79 @@
+Title       : Algorithms for Data Compression Based on Grammars and Trees
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 20,  1999      
+File        : a9902081
+
+Award Number: 9902081
+Award Instr.: Standard Grant                               
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $265485             (Estimated)
+Investigator: John C. Kieffer kieffer@ece.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              Modern data storage and data transmission systems can
+simultaneously process
+              data of various types, including text,
+audio, image, volumetric and video
+              data. There is a need for
+data compression in these systems, in order that
+              efficient use
+may be made of the limited amount of memory and bandwidth
+              that
+is available, while meeting the consumer's demand for
+flexibility in
+              data delivery services. In order to satisfy
+this need, this research seeks to
+              develop innovative algorithms for both lossless and lossy data compression.
+              Compression algorithms are sought, which adapt themselves to general data
+              structures, inferring and exploiting relationships in the data for compression
+              purposes.
+
+The research will focus upon a type of data compressor 
+called a
+              grammar based compressor. A grammar based compressor
+represents relationships
+              in the data using a grammar, so that
+the production rules of the grammar
+              describe how the data  
+is to be exactly or approximately reconstructed. Data
+              
+compression is achieved by reducing this grammar or its
+associated
+              derivation tree to a more compact form, through the
+use of reduction rules.
+              The specific goals of the research are
+to obtain grammar based compressors
+              which are capable of
+handling general data structures (including data trees,
+              2-D and 3-D data, and other regular structures), which process data with linear
+              time and space complexity, which provide good
+maximal redundancy performance,
+              and which are universal and
+perform well with respect to other universal
+              compressors.
+Grammar based compressors with good theoretical properties
+              
+shall be tested by means of computer experiments on real data,
+and
+              comparisons shall be made with state of the art compression systems. Emphasis
+              will be placed on finding robust grammar based compressors, which yield near
+              state of the art 
+compression performance regardless of the type of data
+              to
+which they are applied.
+
+

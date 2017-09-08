@@ -1,0 +1,102 @@
+Title       : Algorithm for Networked Peer-to-Peer Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 17,  2002 
+File        : a0126347
+
+Award Number: 0126347
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $279939             (Estimated)
+Investigator: Ashish Goel   (Principal Investigator current)
+              Ramesh Govindan  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              A Peer-to-peer networked system is a collaborating group of Internet nodes which
+              overlay their own special-purpose network on top of the Internet. Such a system
+              performs its own application-level routing on top of IP routing. These systems
+              share some of the same characteristics as the Internet in that they can grow to
+              be quite large, need to utilize distributed control and configuration, employ a
+              naming scheme that allows them to address a node without knowing its exact
+              whereabouts, and possess a routing mechanism that allows each node to
+              meaningfully communicate with the rest of the system. Typically a peer-to-peer
+              network performs a very specific purpose such as distributed data storage,
+              cache replication, multicasting etc. and uses normal Internet functionality for
+              all other purposes. These systems are diverse enough that it would not be
+              desirable to make modifications to the IP routing/naming protocols to support
+              each instance of such a system.
+
+Peer-to-peer systems such as Napster and
+              Gnutella have, of late, received a fair amount of
+attention in the
+              non-technical literature. More importantly, several research groups have
+              recently
+designed a variety of peer-to-peer systems as infrastructure for
+              flexibly evolving the Internet, for
+large-scale network storage, for anonymous
+              publishing, and for application-level multicasting. At
+the core of many of
+              these systems lie innovative and novel distributed algorithms for
+              disseminating
+content. The principal investigators classify these systems into
+              structured systems where there is
+global consensus on where a document is
+              stored, and unstructured systems where no such consensus
+              exists.
+
+Peer-to-peer systems have a rich theoretical structure, and
+              sophisticated algorithmic techniques
+have been employed in the systems
+              currently under development. In preliminary work, the princi-
+pal
+              investigators use the small-world model to improve the performance of a
+              specific unstructured
+system called Freenet. Motivated by their preliminary
+              work, this proposal plans to take a principled
+look at the properties of
+              various algorithms proposed in the peer-to-peer literature. Some of
+              the
+specific questions that the principal investigators intend to address are
+              understanding the funda-
+mental bounds on the performance of peer-to-peer
+              systems, designing algorithms that allow these
+systems to perform at peak
+              availability and minimum latency, studying the impact of topology and
+caching
+              on latency, and understanding the role that the small-world model might play in
+              improving
+the performance of these systems.
+
+The overall attention that the
+              peer-to-peer technology has garnered in the recent past, and the
+various
+              proposed businesses based on this model, point to the potential broad impact
+              that this work can have. The principal investigators hope that this work will
+              provide the systems community with the theoretical tools necessary to
+              rigorously understand the behavior of some of their designs as well as rules of
+              thumb to choose between alternative architectures, protocols, and
+              algorithms.
+
+The principal investigators intend to integrate some of this
+              material into a graduate course
+on \Algorithmic Issues in Communication
+              Networks". Their classroom treatment of these topics
+will be formal, but with
+              clearly indicated motivations from and applications to real systems.
+              The
+lecture notes and course projects developed by the principal investigators
+              will be made publicly
+available.

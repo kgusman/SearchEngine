@@ -1,0 +1,80 @@
+Title       : Mathematical Sciences: Numerical Solution of Differential Equations in Mechanics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 13,  1995      
+File        : a9500672
+
+Award Number: 9500672
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1995       
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $124000             (Estimated)
+Investigator: Douglas N. Arnold dna@psu.edu  (Principal Investigator current)
+              Min Chen  (Co-Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,1037,9146,9216,CVIS,HPCC,MANU,OTHR,
+Abstract    :
+              9500672  Arnold    This project will involve devising, improving, and analyzing 
+              methods for   the numerical simulation of complex physical phenomena modeled by
+                 partial differential equations.  A major  emphasis will be on the  modeling
+              of   thin structures (plates and shells). Specifically, an innovative  new
+              finite   element method recently proposed by a team of computational  engineers
+              for   plate bending will be analyzed and a new approach the  investigator  
+              introduced in collaboration with Brezzi to develop and analyze  new finite  
+              element methods for modeling the deformation of elastic shells  will be  
+              pursued.  This latter approach has produced the best theoretical  results to  
+              date for avoiding the phenomenon known as membrane locking which  has   plagued
+              shell computations.  In addition to studying numerical  methods and   the
+              errors they introduce, the investigator will consider the  errors introduced  
+              by mathematical models of thin structures.  Specifically, a new  technique of  
+              analysis to study the convergence of two-dimensional models of  thin plates  
+              will be used.  This technique gives the possibility of obtaining  sharp  
+              convergence estimates for plate modeling errors both globally and  away   from
+              the lateral boundary (where convergence may be higher).  It  is hoped   that
+              this research will clarify in what situations the  Reissner-Mindlin plate  
+              model affords better approximation than the classical Kirchhoff  model, an  
+              important question that eluded resolution for decades.  A second  area of  
+              emphasis will be on the  development, implementation, validation,  and  
+              dissemination of a finite element code to simulate the collision  of black  
+              holes.  This problem involves the solution of the Einstein field  equations on 
+               an unbounded domain in four dimensional space-time and is  extremely  
+              demanding computationally.  Work will focus, at least initially,  on the  
+              solution of the initial data problem for black hole collisions,  i.e., the  
+              determination of physical ly consistent and meaningful initial  data. The  
+              initial data problem is a nonlinear elliptic system posed on an  unbounded  
+              three-dimensional domain.  For this problem the computer code to  be   produced
+              will involve a variety of sophisticated modern  techniques that   have not yet
+              been applied in  computational relativity, including  adaptive   tetrahedral
+              mesh generation and multigrid preconditioning.    The investigator's work is
+              directly related to several critical  technological   issues.  It is generally
+              agreed by practitioners that the current  state of the art   of numerical
+              modeling of shells is inadequate, and this has been  implicated   in the
+              failure of engineering structures such as stadium roofs  and airplane  
+              fuselages.  The investigator's work in both the area of the  development and  
+              analysis of finite element methods for plates and shells, and on  plate  
+              modeling errors is directed at overcoming these problems.  The  work on the  
+              simulation of black hole collisions is directly motivated by the  ongoing  
+              construction of the LIGO gravitational wave observatory.  LIGO is  expected  
+              to be able to detect radiation from black hole collisions early  in the next  
+              decade.  Massive numerical simulations are needed to identify the   
+              cosmological events which are the sources for the detected  radiation. It is  
+              clear that these simulations push the limits of available  hardware and  
+              software technology.  The investigator's work is directed at  improving the  
+              speed and accuracy of these  simulations by employing and  adapting recent  
+              advances in numerical algorithms.  The resulting computer codes  will be  
+              adapted to parallel computer architectures and will provide an  excellent  
+              opportunity for the graduate students and postdoctoral fellows  working   under
+              the supervision of the investigator to learn high  performance   computing
+              techniques.

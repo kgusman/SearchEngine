@@ -1,0 +1,80 @@
+Title       : SGER: Routing and Data Compression in Multi-Hop Sensor Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 24,  2002      
+File        : a0227676
+
+Award Number: 0227676
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2002      
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $99999              (Estimated)
+Investigator: Anna Scaglione anna@ece.cornell.edu  (Principal Investigator current)
+              Sergio Servetto  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Anna Scaglione
+Cornell University
+
+As the size,the cost and the power
+              consumption of communication devices and integrated circuits de-
+creases
+              designing a system of autonomous sensors,that can monitor the environment and
+              are capable
+of transporting and processing the information in any point of the
+              controlled area,becomes a concrete
+goal.While the fabrication technology is
+              mature to make intelligent sensors with wireless communication
+interfaces
+              which are small and inexpensive,the main challenge in the design of these
+              networks is at the
+system level.  The scenario analyzed in [4 ]is radically di
+              .erent from large networks such as the
+telephone network that have highly
+              hierarchical architectures:in [4 ]all the nodes have identical
+              function-
+alities,equal transmission bandwidth and are uniformly distributed
+              over a circular region of .xed radius.
+
+However,[4 ]is neglecting one
+              fundamental aspect of the problem:the nodes samples will be increas-
+ingly
+              dependent as the density of the nodes increases [7 ].This observation was used
+              in [8 ]where it was
+proven that distributed codes,that compress separately the
+              correlated samples in each node,can reduce
+the amount of bits per node per
+              square meter to an O (N .1 ),i.e.much faster than the transport capacity.
+The
+              limitation of the approach in [8 ]is the high complexity required to have signi
+              .cant compression gain
+without sharing one single bit of data among the nodes
+              Fortunately,there is no need to impose such
+constraint.After all,the trademark
+              of multi-hop networks is that power e .cient transmission is achieved
+when the
+              data travel through several intermediate close-by nodes before reaching their
+              .nal destination.
+If neighboring nodes were jointly compressing the data
+              before forwarding them remotely,they could save
+many bits per sample while
+              transmitting with the same or even greater precision.A good engineering
+design
+              is compelled to exploit this fortunate coincidence by combining routing and and
+              classical (not dis-
+tributed)source coding.This is the truly novel aspect of
+              our project and,to the best of our knowledge,
+this connection has not been
+              studied before.

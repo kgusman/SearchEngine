@@ -1,0 +1,64 @@
+Title       : A Direct Reconstruction Algorithm for the 2-D Inverse Conductivity Problem
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 30,  2001    
+File        : a0104861
+
+Award Number: 0104861
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $81029              (Estimated)
+Investigator: Jennifer L. Mueller mueller@math.colostate.edu  (Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              This proposal addresses a direct numerical reconstruction algorithm for the 2-D
+              inverse conductivity problem.  The 2-D inverse conductivity problem is to
+              determine an unknown conductivity distribution on a bounded region  from
+              knowledge of the Dirichlet-to-Neumann map.  Physically, knowledge of the
+              Dirichlet-to-Neumann map is tantamount to knowing the current density
+              distribution on the boundary of the region resulting from any given voltage
+              distribution applied on the boundary.  The problem is modeled mathematically by
+              the generalized Laplace's equation with the conductivity as an unknown
+              parameter.  In 1995 A. Nachman proved that knowledge of the
+              Dirichlet-to-Neumann  map uniquely determines the conductivity in the interior
+              of a smooth bounded  region in 2-D.  An important feature of Nachman's proof is
+              that it outlines a direct method for solving for the conductivity without
+              iteration.  The proof is based on techniques of inverse scattering and the
+              d-bar method, which is a method of solution for scattering problems, not a
+              numerical technique.  The primary goals of this proposal are to solve the
+              inverse conductivity problem numerically using the d-bar method, develop a
+              practical reconstruction algorithm for medical applications, and to test the
+              implementation on physically relevant conductivity distributions. 
+
+The 2-D
+              inverse conductivity problem has applications in geophysics, nondestructive
+              testing, and a medical imaging technique known as electrical impedance
+              tomography (EIT).  One application of EIT is the imaging of heart and lung
+              function in real time.  In this application, electrodes are placed around the
+              circumference of the patient's torso, current is applied on the electrodes and
+              the resulting voltage is measured.  The resulting 2-D inverse conductivity
+              problem is then solved numerically to reconstruct how the electricity passes
+              through the interior and to form a cross-sectional image of the patient's
+              chest.  Other applications include the detection of breast cancer, monitoring
+              for internal bleeding, and the diagnosis of pulmonary embolis (a blood clot in
+              the lung).  The proposed approach represents a new class of image
+              reconstruction algorithm for the EIT problem.  Work thus far has indicated that
+              the algorithm yields more accurate images than the existing fast algorithms,
+              since it solves the full set of equations rather than a a more simplified
+              version of the problem.  This is particularly important in medical applications
+              such as breast cancer detection, where the measured values distinguish between
+              the presence of a tumor or a benign cyst.  The algorithm will be tested on real
+              data and compared to existing algorithnms in terms of accuracy and efficiency.

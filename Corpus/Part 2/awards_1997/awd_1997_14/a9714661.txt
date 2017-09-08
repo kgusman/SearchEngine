@@ -1,0 +1,55 @@
+Title       : An Error Control Scheme for Large-Scale Multicast Applications
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 28,  1999 
+File        : a9714661
+
+Award Number: 9714661
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1998  
+Expires     : January 31,  2001    (Estimated)
+Expected
+Total Amt.  : $141680             (Estimated)
+Investigator: Marcel Waldvogel mwa@arl.wustl.edu  (Principal Investigator current)
+              Gurudatta Parulkar  (Principal Investigator former)
+              George Varghese  (Principal Investigator former)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              In the Internet today, packet losses are typically recovered using 
+              retransmission, as for example in TCP. The mechanism employed in TCP  works
+              well in the unicast environment. In multicast environment,  however, such as
+              the MBone, the TCP approach does not work  well, especially when the multicast
+              groups are very large. Difficulties  arise because of two main problems:
+              implosion and exposure.  Implosion  occurs when following a packet loss, many
+              receivers multicast the same  request; implosion also occurs when in response
+              to a request, many  receivers multicast the lost packet. Exposure occurs when
+              requests and  retransmissions reach members that have not experienced loss.
+              Both  implosion and exposure cause unecessary overhead.    Existing solutions
+              are not general because of the trade-offs they offer  for reducing implosion
+              and exposure.  SRM for example, trades latency  for reducing implosion, and
+              uses a crude method for reducing exposure.  RMTP, TMTP and LBRRM reduce both
+              implosion and exposure by arranging  members in a tree.  The tree, however, is
+              hard to construct and  maintain in the face of dynamically changing groups
+              without any access  to topology information.    We propose a new scheme to
+              perform reliable multicast which overcomes  the limitations of existing
+              solutions. Our scheme is based on a dynamic  tree hierarchy, but pushes the
+              task of costructing and maintaining the  tree to the network, where it can be
+              done very efficiently.  To achieve  this, we enhance the IP Multicast service
+              model by adding new  forwarding services to the routers.  The scheme combines
+              three ideas to  achieve near optimal performance: (a) electing a replier link
+              at each  router to eliminate implosion, (b) defining the concept of a "turning 
+              point" to discover the subtree where loss occurred, and (c) using  "directed
+              multicast" to limit replies to the loss subtree. These ideas  minimize recovery
+              latency and allow group members to be completely  isolated from the details of
+              group topology, thus allowing fast   adaptation to dynamic membership changes.

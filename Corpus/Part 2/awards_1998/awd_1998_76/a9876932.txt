@@ -1,0 +1,54 @@
+Title       : A Configurable Application View Storage System
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 5,  2001       
+File        : a9876932
+
+Award Number: 9876932
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $340000             (Estimated)
+Investigator: Sibel Adali sibel@cs.rpi.edu  (Principal Investigator current)
+              David L. Spooner  (Co-Principal Investigator current)
+              Christopher Carothers  (Co-Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+               The focus of this research is to develop a configurable client-side view
+              storage system to reduce the cost of query processing and data shipping needs
+              of distributed applications. The project aims to develop the theoretical basis
+              of view management based on the notion of value order functions that imposes an
+              order among a number of stored views. Value order functions can be defined by
+              users employing a declarative language based on various properties of stored
+              views. In this project, a prototype view management system is developed, called
+              CAVES. It integrates view use and management functionalities into a single
+              module with the help of two interconnected agents. The view use agent allows
+              programmers to link view re-use methods to a database that helps CAVES maintain
+              various statistics about the stored views. The view management agent applies
+              general value ordering rules and optimization functions to this database to
+              decide which views should be kept in storage. The effectiveness of different
+              storage management policies and the performance of the system are tested with
+              the help of a simulation model built on top of a high-performance parallel
+              discrete-event simulation executive. The CAVES system will be used to improve
+              the response time of client-server database systems by storing views that are
+              computationally expensive or have high data shipping requirements at a client
+              machine. The system will demonstrate that a dynamic collection of storage
+              management protocols can outperform any static caching policy. The simulation
+              system will provide the necessary methodology for selecting a set of protocols
+              that are cost effective for a specific application.
+              
+http://www.cs.rpi.edu/~sibel/research/CAVES/
+
+

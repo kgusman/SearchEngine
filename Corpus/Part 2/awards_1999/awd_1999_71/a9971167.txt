@@ -1,0 +1,61 @@
+Title       : A Unified Approach to Testing and Verification of Designs Synthesized from
+               High-Level Specifications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 12,  2003  
+File        : a9971167
+
+Award Number: 9971167
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $298760             (Estimated)
+Investigator: Sharad C. Seth seth@cse.unl.edu  (Principal Investigator current)
+              Shashank K. Mehta  (Co-Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research develops a unified framework for the test problems related
+              to
+design verification and manufacturing tests. The design
+              verification
+problem translates to the reachability problem in an extended
+              finite state
+machine (EFSM) derived from the register-transfer-level
+              specification.
+Design-verification tests correspond to input-output sequences
+              tracing
+paths in the EFSM representation. They are derived by solving linear
+              and
+nonlinear constraints involving data registers, internal buses, and
+              primary
+inputs. Several search strategies for constraint solving are being
+              explored
+based on our result that closed form solutions to linear constraints
+              can be
+computed in polynomial time. Manufacturing tests are obtained by
+              fully
+expanding partially specified verification vectors so as to achieve
+              maximum
+coverage of faults in the gate-level circuit description. The
+              verification
+and test sequences can be iteratively refined through feedback.
+              The
+contributions of this research include modeling tools for complex
+              circuits,
+algorithms for constraint- solving problem, and new measures of
+              fault
+coverage.
+
+

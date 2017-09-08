@@ -1,0 +1,54 @@
+Title       : Collaborative Research: High Quality Tests for Scan Circuits
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 25,  2003  
+File        : a0097905
+
+Award Number: 0097905
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $163496             (Estimated)
+Investigator: Sudhakar M. Reddy reddy@eng.uiowa.edu  (Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The goal of this research is to develop scalable procedures for the derivation
+              of high-quality tests specifically designed for digital logic circuits that
+              contain scan to enhance testability. Such procedures are needed since scan
+              (either full or partial scan) is currently used in most electronic chips, and
+              is expected to continue to be the prevalent design-for-testability technique
+              for design paradigms such as core-based design. The investigators develop
+              procedures for test generation, test compaction, identification of undetectable
+              faults, built-in test generation and delay fault testing specifically targeting
+              scan circuits.
+
+In the test application scheme used in this research, a
+              sequence of one or more primary input vectors is applied between every two scan
+              operations.  In all the procedures developed, the goal is to use sequences of
+              primary input vectors that are as long as possible. The reasons are that long
+              sequences of primary input vectors contribute to at-speed testing of the
+              circuit, which is important for detecting delay defects, and they allow the
+              number of tests to be kept low, which reduces the test application time. In
+              addition, the circuit operates in its normal mode of operation, potentially
+              resulting in average power consumption which is typical of normal operation.
+              Several commercial tools use the test application scheme adopted in this
+              research, justifying its consideration. However, only a small number of studies
+              have been reported in the literature of effective solutions to the various
+              testing problems under this scheme. This research develops tools that may be
+              used together to provide a comprehensive and scalable solution to the special
+              problems associated with testing
+of scan circuits under this test application
+              scheme.
+

@@ -1,0 +1,75 @@
+Title       : Simulation and Function Approximation Based Iterative Approach To Process
+               Control
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : April 9,  2003      
+File        : a0301993
+
+Award Number: 0301993
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 15,  2003     
+Expires     : March 31,  2006      (Estimated)
+Expected
+Total Amt.  : $214247             (Estimated)
+Investigator: Jay H. Lee   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 0000,OTHR,
+Abstract    :
+              Research:
+
+The PI plans to investigate a simulation and function
+              approximation-based strategy for bringing an evolutionary improvement to a
+              control policy.  The investigation is motivated by some inherent limitations of
+              the current model-based predictive control formulation with respect to handling
+              systems of large-scale complex dynamics, and large amount of uncertainty.  The
+              development will be rooted in an approach developed in the field of artificial
+              intelligence - referred to by various names such as Neuro-Dynamic Programming
+              and Reinforced Learning - which has shown great success in handling highly
+              complex multi-stage discrete decision problems like backgammon playing,
+              elevator dispatch problem, and job-shop scheduling.  The approach, when
+              extrapolated to the problem of process control, begins by performing
+              closed-loop simulations with a given suboptimal control policy for an extensive
+              set of possible operating conditions.  The simulation results are then used to
+              generate data for state versus "cost-to-go" or "reward" function, typically by
+              fitting a neural network to the data.  The approximation is improved by
+              additional off-line calculations, either by "value iteration" based on
+              iterating the Bellman Equation or by "policy iteration" based on iterating
+              between policy evaluation and policy improvement.  The improved approximation
+              of the "cost-to-go" function can be used to implement optimal control in a
+              computationally efficient way, either by reducing a large-horizon problem into
+              an equivalent short-horizon problem or by allowing an off-line parameterization
+              of the improved control law. 
+
+To make the approach practicable for process
+              control a number of issues need to be resolved.  The success of the approach
+              will depend on the ability to obtain an accurate and robust approximation of
+              the cost-to-go function.  An immediate question to ask is what types of
+              function approximators are best suited for the approximation.  Also, the level
+              of confidence in the neural network's cost predictions through interpolation
+              and extrapolation need to be taken into account in the control calculations. 
+              The PI plans to investigate these and other fundamental issues to arrive at
+              systematic and practically useful answers.  The PI will collaborate with
+              industrial partners Weyerhauser, Owens Corning, LG Chemicals, and Aspen
+              Technology, to test the developed tools on real industrial process and to
+              incorporate them into commercial process control software packages.  The
+              application portion of the project will be carried out by students and visitors
+              supported by these companies.
+
+Broader Impact:
+
+The Chemical Process
+              Industries (CPI) are replete with nonlinear control problems involving
+              significant uncertainties, which can benefit from this work.  In addition to
+              process control, the strategy fits naturally to planning and scheduling
+              problems under uncertainty as well as supply chain operation problems.
+

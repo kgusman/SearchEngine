@@ -1,0 +1,89 @@
+Title       : CAREER: Resource Management in Mobile ad hoc Networks - the Spatial Dimension
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 3,  2003      
+File        : a0093411
+
+Award Number: 0093411
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  2001     
+Expires     : March 31,  2006      (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Ravi Prakash ravip@utdallas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,9217,HPCC,
+Abstract    :
+              The goal of the proposed research is to develop a comprehensive 
+understanding
+              of the spatial aspect of distributed computing in 
+mobile systems.
+              Traditionally, events in a distributed computation 
+are ordered by time.
+              Scalar and vector clocks are used to represent 
+logical time and causal
+              dependencies. However, the mobility of nodes 
+injects a new spatial dimension
+              into the problem. 
+
+The physical and network distances between nodes in a
+              mobile
+network are not correlated. Moreover, some wireless links in a mobile
+              
+network may be unidirectional. Hence, unlike physical distance, the 
+network
+              distance between nodes is not a symmetric relation. Finally, 
+if requests of
+              two mobile nodes are being prioritized on the basis of 
+their respective
+              distances from a third (resource) node, their relative 
+priority can change
+              with time. This is in contrast to the immutable 
+relative ordering of events
+              based on time. Hence, if distance is one of 
+the criteria for ordering
+              requests, existing solutions for problems 
+like mutual exclusion (using
+              logical clocks) cannot be efficiently used 
+for resource allocation in mobile
+              computing. 
+
+We will develop a new formal representation of the
+              spatial-temporal
+relationship between events in mobile computing. Space-time
+              vectors are 
+a step in this direction. A theory for a possibly immutable
+              ordering 
+of events based on their spatial-temporal coordinates will be
+              developed. 
+Such an ordering of requests could be used for resource deadlock
+              free, 
+starvation free and fair resource management. New protocols will be
+              
+developed at the MAC sub-layer enabling nodes to communicate using
+              
+unidirectional wireless links. We will develop new routing protocols that
+              
+utilize this MAC sub-layer protocol, and can correctly route packets
+in a
+              wireless mobile network with a combination of unidirectional and
+bidirectional
+              links.
+
+Subsequently, the performance of these solutions will be
+              evaluated
+through simulation experiments and prototyping. Graduate and
+              undergraduate 
+students will actively participate in every stage of the
+              project. 
+

@@ -1,0 +1,80 @@
+Title       : Mathematical Sciences: Sparse Matrix Problems: Data Structures, Algorithms, and
+               Applications
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 21,  1997      
+File        : a9504974
+
+Award Number: 9504974
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1995     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $250500             (Estimated)
+Investigator: Timothy A. Davis davis@cise.ufl.edu  (Principal Investigator current)
+              Mark E. Law  (Co-Principal Investigator current)
+              Theodore Johnson  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              Davis    This project addresses a range of sparse matrix problems, from  data 
+              structures, to algorithms, to applications.  The unifying theme  is the 
+              unsymmetric-pattern multifrontal method: its implementation, data  structures, 
+              and applicability to difficult sparse matrix problems in  semiconductor device 
+              and process simulation.  The unsymmetric-pattern multifrontal  method 
+              encompasses both the multifrontal technique and an approximate  degree update 
+              algorithm that is much faster (asymptotically and in practice)  than computing 
+              the true degrees.  Although this method uses upper bounds, the  ordering
+              quality  for both the unsymmetric (Markowitz cost) and symmetric (minimum 
+              degree)  algorithms does not suffer.  The investigator and his colleagues 
+              develop parallel factorization and  ordering algorithms based on these
+              approaches.  They also develop  parallel memory allocators (a fast-fits
+              algorithm), a dynamic  task graph  (dynamic, since the pivot ordering
+              determines the task dag), the  development of  both pessimistic and optimistic
+              synchronization methods for  frontal matrix  ``collision'' in the combined
+              uni/multifrontal approach, and  other distributed  data structures (such as a
+              distributed priority queue for finding  pivots of  low approximate degree)
+              required for these algorithms.  The  algorithms and  data structures they
+              develop are applied to semiconductor device  and process simulation.  This is a
+              challenging application,  placing a burden  not only on the numerical
+              factorization, but on the symbolic  ``overhead'' as  well.   The problems in
+              this domain are based on irregular,  adaptive grids  (both 2D and 3D).  Both
+              direct methods and iterative methods are  used.  The  iterative method used is
+              a preconditioned biconjugate gradient  algorithm, with  an incomplete LU
+              factorization as the preconditioner.  The  investigators develop and  employ an
+              incomplete multifrontal factorization algorithm, and a  multifrontal-based
+              approach for computing the sparse inverse for  use as a prec onditioner.    The
+              parallel methods the investigators develop are widely  applicable to many 
+              computationally intensive problems, in particular the modeling of  complex
+              physical phenomena:  structural stress and fluid-flow in  and around the  space
+              shuttle, thunderstorms and tornados, circuits and  semiconductor devices,  the
+              mixing and combustion of complex turbulent reacting flows,  the flow of oil  in
+              a reservoir, the optimal distillation of gas and petroleum  products, and so 
+              on.  Parallel sparse matrix algorithms and the data structures  they require
+              can  help to solve these problems.  Where will a tornado hit?  How  fast can
+              you  make a CPU chip run?  How can automobile emissions be reduced and  gas 
+              efficiency be increased at the same time?  How do we get more gas  out of the 
+              same amount of crude oil, and how do we get more crude oil out of  an oil 
+              reservoir?  Answering these questions accurately requires a great  deal of 
+              computation - and much of that computation involves large, sparse  matrices. 
+              High-speed computation is required - it does no good to predict  where a 
+              tornado will hit after it has already passed by and done its  destruction. 
+              Thus the need for parallel algorithms and data structures.  The  methods  the
+              investigators develop are made widely available to  researchers in these and
+              other  areas.  To ensure that the methods are in fact useful for ``real 
+              world''  problems, they are incorporated into a widely-used semiconductor 
+              simulation  package, the Florida Object-Oriented Device/Process Simulator 
+              (FLOODS/FLOOPS).  FLOODS/FLOOPS is in use in dozens of companies and
+              universities,  and its  methods form the basis of many commercial semiconductor
+               simulation packages.

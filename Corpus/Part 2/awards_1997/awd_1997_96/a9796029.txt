@@ -1,0 +1,57 @@
+Title       : System Software Support for Input-Output on Parallel Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 28,  1998       
+File        : a9796029
+
+Award Number: 9796029
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 1,  1996   
+Expires     : April 30,  1999      (Estimated)
+Expected
+Total Amt.  : $182889             (Estimated)
+Investigator: Alok Choudhary choudhar@ece.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              A large number of applications from information processing as  well as science
+              and engineering require processing large amounts  of data.  Particularly, in
+              the science and engineering domain,  the so called ``grand challenge
+              applications'' fall in this  category.  Thus, it has become apparent that I/O
+              performance much  more than CPU or communication performance may be the
+              limiting  factor in future parallel computing systems. Many software and 
+              hardware components play a key role in I/O operations and any one  of them can
+              cause severe bottlenecks.  The disparity between the  performance of disk
+              systems and CPU (and interconnect)  performance requires the use of large-scale
+              parallelism (and  supporting software) to address the scalability and
+              performance  problems in I/O subsystems. But parallelism in the I/O systems 
+              introduces complexities for the system software including  compilers, runtime
+              systems and file systems.    This research addresses many system software
+              problems in the  parallel I/O domain.  To ameliorate the I/O bottlenecks, the 
+              following are necessary:  1) techniques for sophisticated runtime  systems that
+              incorporate the notion of collective I/O, data reuse  and prefetching; 2)
+              compiler analysis to identify various  optimizations including data access
+              reorganization, opportunities  for overlapping computations and I/O, and data
+              staging to handle  limited memory for out-of-core computations; and 3) file
+              systems  optimizations to recognize collective access patterns for 
+              coordinating accesses of processes that are part of parallel  programs, and
+              using these access patterns for prefetching, buffer  allocation and replacement
+              strategies.  Traditional interfaces  for file systems lack the necessary
+              semantics to permit the above  optimizations. Thus, it is necessary to develop
+              interfaces  between the compiler and the runtime systems, and the runtime 
+              system and the file systems, that facilitate the flow of semantic  information
+              about access patterns to enable optimizations.  This  res earch pursues the
+              design and development of techniques for  compiler analysis, mechanisms and
+              algorithms for runtime systems,  and interfaces and optimizations for file
+              systems to enable  high-  performance I/O in parallel computers. These
+              techniques are being  evaluated by implementing them on parallel systems.  ***

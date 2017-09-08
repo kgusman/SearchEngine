@@ -1,0 +1,54 @@
+Title       : Compile-Time Analysis Tools for Parallel Software Development Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 9,  1993      
+File        : a9213518
+
+Award Number: 9213518
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1993     
+Expires     : February 28,  1997   (Estimated)
+Expected
+Total Amt.  : $108050             (Estimated)
+Investigator: Barbara G. Ryder ryder@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2877,9216,
+Abstract    :
+              Several compile-time analyses aimed at aiding compiling and                    
+              debugging of programs in parallel software development                         
+              environments will be developed.  The emphasis is on using our                  
+              parallel data flow analysis and approximate pointer-induced                    
+              aliasing algorithms to facilitate better transformation of                     
+              programs for parallel execution, and further developing the                    
+              work in compile-time anomaly detection for explicitly parallel                 
+              programs.  The former goal includes both parallelization of                    
+              sequential codes and optimization of already parallel codes.                   
+              The latter is aimed at the problems of deadlock and race                       
+              detection.                                                                     
+                                                                                             
+              Specific plans are:                                                            
+                                                                                             
+                 to further profile and optimize the parallel hybrid data                   
+                   flow analysis algorithm, especially on interprocedural                    
+                   problems;                                                                 
+                                                                                             
+                 to extend the approach in the approximate pointer alias                    
+                   algorithm to accommodate conflict analysis for                            
+                   parallelization of  C-like languages;                                     
+                                                                                             
+                  to explore directed tracing for race detection and                        
+                   implement the approach in a prototype; and                                
+                                                                                             
+                  to profile and extend the static deadlock detection                       
+                   algorithm.

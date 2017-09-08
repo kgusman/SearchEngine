@@ -1,0 +1,105 @@
+Title       : Stochastic Programming by Monte Carlo Simulation Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 1,  2000     
+File        : a0073770
+
+Award Number: 0073770
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $94887              (Estimated)
+Investigator: Alexander Shapiro   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Many stochastic programming problems can be formulated as
+problems of
+              optimization of an expected value function. Quite
+often the corresponding 
+              expected value function cannot be computed
+exactly and should be approximated,
+              say by Monte Carlo methods.
+In fact, in many interesting examples, Monte Carlo
+              simulation is
+the only  reasonable  way of estimating the expected
+value
+              function.  It turns out that if the underline probability
+distribution is
+              discrete and the approximating problems are
+piecewise linear and convex, then
+              with probability
+approaching one exponentially fast, with increase of the
+              sample
+size, an optimal solution of the Monte Carlo approximation
+              problem
+provides an  exact  optimal solution of the  expected
+value  problem.
+               This gives a theoretical justification   for
+the  following approach to a
+              numerical solution of such problems.
+Construct and solve a Monte Carlo
+              approximation problem based on a
+relatively small sample. Repeat this
+              procedure several times and validate
+calculated
+ solutions  until a stopping
+              criterion is satisfied.     The goal of this
+project is to develop this
+              method. The method is ideally suited for
+parallel computations and some
+              preliminary experiments  showed good
+results.
+
+
+
+Optimization of real
+              world systems almost always involves randomness which
+can come in
+various
+              conceptual forms such as uncertainty, lack of information, natural
+variability
+              of the data, etc.  One may think, for example, about optimizing
+a
+              manufacturing process when the demand for produced goods is uncertain.
+              It
+turns out that solving stochastic  optimization problems
+              involving
+randomness is much more difficult than solving deterministic
+              problems, both
+conceptually and numerically. However,  there is obvious
+              practical need for
+developing a methodology for dealing with stochastic
+              problems and in recent
+years this was a very active area of scientific
+              research.  This proposal is
+aimed at developing numerical techniques for
+              solving a particular class of
+stochastic problems.  If successful, it will
+              allow numerical solutions of
+considerably larger problems, which in turn may
+              result in bigger variety of
+applications.
+
+
+Alexander Shapiro ,
+Tel.
+              404-8946544; Fax: 404-8942301,
+E-mail :
+              ashapiro@isye.gatech.edu
+http://www.isye.gatech.edu/~ashapiro
+ISyE, Georgia
+              Tech, Atlanta, GA 30332-0205
+
+

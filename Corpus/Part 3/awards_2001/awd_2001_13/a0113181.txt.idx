@@ -1,0 +1,45 @@
+Title       : ITR/SY: Modular Interface Violation Checking Using Formally-Specified Contracts
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  2001     
+File        : a0113181
+
+Award Number: 0113181
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $367099             (Estimated)
+Investigator: Murali Sitaraman murali@cs.clemson.edu  (Principal Investigator current)
+              Gary T. Leavens  (Co-Principal Investigator current)
+              Stephen H. Edwards  (Co-Principal Investigator current)
+Sponsor     : Clemson University
+	      Box 345702
+	      Clemson, SC  296345702    864/656-2424
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Abstract    :
+              Abstract Proposal #0113181 Sitaraman Clemson University  A fundamental goal
+              of software engineering is to enable predictable and modular construction of
+              software systems by assembling components. Any component-based approach works
+              on the basic premise that participating components respect each other's
+              contracts. If this premise is violated, the consequences can be both dangerous
+              and expensive, because the problems may not surface until integration time.
+              Even worse, a system may behave properly on test cases, though internal
+              interface contracts are violated.  Undetected failures from internal violations
+              may be revealed ultimately only as accidents to component-based and embedded
+              systems after deployment.  This project offers a modular approach for
+              detecting and isolating internal contractual violations. The approach allows
+              checking at suitable levels of abstraction using formal specifications. It
+              permits checking to be turned "on" or "off" selectively to facilitate effective
+              regression testing, and it addresses violations of performance contracts in
+              addition to functionality for parameterized and object-oriented components. To
+              minimize errors in the violation checking process, the project will use and
+              experimentally evaluate alternative combinations of automation, formal
+              verification, model checking, and testing techniques. 

@@ -1,0 +1,73 @@
+Title       : Textual-Geospatial Integration Services for the National SMETE Digital Library
+Type        : Award
+NSF Org     : DUE 
+Latest
+Amendment
+Date        : September 6,  2001  
+File        : a0121578
+
+Award Number: 0121578
+Award Instr.: Standard Grant                               
+Prgm Manager: R. Corby Hovis                          
+	      DUE  DIVISION OF UNDERGRADUATE EDUCATION     
+	      EHR  DIRECT FOR EDUCATION AND HUMAN RESOURCES
+Start Date  : October 1,  2001    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $449265             (Estimated)
+Investigator: James Frew frew@icess.ucsb.edu  (Principal Investigator current)
+              Terence R. Smith  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 7444      NATIONAL SMETE DIGITAL LIBRARY
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 7444,9178,SMET,
+Abstract    :
+              The emerging National Science, Mathematics, Engineering, and Technology
+              Education Digital Library (NSDL) includes many sets of items whose
+              representations, while different at the user level, contain semantically
+              related information.  Consider, for example, the association between land-use
+              maps of some region, and references to that region in a book concerning
+              agricultural practices.  The NSDL aims to support its users with services that
+              help them find and integrate such semantically related information in such
+              heterogeneously represented items.
+
+This project is constructing operational
+              services to make it easy for users of the NSDL to have integrated access to
+              information from texts, maps, and images--specifically, information that is
+              semantically related in terms of geospatial features and regions.  These
+              services will help users find:
+
+-- maps or images containing features or
+              places that are referred to implicitly within texts, and
+-- texts that
+              implicitly reference features and places contained in maps and images.
+
+More
+              advanced services will help users evaluate the consistency between geospatial
+              information obtained from such varying sources.  Collectively, these services
+              will allow large collections of texts to be indexed and accessed geospatially,
+              even if their "cataloging records" do not contain explicit geospatial
+              references.
+
+To implement these services, the project team is integrating the
+              geospatial search services of the Alexandria Digital Library (ADL;
+              http://www.alexandria.ucsb.edu) at the University of California at Santa
+              Barbara with the high-performance information retrieval (IR) services developed
+              by the Illinois Institute of Technology's Information Retrieval Laboratory
+              (http://www.ir.iit.edu).  The key component in this integration is the 4+
+              million item gazetteer and associated services developed for ADL.  (A gazetteer
+              provides a mapping between textual representations of places and features, and
+              coordinate-based representations of their geospatial "footprints," thus
+              allowing a semantic mapping to be made in either direction between textual and
+              map/image representations of related phenomena.)  Specifically, the project
+              team is integrating a gazetteer into an IR engine, integrating an IR engine
+              into a geospatial digital library, and developing services that check the
+              consistency of alternative geospatial references.  These services will allow
+              seamless geospatial queries across distributed heterogeneous (text and
+              non-text) digital libraries and will enable geospatial referencing of texts
+              that have not otherwise been geographically cataloged (i.e., almost all texts
+              currently available).
+

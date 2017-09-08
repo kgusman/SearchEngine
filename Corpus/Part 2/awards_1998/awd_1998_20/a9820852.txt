@@ -1,0 +1,68 @@
+Title       : Dynamic Data Structures in Advanced Programming Languages Implementation: Theory
+               and Practice
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 13,  2002      
+File        : a9820852
+
+Award Number: 9820852
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2000        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $215186             (Estimated)
+Investigator: Desh Ranjan dranjan@NMSU.edu  (Principal Investigator current)
+              Gopal Gupta  (Co-Principal Investigator current)
+              Enrico Pontelli  (Co-Principal Investigator current)
+Sponsor     : New Mexico St University
+	      Box 30001, MSC 3RES
+	      Las Cruces, NM  880038001    505/646-2481
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Over the past several years there has been an advent of a host of new
+              programming methodologies and  paradigms based on sophisticated features like
+              concurrency and parallelism. These programming features and paradigms provide
+              users with high levels of abstraction, enabling them to stay closer to the
+              problem domains.  Supporting these features causes a considerable increase in
+              the interpretation/compilation overhead, leading to complex and relatively slow
+              implementations.  Experience in the development and implementation of
+              programming systems based on these new paradigms shows that one of the main
+              sources of inefficiency is the repeated specialized searches that must be
+              performed to realize the correct semantics at run-time.  To limit inefficiency,
+              existing languages and implementations restrict the expressiveness of the
+              constructs.
+The aim of this project is to study the search-related problems
+              that arise in sequential and parallel implementation of advanced programming
+              paradigms, with specific attention to logic programming and non-deterministic
+              languages.  The specific goals of this study are: (i) to abstract the key
+              implementation aspects of these programming frameworks as problems of design
+              and implementation of dynamic data structures;
+(ii) to design efficient data
+              structures for the resulting problems and analyze their complexity; and, (iii)
+              to use the results from the complexity analysis to quantitatively evaluate the
+              various implementation schemes described in the literature as well as to guide
+              the design of efficient dynamic data structures and algorithms that will lead
+              to optimal implementations.
+Precise complexity measures  of the  solutions to
+              these problems would allow system implementors to quantitatively compare
+              different execution models, propose and develop optimal implementations, and
+              talk about performance guarantees and system efficiency in a formal and
+              mathematically precise fashion.  These results would also be of importance to
+              the  users of these implementations, since they will allow them to understand
+              the implementation-wise troublesome  aspects of the language and to make better
+              use of the capabilities that the language possesses.  The results obtained in
+              this research are expected to be directly applicable to the specific
+              programming paradigms studied here.  Furthermore, these results are expected to
+              be transferable to other domains like constraint management and semantic
+              networks, where efficient specialized tree and graph searches are key
+              components of the execution models.
+
+

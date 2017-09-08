@@ -1,0 +1,76 @@
+Title       : ITR: Simulation of Flows with Dynamic Interfaces on Multi-Teraflop Computers
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 24,  2002      
+File        : a0086093
+
+Award Number: 0086093
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $3113665            (Estimated)
+Investigator: Omar Ghattas oghattas@cs.cmu.edu  (Principal Investigator current)
+              Gary L. Miller  (Co-Principal Investigator current)
+              Guy E. Blelloch  (Co-Principal Investigator current)
+              Noel J. Walkington  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1661,4080,9216,HPCC,
+Abstract    :
+              This Project will develop advanced parallel algorithms and software for
+              simulating complex flows with dynamic interfaces. The development of scalable,
+              parallel high-accuracy algorithms for simulating such flows poses enormous
+              challenges in computational science. The project will use these algorithms for
+              microstructural simulation of blood flow. This application provides an
+              excellent testbed for the methods: it is extremely computationally challenging
+              and of critical medical importance.
+
+Blood flow belongs to a class of flow
+              problems with dynamic interfaces. Blood is a mixture of interacting gel-filled
+              solid sells and fluid plasma. Current blood flow models are macroscopic,
+              treating the mixture as a homogeneous continuum. Microstructural models resolve
+              individual cells deformations and their interaction with the surrounding
+              plasma. Because of the computational difficulties of resolving tens of
+              thousands of dynamically deforming cells, no one to date has simulated
+              realistic blood flows at this level. Yet such simulations are necessary in
+              order to gain a better understanding of blood damage - which is central to
+              improved artificial organ design - and for the development of more rational
+              macroscopic blood models.
+
+Simulating flows with dynamic interfaces is much
+              more difficult than flows in well-understood fixed domains. The central
+              challenges are to develop numerical algorithms that stably and accurately
+              couple the moving fluid and solids, and geometric algorithms for computing the
+              resulting dynamic meshes. This project takes the approach of treating both
+              fluid and solid domains as collections of grid points, with associated meshes,
+              that evolve over time and devising numerical algorithms that couple the domains
+              seamlessly. It will attack the difficulty of creating and managing the evolving
+              mesh by developing scalable parallel algorithms for the convex hull, Delaunay
+              triangulation, and mesh partitioning components. With careful attention to
+              fundamental algorithmic issues, these cheap geometric computations will enable
+              these dynamic flow simulations to scale to thousands of processors as on
+              mult-teraflop systems.
+
+This research will benefit a wide community of
+              scientists and engineers. The computational algorithms will be widely
+              applicable to a variety of fluid-solid and fluid-fluid interaction problems.
+              More generally, the core parallel computational geometry kernels will provide
+              generic support for the geometric computations underlying many dynamic
+              irregular problems. The project will distribute a portable library of efficient
+              implementations of these algorithms. Also, the project will undertake a
+              broad-based, interdisciplinary program integrating research and education. It
+              will be part of a new program in Computational Science and Engineering, serving
+              as the archetype of how applications, computational, computer, and mathematical
+              scientists can work together to tackle societal problems that cannot be solved
+              solely by any one discipline.
+

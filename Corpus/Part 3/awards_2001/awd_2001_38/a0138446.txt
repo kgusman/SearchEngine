@@ -1,0 +1,96 @@
+Title       : Computational and Algorithmic Representations of Geonetric Objects - CARGO:
+               Degeneracy Detection for Curved Solids
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : February 28,  2002  
+File        : a0138446
+
+Award Number: 0138446
+Award Instr.: Standard Grant                               
+Prgm Manager: Benjamin M. Mann                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : March 1,  2002      
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: John Keyser keyser@cs.tamu.edu  (Principal Investigator current)
+              J. Maurice Rojas  (Co-Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 1260      INFRASTRUCTURE PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              DMS-0138446
+John Keyser
+
+Degeneracies are a major source of robustness
+              problems 
+in many geometric algorithms.  Many degenerate situations 
+can be
+              expressed as a root of a multivariate system of 
+polynomials.  We propose to
+              study the use of toric resultants 
+to detect degenerate situations in solid
+              modeling applications.  
+By taking advantage of the underlying monomial
+              structure 
+of a system of polynomials, the toric resultant can provide 
+a
+              method for solving systems of polynomials that is 
+dramatically more efficient
+              than the classical "dense" 
+resultants of Macaulay and Cayley.  We will focus
+              on 
+application to boundary evaluation for curved solids.
+Our work will
+              include enumeration of degenerate conditions 
+and identifying detection
+              algorithms for each category, 
+using the toric resultant where appropriate. 
+              The work 
+is intended to foster future collaborative research 
+endeavors on
+              topics including resolution of geometric 
+degeneracies, general algebraic
+              number computation, and
+computational Morse theory.
+
+Geometric degeneracies
+              occur when a minor perturbation 
+of the geometry would cause a qualitatively
+              different 
+positioning between the objects.  Degeneracies, such as 
+two
+              overlapping surfaces or a vertex of one object lying 
+on the face of another,
+              are common occurances in many
+real-world solid modeling examples.  The
+              problems of 
+detecting and dealing with degenerate situations becomes
+              
+particularly difficult when dealing with curved surfaces.  
+Usually,
+              detecting such cases involves finding roots of 
+polynomials.  Thus, accurate
+              and efficient root-finding 
+is crucial to an effective approach for
+              handling
+degeneracies.  The toric resultant is an approach for 
+finding
+              solutions to systems of polynomial equations.  
+Because of its efficiency
+              compared to other methods of 
+solving such systems, it is a promising
+              approach
+for detecting and treating degeneracies.  We propose 
+to address
+              degeneracies in solid modeling applications 
+through the use of the toric
+              resultant.
+

@@ -1,0 +1,63 @@
+Title       : hp Finite Element Methods in Failure Prediction and Material Science
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 7,  2000     
+File        : a0074160
+
+Award Number: 0074160
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $95000              (Estimated)
+Investigator: Manil Suri suri@math.umbc.edu  (Principal Investigator current)
+Sponsor     : U of MD Baltimore County
+	      1000 Hilltop Circle
+	      Baltimore, MD  21250    301/455-1000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              ABSTRACT OF PROJECT
+
+The goal of this project is to formulate, analyze and
+              numerically test new computational algorithms geared towards solving problems
+              of deformation and failure in structures and materials.  We use the p/hp finite
+              element methods, where the degree p of polynomials used can be increased to
+              achieve accuracy.  The first topic is the investigation of a linearized
+              algorithm for the buckling of three-dimensional objects, recently implemented
+              in the commercial hp code STRESS CHECK.  Spurious predictions are unavoidable
+              due to the non-compactness of an underlying eigenvalue problem.  We develop a
+              mathematical theory which analyzes the algorithm, helps in ensuring the
+              reliability of the computations, and leads to useful extensions. The second
+              topic is the development of a p finite element method for woven composite
+              materials.  An algorithm will be developed whereby each periodic cell is
+              identified with a specialized p-type element, which can incorporate the various
+              geometric and material properties.  The periodicity is exploited since no mesh
+              sub-division is used, but accuracy achieved by increasing the degree in the
+              local elements.
+
+It is well known that when a thin vertical beam is loaded
+              too much, it will eventually buckle.  This project mathematically develops a
+              new engineering method for predicting such maximum buckling loads for
+              complicated three-dimensional structures.  The goal is to ensure that the
+              results predicted by the engineering method (already in use in the commercial
+              software STRESS CHECK, which has been used e.g. to study the buckling of space
+              shuttle panels) are reliable.  The second part of this project develops a new
+              method to computationally study woven composite materials.  These materials,
+              which are composed of fibers that are woven together and imbedded in a
+              surrounding matrix are often both very strong and lightweight, and have several
+              useful industrial applications (e.g. aeronautical components).  Due to their
+              complicated structure, their analysis by conventional methods can be quite
+              cumbersome and expensive. Our new method overcomes several difficulties by
+              exploiting the repeating nature of the material, and will lead to useful
+              materials science applications, such as the design of new composites with
+              specific properties.
+
+

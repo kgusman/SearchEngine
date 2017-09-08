@@ -1,0 +1,76 @@
+Title       : Mathematical Sciences: Solutions-Adaptive Grid Partitioning and Variable
+               Ordering for PDEs
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 18,  1997      
+File        : a9505110
+
+Award Number: 9505110
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1995     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $141000             (Estimated)
+Investigator: Alex Pothen   (Principal Investigator current)
+              David E. Keyes  (Co-Principal Investigator current)
+Sponsor     : Old Dominion Research Fdn
+	      800 W. 46th Street
+	      Norfolk, VA  23508    757/683-4293
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9216,9263,HPCC,OTHR,
+Abstract    :
+              Dear Al,  Alex has kept me in the loop as you and he have converged on a revised
+              scope of our proposed investigation into partitioning and ordering methods that
+              take advantage of knowledge of coefficient magnitude, instead of coefficient
+              structure only.  Thanks for your support of this work, whose outcomes could
+              feed directly into several other projects.  To complete what I believe you need
+              before processing this grant further, he and I have abstracted the project into
+              the following two paragraphs for peers and nontechnical readers.  I hope it is
+              okay.  Best Regards, David 
+              ========================================================================== 
+              Solution-adaptive Grid Partitioning and Variable Ordering for PDEs  Alex Pothen
+              and David E. Keyes   The proposers consider grid partitioning and variable
+              ordering problems that come to the fore in the parallel computation of problems
+              modeled by partial differential equations discretized on unstructured grids.
+              Partitioning algorithms that maintain load balance among the processors while
+              incurring low communication costs for distributed memory parallelism have been
+              developed in earlier work.  Here solution-adaptive partitioning methods are
+              proposed that strive, in addition, to attain good convergence rates in such
+              data parallel contexts.  Communication volume per iteration may rise, but only
+              modestly for moderate-granularity parallelism, while the more important number
+              of message-startups per iteration should not be strongly affected.
+              Solution-adaptive ordering methods are also proposed for the fast solution of
+              the problems on the local partitions.  Two recently developed classes of
+              partitioning and ordering algorithms that have proved to be successful in
+              non-adaptive contexts will feature prominently in both the partitioning and
+              ordering phases of this proposal.  One class consists of spectral algorithms,
+              (i.e., algorithms that make use of an approximation to a certain eigenvector of
+              a Laplacian matrix derived from the grid and the discretization sche me), while
+              the second class includes multilevel algorithms.  Both algorithms will be
+              generalized to the solution-adaptive context.  Many computational problems in
+              science and engineering can be modeled by partial differential equations, and
+              subsequently solved as a system of algebraic equations defined on an
+              unstructured grid.  The most natural form of parallelism for such problems
+              requires the original domain to be decomposed into subdomains, which are mapped
+              whole on to individual processors.  Iterative domain decomposition algorithms
+              fit naturally into this framework, wherein a solution is assembled from
+              subproblems whose boundary conditions are set by transmitting a limited amount
+              of information between nearest neighbors.  The partitioning and ordering
+              methods proposed herein will be useful for solution methods of such domain
+              decomposition type, which are designed with respect for the high
+              communication-to-computation cost ratio in contemporary distributed-memory
+              computers.  The key opportunity to be exploited in this work is that of
+              synergistically joining two ideas that have matured separately, and are usually
+              used as ``black boxes''-- partitioning and ordering based on sparsity structure
+              only, and domain-blocked iteration based on understanding the physical
+              dependencies reflected in the coefficients.  The software tools developed in
+              this work will be demonstrated for ``grand challenge'' problems in application
+              areas such as aerodynamics and geophysics.

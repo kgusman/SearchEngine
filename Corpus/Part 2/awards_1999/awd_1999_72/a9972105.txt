@@ -1,0 +1,81 @@
+Title       : A General Framework for Hard-Real-Time Application System Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 29,  1999 
+File        : a9972105
+
+Award Number: 9972105
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $74990              (Estimated)
+Investigator: Sanjoy K. Baruah baruah@cs.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      300 Bynum Hall
+	      Chapel Hill, NC  27514    919/962-5625
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              PROPOSAL NUMBER: CCR-9972105
+
+TITLE: A General Framework for Hard-Real-Time
+              Application System Design
+
+PI: Sanjoy K Baruah
+
+The rate-monotonic analysis
+              (RMA) methodology is a powerful and popular formal
+methodology for the design,
+              analysis, and implementation of hard-real-time
+computer application systems. 
+              This project proposes to address certain
+shortcomings of RMA --- its
+              restrictive task model, and the limited options
+available in the methodology
+              for overcoming resource-sharing bottlenecks.
+More
+specifically, the goals of
+              this project will be:
+
+--- designing new abstract models of real-time tasks
+              that may more accurately
+reflect important properties of application systems,
+              and identifying rules for
+mapping application systems onto the most
+              appropriate models.
+
+--- analysing various task models in order to enhance
+              our understanding of
+what
+intrinsic properties render a model infeasible from
+              a static-priority
+feasibility analysis point of view, and identifying very
+              general classes of
+tractable models.
+
+--- determining methods (algorithms/
+              heuristics) for assigning appropriate
+priorities to tasks specified in these
+              general models.
+
+--- designing algorithms for overcoming resource-sharing
+              bottlenecks, by
+obtaining a deeper understanding of the nature of typical
+              shared resources and
+by exploiting their unique characteristics, and
+
+---
+              building software that both validates the usefulness of the
+              theoretical
+results, and makes these results available to the system
+              designer.
+
+

@@ -1,0 +1,79 @@
+Title       : Statistical Theory and Algorithms for Signal Authentication
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0208809
+
+Award Number: 0208809
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2002      
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Pierre Moulin moulin@ifp.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Moulin, Pierre
+U of Ill Urbana- Champaign
+
+The enormous growth in electronic
+              commerce has led to an urgent need for the protection and
+authentication of
+              information, which now is stored and transmitted in massive amounts. There is
+              a
+multitude of applications where a signal (typically audio, image or video)
+              is to be communicated to
+a receiver, along with information such as ownership
+              identification or a timestamp authenticating
+the signal. The communication
+              channel on which the signal is transmitted may be insecure, i.e.,
+an adversary
+              may modify the signal in such a way that it can no longer be reliably
+              authenticated.
+In some applications (e.g., wireless video transmission) the
+              channel is considered to be insecure
+not due to the presence of an adversary,
+              but because of the significant degradations introduced
+by the transmission
+              medium. A secret message necessary for authentication may be embedded
+in the
+              signal (watermarking-based authentication) or transmitted on a separate channel
+              (hashing-
+based authentication). In watermarking, the host data set is
+              intentionally corrupted, but in a covert
+way, designed to be imperceptible to
+              a casual analysis. Hashing does not require the signal to be
+modified, but
+              requires the transmission of side information about the signal (authentication
+              tag)
+on a separate channel.
+Signal authentication encompasses applications
+              such as forgery detection and analysis, copyright
+protection for digital
+              media, copy control, fingerprinting (traitor tracing), and database query
+              and
+retrieval [1]|[30]. Watermarking and authentication are now major
+              activities in audio, image, and
+video processing, and standardization efforts
+              for JPEG-2000, MPEG-4, and Digital Video Disks
+are well underway. Commercial
+              products are being developed. Annual International Workshops
+on information
+              hiding have been held in 1996, and every year since 1998. Special issues of
+              major
+technical journals have recently been recently devoted to information
+              protection [31, 32, 33, 34],
+and comprehensive surveys of image and multimedia
+              watermarking techniques are available from
+[35, 36].

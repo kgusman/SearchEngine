@@ -1,0 +1,111 @@
+Title       : Network Caching for Efficient Multimedia Content Delivery
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 22,  2001    
+File        : a0092113
+
+Award Number: 0092113
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300001             (Estimated)
+Investigator: Predrag R. Jelenkovic predrag@ctr.columbia.edu  (Principal Investigator current)
+              Edward G. Coffman  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Exponentially increasing multimedia information content has become a
+              problem at the
+heart of modern communication networks. This is a paradigm
+              shift from traditional com-
+munication networks, where the primary function is
+              information transmission, and where
+quality of service improvements are
+              attainable through better dimensioning of bandwidth
+and switching resources.
+              However, in networks where information storage plays a central
+role, major
+              improvements in quality of service can not be successful without the help
+              of
+caching, prefetching and/or mirroring of information. It can be argued that
+              even if an
+unlimited amount of free bandwidth were available, the
+              concentration of information on a
+small number of servers would cause server
+              overloads, resulting in unacceptable download
+latencies.
+      This general
+              problem has created the explosion of research studies that are to be found
+in
+              the network systems engineering literature on Web caching. Although this work
+              has
+contributed important engineering solutions, much of it is ad hoc and
+              informal. Indeed, in
+the large literature on caching research, it is rare to
+              find papers dealing with mathematical
+foundations, especially those
+              underpinning stochastic models. Also, one rarely finds proofs in
+a rigorous
+              setting of nontrivial stochastic or average-case properties of caching
+              structures and
+algorithms. It is our thesis here that more systematic
+              approaches are needed. This proposal
+describes a project to meet this need;
+              more generally, we outline a systematic treatment
+that focuses on fundamental
+              design issues, one that, in dealing with these issues,
+              integrates
+experimentation, analysis and statistical measurements.
+     
+              Network cache design objectives are reductions in access latency, traffic
+              congestion, and
+server loads. These objectives can be attained only through a
+              thoughtful design that ad-
+dresses many important and challenging research
+              topics. Some of the fundamental questions
+that remain without definitive
+              answers include: dynamic caching and caching with expiration
+times; design and
+              analysis of easily implemented heuristic algorithms; impact of locality
+              in
+request sequences on caching performance; caching and prefetching in low
+              bandwidth access
+environments, with a special emphasis on wireless Web
+              accesses; cache allocation and sizing
+problems; and Web-graph performance
+              modeling. Extending the knowledge base and deep-
+ening our insight into these
+              and several other equally fundamental caching system design
+problems is the
+              main theme of this proposal. The ultimate goal is to utilize this
+              improved
+knowledge base to develop an experimental testbed for achieving
+              practically feasible and
+efficient network caching systems.
+      The
+              inherent complexity of the research topics identified here, and the network
+              caching
+problem as a whole, necessarily call into play all available research
+              tools. Thus, methodologi-
+cally, the scope of the proposed research ranges
+              from mathematical modeling and analysis to
+statistical measurements and
+              experimentation. The impact of our results, by their interdis-
+ciplinary
+              nature, will not just be limited to designing multimedia network caching
+              systems,
+but will potentially lead to improved problem solving techniques in
+              related fields of computer
+algorithms, software engineering, probability
+              theory, and operations research.

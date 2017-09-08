@@ -1,0 +1,73 @@
+Title       : ITR/SY(CISE): Cache-Oblivious Data Structures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0112849
+
+Award Number: 0112849
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $449571             (Estimated)
+Investigator: Lars Arge large@cs.duke.edu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+PROPOSAL NO.: 0112849
+PRINCIPAL INVESTIGATOR: Arge, Lars
+INSTITUTION NAME:
+              Duke University
+TITLE: ITR/SY(CISE): Cache-Oblivious Data Structures
+
+As the
+              memory system in modern computers grows more complex, it is becoming
+              increasingly important to design algorithms that are sensitive to the structure
+              of the memory. One of the essential features of modern memory systems is that
+              they are made up of a hierarchy of several levels of cache, main memory, and
+              disk. While traditional theoretical memory models have assumed a "flat" memory
+              with uniform access time, the access times of different levels of memory can
+              vary by several orders of magnitude in current machines. For example, level-one
+              cache is often around 100 times faster than main memory, while main memory is
+              around
+1,000,000 times faster than disks. In order to amortize the large
+              access time of memory levels far away from the processor, memory systems often
+              transfer data between memory levels in large blocks. Thus it is becoming
+              increasingly important to obtain high data locality in memory access
+              patterns.
+
+This project will focus on the challenging problems encountered
+              when trying to maintain data locality in irregular and dynamic problems, where
+              by definition the data flow is continually changing and unpredictable, making
+              it difficult to organize data locality a priori. In particular, cache-oblivious
+              dynamic data structures will be developed-such data structures can in turn be
+              used to develop cache-efficient algorithms. Only very recently was the first
+              (and only) such dynamic cache-oblivious data structure developed. This
+              structure is a cache-oblivious
+version of a search tree. The ambitious goal of
+              this project is to develop cache-oblivious structures for other fundamental
+              problems. In the process general techniques for designing cache-oblivious data
+              structures will be developed. Data structures with applications in a variety of
+              application areas will be considered, but there will be a particular focus on
+              geometric structures. Such structures often have important applications in e.g.
+              spatial databases and geographic information systems (GIS). The project is
+              high-risk because almost nothing is known about dynamic cache-oblivious data
+              structures, but it has the potential to revolutionize the area of
+cache- and
+              I/O-efficient computation and to make a tremendous practical impact. Ultimately
+              this research could lead to a standard library of cache-oblivious data
+              structures. Such platform-independent data structures would enable programmers
+              to easily develop a wide variety of applications that obtain high performance
+              on all modern memory hierarchies.
+

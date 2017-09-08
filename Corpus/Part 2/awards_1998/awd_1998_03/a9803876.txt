@@ -1,0 +1,43 @@
+Title       : A Model and a Tool for Change Propagation in Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 6,  2000  
+File        : a9803876
+
+Award Number: 9803876
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1998       
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $93500              (Estimated)
+Investigator: Vaclav Rajlich rajlich@cs.wayne.edu  (Principal Investigator current)
+Sponsor     : Wayne State University
+	      5050 Cass
+	      Detroit, MI  482023900    313/577-2424
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9803876  Change propagation is a key part of software maintenance and 
+              evolution. The change starts with the programmer changing a  component of
+              software. After the change, the component may no  longer fit with the rest of
+              the software, because it may no  longer provide what the other components
+              require, or it may now  require different services from the other components.
+              In order to  reintroduce the consistency into software, the programmer must 
+              keep track of inconsistencies and the locations where the  secondary changes
+              are to be made. The secondary changes, however,  may introduce new
+              inconsistencies, etc. The process continues  until all inconsistencies are
+              removed. The formal model of change  propagation is based on graph rewriting.
+              It covers specific  scenarios, including strict change-and-fix, random
+              change-and-  fix, and top-down. The research includes development of a 
+              prototype tool based on the formalism, which keeps track of the  remaining
+              inconsistencies in software, and marks the components  to be updated. The
+              validation of both the formal model and the  tool will be done by a case study.
+              The results of the case study  will serve as a feedback, and will be projected
+              into both the  model and the prototype tool.***

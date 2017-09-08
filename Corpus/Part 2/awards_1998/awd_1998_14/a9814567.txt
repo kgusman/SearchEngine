@@ -1,0 +1,78 @@
+Title       : A Framework for Robust Measurement-Based Admission Control
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 16,  1999     
+File        : a9814567
+
+Award Number: 9814567
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1999     
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $194290             (Estimated)
+Investigator: David N. Tse dtse@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              Integrated-services networks are expected to carry a class of traffic that has
+              variable bit-rates and requires Quality of Service (QoS) guarantees.  One of
+              the main challenges is the provisioning of QoS to users while efficiently
+              sharing network resources through statistical multiplexing.  Admission control
+              plays the essential role of limiting the number of flows admitted into the
+              network such that each individual flow obtains the desired QoS.
+              Measurement-based admission control (MBAC) is a practical way of achieving this
+              objective through measuring the current and past variable traffic load in
+              deciding how many flows can be admitted into the network.
+
+Many issues have
+              to be understood in the design of robust MBAC schemes. They include:
+
+-
+              impact of estimation errors on performance;
+- effect  of flow dynamics such as
+              flow arrivals and departures;
+- choice of measurement window size.
+
+The goal
+              of the proposed project is to establish a unified framework to study these and
+              other issues in MBAC. We wish to obtain a set of guidelines for designing MBACs
+              that are robust over a wide range of system parameters. Our methodology is to
+              obtain insights from the analysis of a set of basic  models, which are in turn
+              validated with simulation experiments on real and synthetic traffic
+              sources.
+
+The preliminary investigation on a simple bufferless model yields
+              simple expressions for the relevant performance measures as a function of key
+              parameters such as system size, measurement window size, and
+flow arrival and
+              departure rates. The analysis provides basic insights for answering the
+              questions asked above.  One particularly interesting result is the
+              identification of an important parameter ~T_h
+which we call the critical
+              time-scale for the MBAC problem.  This parameter quantifies the amount of time
+              a MBAC scheme has to predict into the future to provide good performance, and
+              determine to a large extent the appropriate measurement window size.
+
+The
+              research proposes to build on this foundation and extend the framework to study
+              the following issues:
+
+- MBAC using aggregate versus individual flow
+              measurements;
+- MBAC for buffered links;
+- impact of long-range dependency,
+              multiple time-scale traffic dynamics, and non-stationarities;
+- MBAC using
+              direct QoS monitoring versus measurements of statistical parameters.
+
+

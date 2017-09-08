@@ -1,0 +1,60 @@
+Title       : SBIR Phase I: Modeling of Thermal Transport and its Interaction with Crystal
+               Formation in Optical Fiber Drawing on Distributed Memory Machines
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 29,  1999  
+File        : a9960522
+
+Award Number: 9960522
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Patrick Johnson                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2000    
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Jiwen Liu liu@esi-al.com  (Principal Investigator current)
+Sponsor     : Engineering Sciences Inc
+	      1900 Golf Road, Suite D
+	      Huntsville, AL  35802    205/883-6233
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0510302   Energetics & Thermodynamc               
+Program Ref : 0000,1266,OTHR,
+Abstract    :
+              This Small Business Innovation Research Phase I project is to develop and
+              demonstrate a computational tool for detailed simulation of thermal transport
+              in a optical fiber drawing process on distributed memory machines. The ZBLAN
+              optical fibers may replace the existing silica optical fibers in the next
+              century because they have broader spectrum and lower loss coefficient. However,
+              the ZBLAN glass tends to crystallize during the drawing of optical fiber. The
+              suppression of crystallization requires a clear understanding of thermal
+              transport involving radiative heat transfer and two-phase flow with a curved
+              free surface. In Phase I, the finite volume method (FVM) will be modified to
+              simulate radiative heat transfer in the gas enclosure as well as inside the
+              glass. The gas-glass interface is treated as an optically directional and
+              reflecting surface. The full elliptic governing equations will be solved for
+              both glass and external gas, which are coupled by the conjugate boundary
+              conditions at the interface. The discretization of the physical domain will be
+              carried out by the multizone adaptive grid generation (MAGG) technique. An
+              efficient parallel algorithm will be developed and implemented in the solution
+              procedure with message passing by the Message Passing Interface (MPI) library.
+              A parallel algebraic multi-grid (AMG) solver will be developed to solve the
+              discretized equations. The Phase I will demonstrate the high accuracy and
+              efficiency of the proposed simulation tool for thermal transport process. In
+              Phase II, the crystal formation model will be developed, and the coupling
+              between thermal transport and crystal formation will be completed in the tool.
+              
+
+The simulation tool to be developed will significantly benefit the optical
+              fiber industry that requires a detailed understanding of multimode and highly
+              coupled transport phenomena and their interactions with thermal induced
+              defects. The potential applications include the design, optimization, and
+              control of optical fiber drawing process and many other manufacturing and
+              materials processing systems.
+
+Key Words: Optical Fiber Drawing, Radiative
+              Heat Transfer, Parallel Computing. 

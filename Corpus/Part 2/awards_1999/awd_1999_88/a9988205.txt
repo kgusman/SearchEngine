@@ -1,0 +1,71 @@
+Title       : Large-Scale Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 21,  2000      
+File        : a9988205
+
+Award Number: 9988205
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2000      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $466255             (Estimated)
+Investigator: Walter Murray walter@stanford.edu  (Principal Investigator current)
+              Michael Saunders  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Optimization problems arise in all areas of science, engineering, and industry. 
+              They
+involve choosing variables to satisfy certain constraints while
+              minimizing an objective
+function such as cost or weight.  Large problems may
+              have many thousands of variables
+and constraints, but they are usually sparse
+              in some way.  For example, each constraint
+may involve only a few of the
+              variables.
+
+This proposal describes a 3-year program of research to develop
+              new computational 
+methods for solving large real-world optimization problems.
+               The design of algorithms
+to exploit sparsity is the main focus of our
+              research.
+
+Our large-scale solver SNPOT already represents a major advance.  
+              Its Sequential
+Quadratic Programmin (SQP) algorithm is efficient on large
+              problems if the number
+of degrees of freedom is moderate (i.e., the number of
+              binding constraints is nearly
+as large as the number of variables).  Many
+              important applications are of this
+kind - for example trajectory optimization
+              for spacecraft and aircraft.  However,
+succes on such problems inevitably
+              generates the demand to solve larger problems.
+
+We must develop a new sparse
+              QP solver (the heart of an SQP algorithm).  Other
+advances are proposed to
+              improve SNOPT's performance on problems whose nonlinear
+functions are cheap to
+              evaluate.  This includes a vast array of applications generated
+by the
+              algebraic modeling systems GAMS and AMPL.
+
+A key aim of this project is
+              tranferring results to the scientific and industrial
+community by developing
+              mathematical software.

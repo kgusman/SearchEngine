@@ -1,0 +1,71 @@
+Title       : Learning from Multiple-Instance and Unlabeled Data
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  2002       
+File        : a9988314
+
+Award Number: 9988314
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $217175             (Estimated)
+Investigator: Sally Goldman sg@cs.wustl.edu  (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Learning from Multiple-Instance and Unlabeled Data
+
+Sally A.
+              Goldman
+Department of Computer Science
+Washington University
+St. Louis, MO
+              63130 
+
+
+PROJECT SUMMARY
+In standard supervised learning each example is
+              given a label with the correct (or possibly noisy) classification.  In
+              unsupervised learning, all the individual examples are unlabeled with just a
+              single overall label.  This project is studying two learning models that fall
+              between these two extremes.  In the multiple-instance model the learner only
+              receives labeled collections (or bags) of examples.  A bag is classified as
+              positive if and only if at least one of the examples in the bag is classified
+              as positive by the target concept.  Supervised and unsupervised learning can be
+              thought of as two special cases of this model.  In supervised learning, each
+              example is in its own bag, and in unsupervised learning, all examples are
+              together in one bag.  The multiple-instance model was motivated by the drug
+              activity prediction problem where each example is a possible shape for a
+              molecule of interest and each bag contains all likely shapes for the molecule. 
+              By accurately predicting which molecules will bind to an unknown protein, one
+              can accelerate the discovery process for new drugs, hence reducing cost. 
+              Existing multiple-instance learning algorithms use boolean labels for the bags.
+               However, in the drug activity prediction problem, the true label is a
+              real-valued affinity value measurement which gives the strength of the binding.
+               This project is performing an in-depth study of learning in the
+              multiple-instance model with real-valued labels including empirical studies
+              using real drug binding data.  Other applications areas will also be
+              explored.
+This project is also studying learning when much of the available
+              data is unlabeled.  In many application areas (e.g. the classification of web
+              pages as appropriate or inappropriate for minors, or medical applications)
+              there is a small amount of labeled data along with a large pool of unlabeled
+              data.  This project is studying techniques to use the unlabeled data to improve
+              the performance of standard supervised learning algorithms.  In particular, a
+              method of co-training is being studied in which there are two independent
+              learning algorithms which are originally trained on the labeled data.  Then
+              using statistical techniques, each learner will repeatedly select some of the
+              unlabeled data to labeled for the other learner.  This project will perform
+              empirical studies and also theoretical studies to understand the limitations of
+              various approaches to develop better learning algorithms.

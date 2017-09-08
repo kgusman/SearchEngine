@@ -1,0 +1,75 @@
+Title       : ITR/SY(CISE): Compositional Connectors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a0113810
+
+Award Number: 0113810
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $420000             (Estimated)
+Investigator: David Garlan garlan@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1658,9216,HPCC,
+Abstract    :
+              NSF ITR Proposal #0113810
+Compositional Connectors
+David Garlan
+
+For systems
+              composed from independently developed parts, specialized forms of
+interaction
+              are often needed to bridge component mismatches or to achieve
+extra-functional
+              properties (e.g., security, reliability), making the design and
+implementation
+              of these interaction mechanisms a critical issue.  Unfortunately,
+system
+              developers have few options: they must live with available, but
+              often
+inadequate, generic support for interaction (such as RPC), or they
+              must
+handcraft specialized mechanisms at great cost.
+
+This research
+              investigates a new approach whereby interaction mechanisms are
+constructed
+              compositionally.  Specifically, basic connectors (such as RPC or
+data streams)
+              can be augmented with selected adaptations or enhancements to
+produce a more
+              complex connector that meets the system requirements.  This
+work will
+              investigate the hypothesis that (a) there exists a collection
+              of
+general-purpose transformations that can be applied to connectors to
+              produce
+increasingly rich forms of interaction, and (b) tools can be built to
+              automate
+the application of these transformations to existing interaction
+              mechanisms.
+If successful, this research will reduce the cost of component
+              integration by
+partially automating the production of complex interaction
+              mechanisms, improve
+the quality of systems by making it simple to add security
+              and dependability
+features, and develop new foundations for specifying and
+              reasoning about complex
+interaction mechanisms.
+
+
+
+

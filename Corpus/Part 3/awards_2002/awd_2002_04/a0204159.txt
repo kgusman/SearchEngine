@@ -1,0 +1,76 @@
+Title       : Symbolic Representation Based Partial Order Methods
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 12,  2002      
+File        : a0204159
+
+Award Number: 0204159
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $160000             (Estimated)
+Investigator: S. P. Iyer purush@csc.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Symbolic Representation Based Partial Order Methods
+S. Purushothaman Iyer
+
+
+              Symbolic representations are used in analysis of finite and infinite
+state
+              concurrent system.  However, they could be subjected to
+constraint explosion
+              much like state explosion in analysis of finite
+state designs of concurrent
+              systems.  The reason for both of these explosions
+is the consideration of all
+              interleavings, of a concurrent system, during their
+analysis.
+
+Partial-order
+              techniques depend upon the notion of independence among
+actions to avoid
+              considering all possible interleavings.  The  proposed
+research will
+              investigate the notion of unfolding, which aids both in
+discovery of
+              independent actions and in succinctly representing the state
+space of systems.
+               In particular, the proposed research will address the 
+following topics:
+
+
+              o How to build unfoldings for real-time automata as available, for 
+     
+              instance, in the tool-set UPPAAL.
+
+ o Implementation of an unfolding-based
+              partial order method for UPPAAL.
+
+ o A comparative (theoretical)
+              investigation of unfoldings and current partial
+      order methods, with a
+              view to generalizing unfoldings to other infinite
+      state systems.  
+ 
+
+              o Empirical evaluation of the proposed implementation against current
+     
+              practices.
+
+The proposed research will aid in faster, and more complete,
+              analysis of
+infinite state concurrent systems than is currently possible.
+

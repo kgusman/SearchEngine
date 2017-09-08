@@ -1,0 +1,48 @@
+Title       : Effective Compilation in the Presence of Exceptions
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 7,  2000       
+File        : a9808607
+
+Award Number: 9808607
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $230000             (Estimated)
+Investigator: Barbara G. Ryder ryder@cs.rutgers.edu  (Principal Investigator current)
+              Donald E. Smith  (Co-Principal Investigator current)
+              Ulrich Kremer  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Java is designed to be a mature, object-oriented programming  languagemainly for
+              Web-based programming. However, Java can  support general stand-alone
+              applications as well, such as  scientific codes that consist of independent
+              components using  exceptions as a control mechanism between components.
+              Although  Java is too new to have been used extensively in applications, it  is
+              clear that user-defined exceptions will be ubiquitous in Java  programs,
+              causing them to exhibit distinctive control flow,  different from previous
+              object-oriented languages. The proposed  research concentrates on combining new
+              analysis techniques with  two optimization strategies, namely speculative and
+              non-  speculative, using a testbed of scientific applications for  validation.
+              Exceptions pose new challenges to optimizing compilers  since they introduce
+              implicit control flow and their semantics  requires access to user-visible
+              state at any raised exception.  Optimization strategies may either preserve
+              exceptions and their  visible states, or perform speculative optimizations by
+              ignoring  exceptions, and restore the visible state if an exception is  raised.
+              New static analyses are needed to provide an accurate  estimate of control flow
+              within and across method boundaries,  including concrete type inference and
+              subsequent def-use analyses.  The resulting information is crucial for the
+              effectiveness of many  optimizations, including code specialization, code
+              motion,  register allocation, and instruction scheduling.

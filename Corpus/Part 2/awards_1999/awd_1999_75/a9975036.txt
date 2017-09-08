@@ -1,0 +1,58 @@
+Title       : Next Generation Software: A Computing Environment for Adaptively Parallel
+               Multithreading
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 21,  2000    
+File        : a9975036
+
+Award Number: 9975036
+Award Instr.: Standard Grant                               
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $100001             (Estimated)
+Investigator: Charles E. Leiserson cel@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2884,9218,HPCC,
+Abstract    :
+              EIA-9975036
+Charles E. Leiserson
+Massachusettes Institute of
+              Technology
+
+Adaptively parallel programs can grow and shrink depending upon
+              the availability of processor resources.  Adaptive parallelism creates a host
+              of system issues, especially if we want to insulate the programmer from the
+              vagaries of his computing environment.  How should adaptively parallel file I/O
+              be specified by a programmer and implemented by the system?  By what mechanisms
+              should adaptively parallel processes communicate, and how should this
+              communication be specified linguistically?  How can multiple adaptively
+              parallel processes be scheduled fairly and efficiently?  What performance
+              guarantees can adaptively parallel system mechanisms provide?  How should
+              adaptively parallel codes be debugged?  This research investigates both
+              empirical and theoretical answers to these questions.
+
+The Cape system will
+              provide a prototype implementation of a computing environment for adaptively
+              parallel multithreaded programs.  Cape will leverage the multithreaded
+              programming system provided by Cilk, a faithful extension of the C programming
+              language, which has been developed at MIT.  Cape will allow Cilk programs to
+              run in an adaptively parallel fashion transparently without any programmer
+              intervention.  Cape will incorporate provably good algorithms for scheduling,
+              file I/O, and interprocess communication, providing theoretical guarantees of
+              efficiency.
+
+An adaptively parallel multithreaded computing environment will
+              enable flexible and irregular applications to fully exploit the next generation
+              of computer systems.
+

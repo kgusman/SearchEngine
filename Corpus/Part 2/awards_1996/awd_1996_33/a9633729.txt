@@ -1,0 +1,50 @@
+Title       : Time Division Multiplexing of Optical Interconnection Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 23,  1996    
+File        : a9633729
+
+Award Number: 9633729
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $187016             (Estimated)
+Investigator: Rami Melhem melhem@cs.pitt.edu  (Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              The goal of this research is to study, design and evaluate control mechanisms
+              for  time-multiplexing optical interconnection networks in multiprocessor 
+              applications.  Such mechanisms decouple the relatively slow network control
+              from  the high optical data transmission bandwidth. The research will assess
+              the  advantages, capabilities and limitations of time-division multiplexing. 
+              Specifically, models will be developed to specify the communication
+              requirements  of applications, to express and measure the communication
+              locality present in  communication loads, and to estimate the communication
+              cost in multiplexed  interconnection networks.  Different control protocols
+              will be simulated and  tested on traces collected from actual parallel
+              applications, and on synthetic  traces generated with the help of the
+              communication locality model. Centralized,  distributed and pipelined control
+              strategies will be implemented and compared.    This project is motivated by
+              several observations. First, without multiplexing,  the control overhead of
+              establishing end-to-end connections in a network may be  prohibitive. Second,
+              applications exhibit communication locality which amplifies  the benefits of
+              multiplexing. Third, the high bandwidth of optical paths allows  for
+              multiplexing with minimal effect on the transmission rate on individual 
+              connections.  Finally, the nature of massively parallel programs allows
+              compilers  to determine, with current technology, the multiplexing sequences
+              that satisfy  most of the communication requirements.

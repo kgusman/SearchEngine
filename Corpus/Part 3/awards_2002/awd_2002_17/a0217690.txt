@@ -1,0 +1,64 @@
+Title       : Collaborative Research: A Framework for Effective Optimization via Simulation
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a0217690
+
+Award Number: 0217690
+Award Instr.: Continuing grant                             
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  2002     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $199999             (Estimated)
+Investigator: Barry L. Nelson nelsonb@northwestern.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0107000   Operations Research                     
+Program Ref : 9147,MANU,
+Abstract    :
+              We will develop algorithms (and supporting theory) for optimizing the expected
+              performance of a stochastic system with respect to discrete decision variables.
+               We assume that the stochastic system of interest is represented by a
+              simulation model, and hence that the performance of this system can only be
+              estimated with noise.  Our focus is on ``general-purpose'' optimization
+              techniques that do not exploit particular problem structure, because we want
+              our techniques to be suitable for inclusion in general-purpose simulation
+              software. The goal is to produce algorithms that have provable asymptotic
+              performance, competitive finite-time performance, and valid statistical
+              inference at termination. The keys to our approach are (1) our algorithms will
+              work within a global guidance framework that guarantees asymptotic convergence,
+              while giving us wide latitude to be aggressive and adaptive; (2) within this
+              framework, we will embed aggressive local-improvement schemes; (3) we will
+              enhance the local-improvement schemes with highly efficient selection-error
+              control to insure improvement even in the presence of estimation error; and (4)
+              we will provide valid statistical inference at algorithm termination so that
+              the solution reported as best will be the best, or near best, of all those
+              solutions actually visited by the search, with a prespecified confidence
+              level.
+
+In the United States, computer simulation is widely used to design
+              and improve ("optimize") manufacturing, service, military, telecommunication
+              and financial systems that are subject to uncertainty. Our research will
+              provide theoretically sound optimization algorithms that can be incorporated
+              into new or existing simulation software packages. There is a critical need for
+              this research, because every day simulation users are formulating and
+              attempting to solve optimization-via-simulation problems using commercial
+              products that ignore, or only slightly notice, that the simulation experiment
+              incorporates uncertainty.  These commercial products often work well, but they
+              can also be dramatically misled, and the user has no indication of, or
+              protection against, the incorrect and costly decisions that may result.  The
+              availability of optimization tools in nearly all commercial simulation modeling
+              packages implies that optimization-via-simulation problems will be "solved."
+              The question is whether they will be solved efficiently with theoretically
+              sound algorithms that provide specific guarantees of, and inference on, their
+              performance.  The goal of our research is to develop such
+              optimization-via-simulation algorithms, representing a substantial advance over
+              the state of the art in both theory and practice.

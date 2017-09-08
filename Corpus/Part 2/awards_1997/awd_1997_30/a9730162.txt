@@ -1,0 +1,66 @@
+Title       : Learning and the Design of the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 11,  2000    
+File        : a9730162
+
+Award Number: 9730162
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1998       
+Expires     : October 31,  2001    (Estimated)
+Expected
+Total Amt.  : $357644             (Estimated)
+Investigator: Eric J. Friedman   (Principal Investigator current)
+              Scott Shenker  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1338,9218,HPCC,
+Abstract    :
+              ABSTRACT    NCR-9730162  Eric Friedman   Rutgers University with a subcontract
+              to  Scott Shenker  Xerox PARC  Learning and the Design of the Internet    This
+              project will study some foundational issues in the application of game
+              theoretic ideas to the design of the Internet and other decentralized networks.
+              Many researchers apply game theoretic ideas to the analysis of the modern
+              Internet and in particular assume that Nash equilibria will arise in this
+              setting.  Based on recent theoretical analyses and simulations, the PIs on this
+              project have found that convergence to Nash equilibrium is not guaranteed in
+              Internet-like environments, due to limited information, noise, and asynchrony. 
+              This calls into question the application of the Nash Implementation" on the
+              Internet and makes the design of  mechanisms, which are robust to learning by
+              adaptive agents, much more problematic.    The goal of this project is to
+              understand precisely what kinds of mechanisms are learnable on the Internet and
+              use this to design protocols and price mechanisms that implement socially
+              desirable outcomes under this constraint.  For example, preliminary results
+              show that the FIFO queuing protocol is not learnable while fair queuing can be
+              learned quite easily by adaptive agents.    In particular, the PIs previous
+              work has begun to identify the set of outcomes that are attained by adaptive
+              learners.  This set contains the Stackelberg undominated actions and is
+              contained within the serially unoverwhelmed set. Several important mechanisms
+              work in these settings, e.g. fair queuing, the uniform mechanism, fixed path
+              methods, and also many problems with enough players and capacity, in addition
+              the PIs have just begun to analyze the general implications of these results
+              for general design problems.  For example only strictly coallitionally
+              strategy-proof social choice functions are implementable on the Internet.
+              However, there still remain many open questions, which this project will
+              attempt to resolve.    This project also has i mplications for Economics and
+              Game Theory.  Besides the Internet, there are many decentralized systems in
+              Economics for which we believe these results are applicable.  In particular,
+              oligopolists, joint producers, and polluters operate asynchronously with
+              limited observability and often with little knowledge of the underlying payoff
+              matrix.  This project should increase our understanding in these settings.   
+              This project will utilize three complementary methodologies: i) A continuing
+              theoretical and analytical study of these issues ii) this  will be complemented
+              with computer simulations, and  iiii) experiments with human subjects who will
+              be studied under settings designed to mimic the scenarios faced by actual users
+              on the Internet.  The interplay of these three approaches should help create a
+              robust and realistic theory for designing learnable mechanisms for the
+              Internet.

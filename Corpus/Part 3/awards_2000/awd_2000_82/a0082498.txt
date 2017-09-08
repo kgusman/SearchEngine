@@ -1,0 +1,80 @@
+Title       : Dynamic Adaptive Wireless Networks with Autonomous Robot Nodes
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0082498
+
+Award Number: 0082498
+Award Instr.: Continuing grant                             
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $900000             (Estimated)
+Investigator: Gaurav Sukhatme gaurav@cs.usc.edu  (Principal Investigator current)
+              Deborah L. Estrin  (Principal Investigator former)
+              Maja J. Mataric  (Co-Principal Investigator current)
+              John S. Heidemann  (Co-Principal Investigator current)
+              Ramesh Govindan  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Multihop wireless capabilities are enabling communication and coordination
+              among autonomous nodes in unplanned environments and configurations.  At the
+              same time wireless channels present challenges of dynamic operating conditions,
+              power constraints for autonomously-powered nodes, and complicated interactions
+              between high level behavior and lower level channel characteristics (e.g.
+              increased synchronized communication significantly degrades channel
+              characteristics).
+     The major goal of the research proposed here is the
+              development, testing, and characterization of algorithms for scalable,
+              application-driven, wireless network services using a heterogeneous collection
+              of communicating mobile nodes.  Some of these nodes will be autonomous (robots)
+              in that their movements will not be human-controlled.  The others will be
+              portable, thus making them dependent on humans for transportation.  While the
+              focus of the work is on the mobile nodes, the project includs immobile
+              computers on the network as well.  The project emphasizes that most (though not
+              all) of the mobile nodes will have modest sensing, computational, and
+              communication resources.
+     The chief scientific motivation behind the work
+              is the design of robust, efficient, and scalable algorithms.  The project
+              hypothesizes that distributed algorithms that rely on local interactions have
+              many compelling characteristics, resulting in these properties.  There is
+              significant overlap between the problems of coordinating the autonomous mobile
+              nodes that carry some of the sensors and the algorithms that direct the flow of
+              information from sources(s)to sink(s) in the network.  Both sets of algorithms
+              need to be carefully designed to improve robustness, efficiency, and
+              scalability.
+     As motivation the project proposes that the experimental
+              part of the research be conducted on a testbed which simulates some
+              characteristics of an urban post-earthquake scenario in a building.  The
+              sensors in the experiments will be distributed geographically (within the
+              building) and linked by a wireless network.  Many of the mobile nodes will be
+              largely autonomous, serving as easily-accessible knowledge collectors and
+              repositories, and exercising a wide range of independent options in the
+              dispatch and control of information flow and resources.  Other mobile nodes
+              will be carried about the environment by people.  The project will study issues
+              of scale (how many sensor nodes does the application software accommodate),
+              fault tolerance (how robust is the system to loss of sensors and/or
+              communication) and efficiency (e.g. time vs. quality of service).
+     As part
+              of a one-year pilot study funded by NSF, the project has been conducting
+              initial research in the issues underlying a system such as the one above.  The
+              project also recently received a substantial equipment grant from the Office of
+              Naval Research to support the experimental portion of this work.  The project
+              has identified two key unsolved sub-problems that are relevant to the overall
+              goals:  localization and communication coverage.  In this proposal the project
+              discusses the broad research challenges in the area of communication and
+              coordination of autonomous mobile nodes.  The project then focuses on the two
+              key problems as concrete questions that will be addressed in the research and
+              describes a method involving simulation and experimentation to study them
+              systematically.     

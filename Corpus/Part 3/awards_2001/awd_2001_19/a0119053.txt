@@ -1,0 +1,57 @@
+Title       : SGER: Real-time Depth-Image Meshing and Warping
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2001    
+File        : a0119053
+
+Award Number: 0119053
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $68123              (Estimated)
+Investigator: Renato B. Pajarola pajarola@ics.uci.edu  (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              0119053
+Pajarola, Renato
+U of Cal Irvine
+
+In recent years a new rendering
+              paradigm based on the reuse of two-dimensional imagery to generate 3D
+              renderings has evolved, called Image Based Rendering (IBR). Based on a set of
+              input images, so called reference views, IBR methods can generate new images
+              from arbitrary view points. One of the main advantages of IBR techniques is
+              that the rendering cost is independent of the scene complexity and bound by the
+              image resolution. The use of IBR techniques thus allows in certain situations
+              to achieve real-time display performance for other-wise non-interactive
+              rendering of complex geometric scenes. The main target applications are
+              interactive rendering of highly complex scenes (virtual reality systems), and
+              rendering on time-budgets (simulations and computer-game like
+              environments).
+
+This grant will improve and explore new techniques for
+              interactive rendering applications on the basis of the depth-image warping
+              approach. Our goal is not to restrict computation of reference views to a
+              preprocessing step, but to explore and develop algorithms and data structures
+              that allow the generation and reuse of depth-image reference views dynamically
+              in an interactive visualization environment. Depth-image warping is a powerful
+              approach, and using multiple reference views to limit visibility artifacts it
+              is possible to create new renderings for a wide range of views. However, the
+              user's movements in a virtual environment are unpredictable, and thus reference
+              views have to be generated dynamically to optimize their use. Therefore, from
+              acquiring image based representations for the reference views to rendering from
+              image data everything has to be done dynamically in an interactive
+              visualization framework.
+

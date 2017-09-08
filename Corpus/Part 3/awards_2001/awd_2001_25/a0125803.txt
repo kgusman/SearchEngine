@@ -1,0 +1,86 @@
+Title       : Exploiting Spatial and Channel Diversity in Ad Hoc Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0125803
+
+Award Number: 0125803
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $229991             (Estimated)
+Investigator: Samir R. Das   (Principal Investigator current)
+Sponsor     : U of Cincinnati
+	      Mail Location 627
+	      Cincinnati, OH  45221    513/556-6000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Mobile ad hoc networks are multi-hop wireless networks, with dynamically
+              changing network
+topology. Evaluating network capacity is a hard problem in
+              such networks because of the shared
+nature of the radio medium and possibility
+              of spatial reuse. The latter is again influenced by routes
+used and node
+              mobility. On the other hand, understanding the network capacity in terms of
+              available bandwidth is crucial to design effective routing protocols. The
+              resarchers propose empirical techniques to evaluate the network capacity. The
+              techniques work in conjunction with a simulator and use mobility and
+              session-level traces to compute capacity that can be compared against the
+              network utilization reported by the simulator. Preliminary experiments indicate
+              interesting results that more capacity is available with higher mobility;
+              however common routing protocols fail to utilize the additional capacity for
+              better routing performance. Preliminary analysis indicates that spatial
+              diversity is not exploited enough by conventional protocols, indicating that
+              multipath routing protocols and distributing traffic over multiple paths would
+              be quite effective.
+     While investigating better techniques to evaluate
+              capacity will be one component of the researchers work, they will also expend
+              substantial effort in developing multipath protocols and techniques to achieve
+              better load balance. For efficiency they will focus on protocols with an
+              on-demand nature. The researchers indicate in this proposal how multiple, link-
+              or node-disjoint, loop-free routes can be computed on demand without the use of
+              source routing, with minimal additional overhead. The researchers  will further
+              development and analysis of such protocols. The emphasis will be on obtaining
+              as many multipath
+routes as possible. Our preliminary results already indicate
+              that such routing mechanisms
+reduce route discovery attempts, thus improving
+              both delay and throughput. We will also focus on
+evaluating techniques to
+              distribute load on multiple routes effectively for a fuller utilization of
+              the
+available capacity.
+     However, we point out that the dense nature of
+              most ad hoc networks will form multiple routes
+in radio vicinity. In that
+              case, topologically disjoint routes may still share radio medium. To
+achieve
+              diversity further, we propose using multiple channels in the underlying medium
+              access
+control (MAC) layer so that independent channels can be assigned to
+              neighboring routes. While
+individual channels may now have less capacity, some
+              preliminary results indicate that significant
+performance gains are possible
+              if the transmitter is capable of transmitting on multiple
+              channels
+concurrently. The researchers  wish to explore, among other things,
+              channel selection issues for individual links and paths when multipath routes
+              are available.
+     To summarize, the overall goal in this project is to
+              better our understanding of the capacity of
+a mobile ad hoc network operating
+              with real network protocols; and to exploit spatial and channel
+diversity
+              significantly with a synergistic use of multipath routing and multichannelMAC
+              protocols.

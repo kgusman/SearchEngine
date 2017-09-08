@@ -1,0 +1,52 @@
+Title       : ITR: An Adaptive Wavefront Construction Algorithm for Optimal Seismic Ray
+               Tracing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0081510
+
+Award Number: 0081510
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $437927             (Estimated)
+Investigator: Richard L. Gibson gibson@geo.tamu.edu  (Principal Investigator current)
+              Nancy M. Amato  (Co-Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              Ray tracing methods are an important tool in computational geophysics, and are
+              used regularly both for simulating seismic wave propagation and for generating
+              images of subsurface geologic structures in inversion and imaging methods. For
+              example, these are some of the basic tools in oil exploration. However, even
+              recent high-efficiency ray tracing implementations have some potentially
+              important limitations. On the other hand, wavefront construction algorithms are
+              another class of solutions that do compute all of the relevant physical
+              information. This project will develop these methods. They will find use in a
+              wide range of activities ranging from fundamental studies of the nature of the
+              Earth's deep interior to analysis and characterization of oil reservoirs in the
+              petroleum industry.
+
+Technically, this project will develop new wavefront
+              construction methods for seismic ray tracing in 3-D, anisotropic models of the
+              Earth. This allows more general and realistic Earth models than are currently
+              possible. At the same time, this is an important problem in advanced
+              computational science, because the 3-D mesh constructed in the course of the
+              simulation will have geometries and features not usually considered in other
+              common mesh construction algorithms. Another important aspect of the research
+              will be the development of self-tuning components in the software to allow the
+              algorithm to automatically adapt itself for maximum computational speed on
+              hardware configurations ranging from small desktop workstations to massively
+              parallel supercomputers.
+

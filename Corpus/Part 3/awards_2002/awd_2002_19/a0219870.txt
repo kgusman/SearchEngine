@@ -1,0 +1,48 @@
+Title       : A Low-power High-efficient Garbage Collector for Embedded Java Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0219870
+
+Award Number: 0219870
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $250993             (Estimated)
+Investigator: Morris J. Chang morris@iastate.edu  (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1658,9216,HPCC,
+Abstract    :
+              Abstract:
+0219870
+PI: Morris Chang
+Iowa State
+
+The thesis of this project
+              is very simple: the performance of garbage collection is critical to the
+              successful deployment of distributed Java embedded systems. Applications for
+              such systems have different operating requirements than applications written
+              for desktop or server environments. They include frequent software update, low
+              power consumption, low resource availability, distributed computing capability,
+              and real-time operating constraints. Therefore, garbage collectors for such
+              devices must be designed to support those requirements. 
+
+Garbage Collection
+              (GC), or automatic dynamic memory management, is one of the many attractive
+              features available in Java. It allows programmer to be more productive and
+              software to be more robust. On the other hand, it is also notorious for being
+              intrusive and consuming large amount of power due to frequent memory accesses.
+              As a result, the garbage collection can severely degrade the performance and
+              affect the viability of Java embedded devices. 
+

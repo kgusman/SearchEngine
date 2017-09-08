@@ -1,0 +1,66 @@
+Title       : ALGORITHMS: Parallel Algorithms and Software for EST Clustering
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 17,  2003   
+File        : a0203782
+
+Award Number: 0203782
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : December 31,  2004   (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Srinivas Aluru aluru@iastate.edu  (Principal Investigator current)
+              Suraj C. Kothari  (Co-Principal Investigator current)
+              Volker Brendel  (Co-Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+The goal of this project is to develop parallel algorithms and a parallel
+              software system for clustering Expressed Sequence Tags (ESTs). ESTs are derived
+              from fragments of reverse transcribed mRNA isolated experimentally and thus
+              directly correspond to protein coding genes. The proposed project is aimed at
+              overcoming the computational limitations of current software  systems such as
+              inability to handle large data sets within  reasonable time and memory
+              resources. This project will provide a strong context for fundamental research
+              in practical parallel  string algorithms, including the development of parallel
+              algorithms for constructing suffix trees and suffix arrays, applications 
+              involving suffix trees and arrays such as containment and  overlap detection.
+              Particular emphasis will be placed on the design of space-efficient algorithms
+              because space-complexity  often determines whether the use of an algorithm is
+              feasible for large data sets. The software will be validated using large EST 
+              data sets from organisms with small and known genomes, which  will be exploited
+              to derive correct clustering though alternate  methods. The algorithms
+              developed will provide the basis for other similar projects including protein
+              repertoire comparisons and testing of biological hypotheses such as exon
+              shuffling and gene duplication. The human EST collection at the National
+              Institute of Health currently has over 3.8 million ESTs and parallel processing
+              is essential for discovering biologically useful information from such large
+              EST collections.
+
+Throughout the project, emphasis will be placed on design
+              of parallel algorithms using realistic models of parallel computation, rigorous
+              proofs of optimality with respect to best known sequential algorithms, careful
+              evaluation of the communication complexity and the constants involved in
+              asymptotic run-time estimates, and development of user-friendly software.
+              Experimental evaluation of the algorithms will be carried out both on
+              conventional tightly-coupled parallel computers and clusters. The project will
+              be carried out by an interdisciplinary team of researchers having the required
+              expertise in parallel algorithm design, building large parallel software
+              systems, bioinformatics and life sciences. To further ensure the success of
+              this project, collaborations have been established with researchers from the
+              University of Bielefeld and the National Institute of Health. 
+
+
+

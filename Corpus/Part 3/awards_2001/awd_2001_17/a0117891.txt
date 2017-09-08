@@ -1,0 +1,100 @@
+Title       : Algebraic and Geometric Constructions of Shannon Limit Approaching Codes and
+               Turbo Decoding of Reed-Solomon Codes
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 2,  2002        
+File        : a0117891
+
+Award Number: 0117891
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $510000             (Estimated)
+Investigator: Shu Lin shulin@ece.ucdavis.edu  (Principal Investigator current)
+              Khaled A. S. Abdel-Ghaffar  (Co-Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              As the demand for error-free data transmission and data storage increases,
+              
+error control becomes increasingly important in data communication and
+              data
+storage systems.  It has become an integral part in almost every data
+              
+communication or storage system design.  Today very sophisticated error
+              
+control schemes are being used in a broad range of communication and
+              data
+storage systems to achieve reliable data transmission and storage, such
+              as
+wireless communication, satellite communication, optical communication,
+              
+hard disc drives, compact disks and many others.  The objective of this
+              
+research is to devise methods for constructing good error control codes and
+              
+to develop efficient error control schemes which have great potential to
+              
+achieve error-free communication and data storage for the future
+              generation
+of data communication and storage systems.
+
+Recently, there have
+              been dramatic developments in error control codes and
+decoding algorithms. 
+              Two families of powerful codes, known as turbo and
+low density parity check
+              (lDPC) codes, have been discovered and rediscovered.
+These two families of
+              codes with iterative decoding have been shown to 
+perform close to Shannon's
+              theoretical limits with reasonable implementation
+complexity.  As a result of
+              their amazing error performance and practical
+implementation, it is
+              anticipated that these two classes of codes will have
+an enormous impact on
+              virtually all applications of error control coding over
+the next 10 years or
+              so.  This research involves in two important aspects
+of these two classes of
+              Shannon limit approaching codes: construction of LDPC 
+codes and turbo
+              decoding of Reed-Solomon (RS) codes.  The construction of 
+LDPC codes is based
+              on combinatoric appraches, such as finite geometries over
+finite fields,
+              statistical experimental designs, permutation groups and
+graphs.  In these
+              approaches, points, lines, hyperplanes in finite geometries, 
+balanced
+              incomplete block designs, affine permutation groups, and paths
+and independent
+              sets of graphs are used for constructing LDPC codes whose
+Tanner graphs do not
+              contain short cycles.  All the construction methods
+are systematic and codes
+              constructed have good structural properties which
+simplify encoding and
+              decoding implementations.  Turbo decoding of a RS code 
+is based on binary
+              decomposition of the code into a set of simple binary 
+component codes and
+              formulating the code as a self concatenated code with the 
+RS code itself as
+              the outer code and the component codes as inner codes in a 
+turbo coding
+              arrangement.  The decoding is carried out in two stages, turbo 
+inner decoding
+              and outer algebraic soft-decision decoding.

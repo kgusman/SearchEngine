@@ -1,0 +1,80 @@
+Title       : ITR: Energy and Quality of Service Aware Ad-Hoc Networking
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 18,  2002      
+File        : a0082998
+
+Award Number: 0082998
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $499997             (Estimated)
+Investigator: Dirk C. Grunwald dirk.grunwald@colorado.edu  (Principal Investigator current)
+              Timothy X. Brown  (Co-Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9218,HPCC,
+Abstract    :
+                    The researchers propose an integrated approach to energy efficient
+              collaborative communication in ad-hoc wireless networks. The interdisciplinary
+              approach will address simultaneously all key levels of system design: data link
+              layer power management, network layer energy, location, and quality of
+              service-based routing, and application layer interfaces.
+     The objective is
+              to reduce communication power consumption while simultaneously increasing the
+              communication quality between the collaborators. The model problem assumes that
+              people are interacting via ad-hoc networking integrated into pocket computers
+              for some common task. For the communication to be successfull, all participants
+              must be reachable via the network and have sufficient energy to perform any
+              necessary computation. At the heart of the problem is the distributed
+              scheduling of communication between entities to reduce communication and
+              computation energy. Participants must have an estimate of the remaining energy
+              available by other participants as well as models of the communication
+              topology. Decisions must be made whether to route traffic through adjacent
+              nodes (reducing direct power expenditure while possibly increasing latency or
+              global energy consumption) or increasing transmitter power (potentially
+              reaching a broader set of participants). This objective will be reached by
+              developing design methodologies in the following research areas:
+    
+              Link-layer controllers that adaptively learn low-power strategies for error
+              correction 
+codes, transmission power levels, and radio activity times for
+              reduced overall power consumption, within the constraints of delay and error
+              bounds.
+     Network-layer controllers that use inter-node attenuation,
+              available node energy, and current traffic flows to optimize routing so as to
+              maximize the availability of all nodes.
+     Network interfaces that allow the
+              programmer to describe delivery constraints on messages such that communication
+              schedules can reduce energy in a changing routing topology.
+     System level
+              power modeling that allows the application layer to trade additional processor
+              power to reduce networking power.
+     The project is targeted to the emerging
+              spectrum of highly capable pocket or wearable computers and the ad-hoc networks
+              formed by those computers. The researchers will both deploy an experimental
+              infrastructure and use in-depth simulation models to evaluate our system. The
+              prototype system will use a combination of laptop computers using 802.11
+              wireless networking and the advanced "Itsy" palm-top computer with lower
+              bandwidth (and significantly lower power) interfaces. The simulation models
+              will use realistic whole-system power models for advanced pocket computers
+              coupled with a standard network simulator that we have enhanced with more
+              realistic RF propagation models.
+     This project is significant because it
+              address a communication model that will be common with future generation
+              computation and communication devices. It is realistic because it will use an
+              experimental network. It is general because we will be able to use the
+              simulation framework to model future compute and communication networks.
+              Finally, it is achievable because it leverages the on-going work in optimizing
+              channel assignment in wireless networks and energy efficient computing.
+

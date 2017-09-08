@@ -1,0 +1,94 @@
+Title       : ITR: Collaborative Research: Accurate Representations of Signals in a
+               Coarse-Grained Environment
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 9,  2002     
+File        : a0219053
+
+Award Number: 0219053
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas W. Fogwell                       
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2002     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $192489             (Estimated)
+Investigator: Truong-Thao Nguyen thao@ee.ccny.cuny.edu  (Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/650-5418
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              The aim is to provide a better mathematical framework and
+alternative design
+              methodologies for coarse quantization of signals in
+a highly oversampled
+              setting.  The central themes is "sigma-delta
+quantization" in
+              analog-to-digital conversion of audio signals and its
+counterpart
+              "error-diffusion" in digital halftoning of images.  In both
+cases, a given
+              target analog signal is represented by a judiciously
+chosen one-bit (or
+              few-bit) sequence which approximates the signal in a
+suitable low-pass
+              subspace.  A wide range of different schemes exist for
+this purpose, each
+              corresponding to a different implementation and
+approximation order.  As our
+              primary mathematical objective, we expect
+to better understand the law of
+              error decay of the existing schemes as
+well as to improve on these by new
+              designs.  On the algorithmic side, we
+aim to extend this analysis to settings
+              with computational and other
+implementational constraints.
+
+The fact that
+              digital signals and data sets can be processed, stored
+and retrieved with
+              great precision and speed places high demands of
+accuracy on the conversion
+              process from and to the analog world.
+However, the devices used in the
+              translation process (such as in the
+case of analog-to-digital and
+              digital-to-analog conversion circuits in
+audio applications, and printers in
+              image reproduction) are of
+necessity analog devices, which have physical
+              limitations that, at
+first sight, conflict with those accuracy demands.  To
+              cope with this
+problem, engineers have empirically developed special signal
+              processing
+techniques leading to alternative signal and number
+              representations
+that are quite different from standard decimal or
+              binary
+representations.  Typical techniques take advantage of the
+              highly
+accurate performance of the analog devices in sampling very densely
+              in
+time or space to compensate for the lack of amplitude precision of
+those
+              devices.  Interestingly, while these empirical schemes have proved
+efficient
+              and have been used in consumer products for a long time, the
+corresponding
+              framework of signal processing has little mathematical
+support.  We aim to
+              study these schemes in more detail, with the
+goals of improving the
+              mathematical theory as well as proposing
+variants that outperform those used
+              presently, and to identify a wider
+range of applications.

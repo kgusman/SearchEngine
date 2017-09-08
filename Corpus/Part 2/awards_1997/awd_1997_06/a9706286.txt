@@ -1,0 +1,46 @@
+Title       : Memory Prefetching
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 1,  1997       
+File        : a9706286
+
+Award Number: 9706286
+Award Instr.: Standard Grant                               
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Dirk C. Grunwald dirk.grunwald@colorado.edu  (Principal Investigator current)
+              Andrew R. Pleszkun  (Co-Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              Early computers fetched data from memory only after it had been requested by the
+               processor.  When memory latency is high, this demand fetch policy also has
+              high  latency.  Many modern computers prefetch data from the memory before it
+              is  requested, which can reduce the latency of memory as long as the
+              prefetching is  accurate, and timely.    This project is a preliminary
+              investigation of a Markov prefetcher, which uses  a Markov model to predict
+              subsequent memory references from earlier references.   The prefetcher acts as
+              an interface between on-chip and   off-chip caches that predicts multiple
+              references to the memory system and  prioritizes their delivery to the
+              processor.  Cycle-level simulations show that  use of a Markov prefetcher
+              reduces the overall execution stalls due to memory  operations by about 54%
+              while also reducing memory usage.    This project is extending the initial
+              investigation to provide more realistic  analysis of the effectiveness of
+              Markov prefetching, reduce implementation costs,  and apply the technique to
+              multiprocessor systems. In addition, new aspects of  prefetching are being
+              examined, including prediction of access methods (read or  write), prefetching
+              between processors, and prefetching between different levels  of the memory
+              hierarchy.  The primary research method is cycle-level simulation.

@@ -1,0 +1,84 @@
+Title       : Integrative Freight Market Simulation
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : August 13,  2001    
+File        : a0085705
+
+Award Number: 0085705
+Award Instr.: Standard Grant                               
+Prgm Manager: John Scalzi                             
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2000    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $84500              (Estimated)
+Investigator: Jose Holguin-Veras   (Principal Investigator current)
+              Kaan M. Ozbay  (Co-Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/650-5418
+
+NSF Program : 1638      INFRASTRUC SYS MGMT & HAZ RESP
+Fld Applictn: 
+Program Ref : 1039,1607,1638,CVIS,
+Abstract    :
+              The Integrative Freight Market Simulation (IFMS) attempts to depict a
+              comprehensive picture of freight movements, in which both the user side, i.e.,
+              commodity flows, and the logistic side, i.e., vehicle-trips, are considered.
+              This framework has the potential to overcome the limitations of both commodity
+              based models and vehicle-trip models. Commodity based models have great
+              limitations in considering the flow of empty vehicles (which are the result of
+              logistic decisions), while vehicle trip models are unable to take into account
+              the economic characteristics of the cargoes.
+
+The IFMS is based on a market
+              equilibrium formulation that depict the competition among freight
+              transportation providers, and a subset of routing problems to represent the
+              actions of these companies when picking up and delivering the goods. The IFMS
+              entails a bi-level approach in which the top level corresponds to the
+              estimation of the provision of service consistent with Cournot-Nash
+              equilibrium, while the bottom level focuses on the construction of tours that
+              satisfy the Cournot-Nash solution and the remaining system constraints, in a
+              context of a large scale simulation-optimization problem. The system
+              constraints have been classified in: a) Primary; and b) Secondary. The primary
+              constraints are: I) freight transportation companies maximize profits in a
+              context of market equilibrium; and II) the user requirements are met, i.e., the
+              commodities produced by and attracted to each zone are transported. Secondary
+              constraints are: III) the resulting trip chains are consistent with known trip
+              chain data; and IV) the resulting commercial vehicle traffic is consistent with
+              secondary data sources, e.g., ITS traffic data. 
+This project will focus on
+              solving the most basic case of IFMS, taking into account the primary
+              constraints (I and II), referred to as the Primary IFMS. This would entail
+              developing solution algorithms that obtain the routing patterns that are
+              consistent with both the Cournot-Nash solution for the provision of service
+              (based on assumed economic parameters) and the user requirements. This will
+              entail the definition of a set of synthetic, though meaningful, test cases that
+              are meant to represent urban areas of different sizes and levels of complexity.
+              These cases will be comprised of a number of data sets: 
+1. zoning system;
+              
+2. set of relevant economic parameters;
+3. a set of commercial vehicle
+              operators;
+4. a set of user requirements; and,
+5. a set of commercial vehicle
+              trips.
+In other words, a set of synthetic cases for which all relevant
+              information is known will be created. The collaboration of freight industry
+              representatives will be requested to ensure a meaningful and realistic
+              definition of the test cases. Their input is particularly important for the
+              creation of data sets 3, 4, and 5. Algorithms will be developed to solve the
+              Primary IFMS and applied to these test cases. The input data will be comprised
+              of the data sets 1, 2, 3, and 4. The reasonableness and efficiency of the
+              algorithms will be assessed by determining how well they are able to estimate
+              the commercial vehicle trips (data set 5).
+
+This award is made under the
+              Exploratory Research on Engineering the Transport Industries (ETI) program
+              solicitation.
+
+

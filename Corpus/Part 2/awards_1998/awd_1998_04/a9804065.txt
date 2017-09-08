@@ -1,0 +1,44 @@
+Title       : Module-Level Compile-Time Analysis for Industrial-Sized Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 5,  1998     
+File        : a9804065
+
+Award Number: 9804065
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Barbara G. Ryder ryder@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804065  Software tools should have the choice of tunable, scalable, 
+              compile-time analyses, which provide adjustable levels of  precision for
+              predictable cost.  New analysis techniques are  needed to scale up to {\it
+              industrial-sized} systems (i.e., >  100,000 lines of code). Previous work seems
+              conclusive: whole-  program analysis does not scale suitably with a reasonable
+              degree  of precision for program transformation, data-flow-based testing 
+              applications, or program-understanding uses in certain  circumstances.  Thus,
+              new techniques are needed. Program  decomposition, uses a coarse-grained alias
+              analysis of a C  program to subdivide it into independently analyzable
+              segments.  Specific analyses, that vary in cost and precision, can be  applied
+              to different parts of a program. Initial experiments with  this technique have
+              enabled considerable gains in precision with  modest increased cost for
+              side-effect analysis of C programs.  Research will focus on (i) development of
+              techniques for  selection of a specific analysis to apply to each program unit 
+              and (ii) empirical experimentation with these techniques using  the PROLANGS
+              Analysis Framework (PAF), a software platform for  program analysis which
+              currently includes flow- and context-  sensitive side-effect and alias analysis
+              for C programs.***

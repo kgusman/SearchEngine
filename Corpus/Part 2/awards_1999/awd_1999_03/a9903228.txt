@@ -1,0 +1,77 @@
+Title       : Efficient and Scalable Streaming Techniques for Large-Scale Delivery of Stored
+               VBR Video
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 27,  1999 
+File        : a9903228
+
+Award Number: 9903228
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2000  (Estimated)
+Expected
+Total Amt.  : $104154             (Estimated)
+Investigator: Zhi-Li Zhang zhzhang@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Many networked applications such as electronic commerce, distance learning,
+              digital libraries, multimedia teleconferencing and on-line entertainment
+              involve real-time delivery of  stored video  to a large number of clients
+              across a heterogeneous internetwork.  For continuous playback at the client,
+              quality-of-service (QoS) must be provided in an end-to-end manner.  The design
+              of efficient large-scale video delivery systems is complicated by such
+              challenging issues as the highly bursty variable-bit-rate (VBR) compressed
+              video, the underlying heterogeneous networking environments, disparate client
+              capabilities, and diverse client QoS requirements.  Solutions addressing these
+              issues must be both efficient and scalable.
+
+The main objective of the
+              proposed research is to design and develop efficient and scalable streaming
+              techniques for large-scale delivery of stored VBR video.  The project  relies
+              on a novel distribution-tree based video delivery system architecture which
+              employs a group of proxy servers strategically placed inside an internetwork to
+              perform network-wide video streaming and distributed media control. Based on
+              this system architecture, the researchers plan to develop and investigate
+              efficient and scalable real-time video streaming mechanisms that can
+              effectively accommodate the heterogeneity in both the underlying network
+              environments as well as the client end systems, while providing flexible QoS
+              supports to a large client population. In particular,                          
+                                                                                             
+                                             o The researchers will develop  network-wide
+              video smoothing techniques which make use of the in-memory      buffers  at
+              proxy servers and clients to reduce rate variability in video transmission and
+              accommodate           network bandwidth constraints.
+
+  o The researchers
+              will develop  proxy video staging techniques which exploit the disk storage
+              space of proxy      servers at network edges to achieve significant bandwidth
+              reduction in the backbone wide-area network      (WAN).
+
+  o The researchers
+              will develop adaptive rate and error control mechanisms such as selective frame
+              discard       and selective retransmission which leverage application-specific
+              information to  meet diverse client QoS        requirements.
+
+  o The
+              researchers will also develop video stream synchronization and merging schemes
+              which integrate          network-wide video streaming  with proxy-assisted
+              video delivery in a synergistic manner.
+
+The methodology the researcherse
+              plan to use in the proposed research will be a combination of theoretical
+              analysis, simulation study and experimental investigation. The end results
+              produced from the proposed research will include new concepts, efficient and
+              scalable mechanisms and algorithms for real-time video streaming, reports of
+              simulation and experimental studies, and a prototyping video proxy server
+              system.

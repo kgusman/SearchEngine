@@ -1,0 +1,58 @@
+Title       : CAREER: Compiler and Run-time System Support for Modern Hardware
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 27,  2001  
+File        : a0133457
+
+Award Number: 0133457
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2002       
+Expires     : May 31,  2007        (Estimated)
+Expected
+Total Amt.  : $375000             (Estimated)
+Investigator: Amer S. Diwan diwan@colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              To achieve the best performance on modern computers, one must
+understand and
+              exploit the interactions between program behavior,
+run-time systems, and
+              hardware.  This research explores compiler and
+run-time system support for
+              improving load-value prediction and for
+reducing the energy consumption of
+              programs. Load-value prediction
+exposes instruction-level parallelism in
+              programs by allowing loads to
+execute in parallel with the instructions that
+              depend on it.  Energy
+reduction techniques reduce the energy requirements of
+              programs
+without significantly degrading performance.
+
+Broadly speaking this
+              research considers two kinds of techniques: (i)
+Compiler techniques that use
+              easily-available information in programs
+(such as type information) to
+              transform or annotate code to make
+better use of hardware; (ii) Run-time
+              system techniques that
+reorganize and annotate data to make better use of
+              hardware.  This
+research will also consider new hardware mechanisms for
+              load-value
+prediction and energy consumption that can be exploited in
+              software.
+

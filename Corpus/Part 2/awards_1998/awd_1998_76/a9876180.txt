@@ -1,0 +1,45 @@
+Title       : CAREER: Soft Architectures: A Billion Transistors and a High Clock Rate
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 9,  1999      
+File        : a9876180
+
+Award Number: 9876180
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1999     
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $200038             (Estimated)
+Investigator: Kenneth M. Mackenzie kenmac@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              Future billion-transistor processor chips will require innovations in
+              architecture to overcome the fact that although gate delays scale with
+              transistor sizes, wire delays do not.  A SOFT ARCHITECTURE is a
+              high-performance computer built by integrating dynamic compiler software with
+              simple, fast processing hardware.  The dynamic compiler replaces the large,
+              complex, instruction-scheduling logic that is used successfully to extract
+              instruction-level parallelism in contemporary superscalar processors but that
+              is likely to limit the clock rates of future designs due to long wires.  The
+              research objective is to determine whether and how a soft architecture can
+              exceed the performance of an architecture using dynamic instruction scheduling
+              in hardware.  While the dynamic compiler must make decisions less frequently
+              than hardware, it can make potentially better decisions than hardware by
+              exploiting additional information and by employing adaptivity.  The research
+              method is to construct a sequence of soft processor prototypes, dynamic
+              compilers atop both conventional and custom (simulated) hardware, and to
+              evaluate the performance of those prototypes by comparing to equivalent
+              all-hardware solutions using standard benchmarks.  The project provides a set
+              of workbench tools for simulation and analysis that will also be used in
+              architecture classes at the graduate and undergraduate level.

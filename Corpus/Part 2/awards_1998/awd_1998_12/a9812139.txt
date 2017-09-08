@@ -1,0 +1,55 @@
+Title       : BCU Classifiers for On-line Dynamic Contingency of Electric Power Systems:
+               Design, Developments and Applications
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 9,  2000     
+File        : a9812139
+
+Award Number: 9812139
+Award Instr.: Continuing grant                             
+Prgm Manager: Gwendolyn C. Owens                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $192515             (Estimated)
+Investigator: Hsiao-Dong Chiang chiang@ece.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9812139  Chiang  This proposal presents an architecture for on-line DSA and
+              seeks to develop a dynamic contingency screening scheme based on the direct
+              method to make on-line DSA feasible for current or near future power system
+              operating environments.  In particular, this proposal will develop BCU
+              classifiers to satisfy the following essential requirements for on-line DSA:   
+              (1) (reliability measure) absolute capture of unstable contingencies; i.e. no
+              unstable (single-swing or multi-swing) contingencies are missed.  In other
+              words, the ratio of the captured unstable contingencies to the actual critical
+              contingencies is 1.    (2) (efficiency measure) high yield of screening out
+              stable contingencies, i.e. the ratio of the stable contingencies detected to
+              the actual stable contingency cases is as close to 1 as possible.    (3)
+              (on-line computation) little need of off-line computations and/or adjustments
+              in order to meet with the constantly changing and uncertain operating
+              conditions.    (4) (speed measure) high speed, i.e. fast classification for
+              each contingency case.    (5) (performance measure) robust performance with
+              respect to changes in power system operating conditions.    To meet the five
+              essential requirements, we propose to first perform the following tasks: (1) to
+              conduct some theoretical study for development of numerical indices, (2) to
+              construct improved numerical energy functions, (3) to develop a more reliable
+              numerical implementation of the BCU method, (4) to develop numerical indices
+              for detecting the occasional, invalid numerical energy functions, and (5) to
+              develop numerical indices to detect the occasional controlling u.e.p.
+              convergence problem.  Then, the results of these tasks will be integrated into
+              the preliminary version of BCU classifiers to form an improved version of BCU
+              classifiers which will satisfy the five requirements for performing on-line
+              dynamic contingency screening.  The success of this proposed project has a
+              direct impact on making the task of performing  on-line DSA feasible for
+              current or near-future power system operating environments.

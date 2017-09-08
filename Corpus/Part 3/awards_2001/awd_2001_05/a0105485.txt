@@ -1,0 +1,44 @@
+Title       : Performance Evaluation of Disk Arrays
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  2001    
+File        : a0105485
+
+Award Number: 0105485
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $199987             (Estimated)
+Investigator: Alexander Thomasian thomasian@adm.njit.edu  (Principal Investigator current)
+Sponsor     : Foundation @ NJIT
+	      323 Martin Luther King Blvd.
+	      Newark, NJ  071021824    973/596-3430
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The proposed research has as final objective advancing knowledge on disk arrays
+              performance, as well as developing new disk array organizations and algorithms
+              for improved performance and reliability.  The following specific areas will be
+              investigated.   Mirored disks (RAID1) double the disk access bandwidth for
+              reads, but even higher performance is possible through scheduling.  A
+              combination of single disk scheduling methods adapted to mirrored disks and
+              methods utilizing non-volatile storage to defer writes will be investigated. 
+              RAID6 disk arrays tolerating two disk failures utilize two parity disks or one
+              parity disk and one utilizing the Reed-Solomon code.  Two data layouts for the
+              former case have been proposed.  The performance of these configurations will
+              be compared with each other, as well as RAID5, while the system is operating in
+              normal, degraded, and rebuild modes.   Active disks process data locally to
+              disk, responding with final or filtrated data rather than raw data.  Techniques
+              to process more sophisticated queries than those considered so far will be
+              investigated.  Prioritized processing of disk requests allows background
+              applications to make progress without significant impact on the performance  of
+              higher priority applications.   We plan to investigate nonpreemptive as well as
+              preemptive priorities in processing disk requests.

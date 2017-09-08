@@ -1,0 +1,81 @@
+Title       : ITR: Development of a Novel Short-Data-Record Adaptive Filtering Framework for
+               Rapidly Changing Communications Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 9,  2002     
+File        : a0219903
+
+Award Number: 0219903
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $375000             (Estimated)
+Investigator: Stella N. Batalama batalama@eng.buffalo.edu  (Principal Investigator current)
+              Dimitris A. Pados  (Co-Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1686,9216,HPCC,
+Abstract    :
+              PIs: S. N. Batalama and D. A. Pados
+
+PROJECT ABSTRACT
+
+The effectiveness of
+              a receiver designed for a rapidly changing multiple access communications
+              environment depends on the following design attributes: (i) low computational
+              complexity, (ii) multiple-access-interference resistance, and (iii) system
+              adaptivity with superior performance under limited (short) data support.
+              Adaptive short-data-record designs appear as the natural next step 
+for a
+              matured discipline that has extensively addressed  the first two, (i) and (ii),
+              design objectives in ideal setups (perfectly known or asymptotically estimated 
+              statistical properties). System adaptivity based on short data records is
+              necessary for the development of practical adaptive receivers that exhibit
+              superior signal-to-interference-plus-noise ratio (SINR) or  bit-error-rate
+              (BER) performance when they operate in rapidly changing communications
+              environments that limit substantially 
+the input data support that is
+              available for adaptation and redesign.
+
+A novel line of research is
+              identified and pursued in this project that lies in a multidisciplinary
+              intersection of Estimation Theory, Communications Theory, and Mean-Square
+              optimum linear filtering. Consider an arbitrary input signal vector space and a
+              given information bearing signal vector to be recovered in the presence of
+              multiuser or other forms of heavy interference. A key for the successful
+              solution to the problem of adaptive receiver design under short data records is
+              to employ receiver estimators with  varying bias/variance characteristics and
+              to control effectively 
+these characteristics in a data-centric manner. In
+              this project, the investigators develop a short-data-record adaptive filtering
+              framework that involves (i) the tools for the generation
+of a sequence of
+              filter estimators with varying bias/variance tradeoff, as well as (ii) the
+              tools for selecting the most appropriate estimator in the sequence for a given
+              input data
+record. The Auxiliary-Vector (AV) filtering means developed by the
+              investigators during the past few years as a state-of-the-art practical
+              engineering solution to the problem of short-data-record 
+adaptive filtering
+              is used as a benchmark case-study.   The theoretical and practical implications
+              of such a research  framework are far reaching. Biased estimators and
+              algorithms that
+offer full control over the bias/variance balance are rarely
+              reported in the literature, if any in a communications applicable context.
+              While the target applications of this work are all critical
+communications
+              problems, the pertinent theoretical developments may  touch many aspects of
+              multidisciplinary engineering that are hampered by the ``curse of
+              dimensionality'' and could benefit from adaptive filtering and/or adaptive
+              system optimization through limited input data.
+

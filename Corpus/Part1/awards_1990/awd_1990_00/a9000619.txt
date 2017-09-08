@@ -1,0 +1,50 @@
+Title       : Query Optimization in Temporal Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 2,  1991     
+File        : a9000619
+
+Award Number: 9000619
+Award Instr.: Continuing grant                             
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1990    
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $125945             (Estimated)
+Investigator: Arie Segev segev@haas.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 
+Abstract    :
+              While implementing temporal data models can dramatically increase              
+              the expressive power of a database management system (DBMS),                   
+              processing efficiency is critical to its success. The potentially              
+              enormous sizes of historical data, coupled with the complexity of              
+              many temporal operators, pose challenges to the practical                      
+              implementation of a temporal DBMS. In this project, key issues                 
+              related to the optimization of temporal database processing are                
+              investigated. The focus of the work is on joins which are found                
+              in the most common and costly queries. Optimization algorithms                 
+              for the various join operators, data organizations, and data                   
+              structures are be developed. An essential component of the                     
+              optimization process is estimating the size of intermediate                    
+              results. Temporal relations are distinct from snapshot ones, and               
+              conventional estimation techniques are inadequate. Consequently,               
+              a new mathematical approach to estimating selectivities for                    
+              temporal data need be developed. As part of this project the                   
+              alternative algorithms are first be simulated and analyzed. Then               
+              two prototypes (one on top of an existing relational DBMS, while               
+              the other is a direct implementation of important temporal                     
+              operators) are built to further evaluate the optimization                      
+              concepts. The results of this research will have an impact on                  
+              database technology by providing a methodology for development of              
+              efficient temporal database systems.

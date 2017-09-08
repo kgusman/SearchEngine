@@ -1,0 +1,65 @@
+Title       : Scalable Routing and Multicast in Mobile Ad Hoc Wireless Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 12,  1999       
+File        : a9814675
+
+Award Number: 9814675
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1999      
+Expires     : March 31,  2002      (Estimated)
+Expected
+Total Amt.  : $358338             (Estimated)
+Investigator: Mario Gerla gerla@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              In this study the researchers consider a large population of mobile stations
+              which are interconnected by a multihop wireless net. The applications of this
+              wireless infrastructure range from ad hoc networking (eg, collaborative,
+              distributed computing) to disaster recovery (fire, flood, earthquake), law
+              enforcement (eg, crowd control), search and rescue and battlefield.  Key
+              characteristics of this system are the large number of users, their mobility
+              and the ability to operate without the support of a fixed (wired or wireless)
+              infrastructure.  The last feature sets this system apart from existing cellular
+              systems and in fact makes its design much more challenging.
+
+In this
+              environment, the researchers propose to develop routing and multicast
+              strategies which scale well to a large number of nodes and which can handle
+              mobility.  The combination of large number and mobility makes the problem very
+              hard.  In fact, large networks can be effectively handled with hierarchical
+              routing, if nodes are stationary.  When nodes move, the hierarchical
+              partitioning must be dynamically changed - a significant challenge.  Mobile IP
+              solutions work well when there is a fixed infrastructure supporting the concept
+              of fixed "Home Agent".  When all nodes move, the Home Agent strategy is less
+              obvious. In addition to large number and mobility, we address also the need to
+              support multimedia communications, with low latency requirements
+              for
+interactive traffic and QoS support for real time streams
+              (voice/video).
+
+In the wireless routing area, several schemes have already
+              been proposed and implemented (eg, hierarchical routing, on-demand routing
+              etc). The researchers will discuss the pro's and con's of the existing schemes,
+              and will introduce two new schemes - hierarchical, mobile routing and Fisheye
+              routing - which overcome some of the limitations of the existing schemes.  In
+              the wireless multicast area, we review the traditional schemes used in wireline
+              networks (eg, Source Trees, Core Based Tree, etc) and show how they perform
+              poorly in highly mobile networks. We then introduce a new concept, Forwarding
+              Group Multicast, in which the Tree is replaced by a mesh of Forwarding Nodes -
+              the latter being much easier to maintain than the tree in the face of mobility.
+              The researchers propose to extend the on-demand routing strategy to such
+              structure to handle large scale.
+
+

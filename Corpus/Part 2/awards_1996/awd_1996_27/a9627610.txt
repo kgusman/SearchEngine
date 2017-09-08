@@ -1,0 +1,58 @@
+Title       : Reduced Complexity Tree Coding of Speech in the Presence of Background
+               Impairments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  1996    
+File        : a9627610
+
+Award Number: 9627610
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas E. Fuja                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $245735             (Estimated)
+Investigator: Jerry D. Gibson   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,HPCC,
+Abstract    :
+                Extraordinary advances in speech coding have been achieved in the past few 
+              years, with the ITU and digital cellular industries producing voice coding 
+              standards for telephony and videoconferencing with performance perhaps 
+              unimaginable even ten years ago.  At rates below 12 kbits/s, however, these 
+              coders are sometimes criticized for their implementation complexity and for 
+              their difficulty in coding speech in the presence of extraneous background 
+              impairments.  The complexity issue is omnipresent, but becomes increasingly 
+              important in the mobile communications environment, both in digital  cellular
+              and emerging personal communications systems, where battery power  is a
+              dominating issue. Furthermore, there are many applications being  developed and
+              proposed for packet-switched videoconferencing at various  rates, where it is
+              desirable to have voice coders implemented either wholly  in software on
+              standard platforms (Macs, PCs, Sparcs) or whose  implementations do not usurp
+              large portions of the capabilities of a DSP  chip.  Being able to code speech
+              in the presence of background impairments  has always been of interest, but has
+              recently moved to the fore because of  the mobile environments encountered in
+              digital cellular mobile radio and  evolving personal communications systems. 
+              Desktop applications also  present a challenge for coding with background
+              impairments, since  hands-free interaction is critical and thus even some
+              relatively quiet  office environments do not have the handset to aid in
+              rejecting the  background noise.  The challenge is therefore to achieve
+              communications  quality speech at 8 kbits/s with medium-to-low complexity for a
+              variety of  implementation approaches without changing background impairments
+              into  annoying artifacts. This research approaches this problem by starting
+              with  a low delay waveform following coder, called a tree coder, removing the
+              low  delay requirement and employing frequency domain based variable rate 
+              techniques, forward adaptation ideas, code tr ee adaptivity innovations, and 
+              improved perceptual weighting to reduce implementation complexity while 
+              retaining reconstructed speech quality.

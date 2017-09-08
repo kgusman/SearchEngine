@@ -1,0 +1,57 @@
+Title       : A Novel Power System Transient Stability Prediction Method
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 1,  2002        
+File        : a0095179
+
+Award Number: 0095179
+Award Instr.: Standard Grant                               
+Prgm Manager: James Momoh                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 15,  2001      
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: George G. Karady karady@asu.edu  (Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,9237,OTHR,
+Abstract    :
+              This proposal suggests a new fast learning, on line method for the prediction of
+              power
+system transient instability and an example of its application to a
+              single machine and
+infinite bus. The proposed algorithm is adapted from a
+              proven robotic ball-catching
+algorithm, which includes fast learning. For
+              instability prediction, the ball location is
+replaced by the measured relative
+              generator rotor angle. Using the measured relative rotor
+angle, the control
+              algorithm predicts the rotor angle at a future time. The relative rotor
+angle
+              is sampled at a rate of 600 times per second. This new fast learning algorithm
+              will
+predict the rotor angle 500-1000 milliseconds into the future. The
+              increase of the
+predicted generator relative rotor angle beyond a
+              predetermined threshold is a prediction
+that loss of synchronism will occur.
+              When loss of synchronism is predicted a protection
+scheme can initiate a
+              stability aid such as generator tripping, braking resistor and/or
+              fast
+valving.
+
+Preliminary investigation shows that the ball-catching
+              algorithm may be applied for
+transient stability prediction. This proposal
+              requests funding to prove the feasibility of
+this method.

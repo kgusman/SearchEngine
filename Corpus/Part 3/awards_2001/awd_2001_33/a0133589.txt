@@ -1,0 +1,56 @@
+Title       : CAREER: An In-Kernel Runtime Execution Environment for User-Level Programs
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 20,  2002    
+File        : a0133589
+
+Award Number: 0133589
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : July 31,  2007       (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Erez Zadok ezk@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              EIA-0133589
+Erez Zadok 
+SUNY -Stony Brook
+
+CAREER:  An In-Kernel Runtime
+              Execution Environment for User-Level Programs
+
+We propose to develop a system
+              that will simplify operating system code development while improving
+              performance.  Developing operating system kernel code is difficult for three
+              reasons.  First, the kernel is an unforgiving environment to work in, where any
+              small bug can result in large-scale data corruption; debugging tools for
+              kernels are not as flexible as their user-level counterparts and are not used
+              often.  Second, kernel developers must write codes that takes into account many
+              unusual conditions such as resource contention, locks, reference counts, being
+              interrupted or re-entrant, and more.  Third, before programmers can become
+              proficient kernel developers, they must read and understand large amounts of
+              complex kernel code. However, one major advantage to developing kernel code is
+              that it runs very fast; the kernel has direct access to all the system
+              resources.
+
+The benefits of this research will include the creation of a
+              novel system that allows anyone who can write user-level code to develop and
+              test their code in the user level where it is easier to do so, and then to
+              execute that code inside the kernel to gain significant performance benefits. 
+              This research will enable us to learn about the security and scalability of
+              running many kernel applications and develop methods to optimize the
+              performance of in-kernel applications further.
+
+

@@ -1,0 +1,84 @@
+Title       : ITR: Collaborative Research in Internet Topology Models - A Foundation for
+               Large-Scale Simulations
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 23,  2002      
+File        : a0082318
+
+Award Number: 0082318
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $112382             (Estimated)
+Investigator: Kenneth Calvert   (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      109 Kinkead Hall
+	      Lexington, KY  405060057    859/257-8311
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9150,9218,HPCC,
+Abstract    :
+                   Network simulation is an indispensable tool for researchers seeking to
+              understand the principles of network architecture and protocol design. A key
+              parameter in any moderate to large-scale simulation is the topology, i.e., the
+              way the nodes of the network are organized and connected to each other. "Good"
+              models for topology are essential for good simulations.
+     The PIs have
+              developed graph modeling software that currently is widely used as a tool for
+              generating topologies, particularly models of large internetworks. The Georgia
+              Tech Internet Topology Models (GT-ITM) package allows researchers to construct
+              model topologies whose structure arguably resembles the node-level structure of
+              the Internet: routers or switches, connected by (bidirectional) links, and
+              grouped into domains. The GT-ITM software is included with "ns2" [2], the
+              defacto open-source standard for network simulation.
+     Despite the
+              wide-spread use of GT-ITM, in general, and its transit-stub model, in
+              particular, a number of critical and fundamental questions remain unanswered
+              about network topology modeling. For example,
+     1)Topology models. Recent
+              data indicates that the current Internet topology has some properties that are
+              not well reflected in the transit-stub model of GT-ITM [17]. For example,
+              features such as the exchanges where many transit domains come together are
+              lacking. Are there "better" techniques to generate topologies intended to model
+              the Internet? More fundamentally, how should a topology generation technique be
+              evaluated (i.e., how is "better" measured)?
+     2)Topology scaling. Although
+              strides are being made in supporting large-scale simulations [33], most
+              researchers will continue to simulate their protocols on topologies that are
+              smaller than the target operational large-scale networks. How should smaller
+              topologies be configured so that they reasonable reflect their larger
+              counterparts? Is there a theory of topology scaling that can provide the
+              fundamental grounding for configuring topologies of various sizes?
+    
+              3)Topology use. The PIs primary interest in topology modeling is to provide a
+              foundation for large-scale simulations. Facilitating the use of topologies in
+              simulations must go beyond providing theoretically sound models, however, and
+              include a set of complementary tools for graph visualization, routing table
+              construction, etc. What visualization tools are useful to researchers and
+              assist in accurate intuitive understanding of underlying topology? How can
+              different routing policies be effectively reflected in routing table
+              construction?
+     The researchers propose (1) to address these and other
+              fundamental questions in the area of topology modeling and (2) to reflect their
+               understanding in a set of topology tools and benchmarks made available to the
+              research community at large. This work will build on the PIs prior experience
+              in modeling internetworks.  The proposed work will contribute to fundamental
+              understanding in the area of topology modeling. The work will include a set of
+              evaluation criteria to assess the quality of a topology generation method and
+              improvements in topology models. The work will also produce an evolutionary
+              theory of topology scaling, with implications for efficient simulation using
+              topologies that are smaller than the target. In addition to contributions to
+              fundamental understanding, a central component of the proposed work is a set of
+              tools and benchmarks to be made available to the research community at large,
+              following in the tradition of the GT-ITM suite. These tools will allow other
+              researchers to generate topologies, assess the quality of candidate topology
+              modeling methods, utilize benchmarks based on current and future technologies,
+              and interact with a visualization of topology.
+

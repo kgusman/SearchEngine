@@ -1,0 +1,85 @@
+Title       : Collaborative Research: DOT -- Distributed Optical Testbed to Facilitate the
+               Development of Techniques for Efficient Execution of Distributed Applications
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a0224187
+
+Award Number: 0224187
+Award Instr.: Standard Grant                               
+Prgm Manager: Rita V. Rodriguez                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $81940              (Estimated)
+Investigator: Ian Foster   (Principal Investigator current)
+Sponsor     : University of Chicago
+	      5801 South Ellis Avenue
+	      Chicago, IL  606371404    773/702-8602
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              EIA 02-24187
+Foster, Ian
+University of Chicago 
+
+Title:  CISE RR:
+              (Collaborative) DOT--Distributed Optical Testbed to Facilitate the Development
+              of Techniques for Efficient Execution of Distributed Applications 
+
+This
+              collaborative proposal with Illinois Institute of Technology (Sun, 02-24377)
+              and Northwestern University (Taylor, 02-24427), acquiring data nodes and
+              compute nodes at five sites, contributes to build a Distributed Optical Testbed
+              (DOT). The DOT system, a product of the paradigm shift from large-scale
+              applications running on large parallel systems at single sites to those running
+              on distributed systems, has come about by the availability of high-speed
+              optical networks (E.g., Starlight, TeraGrid 40 Gb/s network, the PacificRail 10
+              Gb/s network). This shift necessitates techniques that allow applications to
+              efficiently utilize distributed systems. In contrast to parallel systems, these
+              systems must exploit two characteristics:
+Heterogeneity of resources
+              (processors and networks) and 
+Dynamic changes in performance of shared
+              resources, especially wide area networks. 
+The system, consisting of Linux
+              clusters at six geographically different sites interconnected via two existing
+              research DWDM networks, I-WIRE and OMNInet, involves the following sites:
+              Argonne National Laboratory (ANL), Illinois Institute of Technology (IIT),
+              National Center for Supercomputer Applications (NCSA), Northwester University
+              Chicago Campus (NU-C), Northwestern University Evanston Campus (NU-E), and the
+              University of Chicago (UC). DOT will facilitate the following research
+              activities in the area of distributed applications:
+Dynamic Load Balancing
+              (Taylor)
+Performance Monitoring and Prediction (Dinda, Sun, Taylor)
+Data
+              Management (Choudhary, Foster)
+The first activity develops techniques
+              utilizing network performance predictions that take into consideration the
+              heterogeneity of the processors and networks of distributed systems to
+              dynamically balance the load during execution. The second extends performance
+              monitoring, modeling and prediction techniques that have been focused on
+              parallel systems and broadband network to distributed systems with optical
+              networks and different topologies. The last develops techniques that manage the
+              distributed data such that the actual data location is transparent and the data
+              is accessed efficiently. These research activities are driven by three
+              applications that have been parallelized using MPI, such that the applications
+              can be easily ported to DOT:
+ENZO, an adaptive cosmological
+              application,
+Cactus, an open framework used to solve Einstein's equations,
+              and
+AudioVoice, a virtualized distributed audio application with physical
+              simulations that have real-time deadlines and varying computational
+              demands.
+Each application presents challenges, which include adaptivity,
+              flexible framework, and simulations with real-time deadlines.
+ 
+

@@ -1,0 +1,55 @@
+Title       : Recovery, Representation, and Recognition of Two and Three-Dimensional Shape
+               from Real Images
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 7,  1999       
+File        : a9700497
+
+Award Number: 9700497
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1997      
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $312883             (Estimated)
+Investigator: Benjamin B. Kimia kimia@lems.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              This   research  is  concerned  with  the  problem  of  recovery, 
+              representation,  and  recognition of  two  and  three-dimensional  shape from
+              real images. Building on the results of previous  NSF-  funded research on
+              deriving a representation for segmented  shape  that  is  robust to variations
+              in the visual scene,  the  current  effort  focuses on deriving such
+              representations   directly  from  real   images   of  appreciable  complexity, 
+              involving   partial  occlusion, gaps, spurious edges, and noise. Two key
+              complementary  approaches  are proposed. The first relies on a local
+              formulation  of  deformation and shock formation by propagating local, labeled 
+              waves  directly  from  edge elements and detecting,  classifying,  grouping, 
+              and  labeling  the formed  singularities  (shocks)  to  recover  partial  shock
+              segments from partial  contour  segments,  shock-based partitioning of shapes
+              in grey-scale images prior  to  segmentation,  and  completion  of  missing 
+              contours.  Secondary  (interpenetrating)  waves and a set of shock
+              transformations  are  proposed to deal with alterations due to partial
+              occlusion, gaps,  and  spurious edge elements. The second approach is
+              complementary  to  the  first  and  captures  regional  continuity  by 
+              randomly  initializing  object  hypotheses as fourth-order shocks  (seeds), 
+              which  then grow based on the output of low-level processes.  The  research  is
+              motivated by segmentation and registration  problems  in 3D and will focus on
+              two key areas: 1) the formalization of  a  classification of 3D shocks, the
+              development of a shock  grammar,  and  the  implementation of robust numerical 
+              schemes  for  their  detection; and 2) the development of a geometric notion of
+               scale  in  3D by devising a surface evolution scheme of diffusion,  thus 
+              generalizing  the  reaction-diffusion space to  3D.  The  overall  approach 
+              reflects visual modeling by sets of coupled systems  of  PDEs,  a  paradigm
+              which allows for simultaneous  interaction  of  boundary  and  regio n 
+              processes as  well  as  bottom-up/top-down  communication.

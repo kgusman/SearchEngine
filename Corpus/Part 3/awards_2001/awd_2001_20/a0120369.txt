@@ -1,0 +1,78 @@
+Title       : Research for Mixed Signal Electronic Technologies: A Joint Initiative Between
+               NSF and SRC: Inter-Pulse-Interval Based Mixed Signal Representations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0120369
+
+Award Number: 0120369
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Daniel W. Hammerstrom   (Principal Investigator current)
+              Marwan A. Jabri  (Co-Principal Investigator current)
+              Ralph Etienne-Cummings  (Co-Principal Investigator current)
+Sponsor     : Oregon Hlth and Science U
+	      3181 S W Sam Jackson Rd
+	      Portland, OR  972013011    503/748-1031
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 1752,9215,HPCC,
+Abstract    :
+              ABSTRACT
+
+Although digital signal representation has become almost universal,
+              there are still many areas where an analog representation is required to
+              interface with an analog world or to meet various other objectives such as
+              power dissipation, frequency, or cost. In these domains analog signal
+              representation is essential for many input modalities such as instrumentation,
+              sensor interfaces, and communications. Likewise, there are related output
+              applications, such as biomedical actuation and industrial control. In addition,
+              the needs of wireless and fiber-optical communication have reinvigorated analog
+              design. However, there are serious problems concerning how to keep these analog
+              components on a reasonable scaling curve as Moore's law continues unabated in
+              the digital domain, and in integrating analog representations into large,
+              complex digital systems ("system on a chip").
+ 
+The purpose of this proposal
+              is to study a new approach to representing analog signals that we believe will
+              integrate more cleanly into these deep submicron, single-chip systems. Today
+              analog signals are almost exclusively represented by current or voltage
+              quantities. Our proposal is to borrow a page from neuroscience and to use the
+              Inter-Pulse-Interval (IPI) between single-bit, asynchronous pulses to represent
+              analog quantities. We are proposing to develop a mixed-mode analog/digital cell
+              library and design methodology based on IPI representation and the associated
+              computation elements, and to engineer a case study to illustrate the outcomes. 
+              
+
+As we move to deep submicron and then on to the nanometer/molecular
+              devices, the problems that digital encounters with scaling, such as threshold
+              inconsistency, subthreshold currents, hot-electron effects, doping variability,
+              substrate coupling, and transmission line and complex cross-talk effects, are
+              even more serious for analog circuitry. IPI representations will provide
+              significantly better immunity to these effects, as well as to the more
+              traditional process, temperature, and reference voltage variations. For most
+              applications, pulse based analog systems will require less power. There are
+              numerous advantages to using pulses or pulses to communicate. They are
+              significantly more immune to noise. An approximate analogy would be that of AM
+              versus FM radio signal representation.  The outcomes of the proposed research
+              are
+
+ Create a library of basic communication, computation (arithmetic and
+              logic) and conversion building blocks;
+Design, implementation and testing of a
+              case study using the derived building blocks and methodology;
+
+Document an
+              IPI-based design methodology
+
+
+

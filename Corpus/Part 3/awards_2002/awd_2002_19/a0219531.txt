@@ -1,0 +1,108 @@
+Title       : ITR: Design of Novel Receiver Algorithms for OFDM Incorporating Realistic Indoor
+               Channel Modeling
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 23,  2002    
+File        : a0219531
+
+Award Number: 0219531
+Award Instr.: Standard Grant                               
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Achilleas Anastasopoulos anastas@umich.edu  (Principal Investigator current)
+              John L. Volakis  (Co-Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,9215,HPCC,
+Abstract    :
+              The explosive demand for communication services, fueled by the
+rapid growth in
+              the areas of mobile communications and the
+Internet, has generated and will
+              continue to generate immense
+research efforts in the area of wideband
+              wired/wireless
+communications. To accommodate the demanding future
+              applications,
+systems must be designed to perform joint equalization,
+              detection,
+decoding and estimation of the unknown and possibly time
+              varying
+channel parameters, while maintaining reasonable complexity (and
+low
+              cost). Motivated by these requirements, and using an OFDM
+indoor wireless
+              system as a design example, two main directions
+are investigated in this
+              project.
+
+In the first direction, receiver algorithms are designed
+              for
+iterative, joint equalization, detection and decoding, that
+address the
+              critical issues mentioned above. The investigation
+starts by identifying a
+              powerful model that encompasses all the
+salient features of the OFDM
+              transmission system. Data detection
+in OFDM is then stated as a problem of
+              two-dimensional (2D) data
+detection in the presence of localized, 2D
+              intersymbol
+interference, non-linear distortion, and unknown and time
+              varying
+parameters. We then identify fast, joint data detection and
+channel
+              estimation schemes which are utilized as building blocks
+for powerful adaptive
+              iterative detection receivers. Unlike the
+entire iterative receiver, these
+              sub-blocks are optimal in a
+precisely defined sense, and can be implemented
+              with
+less-than-exponential complexity with respect to the data
+              sequence
+length.
+
+The second direction is the development of a unified
+              framework for
+the analysis of the transient and steady-state behavior
+              of
+adaptive iterative algorithms. In the proposed study, the receiver
+is
+              assumed to have no explicit knowledge about the channel
+parameters, other than
+              their statistical description. The minimum
+signal-to-noise ratio required for
+              convergence to error-free
+transmission, and the optimal allocation of power in
+              pilot and
+coded symbols, are some of the issues that are investigated for
+              a
+wide variety of adaptive iterative receiver architectures.
+Regarding
+              propagation modeling for the indoor environment, the
+approach followed herein
+              is a direct divergence from the classical
+approaches that include either
+              measurements, or the
+well-established ray-tracing techniques. In particular,
+              ultra-fast
+algorithms for the numerical solution of the
+              electromagnetic
+problem are developed. These algorithms result in almost
+              exact
+solutions that can be evaluated with complexity comparable to the
+less
+              accurate ray-tracing techniques.

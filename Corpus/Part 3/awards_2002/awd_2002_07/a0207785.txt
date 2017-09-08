@@ -1,0 +1,56 @@
+Title       : Dynamic Superpipelining: Shaping Microarchitecture for Variable Frequency
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 1,  2002       
+File        : a0207785
+
+Award Number: 0207785
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $229241             (Estimated)
+Investigator: Eric Rotenberg ericro@ece.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+                   Microprocessor performance enhancements tend to be inefficient in terms of
+              power, especially as new sources of performance become scarce.  Yet,
+              performance remains a key competitive factor in the microprocessor market and
+              inefficiency is somewhat inevitable.
+
+     Microprocessors that support
+              multiple frequencies are strategic because they can manage inefficiency. 
+              Performance requirements of systems change over time.  Microprocessors with
+              variable frequency can be used to balance performance, power, and energy by
+              adapting frequency to changing performance requirements.
+
+     This project
+              predicts that the need for variable frequency will have a profound impact on
+              the way microprocessors are designed in the future.  Current hardware support
+              for variable frequency is predominantly circuit and technology oriented:
+              dynamic voltage scaling accommodates higher or lower frequency by raising or
+              lowering supply voltage, respectively.  In the future, support for variable
+              frequency should also be an integral part of microarchitecture design.
+
+    
+              To demonstrate this overall vision, this project puts forth a novel
+              microarchitecture called dynamic superpipelining (DSP).  DSP switches from low
+              to high frequencies by dynamically doubling the number of pipeline stages.  DSP
+              combines the advantages of two very different pipeline design styles (shallow
+              and deep pipelines) that are optimized for different frequency targets.  A
+              flexible pipeline delivers better performance across a wider range of
+              frequencies, ultimately improving the energy efficiency of the microprocessor. 
+              To evaluate DSP, it will be used as a variable-frequency substrate for a
+              speculative frequency reduction technique recently proposed by the PI.
+

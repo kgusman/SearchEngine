@@ -1,0 +1,58 @@
+Title       : Long-Term File System Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 3,  2001     
+File        : a9972244
+
+Award Number: 9972244
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : October 31,  2003    (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Thomas E. Anderson tom@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              NSF Proposal # 9972244
+Long-Term File System Performance
+Thomas Anderson
+              
+
+In recent years, the disk I/O bottleneck has become widely
+recognized --
+              as CPU performance improves much faster than
+disk latency, an increasing
+              fraction of overall system
+performance is spent in the file system.  Worse,
+              file system
+performance often degrades over time; as files are
+              created,
+deleted, and modified, the disk can become fragmented,
+              limiting
+system performance.  Unfortunately, existing file system
+benchmarks
+              are too short to be of practical use in studying
+this effect.  This research
+              focuses on understanding the long
+term behavior of file systems by collecting
+              and analyzing detailed
+year-long traces of file system use.  The work will use
+              these
+traces to evaluate several proposed strategies for
+              dynamically
+reorganizing the disk with the goal of improving the
+              equilibrium
+performance of file systems.
+
+

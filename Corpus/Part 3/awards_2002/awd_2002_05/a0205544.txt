@@ -1,0 +1,78 @@
+Title       : ITR: Cache-Resident Databases
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 1,  2002       
+File        : a0205544
+
+Award Number: 0205544
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2006     (Estimated)
+Expected
+Total Amt.  : $1100000            (Estimated)
+Investigator: Anastassia Ailamaki natassa@cmu.edu  (Principal Investigator current)
+              Todd Mowry  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 1658,9215,HPCC,
+Abstract    :
+              Abstract
+
+Databases are at the very heart of the information economy.
+              Database
+performance is a driving factor that dictates what is possible
+              through  the
+use of information technology. While database management systems 
+              have
+evolved since they were invented several decades ago, their  current
+              design
+is unfortunately antiquated given the state-of-the-art  computer
+              memory
+hierarchies of today (and even more so tomorrow). This  project seeks
+              to
+alleviate this problem.
+
+While processor speeds double every year, memory
+              access speeds follow a
+much shallower improvement curve. To bridge this speed
+              gap, small, fast
+memories called caches are used to hold frequently accessed
+              data and
+instructions close to the processor. When executing database
+              workloads,
+accesses often miss in the (fast) cache and access the (slow)
+              memory,
+thereby reducing performance significantly. Hardware approaches
+              are
+typically limited by access time constraints and by applicability to a 
+              wide
+range of workloads. To keep the hardware design feasible, caches 
+              typically
+use simplistic data placement and replacement schemes, and  are
+              oblivious to
+the memory access behavior of the application.
+
+Cache-conscious
+              software methods are, on the contrary, extremely  promising.
+The proposed
+              algorithms collect data statistics in order to  correctly group
+data with
+              similar usage patterns and optimize cache  utilization. By
+carefully observing
+              behavior, data is prefetched into  the cache before it
+is used. Preliminary
+              results demonstrate that these  techniques (i) minimize
+the number of misses
+              in the cache and (ii)  significantly reduce the
+incurred penalties.
+
+

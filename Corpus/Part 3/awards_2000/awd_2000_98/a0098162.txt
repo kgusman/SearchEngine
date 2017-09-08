@@ -1,0 +1,56 @@
+Title       : Reliable Multithread Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 4,  2001  
+File        : a0098162
+
+Award Number: 0098162
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: William Pugh pugh@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-0098162
+Reliable Multithreaded Software
+William Pugh
+
+Multithreading is
+              useful for providing responsive software, particularly in the face of user
+              input and network connections with unpredictable latency.  Multithreading
+              allows transparent use of shared memory multiprocessors (SMPs) and
+              multithreaded uniprocessors (e.g., Sun's MAJC, Alpha-EV8).  Unfortunately,
+              writing reliable multithreaded programs is difficult.
+
+This research defines
+              a formal semantics for multithreaded Java, and works to understand the
+              interaction of that semantics with the compiler and run-time system.  The
+              results of this effort should be transferable to other languages and systems
+              that incorporate threads (e.g., C# and C++ with Pthreads).
+
+The research
+              effort also performs software archaeology on existing multithreaded systems,
+              documenting data races that have already been fixed and using dynamic and
+              static tools to search for other potential data races.  The effort studies both
+              large open source efforts (e.g., Linux kernel, FreeBSD kernel, Apache, Tomcat)
+              and smaller systems.
+
+Education, both at universities and for professionals,
+              will form an important component of this research effort.  This effort will
+              both illuminate which concepts and forms of instruction are most effective, and
+              also generate material that can be widely disseminated and used by others in
+              instruction.
+

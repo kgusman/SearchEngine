@@ -1,0 +1,60 @@
+Title       : Study of Feedback Congestion Control Techniques
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 5,  1996  
+File        : a9628058
+
+Award Number: 9628058
+Award Instr.: Standard Grant                               
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $196521             (Estimated)
+Investigator: Giampiero Pecelli giam@cs.uml.edu  (Principal Investigator current)
+              Byung G. Kim  (Co-Principal Investigator current)
+Sponsor     : Univ of Mass Lowell
+	      600 Suffolk Street
+	      Lowell, MA  018543602    978/934-4705
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9217,9218,HPCC,
+Abstract    :
+                  Feedback-based congestion control schemes become an integral part of the 
+              connectionless ABR (Available Bit Rate) service class in ATM networks. The 
+              major objective of the proposed research is to build a theoretical  foundation
+              to feedback congestion control schemes. The basis of the  foundation is the
+              fixed-point model, which captures the feed-back feature  of ABR congestion
+              control schemes in a system of delay differential  equations and produce
+              fixed-point constant solutions in terms of the source  cell rates and the
+              buffer lengths. lamely, we consider a broad class of  schemes which can produce
+              a stable buffer length even when sources always  try to transmit at their
+              maximum rates.    Analyses of the fixed point model in the context of ABR
+              feedback control  schemes have generated a number of results regarding
+              stabilities of  fixed-point solutions. The proposed research will first compare
+              the  stability region of parameter space derived from the delay differential 
+              equations with that obtained by discrete simulation techniques. We are 
+              interested in effects of incorporating details of control protocols in 
+              simulation on resulting changes in the stability region. Besides, the fixed 
+              point model will be investigated in the environments where ABR bandwidth 
+              changes in time as the number of CBR and VBR connections changes. Since the 
+              fixed-point model is constructed in a general context, application of the 
+              model to several control theoretic strategies (such as a proportional plus 
+              derivative control) will be investigated.    When a congestion develops (either
+              due to a new active ABR source or due to  a reduced ABR bandwidth), buffer
+              lengths increase before they stabilize to  a new steady-state buffer length.
+              Since buffer transients are inevitable,  we will investigate strategies that
+              can control the buffer transients in a  predictable manner. We will first
+              characterize transients in terms of  bounds: the maximum overshoot in buffer
+              lengths, the rise time until the  buffer length reaches its  maximum, and the
+              settling time for the buffer  length to reach its new steady-state value.
+              According to the fixed-point  model, relationships between the set of
+              parameters and the transient bounds  will be investigated. The relationships
+              are to be studied in increasingly  complex network configurations.

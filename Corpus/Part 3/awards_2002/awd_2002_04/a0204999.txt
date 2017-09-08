@@ -1,0 +1,85 @@
+Title       : Stochastic PDEs: Interdependence of Local and Long-term Behaviors, and
+               Representation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 1,  2002     
+File        : a0204999
+
+Award Number: 0204999
+Award Instr.: Standard Grant                               
+Prgm Manager: Keith N. Crank                          
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $122001             (Estimated)
+Investigator: Frederi G. Viens viens@purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 1263      PROBABILITY
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              0204999
+Viens
+	The PI's research program on the behavior of parabolic
+              stochastic partial differential equations (SPDEs) focuses on four topics: local
+              behavior, long-term behavior, particle representation, and fractional Brownian
+              motion (fBm). The goals are to exhibit a strong interdependence between local
+              and long-term phenomena and to develop an implementable particle
+              representation. The PI considers stochastic perturbations of the heat equation,
+              with additive or multiplicative noise that depends on time and space. The
+              dependence in time is of white-noise type, while the dependence in space can
+              span a wide range of behaviors. The differential operator is the standard
+              Laplacian on the real line or on the circle (or sometimes in higher
+              dimensions), with a small diffusion parameter "kappa" included. In the
+              multiplicative noise case, a nonlinearity may be included. The basic point of
+              view is simple: an SPDE with a unique solution is an input-output system, and
+              as such the solution's behavior must be inherited from the equation's
+              coefficients. The local behavior to be considered is the modulus of continuity
+              of the solution in the space variable. The long term behavior of interest,
+              specific to the linear multiplicative case, is the large-time exponential
+              asymptotics of the solution (Lyapunov "exponent" question). The PI
+              characterizes both of these behaviors via the spatial modulus of continuity of
+              the potential itself, extends some of the results to equations driven by fBm,
+              and designs a new numerical method for the solution using a system of
+              interacting particles. It is shown that the solution's Lyapunov exponent is of
+              the order of kappa to the power of alpha/(1+alpha) where alpha is the
+              almost-sure spatial Holder exponent of the solution. It is also shown that the
+              solution has spatial Holder exponent alpha if and only if the same holds for
+              the potential's antiderivative. An investigation of how these results change
+              when one uses fractional noise instead of white noise is also considered. For
+              the nonlinear equation, a branching and interacting particle system is
+              constructed as the basis for a numerical method for simulating the solution. It
+              is proved that the numerical scheme, when properly mollified, converges to the
+              solution in the Skorohod space of continuous-function-valued "cadlag"
+              processes. The particles interact because, as they branch at evenly spaced
+              short intervals, their mean number of offspring is a random variable whose mean
+              is calculated relative to a certain "fitness" of all the other particles, and
+              depends explicitly on the non-linearity of the potential. 
+	The main physical
+              meaning of the research is that a complex space-time-dependent system with
+              significant random perturbations can exhibit an exponentially strong increase
+              of size or energy in the long term, and that the exponential rate of increase
+              can be predicted precisely by looking at the short-range spatial variability of
+              the physical environment. This has potentially important applications in
+              hydrodynamics and turbulence, including a local characterization of the
+              so-called "fast dynamo effect." It would say that a magnetic field in a
+              magnetic fluid can be enhanced precisely by controlling the fluid's mezoscopic
+              level of turbulence. The research has important educational effects. Ph.D.
+              students and, under the PI's supervision, undergraduates and MS students,
+              conduct computer simulations in connection with the particle methods, with an
+              emphasis on designing efficient algorithms. The simulations are being
+              integrated as class projects in a new curriculum emphasis in computational
+              finance and other applications, preparing the students for the
+              technology-dominated job market and workplace. From the purely theoretical
+              point of view, the research brings together several areas of great current
+              interest in probability theory: infinite dimensional stochastic analysis,
+              branching and interacting particle systems and numerical methods, Gaussian
+              regularity theory, Lyapunov exponents. 
+

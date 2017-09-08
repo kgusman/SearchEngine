@@ -1,0 +1,62 @@
+Title       : Shared-memory Metacomputing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 17,  2001       
+File        : a9988129
+
+Award Number: 9988129
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $111988             (Estimated)
+Investigator: Peter J. Keleher keleher@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The focus of this research is on developing techniques and algorithms that
+will
+              allow idle workstations to be opportunistically exploited for parallel
+and
+              distributed shared-memory applications. The target environments range
+from
+              local-area networks (LAN's) to wide-area networks (WAN's). The
+              central
+challenges are competition from other applications for workstation
+              and
+network resources, load imbalance arising from differing system speeds,
+              and
+heterogeneity.
+
+The intent is to design and build as transparent a
+              system as possible. Such
+a system will need new methods of deriving dynamic
+              sharing and processor
+capacity information online, new load-balancing and
+              thread-migration
+heuristics that minimize both communication and load
+              imbalance in dynamic
+environments, and easy-to-use API's that will provide the
+              type information
+needed to address heterogeneity. The end result of this work
+              will be a set
+of techniques, policies, and code that will allow
+              shared-memory
+applications to be transparently migrated across a set of
+              non-dedicated
+workstations. In allowing otherwise-unused resources to be
+              exploited by
+this new application domain, this research will significantly
+              expand the
+value of incrementally-deployed sets of workstations.
+

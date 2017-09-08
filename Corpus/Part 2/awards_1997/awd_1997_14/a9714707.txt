@@ -1,0 +1,85 @@
+Title       : Self-Similar Network Traffic and It's Control
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 17,  2000  
+File        : a9714707
+
+Award Number: 9714707
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1998      
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $215000             (Estimated)
+Investigator: Kihong Park park@cs.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Project Homepage: http://www.cs.purdue.edu/homes/park/nsf-ncr-9714707.html   
+              Abstract:      Recent measurements of local area and wide area traffic have
+              shown that   network traffic is self-similar or fractal, i.e., the measured
+              time series  is bursty across several time scales.  This phenomenon has been
+              shown to  be ubiquitous with potentially dire consequences to network
+              performance due  to the scale-invariant nature of burstiness.  This project
+              investigates   effective traffic control algorithms, architectures, and
+              mechanisms for  facilitating efficient resource utilization while providing
+              quality of  service   to real-time and best-effort traffic streams under
+              self-similar traffic   conditions.      The project builds on recent work which
+              characterizes the causal aspects   of traffic self-similarity and shows that
+              scale-invariant burstiness can be   highly detrimental to network performance. 
+              In a nutshell, it is shown that   self-similarity of traffic flow is an
+              intrinsic property of networked   client/server systems which communicate files
+              or objects of very large size  with nonnegligible frequency.  The latter is
+              known, technically, as the  heavy-tailed property of file or object size
+              distributions which is  evidenced in actual distributed systems including UNIX
+              file systems.  On the   performance side, it is shown that conjoint provision
+              of low delay and high   throughput is adversely affected by self-similarity.   
+                We follow a three-pronged method of attack for managing self-similar  
+              traffic, the first two based on dynamic control of traffic flow, and the  
+              third being of a structural nature where resources are architected and 
+              apportioned under direct control.      The first method, predictive feedback
+              control, is geared toward exploiting   the long-range correlation structure
+              present in self-similar traffic for   congestion control purposes.  We identify
+              the on-set of concentrated periods   of either high or low traffic activity - a
+              distinguishing characteristic of   scale-invaria nt burstiness - and adjust the
+              mode of congestion control   appropriately from conservative to aggressive. 
+              Being able to predict the  onset of persistent congestion or idleness from fine
+              time scale observations   and utilizing this information effectively are two
+              key issues.      The second method, adaptive forward error correction, is
+              directed at   supporting multimedia traffic with real-time constraints without
+              engaging  in expensive resource reservations.  Retransmission of lost
+              information is   not a viable strategy for such traffic classes since lengthy
+              round-trip   latencies encountered in wide area network environments render
+              retransmitted  information useless to time-constrained applications.  We
+              formulate and   analyze an adaptive packet-level forward error correction
+              mechanism called   AFEC where the degree of redundancy is controlled as a
+              function of network   state, increasing the level of redundancy when the
+              network is bad and  decreasing it when the network is well-behaved.  The
+              control problem is   nontrivial due to the fact that increasing the level of
+              redundancy too much   can backfire, further aggrevating congestion and causing
+              the probability of   timely information recovery at the receiver to decrease.  
+                 We investigate the conditions under which adaptive forward error correction 
+              is effective when traffic is self-similar.  We identify two regimes - packet 
+              loss dominated connections and delay-dominated connections - the former being 
+              most conducive to AFEC-based traffic control whereas the latter is more 
+              subtle, admitting only a limited range of useful redundancy.      The third
+              method, structural resource allocation, seeks to identify the   relative
+              utility of the two principal network resource types - bandwidth and   buffer
+              capacity - with respect to their curtailing effects on self-similarity.  We
+              conjecture a highly skewed trade-off relationship between bandwidth and  buffer
+              capacity in favor of bandwidth whose quantitative form becomes   important when
+              computing res ource reservations for traffic streams with   stringent quality
+              of service requirements.  A bandwidth-over-buffer capacity  policy also impacts
+              the first two methods in terms of predictability and  packet loss
+              dominatedness/delay dominatedness.      The three methods are expected to
+              complement each other, each focusing on   a different mode for quality of
+              service provision under self-similar   traffic conditions.

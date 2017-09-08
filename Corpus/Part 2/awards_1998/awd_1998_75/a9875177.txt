@@ -1,0 +1,105 @@
+Title       : CAREER: Performance Evaluation of Gigabit Ethernet Networks, A Systems and
+               Experimental Approach
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 22,  2002    
+File        : a9875177
+
+Award Number: 9875177
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $276964             (Estimated)
+Investigator: Kenneth J. Christensen christen@csee.usf.edu  (Principal Investigator current)
+Sponsor     : U of South Florida
+	      4202 Fowler Avenue
+	      Tampa, FL  336209951    813/974-5465
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+                   It is evident that both ATM and Ethernet networks will comprise the
+              "network of the future". Ethernet
+networks are rapidly transitioning from
+              half-duplex CSMA/CD to full-duplex switched operation. While much of the
+              current research in ATM networks is relevant to both types of networks, there
+              are significant remaining problems in the area of Ethernet networks that
+              urgently need to be addressed.  These problems include:
+     1. The traffic
+              characteristics of future gigabit applications have not yet been predicted. 
+              Current traffic
+models may not be applicable for gigabit applications. 
+              Therefore, better knowledge of traffic from
+expected gigabit applications is
+              needed to be able to predict network performance.
+     2. For high-speed
+              networks, memory speed limits output buffered and shared memory switch
+              architectures to low port densities.  For this reason, scheduling algorithms
+              which achieve high throughputs for input buffered only ATM switches have been
+              the subject of recent research.  Yet, there do not exist scheduling algorithms
+              or switch architectures which accommodate variable length packets and Quality
+              of Service (QoS) in input buffered only switches and full-duplex repeaters.
+  
+                3. While switched operation will likely be predominant in future networks,
+              inefficiencies in gigabit half-duplex CSMA/CD Ethernet still remain and need to
+              be addressed.
+     The objective of this four year CAREER program is to
+              address these problems. Existing traffic models are
+largely based on time
+              series analysis of traffic traces resulting in a limited understanding of the
+              causes of observed traffic characteristics.  New knowledge will be gained by
+              instrumenting application and protocol implementations to study the user
+              behavior, source data objects, and application and protocol behaviors of
+              expected gigabit applications.  Using the resulting traffic models as input to
+              performance models that will be developed, methods for highly scalable, input
+              buffered only switches to provide high throughput and efficient support for
+              bursty, best-effort data traffic and guaranteed-service traffic streams will be
+              advanced.  The hypothesis is that by using traffic shaping at each input port,
+              the scheduling algorithm can be made simple and scalable. The applicability of
+              packet bursting and spacing, priority queueing, and selective PAUSE flow
+              control will be studied.  To support CSMA/CD on large span, half-duplex Gigabit
+              Ethernet networks with high-data rates, the current minimum 64-byte packet size
+              must effectively be increased to 512 bytes to allow for correct collision
+              detection.  The IEEE 802.3 Gigabit Ethernet standard uses packet bursting to
+              transmit small packets.  A more efficient and interoperable method of operation
+              whereby late collisions are permitted, can be detected, and handled correctly
+              will be studied.
+     A systems and experimental approach will be used to
+              tackle the problems.  A laboratory of Gigabit Ethernet
+attached personal
+              computers and servers will be built. This laboratory will be used for direct
+              perimentation, as a facility for parallel execution of simulation models, and
+              for related educational activities at both the graduate and undergraduate
+              levels.  A tool for parallel independent replications of simulation models will
+              be developed and made generally available.  Much more significantly, new ideas
+              in traffic modeling, new knowledge in switch scheduling for variable length
+              packets with support for QoS, and new methods for using CSMA/CD in large span,
+              half-duplex Ethernet networks will be presented in appropriate conferences and
+              journals, and to standards bodies.  To solicit input and generate external
+              participation, a WWW site with a bulletin board will be established for
+              researchers and developers from academia and industry to share software tools,
+              new ideas, and findings.  In addition, a workshop will be held.  New ideas will
+              thus be seeded into the research community.
+     Education Plan
+The College
+              of Engineering at the University of South Florida currently has a new
+              undergraduate degree track
+in Information Systems . A graduate track in
+              Information Systems is under consideration.  This CAREER program will advance a
+              strong networking and performance modeling focus for this Information Systems
+              degree track.  New courses and curricula will be developed and research results
+              will be brought into the classroom.  The emphasis will be on experimental and
+              hands-on projects where students will work in teams to solve real world
+              problems using cutting-edge knowledge.  The educational materials developed as
+              a result of this project will be used as a contribution to ongoing ACM and
+              IEEE-CS efforts to develop curriculum guidelines for Information Systems
+              programs. To encourage undergraduate students to pursue graduate education in
+              engineering, portions of this CAREER program have been explicitly identified
+              for undergraduate student research involvement.

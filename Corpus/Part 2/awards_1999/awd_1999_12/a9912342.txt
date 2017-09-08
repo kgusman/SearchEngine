@@ -1,0 +1,64 @@
+Title       : Computational Complexity and Information Theory
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 19,  2000 
+File        : a9912342
+
+Award Number: 9912342
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $227611             (Estimated)
+Investigator: Madhu Sudan madhu@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number:  9912342
+PI:  Madhu Sudan
+Institution:  MIT
+
+One of the
+              broad goals of the theory of computer science is to identify functions that
+              seem hard to compute, and if possible to prove that they are indeed hard. A
+              further goal is to quantify how hard a function is to compute, for some
+              appropriate measure of hardness, and to find functions that are very hard under
+              this measure. For example, in the most common application of computational
+              hardness, namely cryptography, one needs to know that a given hard function,
+              such as the discrete logarithm or RSA decryption, is hard on almost all inputs
+              (rather than on some adversarially chosen inputs). In order to formalize such
+              statements, one needs to find good measures of hardness and develop tools to
+              analyze them.
+In the recent pasta number of research articles have proposed
+              different notions of hardness and analyzed them. Many of these results can be
+              thought of as abstracting quantitative notions of information based on
+              computational complexity. The results show that given a hard function, one can
+              construct a much harder one, in the sense that computing even a small amount of
+              information about the harder function allows for efficient perfect computation
+              of the given function. Further these results share a common theme of relying on
+              state-of-the-art results on the efficient listdecodability of error-correcting
+              codes.
+This research project will perform a systematic study of the influence
+              of decoding algorithms on complexity theory. It will examine a series of topics
+              where a connection may prove to be fruitful. The research project will also
+              examine new questions in coding theory influenced by the search for new tools
+              in complexity theory. The most ambitious element of the project is the
+              exploration of a coding theoretic approach to average case hardness of problems
+              in NP. The search for average-case hard problems within NP is one of the
+              fundamental quests of complexity theory. Existence of problems that are hard on
+              the average is a necessary condition for cryptography. It also explains seeming
+              contrast between worst-case hardness and empirically observed easiness of some
+              optimization problems. Thus progress in this direction would be of great impact
+              to computer science.
+
+

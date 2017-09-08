@@ -1,0 +1,126 @@
+Title       : ITR: Environment-Aware Communication for Mobile Grouped Devices
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0081308
+
+Award Number: 0081308
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $497425             (Estimated)
+Investigator: Robin Kravets rhk@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9102,9218,HPCC,
+Abstract    :
+              Advances in processor technology, both in increased processing power and
+              decreased energy
+consumption, have led to the creation of a new breed of small
+              intelligent devices from tiny
+laptops, to PDAs, to smart phones, to wearable
+              computers made from a collection of small
+independent devices. The advent of
+              such devices and wearable computers brings to light new
+possibilities and new
+              needs, specifically: cooperation among devices and elimination of cables.
+The
+              development of short-range radio technology, such as Bluetooth, enables the
+              cooperation of
+such devices over wireless links. As users collect multiple
+              small computing devices, the amount
+of communication resources available to
+              the user increases and so the demand for coordination of
+resources between
+              these devices increases. The overhead of this coordination may tax
+              the
+available bandwidth and energy resources of the devices. The goal of this
+              research is to support
+such cooperation and coordination through intelligent
+              communication management with an
+emphasis on the efficient use of available
+              resources.
+
+As the user moves between different environments, these MObile
+              grouPEd Devices (MOPEDs)
+cooperate as a coordinated local area network that
+              provides the user the desired mobile services.
+This cooperation and
+              coordination between a single user's devices changes the definition of what
+it
+              means to communicate with a user. With a MOPED, communicating with any of the
+              devices in
+the MOPED represents a successful connection to the local area
+              network, and so to the individual.
+In order to better support the needs of the
+              user, the MOPED may interact with networks in the
+current environment
+              surrounding the user in order to determine the availability of local
+              services.
+
+The researchers' approach relies on decision algorithms; services
+              and protocols for determining what communication channels are available to
+              which devices, as well as resource and quality
+information about such
+              channels. The researchers address four major challenges faced in the design of
+              such a solution.
+
+1) Channel Discovery:  The researchers propose the design
+              of intelligent service discovery protocols based on the requirements of the
+              user and the tradeoff between having current
+information about the
+              availability of communication channels with the overhead in
+resources (i.e.
+              bandwidth and power) used to acquire that information.
+2) Resource Monitoring:
+              The researchers propose the design of a distributed resource
+              information
+repository, which is a database internal to the MOPED. The
+              algorithms governing the
+dissemination of resource information to devices in
+              the MOPED must take into
+consideration the topology of the network, the energy
+              and bandwidth availability of each
+device, and the priority at which each
+              device actually needs the information.
+3) Resource Allocation: The researchers
+              propose the design of intelligent transport and routing
+protocols able to use
+              the resource availability information to determine which and how
+many of the
+              MOPED's external channels to use to complete a specific connection.
+4)
+              Mobility Management: The researchers propose mobility management techniques to
+              provide the ability for external users to communicate with the user, and so the
+              devices of the
+MOPED, wherever it is currently connected to the Internet and
+              propose the design of
+mobility management protocols based on the current
+              technology for host mobility.
+
+The results of the research will enable
+              simultaneous connections through all available
+communication channels. This
+              creates a very robust environment, where it becomes easier to
+guarantee
+              complete communication coverage. It allows using MOPEDs for critical tasks such
+              as
+patient monitoring where it is important to maintain connectivity at all
+              time, through there may be
+some flexibility in the amount of data that is
+              transferred as well as the importance of that data. If
+the communication
+              patterns of such a MOPED are not well monitored, certain devices
+              may
+unacceptably lose power due to inefficient connection management.
+

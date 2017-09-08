@@ -1,0 +1,54 @@
+Title       : ITR: A Paradigm of Parallel Programming for Morton-Ordered Matrices
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 28,  2002    
+File        : a0219884
+
+Award Number: 0219884
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: David S. Wise dswise@cs.indiana.edu  (Principal Investigator current)
+              Andrew Lumsdaine  (Co-Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              We propose a novel marriage of new fundamentals of data structures and
+              algorithms with the productive tools of generic programming. Together they
+              promise tools that could make high performance computing available to any
+              scientist. The data structure is the Morton-order representation of matrices
+              (and arrays in general), which admits both row, column, and quadrant
+              decompositions. Its benefits are grounded in architecture where it solves
+              problems of locality at all levels of a memory hierarchy. The favored
+              algorithms use divide- and-conquer recursion-a style associated with functional
+              programming-because they address the problems of balanced scheduling and
+              communication of distributed and multiprocessing. Generic programming
+              contributes, also, to this higher-level algebraic view of program construction.
+              The anticipated result is a style for parallel programming without requiring
+              explicit choreography either of memory or of processors. That is, the
+              programmer can specify computations, and eventually new algorithms, with a
+              high-level language closer to mathematics. We propose to develop the tools and
+              the techniques to carry these programs to an efficient parallel
+              implementation.
+
+Products will include a new programming style, new
+              efficiencies for parallel and Grid computing, tools to carry old codes into
+              this environment, tools to support the new generation of programs, support for
+              teaching a new generation of programmers, and new algorithms that can only be
+              inspired by this high-level perspective on programming.
+
+
+
+

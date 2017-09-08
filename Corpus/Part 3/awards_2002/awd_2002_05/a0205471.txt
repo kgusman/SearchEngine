@@ -1,0 +1,68 @@
+Title       : ITR: Decentralized Streaming Architecture (DSA) for High Capacity Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  2002      
+File        : a0205471
+
+Award Number: 0205471
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $609805             (Estimated)
+Investigator: Andre DeHon andre@cs.caltech.edu  (Principal Investigator current)
+              Thomas F. Knight  (Co-Principal Investigator current)
+              John Wawrzynek  (Co-Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    626/395-6073
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 1659,9215,HPCC,
+Abstract    :
+              Conventional computer architecture has been based on and dominated by
+              the
+capacity poor systems we were forced to build 20 and 50 years ago. 
+              For
+over three decades, the Instruction Set Architecture (ISA) has formed
+              the
+basic architectural abstraction for scalability.  As wonderful as the
+              ISA
+abstraction has been, its range of utility is coming to an end. 
+              Our
+systems have grown orders of magnitude in size and speed, and many of
+              the
+simplifying assumptions which underly the ISA are limiting
+              forward
+scalability rather than enabling them.  This effort explores
+              a
+reformulation of our basic assumptions and machine abstractions
+              to
+accommodate the large capacity computing systems we can now build. 
+              Whereas
+the sequence of primitive instructions was the core fixed point in
+              ISA
+model, this effort proposes stream-connected graphs as the model
+              fixed
+point for these Decentralized Streaming Architectures (DSA).  This
+              way
+communication is abstracted directly in the architecture
+              facilitating
+parallelism and optimization for physical locality.  DSA will
+              give us a
+single, unifying system model for future computing systems which
+              scales
+from modest, single-chip, single-processor systems, to multiprocessor
+              ICs,
+to a wide range of heterogeneous System-on-a-Chip designs, to
+              large-scale,
+heterogeneous, multi-component systems that evolve over decade
+              long
+lifecycles.
+

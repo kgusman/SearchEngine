@@ -1,0 +1,67 @@
+Title       : Forensix: Large-scale Tamper-resistant Computer Forensic Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a0230960
+
+Award Number: 0230960
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas J. Greene                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $749811             (Estimated)
+Investigator: Wu-chang Feng wuchang@cse.ogi.edu  (Principal Investigator current)
+              David Maier  (Co-Principal Investigator current)
+              Wu-chi Feng  (Co-Principal Investigator current)
+              Jonathan Walpole  (Co-Principal Investigator current)
+Sponsor     : Oregon Hlth and Science U
+	      3181 S W Sam Jackson Rd
+	      Portland, OR  972013011    503/748-1031
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9150,9217,HPCC,
+Abstract    :
+              Computer forensic systems are large-scale auditing systems that are
+              complementary with on-line intrusion and anomaly detection and have been a
+              relatively understudied field in network security. Whereas intrusion and
+              anomaly detection systems attempt to do an active on-line analysis of events,
+              forensic systems seek to log all of the information being processed for
+              subsequent, off-line analysis. For the most part, computer forensics is still
+              an ad-hoc activity that is applied to a system that has already been
+              compromised.
+
+Leveraging the advances in computing, networking, and storage
+              systems and building on the work within the IDS community, the project will
+              build an experimental computer forensics system that will allow system
+              administrators, law enforcement officials, and security experts to quickly and
+              easily track down sources of security incidents after they have happened. There
+              are a number of unique aspects of proposed approach including:
+(i) Actively
+              tracking changes to the system being monitored at the operating system kernel
+              level before an attack occurs to capture forensic data
+(ii) Backing the audit
+              information to a locally connected logging host. This logging host exports only
+              one service: the audit trail information from the host being monitored. All
+              other access to the logging host is allowed only through the console. Thus, the
+              logging host is a system that will provide extremely detailed system
+              information.
+(iii) A database system to hold logging information. With an
+              investigation of techniques for populating a database to allow advanced queries
+              on the logging information. The goal of this is to allow complex queries to be
+              performed while monitoring the system.
+
+The main questions to answer as a
+              result of this research are:
+(i) Can a scalable proactive logging hosts be
+              built to capture a large number of attacks?
+(ii) Can database technologies be
+              used to actively mine fore malicious activities?
+(iii) How can file systems
+              and database technologies be developed to support scalable logging?
+

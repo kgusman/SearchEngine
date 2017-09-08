@@ -1,0 +1,89 @@
+Title       : Pseudorandomness, Codes, and Cryptography
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 4,  2003      
+File        : a0310960
+
+Award Number: 0310960
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2003        
+Expires     : April 30,  2008      (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: David I. Zuckerman diz@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              This proposal is about pseudorandomness and its relationship with coding
+              
+theory and cryptography.  A fundamental object in the study of
+              
+pseudorandomness is the extractor, introduced by Nisan and the PI.  An
+              
+extractor is an algorithm which extracts high-quality randomness from a
+              
+low-quality random source, using a few auxiliary high-quality random 
+bits. 
+              Recently, the PI and co-authors have discovered interesting 
+connections
+              between extractors and coding theory.  Specifically, they 
+showed how to use
+              Reed-Muller codes to build good extractors, and how 
+extractors yield good
+              list decodable codes.  While there have been 
+improvements in these methods,
+              optimal extractors have not been 
+achieved, and the PI proposes to work
+              towards that goal.  The PI also 
+plans to work on related issues in coding
+              theory.
+
+In addition, the PI plans to work on using low-quality randomness in
+              
+cryptography, where less work has been done.  Cryptography also 
+motivates
+              the notion of deterministic extractors, which extract 
+randomness from
+              low-quality sources without any auxiliary random bits.  
+While this is
+              impossible for general low-quality sources, it is possible 
+with more
+              specialized ones.  For example, the PI and a student 
+constructed
+              deterministic extractors for so-called oblivious bit-fixing 
+sources. This has
+              applications to exposure-resilient cryptography, where 
+cryptographic
+              primitives are made to work even if large portions of keys 
+are exposed.  The
+              PI proposes to improve previous results and work on 
+related
+              issues.
+
+Broader Impact
+
+Many scientists use pseudorandom generators in
+              Monte Carlo 
+simulations,and may get wrong answers without knowing it. 
+              Advances in 
+pseudorandom generators can therefore mean advances in other
+              areas of 
+science.  Advances in cryptography are also important to society, as
+              
+computer security becomes more relevant for national security.  The 
+project
+              also has educational benefits:  the PI's research is integrated 
+with his
+              teaching, especially in his mentoring of graduate students and 
+postdocs.
+

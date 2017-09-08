@@ -1,0 +1,99 @@
+Title       : Stochastic and Reliable Matching and Scheduling Algorithms for a Heterogeneous
+               Computing Environment
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 23,  2001      
+File        : a0100633
+
+Award Number: 0100633
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $97503              (Estimated)
+Investigator: Fusun Ozguner ozguner.2@osu.edu  (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Road
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              In heterogeneous distributed computing, a network of dissimilar machines is used
+              to
+execute a given application in parallel. With the advent of advanced
+              network technologies,
+the scale at which heterogeneous computing can be
+              practicaly applied is growing to a
+global scale, thus making it possible to
+              collect high performance computers across the
+globe into a single
+              computational resource. Multiple users will be able to simulataneously
+use
+              this computational resource to execute a variety of large, parallel
+              applications.
+However, there are a number of problems to solve before this
+              type of computing becomes a
+reality.
+Therefore this project proposes to
+              develop effective matching and scheduling methods to
+allow multiple users to
+              execute applications in a large, decentralized, failure-prone,
+heterogeneous
+              computing environment. Due to the dynamic and uncertain nature of
+              this
+environment, the algorithms that will be developed will use statistical
+              techniques to
+allocate resources fairly in a highly dynamic system. The
+              algorithms will be evaluated by
+simulations and also on a small testbed. There
+              are three different aspects of this
+proposed work:
+1. Methods will be
+              developed to statistically obtain an estimate of the response time of a
+task
+              on an arbitrary target machine. This will be accomplished by developing
+              separate
+techniques to estimate the execution time, machine loads, and network
+              loads. A method for
+estimating the execution time using data gathered from
+              past executions of the task has
+already been developed. This method will be
+              refined and similar stochastic methods will be
+developed for machine and
+              network load estimation.
+2. A dynamic matching and scheduling method for
+              heterogeneous machines will be developed.
+This method will allow each
+              application to make scheduling decisions without direct
+knowledge of the other
+              applications executing in the environment. Each application will
+have to
+              compete for the computational resources of the network. The scheduling
+              heuristics
+will take into account the uncertainty in the stochastic estimates
+              of the execution time
+and machine and network loads.
+3. Finally, reliable
+              scheduling algorithms based on either heuristic cost functions or
+evaluation
+              of the reliability of applications will be developed. The heuristic
+              cost
+functions developed will define the impact of a scheduling decision on
+              the reliability of
+an application in time units. These algorithms will
+              consider both the execution time and
+failure probability of applications while
+              making scheduling decisions, and thus, will be
+capable of producing task
+              assignments that improve both the performance and reliability of
+applications.
+              In addition, algorithms which can trade performance for reliability
+              of
+applications will be designed.

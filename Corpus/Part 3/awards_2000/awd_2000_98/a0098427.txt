@@ -1,0 +1,71 @@
+Title       : Integer and Combinatorial Optimization: Polyhedral and Graph Theoretic Methods
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : March 31,  2003     
+File        : a0098427
+
+Award Number: 0098427
+Award Instr.: Continuing grant                             
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $530939             (Estimated)
+Investigator: Egon Balas eb17@andrew.cmu.edu  (Principal Investigator current)
+              Gerard Cornuejols  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 1271,2865,5514,9147,MANU,
+Abstract    :
+              This project addresses basic theoretical and computational aspects of integer
+              programming and combinatorial optimization, using tools of linear algebra and
+              graph theory. In the nineties the principal investigators have developed a
+              computationally successful approach to mixed 0-1 programming known as
+              lift-and-project.  A central theme of the research is to develop this approach
+              in new directions that seem computationally even more promising.  One of these
+              directions uses a one to one correspondence recently established by the
+              investigators' team between basic solutions to the higher dimensional linear
+              program used to generate lift-and-project cuts, and certain basic solutions of
+              the LP relaxation of the mixed integer program itself. This correspondence can
+              be used to generate "deepest cuts" in the lift-and-project sense without
+              explicitly generating the higher dimensional linear program.  Another important
+              topic is the creation of bridges from integer programming to the branch of
+              computer science known as constraint programming.  A recently discovered linear
+              characterization of cardinality rules and similar logical constructs, along
+              with the linear time separability of the inequalities involved, makes it
+              possible to develop symbolic constraints usable in an integer programming
+              context that may significantly enhance the power of algorithms dealing with
+              problems involving logical conditions.  A third line of research pursued under
+              this project investigates properties of a 0-1 matrix that make the set packing
+              problem or the set covering problem (or both) defined by it have only integer
+              basic solutions.  Structural properties of balanced matrices were obtained
+              under previous NSF grants.; ideal and perfect matrices are currently under
+              investigation.
+
+Decision makers often face problems that have a combinatorial
+              aspect: choose one among a very large number of possible decisions. A standard
+              approach is to formulate such problems as integer programs and to use a
+              "solver" to find the best solution.  Although integer programming solvers have
+              improved significantly over the last decade, they are still unable to solve
+              many large scale problems to optimality.  This project lays the theoretical and
+              analytical foundation for a new generation of solvers for integer programs. 
+              The lift-and-project approach developed by the principal investigators  has
+              proved well suited to solve hard integer programming problems. Speed remains an
+              issue however.  This research project addresses the speed issue by
+              investigating new, faster ways of computing the cuts, lift-and-project as well
+              as other.  The potential benefits of the project are significant since cut
+              generators are already being implemented in commercial integer programming
+              solvers and, obviously, the performance of these solvers would be improved by
+              better cut generators.  Based on the recent increase in the use of solvers by
+              managers in most fields of business, solvers with improved performance have the
+              potential to increase productivity in the industries where these solvers are
+              used (manufacturing, airline, financial and other industries).
+

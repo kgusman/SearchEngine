@@ -1,0 +1,50 @@
+Title       : Applications of Weighted Least Squares
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 7,  1997      
+File        : a9619489
+
+Award Number: 9619489
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $117562             (Estimated)
+Investigator: Stephen A. Vavasis vavasis@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project covers the development and analysis of new  algorithms for weighted
+              least-squares problems and their  applications.  In many practical
+              applications, the weights vary  by large factors, giving rise to
+              ill-conditioned cases.  In the  past decade several authors independently
+              proved a norm bound for  this case of an ill-conditioned weight matrix.  In
+              previous work  the PI followed up on this norm bound with the discovery of a 
+              stable algorithm for weighted least squares. ``Stable'' means  that the
+              accuracy of the algorithm is not affected by ill-  conditioning of the weight
+              matrix.    The norm bound and the stable algorithm turn out to have several 
+              unexpected applications.  For example, a new interior point  method was
+              discovered whose running time, unlike for all  previous interior point methods,
+              does not depend on the numerical  data of the objective function.  Also, a way
+              was found to stably  solve a class of finite element methods on which
+              previously known  algorithms would have failed.    In this research project,
+              weighted least-squares problems will be  pursued along several lines:    (1)
+              iterative methods for weighted least squares will be      developed, as well as
+              improved sparse-matrix methods,    (2) results for linear programming will be
+              extended to      semidefinite programming,    (3) new algorithms will be
+              invented for the highly nonlinear      problems arising in electric power
+              networks, which have      at their core a generalized weighted least-squares
+              problem,      and    (4) inverse finite element problems will be addressed.   
+              The outcome of this project will be more accurate and more  efficient
+              algorithms for optimization and simulation problems  arising in science and
+              engineering.

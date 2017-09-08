@@ -1,0 +1,82 @@
+Title       : CARGO: Approximation and Simulation of Neurons
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : March 15,  2002     
+File        : a0138065
+
+Award Number: 0138065
+Award Instr.: Standard Grant                               
+Prgm Manager: Benjamin M. Mann                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : May 1,  2002        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Binhai Zhu bhz@cs.montana.edu  (Principal Investigator current)
+Sponsor     : Montana State University
+	      
+	      Bozeman, MT  597172470    406/994-0211
+
+NSF Program : 1260      INFRASTRUCTURE PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9150,OTHR,
+Abstract    :
+              DMS-0138065
+Binhai Zhu
+
+In this project, we investigate a three-dimensional
+              geometric 
+problem that originated in neural maps, which model the 
+motions
+              of neurons so as to understand the human behavior. 
+The problem is defined as
+              follows: given a neuron, which is 
+modeled as a polyhedron, compute a minimum
+              set of (minimal) 
+cylindrical segments to approximate the neuron. We plan to
+              
+design a good approximation for this problem (i.e., the error 
+between the
+              cylindrical segments and the neuron is small).
+We also plan to have a good
+              implementation, build a prototype 
+system, and perform extensive empirical
+              studies. Practically, 
+a solution to this problem will have a great impact in
+              
+computational biology.  Theoretically, this problem generalizes 
+the problem
+              of finding a single line stabbing a set of balls 
+in 3D (and has never been
+              seriously studied to the best of our knowledge).
+
+Modeling the motions of
+              human neurons is an important problem 
+in biology, especially in understanding
+              human behavior under 
+different circumstances.  To do that, we first need to
+              model 
+a single neuron, which is very much like a tree-shaped 
+polyhedron,
+              using a set of cylindrical segments. Different
+cylindrical segments of
+              different radii have different 
+functionality, so the union of the cylindrical
+              segments 
+should be as close to the neuron as possible. In practice 
+this
+              problem is estimated manually by technicians in
+the computational biology
+              community. The process is 
+time-consuming and error-prone. Our research will
+              focus 
+on automating this process with computers and a successful 
+solution
+              will have deep influence in the computational 
+biology community. We will
+              train two graduate students
+throughout this project.
+

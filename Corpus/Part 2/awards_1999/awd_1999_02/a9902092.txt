@@ -1,0 +1,65 @@
+Title       : Adaptable and Scalable Techniques for Branching Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1999      
+File        : a9902092
+
+Award Number: 9902092
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $239967             (Estimated)
+Investigator: Jonathan Eckstein jeckstei@rutcor.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project intends to advance the state of the art in applying parallel
+              computing to branching algorithms. The term "branching algorithm" refers to any
+              method built on the basic principle of branch-and-bound search for numerical
+              optimization, including branch-and-bound, branch-and-cut, and branch-and-price
+              methods.
+
+The software platform for the work will be PICO, a C++ class
+              library package already being developed in cooperation with Sandia National
+              Laboratories. The main goals for the continued development of PICO
+              are:
+
+SCALABILITY: the software should scale efficiently up to hundreds or
+              thousands of processors. While systems this large are rare today, and some of
+              the "hype" surrounding them has quieted, a robust trend towards greater
+              parallelism continues in the computer hardware industry. The project intends to
+              develop 
+technology that will continue to be useful as systems with more
+              highly parallel CPU's become available.
+
+SYSTEMS PORTABILITY: the package
+              should be adaptable, by changing its run-time parameter configuration, to
+              varying communication/computation speed ratios. It should be usable on hardware
+              from any vendor offering standard parallel software 
+tools (C++ and
+              MPI).
+
+APPLICATIONS PORTABILITY: the basic parallel search engine will be
+              applicable to a wide variety of branching algorithms without duplication of the
+              fundamental programming effort. The same core code should be able to manage
+              parallel search applied to any branching algorithm, including relatively
+              advanced methods like 
+branch and cut. 
+
+OBJECT ORIENTATION: extensible,
+              object-oriented software design should help achieve the portability
+              goals.
+
+
+

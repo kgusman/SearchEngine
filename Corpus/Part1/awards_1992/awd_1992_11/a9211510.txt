@@ -1,0 +1,49 @@
+Title       : RIA: Implementation and Synthesis of Micropipelines in CMOS Differential Logic
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 18,  1995      
+File        : a9211510
+
+Award Number: 9211510
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $109949             (Estimated)
+Investigator: Shih-Lien Lu sllu@ece.orst.edu  (Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0108000   Software Development                    
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 9215,
+Abstract    :
+              The discipline of timing management is the key to the effective                
+              design of any large scale computer systems in this era of advanced             
+              technology.  It has been pointed out by Sutherland recently that               
+              the current design framework which employs a globally clocked                  
+              timing discipline has reached its limit.  It was demonstrated that             
+              there are many advantages if a different timing discipline, namely,            
+              the transition-signal conceptual framework is used to design                   
+              complex computation systems.                                                   
+                                                                                             
+              In this research, we take a bottom up approach to accomplish the               
+              synthesis of micropipeline processing systems from a high-level                
+              specification.  The first milestone is to examine the design and               
+              building of micropipeline structures using differential CMOS logic             
+              instead of static CMOS logic.  The second milestone is to implement            
+              an automatic synthesis system for a particular micropipeline                   
+              stage's logic processing block given a set of logic equations.  The            
+              third milestone is to implement all necessary token control                    
+              circuitry.  The last milestone is to map a dataflow graph which                
+              specifies a particular algorithm into hardware using the                       
+              micropipeline design frame work.

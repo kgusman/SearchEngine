@@ -1,0 +1,45 @@
+Title       : Career: User/OS Transparent Fault Recovery Using Caches
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 4,  2001        
+File        : a9896321
+
+Award Number: 9896321
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Neeraj Suri suri@bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              The increasing reliance on computers for virtually all  applications drives the
+              need for provision of fault-  tolerance to prevent disruptions in the delivery
+              of desired  services. However, approaches to fault-tolerance are  acceptable
+              only if high costs and degradation in the system  performance is avoided. The
+              checkpoint based fault recovery  schemes currently used are effective, but they
+              necessitate  customized solutions and a high cost penalty, both  monetarily and
+              in long recovery times.  A novel cache based  approach that provides for
+              high-performance and low-cost  checkpointing based recovery in distributed
+              systems will be  investigated. The principles of using caches for providing 
+              stable checkpoints will be  established, and the  architectural concepts will
+              be developed. The research  focuses on developing techniques to analyze and
+              control the  cache attributes of stability and frequency of  checkpoints, and
+              establishing response/overhead  characteristics. Protocols for cache based
+              recovery (roll-  backward and roll-forward) over varied fault instances will 
+              be developed and analyzed. This research will utilize  existing system caches
+              in order to provide for automatic  checkpoint establishment and for a
+              low-overhead fault  recovery approach which is explicitly transparent in use to
+               the user/OS; thus a viable and effective fault tolerance  scheme for general
+              computing systems will be developed.

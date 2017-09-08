@@ -1,0 +1,47 @@
+Title       : Error Management in Wireless Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 9,  2001      
+File        : a9714651
+
+Award Number: 9714651
+Award Instr.: Standard Grant                               
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1998  
+Expires     : January 31,  2002    (Estimated)
+Expected
+Total Amt.  : $210823             (Estimated)
+Investigator: Ramesh R. Rao rrao@ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Third generation personal communication systems are likely to involve many
+              bursty, mobile, multi-media users whose quality of service needs may vary
+              dynamically over time.  In order for a wireless system to respond adequately to
+              these demands it will be necessary to determine fundamental mechanisms for
+              allocating QoS needs in the radio environment.  Unlike fiber optic links, radio
+              links are likely to be expensive and of poorer quality. Thus, a large part of
+              the quality of service arbitration will have to be  supported via coding and
+              other link enhancements techniques.    In this proposal, we first present
+              findings that reveal the importance of higher order error statistics in
+              assessing the impact of particular forms of error control on higher layer
+              services.  Then we note that when  communications are conducted over a layered
+              stack, a particular error control module exerts influence on the overall end to
+              end performance not only via its own error correcting capabilities but also via
+              the type of error events that it passes up to the higher layers.  Therefore, we
+              propose to investigate error management mechanisms that not only correct errors
+              but also shape and possibly exploit the statistics of the residual errors that
+              escape to the higher layers.  Finally, given a set of end user performance
+              requirements, one can conceive of multiple ways of distributing the error
+              control functions.  So, we propose to investigate how to distribute the error
+              control functions.  We expect that the proposed work will help in the design of
+              a new generation of network radios.

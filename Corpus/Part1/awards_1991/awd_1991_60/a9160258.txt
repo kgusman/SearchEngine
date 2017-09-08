@@ -1,0 +1,48 @@
+Title       : Process-trellis Architecture for Parallel Real-Time Monitors and Data Fusion
+               Applications
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : December 16,  1991  
+File        : a9160258
+
+Award Number: 9160258
+Award Instr.: Standard Grant                               
+Prgm Manager: Ritchie B. Coryell                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1992    
+Expires     : September 30,  1992  (Estimated)
+Expected
+Total Amt.  : $49349              (Estimated)
+Investigator: Robert D. Bjornson bjornson@sca.com  (Principal Investigator current)
+Sponsor     : Scientific Comput Assocs
+	      One Century Tower, 265 Church St
+	      New Haven, CT  065101070    203/777-7442
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2845,
+Abstract    :
+                   Real-time monitors are designed to filter and analyze patterns in         
+              collections of incoming data streams--for example, to convert low-             
+              level signal and image data into high-level descriptions.  In short,           
+              they are a solution to the "data fusion" problem.  This project                
+              implements the process-trellis software architecture as a programming          
+              methodology and tool for building parallel real-time monitors.  The            
+              project will enable data fusion applications to exploit new                    
+              developments in parallel computer hardware and processing.                     
+                   The process trellis supports hierarchical, multiprocess data              
+              fusion structures that convert incoming raw data into high-level               
+              abstractions.  Intermediate processing is performed by numerous                
+              analysis procedures running asynchronously and in parallel,                    
+              interacting only through the flow of data in the trellis.  The trellis         
+              will be implemented using Linda (R), a commercial product of                   
+              SCIENTIFIC Computing Associates, Inc., that provides convenient access         
+              to parallelism from within high-level languages like C or Fortran.             
+              This will lead to software that is not only efficient, but also                
+              portable across vastly different parallel architectures including both         
+              explicitly parallel computers and LANS of workstations functioning as          
+              parallel "hypercomputers."

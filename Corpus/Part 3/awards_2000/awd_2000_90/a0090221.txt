@@ -1,0 +1,75 @@
+Title       : Collaborative Research: Adaptive Data Parallel Storage
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 21,  2002       
+File        : a0090221
+
+Award Number: 0090221
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $185449             (Estimated)
+Investigator: Evgenia Smirni esmirni@cs.wm.edu  (Principal Investigator current)
+Sponsor     : College of William & Mary
+	      Grants & Research Admin.
+	      Williamsburg, VA  231878795    757/221-3967
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The I/O demands of scientific applications are increasing exponentially as
+              researchers strive for greater accuracy in models and simulations of physical
+              systems, and as more information about the world is obtained.  To deal with
+              this aspect of computation implies that one cannot ignore the I/O gap and only
+              concentrate on processor-centric issues. As a concrete example, the size of
+              Genbank, a nucleotide database, has been doubling every 14 months and is
+              currently 33 GB.  In the commercial arena attention has turned to information
+              and its location also. More and more network services, fueled by the demands of
+              information-intensive Web applications, are shifting the focus in computer
+              systems to I/O.
+
+With the growing importance of data comes the need to
+              address its management. The commodity cluster of the near future, which
+              consists of a combination of network-attached storage, intelligent data
+              appliances and workstations, and high-performance networks, is a highly
+              parallel, heterogeneous computer. However, the file abstractions in use today
+              cannot yet fully exploit either the resulting computational power or data
+              locality.
+
+This award examines how to improve I/O performance on such a
+              platform for a class of important applications. UC Santa Cruz has a leading
+              computational biology group with a 100+ node Linux cluster; the parallel
+              sequencing codes that they use are an obvious target. Other groups have also
+              expressed interest in this cluster; and its use will be an excellent source of
+              applications. 
+
+There are three main research objectives. First, develop an
+              I/O programming model that unites computation and storage. This will allow the
+              programmer to express "storage operations" that can be readily parallelized.
+              Second, build an adaptive infrastructure and develop analytic models to
+              determine the optimal execution path, which may be parallel or sequential.
+              Third, develop offline models to answer questions about how to allocate
+              resources within this heterogeneous environment.
+
+The goal in creating a new
+              I/O interface is to associate computation and data so that code can be easily
+              executed at the source of the data. For example, suppose we want to search for
+              a word in a dictionary. The standard procedure would be to open the dictionary
+              file, read it in chunks, search for instances of the word in each chunk, and
+              close the file. This operation is sequential and processor-centric; the
+              emphasis is on moving the data to the processor rather than a computation to
+              the data. Instead, we propose to associate a "search for word" command with the
+              dictionary in the form of a new I/O interface. Now the "search for word"
+              becomes a high level abstraction for the same code described above, a single
+              remote procedure call, or a parallel procedure (depending on the location of
+              the dictionary). 
+
+
+

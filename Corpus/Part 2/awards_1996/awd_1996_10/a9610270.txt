@@ -1,0 +1,50 @@
+Title       : Geometric Techniques for Multidimensional Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 29,  2001    
+File        : a9610270
+
+Award Number: 9610270
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $333743             (Estimated)
+Investigator: Scott T. Leutenegger leut@cs.du.edu  (Principal Investigator current)
+              Mario A. Lopez  (Co-Principal Investigator current)
+Sponsor     : University of Denver
+	      University Park
+	      Denver, CO  80208    303/871-2000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              Storage and retrieval of multidimensional data is necessary for many scientific,
+              geographic, engineering, and business applications. Traditional database
+              secondary storage indexing techniques such as B-trees and hash tables are not
+              suitable for dealing with multidimensional data, as data access is performed by
+              concentrating on only one-dimension at a time and large quantities of
+              extraneous data may be retrieved. The main goal of this project is to explore
+              and develop techniques for efficient loading, retrieval, and update of large
+              disk-resident multidimensional data for both single machine and parallel
+              machine architectures. Storage and processing of both point and region data are
+              considered. The database community has independently developed a number of
+              disk-based multi-dimensional indexing schemes, without applying results from
+              relevant fields that may significantly improve loading and retrieval
+              performance. Accordingly, the approach used in this project is firmly grounded
+              within the realm of computational geometry, a discipline that has produced
+              numerous techniques for the efficient processing of memory-resident
+              multidimensional data. The generalization and improvement of these techniques
+              to handle efficiently disk-resident data is an important part of this research.
+              Additionally, the use of parallelism to provide improved load and query
+              response times for very large data sets is also considered. The resulting
+              indexing techniques will enable higher level database architectures to provide
+              efficient access to the very large multi-dimensional datasets of the future,
+              thus enabling database technology to keep up with demands placed upon it from
+              science and business as a whole.

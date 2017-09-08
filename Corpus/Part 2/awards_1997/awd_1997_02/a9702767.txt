@@ -1,0 +1,44 @@
+Title       : CAREER: Transparent Support for Efficient, Wait-Free Transactions in
+               Shared-Memory Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2000      
+File        : a9702767
+
+Award Number: 9702767
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1997     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $204975             (Estimated)
+Investigator: Mark Moir moir@cs.pitt.edu  (Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,2891,9216,HPCC,
+Abstract    :
+              The use of multiprocessor computer systems is  increasingly common in scientific
+              and numeric  computing. In developing applications for  multiprocessor systems,
+              new challenges arise in  coordinating concurrent accesses to shared data.  This
+              is traditionally achieved through locking,  which often restricts parallelism,
+              and can also  cause performance bottlenecks because delayed  processes can
+              cause others to wait.  This work  aims to eliminate locking from multiprocessor
+               applications through the use of transparent,  wait-free implementations of
+              user-supplied  transactions, which ensure that delayed  processes never cause
+              others to wait. In this  project, wait-free implementations will be  designed
+              that automatically resolve conflicts  between concurrent transactions, and
+              exploit  parallelism between nonconflicting transactions.  Their performance
+              will be studied through  simulation and applications. Finally, a seamless 
+              interface for application code will be developed  on several systems.  The
+              education plan of this  project focuses on integrating research and  education
+              in concurrent programming. This  research will provide new tools for developing
+               efficient applications in multiprocessor  systems. These tools will be used in
+              some of the  future courses in concurrent programming.  ***

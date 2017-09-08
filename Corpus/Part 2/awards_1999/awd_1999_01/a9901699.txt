@@ -1,0 +1,55 @@
+Title       : Support for Scalable Transactional Applications on the Global Internet
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 9,  2002   
+File        : a9901699
+
+Award Number: 9901699
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $180355             (Estimated)
+Investigator: Liuba Shrira Liuba@cs.brandeis.edu  (Principal Investigator current)
+Sponsor     : Brandeis University
+	      P.O. Box 549110
+	      Waltham, MA  024549110    781/736-2121
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Luiba Shrira
+CCR- 9901699
+Brandeis University
+
+Cooperative caching
+              techniques have been successfully used to improve the performance of
+              distributed file systems and the Web.   By replacing more expensive access to a
+              "far away" data with a more efficient access to a "near by" cached copy, and by
+              coordinating the content of caches, these techniques improve the overall system
+              performance and scalability.
+
+Cooperative caching techniques have bot been
+              used for transactional object systems.  A principal goal of the proposed work
+              is to design, implement and evaluate cooperative caching techniques for
+              transactional object storage systems.  These techniques will enable
+              construction of wide-area storage systems that will provide applications with
+              the reliability and consistency guarantees of transactions, the flexibility is
+              user-defined objects, and still be scalable.
+
+A major contribution of this
+              work will be a set of new transactional cooperative cache consistency protocols
+              for wide-area environment, global cache coordination protocols that adapt to
+              object granularity, and security techniques that protect objects in cooperative
+              caches.  The technique will be incorporated into the Thor object storage
+              system.  This work encompasses both early research and development and
+              prototyping.
+
+
+

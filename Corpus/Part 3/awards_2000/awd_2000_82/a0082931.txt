@@ -1,0 +1,59 @@
+Title       : ITR: Self-Scheduling N-Body Algorithms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 7,  2002       
+File        : a0082931
+
+Award Number: 0082931
+Award Instr.: Standard Grant                               
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $450649             (Estimated)
+Investigator: Lars S. Nyland nyland@cs.unc.edu  (Principal Investigator current)
+              Jan F. Prins  (Co-Principal Investigator current)
+              Jan Hermans  (Co-Principal Investigator current)
+              Michael L. Minion  (Co-Principal Investigator current)
+              William V. Wright  (Co-Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              The n-body problem - i.e. simulating the motion of many particles that attract
+              or repel each other - is a classic one with many applications. N-body
+              algorithms are the computational means of solving this problem. The many users
+              of these algorithms include biophysiologists and biochemists studying
+              biological phenomena, pharmaceutical researchers dealing with drug structures
+              and interactions, astrophysicists studying the structure of the cosmos, and
+              engineering researchers studying hydrodynamics. The algorithms are also
+              interesting in their own right to computer scientists. This project will
+              develop an innovative approach to n-body algorithms called self-scheduling
+              n-body algorithms. This family of algorithms promises not only reduced
+              computational complexity, but also a straightforward
+              implementation.
+
+Technically, the research will use a multiple time step
+              method where each pairwise interaction is evaluated using a dynamic schedule
+              that attempts to equalize the error of each interaction, drastically reducing
+              the computational cost. The fundamental new idea is to equalize the impulses
+              for all interactions, rather than equalizing the time steps for all
+              interactions (which is too conservative in most cases). Mathematically, the
+              constant time step t is traded for a constant impulse I, defined as Fij  tij, 
+              where Fij is the force between particles i and j and tij becomes the time step
+              used to re-evaluate Fij. This leads to an expected execution complexity of
+              O(n4/3) per simulation step. Algorithmic improvements that rely on the first
+              and second derivatives of force reduce the per step computational complexity to
+              O(n log n) and O(n), respectively. The project will fully explore these
+              algorithms, analyze their error bounds and computational complexity, implement
+              prototype versions, and explore additional topics (such as efficient
+              parallelization and cache-efficient memory layouts) as time permits.
+

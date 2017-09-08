@@ -1,0 +1,44 @@
+Title       : A Staged Compiler Architecture for Dynamic Program Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 12,  1999       
+File        : a9711269
+
+Award Number: 9711269
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $232832             (Estimated)
+Investigator: R. Kent Dybvig dyb@cs.indiana.edu  (Principal Investigator current)
+              David S. Wise  (Co-Principal Investigator current)
+              Mark R. Leone  (Co-Principal Investigator former)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9251,HPCC,
+Abstract    :
+              This project focuses on the design and implementation of a  compiler
+              architecture for dynamically optimizing stand-alone  programs.  Dynamic
+              optimization uses run-time values and  invariants to improve code as it
+              executes, yielding  performance superior to that of statically optimal code. 
+              Dynamic optimization incurs run-time overhead: time spent  optimizing and
+              compiling code at run time detracts from any  resulting improvement.  This
+              overhead will be reduced using  a staged compilation model, which permits
+              static compilation  to be suspended after reaching a high-level, mid-level,  or
+              low-level intermediate representation.  This technique  supports lightweight
+              optimizations, which are fast but  typically yield minor improvements, as well
+              as heavyweight  optimizations, which are time consuming but often provide 
+              substantial performance benefits.  The proposed  system will incorporate
+              automatic program analyses and  profiling tools to uncover opportunities for
+              dynamic  optimization in ordinary code, and a rich set of  optimization
+              directives will give the programmer fine-  grained control over dynamic
+              optimization when necessary.

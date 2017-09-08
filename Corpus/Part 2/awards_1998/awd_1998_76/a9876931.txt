@@ -1,0 +1,50 @@
+Title       : The IOA Language and Toolset: Support for Designing, Analyzing, and Building
+               Distributed Systems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 24,  2001     
+File        : a9876931
+
+Award Number: 9876931
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $359999             (Estimated)
+Investigator: Nancy A. Lynch lynch@theory.lcs.mit.edu  (Principal Investigator current)
+              Stephen J. Garland  (Co-Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+Distributed and parallel computer systems are becoming increasingly common and
+              complicated. New applications such as computer-supported cooperative work
+              systems are appearing on these platforms, and parallel scientific and
+              engineering computations have long used parallelism for high performance.  Many
+              of these systems have important correctness, performance, and fault-tolerance
+              requirements. However, they often use intertwined and complicated protocols
+              that make them difficult to build and reason about. This project studies
+              structured approaches to managing this complexity, which view the system at
+              different levels of abstraction and as parallel compositions of interacting
+              components. The particular approach used to do this is the I/O automaton model,
+              which has previously been used to describe and verify distributed algorithms
+              and distributed system designs. The model has a simple notion of external
+              behavior based on linear traces of external actions of the components, and
+              allows the components (automata) to be composed and related using simulation
+              relations. The new research here will develop parts of the IOA programming
+              language and toolset to support distributed and parallel programming using I/O
+              automata. Extensions for timed and hybrid I/O automata will also be attempted.
+              The new tools and techniques will allow a variety of systems to be modeled and
+              analyzed at a high level of abstraction.
+
+

@@ -1,0 +1,72 @@
+Title       : Approximation Algorithms for Problems of Various Complexities
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a0209099
+
+Award Number: 0209099
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2002       
+Expires     : April 30,  2005      (Estimated)
+Expected
+Total Amt.  : $236711             (Estimated)
+Investigator: Martin Furer furer@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The purpose of this research is to design and analyze discrete
+              algorithms
+approximating solutions to combinatorial optimization
+              problems.Because
+many of these problems are NP-hard,an exact solution is often
+              not feasible;
+in such cases approximation algorithms are a viable
+              alternative.In addition
+to attacking approximation problems that seem to
+              require new strategies,
+another main goal is to investigate the applicability
+              of design principles de-
+veloped successfully for traditional discrete
+              optimization problems to com-
+parable tasks occurring in other areas.In any
+              ase,a rigorous performance
+analysis is always intended.
+A .rst focus is the
+              #P-complete permanent problem,which is of much
+importance in statistical
+              physics and combinatorics.Rough approximations
+(up to an exponential
+              factor)can be obtained in deterministic polynomial
+time and possibly even mu h
+              faster on a parallel machine.Such a solution
+would allow to solve the
+              outstanding bipartite matching problem of parallel
+computing.Even though the
+              matching problem is easy for a sequential
+machine,it is very hallenging to
+              coordinate the many processors of a parallel
+machine to worksimultaneously and
+              e .ciently on the same matching.It is
+also proposed to attackthe parallel
+              matching problem with a novel version
+of more traditional network .ow
+              methods.
+Another theme of this proposal is the approximation of NP-hard
+              opti-
+mization problems by traditional methods like lo al search,the
+              comparison
+method,semide .nite optimization,or some combination of these.It is
+              even
+proposed to investigate the approximation of some problems in P,as
+              this
+could have interesting applications in parallel computing.

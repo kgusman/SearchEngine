@@ -1,0 +1,51 @@
+Title       : SGER: Decision-making In Complex Systems
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 14,  2000 
+File        : a0090145
+
+Award Number: 0090145
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael E. Lesk                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Joseph Y. Halpern halpern@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,9237,HPCC,
+Abstract    :
+                The PI is exploring applications of decision theory to large, complex systems,
+              both from the theoretical and practical point of view.  From the theoretical
+              end, he plans to use his previously-introduced concept of plausibility measures
+              as a tool for exploring qualitative decision making.  Plausibility measures
+              generalize probability measures, and provide an elegant framework for
+              understanding what properties of an uncertainty measure are necessary to use
+              that uncertainty measure for various purposes (e.g., as a model of belief
+              revision or to apply the techniques of Bayesian networks).  The PI hopes
+              plausibility measures will enable him to "fine-tune" approaches to decision
+              making in applications where one does not have complete probability
+              distributions and only rough utilities.  As far as practical applications go,
+              the PI plans to extend his initial work on applying decision theory to query
+              optimization in databases.  When a user poses a query, there are in general
+              many different plans that can be used to compute the answer.  While all the
+              plans will compute the answer correctly, they may differ wildly in running
+              time.  What will be the best plan will in general depend on the values of
+              certain random variables (how much memory the system has available when the
+              query is run and the selectivity of various predicates).  Current query
+              optimization algorithms just use a particular value (e.g., the expected value)
+              for these variables.   The PI has previously shown how to modify these
+              algorithms to allow for there being a probability distribution associated with
+              each of these variables in order to compute the plan with the least expected
+              running time.   In theory, this approach should substantially outperform the
+              competition, but it remains to be determined experimentally whether the
+              theoretical results hold up in  practice.

@@ -1,0 +1,83 @@
+Title       : Approximation of the Global Attractors of Evolution Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 17,  2000    
+File        : a9706903
+
+Award Number: 9706903
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $174145             (Estimated)
+Investigator: Michael S. Jolly msjolly@indiana.edu  (Principal Investigator current)
+              Ciprian I. Foias  (Co-Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9216,9263,HPCC,OTHR,
+Abstract    :
+              9706903   M. Jolly            Abstract    This project concerns the long time
+              behavior of certain dissipative  physical systems.  One major component seeks
+              to locate global  attractors by interpolatory means rather than by direct
+              numerical  solution of initial value problems.  It would extend our previous
+              work  which used a Taylor expansion in complexified time at a single point in 
+              phase space.  The new approach will use several points, typically those  on
+              solutions provided either by independent computations or from  experimental
+              data.  The main mathematical tool in this effort will be  Nevalinna-Pick
+              interpolation.  The systems on which this will be tested  include the 2-D
+              Navier-Stokes (NS), Kuramoto-Sivashinsky (KS) Lorenz  equations as well as
+              simple geostrophic models.  Another major  component is to compute invariant
+              manifolds to arbitrary accuracy.  We  will use the visualization of 2-D
+              (un)stable manifolds to help  understand the geometric mechanisms behind
+              certain global bifurcations  in 3-D phase space.  This involves computing a
+              major portion of global  manifolds.  Other applications require only that the
+              manifold be  computed along particular trajectories.  In one case a center
+              manifold  will be treated in this way to compute bounded solutions to an
+              elliptic  partial differential equation (PDE) in an infinite cylinder.  In 
+              another, the dimension of phase space for the KS equation will be  effectively
+              reduced to three dimensions by restricting the flow to an  inertial manifold of
+              that dimension.  Such a reduction will allow us to  study global bifurcations
+              as described above.  The algorithms developed  to compute these manifolds will
+              also be applied to the sets  (conjectured to be manifolds) of a prescribed
+              exponential growth rate  backward in time for the NS equation.  In fact we will
+              construct such  sets as stable "manifolds" for an inverted form of the NS
+              equation in  which infinity and the origin of phase space are swapped.  These
+              sets  play a role in the interpolatory approach  to locating global 
+              attractors, and thus bring our research full circle.    The main purpose of
+              this work is to develop reliable methods to  determine whether certain dynamic
+              behavior in physical systems is  permanent, or merely temporary.  The ultimate
+              application will be to  climatology.  Since the earth's weather system has been
+              evolving for  millions of years, one would expect that unless sudden external
+              events  take place, the patterns we are living through now will more or less 
+              continue for a reasonable period of time. This is not about accurate  long time
+              forecasting, rather it is about confirming basic assumptions  regarding the
+              mathematical models used in making those predictions.  The scientific community
+              makes a tremendous effort in deriving  appropriate mathematical equations, and
+              discretizing them so they can  be solved on a computer, all to produce a
+              function of time, which  should describe some aspect of the weather.  We all
+              know how often this  computed function of time deviates from the actual weather
+              after a  relatively short time period.  The major source of this error is not 
+              clear.  Is it in the model itself?  Is it from the numerical  approximation in
+              the computer solution?  Or is it that both the model  and the approximation are
+              valid, but the actual solution is very  sensitive to small changes in the
+              initial data, and we simply need to  tighten the tolerance of error in that
+              data and in the algorithm used  at each time step.  Our work is directed at
+              distinguishing between the  first two cases and the third.  Indeed we seek to
+              validate the  model-algorithm pair which produces the forecast, as producing a 
+              pattern which is of a permanent nature, even if it is not the  particular
+              pattern we are experiencing after several days time.  The  failure of such a
+              test will indicate that either the model and/or the  method of solution are
+              faulty.  This approach can be applied to other  physical problems.  Indeed the
+              initial testing of the methods will be  done on systems less invol ved than
+              that of the weather, but which are  nevertheless of current scientific
+              interest.  In particular we consider  fundamental models of combustion, fluid
+              flow, and turbulence.

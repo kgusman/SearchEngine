@@ -1,0 +1,64 @@
+Title       : Automatic Verification of Concurrent Hardware and Software Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  2002        
+File        : a0098072
+
+Award Number: 0098072
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $374999             (Estimated)
+Investigator: Edmund M. Clarke emc@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-0098072
+Edmund Clarke
+CMU
+
+ABSTRACT:
+
+Model checking is an automatic
+              verification technique for concurrent systems such as sequential circuit design
+              and communication protocols in which temporal logic specifications are checked
+              by an exhaustive search of the state space of the concurrent system.
+              Considerable progress has been made in the last two decades, and many major
+              companies are now using model checking. To extend the potential of the method,
+              this project pursues several avenues of research that will enable larger
+              hardware systems and certain software systems to be verified.
+
+Model Checking
+              and theorem proving:  Theorem proving avoids the state explosion problem, but
+              relies heavily on human guidance and tends to get unmanageable for large
+              designs.  The project attempts to find and implement a practical methodology
+              that will combine the benefits of theorem proving and model checking and apply
+              it to verification of processors and security protocols.
+
+SAT-based Model
+              Checking: Developed recently as a complementary approach to traditional model
+              checking based on Binary Decision Diagrams (BDDs), SAT solvers tend to suffer
+              less from the state explosion problem than BDDs.  This project investigates how
+              SAT solvers and BDD techniques can be further integrated to enable verification
+              of larger systems.
+
+Software Model Checking:  Although the major successes of
+              model checking have been in hardware, the procedure was originally developed
+              for software.  The first paper by Clarke and Emerson in 1981 proposed
+              extracting the synchronization skeleton of a concurrent program and model
+              checking it.  Advances in model checking have generated renewed interest in
+              this approach.  This project will explore how to achieve this goal.
+
+
+

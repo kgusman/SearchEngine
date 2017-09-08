@@ -1,0 +1,68 @@
+Title       : ITR/SI(CISE):Optimal and Robust TCP Congestion Control
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 6,  2001  
+File        : a0113425
+
+Award Number: 0113425
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $443757             (Estimated)
+Investigator: Steven Low slow@caltech.edu  (Principal Investigator current)
+              John Doyle  (Co-Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    818/795-4571
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Abstract    :
+              Internet is undergoing an overhaul unprecedented in size, diversity, and reach,
+              with profound im- pact in all aspects of our scientific, social, economic and
+              political life through the integration of networks of communication,
+              transportation, entertainment, utilities, and finance. The stability and
+              robustness of this vital infrastructure demands a rigorous theory to understand
+              the current protocols and evolve them to meet emerging challenges. We propose
+              to develop such a theory for TCP congestion control, and use it to drastically
+              improve the stability, robustness and optimality of the current protocols. A
+              key insight is to view congestion control as a distributed asynchronous
+              computation to maxi- mize aggregate source utility over the Internet;
+              different TCP and active queue management (AQM) schemes correspond to
+              different utility functions and different algorithms to maximize them. Our
+              research hastwo components. First, we will develop a new theoretical model of
+              TCP congestion control based on duality in optimization and multivariate
+              robust control. The theory will clarify the role of source algorithms, such as
+              Tahoe, Reno and Vegas, and active queue management, such as DropTail, RED and
+              REM, in the control of networks and establish performance limits of the
+              current protocols; it will explain the effect on stability when delay,
+              topology, capacity, and load scale up; and it will provide conditions under
+              which the feedback stability ofTCP/AQM algorithms are invariant to these
+              effects. Indeed, such a theory is already emerging from our recent works. Even
+              in its currently preliminary stage, it already provides a fundamental
+              understanding on some widely observed performance and fairness behavior of the
+              current protocols, and uncovers new and surprising stability problems. For
+              example, it shows that the current protocols become unstable and exhibit
+              bifurcation when network capacity increases. Moreover, maintaining stability as
+              capacity scales up arbitrarily imposes severe constraints on how sources
+              adjust their rates (TCP) and what congestion information is fed back (AQM).
+              The current protocol does not satisfy the condition for such stability
+              invariance, and hence may be ill suited for future networks where, pulled
+              by application demand and pushed by technological advances, the capacity will
+              be large. The second component of our research is the design of practical TCP
+              and AQM protocols based on the theory, and the development of prototypes and
+              experiments to demonstrate their effectiveness. We will use the theory to
+              identify the sources of instability in the current protocols when delay,
+              network size, capacity, and traffic load scale up. We will design both
+              enhancements that incrementally evolve the current protocols, and drastically
+              new protocols that have the strongly robust stability property promised by
+              theory. As a concrete application of our algorithms, we will apply them to
+              improve TCP performance over wireless links, both because they are ubiquitous
+              and because they are likely to remain the most important bottlenecks in future
+              networks. 

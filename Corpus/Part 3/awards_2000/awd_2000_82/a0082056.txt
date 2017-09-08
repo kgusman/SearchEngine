@@ -1,0 +1,100 @@
+Title       : ITR: A New Computational Paradigm: Robustness as a Resource
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 31,  2002      
+File        : a0082056
+
+Award Number: 0082056
+Award Instr.: Continuing grant                             
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $489937             (Estimated)
+Investigator: Chee K. Yap yap@nyu.edu  (Principal Investigator current)
+              Marsha J. Berger  (Co-Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1652,1660,2865,4080,9216,HPCC,
+Abstract    :
+              The problem of numerical robustness and geometric consistency is well known
+in
+              many areas of computational science. The issue is that inexact computer
+              arith-
+metic leads to incorrect and inconsistent geometric conclusions (for
+              example, is a
+point inside or outside a triangle). While computers are getting
+              faster, software
+is not getting more robust. Indeed, the trend is towards more
+              nonrobustness. We
+propose a new computational paradigm to reverse this
+              trend.
+
+Robustness is often seen as an all-or-nothing proposition. Our new
+              paradigm
+consists in viewing robustness as a computational resource, to be
+              traded off against
+other resources such as speed. Each program defines a
+              certain robustness-speed
+trade-off curve; we want to be able to run the
+              program at any point along this
+curve. This proposal will develop the
+              technology to make this capability effcient
+and easily accessible to all
+              programmers. As a result, any programmer can produce
+nearly ordinary C/C++
+              code which can be run robustly. The implications of this
+paradigm are wide
+              ranging, and will bring the fruits of robustness research into
+mainstream
+              computing.
+We propose to (1) conduct basic research to support this new
+              computing
+paradigm, (2) to create the technology and software tools to achieve
+              this paradigm,
+and (3) to explore the applications of fast and usually robust
+              algorithms in algo-
+rithm design. For (1), we will focus on effciency issues
+              such as novel root bounds,
+incremental computation, guaranteed absolute
+              precision for elementary functions.
+For (2), we expect to significantly extend
+              the power, efficiency and usability of our
+Core Library and include
+              capabilities such as symbolic perturbation. Finally an
+example of (3) concerns
+              the general problem of checking of geometric structures and
+their applications
+              in new efficient geometric algorithms.
+We propose to apply our robustness
+              techniques and software to two significant
+applications in which nonrobustness
+              problems are well-known:
+
+* Mesh Generation: we will construct the first
+              fully robust mesh generator which
+will be deployed in a major ow solver
+              system, Cart3d.
+
+* Geometric Modeling: we will build a robust geometric
+              modeler which will be
+the first such system that is
+              precision-sensitive.
+
+This proposal involves international collaboration with
+              Professor Mehlhorn's
+Algorithms and Complexity Group at the Max-Planck
+              Institute of Computer Sci-
+ence in Germany. Our domestic collaborator are
+              Michael Aftosmis from NASA
+Ames Research Center (on mesh generation) and
+              Shankar Krishnan from AT&T
+Research Laboratories (on geometric modeling).

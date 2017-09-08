@@ -1,0 +1,54 @@
+Title       : ITR: Hardware Acceleration of Database Operations
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0220152
+
+Award Number: 0220152
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Divyakant Agrawal agrawal@cs.ucsb.edu  (Principal Investigator current)
+              Amr El Abbadi  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Hardware-based approaches to accelerate CPU intensive operations that
+arise in
+              the context of non-standard database applications are
+proposed.  Two hardware
+              technologies, namely, off-the-shelf graphics
+cards and content addressable
+              memories (CAM) that are used in
+contemporary Network Routers for very fast
+              lookups are identified.
+The graphics functionality designed primarily for
+              display applications
+can be exploited for polygon intersection in spatial
+              databases and for
+distance-based query processing. Content addressable
+              memories (CAM)
+can be gainfully deployed for accelerating join operations
+              in
+databases. In the context of new database applications, the
+              join
+constraint which is generally based on equality is being expanded
+              to
+encompass other conditions such as set-containment.  The major goal
+              of
+this research is to develop a general framework for enabling
+fine-grained
+              hardware acceleration within a commercial DBM
+

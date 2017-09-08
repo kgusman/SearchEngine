@@ -1,0 +1,66 @@
+Title       : Parallel Algorithms and Software for Steepest Descent Fast Multipole Method
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 9,  2001    
+File        : a9988347
+
+Award Number: 9988347
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $377306             (Estimated)
+Investigator: Srinivas Aluru aluru@iastate.edu  (Principal Investigator current)
+              Shanker Balasubramaniam  (Co-Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Parallel Algorithms and Software for Steepest Descent Fast Multipole
+              Method
+
+Srinivas Aluru & Shanker Balasubramaniam 
+Iowa State
+
+The goal of
+              this project is to develop theoretically rigorous and practically efficient
+              parallel algorithms for the steepest descent fast multipole method (SDFMM) and
+              to build a parallel software library for the solution of a wide variety of
+              complex problems related to electromagnetic scattering and radiation by
+              quasi-planar surfaces. Several important applications that can be studied with
+              the use of this software include soil and ocean modeling, remote sensing, long
+              range communications, applications in radio astronomy, full-wave analysis of
+              electrical circuits and the design and analysis of antennas, diffractive
+              optical gratings, solar cells and quantum well infrared detectors. Classical
+              iterative integral techniques for solving such applications require quadratic
+              work per iteration. SDFMM drastically reduces this computational complexity, to
+              linear time, in the case of uniform distributions, by exploiting the redundancy
+              in the classical representation of fields and the geometric structure of
+              quasi-planar surfaces. Efficient sequential and parallel algorithms will be
+              developed for solving non-uniform problems and for solving problems involving
+              multiple, mutually interacting quasi-planar regions. Particular emphasis will
+              be placed on developing distribution-independent algorithms, i.e., provably
+              efficient algorithms for which the run-time is independent of the distribution
+              without making any assumptions on either the range of distributions or the
+              limited precision of computer arithmetic. Research will also be carried out in
+              developing numerical methods that have a demonstrable order of accuracy. The
+              software library will be written using the Message Passing Interface (MPI).
+              Validation of the software will be carried out via comparisons against
+              experimental data as well as numerical results obtained from slower,
+              established solvers. This is an interdisciplinary research project involving
+              the knowledge of algorithm development, computational electromagnetics,
+              numerical methods and parallel computing. The research will be carried out by a
+              group of three PI's (two from Iowa State University and one from the University
+              of Illinois, Urbana Champaign), representing a mix of expertise and research
+              interests that is vital to the success of this project. All the PIs have access
+              to high-performance parallel computers and clusters, required for the software
+              development and experimental validation of its practical efficiency.

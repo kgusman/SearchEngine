@@ -1,0 +1,42 @@
+Title       : Databases for Spatial Graph Management
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 30,  1996      
+File        : a9631539
+
+Award Number: 9631539
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $103647             (Estimated)
+Investigator: Shashi Shekhar shekhar@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Databases for spatial graph management are very important for a large number of
+              applications including transportation, utilities (e.g. gas, electricity) and
+              urban management. This project addresses the needs of spatial graph management
+              in the areas of physical database design and query processing. The main
+              objective is to develop, evaluate and implement a novel spatial graph storage
+              and access method, called Connectivity-Clustered Access Method (CCAM), based on
+              graph-connectivity.  CCAM assigns the nodes of a graphs to disk pages via the
+              graph partitioning approach to maximize the Connectivity Residue Ratio, i.e.,
+              the chances that a pair of connected nodes are allocated to a common page of
+              the file.  Another objective is to develop scalable spatial graph-clustering
+              algorithms as well as incremental reorganization strategies to enhance CCAM. 
+              This project also explores strategies to enhance existing geometric access
+              methods for managing connectivity properties along with proximity properties.
+              The techniques developed in the project are evaluated with benchmark graphs
+              from Advanced Traveler Information System applications

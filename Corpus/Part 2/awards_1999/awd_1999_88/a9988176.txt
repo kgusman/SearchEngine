@@ -1,0 +1,55 @@
+Title       : General-purpose Process Migration
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  2000     
+File        : a9988176
+
+Award Number: 9988176
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $95234              (Estimated)
+Investigator: Vijay Karamcheti vijayk@cs.nyu.edu  (Principal Investigator current)
+              Zvi M. Kedem  (Co-Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Vijay Karamcheti, Zvi M. Kedem
+
+The process migration problem has received a
+              lot of attention but has produced only mixed results.  Traditionally, migration
+              mechanisms have been used to balance the load among processors in a distributed
+              system. However, most mechanisms proposed to date for general-purpose
+              applications have required extensive operating system kernel modifications.
+              Hence, conventional wisdom has held that the costs of process migration are not
+              justified by resulting benefits.  This research takes a new look at process
+              migration, recognizing both its utility for an increasing number of emerging
+              applications that can tolerate higher overheads, as well as the possibility of
+              implementing necessary mechanisms using novel user-level techniques.
+              Process
+migration enables a host of capabilities such as mobility,
+              collaborative work, distributed systems management, automatic
+              reconfigurability, and fault-tolerance.  Moreover, API
+              interception
+technologies, which permit insertion of arbitrary functionality
+              in the execution path of an application's interactions with the underlying
+              operating system, enable process migration to be implemented without kernel
+              modification. This research investigates a virtualization
+scheme that
+              decouples an application from dependencies in the operating system and the
+              physical environment. Virtualization also monitors and controls the
+              interactions and the resulting side effects between processes and operating
+              systems, making process migration
+possible.
+

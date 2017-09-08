@@ -1,0 +1,127 @@
+Title       : A Scaleable Multicast Protocol to Enable Future-Generation Large Scale
+               Multimedia Applications
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 12,  2001 
+File        : a0088026
+
+Award Number: 0088026
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Kien A. Hua kienhua@cs.ucf.edu  (Principal Investigator current)
+Sponsor     : U of Central Florida
+	      Office of Research
+	      Orlando, FL  328263252    407/823-5278
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              A picture is worth a thousand words, and the addition of sound and motion can
+              breathe life into a picture.
+As a result, the use of video in all kinds of
+              multimedia applications has become an important development
+in the 1990s. In
+              particular, Video on demand (VOD) is a core technology for many important
+              applications
+such as digital libraries, distance learning, electronic
+              commerce, entertainment, public information
+systems, etc.
+The simplest video
+              delivery technique employs a dedicated stream for each service request.
+              Obviously,
+this scheme is too expensive and has been shown to have little
+              scalability. To vastly reduce this cost, one
+can leverage multicast technology
+              to allow multiple clients to share a video stream. Unfortunately,
+              today's
+multicast technology was developed in the 80's, and was not optimized
+              for such applications. Missing a
+multicast could mean a long wait until the
+              next multicast. This limitation has recently led to a large body
+of research
+              looking for remedies at the application level.
+Application-level solutions,
+              however, cannot address all the drawbacks, particularly traffic
+              congestion
+caused by too many multicasts. In fact, this proposal is motivated
+              by application-level work done by
+the investigator in his last NSF project
+              (from 1998 to 2000). The achievements of that project, though
+significant,
+              were constrained by the limitation of standard multicast. Minimizing the
+              multicast frequency
+is crucial for any multicast-based applications,
+              particularly those running on a public network such as the
+Internet. Attaining
+              this goal requires a fundamental change in the multicast concept. The
+              investigator
+proposes enabling the multicast tree to deliver the entire video
+              to all the receivers who may subscribe to
+the multicast at different times.
+              This new capability would significantly reduce the number of
+              multicasts
+necessary, and therefore lower the network resource requirements.
+              At first sight, this seems like a mission
+impossible. But on the contrary,
+              this can be achieved by allowing the routers on the multicast tree
+              to
+intercept and cache a video stream passing through. The data can be relayed
+              to subsequent subscribers to
+further extend the multicast tree. In this
+              project, the investigator proposes to develop a suite of techniques
+to make
+              such an environment practical for future-generation large-scale multimedia
+              applications.
+To assess the potential of the proposed idea, the investigator
+              has designed an initial version of his
+Caching Multicast Protocol (CMP). The
+              preliminary study indicates that this approach has the potential
+to
+              revolutionize the way in which multimedia information is disseminated. This
+              scheme is much more
+scalable and less expensive than application-level
+              solutions. The new communication paradigm, however,
+demands new research at
+              the network level. In this project, the investigator proposes to study issues
+              such
+as cache organization, cache replacement policies, multicast routing
+              algorithms, congestion control, client
+and server protocols, etc. In addition,
+              he will implement a prototype, consisting of CMP-capable
+              routers,
+CMP-compliant servers (sources) and CMP-compliant clients
+              (destinations) to examine the practicality of
+the proposed techniques.
+The
+              significance of this project is in advancing multicast technology to enable
+              large-scale deployment
+of multimedia applications. Although many great
+              advances have been made in the field of information
+technology, none have had
+              as great and direct an impact on the daily lives of ordinary citizens as
+              multime-dia
+information systems. As such, the benefits of this research will
+              reach many people in society. In terms
+of education, this project will help to
+              support three doctoral students. The investigator has a good record
+of using
+              NSF projects to train students for teaching careers. After these students
+              graduate, they can help
+to spread the CMP expertise developed from this
+              project to their new institutions. Other graduate students
+taking our advanced
+              databases course can also benefit from this work by experimenting with various
+              new
+multicast applications on the CMP testbed. To reach out to members of
+              communities, materials resulting
+from this research will be disseminated on
+              the investigator's research group website.

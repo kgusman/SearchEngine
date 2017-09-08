@@ -1,0 +1,114 @@
+Title       : Computation and Complexity at Higher-Types
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2001      
+File        : a0098198
+
+Award Number: 0098198
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2001      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $186781             (Estimated)
+Investigator: James S. Royer royer@ecs.syr.edu  (Principal Investigator current)
+Sponsor     : Syracuse University
+	      113 Bowne Hall
+	      Syracuse, NY  132441200    315/443-2807
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              A higher-type function is a function that takes as arguments, or
+produces as
+              results, other functions.  Higher-type functions have
+proven to be valuable
+              tools in both theoretical and practical work
+in programming.  Indeed,
+              higher-type constructs (e.g., classes,
+components, modules, etc.)  pervade
+              contemporary computing.  There
+is a great deal of useful theoretical work in
+              support of reasoning
+about the correctness of programs that make use of
+              higher-order
+features.  In contrast, there has been relatively little
+              theoretical
+work in support of reasoning about the performance (e.g., time
+              and
+space usage) of such programs.  It is clearly a great folly to
+ignore
+              correctness in program development, but it is nearly as great
+a folly to
+              ignore performance.  Thus there is a serious gap in the
+scientific
+              underpinnings of programs that use higher-type
+features---even benchmarking a
+              higher-type procedure is problematic
+in the absence of a theory to help
+              interpret what the results mean.
+
+Higher-type complexity theory extends the
+              general program of
+computational complexity to a higher-type setting.  This
+              project
+proposes the investigation of several topics in
+              higher-type
+complexity theory, particularly its relation to the recent
+              results
+on realizer models of higher-type computation.  These
+              topics
+include:
+
+1. Continuity and feasible computation.  The (Scott)
+              continuous
+functionals of finite type are a key object of study in
+              programming
+language theory. There are examples of continuous functionals
+              of
+finite type that are arguably feasibly computable, but do not fit
+within
+              prior notions of higher-type feasibility.  This project
+proposes use an
+              appropriate polynomial-time version of Kleene's
+associate/realizer framework
+              to develop and investigate notions of
+feasible computation in the context of
+              the continuous functionals.
+
+2. Prompt fixed points.  Various sorts of fixed
+              points are another
+key tool in the theory of programming languages, especially
+              in
+explaining forms of recursion.  The project proposes to explore
+certain
+              form of feasible, or prompt, fixed points so as to provide a
+general context
+              for recent work on feasible higher-type recursions.
+
+3. Efficient programming
+              systems for SR. The sequentially realizable
+functionals (SR) is another class
+              of functionals that have been the
+focus of some important in programming
+              languages theory.  A key
+question about SR is whether there is a
+              complexity-theoretically
+reasonable programming language for the class.  The
+              PI has a partial
+negative result related to this.  The project proposes to
+              extend
+this work. 
+
+4. Maximal notions of higher-type computation.  The
+              project proposes
+to show that the (effective) continuous and the (effective)
+              SR
+functionals both satisfy a structural maximality property
+              amongst
+higher-type notions of computations.  

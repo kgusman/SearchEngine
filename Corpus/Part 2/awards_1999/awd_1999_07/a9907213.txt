@@ -1,0 +1,73 @@
+Title       : Distributed Supervisory Control: Theory and Applications
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 2,  2001     
+File        : a9907213
+
+Award Number: 9907213
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1999    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $224051             (Estimated)
+Investigator: Vijay K. Garg garg@ece.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              We propose to develop theory of distributed supervisory control of discrete
+              events systems in the context of two applications - distributed debugging and
+              distributed simulation.  Most of the previous work in distributed control is
+              based on the assumption that the controllers do not communicate.  Control
+              without the ability to communicate leads to very restrictive
+              behavior.
+Recently, there has been some important work to incorporate
+              communication in the theory of distributed control.  Ricker and Rudie have used
+              the modal logic for supervisory control.  Barrett and LaFortune have also
+              tackled the problem of communication.  They provide necessary and sufficient
+              conditions for control by communicating supervisory controllers (with myopic
+              and non-myopic expectations of future communication).  Although these works
+              provides many insights, they have limitations in application to real systems,
+              For example they assume that there are no communication delays and that
+              controllers are synchronized on the initial state of the system.  These
+              assumptions are not true in the present day communication networks in which
+              communication delays play an important role in decision making.  The objective
+              of the proposed project is to remove such assumptions and then apply the theory
+              to some distributed applications.
+The first application we will consider is
+              that of debugging distributed programs.  Many of the problems in distributed
+              debugging can be cast into the framework of observation and Control.  While
+              issues in observation of a distributed program has been studied by various
+              researchers, the issue of control has received less attention.  The abstraction
+              of automatic control provides great power to the user while testing a
+              distributed program.  The ability to control the message ordering is useful for
+              the programmer to test the program with different message and event ordering. 
+              Similarly, if a distributed program is interacting with an external observer,
+              the relative speed of different processes may affect the outcome.  In the
+              proposed method, the system will automatically control the speed of various
+              processes so that the desired predicate becomes true.
+The second application
+              that we will consider is that of distributed simulation.  There are primarily
+              two approaches for distributed simulation - conservative and optimistic. 
+              Recently, we have developed a third approach called K-optimistic algorithm
+              which allows the optimism to be changed during the execution of the program. 
+              Our hypothesis is that with the proper control of optimism, the K-optimistic
+              algorithm can run faster than both conservative as well as optimistic
+              algorithm.  We propose to develop an adaptive control algorithm for distributed
+              simulation and measure its performance with respect to traditional
+              algorithms.
+We note here that the proposed project requires expertise in
+              supervisory control of discrete, event systems as well as distributed systems. 
+              We have worked extensively in both of these areas and one of the goals of the
+              project is cross-fertilization of ideas from one discipline to the other. 
+
+

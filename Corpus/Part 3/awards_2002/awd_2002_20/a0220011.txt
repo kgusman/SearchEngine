@@ -1,0 +1,66 @@
+Title       : ITR: Optimization of Reconfigurable Architectures for Efficient Implementation
+               of Particle Filters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 23,  2002 
+File        : a0220011
+
+Award Number: 0220011
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $359806             (Estimated)
+Investigator: Petar M. Djuric djuric@ece.sunysb.edu  (Principal Investigator current)
+              Sangjin Hong  (Co-Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0220011
+Djuric, Petar
+SUNY @ Stony Brook
+
+Optimization of
+              Reconfigurable Architectures for Efficient Implementation of 
+Particle
+              Filters
+
+In recent years particle filters have attracted great attention in
+              several research communities. These filters are used in problems where
+              time-varying  signals must be processed in real time and the objective is to
+              estimate various unknowns of the signals and to detect events described by the
+              signals. The standard solutions of such problems in many applications are based
+              on the 
+Kalman or extended Kalman filters. In situations when the problems are
+              highly nonlinear or the noise that distorts the signals is non-Gaussian, the
+              Kalman filters provide solutions that may be far from optimal.  
+A major
+              drawback of the particle filters is that their implementation is 
+              computationally very intensive. They are, however, inherently parallelizable,
+              and special hardware can be built for their implementation that can meet the
+              stringent requirements of real-time processing. In this research,
+              
+reconfigurable and physically feasible VLSI architectures for particle
+              filters are developed. In the development of these architectures, many
+              important problems are researched. The most critical of them is the balancing
+              of hardware and software, which itself is tightly related to other important
+              issues. They include reductions of computational complexities by
+              transformations and 
+approximations, investigation of the degree of
+              parallelism implemented in the filter, investigation of various interconnection
+              mechanisms, random communication schemes, hardware optimization, and design of
+              low power VLSI processors. This effort also includes building of reconfigurable
+              hardware so that it is suitable for different types of particle filters. 
+
+

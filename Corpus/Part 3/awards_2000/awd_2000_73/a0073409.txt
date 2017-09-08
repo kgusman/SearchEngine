@@ -1,0 +1,92 @@
+Title       : Mobility Tolerant Adaptive Multicast Protocols for Ad Hoc Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 8,  2000       
+File        : a0073409
+
+Award Number: 0073409
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $299998             (Estimated)
+Investigator: Sandeep Gupta   (Principal Investigator current)
+              Pradip Srimani  (Co-Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Mobile ad hoc networks consisting of mobile hosts that communicate via
+              wireless radio channels are being increasingly used for local area networks,
+              law enforcement, military operations and myriad of other applications.  Most of
+              these applications, if not all, involves sending messages from one host
+              (source) to a specified group of hosts and there can be a large number of such
+              groups in the network for diverse kinds of applications.  Multi-cast involves
+              sending messages to a restricted group of processes and forms the basis for
+              efficient implementation of group based applications on a distributed system. 
+              Many protocols
+for efficiently performing multi-cast in static networks are
+              available while at this time, a number of critical technical issues in
+              designing such protocols for ad hoc networks remain unresolved, including
+              elegant solutions to issues of power limitations and high speed data, effective
+              methods of assurance for losslessness of the messages during transition period
+              due to host mobility and the ability to contain the effect of any topology
+              change locally.  In mobile ad hoc networks the topology of the network changes
+              with node movements, variations in the radio propagation conditions, and
+              depletion of battery power of the nodes.  The rate of topological changes can
+              be different at different times, as well as in different regions of the
+              network.  The network can experience frequent network partitioning and may
+              require reconfiguration of the partitioned subnetworks.
+     The proposed
+              research will take a combined theoretical and experimental approach and will
+              apply this to emerging distributed applications.  In this proposal the
+              researchers with combined expertise in the fields of group based communications
+              in networks and stabilization of protocols in asynchronous distributed
+              computing systems are proposing an innovative integrated research project in
+              fault-tolerant multi-cast protocol design for mobile ad hoc networks.  The
+              proposed design intends to demonstrate a variety of impressive benefits
+              including:
+  (1) The protocol will support mixed traffic of variable rates
+              with the ability to adapt fast with ease to sudden changes in traffic via a
+              dynamic link cost estimator (that depends on channel bandwidth,
+              quality-of-service (QoS) to the applications, battery power of the hosts,
+              etc.)
+  (2) The protocol is self-stabilizing in that any topological change
+              due to mobility of nodes will trigger the protocol and the optimal multicast
+              tree will be for the new topology and quickly reconstructed.
+  (3) The
+              self-stabilizing protocols are augmented with features that guarantees that the
+              service remains available while the multi-cast tree is being adapted to the new
+              topology (i.e., multicast messages present in the system during the recovery
+              period are not lost).
+ (4) The self-stabilization features of the protocol are
+              triggered in a controlled manner so as to not overwhelm the system in presence
+              of high mobility by using efficient fault-containment strategies.
+ (5)  The
+              research intends to develop a new execution model for the self-stabilizing
+              algorithms in a distributed system based on the real-life conditions of an ad
+              hoc network as opposed to the traditional adversarial oracle model for such
+              algorithms.  The researchers  expect that this will lead to the use of the
+              concept of self-stabilization to solving other real life problems involving
+              recovery from a transient behavior.
+     Efficient solutions for performing
+              multi-casting in mobile ad hoc networks with the above benefits will rely on
+              what support underlying data link layer can provide and how the network layer
+              multi-cast protocol can exploit these facilities to intelligently control the
+              overheads while providing desirable QoS.  This proposal will take a synergistic
+              approach in designing the multi-cast protocols so as to make them compatible
+              with the underlying networking layers.  The developed protocols will be
+              extensivaly evaluated through simulation.  Further a prototype protocol stack
+              will be implemented on the top of IEEE 802.11 MAC layer to evaluate the
+              improvement in QoS to distributed media distribution and collaboration
+              applications.
+

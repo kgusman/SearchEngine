@@ -1,0 +1,48 @@
+Title       : Parametric Design of Embedded Real-Time Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 8,  2002      
+File        : a9804679
+
+Award Number: 9804679
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $200154             (Estimated)
+Investigator: Samrat Bhattacharjee bobby@cs.umd.edu  (Principal Investigator current)
+              Richard R. Gerber  (Principal Investigator former)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The goal of this research is to develop scalable, automated  methods to design
+              high-performance embedded systems - particularly  those with real-time latency
+              and throughput requirements.  In such  systems, computations flow through
+              heterogeneous interacting  components, which are managed by local
+              resource-schedulers and  drivers.  Hence, a key design problem is that of
+              balancing and  tuning the local resource-managers, so that they collaboratively
+               meet the global end-to-end performance objectives. The proposed  approach
+              involves parametrically transforming the end-to-end  constraints into local
+              (per-component) constraints, and then  solving them for optimal on-line
+              performance.  Specifically, the  method works by (1) extracting performance
+              models for key stages  along the all data paths; (2) hierarchically grouping
+              the per-  component models into larger system-level prototypes; and (3)  using
+              the system-level models to help calibrate the local resource  management
+              policies. Step (3) is called "design synthesis."  To  carry it out, the
+              proposed method relies on off-line algorithms to  synthesize optimal CPU/IO
+              bandwidth allocations for all pipeline  stages. After synthesis, the analytic
+              estimates are checked via  simulation. Then the system is integrated, and
+              rechecked via on-  line benchmarking. Two reference applications are proposed
+              to  validate this framework: (1) A software realization of a large-  scale
+              radar signal processor, to be run on several workstation-  clusters; and (2) a
+              video server system connected via 100Mbs  partitioned Ethernet.

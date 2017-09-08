@@ -1,0 +1,40 @@
+Title       : Automatic Blocking of Dense Matrix Codes for Memory Hierarchies
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 20,  1999     
+File        : a9720211
+
+Award Number: 9720211
+Award Instr.: Continuing grant                             
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $368688             (Estimated)
+Investigator: Keshav Pingali pingali@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The next generation of high-performance machines will be shared-memory machines
+              with deep memory hierarchies. It is important to execute dense matrix
+              computations efficiently on these platforms, because a considerable portion of
+              the time spent in engineering or scientific simulations is spent in performing
+              dense matrix computations. However, there is as yet little experience in
+              writing portable software or in generating code automatically for machines with
+              deep memory hierarchies. Existing libraries like LAPACK are targeted for
+              uniprocessors with a two-level memory hierarchy, and must be rewritten for
+              machines with deeper memory hierarchies. Existing compiler techniques focus
+              mainly on so-called perfectly nested loops, and are inadequate even for
+              two-level memory hierarchies.  The PI's have recently developed a novel
+              approach called data shackling to overcome the limitations of existing
+              techniques. In this project they extend this approach to uniprocessors with a
+              deep memory hierarchy, and to shared-memory multiprocessors.

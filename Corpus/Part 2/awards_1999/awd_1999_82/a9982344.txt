@@ -1,0 +1,66 @@
+Title       : EVITA - A Prototype System for Efficient Visualization and Interrogation of
+               Terascale Datasets
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : February 21,  2001  
+File        : a9982344
+
+Award Number: 9982344
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2000    
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $1267500            (Estimated)
+Investigator: James E. Fowler fowler@ece.msstate.edu  (Principal Investigator current)
+              Raghu K. Machiraju  (Principal Investigator former)
+              Bharat K. Soni  (Co-Principal Investigator current)
+              David S. Thompson  (Co-Principal Investigator current)
+              William J. Schroeder  (Co-Principal Investigator current)
+Sponsor     : Mississippi State Univ
+	      
+	      Mississippi State, MS  39762    662/325-2131
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1595,9216,HPCC,
+Abstract    :
+              Large-scale computational simulations of physical phenomena produce data of
+              unprecedented size (terabytes and petabytes). Unfortunately, development of
+              appropriate data management and visualization techniques has not kept pace with
+              the size and complexity of such datasets. For many simulations, the storage of
+              the data itself, not to mention seeing and understanding it, is a serious
+              problem. This project responds to this by developing a prototype, integrated
+              system (EVITA) to facilitate exploration of terascale datasets. This system
+              will be concerned with the storage and representation of very large datasets,
+              their analysis and manipulation and rendering and presentation of the resulting
+              images. This will allow unprecedented access to our CFD data sets, which we
+              expect to lead to new fundamental understanding.
+
+The project focuses on
+              time-varying datasets from computational fluid dynamic/hydrodynamic and
+              oceanographic applications on structured, rectilinear or curvilinear grids;
+              however, the EVITA system is applicable as a general visualization environment
+              for other terascale datasets with similar underlying structure. Additionally,
+              the system is amenable to distributed- or even remote-visualization uses. The
+              cornerstone of the EVITA system is a representational scheme that allows ranked
+              access to macroscopic features in the dataset. The data and grid are
+              transformed using wavelet techniques while a feature-detection algorithm is
+              used to identify and rank contextually significant features directly. This
+              ranking is used to generate a four-dimensional significance map that
+              incorporates application-specific knowledge, which in turn allows an encoding
+              with efficient compression and a progressive representation of significant
+              features in the data. From this, the EVITA system creates as a preview an
+              efficient, "lossy" image of the desired data and lets the user select regions
+              of interest (ROls) for further enrichment. These ' Rols are given higher
+              priority in the encoded bitstream, and subsequently displayed faster.
+              Preliminary results demonstrate the efficacy of this approach. The project
+              takes a novel approach to terascale visualization by capitalizing on the
+              expertise of a multidisciplinary team to integrate research from several
+              disciplines into the EVITA system. This both brings many perspectives to bear
+              on the problem, and ensures that our results are practically useful.
+

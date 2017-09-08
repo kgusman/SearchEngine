@@ -1,0 +1,52 @@
+Title       : Algorithms and Software for High-Resolution Imaging
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  1998    
+File        : a9732070
+
+Award Number: 9732070
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $191088             (Estimated)
+Investigator: Robert J. Plemmons plemmons@mthcsc.wfu.edu  (Principal Investigator current)
+              Todd C. Torgersen  (Co-Principal Investigator current)
+Sponsor     : Wake Forest University
+	      300 South Hawthrone Road
+	      Winston-Salem, NC  27109    336/716-5000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              High-resolution images are essential in many important areas of  science,
+              engineering, law enforcement, and medicine.  The need to  extract meaningful
+              information from degraded images is vital in  many areas such as aero-optics
+              imaging, surveillance photography,  confocal microscopy, and medical imaging. 
+              Sources of image  degradation vary among application areas, but include
+              atmospheric  turbulence, turbidity in a fluid medium, motion blur, and 
+              numerous other effects.    Image processing tasks such as image enhancement,
+              reconstruction,  and restoration are computationally intensive; the underlying 
+              physical models require the solution to  data-massive and often ill-posed
+              inverse problems where the  solution may not depend continuously on the data. 
+              All such  problems require significant research into the algorithm- 
+              architecture-application interaction and can profit substantially  from the
+              availability of high-performance software systems.    Iterative solvers that
+              exploit both the structure of the problem,  and the parallel computing
+              platform, appear to be the most viable  candidates for  diverse, large scale
+              image enhancement problems.    This research project includes the following
+              technical topics:    a) New iterative algorithms with effective regularization 
+              strategies for blind deconvolution image restoration using  adaptive filtering
+              and multichannel phase diversity methods.    b) Acceleration of the iterative
+              algorithms utilizing Krylov  subspace based multi-level preconditioning.    c)
+              New algorithms which partially mitigate the ill-posed nature  of the image
+              restoration problem by integrating numerical and  symbolic computational
+              methods.    d) Development of a high performance software package, entitled 
+              "Parallel Image Processing Environment (pipe})", which utilizes  the image
+              processing algorithms developed in the course of this  research.

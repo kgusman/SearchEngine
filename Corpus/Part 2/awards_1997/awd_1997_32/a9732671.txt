@@ -1,0 +1,51 @@
+Title       : Numerical Linear Algebra and Eigenvalue Computations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 13,  1998       
+File        : a9732671
+
+Award Number: 9732671
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1998       
+Expires     : April 30,  2002      (Estimated)
+Expected
+Total Amt.  : $163377             (Estimated)
+Investigator: Ralph Byers byers@math.ukans.edu  (Principal Investigator current)
+Sponsor     : U of Kansas Ctr for Res In
+	      2385 Irving Hill Drive
+	      Lawrence, KS  660457563    785/864-3441
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will investigate numerical algorithms for solving  moderate to
+              large scale eigenvalue and generalized eigenvalue  problems.  A variant QR
+              algorithm is being developed for solving  the algebraic eigenvalue problem. 
+              The new algorithm avoids the  phenomenon of shift blurring that dramatically
+              slows the rate of  convergence of the conventional multi-shift QR algorithm. 
+              The  new approach shows promise of being able to use nearly any number  of
+              simultaneous shifts without substantial adverse affect on the  converge rate. 
+              It should achieve "BLAS-3 71 speeds on  computers with advanced architectures
+              including hierarchical  cache storage and instruction pipelining.  In addition,
+              the  variant algorithm will use an early deflation procedure that  promises to
+              substantially reduce the number of Hessenberg QR  steps needed.    A
+              generalized algebra of relations is being used to analyze and  modify
+              algorithms for moderately large scale eigenvalue problems.  These include the
+              inverse free spectral divide and conquer  algorithm and other generalizations
+              of the matrix sign function.    The location/verification problem for the large
+              scale eigenvalue  problem will also be attacked.  The initial approach will use
+              a  rational function approximation to the trace of a spectral  projection in
+              order to count eigenvalues inside a target region.  The computational work
+              required by this approach is expected not  to be closely related to the number
+              of eigenvalues in the region.  This may make it attractive for locating
+              eigenvalue clusters.  In  the verification setting, many eigenvalues in  the
+              target region have already been located by some other  numerical method, e.g.,
+              a Krylov subspace method.  In this case,  the approximate trace of the spectral
+              projector determines  whether there are unlocated eigenvalues in the target
+              region.

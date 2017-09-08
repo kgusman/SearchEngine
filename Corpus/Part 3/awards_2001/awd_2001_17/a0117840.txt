@@ -1,0 +1,106 @@
+Title       : An Adaptive Protocol Suite for The Next Generation Wireless Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 13,  2001 
+File        : a0117840
+
+Award Number: 0117840
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $1355070            (Estimated)
+Investigator: Ian F. Akyildiz ian@ee.gatech.edu  (Principal Investigator current)
+              Faramarz Fekri  (Co-Principal Investigator current)
+              Yucel Altunbasak  (Co-Principal Investigator current)
+              Raghupathy Sivakumar  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The technology and business of wireless communications systems have
+              madespectacular progress since the
+first systems were introduced fifteen years
+              ago. Currently proposed third generation (3G) systems offer roaming, higher
+              capacity, and increased exibility for low bandwidth services, such as voice
+              calls and messaging. While future wireless systems (fourth generation (4G) and
+              higher) are envisioned to provide higher capacity, they are also expected to
+              support heterogeneity in the following aspects: (i) physical environments
+              (ranging from high-bandwidth low error-rate pico-cells to low-bandwidth high
+              error-rate macro-cells); (ii) network architectures (cellular, peer-to-peer, or
+              other hybrid network models); and (iii) applications (ranging from low-data
+              rate non-real-time applications to high-data rate real-time applications). In
+              this project, we will investigate several key elements that are necessary to
+              realize a protocol stack for a mobile station in 4G wireless systems. The
+              ultimate objective is to develop an adaptive protocol suite that would adapt
+              itself to the different aspects of heterogeneity exhibited by the next
+              generation wireless systems. In particular we willinvestigate the following
+              problems:
+1. Application Layer
+Error-rate scalability: We propose an adaptive
+              multiple description algorithm for error-rate scalability.
+Data-rate
+              scalability: We introduce an optimal dynamic rate shaping technique to be
+              utilized in the case of
+congestion or bandwidth variations.
+Jointly optimal
+              real-time video streaming system: We propose a real-time video streaming system
+              integrates the proposed unequal error protection mechanism, the multiple
+              description coding technique, and the error-concealment method.
+2.
+              Security
+An adaptive and scalable security protocols: We propose to employ
+              finite-field wavelets to develop novel and
+innovative public key security
+              techniques that address ubiquity, scalability, mobility, and usability.
+We
+              propose efficient security protocols for mobile devices with limited processing
+              power.
+3. Transport Layer
+Heterogeneous Packet Flows: We proposetoinvestigate
+              transport protocols that can support a much richer
+set of semantics, adapting
+              to the reliability semantics chosen by applications on a per-frame
+              basis.
+Heterogeneous Network Characteristics: We propose to build a single
+              transport protocol that will adapt itself
+to the characteristics of a variety
+              of wireless network environments.
+Heterogeneous Network Architectures: We
+              propose to explore transport layer adaptivity to the underlying
+network model
+              (cellular, peer-to-peer, or hybrid).
+4. Network Layer
+Application
+              Requirements: We will explore network layer constructs that enable
+              heterogeneous applications
+to implement custom network layer
+              policies.
+Heterogeneous Network Architectures: We will explore the use of
+              novel state propagation schemes and virtual
+backbone approaches to enhance
+              transport layer performance and help in adapting to heterogeneous
+              network
+models.
+5. Data Link Layer
+Rate-compatible error control coding: We
+              develop new types of rate-compatible convolutional codes using
+finite-field
+              wavelet transforms.
+     The protocol suite requires a new Protocol Suite
+              Integration Plan. The project will consist of four phases. During the first
+              phase we will design the details of all the proposed
+              components/protocols/methods of the protocol suite.  During the second phase we
+              will assess their performance in a simulation testbed. During the third phase
+              we will integrate the individual modules into the suite and finally in the
+              fourth phase we willprototype the proposed protocol suite and we will assess
+              its performance on a physical testbed.

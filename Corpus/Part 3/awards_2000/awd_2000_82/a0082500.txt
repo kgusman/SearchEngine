@@ -1,0 +1,56 @@
+Title       : ITR: Cryptographic Protocol Transformations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0082500
+
+Award Number: 0082500
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $109977             (Estimated)
+Investigator: Jonathan K. Millen millen@csl.sri.com  (Principal Investigator current)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1660,1667,9218,HPCC,
+Abstract    :
+              One of the most theoretically challenging and practically important
+problems in
+              modern computer science is the analysis of cryptographic
+authentication
+              protocols, which play an essential role in Internet
+privacy and security. 
+              There is a general cryptographic protocol
+specification environment developed
+              at SRI that includes a high-level
+specification language, CAPSL, and an
+              intermediate language, CIL,
+based on a multiset rewriting rule model.  The
+              objective of this
+project is to write a translator to generate prototype
+              protocol
+implementations in Java from CAPSL specifications.  The
+              translator
+will use existing Java classes and APIs (application
+              program
+interfaces) for communication and encryption tasks. 
+              Concrete
+interface routines will be generated from the CIL representation.
+              The
+advantage of this approach is that the originally specified protocol
+can
+              be shown to be free of design flaws through analysis of the CIL
+using other
+              tools.
+
+

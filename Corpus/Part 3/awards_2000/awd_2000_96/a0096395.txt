@@ -1,0 +1,86 @@
+Title       : Analysis and Design of Volume Photonic Metal Grid Antenna Elements
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : November 15,  2001  
+File        : a0096395
+
+Award Number: 0096395
+Award Instr.: Standard Grant                               
+Prgm Manager: Kawthar A. Zaki                         
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 1,  2001      
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $140000             (Estimated)
+Investigator: Sergey N. Makarov makarov@wpi.edu  (Principal Investigator current)
+Sponsor     : Worcester Polytech Inst
+	      100 Institute Road
+	      Worcester, MA  016092247    508/831-5000
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              0096395
+Makarov
+
+A two-year program to investigate transmitting, scattering,
+              and focusing phenomena of finite rectangular volume metal grids is proposed.
+              The grid cell sizes are on the order of a wavelength or smaller. The project
+              results will make a contribution to the development of large-scale antennas,
+              including base station antennas, satellite antennas, and radars. One of the
+              impacts could be the replacement of a reflecting metal sheet or a tiny metal
+              texture by a specially designed 3D metal grid with frequency-selective
+              reflectivity properties. Numerical and theoretical analyses will take up 65% of
+              the project work while experimentations will consume the remaining 35%.  Today,
+              numerical modeling of finite metal grids (and of any finite photonic crystals)
+              constitutes considerable difficulties and is very time consuming. The speed
+              issue of a numerical solver is a most critical parameter for the design
+              process: many hundreds of trials may be necessary to identify a proper metal
+              grid structure. As part of this proposal, a new iterative solver for
+              magnetic/electric field integral equations will be developed. Its idea is to
+              convert the primary equation to the normal (energy) form and then apply a
+              generalized minimum residual (GMRES) optimization. The current solver
+              performance is reported in the project description. Preliminary studies
+              indicate that the solver is fast and requires a few tens of iterations for
+              complicated metal grid structures. To date the solver uses the simplest
+              (piecewise-constant) basis functions and none of the special anti-resonant
+              techniques. The first goal of the project is therefore a modification and
+              further development of the solver in order to be able to compute resonant
+              volume metal grids with 100-225 cells and with 2 x 10 to the fifth power - 1 x
+              10 to the sixth power boundary elements in 20-40 iterations.  Next, extensive
+              numerical modeling will be performed with respect to three grid parameters: 
+              cell spacing, thickness, and depth. The fourth parameter is grid curvature for
+              curved meshes or a shaping factor for shaped grids. The objectives of the
+              proposed modeling efforts are:  
+
+i. Roadmaps of transmission spectra for
+              various grid patterns.
+ii. Search for shaped grids providing unusual
+              transmission/focusing properties, including higher focusing gain than
+              equivalent solid reflectors or lenses.
+
+The first objective is becoming the
+              standard step in the development of photonic metallic/dielectric filters. The
+              desired pass band properties for the present project will beidentified using
+              industrial links. The second objective is more questionable, but, as explained
+              in the project description, may offer significant benefits. The experimental
+              part of the work includes fabrication of the metal grids, transmission spectra
+              measurements using a network analyzer and two small horn antennas, and surface
+              current distribution measurements on the grid using an infrared detection
+              system and a high-power microwave feed.
+The proposal includes a substantial
+              educational component geared toward general antenna theory. The teaching plan
+              foresees one graduate (two years) project on a fast method of moments for
+              antenna design, one or two short undergraduate projects, and incorporation of
+              antenna-related materials into undergraduate and graduate courses, with
+              particular emphasis on genetic optimization algorithms. As a result of the
+              teaching plan, an introductory inantenna toolboxla for Matlab will be created.
+              The toolbox will include receiving and transmitting (delta gap feed) antenna
+              elements such as wires, rectangular meshes of wires,
+plates, and possibly
+              convex reflectors.
+

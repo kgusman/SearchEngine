@@ -1,0 +1,72 @@
+Title       : Efficient Computation in Finite Groups
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 25,  2001 
+File        : a0097995
+
+Award Number: 0097995
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $121698             (Estimated)
+Investigator: Akos Seress akos@math.ohio-state.edu  (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Road
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The proposed research is in the area of efficient manipulation of finite groups
+              and estimation of their parameters. Potential application areas include
+              computational group theory, graph isomorphism testing (of relevance to chemical
+              documentation), efficient interconnection networks based on groups, and
+              group-based cryptography.
+
+Our work belongs to the areas of the Theory of
+              Computing, Group Theory, Symbolic Algebra, and Combinatorics. Building on our
+              previous results in the complexity theory of group algorithms, we propose to
+              pursue several directions of research.
+
+The main focus is the design and
+              analysis of efficient algorithms for high degree per-mutation groups and for
+              large dimensional matrix groups. We are looking for algorithms which satisfy
+              both the requirements of fast asymptotic running time and good practical
+              performance. In the permutation group setting, our nearly linear time
+              algorithms achieved this goal for a quite broad class of algorithmic tasks; now
+              we would like to extend this class of algorithms. We implemented most of our
+              algorithms in the GAP programming language and they are available for the
+              public as part of the standard library package of GAP. These algorithms
+              represent the long-awaited marriage of theoretical and practical approaches to
+              computational permutation group theory. We intend to continue the
+              implementation effort.
+
+Our major goal is the first polynomial-time algorithm
+              for the basic manipulation of arbitrary matrix groups. In matrix groups defined
+              over a field of characteristic p, we would like to give a polynomial-time
+              algorithm computing the order and a composition series, provided that we can
+              compute discrete logarithms in the fields GF(pe ). Our recent algorithms for
+              the constructive recognition of certain classes of finite simple groups are a
+              major ingredient in this plan.
+
+Finally, we plan to investigate some "pure"
+              algebraic and combinatorial problems, which are motivated by our algorithmic
+              investigations or became more accessible through the methodological advances
+              achieved in connection with our algorithmic results. In particular, we are
+              interested in base size problems for permutation groups, problems concerning
+              the action of groups on the power set of the permutation domain, and problems
+              related to Cayley graphs: the diameter of Cayley graphs and the investigation
+              of non-Cayley graphs with vertex-transitive automorphism group. Small bases are
+              important for fast implementations and for improving the running time estimates
+              of algorithms. Estimates of diameters of Cayley graphs are closely related to
+              the expansion rate and through this to a host of basic questions of the Theory
+              of Computing and Probability Theory.
+
+

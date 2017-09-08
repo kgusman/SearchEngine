@@ -1,0 +1,77 @@
+Title       : Novel Giga Sampling Analog-to-Digital Conversion for Direct Digital Receiver
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 3,  2000     
+File        : a9979341
+
+Award Number: 9979341
+Award Instr.: Continuing grant                             
+Prgm Manager: James Mink                              
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1999    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Milton Feng mfeng@hsic.micro.uiuc.edu  (Principal Investigator current)
+              Gregory E. Stillman  (Co-Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1519      INTEGRATIVE SYSTEMS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              
+
+
+ECS-9979341
+Feng
+
+
+A series convergence of voice with data at device
+              and network levels, and wireless with wireline network, and network
+              architectures converging on packet switching have direct implications for the
+              rapid need of large market at 60 GHz picocelltechnology. The goal of NSF 99-68
+              is to address this need and to develop fourth generation (4G) high information
+              capacity wireless mobile communication systems which are characterized by high
+              throughput, mixed traffic, high data rates and wide bandwidth up to 60 GHz. We
+              propose to study the direct conversion digital receiver as shown in Fig. 1
+              where the 60 GHz signal will be mixed down to I to 2 GHz IF signal via HBT VCO
+              technology. The digital receivers can be used to receive any type of modulation
+              standard including analog (AM, FM) or digital (QPSK, QAM, FSK, GMSK, etc.).
+              Furthermore, the same receiver can be used for both analog and digitally
+              modulated signals. Tuning is performed using a digital down converter (DDQ and
+              filter chip called a channelizer. Since the direct conversion digital receiver
+              performs analog to digital conversion directly from the modulated bandpass
+              signal to maximize the modulated signal bandwidth, the user can eliminate most
+              of the front-end RF components and perform the same function using more
+              reliable digital components. The high speed data stream thus created is then
+              presented to a digital demodulator which separates the individual channels and
+              extracts the modulated information. The efforts in the design of integrated
+              circuits for wireless communication receivers have focused on developing
+              suitable ADC architectures and efficient circuit implementation techniques as
+              well as associated device technologies. However, results reported so far have
+              been insufficient to meet the required specification for 4G wireless mobile
+              communication application due to their speed and resolution limitations.
+
+4G
+              wireless mobile communication systems require high-data rates as well as wide
+              bandwidth. To meet 4G requirement, the input bandwidth of the ADC should be
+              sufficiently flat to prevent distortions and non-linearities in the resulting
+              digital representation. Thus a high-resolution, high-speed analog to digital
+              converter (ADC) becomes the most important hardware element in successfully
+              developing this communication system. Therefore, we propose a new Giga-sampling
+              analog to digital converter with the following specifications: 2.5 W power
+              consumption, 15 bit resolution, 90 dB SFDR, 84 dB SINAD (Signal to Noise and
+              Distortion Ratio), and 14 ENOB at 1.5 GHz using a novel ADC architecture, the
+              folding and interpolation based 15 bit subranging A/D converter. This ADC
+              requires the development of 200 GHz fT InGaP/GaAs or InGaAs/InP HBT process. By
+              achieving these specifications, we may reach data rates equivalent to 22.5 Giga
+              bits/sec. No existing ADC product is currently available which is compatible
+              with the proposed target.
+
+

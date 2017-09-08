@@ -1,0 +1,70 @@
+Title       : ANN for Identification and Analysis of Continuous-Time Models in Energy
+               Processing Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : April 19,  1999     
+File        : a9820977
+
+Award Number: 9820977
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $198593             (Estimated)
+Investigator: Aleksandar M. Stankovic astankov@ece.neu.edu  (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9820977
+Stankovic
+
+The main goal of this research project is to develop a
+              comprehensive framework for reduced-order dynamical modeling in energy
+              processing systems.  Control-oriented applications of the proposed method are
+              envisioned in power systems (for derivation of load models, for reduction of
+              conventional models in transient stability studies, and for controller design),
+              electric drives (drives with elastic shafts), and motion control systems
+              (multiple drives coupled through the mechanical subsystem).
+Our hypothesis is
+              that the physical phenomena under investigation often have significantly lower
+              dimensions than the agglomeration of ambient coordinate systems in which
+              component models originate.  We propose a methodology that combines features of
+              analytical and physics-based approaches with artificial neural networks (ANNs),
+              and aims to identify continuous-time differential/algebraic (DAE) models of
+              energy processing systems.
+The proposed research program combines mathematical
+              analysis and practical insight from energy engineering.  Our reduced-order
+              models ("dynamic equivalents") are formulated in continuous time, which is
+              consistent with component models derived from physical principles.  There
+              exists a number of important differences between standard discrete and
+              continuous dynamical systems.  Models based on discrete-time ANNs may predict
+              spurious transients and have attractors that are impossible for continuous-time
+              systems.  Our dynamic equivalent comprises differential and algebraic
+              relationships, which is widely accepted as the most accurate representation of
+              energy processing systems.  The procedures that will be developed in this
+              program are uniquely suited for identification of systems that exhibit multiple
+              time scales (singularly perturbed systems) which are very common in energy
+              processing.  Resulting ANN models are based on measurements, or on (possibly
+              multiple) simulations of detailed models that are to be simplified.  We
+              describe initial results along these directions in two examples from power
+              systems and electric machines.
+This project will develop ANN architectures and
+              training methods that are specific for the modeling tasks in energy processing
+              systems.  In particular, new connections and comparisons between standard
+              (physics-based) models and ANN structures will be explored in the domain of 
+              "gray-box"  models which combine the two classes.  New developments will be
+              evaluated within three modeling approaches: (i) time-domain, (ii) standard
+              phasor, and (iii) dynamic phasor framework.
+
+
+

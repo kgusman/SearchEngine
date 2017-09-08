@@ -1,0 +1,52 @@
+Title       : Routing and Multicast Algorithms for LEO Satellite Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 14,  2001       
+File        : a0087762
+
+Award Number: 0087762
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2001       
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $299809             (Estimated)
+Investigator: Ian F. Akyildiz ian@ee.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                  Low Earth Orbit (LEO) satellite systems provide global coverage with short
+              round trip delays.  With these properties they will play a crucial role in the
+              global Internet to support real-time and non-real-time applications.  Routing
+              and multicasting in LEO satellite systems are the key issues to support these
+              services.      Non-real-time applications are characterized by relaxed delay
+              bounds.  They are also insensitive to the variations in delay.  Thus,
+              datagram-based routing schemes can be used to support this type of traffic. 
+              the Semi-Centralized Datagram Routing Protocol (SC-DRP) is proposed to support
+              connectionless routing in LEO satellite networks.  The SC-DRP aims to foward
+              the packets in the LEO satellite network on minimum delay paths.  SC-DRP
+              utilized LEO and MEO/GEO satellites to calculate routing tables,  which will
+              increase the reliability and delay performance of datagram traffic in satellite
+              networks, where the data traffic is carried in the LEO satellite network.  The
+              Datagram Multicast Protocol (DMP) is proposed to support connectionless
+              multicasting.  DMP is based on the SC-DRP and creates shortest path trees.     
+                                                                     Real-time applications
+              impose strict delay bounds and are sensitive to delay varations.  Thus,
+              real-time traffic can be supported by connection-oriented routing schemes.  The
+              changing connectivity pattern of satellites affects the estbalished paths in
+              LEO satellite networks.  Thus, determining stable paths is very important.  The
+              Delay-Coupled Probabilistic Routing Protocol (DC-PRP) is proposed for
+              connection-oriented routing in LEO satellite networks.  DC-PRP computes paths
+              conforming to the delay and delay jitter bounds of the connections.  The
+              Connection-Oriented Multicast Protocol (LEOCOM) is proposed for the
+              connection-oriented multicasting, which creates delay-constrained multicast
+              trees.  The multicast tree length is optimized using a greedy search algorithm.

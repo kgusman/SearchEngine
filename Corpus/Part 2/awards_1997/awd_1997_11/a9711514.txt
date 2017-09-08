@@ -1,0 +1,44 @@
+Title       : Data Layout Optimizations for High-Performance Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 1,  1997     
+File        : a9711514
+
+Award Number: 9711514
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $186000             (Estimated)
+Investigator: Chau-Wen Tseng tseng@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Compilation technology has contributed to the success of  computational science
+              by allowing users to achieve high  program performance without worrying
+              excessively about  details of the underlying hardware architecture. Most 
+              compiler optimizations focus on improving computation  efficiency, but the
+              growing disparity between processor and  memory speeds has made exploiting
+              reuse of registers and  cache important as well. This project will explore 
+              techniques for improving program performance by modifying  the data layout in a
+              program to improving spatial locality  and avoid adverse memory effects such as
+              conflict misses and  false sharing.  Target optimizations include modifying the
+               base addresses of variables, changing fields offsets within  structures,
+              group-and-transpose of related data, padding,  transposing, and reindexing
+              array dimensions.  The main goal  of this project is to develop heuristics for
+              guiding data  layout optimizations, both individually and as part of an 
+              overall optimization strategy which includes computation  transformations.  To
+              evaluate the impact on scientific  applications, optimizations will be
+              implemented as passes in  the Stanford SUIF compiler and tested on benchmark
+              suites  such as Perfect, NAS, and SPEC for both scalar and parallel 
+              architectures.

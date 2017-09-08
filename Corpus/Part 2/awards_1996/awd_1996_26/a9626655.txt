@@ -1,0 +1,48 @@
+Title       : Pseudo-Random Recurrent Artificial Neural Networks for Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : March 16,  1999     
+File        : a9626655
+
+Award Number: 9626655
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 15,  1996     
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $110776             (Estimated)
+Investigator: K. Wendy Tang wtang@ece.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 0000,9102,OTHR,
+Abstract    :
+              Tang 9626655   A novel concept, the pseudo-random recurrent artificial neural
+              networks (ANN) will be used in control applications.  The Pseudo-random
+              recurrent ANN is a novel concept derived from previous work on pseudo-random
+              interconnection networks.  Instead of using a fully connected feedforward or
+              recurrent network, a pseudo-random ANN is connected with a pseudo-random graph
+              that can provide almost random connections of lots of neurons with a  small
+              number of links at each neuron.  The idea is to use the large number of neurons
+              to capture the non-linear nature of the control system; and yet the small
+              number of links makes real-time implementation feasible.   The underlying
+              pseudo-random graph, known as Cayley graphs have been the densest known graphs
+              which means they have the largest number of nodes for a given degree and
+              diameter.  By exploiting the node-symmetric property of these graphs,  simple
+              simultaneous broadcasting their signals to all other neurons  can be developed.
+               The result is a "brain-like" ANN that have a large number  of neurons
+              (hundreds and thousands) connected in an almost random manner with a relatively
+              small number of connections.  These pseudo-random ANNs will be implemented with
+              reinforcement control strategies such as the backpropagation of utility and the
+              heuristic dynamic programming for some existing  non-linear control
+              applications.  The investigation of ANNs that do not require complete
+              connections of neurons will pave the way for a new form of ANN that has more
+              resemblance to its biological counterpart.

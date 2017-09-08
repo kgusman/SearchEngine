@@ -1,0 +1,111 @@
+Title       : VISUALIZATION: Advanced Weather Data Visualization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 23,  2002 
+File        : a0222675
+
+Award Number: 0222675
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $298311             (Estimated)
+Investigator: Jason J. Levit jlevit@ou.edu  (Principal Investigator current)
+              David S. Ebert  (Co-Principal Investigator current)
+              Charles D. Hansen  (Co-Principal Investigator current)
+Sponsor     : U of Oklahoma
+	      1000 Asp Avenue, Room 314
+	      Norman, OK  73019    405/325-4757
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The atmospheric science community requires visualization of observed, measured,
+              and simulated data for accurate analysis of the atmosphere and improved weather
+              prediction. Unlike many scientific communities, weather observers and
+              atmospheric scientists rely heavily on important visual cues in the atmosphere
+              to determine the potential severity of many storms.
+However, the current
+              state-of-the-art in weather visualization from systems such as Vis5D, VisAD, or
+              D3D, lack important visual information that is crucial for atmospheric
+              scientists to fully understand the development and evolution of weather
+              systems.
+Recognizing the importance of these visual cues, this project will
+              significantly enhance the visualization of weather data through the development
+              of innovative software techniques that will provide more accurate and effective
+              visual representations of weather data. Simple visualization practices, such as
+              depth cueing, isosurface texturing, volume shading, shadows, and correct
+              natural color effects (such as sunlight) are absent in current weather data
+              visualization software.  While advanced computer graphics applications (e.g.,
+              movie production) have effectively used these techniques for some time, they
+              have yet to be applied in a robust way to weather data. In this project, we
+              will not only fill this gap to create improved, visually accurate weather data
+              visualization, but also increase the quantity and clarity of the information
+              conveyed from the resulting visualizations.  Using mature numerical weather
+              prediction software, the Advanced Regional Prediction System (ARPS), to
+              generate numerically simulated severe weather events, new software techniques
+              will be developed to enhance the visualization of this data and begin a new era
+              in weather data visualization.
+Beyond current capabilities of standard
+              isosurfaces, scalar volume renderings, and two-dimensional images lies
+              important rendering capabilities for weather visualization, such as shaded
+              volumes, shadows, light-transport, and simulated natural cloud modeling. In
+              this project, we will develop, enhance, and apply these techniques to
+              atmospheric data in ways which have yet to be attempted.
+The primary goal of
+              our research is to produce visually accurate images of weather model data that
+              will provide more accurate information than current methods and use the same
+              cognitive model and analysis process as the forecasters already use, allowing
+              them to increase their effectiveness. 
+We will additionally develop techniques
+              to effectively incorporate non-visual data and allow the selective
+              visualization of the visual / non-visual weather data to enable better
+              understanding of the relationships between these variables and quantities. Our
+              goal is to develop these improved techniques, while also allowing interactive
+              exploration of the observed, measured, and model data.
+Through the use of
+              programmable graphics hardware with three-dimensional texture-mapping, we will
+              implement techniques for interactive visually accurate weather visualization
+              with low-albedo illumination, physics-based atmospheric scattering and
+              attenuation, and volumetric shadowing. 
+We will also implement slower
+              high-albedo illumination models at coarser resolutions to give approximate
+              multiple scattering effects and utilize this scattering information in the
+              illumination calculation per-pixel fragment through three-dimensional texture
+              mapping hardware. We will use perceptually motivated mapping of non-visual
+              weather quantities (e.g., temperature, dewpoint, wind, atmospheric pressure,
+              vorticity) to glyphs, particles, and isosurfaces to provide more information in
+              an easily understandable manner, extending on our previous work in 
+              rceptually-motivated glyph rendering, fast isosurface rendering, and volume
+              illustration. Given the capabilities of current graphics hardware, we won't be
+              able to produce truly visually accurate images and animations of time-varying
+              atmospheric data for at least the first half of the project, although we expect
+              to be able to produce good approximations at interactive rates. We also plan to
+              incorporate simple key-frame recording tools into the visualization system for
+              off-line generation of atmospheric visualizations.
+The weather models produced
+              contain multiple variables at each spatial location. By employing
+              scientific-based combinations of these variables, it is possible to localize
+              specific features contained in these models. We will extend our preliminary
+              work in the development of multi-dimensional transfer function methods for
+              multivariate data to effectively convey information from this complex model
+              data. This improved interactive weather visualization system will increase the
+              effectiveness of atmospheric analysis, improve severe storm forecasting, and
+              enhance the formulation, parameterizations, and physics of numerical weather
+              prediction models. 
+Additionally, it will improve the training of weather
+              observers and atmospheric science students (both undergraduate and graduate),
+              and provide understandable animations to help in basic weather education at the
+              K-12 level. 
+The ultimate goal of this research is to produce a visually
+              accurate, interactive rendering of a numerical severe thunderstorm simulation,
+              thereby enhancing the ability of both the scientist and general user to
+              discover and explore atmospheric processes in an unprecedented way.
+
+

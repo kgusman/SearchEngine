@@ -1,0 +1,131 @@
+Title       : CAREER: Integrated Traffic Management Based on Accurate and Practical Packet
+               Fair Queueing Algorithms
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 26,  2001 
+File        : a9624979
+
+Award Number: 9624979
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $210000             (Estimated)
+Investigator: Hui Zhang hzhang@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 1045,9217,9218,HPCC,
+Abstract    :
+              Multiple network services include guaranteed real-time service, predicted 
+              real-time service, and best-effort service. While there has been extensive 
+              research on designing traffic management algorithms for each individual 
+              service, it is unclear how these algorithms can be integrated into one  network
+              and how they will interact with each other. This problem becomes  more complex
+              when the network also needs to support link-sharing, which  allows resource
+              sharing among applications that require different network  services but belong
+              to the same administrative class.  The service  disciplines at the switching
+              nodes, which determine the order in which  packets are serviced, play a
+              critical role in controlling the interactions  among different traffic streams,
+              different service classes, and different  link sharing classes. The
+              hypothetical Fluid Fair Queueing (FFQ)  discipline, which can serve multiple
+              traffic streams simultaneously  according to pre-specified service shares,
+              provides an ideal framework to  integrate traffic management algorithms for
+              different services and link  sharing. Since FFQ uses an idealized fluid model
+              that cannot be implemented  in the real-world, Packet Fair Queueing (PFQ)
+              algorithms are needed to  approximate its behavior. Previously proposed PFQ
+              algorithms including the  most popular Weighted Fair Queueing all introduce
+              substantial inaccuracy in  approximating FFQ, which significantly affects
+              traffic management and link  sharing algorithms. It is unclear whether accurate
+              PFQ's exist, and if they  do, whether they can be simple enough to be
+              implementable at high speed.  The goal of this research is to demonstrate that
+              accurate and practical PFQ  algorithms can be designed and that they provide
+              the foundation for a  framework under which traffic management algorithms for
+              different services  and link sharing can be supported in an integrated fashion.
+              Aspects treated  include (a) the fundamental tradeoff between complexity and
+              accuracy of PFQ  algorithms; (b) issues in integrating different traffic
+              management  algorithms and link-sharing into one framework and fundamental
+              tradeoffs  between accuracy of PFQ algorithms and the efficiency of
+              link-sharing and  traffic management algorithms; (d) admission control
+              algorithms for  providing end-to-end performance guarantees using PFQ
+              algorithms under not  only rate-proportional but also general resource
+              assignments; e) more  flexible real-time services such as renegotiated service
+              and rate-adaptive  service based on PFQ algorithms.  The study is conducted via
+              a combination  of analysis, simulation, and implementation. The results of this
+              work will  have a significant impact on the design of integrated traffic
+              management  algorithms in both the Internet and ATM environments.              
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                            

@@ -1,0 +1,43 @@
+Title       : Buffer Management for Parallel I/O Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 26,  2001      
+File        : a9704562
+
+Award Number: 9704562
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1997      
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $203317             (Estimated)
+Investigator: Peter J. Varman pjv@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,9251,HPCC,
+Abstract    :
+              This research deals with  issues related to the efficient  use of parallel I/O
+              systems. These include problems of  data  placement, caching, and prefetching
+              and their interaction in  determining system performance. The project involves
+              the  development of robust parallel I/O models that incorporate  these
+              requirements, and designing new  algorithms to obtain  desired performance
+              levels. This includes  identifying the  appropriate policies for resource
+              management in the context  of both single and multiple interacting
+              computational and  I/O streams, and the development of suitable algorithmic 
+              strategies. The focus is on on-line buffer management and  prefetching
+              algorithms with bounded lookahead. The use of  randomization in data placement
+              and replacement, and issues  arising in their implementation are under
+              consideration.  Theoretical analysis of the algorithms is based on a 
+              competitive framework to compare different on-line methods,  and identify
+              promising candidates. Suitable candidates will  be implemented and their
+              performance validated empirically.  The areas of impact include, though  are
+              not restricted to,  data-intensive applications like modern database  and 
+              multimedia systems.

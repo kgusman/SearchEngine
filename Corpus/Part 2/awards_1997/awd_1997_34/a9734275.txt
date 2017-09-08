@@ -1,0 +1,51 @@
+Title       : CAREER: Software Synthesis for Real-time Signal Processing Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 5,  2003   
+File        : a9734275
+
+Award Number: 9734275
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 15,  1998   
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Shuvra Shikhar Bhattacharyya ssb@eng.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              A major challenge facing designers for digital signal processing (DSP) systems 
+              is the rapidly increasing complexity of deriving sufficiently efficient and 
+              predictable software implementations.  In consumer-oriented application domains
+               such as wireless communications and PC multimedia, extremely competitive
+              time-to-  market pressure together with the continually escalating complexity
+              of  applications and processor architectures require companies to sustain
+              enormous  human resource expenditures for software development.  Similarly, in
+              very high  performance applications such as radar signal processing, it remains
+              a  significant challenge to partition programs and manage interprocessor 
+              communication in a manner that effectively exploits large-scale multiprocessor 
+              computer systems.  Over the past several years, it has become widely recognized
+               that dataflow is an attractive programming model for computer-aided DSP system
+               design tools.  This project is investigating algorithms that automatically or 
+              interactively map high-level, dataflow programs for DSP into efficient software
+               implementations.    Specifically, this research is exploring (1) a thorough
+              integration of dataflow  programming and imperative programming formats, and an
+              efficient integration of  techniques for compiling dataflow with the existing
+              techniques for compiling  imperative languages; (2) the development of
+              automatic and interactive software  tools for mapping dataflow models into
+              implementations on multiprocessor  architectures, with emphasis on efficiently
+              managing the interactions between  scheduling, interprocessor communication,
+              and synchronization; and (3) the  development of algorithms for compiling
+              dataflow computations models into  uniprocessor implementations in such a way
+              that program and data memory  requirements, invocation overhead of individual
+              subprograms, and latency are  optimized.

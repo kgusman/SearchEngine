@@ -1,0 +1,125 @@
+Title       : CAREER: Scalable, High Performance Network Simulations Using Reverse Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 28,  2001  
+File        : a0133488
+
+Award Number: 0133488
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2002       
+Expires     : May 31,  2007        (Estimated)
+Expected
+Total Amt.  : $374999             (Estimated)
+Investigator: Christopher Carothers chrisc@cs.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Internet data traffic is doubling each year. If this rate continues,
+data
+              traffic will surpass voice traffic around the year 2002. However,
+not included
+              in the Internet traffic growth rate estimates are the
+potential data generated
+              by web phones and mobile web-enabled PDAs,
+nor are the effects of future,
+              unforeseen ``killer apps'' that may
+great increase the current demand for
+              bandwidth. Thus, the data growth
+rate could be significantly higher in the
+              aggregate and at the very
+least, some ``hot sites'' may experience a
+              quadrupling of traffic each
+year.  Unfortunately, due to technological
+              barriers, bandwidth growth
+rates per fiber will be limited to only doubling
+              per
+year. Consequently, short falls in available bandwidth may result,
+thus
+              placing the burden to effectively manage bandwidth on overworked,
+network
+              management teams. Network managers will require techniques and
+tools that
+              enable them to "nowcast" not only their local network, but
+surrounding
+              networks as well in order to ensure, stable, effective
+bandwidth allocation in
+              the face of dynamic, high-bandwidth, next
+generation ``killer web
+              apps''.
+
+To address this "nowcasting" problem, we propose the use of a
+              new
+parallel simulation modeling technique called "reverse
+computation".
+              Here, network models designed for parallel execution are
+able to execute both
+              forwards and backwards in simulated time. For
+simplistic network models,
+              reverse computation has been shown to
+reduce the state memory requirements of
+              parallel optimistic
+simulations by a factor of 100 and increase the overall
+              speedup by a
+factor of 6 when compared to classic state-saving techniques used
+              to
+support rollback processing in optimistic simulations. We also
+              believe
+reverse computation will allow large-scale network models to scale
+              to
+much larger processor configurations as well as enable a more
+efficient
+              design of simulation experiments.
+
+The overall goal of this project is to
+              understand the fundamental
+functional and performance limits of reverse
+              computation when applied
+to the modeling of large-scale systems. Because of
+              its importance and
+impact, we have selected network models as our driving
+              application.
+To achieve this goal, we propose to investigate reverse
+              computation in
+the following five major research thrust areas:
+
+1. the
+              design and implementation of perfectly reversible computation
+algorithms for
+              event-list management, and time management to enable
+scalable, efficient
+              optimistic event processing,
+
+2. the development of processes and techniques
+              to effectively model a
+large-scale, multi-protocol network scenario in a
+              parallel simulation,
+reverse computation framework,
+
+3. the comparison and
+              contrast of reverse computation performance to
+state-of-the-art conservative
+              synchronization techniques,
+
+4. the creation of new methods and techniques
+              for the design of
+simulation experiments that take advantage of reverse
+              computation,
+and
+
+5. the exploration of the linkages between reverse
+              computation,
+quantum computing and classic parallel/distributed computing
+              that
+could lead to a more unified view of these disparate classes
+              of
+computation.

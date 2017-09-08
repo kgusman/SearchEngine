@@ -1,0 +1,79 @@
+Title       : Monitoring, Visualization, and Control of High-Speed Networks with Emphasis on
+               Multi-Layer Protocols and Human- in-the-Loop
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 4,  2000   
+File        : a9714698
+
+Award Number: 9714698
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $1200059            (Estimated)
+Investigator: Jonathan S. Turner jst@cs.wustl.edu  (Principal Investigator current)
+              Gurudatta Parulkar  (Principal Investigator former)
+              Ron K. Cytron  (Co-Principal Investigator current)
+              Eileen T. Kraemer  (Co-Principal Investigator current)
+              Douglas C. Schmidt  (Co-Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Computer networks (such as the Internet and the Global Information
+              Infrastructure) have become critical for education, research, business, and
+              military operations.  Recent advances in network infrastructure technology
+              (such as gigabit Ethernet, ATM and Ipv6) have enabled the development of high
+              performance local area and wide area networks.  Efficient management of these
+              networks is essential. However, existing algorithmic methods for managing
+              networks have not matured to the point where performance bottleneck and fault
+              detection, isolation, correlation, and correction can be automated scalably. 
+              Thus, it is crucial to build efficient and user-friendly network monitoring,
+              visualization, and control (NMVC) systems.     The proposed effort is aimed at
+              the design, prototype implementation, and demonstration of a highly scalable
+              NMVC system with advanced algorithmic and human-in-the-loop capability.  This
+              capability allows network administrators to calibrate and fine-tune network and
+              application parameters in real-time according to observed traffic patterns. 
+              The goal of the NMVC system is to ensure adequate quality of service to network
+              users, while maintaining high network resource utilization.    The proposed
+              system leverages the following innovations to meet its objectives:    * An
+              inexpensive, yet high performance network monitoring and observation probe that
+              does not interfere with high speed network traffic.  This probe can be
+              programmed to collect pertinent information at any layer in the protocol
+              hierarchy (including application-specific information).    * An efficient
+              probing mechanism for endsystems (i.e., workstations and servers) that can
+              collect relevant performance  satistics from both applications and kernel
+              resident protocols (such as TCP/IP in Unix).  The endsystem probes introduce
+              minimum interference with protocol operation and can be dynamically and
+              remotely invoked and configured for the information of interest.      * A
+              highly flexible and highly efficient software network man agement agent design
+              that extends the functionality and scalability of the network probe by
+              filtering data based on programmable criteria (such as protocol header
+              attributes or application-level frames).  This agent can be configured,
+              installed, and controlled remotely at network nodes by administrators or
+              automated management applications.    * Efficient online event ordering
+              algorithms that can help synthesize and display a consistent view of network
+              health, status, and performance using events collected throughout a large-scale
+              high speed network.    * A View Choreographer that allows management
+              applications and administrators to specify the mapping of network events to
+              higher-level events and to visualization objects and updates.  The
+              Choreographer uses semantically-guided filtering algorithms to enable low
+              latency updates of displays that present an accurate  real-time snapshot of
+              current network state.      * A visualization system that is highly
+              configurable and can support multiple simultaneous real-time display views of a
+              large-scale network.      * Algorithmic and interactive steering mechanisms
+              that perform critical network management functions such as protocol parameter
+              tuning for better end-to-end performance, bandwidth enforcement, fault
+              detection and recovery, and quality of service monitoring and control.      * A
+              prototype system to be demonstrated on a high speed IP/ATM testbed running a
+              variety of applications (including multimedia teleconferencing systems and high
+              speed digital imaging).

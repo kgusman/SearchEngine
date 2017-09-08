@@ -1,0 +1,54 @@
+Title       : Global Optimization and Parallel Processing of Nonlinear Problems in Engineering
+               Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 29,  1999 
+File        : a9632316
+
+Award Number: 9632316
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1996      
+Expires     : December 31,  1999   (Estimated)
+Expected
+Total Amt.  : $318229             (Estimated)
+Investigator: Benjamin W. Wah b-wah@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              The objective of this project is to develop an efficient nonlinear optimization 
+              method - NOVEL: Nonlinear Optimization Via External Lead - and the supporting 
+              hardware/software to solve large-scale nonlinear optimization problems in 
+              operations research, digital signal processing, and neural-network learning.
+              Such  a method will allow many important application problems in these areas to
+              be  solved better as well as faster than existing methods. The method first 
+              transforms nonlinear constrained optimization problems using Lagrange
+              multipliers  into unconstrained optimization problems. This transformation
+              allows both  constrained and unconstrained problems to be solved in a unified
+              framework. The  key idea of the method is to use a user-defined trace to pull a
+              search out of a  local optimum (a local saddle point in constrained
+              optimization and a local  minimum in unconstrained optimization) without having
+              to restart it from a new  starting point. The proposed method has a good
+              balance between global search and  local search. In global search, NOVEL relies
+              on two counteracting forces: local  gradient information that drives the search
+              to a local optimum, and a  deterministic trace that leads the search out of a
+              local optimum once it gets  there. The effect of the trace on the search
+              trajectory is expressed in terms of  the distance between the current position
+              of the trajectory and that of the  trace. Good starting points identified in
+              the global-search phase are then  searched more extensively using pure local
+              searches. The proposed research  consists of four aspects: refinement of the
+              NOVEL method, parallel processing,  extension to mixed-nonlinear optimization
+              problems, and applications of the  methods developed to solve problems in
+              operations research, digital signal  processing, and neural-network learning.

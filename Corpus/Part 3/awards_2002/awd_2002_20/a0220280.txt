@@ -1,0 +1,50 @@
+Title       : ITR: Sublinear Algorithms for Massive Data Sets
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 20,  2002    
+File        : a0220280
+
+Award Number: 0220280
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2007       (Estimated)
+Expected
+Total Amt.  : $390000             (Estimated)
+Investigator: Shanmugavelayut Muthukrishnan muthu@cs.rutgers.edu  (Principal Investigator current)
+              Piotr Indyk  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Manipulating large scale data sources leads to question what are efficient
+              algorithms. Even linear time algorithms may be much too slow on truly massive
+              data. Similarly, even using linear space
+to store the data may be unreasonable
+              when input data that is generated is far too voluminous. Applications abound
+              where these constraints are natural. For example, data stores that archive web
+              pages on the Internet, all telephone call records or molecular sequences are
+              massive, and even linear time algorithms to process them prove slow. Data
+              sources such as network traffic measurements are voluminous and rarely get
+              archived; instead, it is desirable to process them as they are generated to
+              obtain suitable sublinear space representations. Two approaches to building
+              sublinear algorithms are sampling and streaming. In sampling, algorithms
+              examine a (small) subset of input and solve problems of interest in sublinear
+              time, typically to some provable approximation. While sampling has been studied
+              in Probability and Statistics for decades, truly sublinear algorithms for
+              sophisticated tasks such as clustering and building fourier representations
+              have only recently been obtained. The algorithms should have solid theoretical
+              foundations, and should be amenable to analysis using rigorous theoretical
+              tools. However, some of the algorithms will be also implemented and subjected
+              to experimental evaluation. It is expected that the algorithms developed in the
+              context of this project
+will have significant practical impact.
+

@@ -1,0 +1,43 @@
+Title       : An Experimentally-Designed Video Signal Processor Architecture
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : July 22,  1997      
+File        : a9408462
+
+Award Number: 9408462
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1995    
+Expires     : December 31,  1997   (Estimated)
+Expected
+Total Amt.  : $609420             (Estimated)
+Investigator: Wayne H. Wolf wolf@ee.princeton.edu  (Principal Investigator current)
+              Andrew Wolfe  (Principal Investigator former)
+              Bede Liu  (Co-Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is designing an architecture and compiler for video  signal
+              processing, with collaboration among researchers in computer  architecture,
+              compilers, and signal processing.  The architecture  is a very long instruction
+              word machine dedicated to the  applications, which means that a large number of
+              small data paths  are used.  Address generation may receive hardware support. 
+              The  compiler differs in several ways from general purpose compilers:  
+              optimization is sought even at the cost of high compilation times,  and memory
+              usage will be explicitly optimized.  Architecture and  compiler design are
+              being evaluated by experimentation with  application codes, including video
+              compression, image enhancement,  and machine vision.  The architecture is being
+              simulated on a  network of high-performance workstations, while the compiler is
+               being constructed based on the Gnu C compiler.  The architecture  and compiler
+              will be iteratively improved to result in a high-  performance system and a set
+              of design principles.

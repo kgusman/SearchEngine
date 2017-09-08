@@ -1,0 +1,45 @@
+Title       : Optimum Training Schemes for Recurrent Neural Network Nonlinear Filters
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 2,  1996     
+File        : a9616391
+
+Award Number: 9616391
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1996  
+Expires     : May 31,  1998        (Estimated)
+Expected
+Total Amt.  : $49568              (Estimated)
+Investigator: Oluseyi O. Olurotimi   (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 0000,OTHR,
+Abstract    :
+              9616391 Olurotimi  Recurrent neural networks (RNN) are nonlinear dynamical
+              filters, and it has been shown by J. Lo that they are capable of converging to
+              the minimum variance filter for a signal process.  However, unlike conventional
+              filtering techniques that utilize top-down, parameteric design to realize the
+              filters, the RNN approach is a data-driven synthesis approach.  the neural
+              network approach is justified by several universal approximation theorems that
+              ensure that the neural network form is theoretically sufficient for
+              implementing these tasks.    However, one feature of neural network design
+              familiar to designers and users alike is that may different (e.g. in weights)
+              networks can be constructed to solve the same problem.  This project will
+              employ novel concepts and quantitative results on the behavior of RNN's in
+              noise in order to address this problem.  Recognizing the important existence
+              results of Lo, and using recent results of Olurotimi and Das, the PI develops a
+              modified training measure.  The resulting ordered derivatives training scheme
+              of Werbos the searches not for must any optimum weight set, but for the
+              restricted class of optimum weight sets that also increase the estimator
+              efficiency.  The proposed research will result in s design scheme expected to
+              significantly reduce the design time of nonlinear RNN filters.

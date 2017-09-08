@@ -1,0 +1,45 @@
+Title       : ITR: Advanced Algorithms for Spatial-Temporal Interactions in Distributed GIS
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0081434
+
+Award Number: 0081434
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $489620             (Estimated)
+Investigator: Lin Liu lin.liu@uc.edu  (Principal Investigator current)
+              Raj K. Bhatnagar  (Co-Principal Investigator current)
+Sponsor     : U of Cincinnati
+	      Mail Location 627
+	      Cincinnati, OH  45221    513/556-6000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1655,1660,9218,HPCC,
+Abstract    :
+              This research focuses on the analysis of spatial interactions in distributed GIS
+              environments. Data related to systems of spatial interactions includes spatial
+              flows and locational and attribute data pertaining to origins and destinations.
+              Given that these datasets are distributed across multiple nodes of a computer
+              network, this research aims to: 1) study mechanisms of data partitioning and
+              develop a metadata structure that describes the partition; 2) develop
+              decomposable algorithms for gravity modeling that minimize communication cost;
+              and 3) develop efficient algorithms for learning and classifying flow patterns
+              using distributed data sources. The approach is to let the databases reside at
+              their native sites. The algorithms dynamically decompose themselves into
+              partial computations that are executed at individual database sites, and local
+              results are composed to obtain the same global results that would have been
+              obtained if the databases had been moved to a common site. The algorithms can
+              find the decompositions to match the distribution of data across the network.
+              This research will have significant impact on many problems that need to
+              process distributed data. For example, it can enable GIS systems to analyze
+              spatial-temporal datasets distributed over the Internet without having to move
+              the databases to a common site.

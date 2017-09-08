@@ -1,0 +1,151 @@
+Title       : Secure and Proactive DNS
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 7,  2002   
+File        : a0129627
+
+Award Number: 0129627
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2002  
+Expires     : January 31,  2005    (Estimated)
+Expected
+Total Amt.  : $366253             (Estimated)
+Investigator: Giuseppe Ateniese ateniese@cs.jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 1766      Strategic Tech for Internet
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9217,HPCC,
+Abstract    :
+              The Domain Name System (DNS) is a hierarchically distributed
+database that
+              provides information fundamental to Internet
+operations, such as translating
+              between human readable host names
+and Internet Protocol (IP) addresses. Due to
+              the importance of
+the information served by DNS, there is a strong demand
+              for
+securing communication within the DNS system. The current
+(insecure) DNS
+              does not prevent attackers from modifying or
+injecting DNS messages. Users
+              accessing hosts on the Internet
+rely on the correct translation of host names
+              to IP addresses by
+the DNS. A typical attack, referred to as DNS spoofing,
+              allows an
+attacker to manipulate DNS answers on their way to the users.
+If an
+              attacker makes changes in the DNS tables of a single
+server, those changes
+              will propagate across the Internet as a
+viral infection.  Increasingly, DNS is
+              also being used to perform
+load distribution among replicated servers. For
+              instance,
+companies such as Akamai have used DNS to provide Web
+              content
+distribution. Moreover, there is consensus that since DNS is a
+global
+              and available database, it can be employed as a Public Key
+Infrastructure
+              (PKI) which would enable e-commerce applications.
+
+Securing DNS means
+              providing data origin authentication and
+integrity protection.  Existing
+              proposals for securing DNS are
+mainly based on public-key cryptography. In
+              this proposal, the researcher
+describes a new approach based on standard
+              symmetric (or
+secret-key) cryptographic techniques. The researcher introduces
+              the concept of
+DNS symmetric certificate that are used to create a trusted
+              path
+from the DNS root server to a server that is authoritative for a
+portion
+              of the DNS tree. This strategy is very similar to the one
+introduced by Davis
+              and Swick and symmetric certificates can be
+seen as a sort of tickets in the
+              Kerberos system which create a
+trusted path from the authentication server to
+              the destination
+server going through the ticket-granting server. DNS
+              symmetric
+certificate are as manageable as public-key certificates with
+              the
+exception that they cannot be shared, which is not generally
+required in
+              the DNS system.  The project solution enables a wide range of
+secure services
+              previously believed impractical or too difficult
+to manage, such as mutual
+              authentication and key revocation.
+Moreover, the gain in terms of
+              computational complexity, network
+traffic, and storage requirements is
+              impressive when compared
+with public-key cryptography based approaches.  The
+              research has clear
+ideas on how to define a secure DNS system based on
+              symmetric-key
+cryptography. The researcher proposes to build such a system and
+              make public
+the prototype implementation.
+
+The second part of the proposed
+              research, would focus on a still
+unresolved problem: A DNS server represents a
+              single point of
+attack which could easily be compromised. The researcher would
+              like to
+investigate the possibility to distribute the role of a single
+DNS
+              server among several servers.  The research proposes a proactive DNS
+system
+              that can survive component failures (whether malicious or
+not) by combining
+              standard techniques of decentralized storage
+and dynamic self-maintenance. The
+              researchers approach would allow DNS
+servers to automatically recover from
+              possible, undetected
+break-ins and then maintain uninterrupted security.  The
+              researchers propose to
+use the proactive security model, which provides a
+              method for
+maintaining the overall security of a system even when
+              individual
+components are repeatedly broken into and controlled by
+              an
+attacker, as long as not too many servers are compromised at the
+same
+              time. The approach employed by the proactive security model
+is to first
+              distribute the cryptographic capabilities among
+several servers, next have the
+              server periodically engage in a
+refreshment protocol. Information gathered by
+              an attacker before
+a refreshment period becomes useless to attack the system
+              in the
+future. The researcher proposes to define, and build, an architecture
+              that
+combines decentralized storage system technologies, data
+redundancy and
+              encoding, and dynamic self-maintenance to create
+survivable DNS servers based
+              on the proactive security model.
+
+
+

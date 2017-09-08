@@ -1,0 +1,59 @@
+Title       : Computing Projective Fourier Transforms and Rendering Projective Distortions of
+               Patterns
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 18,  1999    
+File        : a9901957
+
+Award Number: 9901957
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $72793              (Estimated)
+Investigator: Jacek Turski turskij@uhd.edu  (Principal Investigator current)
+Sponsor     : U of Houston Downtown
+	      One Main Street
+	      Houston, TX  77002    713/221-8000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,9229,HPCC,
+Abstract    :
+              The data structure that is frequently used in image processing is based upon the
+              Euclidean Fourier analysis and lacks projectively covariant characteristics. 
+              That is, although one can reconstruct a pattern that is translated and rotated
+              in an image plane using only one Fourier transform of the original pattern,
+              when projective distortions are applied this is no longer feasible.
+
+Recently
+              the Principal Investigator has developed a complete projective Fourier analysis
+              consisting of noncompact and compact pictures corresponding to standard and
+              spherical Fourier analyses, respectively.  This harmonic analysis is
+              well-suited for developing algorithms for storing and processing visual
+              information that can be used in automated systems for pattern recognition
+              independent of different perspectives between planar objects (i.e., patterns)
+              and the imaging systems.  In particular, the analysis allows reconstruction of
+              any perspective distortions of a pattern by using only the projective Fourier
+              transform in the noncompact picture of the original (undistorted) pattern,
+              which was demonstrated in numerical tests.  Moreover, the convolutions in both
+              pictures can be used to develop algorithms for projectively-invariant matching
+              of patterns.
+
+This project will develop
+- a fast algorithm for rendering any
+              perspective distortions of a pattern using efficiently computed projective
+              Fourier transforms in the non-compact picture of the original pattern; and
+- a
+              fast algorithm for computing projective Fourier transform in the compact
+              picture.
+
+Algorithms for efficient computation of the convolutions in
+              noncompact and compact pictures would follow from the both fast projective
+              transforms and their inverses.
+

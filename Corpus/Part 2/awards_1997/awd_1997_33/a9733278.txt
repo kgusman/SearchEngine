@@ -1,0 +1,46 @@
+Title       : CAREER: Value and Memory Access Profiling for Compiler Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 2,  2001   
+File        : a9733278
+
+Award Number: 9733278
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1998       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Bradley G. Calder calder@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Profile feedback optimizations have been shown to improve  program performance
+              for several compiler research areas.  The main profiling information used to
+              guide most of these  optimizations are basic block and control flow edge 
+              frequencies.  This is actually only a small fraction of the  profile
+              information that could be gathered and used for  compiler optimizations.  This
+              proposal focuses on two  relatively new areas of profile feedback
+              optimizations.  The  first area will investigate gathering value profiles,
+              which  keep track of the top values for instructions and variables  found
+              during execution.  This information is then used to  guide value-based code
+              specialization, which can  significantly reduce the number of executed
+              instructions.  The second profiling area deals with memory access profiles. 
+              Memory access profiles will be used to guide a new  optimization procedure
+              called Cache-Conscious Data  Placement, as well as to guide speculative
+              instruction  scheduling.  Cache-conscious data placement uses a  temporal
+              relationship memory profile to determine at compile-  time where to place
+              stack, global, heap, and constant  objects in the cache.  This can potentially
+              result in a  significant reduction in the data cache miss rate.  In  addition
+              to the performance benefits from these  optimizations, this research will
+              investigate fast and  efficient approaches for gathering the profile
+              information.

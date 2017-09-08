@@ -1,0 +1,52 @@
+Title       : Exploiting the Critical Path in the Design and Performance Analysis of Modern
+               Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2001       
+File        : a0105721
+
+Award Number: 0105721
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $422507             (Estimated)
+Investigator: Rastislav Bodik   (Principal Investigator current)
+              Mark D. Hill  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              An undesired consequence of the growing parallelism of modern processors is that
+              it is dramatically more difficult to separate the events that limit execution
+              speed from the >events whose latencies are tolerated.  A method for focusing
+              design effort is critical-path analysis.  This research proposes to apply
+              critical-path 
+analysis at the micro-architectural level, with the goal of
+              detecting and eliminating execution bottlenecks.
+This research will explore
+              the potential of the critical path in four interrelated efforts: (1) Modeling
+              the micro-architectural critical path.  The main task is to define a model of
+              the critical path, i.e., the set of events and dependences in a micro-execution
+              that will be exposed in the dependence graph on which the critical path
+will
+              be computed.  (2) Efficient tracing of the critical path.  This effort will
+              develop an on-line algorithm that will use a last-arrival edge at each node to
+              calculate the critical path in one pass in a simulator. (3) Hardware
+              critical-path predictors.  This research will explore the use of approximation
+              methods in avoiding the analysis of the entire dependence graph.  (4)
+              Criticality-aware processor policies.  This research will
+use hardware
+              critical-path predictors to focus hardware policies on events likely to be on
+              the critical path.
+
+

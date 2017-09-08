@@ -1,0 +1,111 @@
+Title       : General Purpose Routers for the Next Generation Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 16,  2001    
+File        : a9906704
+
+Award Number: 9906704
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $1136721            (Estimated)
+Investigator: Larry L. Peterson llp@cs.princeton.edu  (Principal Investigator current)
+              Kai Li  (Co-Principal Investigator current)
+              Edward W. Felten  (Co-Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              There has been  tremendous pressure over the last several years to push
+              functionality from end hosts onto network routers.  Whether one calls the
+              resulting systems routers, application gateways, active networks,
+proxies, or
+              even topology-aware servers,  a general trend was recognized:  the logic that
+              decides how to process packets has grown more and more complex over time. It is
+              a contention that the potential
+for this trend to continue is almost
+              unlimited, which suggests the question: what are the important properties for
+              routers in the next generation Internet? The projects answer is a new router
+              architecture, which they
+call a general purpose router (GPR), that supports
+              arbitrarily complex forwarding logic.  The GPR architecture has six unique
+              features:
+
+    Performance: Provides the throughput required by the next
+              generation Internet.
+
+    Extensible: Easily extended to support new
+              forwarding functions without compromising performance.
+
+    Scalable: Scales
+              to relatively large sizes, on the order of a hundred of Gbps ports.
+
+   
+              Open: The hardware and software should be open so anyone can build or extend a
+              router.
+
+    Commodity Components: Implemented using commercially available
+              components.
+
+    Robustness: Robust enough to tolerate programming mistakes
+              and malicious attacks.
+
+The bottom line is that the project recognizes a need
+              for routers to move from being closed, special-purpose network devices to being
+              open, general-purpose computing/communication systems. The central
+              challenge
+in making this shift is to simultaneously support increasing complex
+              forwarding logic and high performance, while using commercial hardware
+              components and commercial operating systems. The GPR architecture
+achieves
+              this through two key innovations.
+
+     Better integration of the router's
+              switching capacity and compute cycles.  The project expects this to      result
+              in significantly better scaling properties, and an order of magnitude
+              improvement in performance      for packets that require only minimum
+              processing cycles.
+
+     A hierarchy of paths through the router, ranging
+              from fast/fixed paths implemented entirely in hardware      to
+              slow/programmable paths implemented entirely in software, but also including
+              intermediate
+     paths that exploit the improved integration of cycles and
+              switching.
+
+In addition to implementing the GPR architecture---and solving
+              the configuration, scheduling, and resource management problems that doing so
+              will entail---the project will design and implement several
+              novel
+applications:
+
+    Edge routers that transition between different
+              assumption regions of the Internet. Of particular note, the        project will
+              develop router functionality for deeply nested networks that include thin
+              devices (e.g.,             embedded systems and low-power devices). The router
+              needs to subsume some of the responsibility usually     taken by the end
+              node.
+
+    A scalable display system that consists of an array of parallel
+              display processors (and associated frame         buffers), each of which is
+              responsible for some region of a wall-sized display. The router that
+   
+              serves as a front-end to this array---i.e., connects it to a graphics
+              source--must fragment packets         containing graphics directives and
+              forward each fragment to the correct processor.
+
+    An internal firewall
+              that implements enclaves and protects hosts within a site from each other.
+              Unlike a         firewall that sits at the edge of a site, such a router must
+              authenticate users, enforce access control, log     usage, and implement
+              intrusion detection.

@@ -1,0 +1,98 @@
+Title       : Towards enabling a 2-3 orders of magnitude improvement in call handling
+               capacities of switches
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 13,  2001    
+File        : a0087487
+
+Award Number: 0087487
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Malathi Veeraraghavan mv@poly.edu  (Principal Investigator current)
+              Ramesh Karri  (Co-Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Toward building large-scale switches, the current industry focus is on
+              increasing packet handling
+capacities of switch fabrics from Gb/s to Tb/s.
+              Although an increase in packet handling
+capacities and line card data rates
+              requires a corresponding increase in call handling capacities of
+switches,
+              this problem has received little attention. This is because most of the work on
+              scalability
+of packet switch fabrics has targeted connectionless internet
+              protocol (IP) routers, while call handling
+arises only in connection-oriented
+              networks. However, in the last few years, resource reservation
+to support
+              Quality-of-Service (QoS) guaranteed flows has gained attention.
+              Internet
+Engineering Task Force (IETF) is addressing this issue by augmenting
+              IP routers with connection-oriented
+capabilities.
+     In a
+              connection-oriented network, the signaling protocol that is used to set up and
+              release connections
+impacts its call handling capacity. Signaling messages can
+              be complex with many parameters
+and timers and the state information
+              associated with calls can become unwieldy.
+Consequently, signaling protocols
+              have traditionally been implemented in software. QoS control
+solutions are
+              being developed and evaluated based on the premise that call handling
+              capacities do
+not scale with the packet handling capacities of switch fabrics.
+              This assumption regarding call
+handling capacities has also relegated
+              circuit-switched networks, including high-speed Wave-length
+Division
+              Multiplexed networks, to just serve as wires. This proposal challenges this
+              basic
+assumption by demonstrating call handling capacities in the order of
+              millions of calls/sec. Changing
+this basic assumption regarding call handling
+              capacities would indeed have a far-reaching
+impact on both QoS control
+              mechanisms for packet-switched networks, and on the use of emerging
+high-speed
+              circuit-switched networks for challenging new applications.
+     Our solution
+              approach is to implement signaling protocols in reconfigurable Field
+              Programmable
+Gate Array (FPGA) hardware. FPGAs can be reprogrammed as
+              signaling protocols evolve
+while significantly improving the call handling
+              capacities relative to software implementation. To
+manage complexity, we
+              propose to implement the basic and frequently-used operations of the
+              protocol
+in hardware, and relegate the complex and infrequently-used
+              operations to software. In contrast
+to stateless protocols, signaling
+              protocols maintain state information for each call. To
+manage associated
+              memory requirements, we propose to maintain only the essential state
+              information
+for each call in hardware. In this project we propose to (i)
+              implement a typical signaling
+protocol in FPGAs, (ii) design a switch
+              controller board using the signaling protocol FPGAs, and
+(iii) quantify
+              measures of the implementation to demonstrate achievable call handling
+              capacities.

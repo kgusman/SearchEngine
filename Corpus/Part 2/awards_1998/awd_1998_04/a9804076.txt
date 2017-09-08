@@ -1,0 +1,46 @@
+Title       : Certifying Computational Results
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 14,  1998      
+File        : a9804076
+
+Award Number: 9804076
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $167000             (Estimated)
+Investigator: Gerald M. Masson masson@cs.jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804076  Result checking of computations is investigated using a 
+              certification-trail technique.  Certification trails offer an  effective and
+              efficient alternative to result checking approaches  employing replication or
+              N-version programming.  Certification-  trail techniques are designed to
+              support a secondary computation  of a result by using the same input together
+              with a special  output, the certification trail, utilized by the primary 
+              computation.  By making use of the certification trail, the cost  of the check
+              can be substantially less than that of the primary  computation.  This research
+              extends the certification trail  technique to new application  domains,
+              including important computationally intensive problems  for which best known
+              solutions generally require extensive  computing time and commonly used systems
+              programming operations.  The research also develops a distributed applet-based
+              certifiable  processing technique which distributes computational problems to 
+              clients across a network and then certifies the correctness of  the accumulated
+              solution efficiently using certification trails.  Finally, by using properties
+              of computations and solutions,  certification-trail techniques are  developed
+              to support result checking with predetermined degrees  of correctness rather
+              than total precision.  An important goal to  assure a significant impact of
+              this research is to establish a  WWW library of certification-trail techniques
+              and solutions for  general use by researchers and software developers.***

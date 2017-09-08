@@ -1,0 +1,108 @@
+Title       : CAREER: Algorithms for Efficient Bandwidth Utilization in the Internet
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 24,  2002   
+File        : a0133664
+
+Award Number: 0133664
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2002   
+Expires     : December 31,  2006   (Estimated)
+Expected
+Total Amt.  : $328750             (Estimated)
+Investigator: Micah A. Adler micah@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              There is a growing scientific community working to provide solid
+theoretical
+              and algorithmic foundations for the study of communication
+networks.  This
+              project furthers this goal through a combination of
+research and education. 
+              In particular, it addresses theoretical and
+algorithmic issues that arise in a
+              central area of networking: the
+efficient utilization of communication
+              bandwidth.  The research
+component of this project addresses several different
+              approaches for
+the succinct representation of information in communication
+              networks.
+This includes the investigation of (a) the efficient use
+              of
+communication bits to provide accountability in the Internet (which is
+a
+              means of combating cyber-terrorism), (b) new approaches to
+compression that
+              arise in new communication technologies, and (c)
+minimizing the amount of
+              control information required to make
+communication robust with respect to
+              network faults.  The integrated
+educational objectives of this project include
+              both graduate student
+collaboration and curriculum development.  The former
+              consists of
+student involvement with the research component of the project,
+              as
+well as organization of summer schools and workshops.  The later
+includes
+              the incorporation of networking topics into a graduate level
+algorithms
+              course, as well as the development of a new advanced
+graduate course
+              addressing the algorithmic and theoretical challenges
+and achievements in the
+              area of networking.
+
+For the research question of providing accountability in
+              the Internet,
+this project studies the IP Traceback problem: given a stream
+              of
+packets arriving at a node of the Internet, determine the source of
+those
+              packets.  This is an important tool for dealing with denial of
+service
+              attacks, since accountability discourages such attacks and
+provides an
+              automated mechanism for halting attacks in progress.  This
+project studies
+              probabilistic packet marking schemes for this problem,
+with the goal of
+              determining the optimal tradeoffs between the number
+of marking bits used per
+              packet, the number of packets required to
+reconstruct the source information,
+              and the number of simultaneous
+sources of attack that can be dealt with.  A
+              number of new
+technologies also present us with entirely new approaches
+              to
+compression.  The resulting compression problems are fundamental,
+              but
+since the motivating technologies have a short history, these
+              problems
+have not been considered previously.  In this project, we
+              consider
+compression problems that arise from three such
+              technologies:
+asymmetric communication channels, networks that are able to
+              multicast
+information efficiently, and the compression of the World Wide
+              Web.
+Finally, we also consider reducing bandwidth utilization by
+              minimizing
+the amount of control information required to make
+              communication
+robust against faults.

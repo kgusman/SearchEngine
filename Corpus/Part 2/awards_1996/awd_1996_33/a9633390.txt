@@ -1,0 +1,56 @@
+Title       : Building Evolutionary Software Through Modular Executable Specifications and
+               Incremental Derivations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 14,  1998      
+File        : a9633390
+
+Award Number: 9633390
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Paul Hudak paul.hudak@yale.edu  (Principal Investigator current)
+              Zhong Shao  (Co-Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              The first goal of this investigation is a software  development strategy in
+              which ultra-modular executable  specifications are the starting point of
+              systems design. By  ultra-modular is meant a set of specific technologies that 
+              allow one to anticipate and realize change, including the  use of
+              domain-specific embedded languages to capture high-  level, domain-specific
+              semantics, and modular monadic  interpreters on which to realize the semantics
+              and  associated software tools. Using these techniques a level of  modularity
+              in software is obtained that has not been  achieved before: namely, modularity
+              at the meta-level of  abstract semantics. Second, the research seeks a notion
+              of  type-based modularity to capture software architecture.  There is a
+              misconception that type systems are contrary to  the goals of "dynamic
+              languages," which in turn are viewed  as good candidates for building evolvable
+              systems. This  research contests this claim. In fact it is expected that 
+              modern typed languages such as ML and Haskell can offer even  greater support
+              for constructing reliable and efficient  evolutionary software. In particular, 
+              the design and use of  a higher-order module language is studied to capture
+              systems  architecture. Finally, a methodology is investigated that  supports
+              the notion of incremental derivations.  In this  methodology, some executable
+              specifications are refined for  improved performance, whether by formal methods
+              (program  transformation, partial evaluation, etc.) or by informal  methods
+              (such as rewriting inner loops in a lower-level  language). The key point is
+              that the derivations themselves  can be modularized, thus making them suitable
+              candidates for  smooth evolution.  When formal methods are employed, this  also
+              yields a technique for constructing modular proofs of  program correctness; yet
+              another innovative aspect of this  approach. These three ideas form the
+              cornerstone of the  research effort. To evaluate them, the investigation 
+              includes the design of a prototype extens ible operating  system.  ***

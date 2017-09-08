@@ -1,0 +1,53 @@
+Title       : Dynamic Service Aggregation for Interactive Information Delivery
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 17,  1998    
+File        : a9523958
+
+Award Number: 9523958
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $295476             (Estimated)
+Investigator: Thomas D. Little tdcl@bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9218,HPCC,
+Abstract    :
+              Digital audio and video are increasingly common as data that are  manipulated in
+              computer and communication systems.  Current resource  allocation mechanisms
+              for network-based multipoint information delivery are  static in nature and
+              cannot support interactivity for each participant.  Point-to-point approaches
+              can support interactivity but are inefficient for  scaling to a large number of
+              participants.  Currently, no techniques have  demonstrated the ability to
+              renegotiate and scale service parameters per  session in progress as required
+              to adapt to differing terminal equipment  characteristics and network
+              congestion.    The proposal addresses this problem through the definition of
+              decomposable  service groups that permit aggregation of interactivity, terminal
+               characteristics, and levels of service scaling.  Interactivity implies the 
+              availability of a unique service group.  A mechanism is proposed to 
+              dynamically reassign elements to service groups based on changing 
+              interactivity and session requirements.  Such a mechanism will allow the 
+              adjustment of service quality based on cost, available resources, or 
+              user-equipment characteristics, and will adapt to changing network loading. 
+              The proposed approach applies the characteristics of end applications and  data
+              storage requirements to the design of a data scaling mechanism.    Specific
+              tasks of this research are to (1) formalize a model for  characterizing and
+              aggregating service groups, (2) develop a protocol for  dynamic service
+              aggregation, (3) identify a mapping for application  requirements to service
+              groups and network quality of service, (4) the  establishment of a network
+              access mechanism to support service degradation  and scaling for multiple
+              sessions, and (5) the simulation, implementation,  and evaluation using
+              established multipoint applications and multicast  protocols.

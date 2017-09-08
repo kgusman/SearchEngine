@@ -1,0 +1,48 @@
+Title       : Chemical Process Simulation in Singular Regions
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : March 9,  1999      
+File        : a9818130
+
+Award Number: 9818130
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 15,  1999     
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $122629             (Estimated)
+Investigator: Angelo Lucia lucia@egr.uri.edu  (Principal Investigator current)
+Sponsor     : U of Rhode Island
+	      
+	      Kingston, RI  02881    401/792-1000
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 0000,OTHR,
+Abstract    :
+              Robust and rapid algorithms for solving equations relevant to chemical process
+              simulation will be developed.  Singularities frequently occur in chemical
+              process models.  These singularities can dramatically alter the performance of
+              equation-solving methods commonly used in chemical process simulation.  Many
+              current simulations based on Newton's method fail in singular regions and must
+              be restarted.  This study will address the effects of singular points on
+              important equation-solving aspects such as reliability, rates of convergence,
+              and computational efficiency.  This work is concerned with the development of a
+              novel and intelligent complex domain methodology for process simulation in
+              singular regions centered around a unified theoretical and computational
+              framework for (1) identifying singular regions, (2) converging to singular
+              points using quadratic approximation, and (3) determining one or more solutions
+              to process model equations.  The proposed approach is capable of finding
+              path-disconnected solutions from a given singular point and is computationally
+              efficient.  Theorems that provide rigorous theoretical guarantees of a path
+              existence, placing initial values in a given basin of attraction, and global
+              convergence will be proved.  The theoretical and algorithmic architectures will
+              be developed in tandem, will address all types of singular points, and will be
+              implemented as a set of portable Fortan 77 programs.  Simulation problems such
+              as distillation, reaction engineering, and general process flowsheet examples
+              will be used to verify all theoretical developments.  The algorithms developed
+              may have application to improving chemical process simulations.

@@ -1,0 +1,73 @@
+Title       : Visualizing Large Data Sets
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : December 17,  1998  
+File        : a9872147
+
+Award Number: 9872147
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1999    
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $204960             (Estimated)
+Investigator: William J. Schroeder   (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Computer simulations are now an important means of understanding many
+complex
+              physical phenomena.  Numerical simulations are now vital in
+structural
+              analysis, fluid dynamics, chemistry, and biomechanics for both
+research and
+              commercial purposes. Unfortunately, although parallel
+algorithms and
+              supercomputer systems can now handle the raw computations,
+visualization and
+              data processing tools have failed to keep up with these
+advances.  As a
+              result, computers can generate a staggering amount of data
+- hundreds or
+              thousands of gigabytes in time-dependent analysis - that must
+still be
+              translated to a form that humans can effectively understand.
+Without this
+              translation, the value of simulation and analysis is sharply
+reduced. This
+              project will study new visualization methods and
+architectures needed to
+              effectively apply numerical simulation tools.
+
+This project describes a
+              data-flow architecture that can manage large data
+sets using computers ranging
+              from small single-processor CPU's to high-end
+supercomputers. The architecture
+              minimizes disk access, maximizes use of
+available memory, and lends itself to
+              parallel algorithms. The approach is
+to stream coherent blocks of data between
+              processes, and minimizing system
+overhead through careful use of configurable
+              data caches and parsimonious
+data filters. This extends previous work by the
+              investigators in an image
+processing toolkit to handle more complex dataset
+              types objects such as
+unstructured grids.  The investigators will build their
+              software as a
+toolkit of interoperable objects, and will make the software
+              freely
+available to other researchers.
+
+

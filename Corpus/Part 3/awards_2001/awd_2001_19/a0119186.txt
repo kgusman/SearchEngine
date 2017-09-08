@@ -1,0 +1,43 @@
+Title       : Consistent Answers to SQL Queries
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0119186
+
+Award Number: 0119186
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2005  (Estimated)
+Expected
+Total Amt.  : $305000             (Estimated)
+Investigator: Jan Chomicki chomicki@cse.buffalo.edu  (Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              As the amount of information available in online data sources explodes, there is
+              a growing concern about the consistency and quality of answers to user queries.
+              This project addresses the issue of using logical integrity constraints to
+              gauge the consistency and quality of query answers. Although it is impractical
+              to enforce global integrity constraints across different data sources and
+              correct integrity violations by updating individual sources, integrity
+              constraints capture important semantic properties of data. This project studies
+              the formal notions of database repair and consistent query answer: a consistent
+              answer is true in every minimal repair of the database. The information about
+              answer consistency serves as an important indication of its quality and
+              reliability. A variety of procedures for computing consistent query answers in
+              the context of the relational data model and SQL are developed, and their
+              computational complexity analyzed. The procedures exploit the properties of
+              specific subsets of SQL and specific classes of integrity constraints. By
+              providing information about query answer consistency, such procedures will
+              enhance the functionality of existing DBMS in a non-intrusive way, particularly
+              in the context of data integration applications. 

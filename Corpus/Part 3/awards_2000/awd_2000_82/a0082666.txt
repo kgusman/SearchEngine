@@ -1,0 +1,50 @@
+Title       : ITR: Optimizing Execution of Parallel Programs on a Cluster of Shared Memory
+               Machines
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 7,  2000  
+File        : a0082666
+
+Award Number: 0082666
+Award Instr.: Standard Grant                               
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $211130             (Estimated)
+Investigator: Tao Yang tyang@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              Parallel programs using MPI are widely used in compute-intensive scientific and
+              engineering applications. They perform well on dedicated distributed memory
+              machines and workstation clusters. However, their performance can deteriorate
+              on multiprogrammed shared memory machines (SMMs) or clusters of those machines.
+              This project will optimize execution of parallel programs through both program
+              transformation and efficient run-time support. The resulting programs will
+              deliver robust performance in both dedicated and multiprogrammed SMM
+              clusters.
+
+Technically, the work has three aspects:
+
+It will study
+              compile-time code transformations to achieve threaded execution of parallel
+              code on a cluster of SMMs, allowing each MPI node to be executed safely as a
+              thread.
+It will study thread-safe run-time execution and fast lock-free
+              communication that takes advantage of address space sharing among threads
+              within an SMM.
+It will evaluate and model a variety of scientific applications
+              (including sparse-matrix algorithms with irregular computation, PDE
+              computations with coarse-grain computation, and data-intensive applications) to
+              verify the proposed techniques.
+

@@ -1,0 +1,45 @@
+Title       : A Scalable Fault-Tolerant and Programmable Platform for Parallel Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 7,  1994       
+File        : a9203732
+
+Award Number: 9203732
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1992    
+Expires     : February 29,  1996   (Estimated)
+Expected
+Total Amt.  : $141279             (Estimated)
+Investigator: R. Jagannathan   (Principal Investigator current)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research develops an existing scalable fault-tolerant and                 
+              visually programmable platform called GLU which enables                        
+              parallel application to be run on existing hardware.                           
+                                                                                             
+              The essential property of GLU that makes it all work is the                    
+              way it actually combines declarative and procedural code.  GLU                 
+              programs consist of a declarative top layer and lower layers                   
+              of procedural code, e.g., C or FORTRAN.  The procedural code                   
+              is written without thinking about parallel evaluation.  All                    
+              the parallelism and the fault tolerance come from the                          
+              declarative level.                                                             
+                                                                                             
+              GLU will be developed by making improvements at various                        
+              levels: in the range of machines that can be used, in                          
+              performance (and measurement thereof), in the                                  
+              declarative/procedural interface to allow systematic reuse of                  
+              existing code, in the graphical specification of the                           
+              declarative layer, and in the graphical layer itself.

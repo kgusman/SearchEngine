@@ -1,0 +1,86 @@
+Title       : Capturing Multilayered Design Intent using Efficient Constraint Decomposition
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 10,  2000       
+File        : a9902025
+
+Award Number: 9902025
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $372170             (Estimated)
+Investigator: Meera Sitharam sitharam@cise.ufl.edu  (Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project deals with the efficient generation of robust, optimal plans for
+              recursively decomposing geometric constraint systems into subsystems whose
+              solutions can be recombined. Primary consideration is given to constraint
+              systems that arise within the context of interactive design and assembly for
+              CAD/CAM. 
+Decomposing a geometric constraint system is a critical and
+              longstanding issue, since the overwhelming 
+cost in solving the system is
+              dictated by - and exponential in - the size of the largest subsystem that is
+              
+solved by a general algebraic/numeric solver directly, i.e, without further
+              decomposition. Moreover, 
+a truly interactive CAD environment allows the
+              constraint model to interact with the designer as well as with downstream
+              production software throughout the design process. Hence a hierarchical
+              structural decomposition of the constraint system plays a key role in capturing
+              design intent. Due to the lack of efficient and robust decomposition
+              techniques, there are currently no effective, spatial variational 
+constraint
+              solvers, and assembly solvers are seriously limited. This inadequacy severely
+              hinders the development of intelligent, interactive CAD systems.
+
+Preliminary
+              results provide a strong foundation for this project. More specifically: 1) We
+              have isolated and precisely formalized the optimal decomposition-recombination
+              ( DR) planning problem as well as several new performance measures that reflect
+              the various desirable characteristics of DR plans and planners 
+specifically
+              for CAD/CAM. The precise formalization of the DR-problem as well as the new
+              performance measures are of independent interest and have the potential to be
+              widely used by the constraint solving 
+and CAD communities. 2) We have
+              developed the building blocks of a new DR planner, called the Modified Frontier
+              Algorithm (MFA), which significantly improves on existing methods both in terms
+              of several of the new performance measures, as well as in preliminary
+              implementations.
+
+The overall goal of the project is to develop and implement
+              a fully-fledged prototype of a DR-planner along with the required interfaces
+              built around the MFA backbone, which performs well with respect to all of the
+              new performance measures. In addition, the prototype implementation will be
+              incorporated into the Erep system and then evaluated by comparison with
+              existing constraint solvers, sketchers and CAD systems.
+
+Specific research
+              tasks are directed towards ensuring that the new DR planner possesses various
+              capabilities such as: 1)  ability to deal with nongeometric constraints,
+              particularly equational and parametric constraints which reflect design intent;
+              2)  ability to incorporate a multilayered conceptual decomposition 
+specified
+              by the designer, and robustness and adaptability to interactive changes made to
+              the constraint system; 3)  optimal complexity, and guaranteed approximation
+              factor of the near-optimal, output DR-plan; 
+4) ability to maintain
+              consistency of the CAD constraint model view with multiple, possibly
+              proprietary, downstream application views of the product master model; and 5)
+              modularity of the implementation, compatibility with existing algebraic/numeric
+              solvers, and incorporability into existing CAD systems.
+
+

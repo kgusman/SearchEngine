@@ -1,0 +1,62 @@
+Title       : ITR: Asynchronous digital signal processing for the software radio
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 26,  2002      
+File        : a0086007
+
+Award Number: 0086007
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $969226             (Estimated)
+Investigator: Kenneth L. Shepard shepard@ee.columbia.edu  (Principal Investigator current)
+              Steven M. Nowick  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1656,1661,4095,4096,9218,HPCC,
+Abstract    :
+              The 1990's have witnessed explosive, if not revolutionary, growth in wireless
+              telecommunications, fueled in large measure by the technology scaling of
+              digital processing power. Third-generation (3G) wire-less systems promise even
+              more with high-bit-rate data services, such as video and Internet access, with
+              wide-band spread-spectrum modulation. Yet, despite the continued benefit of
+              technology scaling below
+0.1am in the next decade, these mobile 3G systems
+              will demand digital processing power, along with programmability and energy
+              efficiency, which are not achievable with conventional digital design
+              techniques.  Reconfigurable and flexible software radios, which implement
+              digital IF as well as baseband function, will be essential for 3G systems
+              because of the need to support multiple modulation waveforms and multiple air
+              interface standards. These systems can be expected to demand 1000 MIPS of
+              digital IF-processing
+power and up to 2000 MIPS of baseband DSP power. To
+              achieve power levels necessary for mobile sys-tem, energy efficiency of better
+              than 0.15 mW/MIPS while deliever 3000 MIPS of processing power will be
+              necessary, an order of magnitude better than what can be achieve today with
+              conventional design practices.  In this extensive three-year  research effort,
+              we will consider asynchronous design techniques for
+              achieving
+energy-efficient, high-performance digital signal processing for 3G
+              wireless applications. We will fully exploit the inherent high-performance and
+              low-power properties of asynchronous design, to consume power only where needed
+              and to "adapt" to the actual data inputs. Specifically, we will combine
+              fine-grained asynchronous micropipelines with adaptive (or programmable)
+              power-supply control and a dataflow-driven  microarchitecture to provide a
+              funcadmental leap in complex programmable digital 
+signal processing power and
+              energy efficiency, unachievable using existing synchronous techniques. We
+              in-tend to develop an asynchronous programmable DSP that is capable of
+              supporting a significant fraction of the IS-95 and W-CDMA standards in
+              software, including the performance- and power-intensive I and Q modulation and
+              demodulation at less than 400 mW of peak power dissipation.
+

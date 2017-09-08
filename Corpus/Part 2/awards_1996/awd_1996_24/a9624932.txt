@@ -1,0 +1,68 @@
+Title       : CAREER: A Semantic Framework for Static and Dynamic Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 12,  1999     
+File        : a9624932
+
+Award Number: 9624932
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1996        
+Expires     : April 30,  2000      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Rebecca J. Parsons rebecca@cs.ucf.edu  (Principal Investigator current)
+Sponsor     : U of Central Florida
+	      Office of Research
+	      Orlando, FL  328263252    407/823-5278
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Acceptance of an object-oriented approach to scientific  computing is being
+              hindered by the performance differential  between programs written in
+              traditional languages and those  written in object-oriented languages. These
+              performance  issues stem from the limitations on static dependence  analysis
+              and compiler optimization posed by the presence of  objects.    An approach to
+              increasing the degree of optimization in  object-oriented environments is
+              incorporating information  about the object semantics and performing runtime 
+              optimizations.  As proved true for compiler optimization  using static
+              dependence information,informal semantics and  intuition are inadequate.  A
+              semantic foundation for  optimization which includes support for dynamic
+              dependence  and for the richer data types exploited in object-oriented 
+              languages provides an important foundation for advancing  compiler research. 
+              The  semantic model studied in this  research is intended to unify reasoning
+              both in the compiler  (static) environment and the runtime
+              (dynamic)environment.  Support for dynamic object creation and even dynamic
+              class  definition can be considered in a setting exploiting both  static and
+              dynamic dependence information. The resulting  model, utilizing tools such as
+              denotational semantics and  equational calculi, will allow the creation of
+              automated  tools to assist in the development of advanced compiler 
+              optimizations with the additional formal assurances that  these optimizations
+              do not alter the meaning of the program.    The computational demands posed by
+              computational biology  provide another realistic setting within which to study
+              the  complexities of object-oriented parallel and distributed  program
+              development and the concomitant optimization needs  for language systems.  The
+              educational goals of this  research are to both alter the programming languages
+              and  compiler curricula to address, at all levels, issues of  semantics,
+              optimization, and the degree to which each affect  the other. The computational
+               biology work provides a  promising framework within which to study these
+              issues.  Thus, the computational biology curricula is being developed  in
+              parallel with the languages work.    This research is expected to contribute to
+              an understanding  of the nature of program dependences; how different language 
+              constructs and program usage contribute to different  patterns of dependence;
+              and how these patterns can be  exploited in language design or in language
+              translation.  Work in this area has already uncovered unsuspected  connections
+              between lazy evaluation and imperative  languages.  Further study should
+              provide insight into  relationships among languages in the context of their 
+              interactions at runtime.  A goal of this research is to  support the mixing of
+              languages without sacrificing the  performance of the program, allowing the
+              programmer to  select the most appropriate language for the individual  parts
+              of a problem. The fundamental notion of program  dependence is a natural basis
+              on which to construct a system  supporting this style of programming.  ***

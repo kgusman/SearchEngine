@@ -1,0 +1,74 @@
+Title       : Collocation Methods for Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 29,  1998      
+File        : a9805827
+
+Award Number: 9805827
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $170000             (Estimated)
+Investigator: Bernard Bialecki bbialeck@mines.edu  (Principal Investigator current)
+              Graeme Fairweather  (Co-Principal Investigator current)
+Sponsor     : Colorado School of Mines
+	      1500 Illinois
+	      Golden, CO  804011887    303/273-3200
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+                From graeme@glenclova.Mines.EDU Sat Jun 27 16:02:38 1998  Date: Sun, 21 Jun
+              1998 09:02:48 -0600 (MDT)  From: Graeme Fairweather
+              <graeme@glenclova.Mines.EDU>  To: "John C. Strikwerda (MPS/DMS)"
+              <jstrikwe@nsf.gov>  Cc: bbialeck@mines.edu, gfairwea@mines.edu  Subject: Re:
+              NSF Proposal       Dear Dr. Strikwerda:  DMS 9805827    Bernard Bialecki and
+              Graeme Fairweather       The focus of this project is on the formulation,
+              theoretical analysis   and efficient implementation of orthogonal spline
+              collocation (OSC)  algorithms for various partial differential equations
+              arising in problems  of practical interest. Research will continue on the
+              iterative  solution of OSC equations arising in second and fourth order  
+              elliptic boundary value problems. Promising new methods have been  formulated
+              for rather general second order linear elliptic problems, and  in a study of
+              the OSC solution of nonlinear elliptic problems   the use of these methods will
+              be addressed. The investigation of iterative  methods and nonlinear problems is
+              expected to play an important role in the  development of OSC for nonlinear
+              biharmonic and Stokes problems.   Work will  continue on Schrodinger problems
+              in two space variables, in  particular, problems arising in plate vibration
+              problems and nonlinear   problems. Algorithms developed for biharmonic problems
+              will be used in  certain time-stepping procedures in cases where alternating
+              direction  implicit methods cannot be formulated. A study of collocation
+              methods   for solving partial integro-differential equations, including 
+              problems with nonlocal boundary conditions, will also be undertaken.  
+              Throughout this project, rigorous theoretical analysis will be combined with
+              the  design and numerical testing of algorithms.    Many problems in science
+              and engineering are modelled by partial  differential equations which fall into
+              several distinct categories with  quite different characteristics. In this
+              project, several types of  equations are considered, for example, biharmonic
+              problems  which arise in  fluid dynamics and plate bending and are of
+              particular interest in the  aviation industry, and Schrodinger equations  which
+              model problems in quantum mechanics, underwater acoustics, plasma  physics,
+              vibration problems and seismology. Some problems, such as  biharmonic problems,
+              are steady state, that is, independent of time,   and investigations of these
+              often provide insight into the handling of  time-dependent problems, like
+              Schrodinger equations. Basic  models are  usually linear and techniques
+              developed for their solution guide the  treatment of more realistic - nonlinear
+              - situations.  Time dependent  problems which take into account the history of
+              a process, as in   viscoeleasticity, result in partial integro-differential
+              equations.   Because of the complexity of the partial differential equation
+              models,  one must resort to computational techniques for their solution.  In
+              this project, numerical methods called orthogonal  spline collocation methods
+              will be developed for several classes of linear  and nonlinear, steady state
+              and time-dependent problems of the form just  described.  These methods have
+              several advantages over existing  techniques, including the ease with which
+              they can be implemented on high  performance multiprocessor computers and the
+              accuracy of the  approximations produced. The successful completion of this
+              project will  provide efficient algorithms built on a strong theoretical
+              foundation for  the solution of problems of much practical importance.

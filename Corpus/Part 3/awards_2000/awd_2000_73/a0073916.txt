@@ -1,0 +1,80 @@
+Title       : Numerical Scale-Up of Two-Phase Flows in Strongly Heterogeneous Media.
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 8,  2000     
+File        : a0073916
+
+Award Number: 0073916
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $145501             (Estimated)
+Investigator: Thomas Y. Hou hou@ama.caltech.edu  (Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    626/395-6073
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Subject: NSF proposal: DMS-0073916
+Principal Investigator: Thomas Y.
+              Hou
+
+Abstract:
+
+We propose to develop an innovative numerical coarse grid
+              model for two-phase flows in strongly heterogeneous media.  The development of
+              this coarse grid model consists of two steps.  The first one is to develop a
+              PDE-based adaptive mesh strategy to capture the dominating flow features using
+              an adaptive coarse grid mesh. Using the adaptive mesh, the dominating flow
+              features such as high velocity flow and strong shear flow can be accurately
+              captured.  The second step is to use the multiscale finite element method to
+              model the effect of small scale components.  The main idea of our multiple
+              scale finite element method consists of the construction of finite element base
+              functions which contain the small scale information within each element.  In
+              fact, we construct the base functions from the leading order differential
+              operator of the governing equation.  An important feature of the multiscale
+              finite element method is that they can be used to reconstruct locally the small
+              scale velocity within each coarse grid block.  Since the dominating flow
+              structures are already well captured by the adaptive coarse grid solution, the
+              remaining small scale components are relatively small in amplitude. And we can
+              effectively model the effect of these small scales by incorporating averages of
+              high order moments.  This gives rise to a robust coarse grid model for
+              two-phase flows in strongly heterogeneous media.  Generalization of this idea
+              to the Navier-Stokes equations will also be considered.
+
+Many problems of
+              fundamental and practical importance contain multiple scale solutions.  The
+              direct numerical solution of the above multiple scale problems is difficult
+              even with the advent of modern super computers.  The major difficulty of direct
+              solutions is due to the scale of computation.  To get an accurate solution, all
+              scales contained in the problem need to be resolved.  Therefore, tremendous
+              amount of computer memory and CPU time are required.  The requirement can
+              easily exceed the limit of today's computing resources.  On the other hand,
+              from an engineering perspective, it is often sufficient to predict the
+              macroscopic properties of the physical systems and to capture the averaged
+              effect of small (and random) scales on the large ones.  Therefore, it is
+              desirable to develop a method that can capture the small scale effect on the
+              large scales using a relatively coarse grid.  If this can be done, this can
+              lead to enormous economy saving. The factor of saving could be as high as ten
+              thousands.  This would enable us to perform many simulations very efficiently. 
+              The proposed research is to develop such a coarse grid model by incorporating
+              the small scale features in the underlying physical problem to construct
+              multiscale building blocks (bases).  These multiscale building blocks (bases)
+              capture the effect of small scales on the large scales locally.  In order to
+              increase the robustness of the multiscale modeling, we propose to introduce an
+              automatic (PDE-based) adaptive mesh generator to generate the underlying coarse
+              grid. The adaptivity is controlled by the local flow rate, using a finer mesh
+              in high flow region.  The idea of combining adaptivity with multiscale modeling
+              may have a significant impact on a number of applications which go beyond the
+              scope of this proposed study.
+ 
+

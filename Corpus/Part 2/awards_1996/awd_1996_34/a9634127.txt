@@ -1,0 +1,56 @@
+Title       : Development and Rubustness Analysis of Fifth-Level Adaptive Critics for Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 15,  1998       
+File        : a9634127
+
+Award Number: 9634127
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $212219             (Estimated)
+Investigator: S. N. Balakrishnan bala@umr.edu  (Principal Investigator current)
+Sponsor     : U of Missouri Rolla
+	      1870 Miner Circle, 101 ME Annex
+	      Rolla, MO  654091330    573/341-4134
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+              55        Engineering-Electrical                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9634127  Balakrishnan         This study will build on previous supported
+              research into  brain-like intelligent control, using an advanced form of neural
+               network design.       This research has three major objectives: the first is
+              to  develop two level-5 adaptive critic designs.  (Increasing level  numbers
+              indicate increasing level of capabilities to solve  engineering problems and
+              closer mimicking of perceived human  intelligence.  Currently, the highest
+              level of critic design that  has been well understood and used in a few
+              applications is a level- 4 critic.) The first critic design based on
+              approximate dynamic programming outputs the optimal return function and the
+              derivatives of cost with respect to system states.  The second critic design
+              outputs the Hamiltonian and the derivatives of the Hamiltonian with respect to
+              states and control.  Advantages of these designs include retrieving Ricatti
+              mattrix from the critic, and being able to check the Legendre-Clebsch
+              condition, necessary for minimality.       The second major objective is to
+              investigate the robustness of the synthesized controller to: a) parametric
+              variations, b) bound but unmodelled disturbances, and c) stochastic
+              disturbances.  The robustness analysis will be based on singular value based
+              techniques, Liapunov concepts, and Montecarlo simulations.       The third
+              major objective is to use a set of two critics in  conjunction to solve bench
+              mark engineering problems involving  inner loop and outer loop to account for
+              slow dynamics and fast  dynamics.       The significance or major goal of this
+              research is to combine human problem solving (brain like intelligence)
+              philosophy embedded in a level-5 critic design and firm mathematical
+              foundations offered by modern control and dynamic programming to solve
+              difficult control problems in engineering.  This approach not only finds
+              optimal solutions but attempts to analyze the resulting solutions through
+              robustness analysis.  Such relations to establish relative stability of
+              neurocontrolle rs are expected to help in the acceptance of neurocontrol for
+              implementation in engineering.  ***  ??

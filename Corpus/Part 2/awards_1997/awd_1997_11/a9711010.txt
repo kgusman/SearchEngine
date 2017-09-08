@@ -1,0 +1,43 @@
+Title       : Low-Spurious Data Conversion for digital RF Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 6,  1999        
+File        : a9711010
+
+Award Number: 9711010
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $184000             (Estimated)
+Investigator: Bang-Sup Song   (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9215,HPCC,
+Abstract    :
+              In wireless systems, performing IF filtering/demodulation digitally has many 
+              advantages.  The software radio environment makes it possible to implement 
+              diverse wireless standards on a single hardware platform.  Since non-linear 
+              quantization causes interchannel mixing, this application demands a premium ADC
+               performance in spurious-free dynamic range of at least 80 to 90dB.  This
+              highly-  linear data conversion at IF requires ADC performance typically of 14
+              bits at  above 50MSample/s.  Although remarkable progresses have been reported,
+              it is  unlikely to achieve this high sampling rate with 14 bits using any known
+              CMOS  architectures.    This research challenges the current ADC arts with two
+              unique methods.  Multi-  step ADCs are very linear but limited by the speed of
+              the interstage residue  amplifier.  On the other hand, folding ADCs are fast
+              but limited by folding  amplifier offsets and their complexity to achieve more
+              than 10 bits.  This  research presents two unique solutions.  One is to use a
+              trans-resistance  amplifier for fast residue amplification, and the other is to
+              use a subranging  concept to cascade folding stages.  Linearities in both cases
+              are calibrated in  background using an oversampling delta-sigma calibrator. 
+              This work is the first  one that ever attempts to calibrate the folding ADC.

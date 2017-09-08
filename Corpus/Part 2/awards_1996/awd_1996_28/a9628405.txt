@@ -1,0 +1,72 @@
+Title       : Two Dimensional parallel Signaling and Detection Techniques with Applications to
+               Volume Optical Memories
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 10,  1996 
+File        : a9628405
+
+Award Number: 9628405
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $178048             (Estimated)
+Investigator: Mark A. Neifeld neifeld@ece.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              A parallel two-dimensional memory (i.e., one that stores and retrieves 2D  pages
+              (arrays) of digital data) represents a fundamentally different memory 
+              architecture. This 2D parallel architecture has the potential for capacity  and
+              speed performance which is orders of magnitude beyond the expected  physical
+              limits of traditional lD storage architectures.  A volume optical  memory is a
+              system which stores data pages within a three dimensional  optical medium. 
+              These systems have the potential combination of large  storage capacity (>
+              10^l2 bits/cm^3), high speed random access via massless  scanning (<10 ns), and
+              very large data transfer rates (> 10^10 bits/sec)  owing to the 2D
+              storage/retrieval of data.. Direct application of  conventional communication
+              theoretic techniques to 2D parallel memories is  complicated by the truly 2D
+              nature of the data format. In addition, a  volume optical memory implementation
+              typically results in a storage channel  with very complex noise and
+              interference. Factors contributing to the  operating environment include (I)
+              the intensity transformation and  subsequent spatial averaging of the coherent
+              optical signal as a result of  optoelectronic conversion, (ii) non Gaussian
+              noise sources such as shot and  speckle, and (iii) complex data dependent
+              interference sources such as  inter-page crosstalk and space variant
+              intersymbol interference within a  given page.  This research program is
+              concerned with signaling,  equalization, and decision schemes as they apply to
+              parallel 2D data  channels, with specific consideration given to coherent
+              (holographic)  volume optical memory systems. One objective of this research
+              program is to  develop the theoretical foundation for signaling and detection
+              in 2D  digital communication systems. Another objective is the application of
+              this  theory to develop robust, implementable signaling and detection
+              techniques  for volume optical memory systems.  The plan for achieving these
+              objectives  is based on the development of relatively simple  models of the
+              volume  optical memory system to be used for development and analysis of
+              specific  signaling and detection algorithms. Performance bounds for the
+              optimal  detection strategies, as well as efficient algorithms for their 
+              realization, will be sought in the data detection phase of the research. 
+              Simple, suboptimal data detectors which exploit the 2D nature of the data 
+              format will also be developed and their performance characterized relative  to
+              that of the optimal detection rule. The signal design component will be 
+              concerned with error correction coding for use with 2D asymmetric channels, 
+              precoding techniques for combating data-dependent interference within and 
+              between pages, pixel profile optimization using simple optical masks, and 
+              novel signaling strategies for non-Gaussian channels. The third component 
+              involves the creation of a sophisticated simulation engine for the  evaluation
+              and refinement of new signaling and detection methods. This  simulation engine
+              will capture the detailed physical characteristics of  volume optical memory
+              systems and will facilitate measuring the performance  and robustness of these
+              novel 2D approaches in a real-world environment.

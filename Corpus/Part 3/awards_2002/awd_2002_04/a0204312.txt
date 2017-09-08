@@ -1,0 +1,68 @@
+Title       : Flexible Fair Scheduling on Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 1,  2002      
+File        : a0204312
+
+Award Number: 0204312
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $267002             (Estimated)
+Investigator: James H. Anderson anderson@cs.unc.edu  (Principal Investigator current)
+              Sanjoy K. Baruah  (Co-Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              There has been much recent work on scheduling techniques that
+ensure fairness,
+              temporal isolation, and timeliness among
+applications multiplexed on the same
+              resource.  Many systems that
+could benefit from the use of fair scheduling
+              principles have
+workloads that necessitate the use of multiple processors;
+              consider,
+for example, the proliferation of Internet service providers
+              that
+host third-party websites on multiprocessor servers. 
+              Unfortunately,
+most prior work on multiprocessor fair scheduling has been
+              rooted
+in task models that are too rigid to apply in many settings. 
+              The
+little research on more flexible models that has been done has
+              been
+almost entirely experimental in nature, with little or no
+              formal
+analysis of the scheduling algorithms being tested.
+
+In this project,
+              fair scheduling algorithms based on rate-based
+scheduling principles will be
+              developed and analyzed, both formally
+and experimentally.  Specific project
+              objectives include the
+development of (i) fair scheduling algorithms that
+              minimize task
+migrations; (ii) extensions to these algorithms that allow tasks
+              to
+synchronize and share resources; (iii) extensions that allow real-time
+and
+              non-real-time applications to execute under a common framework;
+and (iv)
+              techniques for managing dynamically-changing workloads in
+which tasks may join
+              and leave the system.
+

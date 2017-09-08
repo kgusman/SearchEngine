@@ -1,0 +1,80 @@
+Title       : Advanced Process Diagnosis with Principal Components and Parity Relations
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 8,  2002       
+File        : a9906250
+
+Award Number: 9906250
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $237650             (Estimated)
+Investigator: Janos J. Gertler jgertler@gmu.edu  (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              
+Implicit modeling approaches to fault detection, which are based on
+              multivariate statistical methods, have attracted great interest in chemical and
+              process engineering.  Principal component analysis (PCA) has been successfully
+              applied to model the normal process behavior.  PCA can significantly reduce the
+              dimension of the model for large-scale systems with correlated process
+              variables.  Unusual events are then detected by referencing the observed
+              process variables against this model.  However, PCA does not specifically
+              address the important issue of fault isolation.  One of the PI's of this
+              proposal has extensive experience with the development and application of PCA
+              techniques.
+
+Analytical redundancy methods rely on explicit models of the
+              monitored plant.  Based on the model, consistency (parity) relations are
+              derived which return residuals indicative of faults.  The parity relations may
+              be so designed ('structured') that their residuals follow clear patterns in
+              response to various faults, thus facilitating fault isolation.  While parity
+              relations were developed for linear systems, most results are applicable to a
+              broad class of nonlinear systems as well.  One of the Pi's has played a
+              substantial role in parity equation research and successfully applied this
+              method to car engine diagnosis.
+
+To explore the above idea, the PI's
+              submitted a proposal previously.  The proposal was funded at a reduced level,
+              with the stipulation that the feasibility of the approach had to be first
+              demonstrated, with special focus on nonlinear systems, before more substantial
+              funding could be made available.  In the present proposal, we report the
+              results of the first year of investigations which, in our view, proof the
+              viability of the approach.  We also outline our plans for the continuation of
+              the work.  The first-year effort has brought two major results, both documented
+              in several research publications.
+
+Based on the very encouraging results, we
+              propose to continue the research of structured PCA, along the following
+              lines:
+1. Further studies of the polynomial nonlinear modeling approach,
+              including a search technique for the best structured polynomial model set and a
+              study of the non-uniqueness of partial models with insufficient degree.
+2. The
+              extension of structured PCA to discrete dynamic system models.
+3.  Generalized
+              likelihood ratio testing of PCA residuals utilizing their directional
+              properties.
+4.  The generation of structured and directional residual sets,
+              both in the PCA and in the parity relation framework, which are optimal for
+              some information criteria.
+The above activities will be supported with
+              extensive simulation, both on the Tennessee Eastman simulator and on the
+              simulation of a larger vinyl acetate process.
+
+
+
+
+

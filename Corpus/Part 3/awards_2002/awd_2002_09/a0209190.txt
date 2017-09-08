@@ -1,0 +1,55 @@
+Title       : Geographic Management of Data Infrastructureless Environment
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 2,  2002     
+File        : a0209190
+
+Award Number: 0209190
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $135000             (Estimated)
+Investigator: Ouri Wolfson wolfson@cs.uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              This project will study databases that are distributed among a set of
+sensors
+              that communicate without a fixed network infrastructure. This architecture is
+              motivated by new types of emerging wireless broadcast networks such as Mobile
+              Ad-hoc Networks, "smart dust", and sensor networks. Smart dust and sensor
+              networks consist of processors that may be the size of a dust particle, and the
+              processors may be sprayed or parachuted from an airplane.
+
+Two environments
+              are considered. In the first one the sensors are static,
+and in the second one
+              the nodes are mobile, and their locations are not always known.
+
+The  project
+              will explore the following paradigm, called "geographic
+dissemination of
+              data", for processing queries, triggers and updates. The paradigm calls for
+              dividing the geographic area into cells. Each data item in the database is
+              associated with a cell, and resides in that cell, i.e.
+in the set of
+              processors that are currently located in the cell (note that
+this set may vary
+              over time). Each cell is considered  a node of the distributed database, and
+              queries/triggers/updates are processed by sending them to the appropriate
+              cells. Note that in contrast to the traditional cellular architecture, the
+              proposed one is infrastructureless.
+
+
+

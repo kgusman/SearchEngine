@@ -1,0 +1,43 @@
+Title       : Career: Lightweight Fault-Tolerance for Distributed Agents
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 17,  2001       
+File        : a9734185
+
+Award Number: 9734185
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1998      
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Lorenzo Alvisi lorenzo@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              As society increasingly relies on distributed applications,  it is ever more
+              important that these applications tolerate  partial failures. However, many
+              users and developers are  unwilling to sustain the costs in resources and 
+              performance  that one pays today for building reliable applications.  This
+              research seeks to resolve the tension between the need  for fault-tolerance and
+              the costs traditionally associated  with it. A new low-overhead approach to
+              fault-tolerance,  called lightweight fault-tolerance (LiFT), is investigated. 
+              The ideas at the core of LiFT are (1) to determine the  information necessary
+              to reproduce during recovery each non-  deterministic event in a process
+              execution, and (2) to  guarantee that this information is available during
+              recovery  by efficiently replicating it in the volatile memory of a  sufficient
+              number of processes. LiFT has two main goals:  (1) the development of
+              low-overhead fault-tolerance  techniques that encompass applications in which 
+              communication is through message-passing, shared memory, or  any combination of
+              the two.  (2) the development of recovery  protocols that guarantee at the same
+              time good performance  during failure-free executions, fast recovery, and
+              fault-  containment.

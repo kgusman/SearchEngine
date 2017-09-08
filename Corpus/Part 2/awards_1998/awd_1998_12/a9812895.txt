@@ -1,0 +1,84 @@
+Title       : Fast Adaptive Finite Element Methods for Electromagnetic Applications
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : March 19,  1999     
+File        : a9812895
+
+Award Number: 9812895
+Award Instr.: Standard Grant                               
+Prgm Manager: James Momoh                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 1,  1999      
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $122799             (Estimated)
+Investigator: Igor A. Tsukerman itsukerman@uakron.edu  (Principal Investigator current)
+Sponsor     : University of Akron
+	      302 East Buchtel Avenue
+	      Akron, OH  443250001    330/375-7111
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9812895
+Tsukerman
+Finite Element (FE) analysis is very widely used for
+              computer simulation of electromagnetic fields in various engineering
+              applications. Although significant progress has been achieved over the last two
+              decades, considerable computational difficulties remain.  Very fine FE meshes,
+              with hundreds of thousands of elements or more, are often needed to achieve a
+              desirable accuracy, and the computational time may be prohibitively high.
+
+In
+              the proposed project, a qualitative advancement in electromagnetic FE analysis
+              will be achieved by applying adaptive finite element methods with multilevel
+              preconditioners to a variety of electromagnetic problems in micromagnetics and
+              geophysics. Fast adaptive methods will lead to a drastic increase in the speed
+              and accuracy of electromagnetic field computation. The project is
+              interdisciplinary in its nature and is intended to bridge the gap between
+              state-of-the-art computational methods and electromagnetic
+              applications.
+
+Preconditioned Hierarchical Basis Multigrid methods will be
+              applied to magnetic recording problems, in particular to multiparticle systems
+              (magnetic tapes, thin film media) and to magnetic recording heads.
+              Magnetostatic ("demagnetizing") fields as well as dynamic processes described
+              by the Landau-Lifshitz-Gilbert equation will be modeled. Multilevel
+              Preconditioners will also be applied to static and eddy current problems in
+              geophysics.
+
+Adaptive mesh refinement will be systematically implemented in
+              several application areas.  In micromagnetics, it will provide a way to trace
+              the domain wall motion. In geophysical applications, for which very large
+              computational domains are typical, adaptive mesh refinement should lead to a
+              reasonable accuracy on meshes of manageable size.
+
+Mesh refinement strategies
+              for tetrahedral elements and other types of elements will be evaluated on the
+              basis of precise a priori characterization of element shapes proposed by the
+              applicant: the general maximum eigenvalue criterion and, for first order
+              tetrahedral elements, the minimum singular value condition for the element
+              'edge shape matrix'.
+
+Two graduate students are to be involved in the
+              proposed project. An obvious benefit to these students will be their exposure
+              to modern computational methods, electromagnetic field analysis and various
+              practical applications.
+
+Several companies have already expressed significant
+              interest in the applicant's research. Industrial collaboration with companies
+              in magnetic recording industry, oil exploration services and finite element
+              software is very likely to develop in the course of the proposed project.
+
+It
+              is felt that the results of this project would be of both theoretical and
+              practical significance: they would facilitate fast three-dimensional field
+              analysis of magnetic recording media and heads, galvanic and induction logging
+              in geophysics, and will have important implications for nondestructive testing,
+              optimization, and in other areas.
+***
+

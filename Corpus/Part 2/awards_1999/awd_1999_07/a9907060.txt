@@ -1,0 +1,102 @@
+Title       : Modeling Human-Body Soft Tissues for Surgical Applications
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 10,  2001      
+File        : a9907060
+
+Award Number: 9907060
+Award Instr.: Continuing grant                             
+Prgm Manager: Junku Yuh                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $379761             (Estimated)
+Investigator: Jean-Claude Latombe latombe@robotics.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              Abstract
+
+IIS-9907060
+Latombe, Jean-Claude
+Stanford University
+$122,673 -
+              12 mos.
+
+Modeling Human-Body Soft Tissues for Surgical Applications
+
+This
+              is the first year funding of a three year continuing award. The goal of this
+              research is to develop a general-purpose  computational scheme for representing
+              the geometry and physics of  human-body soft-tissue structures and simulating
+              their displacements 
+and deformations in real-time when external forces are
+              applied by surgical instruments. The ability to realistically model soft
+              tissues on a computer has the potential to radically change the ways surgery is
+              currently taught and practiced. Virtual environments simulating deformable
+              tissues will allow medical students to extensively practice delicate operations
+              and confirmed surgeons to re-train themselves and maintain their skills for
+              infrequent operations. Soft-tissue simulations will become essential to plan
+              and rehearse surgical operations. The on-line availability of the models will
+              make it possible to give intra-operative assistance to the surgeons. It will
+              enable the introduction of roboticized instruments that will perform
+              operations, either automatically or in interaction with surgeons. Research on
+              soft-tissue modeling will directly benefit domains such as robotics, where the
+              modeling of environments containing deformable objects is increasingly
+              important; computer vision, where the task of tracking objects undergoing
+              continuous deformations is central to understanding image sequences; and
+              computer graphics, especially for the animation of virtual
+              characters.
+
+Previous research on soft-tissue modeling provides foundations
+              on which the proposed research is based. In particular, as several researchers
+              have suggested before, tissue structures will be modeled by meshes of point
+              masses connected by elastic links, the so-called mass-spring elastic meshes.
+              The research program includes both the theoretical development of a
+              computational scheme based on the elastic mesh concept and the
+              implementation/experimentation/evaluation of this scheme within a
+              state-of-the-art virtual reality environment. The experiments will be conducted
+              in the context of two applications: micro-anastomosis (the suturing of small
+              blood vessels) and craniofacial surgery. This experimental effort will be
+              critical to the validation of the results.
+
+The unique features that this
+              research expects to achieve are the following: - Modeling of complex tissue
+              structures. Most existing models can only represent a tissue with uniform and
+              isotropic elastic properties. Techniques will be developed to specifically
+              model multiple adjacent soft tissues and their attachment to bones. - Realistic
+              modeling of the mechanical response of individual tissues. To simplify
+              computations a number of models assume linear elastic models. But human-body
+              tissues are nonlinear and exhibit some 
+hysteresis. These properties will be
+              captured in the new modeling scheme. - Modeling changes in tissue topology.
+              External forces may cause topological changes in tissue structures, such as
+              tissue cutting or tearing and formation of new contacts. A significant portion
+              of the effort will be directed toward the effective modeling of such
+              changes.
+- Dynamic simulation. A simulator may only compute static equilibrium
+              states of a tissue. Instead, by taking inertia and viscosity into account, it
+              may compute the successive shapes of the tissue as it deforms toward
+              equilibrium. The research will focus on 
+the second type of simulation. -
+              Automatic construction of tissue models. Techniques will be developed to
+              automatically generate complex elastic meshes and adjust their mechanical
+              parameters from various imaging sources (e.g., video, laser scans, Computed
+              Tomography, Magnetic Resonance Imaging).
+
+The research will be conducted in
+              close collaboration between the Computer Science Department, the Functional
+              Restoration Department, and the Stanford-NASA National Biocomputation Center. A
+              key mission of this center is to accelerate the transfer of imaging and
+              visualization technologies to operating rooms and surgical training.
+
+

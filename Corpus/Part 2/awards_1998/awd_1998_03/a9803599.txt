@@ -1,0 +1,70 @@
+Title       : Innovative Sparse Matrix Algorithms
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 20,  2000     
+File        : a9803599
+
+Award Number: 9803599
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $192729             (Estimated)
+Investigator: Timothy A. Davis davis@cise.ufl.edu  (Principal Investigator current)
+              William W. Hager  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9216,HPCC,OTHR,
+Abstract    :
+              9803599
+Davis
+
+Solving computational problems in science and engineering
+              often involves solving sparse linear systems of equations.  In this research,
+              Davis and Hager focus on direct solution techniques, and the following avenues
+              of research:  (1) numerical update and downdate methods, (2) ordering methods
+              for reducing fill-in, including a powerful optimization approach, and (3)
+              parallel unsymmetric factorization algorithms.
+
+The problem of analyzing the
+              effect of small changes in a system of equations arises in a wide range of
+              applications, including optimization, finite-element problems, partial
+              differential equations, and statistics, to name a few.  Sparse techniques will
+              be developed to take into account both the sparsity pattern of the equations
+              and the incremental nature of the system change.  Although long recognized as
+              an important problem, the sparse case has not been fully developed.  In
+              developing an algorithm that will be effective in a wide range of applications,
+              some of the important features that will be addressed include multiple rank
+              updates and downdates, matrix reordering and refactorization, the use of dense
+              matrix kernels, and changes in matrix order.  When the coefficient matrix of a
+              linear system has the special, but important, form of a matrix times its
+              transpose, techniques for fill-reducing orderings will be developed that do not
+              require the explicit formation of the matrix product.  This structure arises in
+              QR factorization, in sparse partial pivoting methods, in interior point
+              methods, in a dual active set approach for linear programming, and in
+              outer-product sparse LU factorization methods.  In addition, a different
+              pivoting strategy will be developed that uses optimization theory to solve a
+              parameterized quadratic programming problem.  When the parameter is 1, this
+              strategy yields the minimum degree scheme; setting the parameter to half the
+              matrix dimension yields global nested dissection type strategies.  Hence, a
+              continuum between local greedy and global strategies is obtained.  When the
+              pivoting problem is recast in this way as an optimization problem, powerful
+              optimization algorithms and analytical tools can be used to determine both
+              optimal pivots (in a constrained sense) as well as approximate optima.  For
+              large, sparse unsymmetric matrices, a parallel, distributed-memory,
+              unsymmetric-pattern multifrontal factorization method will be developed.  The
+              basic idea is to use graph partitioning techniques on the directed or bipartite
+              graphs arising from the factorization of unsymmetric sparse matrices. 
+              Factorization of the separated components of the graph will be guided by a
+              coarse separator tree, and be based on dense matrix kernels.  Each node in the
+              coarse separator tree will be factorized by a single processor.
+

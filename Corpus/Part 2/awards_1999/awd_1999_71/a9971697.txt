@@ -1,0 +1,154 @@
+Title       : Nonperiodic Sampling Theory, Deconvolution, and Wavelet Applications to
+               Tomography
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 21,  1999      
+File        : a9971697
+
+Award Number: 9971697
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $73000              (Estimated)
+Investigator: David F. Walnut dwalnut@gmu.edu  (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9971697
+Walnut
+
+This project will study applications of new results in
+              sampling theory to 
+certain deconvolution equations.  For example, it has been
+              known for 
+many years that a function of two variables can be recovered
+              completely 
+from its averages on three squares whose sidelengths are pairwise
+              
+irrationally related. Since convolution by characteristic functions of
+              
+squares is a standard model for remote sensing of images by arrays of
+              
+photodetectors (e.g., electronic cameras), this fact suggests that a
+              high-
+resolution image can be recovered from low-resolution images sensed by
+              
+arrays of photodetectors placed at three distinct distances from the image.  
+              
+Recent results of the principal investigator and collaborators indicate a
+              
+strong link between the theory of sampling on unions of regular grids of
+              
+irrationally related sizes.  Several aspects of this type of nonuniform
+              
+sampling are to be investigated.  Specifically, (1) higher dimensional
+              
+sampling with applications to high resolution tomography and to
+              
+deconvolution from averages over rotated squares, (2) sampling for
+              
+functions bandlimited to circular domains with applications to
+              
+deconvolution of images blurred by photosensors with circular apertures,
+              
+and (3) higher order sampling with applications to deblurring when the
+              
+blurring function is a smooth spline. A second focus of the research is in
+              
+wavelet applications to tomography. The principal investigator and
+              
+collaborators have shown that the wavelet transform is a valid theoretical
+              
+and practical tool for analyzing local aspects of the Radon transform, the
+              
+primary mathematical model in CT.  The principal investigator proposes 
+to
+              continue this analysis by studying the recovery of edge information in 
+images
+              directly from a wavelet-based edge analysis of their CT images.  
+This would
+              have the advantage of constructing an accurate edge picture of 
+the original
+              image without the loss of SNR inherent in any reconstruction 
+or
+              backprojection scheme.  The natural noise-reduction properties of 
+wavelets
+              should also help in reducing noise in the measured CT data.
+
+This research
+              has two foci.  The first is related to the problem of super-
+resolution of
+              digital images.  Any digital black-and-white image consists 
+of individual
+              pixels on which the image intensity is a fixed shade of gray. 
+In this case,
+              features of the image at scales smaller than one pixel in size 
+are invisible
+              to the imaging apparatus.  For example, in a satellite image of 
+New York City
+              in which the pixel size corresponds to one city block, it 
+will be impossible
+              to distinguish different buildings in a given block.  All 
+of the buildings
+              (features) will be blurred into a single shade of gray on 
+that block. Such an
+              image is a blurred version of a hypothetical "perfect 
+image." The goal is
+              always to get as close as possible to this perfect 
+image.  It has been
+              observed that certain classical mathematical results can 
+be interpreted as
+              saying that it is theoretically possible to take several 
+blurred images of
+              different pixel sizes and combine them in such a way as 
+to recover the
+              perfect image exactly.  Perfect deblurring is not possible in 
+any realistic
+              system but it is possible to significantly improve the 
+resolution in an image
+              by combining several blurred images in a specified 
+way.  The principal
+              investigator has contributed to this program by 
+observing that the deblurring
+              problem here described is actually very 
+closely related to the well-studied
+              signal and image processing problem of 
+interpolation from samples.  The
+              principal investigator's work has 
+demonstrated that it is possible to provide
+              very simple deblurring 
+formulas.  The current research project focuses on
+              finding practical 
+schemes to implement these formulas on computers. The
+              second focus of 
+this project is on applications of the technique of wavelet
+              analysis to 
+problems in tomographic imaging.  The term tomographic imaging"
+              refers 
+to devices such as medical CAT scanners that form very sharp (much
+              
+sharper than x-rays) non-invasive images of the inside of an object.  Such
+              
+imaging techniques are also used in industrial applications such as
+              
+detection of cracks in metal structures.  The principal investigator
+              
+proposes to study the recovery of edge data in images directly from a
+              
+wavelet-based edge analysis of their tomographic data.  This would have 
+the
+              advantage of constructing an accurate edge picture of the original 
+image
+              without the distortion inherent in standard reconstruction schemes.
+

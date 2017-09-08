@@ -1,0 +1,48 @@
+Title       : Scaling Reinforcement Learning by Adaptive Task Selection and Linear Solution
+               Merging
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 30,  1999 
+File        : a9896122
+
+Award Number: 9896122
+Award Instr.: Continuing grant                             
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1997     
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $78468              (Estimated)
+Investigator: Sridhar Mahadevan   (Principal Investigator current)
+Sponsor     : Michigan State University
+	      
+	      East Lansing, MI  48824    517/355-1855
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              The  aim  of  the  proposed  research is to study how  autonomous  agents  can 
+              adapt to dynamic  partially known task environments.  Potential applications of
+              such agents range from hardware  robots  that  automate delivery chores to
+              software programs that retrieve  information from the  Internet.  This research
+              will focus  on  an  adaptive  control   paradigm called reinforcement 
+              learning.   In  this  approach,  agents  acquire task skills  through  trial 
+              and  error    by   selecting   actions    that   maximize   a   reward 
+              function.Reinforcement learning has some  problems.  It converges  extremely
+              slowly, especially in large  state space problems where  rewards  occur 
+              infrequently. Also, the  learned skills  transfer  poorly  across  related
+              tasks.  This  research  will  investigate  using  a  novel  modular  task 
+              architecture  to  overcome  these  limitations of reinforcement learning. The 
+              proposed architecture  decomposes composite multiple goal tasks into primitive 
+              subtasks  that  achieve  each individual goal.  It utilizes  training  time 
+              more   efficiently  by  dynamically  switching  between  learning  different 
+              tasks  based on their difficulty and  importance.   It  increases transfer
+              across tasks by reusing  solutions learned  to  primitive  subtasks  using a
+              weighted linear  sum  function.   It  solves recurrent tasks more effectively
+              by  using a reinforcement  learning  method  that  optimizes average   reward. 
+               A  detailed  experimental  study  of  the  proposed   architecture   will   be
+               undertaken, using a variety of simulated and real robot testbeds.

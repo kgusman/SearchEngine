@@ -1,0 +1,125 @@
+Title       : Virtual Topologies for Multiparty Communication
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 21,  2001    
+File        : a9977524
+
+Award Number: 9977524
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $922825             (Estimated)
+Investigator: Virginia M. Lo lo@cs.uoregon.edu  (Principal Investigator current)
+              Arthur M. Farley  (Co-Principal Investigator current)
+              Daniel Zappala  (Co-Principal Investigator current)
+              Andrzej Proskurowski  (Co-Principal Investigator current)
+Sponsor     : U of Oregon Eugene
+	      5219 University of Oregon
+	      Eugene, OR  974035219    541/346-5131
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   This proposal seeks to improve multiparty communication on the Internet by
+              applying models
+and methodology from the fields of graph theory and parallel
+              and distributed computing.  Multiparty
+communication refers to any type of
+              information exchange among a group of participants, including
+conferences,
+              advertising, electronic voting, remote monitoring, and
+              meta-computing.
+Multicast, or one-to-many communication, has received the most
+              attention from network proto-
+col designers and has been implemented on a
+              subset of the Internet known as the MBone.  Several
+obstacles to the universal
+              deployment of multicast remain, such as high cost and lack of
+              robustness.
+Moreover, some multiparty applications are not able to operate, or
+              operate less efficiently, because
+multicast is a poor match for their style of
+              communication.  Large-scale electronic voting, for exam-
+ple, could use a
+              many-to-one network service, with balloting results partially tabulated on the
+              way
+to a central reporting service.
+     Research from the fields of graph
+              theory and parallel and distributed computing has solved many
+of these
+              problems, albeit for environments that differ greatly from that of the
+              Internet.  The key to
+applying these results to Internet protocols is the use
+              of a virtual topology that maps a theoretical
+substructure onto the physical
+              network.  As with the MBone, the links in the virtual topology could
+consist
+              of some physical links and some virtual links implemented by encapsulation
+              tunnels.
+The proposed research first addresses limitations in current
+              multicast routing protocols.  The researchers
+propose to investigate the use
+              of spanners as a virtual topology for densely-populated multicast
+groups, thus
+              improving the efficiency of the periodic ooding used in this domain.  For
+              sparsely-
+populated groups, we propose to apply hypercube message passing
+              algorithms used in parallel
+computation to the design of a more efficient and
+              fault-tolerant multicast protocol. The researchers then plan
+to apply the
+              techniques used for multicast virtual topologies to other multiparty
+              communication
+paradigms. The researchers have identified promising research
+              directions for reduction (many-to-one), subcast (one-to-some), and multi-source
+              multicast (few-to-many).
+     The project will progress in three main stages:
+              analysis, protocol design and evaluation.  The
+analysis stage is intended to
+              identify virtual topologies that are good candidates for multiparty
+              com-
+munication protocols.  The analysis will include definition of formal
+              models of the virtual topologies
+used, definition of appropriate metrics and
+              statistical evaluation of random samples of the topologies,
+and discussion of
+              complexity status of the relevant exact and approximate optimization
+              problems.
+The protocol design stage will build on our analysis by using
+              virtual topologies as the basis for
+communication protocols.  Our emphasis
+              will be on protocols that are feasible and practical to
+implement and will be
+              based on simulation studies of the static properties of proposed graph
+              struc-
+tures.  Evaluation of the new protocols will utilize dynamic simulation
+              to look at traffic capacities,
+delay, and fault tolerance recovery.
+              Eventually, the developed protocols will be implemented and
+evaluated on a
+              network testbed built with prior NSF support.
+     The major contributions of
+              this work will be a methodology for applying virtual topologies to
+Internet
+              protocol design, formal models for these topologies, and new protocols for
+              multicast rout-
+ing, reduction, and other communication paradigms.  Further
+              outcomes of our work will include
+a database of topologies used in our
+              simulations, methods for modeling dynamic group member-
+ship and group
+              distribution, and techniques for evaluation of fault tolerance properties of
+              virtual
+topologies and protocols.  The  contributions to education will
+              consist of training of graduate and
+undergraduate students in network theory
+              and engineering, and development and dissemination of
+curriculum materials for
+              the design and evaluation of multiparty communication protocols.

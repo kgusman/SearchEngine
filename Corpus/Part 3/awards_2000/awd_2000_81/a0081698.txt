@@ -1,0 +1,75 @@
+Title       : ITR: Analysis of Internet Algorithms: Optimization, Game Theory and Competitive
+               Analysis
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 19,  2002      
+File        : a0081698
+
+Award Number: 0081698
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $499774             (Estimated)
+Investigator: Richard M. Karp karp@icsi.berkeley.edu  (Principal Investigator current)
+              Scott Shenker  (Co-Principal Investigator current)
+              Christos H. Papadimitriou  (Co-Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9218,HPCC,
+Abstract    :
+              As the complexity of the Internet, the nature of its applications, and its
+              socioeconomic framework evolve, new algorithmic and architectural ideas will be
+              proposed, tested, and adopted.  While the original Internet design principles
+              will likely remain valid, the researchers believe that it is important to have
+              in place a mathematical framework within which these design principles can be
+              expressed and applied to the next generation of Internet algorithms and
+              architectures.  Building such a framework is the ultimate goal.  The
+              mathematical tools will come from optimization, game theory and competitive
+              analysis. The researchers shall work on the following topics.
+
+Multicast. 
+              The researchers shall seek to determine the relative efficiency, in terms of
+              link usage, of multicast versus unicast, devise and analyze efficient methods
+              of multicast error recovery, and determine how efficiently multicast can be
+              simulated in the application layer by a coordinated set of
+              unicasts.
+
+Congestion Probing.  The TCP congestion control protocol controls
+              its window size with an additive-increase and multiplicative-decrease  (AIMD)
+              algorithm.  One can think of this as a probing algorithm in  which the flow
+              attempts to discover the maximum rate of traffic that
+can be send under
+              current conditions; if a packet drop is recorded it is assumed the bandwidth
+              rate was too high and so the window size is reduced. The researchers shall
+              develop efficient probing algorithms and  theoretical limits on the efficiency
+              of probing under different models of Internet congestion.
+
+Cost Sharing. How
+              are the recipients of a multicast transmission to share the network costs?  The
+              researchers assume that the information to be multicast is of a certain value
+              to each possible recipient, but this value is private to that individual. The
+              researchers shall investigate strategyproof cost sharing methods where each
+              user is assured that their outcome is maximized if they truthfully reveal their
+              value to the network.  The researchers' goal is to characterize the set of
+              protocols that are acceptable on both game-theoretic and complexity
+              grounds.
+
+Information Dissemination.  While traditional databases require
+              transactional consistency, many repositories of information require only the
+              much weaker notion of eventual consistency.  That is, in such cases we care
+              only whether, and how quickly, the information is disseminated, but do not
+              require global consistency during the dissemination. The researchers shall
+              identify message-efficient strategies for selectively propagating information
+              so that the network will eventually converge to a fully updated state.
+
+

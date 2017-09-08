@@ -1,0 +1,67 @@
+Title       : Data Structures and Algorithms for Maintaining Data Locality
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0208670
+
+Award Number: 0208670
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2002      
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $144519             (Estimated)
+Investigator: Michael A. Bender bender@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              As modern memory architectures grow in complexity, it is becoming
+increasingly
+              important to design algorithms with high data locality.
+Standard approaches
+              parameterize algorithms by aspects of the memory
+hierarchy, such as the size
+              and block size of each memory level.
+Unfortunately, this parameterization
+              often leads to complex algorithms
+that are tuned to particular architectures. 
+              A promising new line of
+research is to develop memory-hierarchy-sensitive
+              algorithms that avoid
+any memory-specific parameterization. Such
+              platform-independent algorithms
+are said to be "cache-oblivious."  If a
+              cache-oblivious algorithm works
+optimally on a two-level hierarchy, then it
+              works optimally on all levels
+of a multilevel memory hierarchy;
+              cache-oblivious algorithms automatically
+tune to arbitrary memory
+              architectures.
+
+This research involves maintaining data locality in irregular
+              and dynamic
+settings, where the data flow is continually changing and
+              unpredictable.
+The investigator will design cache-oblivious solutions for a
+              variety of
+fundamental algorithms and data-structures problems.  New
+              algorithmic
+models of aspects of the memory hierarchy will be proposed and
+              integrated.
+The investigator will emphasize solutions that are simple and
+              elegant
+enough to implement.  Two verification tools under development at
+              Stony
+Brook will provide testbeds for the project's empirical component.
+
+

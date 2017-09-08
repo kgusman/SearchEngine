@@ -1,0 +1,118 @@
+Title       : CAREER: Effective Grid Programming with EveryWare and G-commerce
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 16,  2001   
+File        : a0093166
+
+Award Number: 0093166
+Award Instr.: Continuing grant                             
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 15,  2001   
+Expires     : January 31,  2006    (Estimated)
+Expected
+Total Amt.  : $344208             (Estimated)
+Investigator: Richard Wolski   (Principal Investigator current)
+Sponsor     : U of Tennessee Knoxville
+	      404 Andy Holt Tower
+	      Knoxville, TN  379960140    865/974-3466
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              As network performance has increased, the high-performance computing community
+              has begun to
+turn to distributed systems to meet their performance needs.
+              Research that combines the concurrency
+management techniques from parallel
+              computing with scalable and adaptive distributed systems design has resulted in
+              a new software architecture known as the "Computational Grid". Its main tenet
+              is that user programs should be able to draw computational "power" from a
+              distributed resource pool the way
+electrical appliances draw electricity from
+              a power utility: ubiquitously, seamlessly and reliably. This
+project will
+              investigate a novel approach to building software systems that implement the"
+              Computational
+Grid"  model of computing and how to foster new curricular
+              directions based on this investigation.
+
+As vehicles for this proposed work,
+              two research thrusts will be combined in the form of EveryWare and G-commerce
+              to define a new programming methodology for the Grid. EveryWare is a software
+              toolkit for building robust, high-performance distributed applications that can
+              use existing Computational Grid
+middleware as building blocks. An EveryWare
+              program is structured as a set of application customizable
+services that use
+              the EveryWare toolkit as an adaptive server framewirk while leveraging the
+              functionality
+provided by existing Grid systems. G-commerce is a computational
+              economic system that allows applications to purchase resources from
+              computational suppliers. A key feature of G-commerce is that it is a
+              macro-economic system which provably achieves economic equilibrium and market
+              stability. By combining these two we will define a new and powerful approach to
+              programming Grid applications.
+
+To do so we will:
+.extend and implement the
+              EveryWare software toolkit,
+.study and develop economic formulations that will
+              form the basis of G-commerce
+based resource allocation strategies,
+.develop a
+              computational exchange for implementing resource economies an
+infrastructure
+              for empirical G-commerce resource scheduling studies and,
+.verify our results
+              using non-trivial Grid applications in "live" Grid settings.
+
+The research
+              approach of this project is both analytical and experimental.
+It will approach
+               the problem of ensuring resource allocation stability and
+equilibrium
+              theoretically and using simulation. Then implement promising
+economic
+              formulations using the computational exchange, and test their
+validity with
+              EveryWare implimentations of Grid applications. At the same
+time, EveryWare
+              will be enhanced so that it enables the aplication programmers
+and schedulers
+              to consider computational price when making resource
+              allocation
+decisions.
+
+EveryWare and G-commerce will also serve as the basis
+              for new directions in
+curriculum development. A course sequence will be
+              designed that combines
+distributed computing techniques, statistical analysis
+              of load conditions, and
+economic modeling methods from the literature with
+              practical implementation
+using Computational Grids. The resulting
+              multi-disciplinary course will allow
+students to compare and combine different
+              strategies easily for the purpose of
+making quantitative evaluations, which
+              will be a primary focus of each sequence.
+
+Practica will also be organized in
+              which students from different Universities
+will be invited to participate.
+              Each practicum will focus on the implementation
+of a chosen application using
+              different Computational Grid infrastructures.
+Students will compare different
+              techniques and use the EveryWare toolkit and
+G-commerce to combine those that
+              are the most effective.  
+
+
+

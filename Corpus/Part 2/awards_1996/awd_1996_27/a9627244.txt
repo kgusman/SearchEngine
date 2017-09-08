@@ -1,0 +1,55 @@
+Title       : Mathematical Sciences: Uniform Numerical Methods for Singularly Perturbed
+               Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 26,  1996    
+File        : a9627244
+
+Award Number: 9627244
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $66000              (Estimated)
+Investigator: Paul A. Farrell farrell@cs.kent.edu  (Principal Investigator current)
+Sponsor     : Kent State University
+	      P.O. Box 5190
+	      Kent, OH  442420001    330/672-2851
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Farrell  9622744    The investigator, together with colleagues in Ireland and
+              Russia,  develops epsilon-uniformly convergent finite difference schemes  for
+              singularly perturbed equations.  Unlike classical schemes,  such schemes have
+              the advantage that the errors do not depend on  an inverse power of the small
+              parameter epsilon, and hence do not  become unbounded as epsilon approaches
+              zero.  The aim of this  project is to develop methods for a number of nonlinear
+              ordinary  differential equations, and linear and nonlinear partial 
+              differential equations of elliptic and parabolic type, using  meshes that are
+              condensed (refined) in the boundary layers.   These meshes usually involve at
+              least one free parameter.  They  investigate the influence of these parameters
+              on the accuracy of  the approximation and the speed of convergence of linear
+              and  nonlinear solvers.  The investigator implements these methods on  parallel
+              (shared memory) and distributed computers.  This  involves theoretical work on
+              convergence of Schwarz type methods  of domain decomposition and their parallel
+              variants, as well as  comparisons of the efficiency of various parallel and
+              sequential  methods.  They also study efficient solvers for the linear  systems
+              arising from these problems, which can be highly  nonsymmetric for small
+              epsilon.    Singularly perturbed differential equations are pervasive in 
+              applications of mathematics to problems in the sciences and  engineering. 
+              Among these are the Navier-Stokes equations of  fluid flow at high Reynolds
+              number, the drift-diffusion equations  of semiconductor device physics, the
+              Michaelis-Menten theory for  enzyme reactions, and mathematical models of
+              liquid crystal  materials and of chemical reactions.  The development of 
+              efficient generalizable methods for such equations, which yield  guaranteed
+              bounds on the error independent of the value of the  small perturbation
+              parameter, is thus of considerable  significance in a number of important
+              areas.

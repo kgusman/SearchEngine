@@ -1,0 +1,78 @@
+Title       : Elimination of All-Optical Cycles in Wavelength-Routed Optical Wide Area
+               Networks
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 29,  1997       
+File        : a9521249
+
+Award Number: 9521249
+Award Instr.: Continuing grant                             
+Prgm Manager: James Mink                              
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1995    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $283256             (Estimated)
+Investigator: Biswanath Mukherjee mukherje@cs.ucdavis.edu  (Principal Investigator current)
+              Jonathan P. Heritage  (Co-Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1519      INTEGRATIVE SYSTEMS
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 1504,9215,HPCC,
+Abstract    :
+              9521249  Mukherjee  A transparent (wide-area) wavelength-routed optical network
+              may be created by using wavelength cross-connect switches connected together by
+              fiber to from an arbitrary mesh structure.  The network is accessed through
+              electronic stations that are attached to some of these cross-connects.  Such a
+              wavelength-routed optical network is being studied and demonstrated as a part
+              of ARPA-sponsored programs at Bellcore (ONTC and MONET).   The  wavelength
+              cross-connect switches may be implemented using acousto-optic filters (AOTFs)
+              or WDM multiplexer/demultiplexer-based technologies.  The wavelength
+              cross-connects may or may not include a wavelength-translation functionally.   
+               These wavelength cross-connect switches have the property that they may
+              configure themselves into unspecified states.  Each input port of a switch is
+              always connected to some output port of the switch whether or not such a
+              connection is required for the purpose of information transfer.  Due to the
+              presence of these unspecified states, there exists the possibility of setting
+              up unintended all-optical cycles in the network (viz. a loop with no
+              terminating electronics in it).  IF such a cycle contains amplifiers (e.g.,
+              Erbium-Doped Fiber Amplifiers (EDFAs), there is a possibility that the net loop
+              gain is greater than the loop loss.  The amplified spontaneous emission (ASE)
+              noise from amplifiers can build up in such a feedback loop to saturate the
+              amplifiers and result in oscillations of the ASE noise in the loop.  Such
+              all-optical as defined above (and hereafter referred to as "white" cycles) must
+              be eliminated from an optical network in order for the network to perform any
+              useful operation.  Furthermore, for the realistic case in which the wavelength
+              cross-connects result in signal cross-talk, there is a possibility of  having
+              closed cycles with oscillating cross-talk signals.  We will investigate both
+              the network-routing layer and the physical layer solutions to this problem.    
+              At the network-routing layer, , w e will examine algorithms that set up new
+              transparent optical connections upon request avoiding the creation of such
+              cycles in the network.  These algorithms will attempt to find a route for a
+              connection and then (in a post-processing fashion) configure switches such that
+              white cycles that might get created would automatically get eliminated. 
+              Furthermore, for the more realistic case in which the cross-connects result in
+              cross-talk, we propose call-set-up algorithms that minimize the possibility of
+              cross-talk cycles.     At the physical layer, we will study various
+              device-related issues that arise in transparent wavelength-routed optical
+              networks.  The physical layer study will directly influence the network-routing
+              layer work stated above.  Specifically, we propose (1) to provide device
+              characterization and usable computer models of present and future optical
+              devices such as optical amplifiers, optical wavelength cross-connect switches
+              (with and without wavelength translation), and fiber links including connector
+              models to network theorist so that "ideal" network models may be upgraded to
+              "realistic" network models; (2) to explore potential solutions in the physical
+              layer to problems identified by network demonstrations and network analysis;
+              and (3) to identify viable alternative optical devices, particularly amplifiers
+              and switches, whose physical properties will directly benefit the
+              implementation of transparent optical networks.     We will feed back the
+              results of this work so as to directly benefit the ARPA-sponsored ONTC
+              (Bellcore, BNR/NT, Columbia University, Hughes, LLNL, Rockwell, UTRC) and MONET
+              (AT&T, Bellcore, Pacific Telesis, Bell Atlantic, Bellsouth) consortia.  ***

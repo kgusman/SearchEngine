@@ -1,0 +1,80 @@
+Title       : ITR/IM: Statistical Data Mining for Cosmology
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 10,  2003     
+File        : a0121671
+
+Award Number: 0121671
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2006     (Estimated)
+Expected
+Total Amt.  : $3406500            (Estimated)
+Investigator: Andrew W. Moore awm@cs.cmu.edu  (Principal Investigator current)
+              Robert C. Nichol  (Co-Principal Investigator current)
+              Jeff Schneider  (Co-Principal Investigator current)
+              Andrew J. Connolly  (Co-Principal Investigator current)
+              Larry A. Wasserman  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              Scientists are now confronted with many very large high-quality data sets. The
+              potential scientific benefits of these data are offset by the laborious process
+              of analyzing them to answer questions and test theories. This project will
+              develop new data mining algorithms in pursuit of the goal of computer assisted
+              discovery. Two key issues in achieving this are computational efficiency and
+              autonomy.  If scientists are to focus their energy on understanding, answers
+              must arrive in minutes rather than days, hence the need for efficiency.
+              Autonomy is important both from the data mining and the statistical
+              perspective. Detailed searches for relationships, models, and parameters are
+              too large for humans to undertake manually. New statistical methods will have
+              to autonomously and quickly select models, test their significance, and report
+              the results to search algorithms looking for new discoveries.
+
+The National
+              Virtual Observatory (NVO) currently under construction is a model of the future
+              of science. The NVO will assemble petabytes of data from many multi-wavelength
+              sky surveys into a single repository. The new methods to be developed will be
+              implemented in the domain of cosmology, but they will be applicable to all
+              other sciences. 
+
+The members of this project are computer scientists,
+              physicists and statisticians who have a track record of collaborating closely. 
+              Working together they have produced: new algorithmic theory, new statistical
+              theory, and publicly fielded software packages resulting from the theory, while
+              developing new courseware and training students.
+
+This proposal involves
+              research and education in the following areas:
+
+Nonparametric data analysis.
+              Nonparametric statistical models enable powerful analysis techniques that make
+              minimal assumptions, which is critical for scientific accuracy.
+
+Automated
+              discovery. Statistical models can be used directly for discovery. Individual
+              objects are compared to models to identify anomalies and data generated models
+              are compared to theoretical models to refute or confirm
+              hypotheses.
+
+Computational methods for fast analysis. The project will build
+              on past successes of getting orders of magnitude speedups on operations such as
+              Expectation Maximization based clustering and n-point correlations to make the
+              new methods fast.
+
+Automated simulation parameter searching. Using all of the
+              above methods, a system will be developed that starts with a parameterized
+              simulation and some observational data. The system will search the space of
+              parameters, testing the resulting simulation against the real data using
+              nonparametric methods to determine the best settings.
+

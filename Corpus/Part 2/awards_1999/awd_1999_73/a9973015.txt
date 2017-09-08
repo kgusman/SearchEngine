@@ -1,0 +1,81 @@
+Title       : Scheduling Algorithms for High Speed Switches with QoS Guarantee
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 5,  2003   
+File        : a9973015
+
+Award Number: 9973015
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $414364             (Estimated)
+Investigator: Kai-Yeung Siu Siu@list.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Next generation networks will support transmission rates that are orders of
+              magnitute higher
+than current rates.  Moreover, they will support a large
+              variety of applications with different band-
+width and quality of service
+              (QoS) requirements.  In particular, they must have the capability
+              of
+simultaneously supporting highly bursty delay-insensitive data traffic
+              (e.g. file transfer), high-rate
+delay-sensitive sessions (e.g. high quality
+              video), and a large variety of heterogeneous services and
+applications in
+              between.  To meet these requirements, next generation networks would need
+              to
+be implemented using packet switches that can scale to very high speed
+              (e.g. aggregate speed of
+multi-terabit per second) and can simultaneously
+              support heterogeneous QoS for a large number
+(hundreds of thousands) of ows.
+
+                  While traditional packet switches based on shared-memory or output-queued
+              architectures can
+handle today's bandwidth (multi-gigabit/sec) requirement,
+              they cannot scale to a large number of
+flows and to very high speed (e.g.
+              multi-terabit/sec).  On the other hand, input-queued architectures
+have much
+              better scalability properties and perhaps are the only feasible design option
+              to implement
+switches at very high speed.  However, supporting heterogeneous
+              QoS to a large number of fl ows
+with input-queued switches requires more
+              complex scheduling algorithms, which can become the
+performance bottleneck.
+ 
+                 The proposed research project aims to design and analyze scalable scheduling
+              algorithms for
+packet switches that can support heterogeneous QoS to a large
+              number of flows at very high
+speed.  In particular, the project will focus on
+              fundamental scheduling issues involved in input-
+queued switches with the
+              switch fabric being a crossbar or multiple crossbars.  In addition to
+              the
+study of QoS (e.g. delay, bandwidth guarantee, fairness) to individual
+              flows, the project will also
+address issues in scheduling multicast flows, the
+              interaction between scheduling and queue over flow
+management, and packet
+              discarding algorithms.  Theoretical and simulation studies will be
+              involved.
+The proposed research will yield a new understanding of the
+              performance limits in packet switching
+and the fundamental tradeoff between
+              the scheduling complexity and the achievable QoS.

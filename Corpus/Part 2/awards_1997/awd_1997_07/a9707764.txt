@@ -1,0 +1,58 @@
+Title       : "Scalable Audio Compression for Multimedia Applications"
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 10,  2000     
+File        : a9707764
+
+Award Number: 9707764
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1997   
+Expires     : November 30,  2001   (Estimated)
+Expected
+Total Amt.  : $147000             (Estimated)
+Investigator: Allen Gersho gersho@ece.ucsb.edu  (Principal Investigator current)
+              Kenneth Rose  (Co-Principal Investigator current)
+              Vladimir Cuperman  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              Scalable signal compression algorithms are required by the evolving
+              communication  network, which is composed of a variety of channels with widely
+              differing static  and dynamic capacities, and by the recent trend toward
+              incremental capacity and  bandwidth reservation channels.  Current multimedia
+              compression algorithms  implicitly assume simple point to point transmission as
+              well as fixed bandwidth  allocation, and result in under-utilization of the
+              network resources.  The  development of truly scalable coders with rate
+              controlled by the local source  statistics, network traffic load, and channel
+              condition will directly impact the  next generation of audio internetworking
+              for multicasting, videotelephone,  videoteleconferencing, and various
+              applications for information retrieval from  multimedia databases.    This
+              research focuses on new audio compression techniques for voice and music 
+              signals, that allow efficient scaling of bit rate and audio bandwidth within
+              the  framework of multimedia compression.  The primary thrust centers on audio
+              signal  modeling with a sinusoidal signal representation, which is bandwidth
+              and rate  scalable and achieves good performance in a variety of coding
+              environments from  low-rate coding of narrow-band speech (2 kb/s) to
+              high-quality coding of audio  signals (16-64 kb/s).  Methods under
+              investigation include sophisticated phonetic  and music classification to allow
+              content-adaptive audio decomposition and  modeling, generalized product code
+              vector quantization, and in particular, multi-  stage vector quantization, to
+              implement scalable quantization techniques.  Inter-  stream optimization for
+              joint compression of audio and video signals is studied  with emphasis on
+              potential applicability to packet transmission and in particular  to TCP/IP
+              Internet protocols.  An important sub-problem is the inter-stream rate 
+              allocation optimization taking into account each stream's level of activity,
+              user  requirements, and sensitivity to quantization and channel errors.  Sourc
+              e-channel  coding and error concealment issues are studied in order to maintain
+              quality of  service requirements under packet losses for both wired and
+              wireless channels.

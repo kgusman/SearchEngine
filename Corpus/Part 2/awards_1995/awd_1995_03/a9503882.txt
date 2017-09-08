@@ -1,0 +1,129 @@
+Title       : Algorithmic Scalability in Reconfigurable Bus-Based Models
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 12,  1996      
+File        : a9503882
+
+Award Number: 9503882
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1995      
+Expires     : December 31,  1997   (Estimated)
+Expected
+Total Amt.  : $123664             (Estimated)
+Investigator: Jerry L. Trahan trahan@ece.lsu.edu  (Principal Investigator current)
+              Ramachandran Vaidyanathan  (Co-Principal Investigator current)
+Sponsor     : La St U & A&M Coll
+	      330 Thomas Boyd Hall
+	      Baton Rouge, LA  70803    225/578-3386
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9232,HPCC,
+Abstract    :
+               For a model to be a workable component of a parallel  processing system, it
+              must be scalable.  Researchers often  design algorithms so  that the assumed
+              machine size for  running the algorithm grows with the problem  size. (This  is
+              particularly the case with algorithms for  reconfigurable  busbased models.)  A
+              physical machine size  is, of course, fixed.  For a  scalable model, however,
+              the  arbitrary sized machine for running the algorithm  can be  mapped to the
+              smaller physical machine that actually  solves the problem  without loss of
+              efficiency.  A compiler  can perform this mapping, so algorithm  designers and 
+              programmers can design algorithms for arbitrary size  machines  and need not
+              design different algorithms or write  programs for different sized  problems.  
+               No reconfigurable bus-based model is known to be scalable,  however, unless
+              its computational power is significantly  reduced. To better  understand the
+              extent to which these  models are scalable, the investigator is  less
+              restrictive  than traditional scalability.    This research will  investigate
+              scalability of two main  types of reconfigurable bus-based models,  namely, the
+               Reconfigurable Mesh (R-Mesh) and the Reconfigurable  Multiple Bus  Machine
+              (RMBM).  The RMBM comprises four  versions:  the B-RMBM, S-RMBM,F-RMBM,  and
+              E-RMBM.  The  investigators have previously established relative  scalability
+              results for the S-RMBM and for `separable`  algorithms of the  E-RMBM, the most
+              powerful version.  The  research will seek to investigate  scalability of
+              general E-  RMBM algorithms and study different scalability  approaches  for
+              different ranges in the relationship of simulated to  available  machine sizes.
+              Scalability questions for the R-  Mesh will also be investigated.  These will
+              include  relative scalability and scalability of certain classes of 
+              algorithms, topics not yet examined for the RMesh, and  extensive attempts at 
+              complete scalability of the RMesh, a  topic that has received only to narrow 
+              attention in the  past.   Scalability questions will also be studied for 
+              directional versions of the R-Mesh and RMBM, which have  proven particularly 
+              useful for directed graph algorithms.                                          
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                           

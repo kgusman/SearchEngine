@@ -1,0 +1,53 @@
+Title       : A Bit-Parallel, Word-Parallel, Massively Parallel Associative Processor for
+               Scientific Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 8,  1991       
+File        : a9106949
+
+Award Number: 9106949
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1991      
+Expires     : June 30,  1994       (Estimated)
+Expected
+Total Amt.  : $228236             (Estimated)
+Investigator: Isaac D. Scherson isaac@ics.uci.edu  (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      160 Administration Building
+	      Irvine, CA  926971875    949/824-7106
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0108000   Software Development                    
+              0308000   Industrial Technology                   
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              Classical SIMD associative processors execute arithmetic in a bit-             
+              serial word-parallel manner.  Current massively parallel machines              
+              also perform bit-serial arithmetic in a fine grain computing                   
+              environment.  This bit-serial property is a limiting factor in                 
+              increasing processing speeds.  A simple but powerful new                       
+              architecture based on the classical associative processor model is             
+              proposed here.  By distributing logic among slices of storage cells            
+              such that a number of bit-planes share a simple logic unit, bit-               
+              parallel arithmetic in a massively parallel environment becomes                
+              feasible.  For m-bit operands, complex operations such as                      
+              multiplications execute in O(m) cycle as opposed to O(m2) for bit-             
+              serial machines.  The simplicity of the architecture enables its               
+              implementation using VLSI technology, and hence allows the                     
+              construction of a word-Parallel, bit-Parallel, massively Parallel              
+              (P3) computing system.                                                         
+              The main goal of the proposed work is to build an experimental P3              
+              machine which is to be embedded into a heterogeneous supercomputing            
+              environment.  The need for such architecture and for an actual                 
+              working prototype stems from a number of applications which cannot             
+              be solved in conventional spercomputers.  In this proposal, space              
+              science applications are outlined as this work is also supported               
+              by NASA.

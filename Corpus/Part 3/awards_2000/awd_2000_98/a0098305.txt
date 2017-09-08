@@ -1,0 +1,103 @@
+Title       : Self-Stabilizing Group Communication for Mobile Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 4,  2003      
+File        : a0098305
+
+Award Number: 0098305
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $280002             (Estimated)
+Investigator: Jennifer L. Welch welch@cs.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9217,HPCC,
+Abstract    :
+              Group communication services form important building blocks for applications in
+              dynamic
+distributed systems, where processors and communication links can
+              repeatedly fail and recover.
+Such dynamic behavior is especially descriptive
+              of mobile environments, in which processors can
+change their physical location
+              continually. The key features of a group communication facility are
+(1)
+              indicating to each processor with which other processors it can currently
+              communicate, and (2)
+letting processors within a group communicate with each
+              other in an ordered and reliable manner.
+A typical approach to developing
+              fault-tolerant software is to assume certain limitations on the
+behavior of
+              faulty components. However, in reality there is a non-zero probability that any
+              such
+assumptions will be temporarily violated; in fact, this probability grows
+              with time. In particular,
+mobile communication networks are exposed to
+              environmental noise whose level is hard to predict
+in advance. Thus, it may be
+              too optimistic to approach correctness by assuming that the system
+is
+              consistent initially and each subsequent step maintains consistency.
+              Self-stabilizing algorithms
+cope with temporary faults in an elegant way. A
+              self-stabilizing algorithm can be started in any
+global state, which could be
+              reached due to an arbitrary combination of failures, and always en-sures
+that
+              the task of the algorithm is achieved, assuming that the designer's assumptions
+              hold for
+sufficiently long intervals.
+The goal of this research is to design
+              self-stabilizing group communication services and apply
+these services to
+              mobile networks.
+One part of the research will focus on the specification and
+              design of initialized group services,
+in which the establishment of a new
+              group ensures that messages related to previous incarnations
+are discarded.
+              Various synchrony assumptions will be considered in order to identify the
+              necessary
+and sufficient conditions for the specified initialized group
+              services. One approach to be investi-gated
+is using transient fault detectors
+              that will trigger the establishment of a new group whenever
+inconsistency is
+              detected. Impossibility results will be developed to indicate which system
+              assump-tions
+are necessary; lower bound results will be proved to shed light
+              on the degree of optimality of
+the solutions obtained. A second part of the
+              research will study how different mobile applications
+can take advantage of
+              the self-stabilizing group communication services developed. A third part
+of
+              the research will explore the interactions between the group communication
+              services and other,
+lower level, mobile services.
+Group communication
+              services have been incorporated in several existing academic and
+              indus-trial
+distributed systems. However, none of them is self-stabilizing and
+              none of them is specifi-cally
+tailored for mobile environments.
+              Self-stabilization and group communication are important
+paradigms for the
+              design of dynamic communication networks, and in particular wireless
+              net-works.
+There is no doubt that the new methods developed in this project
+              will contribute to future
+implementations of robust group communication
+              systems.

@@ -1,0 +1,71 @@
+Title       : Computational Error Estimation and Adaptive Error Control for Multiscaled
+               Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 18,  2002     
+File        : a0107832
+
+Award Number: 0107832
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $152000             (Estimated)
+Investigator: Donald J. Estep estep@math.colostate.edu  (Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Multiscaled physical systems involving processes acting on vastly different
+              scales arise in a variety of important applications. Analyzing such systems
+              present overwhelming challenges to mathematical analysis and therefore
+              numerical simulation has become a centrally important tool. However, multi-
+              scaled problems also strain the limit of current computational abilities and
+              resources because of the resolution required to approximate behavior on the
+              small scales accurately. The principle investigator will attack this problem by
+              means of computational error estimation and adaptive error control. He will
+              develop residual-based a posteriori estimates of user-chosen functionals of the
+              solution given in terms of the computed numerical solution. The proposed
+              approach accounts for the global effects of stability through a variational
+              analysis and the dual problem to the original problem. The computational
+              estimates will be used to guide the discretization resolution in order to
+              efficiently compute numerical solutions of a desired accuracy. The research in
+              this proposal will encompass development of computational error estimates,
+              analysis of the reliability and accuracy of the estimates, implementation of
+              adaptive finite element codes, and the use of these codes to investigate
+              physical systems. The underlying applications driving this research will be
+              investigations into the behavior of a small number of particles suspended in a
+              low-Reynolds number flow and reaction- diffusion systems arising in shear flow
+              problems, general relativity, modeling of pattern formation in biological
+              systems, and population dynamics.
+
+Some physical systems involve processes
+              that act on vastly different scales. An example is given by the motion of small
+              particles suspended in a slow flowing fluid, as for example occurs in
+              riverbeds. In this situation, the interactions of the particles can occur on a
+              very rapid time scale as they approach each other compared to motion of the
+              fluid. Other multi-scaled systems include pattern formation in biological
+              systems like stripes on Zebras, the dynamics of diseases in populations, and
+              problems involving general relativity. Computer simulations of such systems
+              have become a main tool for understanding and predicting their behavior. Yet
+              the multi-scaled aspects strain current computational ability because of the
+              resolution needed to approximate the behavior on small scales accurately. The
+              principle investigator will attack this problem by developing computational
+              error estimates to be used to guide the resolution needed at each point in
+              space and time to obtain simulations of a desired accuracy. The resolution will
+              be adjusted through a feedback mechanism as a system evolves. The proposed
+              research encompasses development of techniques to estimate the error and adjust
+              the resolution of the approximation, implementation of these techniques into
+              computer programs that will be made available to the public, and the use of
+              these computer programs to investigate real physical systems including those
+              mentioned above. 
+

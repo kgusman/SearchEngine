@@ -1,0 +1,53 @@
+Title       : High-Bandwidth Memory Pipeline for Wide-Issue Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 10,  2000      
+File        : a0073259
+
+Award Number: 0073259
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $206130             (Estimated)
+Investigator: Gyungho Lee   (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+Proposal: 0073259
+PI: Gyungho Lee
+Title: High-Bandwidth Memory
+              Pipeline for Wide-Issue Processors 
+	
+Technological and architectural
+              innovations have enabled development of powerful microprocessors that can issue
+              several instructions concurrently at a very high clock rate. In future
+              processors with aggressive speculation techniques, an even larger number of
+              instruction issues per cycle are expected. Efficient handling of memory
+              references for data access is one of the keys to achieving high performance in
+              future processors. This research addresses methods to provide sufficient
+              bandwidth at fast latency for data access in wide-issue processors issuing tens
+              of instructions per cycle. The methods are based on the concept of "data
+              decoupling". Data decoupling divides the memory reference instructions into
+              multiple independent streams before the actual addresses of the data they
+              access are known. Partitioned memory reference instructions are then fed into a
+              separate memory pipeline. This research investigates the issues in effective
+              and efficient hardware and software support for multiple memory pipelines based
+              on data decoupling. The data decoupling approach of providing multiple memory
+              pipelines can provide two crucial advantages over a conventional design. First,
+              the cost and the complexity of building a large cache with many ports are
+              reduced. Second, partitioning memory references can facilitate more specialized
+              handling of each partitioned stream. 
+
+

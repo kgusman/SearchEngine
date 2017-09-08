@@ -1,0 +1,64 @@
+Title       : Deformation Methods for Grid Adaptation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 1,  1999  
+File        : a9732742
+
+Award Number: 9732742
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $186000             (Estimated)
+Investigator: Guojun Liao liao@uta.edu  (Principal Investigator current)
+              Dale A. Anderson  (Co-Principal Investigator current)
+Sponsor     : U of Texas Arlington
+	      Office of Research
+	      Arlington, TX  760190145    817/273-2105
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9215,9263,HPCC,OTHR,
+Abstract    :
+              DMS-9732742
+Guojun Liao
+
+A key factor to the success of numerical simulation
+              of scientific and engineering problems is that of grid generation of the
+              physical domains.  The objective of the project is to develop an adaptive grid
+              generation method that can be used with various numerical schemes such as
+              finite element, finite difference, etc.  Our method is based on sophisticated
+              mathematics and its numerical implementation is straightforward.  It is the
+              deformation method which redistributes the grid points according to the
+              physical variables that are being simulated.  A monitor function is calculated
+              which is small where the error is large.  The deformation method then moves
+              each grid point according to the monitor function so that the new grid will be
+              concentrated where the need for better resolution exists to reduce the error.
+              Model problems from fluid dynamics and other important applications will be
+              simulated on such moving grids.  We will demonstrate that the method is capable
+              of generating grids that are adapted to the fine features of the physical
+              variables such as shock waves, moving fronts, and boundary layers, etc.
+
+This
+              project is aimed to greatly enhance our ability to simulate large scale
+              computational problems that are crucial to the national strategic interests. 
+              The advance of computing technology allows us to simulate some real world
+              problem without conducting costly experiments.  But the needs for accurate and
+              efficient simulation far exceed the most powerful computers of today.  A lot of
+              simplification and upgrading have to be made to stay within the limit of
+              today's computing capacity.  Fixed grids are wasteful in computing resource. 
+              Our research will lead to software that can automatically put more points to
+              the regions where and when the physical variables change rapidly without adding
+              new points.  This would be very useful for high performance computing and the
+              numerical simulation of material science, environment problems, manufacturing
+              process and other fields that require a grid.  By working in the project,
+              mathematics and engineering students will gain first hand experience on the
+              application of mathematics to the solution of engineering problem.  Advanced
+              degrees will be granted to graduate students who make significant contributions
+              to the project after their completion of course work.
+

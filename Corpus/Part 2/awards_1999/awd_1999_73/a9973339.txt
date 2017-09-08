@@ -1,0 +1,53 @@
+Title       : Computational Study of the Maximal Inscribing Ellipsoid Problem and Applications
+               to Integer Programming
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 30,  1999      
+File        : a9973339
+
+Award Number: 9973339
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $153680             (Estimated)
+Investigator: Yin Zhang yzhang@caam.rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9973339
+
+The problem of finding the maximum-volume ellipsoid inscribing a
+              given polytope in n-dimensional space has many important application
+              potentials.  However, the lack of practically efficient algorithms and software
+              for this problem has so far hampered its actual applications in practice.  The
+              proposed project will attempt to rectify this situation.  Firstly, we plan to
+              develop and implement efficient, practical algorithms and portable library
+              software for solving the problem.  The algorithms to be studied will be
+              variants of infeasible primal-dual interior-point methods.  Secondly, we will
+              utilize the resulting software to develop and implement algorithms for integer
+              programs that have non-binary variables varying in wide ranges and are
+              difficult to solve for conventional branch-and-bound techniques.
+
+Given a
+              polygon on the plane, what is the largest ellipse that can fit inside the
+              polygon?  This question can be easily generalized from the two-dimensional
+              space (the plane) to higher-dimensional spaces, resulting in the so-called
+              maximum-volume ellipsoid problem.  In many cases, the amount of computing time
+              required for solving this problem determines how fast we can solve more
+              complicated problems in applications, for example, problems in manufacturing
+              and managerial decision-making processes.  In this project, we will develop
+              fast methods and build efficient computer code for solving the maximum-volume
+              ellipsoid problem, and then apply the code to solving application problems.
+
+

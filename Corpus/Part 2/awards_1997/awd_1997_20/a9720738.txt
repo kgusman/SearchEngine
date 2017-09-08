@@ -1,0 +1,59 @@
+Title       : Optimizing Program Performance at Link and Run-Time
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : December 13,  2002  
+File        : a9720738
+
+Award Number: 9720738
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $357944             (Estimated)
+Investigator: Saumya K. Debray debray@cs.arizona.edu  (Principal Investigator current)
+              Gregory R. Andrews  (Principal Investigator former)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              ACI-9720738
+Debray 
+
+This project will develop link-time and run-time
+              techniques for improving the performance of scientific programs.  The overall
+              goal is to increase the performance of both existing and new codes, whatever
+              the source programming language, algorithm, application, or target
+              architectures.  
+
+This project considers how tools for link-time and run-time
+              optimization of advanced scientific programs can be constructed.  Specifically,
+              the following topics are investigated:
+
+1. Link-time program analysis.  The
+              project will develop techniques for efficient and useful whole-program
+              analysis, aimed at focusing the analysis effort on program components whose
+              analysis and/or optimization can contribute to tangible improvements in program
+              performance.
+
+2. Whole-program optimization at link time. The project will
+              investigate optimizations of executable programs, using classical techniques
+              such as inlining applied to library code, as well as optimizations aimed at
+              exploiting specific characteristics of the underlying hardware.
+
+3. Run-time
+              optimization.  The project will also investigate optimizations that depend on
+              values that are computed while an application executes; these include
+              optimizations that effect the amount of concurrency in a parallel application
+              as well as how communication and synchronization are realized.
+
+
+

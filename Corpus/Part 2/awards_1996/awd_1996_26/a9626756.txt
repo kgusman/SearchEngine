@@ -1,0 +1,66 @@
+Title       : Exact Sampling via Markov Chains
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 14,  1996      
+File        : a9626756
+
+Award Number: 9626756
+Award Instr.: Standard Grant                               
+Prgm Manager: Keith N. Crank                          
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1996       
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $64000              (Estimated)
+Investigator: James A. Fill jimfill@jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 1263      PROBABILITY
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9218,HPCC,
+Abstract    :
+              9626756 Fill  ABSTRACT  For many statistical physics examples, such as the
+              stochastic Ising model, one seeks to sample from a probability distribution on
+              an enormously large state space, but elementary sampling is ruled out by the
+              infeasibility of calculating an appropriate normalizing constant.  Similar
+              difficulties arise in computer science when one seeks to sample randomly from a
+              large combinatorial space whose precise size cannot be ascertained in any
+              reasonable amount of time. The Markov chain Monte Carlo (MCMC) approximate
+              sampling approach to such a problem is to construct and run "for a long time" a
+              Markov chain with long-run distribution equal to the given distribution.  But
+              determining how long is long enough can be both analytically and empirically
+              difficult. Very recently, researchers have devised an algorithm to use the same
+              Markov chains to produce exact samples from the desired distribution.  However,
+              the running time of the algorithm is unbounded and not independent of the state
+              sampled, so a user with limited patience will introduce systematic bias by
+              aborting a long run.  The investigator assesses the extent of this bias,
+              implements and studies (via a certain "duality" theory) the performance of a
+              new algorithm he devises to eliminate the bias, and establishes bounds on the
+              performance of any such Markov-chain-based algorithm.   Physicists are
+              interested in models for ferromagnetism and for phase transitions (such as
+              freezing and thawing).  In such statistical mechanics problems, in image
+              processing (the cleaning up of noisy or blurred images), and in computer
+              science, much can be learned by studying certain probability distributions on
+              sets having enormously large numbers of elements.  The standard "Monte Carlo"
+              approach to studying a distribution is to draw a (representative) random
+              sample, but this approach is computationally infeasible for problems of such
+              large size.  To handle such problems, researchers use computers to simulate
+              certain probabilistic processes, called Mar kov chains, which, in a certain
+              precise sense, "settle down" to the distribution of interest "in the long run."
+               But determining how long is long enough to run the chain in order to
+              approximate the distribution sufficiently closely can be difficult to assess,
+              both theoretically and empirically.  Very recently, researchers have devised an
+              algorithm to use the same Markov chains to produce exact samples from the
+              desired distribution.  However, the running time of the algorithm is sometimes
+              very large, and the distribution of the output can depend on the running time,
+              so a user with limited patience will introduce systematic bias by aborting a
+              long run. The investigator, a probabilist, assesses the extent of this bias,
+              implements and analyzes the performance of a new algorithm he devises to
+              eliminate the bias, and considers how well any such Markov-chain-based
+              algorithm can perform.

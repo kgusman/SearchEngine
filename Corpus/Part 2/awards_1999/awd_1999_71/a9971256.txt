@@ -1,0 +1,72 @@
+Title       : Experimental Partnerships: Multifacet: Exploiting Prediction and Speculation in
+               Multiprocessor Memory Systems
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : June 4,  2001       
+File        : a9971256
+
+Award Number: 9971256
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : January 31,  2003    (Estimated)
+Expected
+Total Amt.  : $1081850            (Estimated)
+Investigator: Mark D. Hill markhill@cs.wisc.edu  (Principal Investigator current)
+              David A. Wood  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4725,9218,HPCC,
+Abstract    :
+              9971256
+Hill, Mark D.
+Wood, David A.
+University of Wisconsin -
+              Madison
+
+CISE Experimental Partnerships:  Multifacet: Exploiting Prediction
+              and Speculation in Multiprocessor Memory Systems
+
+The goal of this research
+              is to improve the performance of multiprocessor servers that form the
+              computational infrastructure for internet web servers, databases, and other
+              demanding applications.  It broadly examines exploiting prediction and
+              speculation, heretofore limited to processor cores, in processors, memory, and
+              the interactions between them.  A driving focus of the work is multicast
+              snooping, a new cache coherence approach that uses prediction to both increase
+              effective bandwidth over a classical symmetric multiprocessor and reduce
+              latency over a traditional directory-based system.  Multicast snooping uses
+              prediction to "guess" which processors have copies of a block and multicast
+              address transactions
+to those processors.  A novel network organization
+              combines simultaneous multicasts to disjoint multicast sets while still
+              providing ordering guarantees.  A simplified directory verifies the prediction
+              and takes
+corrective action when incorrect.  Refining multicast snooping
+              provides research challenges in areas such as hardware and software mask
+              prediction, network implementation, forward progress, high availability, and
+              a
+theoretical foundation for protocol and network behaviors.
+
+The
+              application of prediction and speculation to multiprocessor systems also
+              exposes research opportunities applicable to multiprocessors more generally,
+              including upgrade speculation, false sharing speculation, lock
+superposition,
+              and speculation implementation issues.  Hardware only, as well as
+              hardware/software solutions strategies are being explored.  The research plan
+              encompasses design (refinement of existing ideas and development of new ones),
+              evaluation (pruning the design space and comparing with existing alternatives),
+              validation (ensuring designs work, including a new application of Lamport's
+              logical clocks), demonstration (transferring technology to industry), and
+              infrastructure development (tool adaptation and construction).
+
+

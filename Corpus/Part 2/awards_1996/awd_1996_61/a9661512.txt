@@ -1,0 +1,60 @@
+Title       : SBIR Phase I: An Approach to Measuring and Assessing Dependability for Critical
+               Software
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : December 11,  1996  
+File        : a9661512
+
+Award Number: 9661512
+Award Instr.: Standard Grant                               
+Prgm Manager: Sara B. Nerlove                         
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1997    
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Dong Tang tang@sohar.com  (Principal Investigator current)
+Sponsor     : SoHaR Inc
+	      8421 Wilshire Blvd, Suite 201
+	      Beverly Hills, CA  902113204    213/653-4717
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000912   Computer Science                        
+Program Ref : 2865,9216,HPCC,
+Abstract    :
+              ***  9661512  Tang     This Small Business Innovation Research Phase I project
+              investigates the feasibility of an approach that combines the operational
+              profile, rare conditions, importance sampling, stress testing, and
+              measurement-based dependability evaluation in the late testing phase or early
+              operational phase, to quantify dependability for critical software that
+              requires very high reliability (< 10-6) and availability (> 0.999999).
+              Traditional software testing methods combined with reliability growth models
+              cannot measure and assess dependability for software with such high
+              requirements. The approach proposed for this research applies importance
+              sampling, a statistical method to reduce sampling size while keeping estimates
+              obtained from the sample unbiased at a high level of confidence, to the
+              operational profile to guide testing critical operations or components of the
+              software to accelerate the occurrence of rare conditions, then transforms the
+              failure rates measured in the testing to those that occur in the normal
+              operation by the likelihood ratio function of the importance sampling theory,
+              and finally evaluates reliability and availability for the tested software
+              system based on the transformed failure rates using measurement-based
+              dependability modeling techniques. When the acceleration factor (likelihood
+              ratio) is large (over 100), which is typical because the occurrence probability
+              of rare conditions in the normal operation is much lower than in the importance
+              sampling testing, it is possible to quantify a very high reliability or
+              availability in a test of reasonable duration. It is anticipated that upon the
+              completion of this research, a detailed methodology and a high level design of
+              tools for implementing the proposed approach will be available.   Real-time
+              commercial production systems that use software to monitor, control, and manage
+              safety-critical equipment and physical processes (e.g., aircraft, nuclear and
+              chemical plants) and similar critical systems developed by government  agencies
+              (e.g., space shuttle and air traffic control system) require high reliability,
+              availability, and safety. The approach and tools addressed in this research can
+              be applied to the software in these systems to quantify dependability and to
+              provide feedback to the design. The approach can also contribute significantly
+              to enhancing the quality of the systems by applying its stress testing methods
+              to the software.  ***

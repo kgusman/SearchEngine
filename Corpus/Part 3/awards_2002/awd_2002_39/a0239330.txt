@@ -1,0 +1,63 @@
+Title       : SBIR Phase II: Parallel Hardware Implementation of the Split and Merge Discrete
+               Wavelet Transform for Wireless Communication
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a0239330
+
+Award Number: 0239330
+Award Instr.: Standard Grant                               
+Prgm Manager: Winslow L. Sargeant                     
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 15,  2003     
+Expires     : February 28,  2005   (Estimated)
+Expected
+Total Amt.  : $500000             (Estimated)
+Investigator: Alexander W. Moopenn amoopenn@mosaixtech.com  (Principal Investigator current)
+Sponsor     : Mosaix, LLC
+	      1229 Bruce Avenue
+	      Glendale, CA  91202    818/507-7946
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              This Small Business Innovative Research (SBIR) Phase II project proposes to
+              develop the Intellectual Property (IP) core of a novel image compression /
+              signal decomposition algorithm based on the discrete wavelet transform (DWT).
+              This is a fully parallel, scalable, multi-resolution, and low power
+              implementation of the JPEG2000 DWT engine and is particularly well suited for
+              use in both consumer applications at one end of the spectrum (as in reduced
+              bit-rate web browsing over wireless communications channels as found in the
+              next generation of web enabled cell phones) as well as in high-end commercial
+              applications at the other end of the spectrum (as in non-linear video editing
+              accelerators for the movie industry). This particular implementation is a
+              highly efficient implementation of the DWT transform and makes use of a novel
+              Overlap-State wavelet decomposition algorithm which minimizes memory, I/O and
+              computational requirements. Over the next decade, spiraling consumer demand for
+              fast mobile communication of voice and IP over increasingly integrated
+              terrestrial and satellite based systems plagued by a limited electro-magnetic
+              spectrum allocation necessitates the pursuit and development of better
+              compression algorithms that a visually pleasing at low bit rates. As a
+              consequence of extensive research, transform coding techniques now dominate
+              every single image and video coding scheme proposed to-date. Consequently,
+              efficient software and hardware based transform coding system designs and
+              implementations have become a high priority objective.
+
+In fact, it is widely
+              accepted that JPEG2000 will become the universally accepted format for digital
+              images and high quality video - whether on the web, cable, over wireless
+              systems, in digital cameras, printers, faxes or remote sensors. With its
+              wavelet based image-coding technology, it offers features previously impossible
+              in JPEG. Compared with the old baseline JPEG, the new JPEG2000 spec poses
+              formidable technology challenges for the myriad of developers and OEM's
+              planning on using it. The new standard uses coding algorithms based on the
+              discrete wavelet transform (DWT) which is fundamentally different from the
+              discrete cosine transform (DCT) JPEG spec. In JPEG2000, the importance of
+              computational and especially memory bottlenecks has clearly increased several
+              fold over the old specification. In fact, various implementations of
+              computationally efficientCE wavelet transforms have been reported in recent
+              years.

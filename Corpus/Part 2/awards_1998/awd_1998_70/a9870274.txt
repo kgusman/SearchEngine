@@ -1,0 +1,130 @@
+Title       : Numerical Continuation for Nonlinear Problems with Symmetry Structures
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 29,  1998      
+File        : a9870274
+
+Award Number: 9870274
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $130000             (Estimated)
+Investigator: Kurt Georg georg@math.colostate.edu  (Principal Investigator current)
+              Eugene L. Allgower  (Co-Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9215,HPCC,OTHR,
+Abstract    :
+              DMS 9870274
+
+Abstract
+
+Numerical Continuation for Nonlinear Problems with
+              Symmetry Structures
+
+Kurt Georg and Eugene L. Allgower 
+
+This investigation
+              deals with the study and development of numerical
+continuation methods which
+              intrinsically exploit symmetries. The
+integration of techniques for exploiting
+              symmetry in the solution of
+linear systems, which have recently been developed
+              by the
+investigators, into a numerical continuation method will provide
+              a
+practical and efficient tool for detecting symmetry pattern
+              breaking
+bifurcations while tracing a branch, and for following
+              bifurcating
+branches for secondary and multiple bifurcations. The
+              continuation
+methods which will be studied and developed will concentrate upon
+              the
+handling of large systems of equations such as those stemming
+              from
+discretizations of systems of partial differential equations
+              and
+integral  equations.  Several techniques for numerically
+              handling
+bifurcations will be investigated. These include the normal
+              form
+equations of center manifold theory and the Lyapunov-Schmidt 
+reduction.
+              By applying symmetry reduction methods developed by the
+investigators, block
+              diagonalizations are obtained which greatly
+facilitate the bifurcation
+              analysis. Among the applications to be
+treated will be: nonlinear elliptic
+              equations such as those which
+model the buckling of shells with symmetries,
+              equations for spherical
+convection which model planetary atmospheres,
+              Ginzburg-Landau
+equations modelling the dynamics of travelling waves, and
+              nonlinear
+boundary integral equations which are discretized via boundary
+              element
+methods. Integral equations of the latter kind arise in a natural
+              way
+from exterior boundary value problems. It is anticipated that
+              the
+programs which will be developed will be disseminated via anonymous
+ftp
+              in the same manner as the investigator's programs for numerical
+continuation
+              and symmetry reduction methods have been done.
+
+Numerical continuation for
+              large structured systems, which will be
+studied in this investigation, has a
+              broad  field of important
+applications. In particular, numerical continuation
+              can be used to
+computationally simulate how the variation of inherent
+              control
+parameters causes qualitative changes in a physical system.
+              Such
+parameters may represent loading, speed, temperature, viscosity,
+aspect
+              ratio, etc. The determination and analysis of critical values
+of control
+              parameters is  of great significance to the scientist and
+engineer, because at
+              these values decisive phenomena occur: stability
+can be lost, structures can
+              break or  go into resonance, ingnition
+takes place, atmospheric flow patterns
+              change, etc. Mathematically,
+critical values of control parameters in physical
+              models are
+characterized by bifurcation points. Numerical continuation
+              methods
+can be used to detect and calculate bifurcation points.
+              The
+investigation  will concentrate on phenomena taking place in
+              regimes
+which have geometric symmetry structures. The consideration of
+              such
+structures enhances the scientific understanding, but can also
+              be
+exploited for more precise and efficient calculations. The
+              computer
+visualization programs which will be developed will assist
+              researchers
+and students to simulate, study, and gain insights into the
+              pattern
+changes of physical phenomena under the variation of parameters.
+

@@ -1,0 +1,45 @@
+Title       : Glacial Variables: Towards Fully Automatic Run-Time Code Generation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  1997    
+File        : a9610075
+
+Award Number: 9610075
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $124603             (Estimated)
+Investigator: John Launchbury jl@cse.ogi.edu  (Principal Investigator current)
+              Michael Wolfe  (Co-Principal Investigator current)
+Sponsor     : Oregon Grad Inst of S&
+	      20000 NW Walker Road
+	      Beaverton, OR  970068921    503/645-1121
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Program specialization has a distinguished history. Under the name of
+              self-modifying code it has been used in the past for performance improvements.
+              Under the name of partial evaluation it has been used as a transformation to
+              automatically generate compilers from interpreters for declarative languages.
+              Recently, a number of research groups have applied run-time partial evaluation
+              to do run-time code generation (RTCG) as a performance optimization, but they
+              require extensive programmer annotations to determine where to apply the
+              transformation. Transformations do not always yield good optimizations,
+              particularly where the cost/benefit tradeoffs are not highly obvious. This
+              project is developing automatic methods (algorithms and heuristics) for
+              selecting where to apply run-time code generation (RTCG), and examining the
+              interaction between RTCG and scalar and memory-hierarchy optimizations. The
+              project is applying RTCG to a large number of complete scientific applications
+              to determine its applicability. Heretofore RTCG has been applied to benchmark
+              kernels and language interpreters, but not to any wider domains. This project
+              aims to demonstrate that RTCG is ready for production use and that it can be
+              deployed in compilers without requiring extensive reprogramming of applications
+              to make use of its performance improvements.

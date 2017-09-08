@@ -1,0 +1,83 @@
+Title       : Software Watermarking, Obfuscation, and Tamper-Proofing for Software Protection
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0073483
+
+Award Number: 0073483
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $265000             (Estimated)
+Investigator: Christian S. Collberg collberg@cs.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Christian Collberg
+
+This research investigates four techniques for 
+the
+              intellectual property protection of software:
+watermarking, fingerprinting,
+              obfuscation, and 
+tamper-proofing.
+
+Watermarking and fingerprinting defend
+              against 
+software piracy by embedding a copyright notice 
+or identification
+              number into a program. This 
+asserts ownership and allows tracking of
+              copyright violators. 
+Effective watermarks are unobtrusive, have high
+              
+data-rates, and are resilient to de-watermarking attacks.
+
+Obfuscation
+              defends against malicious
+reverse engineering by transforming a program into
+              
+an equivalent one that is harder to analyze. 
+Effective obfuscating
+              transformations are
+semantics-preserving, have low computational
+overhead,
+              and are based on intractable problems
+that prevent them from being
+              undone.
+
+Tamper-proofing causes a program to malfunction when it 
+detects
+              that it has been modified. Tamper-proofing code
+can be added to an application
+              to protect a watermark
+from being removed, to prevent a virus from being
+              added, 
+or to ensure that the security-sensitive code of an
+e-commerce
+              application has not been altered.
+
+The goal of this research is to implement
+              many of 
+the currently known algorithms for software 
+protection and to
+              construct benchmarks against 
+which these techniques can be evaluated. An
+              additional
+objective is to build theoretical models that help to gain
+a
+              deeper understanding of the limits of intellectual 
+property protection of
+              software.
+

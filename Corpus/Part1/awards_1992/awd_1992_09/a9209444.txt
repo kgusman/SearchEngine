@@ -1,0 +1,52 @@
+Title       : A Study of Sequential & Parallel Approaches to the Solution of Nonlinear
+               Equations Arising in Circuit and Device Simulation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 24,  1992      
+File        : a9209444
+
+Award Number: 9209444
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1992      
+Expires     : December 31,  1995   (Estimated)
+Expected
+Total Amt.  : $74244              (Estimated)
+Investigator: Paul J. Lanzkron pjl@cs.duke.deu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2865,9264,
+Abstract    :
+                   This project focuses on the general problem of solving                    
+              the non-linear equations arising from semiconductor device                     
+              simulation and circuit simulation.  Both sequential and                        
+              parallel issues arising in the solution of these equations                     
+              will be examined.                                                              
+                   Work has already been done on the solution of the                         
+              linear equation arising from the Newton iteration in a one-                    
+              dimensional device simulation.  Work will continue for a                       
+              two-dimensional code.  The main ideas are (1) replacing the                    
+              continuation methods currently in use with a multilevel                        
+              method; and (2) developing a parallel solver for the 2D                        
+              code.  This entails either showing that the classical                          
+              iterative method has speed-up large enough to overcome the                     
+              sequential slowness of the algorithm, or generating a good                     
+              MIMD preconditioner for a Krylov subspace method.                              
+                   With respect to circuit simulation, the investigation                     
+              will be done in four areas.  (1) Continue the work on a                        
+              taxonomy of circuits for which simulation cannot fail.  (2)                    
+              Improve the non-linear solver in the circuit simulator CAzM.                   
+              (3) Generate a parallel solver for large circuits.  (4) Work                   
+              on blocking methods for sparsely connected circuits.                           
+                   The project seeks to make a significant contribution to                   
+              both the speed and the theory behind the solution of non-                      
+              linear equations arising from circuit and device simulation.

@@ -1,0 +1,58 @@
+Title       : Efficient Numerical Methods for Unsteady Viscous Incompressible Flows
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 16,  1998      
+File        : a9805621
+
+Award Number: 9805621
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $96000              (Estimated)
+Investigator: Jian-Guo Liu jliu@math.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9215,9263,HPCC,OTHR,
+Abstract    :
+              DMS-9805621       EFFICIENT NUMERICAL METHODS FOR VISCOUS INCOMPRESSIBLE FLOWS  
+                                        Jian-Guo Liu                            Project
+              Summary      This project will focus on continuing the development of
+              efficient,  accurate, high order finite difference and finite element methods
+              for  the unsteady viscous incompressible Navier-Stokes equations (NSE),  with
+              emphasis on finding efficient time stepping procedures and new  formulations of
+              the equations better suited to numerical computation.  Some practical aspects
+              of the methods, including extensions to flows  in general 2D and 3D domains,
+              and applications to more challenging  physical problems, will be investigated. 
+              In the vorticity  formulation, a new time-stepping procedure is used for high
+              Reynolds  number flows.  For such flows the convection and viscous terms are 
+              treated explicitly. The stream function, and hence the velocity, is  then
+              evaluated from the vorticity via the kinematic equation.  The key  to the
+              efficiency of the new time-stepping procedure is that the value  of the
+              vorticity on the boundary is obtained explicitly from the steam  function
+              without any iteration.  This eliminates some traditional  difficulties
+              associated with the vorticity formulation.  More akin to  the primitive
+              variable formulation, the investigator is using a new  formulation of the NSE
+              in the impulse density variable which differs  from the velocity by a gauge
+              transformation. The gauge freedom enables  one to assign simple and specific
+              boundary conditions for both the  impulse and gauge fields, thus eliminating
+              some traditional  difficulties such as the pressure boundary condition.     
+              This new class of efficient numerical methods has already been used  to study
+              such real world problems as the investigation of the  mechanism of drag
+              reduction on airfoils at high velocities, as well as  the development of severe
+              storms in tropical latitudes.  These  methods provide an important tool that
+              allow scientists and engineers  to study related  fluid problems in
+              manufacturing and industry that  were previous unsolvable with currently
+              available numerical  techniques.  They represent a significant step forward in
+              the  efficient computation of solutions to such problems, and are naturally 
+              suited for implementation on high performance massively parallel  computer
+              architectures.

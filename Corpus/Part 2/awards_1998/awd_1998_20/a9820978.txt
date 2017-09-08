@@ -1,0 +1,55 @@
+Title       : Randomizationin Graph Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2002      
+File        : a9820978
+
+Award Number: 9820978
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  2000     
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $270278             (Estimated)
+Investigator: David R. Karger karger@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Graphs model many specific structures, including transportation networks, roads,
+              rails, and flight-paths, computer networks, and VLSI circuits.  Although graphs
+              are very general, they have a great deal of structure that makes it possible to
+              solve graph optimization problems more efficiently than less-constrained
+              optimization problems.  Thus, graph optimization has developed as a large
+              subfield of mathematical optimization.
+
+Randomization gives several important
+              benefits in the design of optimization algorithms for graphs.  Randomized
+              algorithms often run faster and give better answers than their deterministic
+              counterparts.  Furthermore, since they are often simpler than deterministic
+              algorithms, randomized algorithms can be easier to implement and maintain and
+              can perform better in practice.
+
+This project investigates the uses of
+              randomization in several central optimization problems on graphs.  The maximum
+              flow and minimum cut problems, which are perhaps the most widely studied and
+              applicable graph optimization problems, can be solved exactly__the major
+              objective is designing faster, simpler, and more practical algorithms for
+              arriving at the right answer.  Other problems, such as graph coloring and
+              bisection, analysis of network reliability, and construction of low-cost
+              high-connectivity networks, are extremely hard to solve exactly__the major
+              objective is to find efficient algorithms that give answers as close as
+              possible to the elusive optimum.
+The algorithms developed will be of only
+              theoretical interest unless they are actually implemented.  Therefore,
+              experimental analysis of the algorithms will be undertaken, comparing their
+              performance in practice to that of other algorithms.
+

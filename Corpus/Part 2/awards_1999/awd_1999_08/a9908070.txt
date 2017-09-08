@@ -1,0 +1,47 @@
+Title       : Methodology for Continuous Infeed Cylindrical Plunge Grinding
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : April 2,  2003      
+File        : a9908070
+
+Award Number: 9908070
+Award Instr.: Standard Grant                               
+Prgm Manager: George A. Hazelrigg                     
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $229634             (Estimated)
+Investigator: Kourosh Danai danai@ecs.umass.edu  (Principal Investigator current)
+              Stephen Malkin  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 1468      MANUFACTURING MACHINES & EQUIP
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9146,MANU,
+Abstract    :
+              This project will develop a new methodology for optimal control of cylindrical
+              plunge grinding cycles.  In this type of grinding, a cycle generally consists
+              of a few discrete infeed rates applied sequentially.  The consideration of a
+              limited number of discrete infeed rates makes the problem tractable and allows
+              the cycle to be readily implemented with older machine control techniques
+              (e.g., ladder logic).  But it limits the extent of cycle-time reduction by
+              optimization.  The foundation of the  methodology will be Model Predictive
+              Control (MPC) where the value of infeed rate at each sampling instant is
+              determined according to its projected effect on the process and part quality
+              constraints.  However, the basic form of MPC will not be adequate for this
+              application because of the inherent uncertainty of the grinding process.  To
+              enhance its robustness, this control will be integrated with Recursive
+              Constraint Bounding so as to incorporate conservatism into the optimization
+              process.
+
+The optimal control methodology is able to provide a cycle with
+              continuously varying infeed rates.  This should lead to significant savings in
+              cycle time and cost, as well as being more suited to implementation of the
+              control with open-architecture controllers.
+

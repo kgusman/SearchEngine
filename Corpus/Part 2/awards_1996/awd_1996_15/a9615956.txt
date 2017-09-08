@@ -1,0 +1,71 @@
+Title       : Optimal Management of Analytical Redundancy in Reconfigurable Control Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 2,  1999       
+File        : a9615956
+
+Award Number: 9615956
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $233973             (Estimated)
+Investigator: N. Eva Wu evawu@binghamton.edu  (Principal Investigator current)
+Sponsor     : SUNY Binghamton
+	      Vestal Parkway East
+	      Binghamton, NY  13901    607/777-2000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,9102,OTHR,
+Abstract    :
+              ECS-9615956  Wu    The proposed research is concerned with developing new
+              approaches to enhancing fault tolerance of reconfigurable control systems
+              through management of analytical redundancy.  The redundancy management
+              involves a decision, upon the identification of some failures, on whether and
+              how a control reconfiguration should take place in order to maintain a certain
+              system performance level.  Such a decision is made difficult by the presence of
+              uncertainties in the system and the exogenous signal models, by the limited
+              processing/memory capability in carrying out failure detection and
+              identification (FDI), and by the vagueness in the definition of a failure in
+              the context of control performance.  The underlying issues of the research
+              range from those defined at subsystems level to those formulated at the overall
+              systems level.  At the level of overall systems, our task involves finding a
+              way of assessing objectively the reliability that takes into account the
+              likelihood of failed reconfiguration action.  Therefore, there is a need to
+              define and compute the reconfiguration coverage.  A definition for coverage is
+              proposed that takes the form of a ratio of two nonspecificity measures
+              associated with the estimated impairment parameter.  It links explicitly the
+              reconfiguration coverage to the available FDI resolution, the chosen control
+              performance threshold, the selected control settings, and the ranking method
+              used.  Therefore, it offers a way to explore, through numerical and analytical
+              means, the relationship between the performance of individual subsystem modules
+              and the reliability of the overall system.  At the level of reconfiguration
+              decisions, our task involves forming strategies for achieving the highest
+              possible reconfiguration coverage by optimally managing the analytical
+              redundancy in the system.  It is proposed that the decision making amount to
+              ranking the relationships between two classes of fuzzy sets.  One class
+              represents the control performance evaluated for every control  setting, and
+              the other represents the estimated impairment parameter generated through an
+              FDI scheme.  In order to develop algorithms that implement the strategies, it
+              is necessary to show that these representations are obtainable and realizable. 
+              It is also necessary to carry out a search for a ranking method that maximizes
+              the coverage, and is simple to execute.  At the level of subsystem modules, our
+              task involves deriving the required FDI resolution.  A definition of FDI
+              resolution is proposed using the nonspecificity measure of the identified
+              impairment parameter, which has uncovered some interactions between the control
+              subsystem module and the FDI subsystem module, in relation to analytical
+              redundancy management.  These relationships are to be further studied and
+              quantified in this research to provide a more refined guideline for the bottom
+              level design, i.e., the design of control and FDI subsystem modules.  Results
+              to be produced thus far are applicable to control/FDI designs that are either
+              retrospective or new.  New designs under the criteria of highly integrated
+              consideration can be ventured from this point on.  An F-16 like aircraft model
+              subject to actuator/surface impairment is to be used for the bottom level
+              design, and also for the verification of the proposed new concepts through
+              simulation and analysis.

@@ -1,0 +1,51 @@
+Title       : CAREER: Quickstep: An Architecture-Conscious Main Memory DBMS
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 1,  2002       
+File        : a0093059
+
+Award Number: 0093059
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2006  (Estimated)
+Expected
+Total Amt.  : $349172             (Estimated)
+Investigator: Jignesh M. Patel jignesh@umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              With the trend toward denser and cheaper memory, database servers in the near
+              future will have large main memory configurations and a significant number of
+              datasets will reside in main memory. In this configuration, the performance of
+              the database system is limited by how fast the memory subsystem can feed
+              instructions and data to the processor. Traditional data storage and query
+              processing techniques are optimized to minimize access to disks and do not
+              effectively utilize the processor caches, resulting in poor query performance.
+              The goal of this research project is to investigate, and experimentally
+              evaluate, data storage and query processing techniques that can effectively
+              utilize the processor caches. The approach consists of novel data storage
+              techniques that can incrementally and transparently adapt the layout of data to
+              better utilize the processor caches, cache-conscious indexing techniques for
+              both traditional alphanumeric data and richer data types such as spatial data,
+              and cache-conscious query evaluation and scheduling techniques. A prototype
+              database system, called Quickstep, is being developed to experimentally
+              evaluate the proposed techniques. The results of this project will produce
+              techniques for efficient query evaluation in environments where the data is
+              mostly resident in main-memory, with possible application in high-performance
+              database servers powering Internet sites and future network routers that will
+              require query processing for providing application-specific routing services.
+              The education component of this project aims to introduce material in the
+              graduate-level database course to expose students to the emerging confluence of
+              databases and architectural technologies. The systems-building effort of this
+              project provides an environment for training both undergraduate and graduate
+              students in database implementation and performance evaluation techniques. 

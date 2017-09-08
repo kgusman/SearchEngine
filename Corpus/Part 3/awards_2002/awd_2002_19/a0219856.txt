@@ -1,0 +1,69 @@
+Title       : ITR: High Performance Imaging Using an Array of Low-Cost Cameras
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 12,  2002    
+File        : a0219856
+
+Award Number: 0219856
+Award Instr.: Continuing grant                             
+Prgm Manager: Stephen Griffin                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $497409             (Estimated)
+Investigator: Marc S. Levoy levoy@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1655,9216,HPCC,
+Abstract    :
+              This project will explore the capabilities of an array of 128 cameras, which can
+              be combined computationally in many different configurations for a wide range
+              of scientific, commercial, and communication applications.  Over the past few
+              years, the ability of image-based rendering (IBR) techniques to create
+              photorealistic images of real scenes has generated great interest in building
+              sensor systems that can capture environments from multiple viewpoints.  At the
+              same time, we have witnessed the advent of CMOS image sensors, which are
+              inexpensive and easy to use because of their digital interface. Furthermore,
+              because they are manufactured in a CMOS process, processing power can be placed
+              on the sensors themselves.  Finally, advances in semiconductor technology are
+              making increasing computing power available for decreasing cost, power, and
+              chip area.  These trends raise the questions: What can we do with many
+              inexpensive CMOS image sensors, equally inexpensive optics, and a lot of
+              processing power?  Can we use more cameras of lesser quality to enable more
+              robust IBR algorithms?  Can we use clusters of inexpensive imagers and
+              processors to create virtual cameras that outperform real ones?
+
+Each camera
+              in the 128-camera array contains a CMOS image sensor, MPEG encoder, and
+              programmable processor, in order to investigate these questions.  The device is
+              designed to record 128 synchronized video datasets through three PCs to a disk
+              array.  This project will explore applications of the array to scientific
+              imaging and computer vision and graphics. Multi-camera systems can function in
+              many ways.  If the cameras are packed close together, then the system
+              effectively functions as a single-center-of-projection synthetic camera, which
+              can be configured to provide high performance along one or more imaging
+              dimensions, such as resolution, signal-to-noise ratio, dynamic range, depth of
+              field, frame rate, or spectral sensitivity. For example, one configuration
+              could produce high-resolution images 10,240 x 3,830 pixels, and another could
+              generate 7,680 frames per second.  Such capabilities are unprecedented for a
+              video system, and they will have many scientific, engineering, and military
+              uses. 
+
+If the cameras are placed farther apart, then the system functions as
+              a multiple-center-of-projection camera, and the data it captures is called a
+              light field.  Of particular interest are novel methods for estimating 3D scene
+              geometry from the dense imagery captured by the array.  This information can be
+              used to improve compression of the light field and to interpolate smoothly
+              between widely spaced cameras, allowing smooth virtual navigation through the
+              scene.  Potential applications include evaluation of design models for
+              manufacturing, medical and forensic consultation, online shopping, and virtual
+              museum displays.
+

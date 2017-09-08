@@ -1,0 +1,46 @@
+Title       : High-Performance and Low-Power Asynchronous Datapaths: Design and Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 17,  2000  
+File        : a9734803
+
+Award Number: 9734803
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1998      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $340000             (Estimated)
+Investigator: Steven M. Nowick nowick@cs.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research is on asynchronous, or self-timed, design.  Such designs eliminate
+              the global synchronizing clock, thus  permitting higher performance,
+              scalability, and lower power.  The project is investigating problems in
+              datapath design:  (1) the design of high-performance and low-power datapath 
+              components, and (2) a system-level application to compressed-  code embedded
+              processors. In (1), a technique, "speculative  completion", for designing
+              asynchronous datapath components  which give high performance, yet have little
+              area and power  overhead is being developed. This technique allows use of 
+              existing synchronous components, with small amounts of added  circuitry and a
+              multi-slotted completion signal, to allow  early completion. As part of this
+              research, (a) the  technique is being applied to design fast adders, 
+              multipliers, and comparators; and (b) new optimizations are  being developed,
+              which target statistically-skewed (i.e. non-  random) input data that appear in
+              real-world applications.  In (2), research activity being carried out is
+              focused on a  system-level application: the design of embedded systems  with
+              compressed memories. The investigation includes (a)  exploration and evaluation
+              of a variety of memory  compression techniques; (b) design of a small and fast 
+              asynchronous decompression circuit, which can decompress  such memories, on the
+              fly, at acceptable rates.

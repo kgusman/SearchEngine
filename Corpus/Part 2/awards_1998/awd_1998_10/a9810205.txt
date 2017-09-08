@@ -1,0 +1,45 @@
+Title       : High-Performance Switch Architectures for CC-NUMA Servers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 28,  2000 
+File        : a9810205
+
+Award Number: 9810205
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $260000             (Estimated)
+Investigator: Laxmi N. Bhuyan   (Principal Investigator current)
+              Donald K. Friesen  (Principal Investigator former)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              The Cache-Coherent Non-Uniform Memory Access (CC-NUMA)  architectures are
+              rapidly becoming a standard for scalable  multiprocessor design. The main
+              problem with such  architectures lies in the large remote memory access time. 
+              This project deals with designing novel switch architectures  for the  CC-NUMA
+              machines to alleviate the memory latency problem.  Custom switch designs are
+              being developed based on  dynamically allocated combined buffer and wormhole
+              routing  with virtual channels. The switch arbiter is redesigned to  provide
+              different priorities for different type of messages  as applicable in a shared
+              memory environment. A new switch  cache architecture is being developed which
+              uses the buffers  as a cache inside the switch to support data sharing between 
+              the processors, as a prefetch or  victim buffer, and as distributed directories
+              to maintain  cache coherence. Hardware and software support for processor  and
+              memory management is also being investigated. Study of  the behavior of shared
+              memory applications forms an integral  part of the project. The new designs are
+              incorporated in to  an execution-driven simulator and the performance 
+              improvement of various scientific and commercial  applications is being
+              measured.

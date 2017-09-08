@@ -1,0 +1,133 @@
+Title       : Domain Decomposition in Control of Multiple Link Structures
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 29,  1999     
+File        : a9972034
+
+Award Number: 9972034
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1999       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $86842              (Estimated)
+Investigator: John E. Lagnese lagnese@math.georgetown.edu  (Principal Investigator current)
+Sponsor     : Georgetown University
+	      37th & O St N W
+	      Washington, DC  20057    202/625-0100
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9972034
+Lagnese
+
+This research will explore optimal control, approximate
+              controllability, 
+and exact controllability of systems of partial differential
+              equations on 
+one-dimensional graphs or on two-dimensional polygonal networks
+              by 
+means of domain decomposition. The basic idea of domain decomposition 
+in
+              this context is to decouple the global optimality system through an 
+iterative
+              procedure on individual elements, in which the couplings at the 
+vertices
+              and/or edges are replaced by certain boundary conditions. At each 
+iteration
+              the local problems, which are themselves local optimality 
+systems, may be
+              solved in parallel.  The choice of boundary conditions in 
+the local problems
+              must be such that, in particular, the transmission 
+conditions in the global
+              optimality system are restored in the limit of the 
+iterations. The motivation
+              for this approach is twofold. On the one hand, 
+controllability properties and
+              optimal control laws are more readily 
+available at the local, subdomain,
+              level.  Consequently, there is good 
+reason to believe that it may be possible
+              to construct suitable control laws 
+for the global system by local iterations,
+              even in situations where such 
+control properties are not a priori known at
+              the global level. On the other 
+hand, and perhaps more importantly, the
+              approach is motivated by its 
+numerical potential. Complex, heterogeneous
+              structures or media, after 
+some discretization, inevitably lead to very large
+              systems to be solved 
+numerically. The transmission conditions in the global
+              problems, which of 
+course must be also realized numerically, are very
+              difficult to handle 
+numerically at the global level.  It is very natural,
+              therefore, to decompose 
+such structures into their canonical constituents, to
+              discretize those and 
+then run the computations in parallel with the
+              communications between 
+elements taking place once an iteration step is
+              completed.
+
+In many practical applications it is necessary to devise control
+              laws to 
+regulate the dynamic behavior of structures such as trusses, frames,
+              robot 
+arms, solar panels, antennae, airfoils or deformable mirrors that are
+              
+comprised of multiple  interconnected flexible elements such as beams,
+              
+membranes, plates, shells or combinations thereof. This research will
+              
+explore optimal control, approximate controllability, and exact
+              
+controllability of such structures by means of domain decomposition. The
+              
+basic idea of domain decomposition in this context is to devise optimal
+              
+control laws for the global structure through iterations of optimal control
+              
+laws on individual elements. At each iteration the local control laws may
+              
+be simultaneously obtained through parallel computations.  The  
+motivation
+              for this approach is twofold. On the one hand, controllability 
+properties and
+              optimal control laws are more readily available for 
+individual flexible
+              elements. Consequently, there is good reason to believe 
+that it may be
+              possible to construct optimal control laws for the global 
+structure by
+              iterations on individual control laws, even in situation where 
+such control
+              properties are not a priori known at the global level. On the 
+other hand, and
+              perhaps more importantly, the approach is motivated by 
+its numerical
+              potential. Complex, heterogeneous structures or media, after 
+some
+              discretization, lead to very large systems to be solved numerically. 
+The
+              coupling conditions among individual elements that comprise the 
+global
+              structure are very difficult to handle numerically at the global level.  
+It
+              is very natural, therefore, to decompose such structures into their 
+canonical
+              constituents, to discretize those and the then run the 
+computations in
+              parallel with the communications between elements  
+taking place once an
+              iteration step is completed.
+

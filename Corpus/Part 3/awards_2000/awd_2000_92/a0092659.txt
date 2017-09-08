@@ -1,0 +1,82 @@
+Title       : Mathematical Methods for Small Sample Biostatistical Inference
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 29,  2000    
+File        : a0092659
+
+Award Number: 0092659
+Award Instr.: Standard Grant                               
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $125000             (Estimated)
+Investigator: John E. Kolassa kolassa@stat.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              A wide variety of techniques exist for conditional inference on exponential
+              families arising from discrete distributions.  Normal theory methods, which
+              rely on the approximate multivariate normality of the joint distribution of
+              summary statistics from the data set, are often inaccurate for small data sets,
+              and their quality can often be poor for summaries that indicate large parameter
+              effects.  They also ignore discreteness in the data.  More sophisticated
+              approximation techniques, known as saddlepoint techniques, are often used in
+              cases when normal theory methods are inadequate.  These techniques often do not
+              account for discreteness in data, and hence are suboptimal in their unmodified
+              forms.  Exact inferential techniques are also available, but these techniques
+              apply only to a limited number of models, require proprietary software, and
+              fail when sample size reaches a moderate size.  Extensions to this software
+              that employ Monte Carlo techniques for larger sample sizes are not yet
+              commercially available.  These Monte Carlo techniques have the further
+              disadvantage of delivering a variety of results for the same data set.  The
+              techniques proposed use saddlepoint approximations in a way that accounts for
+              discreteness in the data while avoiding most of the computationally intractable
+              aspects of exact calculations.  Some of the projects proposed in this grant
+              application involve new approximations, such as for approximating
+              higher--dimensional distribution functions, and others involve modifications to
+              existing approximations to avoid numerical instabilities.  Other projects
+              involve formulating confidence regions to make accurate calibration easy, and
+              modifying the conditioning event to obtain a more powerful analysis, and
+              performing diagnostics to ensure that the proper approximations are used. 
+              These methods will be general enough to apply to any canonical exponential
+              family supported on a lattice, and hence to any generalized linear model with
+              canonical link, observations supported on a lattice, and design matrix whose
+              entries are confined to a lattice.  Examples of models that will be
+              accommodated are logistic regression, Poisson regression including log linear
+              models for contingency tables, and multinomial models.  Regression models with
+              more exotic error structures, including positive Poisson and negative binomial
+              distributions, will also be accommodated.
+
+This proposed research is intended
+              to aid in statistical inference on multiple parameters, in the presence of
+              other nuisance parameters that are not of direct interest, when the
+              distribution modeled is discrete.  For example, the probability that a cancer
+              patient will stay in remission can be modeled as a function of a variety of
+              factors.  Some of these effects, like which treatment a patient received or
+              whether the patient had other cancer--related pathologies, may generalize to
+              other populations, and others, like the effect of a particular center where the
+              patient was treated, may not generalize.  Thus one might be interested in
+              describing the possible values that the parameters of interested take on,
+              without being required to simultaneously estimate the remaining parameters. 
+              Typically one treats information associated with nuisance parameters as held
+              fixed, and performs inference conditionally on this information.  That is, one
+              assesses the the evidence concerning the parameter of interest by comparing
+              experimental results to the population of possible results such that the
+              information about nuisance parameters is held fixed.  The research agenda
+              proposed here presents methods for doing these calculations, which balance high
+              computational costs of exact methods against potential inaccuracies of
+              approximations, and introduces and combines new methods for both
+exact and
+              approximate calculations.  These new methods will make the analysis of small
+              discrete data sets, commonly occurring in applied sciences, quicker and more
+              accurate.

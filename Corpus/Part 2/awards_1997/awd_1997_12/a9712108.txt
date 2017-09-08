@@ -1,0 +1,46 @@
+Title       : Broadcast and Epidemic Communication for Managing ReplicatedData
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 17,  1997 
+File        : a9712108
+
+Award Number: 9712108
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $150632             (Estimated)
+Investigator: Divyakant Agrawal agrawal@cs.ucsb.edu  (Principal Investigator current)
+              Amr El Abbadi  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      c/o Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Many commercial database products and application tools are  beginning to
+              support data replication to provide ready  access to data in distributed,
+              mobile, and disconnected  environments. Most of these systems have chosen to
+              use  asynchronous replication schemes in which updates to  replicas are not
+              synchronized. Although these schemes  perform reasonably well for single object
+              updates (i.e.,  environments such as file-systems), they are not suitable  when
+              a single update involves multiple objects (i.e.,  transactional environments).
+              This project investigates the  benefits of using synchronous and asynchronous
+              broadcast  mechanisms for managing replicated databases. Broadcast  primitives,
+              viz., reliable broadcast, causal broadcast, and  atomic broadcast, will be used
+              to design new protocols for  synchronous replication.  In synchronous
+              replication,  transactions accessing replicated data are synchronized with 
+              other transactions in the system.  In asynchronous  replication, transactions
+              execute locally and other means  are used to disseminate their effects globally
+              as well as to  detect and correct inconsistencies.  The epidemic model of 
+              communication will be used as the transport mechanism here.  Pessimistic as
+              well as optimistic replication protocols will  be developed to maintain
+              replicas asynchronously. Finally, a  simulation framework will be developed to
+              evaluate the  protocols for synchronous and asynchronous replication.

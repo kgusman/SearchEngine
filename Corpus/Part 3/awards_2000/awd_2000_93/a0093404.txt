@@ -1,0 +1,79 @@
+Title       : CAREER: Scalable Algorithms for Large-Scale Data Mining
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 12,  2001     
+File        : a0093404
+
+Award Number: 0093404
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $478305             (Estimated)
+Investigator: Inderjit S. Dhillon inderjit@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Digital data can occur in diverse forms; it may occur as database records with
+              numerical fields, as raw text documents or image files, or as website traffic
+              log files. Data mining is the automatic discovery of interesting patterns,
+              associations,changes, anomalies, rules, and statistically significant
+              structures and events in data. 
+
+A key feature, often an overwhelming
+              feature, of the data is its sheer magnitude. The rapidly expanding internet
+              already contains more than 1 billion web pages, and typical warehouse and web
+              traffic data can occupy terabytes of disk space. It is clear that data mining
+              tools must be efficient and scalable if they are to serve any practical
+              purpose. Parallel computing can help in satisfying the demands on computing
+              cycles and memory storage imposed by these large data sets.
+
+The main focus
+              of this project is to develop scalable solutions for large-scale data analysis.
+              The main thrust is
+in exploring and developing efficient, parallel,
+              mathematical and statistical methods that can mine large data sets and deliver
+              results in a timely manner. In particular,  new clustering techniques that
+              partition data into
+disjoint partitions, the new method of concept
+              decompositions for dimensionality reduction, improved computation of principal
+              components analysis, efficient classification schemes for folding in newly
+              arriving unlabeled data into known classes, and effective visualization of
+              multidimensional data will be investigated. 
+
+Another focus  is to adapt the
+              data analyses tools developed to the application area of text mining.
+A
+              completely parallel text mining system that is capable of (a) efficient
+              preprocessing of text data into
+numerical data, (b) clustering large unlabeled
+              document collections, (c) classifying unlabeled documents into a known concept
+              hierarchy and (d) visualization of document & word relationships will be built.
+              This system will allow the user to easily navigate, assimilate, search and
+              organize the contents of very large document collections; we hope to process up
+              to 100 million documents on a 128-processor cluster of workstations. Many of
+              the text mining algorithms we develop will scale linearly with the size of the
+              data. In this scenario, it becomes important to avoid I/O bottlenecks, exploit
+              memory hierarchies of modern processors and hide network latencies.
+
+The
+              educational plan  consists of three components: (i) a teaching philosophy that
+              emphasizes
+the scientific method in undergraduate and graduate education, by
+              incorporating new technologies for in-class and web-based offline instruction;
+              (ii) a focus on multidisciplinary education with a commitment to develop
+              centralized web-oriented primers designed to quickly acquaint students with
+              desired pre-requisites; and (iii) curriculum development for two courses; the
+              first, a scientific computing course for non-CS undergraduates as part of UT
+              Austin's new "Elements of Computing" program, and the second, a new course on
+              large-scale data mining for graduate students.

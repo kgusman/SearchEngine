@@ -1,0 +1,50 @@
+Title       : Decoupling and Reforming Tag and Data Arrays for High-Performance Memory
+               Hierarchy Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 21,  1996       
+File        : a9624498
+
+Award Number: 9624498
+Award Instr.: Standard Grant                               
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Jih-Kwon Peir peir@cise.ufl.edu  (Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              The project investigates issues in memory hierarchy design and proposes
+              solutions  to bridge the increasing performance gap between the processor and
+              memory.  By  observing the unequal time needed to perform cache tag
+              access/comparison and to  access cache data, this path imbalance can be
+              exploited to achieve a more  performance optimal cache design.  The basic idea
+              is to use an additional tag  array record the status and location of the
+              recently used lines in the cache data  array.  By recording the cache line
+              locations in this subset of the tag array,  the data access is decoupled from
+              the tag access/comparison path for a shorter  overall cache access time.  In a
+              multiprocessor system, cache coherence  activities incur extra traffic to the
+              heavily-loaded snooping bus and impose  additional latency in accessing the
+              data.  By observing that references to the  same memory location are often
+              ordered at the software level, frequently  rendering cache coherence activities
+              are unnecessary and can be deferred until  at the proper synchronization point.
+                 The infrastructure required, including a multiprocessor tracing facility, 
+              multiple-issue out-of-order execution processor models, and various memory 
+              hierarchy models, will be developed in this project.  These tools will be 
+              enhanced with graphical user interfaces and used for instructional purposes to 
+              provide students with hands-on experience in evaluating difference
+              architectural  design tradeoffs.

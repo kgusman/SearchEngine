@@ -1,0 +1,75 @@
+Title       : Multiscale Methods for Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 28,  2002      
+File        : a0209497
+
+Award Number: 0209497
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $116567             (Estimated)
+Investigator: Jinchao Xu xu@math.psu.edu  (Principal Investigator current)
+              Victor Nistor  (Co-Principal Investigator current)
+              Ludmil Zikatanov  (Co-Principal Investigator current)
+              Constantin Bacuta  (Co-Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              DMS Award Abstract
+Award #: 		0209497
+PI: 			Xu, Jinchao
+Institution:
+              		Pennsylvania State University 
+Program: 		Computational Mathematics
+Program
+              Manager: 	Catherine Mavriplis
+
+Title: Multiscale Methods for Partial
+              Differential Equations
+
+The focus of this work is on the development and
+              applications of a two-scale discretization technique, namely the finite element
+              method based on partition of unity.  One main application is on the design of
+              efficient discretization for nonmatching (either overlapping or nonoverlapping)
+              grids.  The main idea of nonmatching grids is to divide a physical domain into
+              a set of overlapping or nonoverlapping subregions which can accommodate smooth,
+              simple, easily generated grids.  In this approach, a grid generation for
+              complex geometries can be made simple, refinement grids can be added or removed
+              without changing other grids, different equations/numerical methods may be used
+              on different grids, efficient structured grid solvers may be used. 
+              Furthermore, overlapping grids are well suited for parallelization and
+              vectorization.  The proposed generalized finite element method based on
+              partition of unity provides a general and powerful discretization framework for
+              this type of grids.  Another major task is the development of a multigrid
+              iterative method for solving the resulting algebraic systems for these new
+              discretization schemes. As divide and conquer techniques, the proposed
+              multiscale algorithms are suitable for parallel and high-performance computers.
+               
+
+A class of new multiscale techniques are proposed to study for efficient
+              numerical solution of partial differential equations. Multiscale methods in
+              general are proven to be among the most powerful mathematical tools for the
+              investigation of a broad range of models that are described by partial
+              differential equations. Their pivotal role in the design of fast, reliable, and
+              robust numerical methods for the solution of various problems places them among
+              the most important research areas in the applied mathematics in the recent
+              years. Since these methods are in some sense problem-independent, they are
+              expected to have many important applications in science and engineering such as
+              composite materials and subsurface flows in environmental
+              applications.
+
+
+Date: May 28, 2002
+

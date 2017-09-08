@@ -1,0 +1,73 @@
+Title       : Local Plus Global Adaptivity in Moving Node Finite Element Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : October 11,  2001   
+File        : a9706353
+
+Award Number: 9706353
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1997      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $70680              (Estimated)
+Investigator: Keith Miller kmiller@math.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9148,9216,HPCC,MANU,
+Abstract    :
+              9706353  Keith Miller      Miller plans to work on local plus global adaptivity
+              for moving node  finite element methods. He plans first (in collaboration with
+              Neil  Carlson of Purdue) to combine the local adaptivity of 2-D
+              gradient-weighted  Moving Finite Elements (through the continuous movement of
+              its nodes) with  an improved global adaptivity (through addition, deletion and
+              reconnection  of nodes, based upon enriched geometric criteria and upon local
+              error  estimates). Here they are building upon their longstanding and fruitful 
+              collaboration in developing the GWMFE method. This method is especially  suited
+              to problems which develop sharp moving fronts, especially problems  where one
+              needs to resolve the fine-scale structure of the fronts. GWMFE  does an
+              extremely fine job of moving its nodes around locally to resolve  the sharp
+              features of the solution, but clearly global adaptivity is  needed if we are to
+              have truly robust and flexible codes. Here they  would be making fundamental
+              changes and additions to the partial global  adaptivity introduced by Miller's
+              student Kuprat in his thesis of '92,  which added so greatly to the robustness
+              of the method. Miller plans  second to develop a revised GWMFE with streamline
+              diffusion; this should  correct some problems which the present method has on
+              certain steady-state  convection problems in which the GWMFE grid drifts
+              downstream with the  flow rather than coming to a steady-state. This revised
+              GWMFE works  extremely well in 1-D; success in extending it to multidimensions
+              would  be a significant advance for slow-transient and near steady-state fluid 
+              computations.    Finite element (FE) methods with a triangular grid in 2-D
+              typically compute  a piecewise linear approximation to the solution of a
+              partial differential  equation (PDE) or system of PDEs; that is, the graph of
+              the approximate  solution is an evolving surface with planar triangular faces.
+              For standard  FE methods the grid is specified and fixed; however, for the
+              GWMFE method  the grid is  allowed to deform and the nodes of the grid decide
+              for  themselves how to move. On problems with sharp moving fronts the nodes can
+                thus automatically concentrate in the front and move with it. In this way 
+              one attains high resolution in the critical regions of the solution  while
+              using far fewer nodes and far larger time steps than with standard  methods.
+              Examples are the highly nonlinear diffusion of doped arsenic  ions in the
+              manufacture of silicon chips, the drift-diffusion equations  for the nanosecond
+              evolution of holes, electrons and voltages as a  semiconductor device switches
+              states, and the "black oil" equations  for flooding of oil reservoirs. The
+              GWMFE method has been strikingly  successful on these and many other problems
+              even within the constraints  of a logically-fixed grid; that is, the grid
+              deforms automatically, but  the number and interconnections of its nodes remain
+              fixed. However, a  logically-fixed grid is inadequate for many important
+              problems and it is  apparent that the efficiency and robustness of the method
+              can be  greatly enhanced by adding global adaptivity (the insertion and
+              deletion  of nodes as needed). This requires a good deal of code development, 
+              but the combination of local plus global adaptivity in GWMFE should  yield a
+              combined method which is accurate and robust, which uses far   fewer nodes, and
+              which thereby renders efficiently computable important  classes of problems
+              with moving sharp features which are presently  inaccessible to numerical
+              computation.

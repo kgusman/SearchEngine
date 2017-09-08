@@ -1,0 +1,59 @@
+Title       : ITR: Automatic Collision Avoidance: Algorithm and Online Software
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0218878
+
+Award Number: 0218878
+Award Instr.: Standard Grant                               
+Prgm Manager: Miriam Heller                           
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $393697             (Estimated)
+Investigator: Angelo Miele miele@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 1039,1057,CVIS,
+Abstract    :
+              The constantly increasing congestion in the sea lanes and air traffic lanes
+              raises the risk of ship collisions and aircraft collisions.  This danger was
+              tragically illustrated in a recent air disaster over Germany.  This research
+              seeks to reduce the collision risk via the development of a high-performance,
+              robust, real-time collision avoidance algorithm.  The research approach is
+              based on the combination of an offline optimization algorithm generating the
+              structure of the solution and an online algorithm approximating the solution in
+              real time.
+The collision avoidance problem is formulated as a maximin problem
+              of Chebyshev type: the objective is to maximize with respect to controls the
+              timewise minimum distance between the host vehicle and an intruder.  A
+              multiple-subarc version of the sequential gradient-restoration algorithm is
+              being developed to solve numerically the optimal control problem.
+Because it
+              is not feasible to compute the optimal trajectory in real time, a collision
+              avoidance guidance algorithm is being developed to approximate the optimal
+              trajectory in real time.  This algorithm partitions the collision avoidance
+              maneuver into an avoidance phase and a recovery phase.  For the avoidance
+              phase, the time interval for which saturation control can be applied is
+              determined so as to quickly escape from the collision danger.  During the
+              recovery phase, the host vehicle is maneuvered back to the assigned path via a
+              feedback restoration algorithm.
+To rapidly disseminate the research results
+              and foster education in the fields of optimization, guidance, and system
+              safety, an online demonstration of the algorithm is being developed.  This
+              software will allow remote users to simulate ship/aircraft maneuvers with the
+              aid of animated graphical displays and will help the development of collision
+              avoidance instrumentation for ships and aircraft.  The research results will
+              also be relevant to the orbital debris avoidance for spacecraft.
+
+
+
+

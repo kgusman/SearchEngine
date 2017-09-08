@@ -1,0 +1,102 @@
+Title       : Optimization of Parabolic Systems: Iterative Methods, Suboptimal Controls, and
+               Preconditioning
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 28,  2000      
+File        : a0075731
+
+Award Number: 0075731
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $140000             (Estimated)
+Investigator: Matthias Heinkenschloss heinken@caam.rice.edu  (Principal Investigator current)
+              Samuel S. Collis  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              
+   Optimization of linear or nonlinear parabolic differential equations
+in
+              the context of optimal control, optimal design, or parameter estimation 
+plays
+              an important role in science and engineering. Algorithms for the
+solution of
+              parabolic equations often involve marching in time, starting
+from an initial
+              condition. In optimization, however, the values of the
+solution of the
+              parabolic equation at later times feed into the
+optimization at early times.
+              This coupling in time makes the practical
+solution of these very large-scale
+              optimization problems challenging.
+To cope with storage and computer time
+              demands required by an exact
+optimization of parabolic systems, so-called
+              suboptimal control techniques, 
+such as reduced bases techniques and
+              instantaneous control have recently 
+been proposed. The analysis of these
+              techniques is still incomplete and 
+the limits of their applicability are not
+              clearly described. This
+research integrates selected suboptimal control
+              techniques into an
+optimization framework, where they are interpreted as
+              truncated 
+iterative methods or are used as preconditioners in optimization
+              methods.
+This improves our theoretical understanding of these techniques and
+              broadens 
+their applicability. The resulting methods are applied to specific
+              optimal 
+control problems in or related to fluid mechanics.  
+
+   Optimal
+              control attempts to determine system parameters or inputs 
+to increase the
+              performance of the system. For example, micro electromechanical
+systems may be
+              used to alter the flow characteristics on an aircraft wing 
+to reduce drag, or
+              heaters may be adjusted to achieve a desired temperature
+profile in a furnace
+              while minimizing energy consumption. Many systems
+can be modeled by
+              mathematical equations. In this case mathematical 
+techniques can be used, at
+              least in principle, to determine the optimal
+system inputs. For systems that
+              can be adequately modeled by moderately
+complex mathematical equations this is
+              done routinely and successfully.
+Detailed mathematical descriptions of other
+              systems, including flow 
+over an aircraft wing or the temperature distribution
+              in a furnace, however,
+are so complex that present mathematical techniques for
+              the determination
+of optimal control strategies require such large computer
+              resources that
+render them impractical. The goal of this research is to
+              develop and analyze
+computational mathematics tools for the determination of
+              optimal control 
+strategies for a class of complex systems and the
+              demonstration of
+the practicability of these tools using selected applications
+              in fluid 
+mechanics.
+

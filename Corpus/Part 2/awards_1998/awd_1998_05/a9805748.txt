@@ -1,0 +1,54 @@
+Title       : Computational Error Estimation and Adaptive Error Control for Numerical
+               Solutions of Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 4,  2000     
+File        : a9805748
+
+Award Number: 9805748
+Award Instr.: Standard Grant                               
+Prgm Manager: Jong-Shi Pang                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1998      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Donald J. Estep   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              9805748  Estep    Systems of quasi-linear reaction-diffusion-convection
+              differential   equations have widespread importance in  modeling physical
+              phenomena in   such diverse fields as biology, chemistry, metallurgy, and
+              combustion.   Some examples are shear flow in fluids with temperature dependent
+                viscosity; Hodgkin-Huxley type models of nerve bundles; and models of   the
+              spread of disease in populations.  Because such problems are   typically highly
+              nonlinear and exhibit complex behavior, numerical   solutions of the
+              differential equations have become the main tool for   investigation of their
+              properties.  However, these same qualities give   rise to some fundamental
+              scientific questions: How can reliable and   accurate estimates of the accuracy
+              of information computed from   numerical solutions be obtained and how can a
+              desired range of accuracy   be achieved?  The project will address these
+              question on three levels: theoretical analysis; implementation in code;   and
+              application to practical problems.      The proposed approach is based on
+              developing an a posteriori theory of error   estimation in which the error is
+              estimated in terms of quantities   depending on the numerical solution that can
+              be computed or   approximated. The theory will then be used to develop methods
+              of   computational error estimation and adaptive error control. The PI will
+              also analyze the reliability and accuracy of the  computational error estimates
+              and, because stability has a direct impact on the accuracy of numerical
+              solutions, the preservation of stability properties of the differential
+              equation under discretization. Practical goals of this project include; a 
+              publicly-accessible code for solving general reaction-diffusion problems using
+              computational error estimation and adaptive error control, applications to the
+              practical models like   those mentioned above,  and an educational component in
+              the form of a   textbook on the finite element method for the basic nonlinear
+              models of   science.

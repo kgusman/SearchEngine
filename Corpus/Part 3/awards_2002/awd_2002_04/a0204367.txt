@@ -1,0 +1,72 @@
+Title       : Managing Energy as a First Class Operating System Resource
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 10,  2002     
+File        : a0204367
+
+Award Number: 0204367
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2002       
+Expires     : May 31,  2005        (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Amin M. Vahdat vahdat@cs.duke.edu  (Principal Investigator current)
+              Carla S. Ellis  (Co-Principal Investigator current)
+              Alvin Lebeck  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Managing the energy consumption of computers requires cooperation
+between
+              energy aware applications and operating systems.  This
+research seeks to fully
+              explore the energy management space
+surrounding the interaction of
+              applications and the operating system.
+Applications should adjust their energy
+              consumption when appropriate,
+but must be provided accurate information on
+              their individual energy
+consumption.  The operating system must implement the
+              mechanisms and
+policies to determine energy consumption and allocate it fairly
+              as a
+global system resource.
+
+This research will first re-examine operating
+              system structure with an
+emphasis on managing energy as a first class
+              resource.  Energy
+management cuts across all traditional system resources,
+              with the CPU,
+disk, network, and memory all exhibiting unique energy
+              consumption
+characteristics.  Next, the work will explore policies for
+              allocating
+energy to competing tasks.  The goal is to maintain fairness
+              while
+observing user-specified priorities and soft real-time deadlines.
+
+The
+              end product of this research will be a comprehensive framework for
+globally
+              managing energy in a diverse set of scenarios, ranging from a
+single mobile
+              computer, to wireless sensor networks that may have
+aggregate goals across a
+              large number of sensors, to hosting centers
+that wish to provide maximum
+              performance with minimum energy
+consumption.
+
+

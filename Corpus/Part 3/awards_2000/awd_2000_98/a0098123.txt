@@ -1,0 +1,86 @@
+Title       : Design and Analysis of Cryptographic Protocols for Secure Communication
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 7,  2001       
+File        : a0098123
+
+Award Number: 0098123
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $236830             (Estimated)
+Investigator: Mihir Bellare mihir@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+
+Innovations in computer and communications technologies are making it
+              easier
+and faster to do things but also bring with them new security risks. 
+              This
+proposal is concerned with cryptography, which is an important component
+              in the
+provision of security in the electronic world.  A cryptographer
+              designs
+schemes, or protocols, for tasks such as data authentication, data
+              encryption,
+identification, and key distribution which are implemented and
+              incorporated
+into the computer systems and are responsible for imbuing data
+              and transactions
+with attributes like privacy and integrity.  Providing
+              high-quality,
+cost-effective cryptography is a challenge because cryptographic
+              protocols are
+easy to specify but hard to analyze, and notorious for
+              containing bugs that
+take a long time to be discovered.  The goal of this
+              project is to identify and
+tackle practical problems in cryptographic protocol
+              design and analysis based
+on theoretical techniques, delivering real-world
+              usable protocols backed by
+theoretically sound security analyses, and thereby
+              impact implementation, usage
+and standardization of cryptography in the
+              computer and communications
+industry.
+
+The specific research proposed here
+              is on three broad topics: anonymity,
+authenticated encryption and asymmetric
+              identification protocols.  The term
+``anonymity'' is broadly used to refer to
+              issues regarding keeping private the
+identities of parties engaging in
+              electronic transactions.  The researchers
+will investigate anonymity for
+              mix-nets, anonymous encryption, and blind
+signatures. In each case they will
+              look at both foundational issues such as
+definitions, and then the possibility
+              of practical, proven secure
+constructions. In the authenticated encryption
+              domain they will investigate the
+security of the popular
+              encrypt-with-redundancy paradigm.  Finally they will
+consider the design of
+              identification protocols secure against attackers having
+the powerful
+              capability of resetting the internal state of the client machine
+and also seek
+              improved transformations of identification protocols to digital
+signature
+              schemes.

@@ -1,0 +1,42 @@
+Title       : Optimal Equation Formulation and Analysis for Simulation of MEMS
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 20,  1997    
+File        : a9726120
+
+Award Number: 9726120
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Lawrence T. Pileggi pileggi@ece.cmu.edu  (Principal Investigator current)
+              Gary K. Fedder  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,9237,HPCC,
+Abstract    :
+              Circuit simulators are often used to analyze non-electrical problems when it is 
+              noted that such a problem has an analogous electrical description. This is 
+              certainly the case for micro-electro-mechanical systems (MEMS). But it should
+              be  noted that circuit simulators have been greatly optimized over the years
+              for the  analysis of large transistor circuits, and cannot be used to simulate
+              MEMS  designs. In fact, general purpose simulators, such as SCEPTRE, have
+              fallen into  disuse. This research explores the possibility of a MEMS-specific
+              simulation  tool, with a focus on the questions: 1. Is nodal formulation and
+              traditional  circuit simulation the best way to simulate MEMS?  2. If not, is
+              the potential  improvement significant enough to justify a specific tool?  A
+              prototype simulator  in MATLAB is being built to demonstrate concepts. This
+              borrows from prior work  on circuit simulation. Applications of algorithms,
+              such as Asymptotic Waveform  Evaluation (AWE), and successive chords for
+              nonlinear iteration, are being  investigated for simulation of MEMS.

@@ -1,0 +1,60 @@
+Title       : Memory-Based Operant Learning
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : April 4,  2002      
+File        : a9978403
+
+Award Number: 9978403
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1999  
+Expires     : November 30,  2003   (Estimated)
+Expected
+Total Amt.  : $338333             (Estimated)
+Investigator: David S. Touretzky dst@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              The PI will develop a cognitively plausible reinforcement learning (RL)
+              architecture as a model of instrumental learning in animals and robots. 
+              Although RL was initially inspired by animal learning phenomena, the field has
+              since developed mainly by addressing AI concerns.  A major limitation of
+              current RL architectures as cognitive theories is the representation of state
+              space.  Models that maintain explicit state representations (such as Q~tables)
+              are limited to simple domains with only a few variables, while models that
+              represent the state space implicitly (e.g., using a neural net function
+              approximator) require large amounts of training data and unreasonably long
+              training times compared to real animals.  The PI's approach is to develop
+              specialized representations of state space that are appropriate for modeling
+              animal behavior and can support desired generalizations.  The simulated
+              animal's working memory will encode sensory stimuli, state change events, and
+              the animal's own actions.  An explicit state representation would encode the
+              conjunction of all these variables, generating a combinatorial explosion. The
+              proposed alternative approach is for the model to form conjunctions of selected
+              variables, allowing it to incrementally expand its state description while
+              focusing on just those dimensions that are relevant to the task being learned. 
+               Heuristics based on fast, single-layer neural net learning will be developed
+              to select useful conjunctions as a function of recent experience.  The PI also
+              will investigate matching the current state of working memory with records of
+              entire past states, or episodes, in order to predict reward.  A flexible
+              architecture will be developed for representing actions in a parameterized
+              manner (so as to provide infinite variability), and with temporal duration
+              (allowing stimuli and rewards to arrive in the midst of execution).   Finally,
+              there will be mechanisms for coping with failure of an action to execute
+              successfully or to produce an expected reward; this will provide the basis for
+              modeling phenomena such as effects of partial reinforcement schedules and
+              increased behavioral variability during extinction.   If successful, this work
+              will advance the state of the art of reinforcement learning by introducing new
+              techniques for handling complex state and action spaces.  This has important
+              implications for theories of animal cognition, for robots that learn by
+              exploration and experimentation, and for robots intended to learn from human
+              teachers.

@@ -1,0 +1,88 @@
+Title       : Chromosome Aberration Frequencies and Chromatin Geometry: Algorithms and
+               Experiments
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : June 4,  2001       
+File        : a9904842
+
+Award Number: 9904842
+Award Instr.: Continuing grant                             
+Prgm Manager: Sylvia J. Spengler                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $345984             (Estimated)
+Investigator: Lynn R. Hlatky Lynn_Hlatky@dfci.harvard.edu  (Principal Investigator current)
+Sponsor     : Dana-Farber Cancer Inst
+	      Office of Grants and Contracts
+	      Boston, MA  02115    617/632-3940
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 
+Program Ref : 9183,9218,9263,BIOT,HPCC,
+Abstract    :
+              Algorithms for Computing Chromosome Aberration Frequencies.
+
+
+This project
+              will develop computer algorithms for analyzing chromosome aberrations produced
+              by ionizing radiation during the G1 phase of the cell cycle. Such aberrations
+              are rearrangements of chromosomes, caused by interactions of DNA double strand
+              breaks (DSBs).  They are informative about radiation damage pathways as
+              modulated by DNA repair and misrepair, and about chromatin structure at large
+              scales, up to the full size of a mammalian chromosome. Their importance is in
+              fact interdisciplinary, bridging the fields of radiobiology and cytogenetics,
+              with information valuable for biodosimetry, risk estimation, chromosome
+              structure, and the understanding of radiation-induced cell killing.
+
+A very
+              rich, colorful variety of chromosome aberrations can be observed using
+              chromosome painting (fluorescent in situ hybridization -- i.e. FISH), which has
+              revolutionized aberration work. Often current experimental results are so
+              complex. involving dozens of different aberration categories, that mathematical
+              analysis and computer calculations are essential for interpreting the data. The
+              present project has two aims. The first aim is to analyze quantitatively the
+              recombinational repair ("one-hit") molecular model of aberration formation.  In
+              contrast to older (breakage-and-rejoining or Revell) models, the
+              recombinational repair model considers that radiation-produced DSBs lead to
+              additional, enzymatically -produced breaks. If correct, the model has important
+              implications for almost all areas of radiobiology.
+
+Preliminary studies by
+              the PI  suggest that the model may be contradicted by current FISH data sets
+              because the predicted frequency of visibly complex chromosome aberrations
+              appears to exceed that observed. To be decisive the analysis needs more
+              quantitative detail, obtainable only by Monte Carlo simulations.  The project
+              will develop the Monte Carlo algorithms, test the recombinational repair model
+              with recent FISH data, and compare it to the breakage-and-rejoining model,
+              which has hitherto been found generally consistent with experiments. In
+              addition to a plethora of data for human cells, data on other genomes are now
+              available and will be included to get a broad spectrum of comparative
+              radisosensitivities, taking advantage of the fact that the aberration
+              simulation software uses just two adjustable parameters (the number of reactive
+              DSBs per unit dose per unit genomic size, and the number of DSB interaction
+              sites), which can be compared meaningfully among different genomes.
+
+The
+              second project aim is to incorporate recent pulsed-field gel electrophoresis
+              data on DSB clustering along chromatin, and related computations, into
+              algorithms for estimating the formation probabilities of various intrachanges
+              (i.e. 1-chromosome aberrations). Previous studies have indicated that
+              radiation-produced intrachanges are unexpectedly frequent and are biologically
+              important. Clustering of DSBs along chromatin has a strong influence on
+              intrachanges, which can be estimated quantitatively by appropriate equations
+              and simulations. Under this aim aberration data, and also published mutation
+              data dealing mainly with radiation-produced large deletions, will be compared
+              to estimates obtained from the intrachange algorithms developed.
+
+The
+              proposed data analysis tools are comparatively inexpensive. They can supply
+              much-needed coherence to aberration data, interrelate different empirical
+              assays, and will help guide new experiments or critical rexaminations of extant
+              data sets in laboratories world-wide.
+
+

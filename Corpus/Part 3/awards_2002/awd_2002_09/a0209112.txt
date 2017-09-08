@@ -1,0 +1,53 @@
+Title       : Histogram-based Query Estimation for Datasets with different Modalities
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0209112
+
+Award Number: 0209112
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $214892             (Estimated)
+Investigator: Divyakant Agrawal agrawal@cs.ucsb.edu  (Principal Investigator current)
+              Amr El Abbadi  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              Data summarization and estimation can serve as a useful tool for a diverse set
+              of applications ranging from traditional database query optimization to OLAP
+              applications and the exploration of large data sets.  During the course of this
+              project, data estimation and summarization techniques will be developed for
+              datasets with different modalities: point datasets, datasets containing objects
+              with spatial extents, and stream datsets.  The approach is specifically based
+              on the use of histograms in different contexts.  One of the main problems of
+              applying estimation techniques in a database management system is the unknown
+              characteristic of the distribution of the data that will populate a given DBMS.
+               In fact, in order for such a technique to be useful, the estimation technique
+              should be effective for different kinds of data distributions and query
+              patterns.  This is because a DBMS is used for a variety of applications
+              resulting in a wide spectrum of data that populates the database.  A new
+              estimation technique called the golden estimator has been identified that
+              employs cumulative probability distributions for creating histograms and
+              captures the underlying data distribution. This technique can also be used to
+              adapt to changes in the query patterns.  For objects with spatial extents, this
+              project will lead to histograms derived from Euler's formulation for graphs.
+              For stream datasets, a variety of approaches will be explored that are amenable
+              to maintain histograms dynamically. The research results will be evaluated in
+              the context of the Alexandria Digital Library and the Digital Campus projects
+              at UCSB.
+
+
+
+

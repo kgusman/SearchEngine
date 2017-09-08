@@ -1,0 +1,94 @@
+Title       : An Architecture for a Global Internet Host Distance Estimation Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 4,  2001       
+File        : a9876541
+
+Award Number: 9876541
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1999        
+Expires     : April 30,  2002      (Estimated)
+Expected
+Total Amt.  : $440296             (Estimated)
+Investigator: Sugih Jamin jamin@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4095,9218,HPCC,
+Abstract    :
+              It is increasingly the case that a given Internet interaction could be satisfied
+              by one of a number of Internet hosts.  Examples range from short-lived
+              interactions such as a single web page access to any one of multiple
+              equal-content web servers to a long-term peering relationship between two news
+              (NNTP) servers.
+
+In any such interaction, all other things being equal, it is
+              advantageous to access the ``nearest'' choice.  By near we mean in terms of
+              Internet performance metrics, such as low latency or high bandwidth.  Even when
+              all other things are not equal, such as the case where different web servers
+              have different response times, it is still useful to include distance to each
+              candidate host as one of several criteria for making a selection.
+
+One
+              approach to obtaining this distance information is for the initiating host to
+              measure it itself, using either unicast (ping, traceroute) or multicast
+              (expanding ring search) tools.  While these tools have a wide range of
+uses,
+              their utility is generally limited by their overhead.  For instance, the cost
+              of running a single traceroute can exceed the cost of the web page access
+              itself.  More important still, a large number of hosts making independent and
+              frequent measurements could have a severe impact on performance overall. 
+              Ideally, measurements made by one system (host or router) should be made
+              available, at low cost, to other hosts.
+
+A useful general service for the
+              Internet would be one whereby a host could quickly and efficiently learn the
+              distance between any two hosts.  To be widely useful, such a service should
+              provide an answer with a delay and overhead less than those of the gains
+              achieved by using the service.  A simple protocol for such a service (SONAR)
+              was discussed in the IETF (Internet Engineering Task Force) as early as
+              February 1996, and in April 1997 as a more general service called HOPS (Host
+              Proximity Service).  Both of these efforts proposed lightweight client/server
+              query/reply protocols along the lines of a DNS (Domain Name System)
+              query/reply.  Both also required that the server be able to produce an answer
+              in a very short time---preferably, though not necessarily, by using information
+              already stored locally.
+
+This proposal is concerned with the problem of how
+              servers in such a SONAR/HOPS service can obtain the distance information needed
+              to answer queries.  Specifically, we explore the following questions:
+- Which
+              systems originally produce the distance information, and how is it produced?
+-
+              How does the distance information get from these producing systems to the
+              servers?
+- What form does the distance information take, and how is it used to
+              produce answers for specific pairs of Internet hosts?
+
+After discussing basic
+              aspects of the questions outlined above, this proposal presents a general
+              architecture for an underlying service that provides the basic information used
+              by a SONAR/HOPS service.  This underlying service is called IDMaps, for
+              Internet Distance Map Service.
+
+This work is being proposed in parallel by
+              the PI, Sugih Jamin, and the co-PI, Lixia Zhang.  Sugih Jamin's prior research
+              has been in Internet traffic characterization and measurement-based admission
+              control.  Lixia Zhang has been an active participant in research on scalable
+              reliable multicast.  The PIs will work closely with Paul Francis of NTT
+              Software Labs and Vern Paxson of LBNL.  Paul Francis has been active on
+              research in distributed hierarchy construction algorithms.  Vern Paxson is
+              active in Internet performance measurement and is the PI of the NSF-funded
+              National Internet Measurement Infrastructure (NIMI) effort.  IDMaps can be
+              built on the NIMI substrate.  Letters from Paul Francis and Vern Paxson
+              confirming these
+collaborations are attached to this proposal.
+

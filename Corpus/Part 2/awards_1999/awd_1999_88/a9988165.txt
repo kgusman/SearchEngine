@@ -1,0 +1,80 @@
+Title       : Nonstandard High Order Multigrid Techniques with Applications to Laminar
+               Diffusion Flame Simulations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 9,  2001      
+File        : a9988165
+
+Award Number: 9988165
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $253970             (Estimated)
+Investigator: Jun Zhang   (Principal Investigator current)
+              Craig C. Douglas  (Co-Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      109 Kinkead Hall
+	      Lexington, KY  405060057    859/257-8311
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will design efficient geometric multigrid methods using
+              
+intermediate grids to solve convection diffusion problems discretized 
+by
+              high order compact schemes. The use of intermediate grids aims at 
+reducing
+              discrepancy between the solutions obtained on different
+grids. Symbolic
+              computation packages will be used to derive a fourth 
+order finite difference
+              scheme on the intermediate grids. Special 
+relaxation schemes and intergrid
+              transfer operators will be developed.
+The nonstandard multigrid method with
+              high order discretization 
+schemes will be used in the numerical simulation of
+              laminar diffusion 
+flames. The use of intermediate grids is expected to
+              alleviate the 
+problem haunting existing multigrid methods in the flame
+              simulation, 
+in which the converged coarse grid correction is not in the
+              
+convergence domain of the fine grid Newton iteration.
+
+This project
+              requires both symbolic and numerical computation 
+techniques. The successful
+              development of a useful symbolic 
+computation procedure will greatly promote
+              the awareness and use of 
+symbolic computation packages in numerical
+              computation community.
+The results of this research project will make
+              important contribution 
+to the understanding of geometric multigrid solution
+              of convection
+diffusion problems, and of the applications of high order
+              compact
+schemes to realistic flow simulations. Efficient solution of such
+              
+problems is central to many numerical simulations in computational 
+fluid
+              dynamics. The fast laminar diffusion flame code is useful in 
+combustion and
+              environment protection. Certain U.S. industries related 
+to commercial
+              burners, pollutant tracking, car and airplane 
+manufacturing, combustion, can
+              benefit from this research.
+
+

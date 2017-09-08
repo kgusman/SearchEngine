@@ -1,0 +1,70 @@
+Title       : Numerical Analysis of Qualitative Dynamics in Flows
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 27,  1999      
+File        : a9973331
+
+Award Number: 9973331
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $33411              (Estimated)
+Investigator: William D. Kalies wkalies@fau.edu  (Principal Investigator current)
+Sponsor     : Florida Atlantic Univ
+	      777 Glades Road
+	      Boca Raton, FL  334310991    305/393-3000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Kalies
+9973331
+
+The investigator develops numerical methods for determining
+              the qualitative dynamical behavior of solutions to ordinary differential
+              equations.  For these methods, input requires only a system of differential
+              equations, a region of the phase space, and no a priori knowledge of the
+              dynamics.  The output is a Morse decomposition of the invariant set into
+              regions containing nontrivial dynamics.  Information about the behavior in
+              these regions is given in terms of the Conley index, and connecting orbits
+              between Morse sets can be detected.  Such an algorithm is beneficial as a first
+              step in the study of systems of differential equations for which little
+              information is known, particularly in higher dimensions where visualization of
+              numerically simulated solutions is difficult.  The type of computation
+              envisioned here provides a somewhat coarse, qualitative description of a
+              dynamical system.  However, the Conley index, a tool from dynamical systems
+              theory, is an algebraic topological index, which also allows for the
+              development of algorithms for rigorously proving the existence of specific
+              dynamical behavior.  Therefore, a reliable algorithm can be used both as a tool
+              for analyzing unfamiliar systems and as a tool for obtaining computer-assisted
+              proofs of specific dynamics; both would have a wide variety of applications. 
+              The algorithms developed here also have potential applications in computational
+              topology, in particular the computation of the homology of cellular complexes,
+              and connections to mesh generation and Delaunay triangulations.
+
+Differential
+              equations are used to model many phenomena in the physical sciences: mechanical
+              systems, chemical reactions, and biological systems.  Understanding the
+              dynamics of such inherently nonlinear systems is a problem in global analysis. 
+              When the underlying space has dimension higher than three, the study of such
+              systems is often beyond the scope of current analytic techniques.  Computers
+              are capable of performing many calculations of solutions to such equations, but
+              most current numerical methods are not well suited for extracting asymptotic
+              dynamical behavior from systems in higher dimensions.  One problem is that
+              computers can generate a large quantity of data that is difficult to analyze;
+              often a graphical analysis is performed, which is impractical in higher
+              dimensions and can miss unstable objects.  The purpose of this project is to
+              design and implement algorithms to study the asymptotic dynamics of
+              differential equations in higher dimensions.  The output of the algorithm is an
+              algebraic index (designed by C.  Conley) that could be thought of as a tool for
+              extracting the essential dynamical information (including unstable objects)
+              from computational data and that does not require visualization to be
+              understood.
+

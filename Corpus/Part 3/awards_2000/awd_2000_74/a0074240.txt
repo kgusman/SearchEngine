@@ -1,0 +1,129 @@
+Title       : Moving Mesh Methods for Numerical Solution of Time Dependent Partial
+               Differential Equations in Two and Three Spatial Dimensions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 24,  2000      
+File        : a0074240
+
+Award Number: 0074240
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Weizhang Huang huang@math.ku.edu  (Principal Investigator current)
+Sponsor     : U of Kansas Ctr for Res In
+	      2385 Irving Hill Drive
+	      Lawrence, KS  660457563    785/864-3441
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              The investigator continues to develop adaptive moving mesh methods
+for the
+              numerical solution of time dependent, multi-dimensional
+partial differential
+              equations. The research work will be focused
+on a new moving mesh method, the
+              moving mesh partial differential
+equation approach proposed by the
+              investigator and his collaborators.
+The approach has been implemented in one
+              and two dimensions for
+generating non-singular structured and unstructured
+              adaptive meshes
+and successfully applied to a number of problems.
+              Moreover,
+the approach has led to a unifying framework describing
+              previous
+methods, providing a new theoretical underpinning, and
+              building
+reliable new methods. The objectives of the proposal are to
+further
+              improve the efficiency and robustness of the two dimensional
+method, to apply
+              it to practical problems, and to implement
+the three dimensional
+              method.
+
+This project is concerned with the development of new
+              computational
+methods which are essential to enhance the ability of scientists
+              and
+engineers to solve large scale computational problems that are crucial
+to
+              our economy, environment, and security. The research is focused on
+development
+              of adaptive numerical techniques or mesh adaptation methods,
+where the special
+              moving features of the particular problem being solved
+are adapted to. Mesh
+              adaptation has recently played an indispensable role
+in the numerical
+              simulation of many large-scale problems arising from
+science, engineering, and
+              industry, such as those involving shock
+waves, boundary layers, ignition
+              propagation fronts, and multi-material
+interface. These problems have a
+              distinct common feature, that is, their
+solution changes significantly only in
+              a small portion of the physical
+domain and the resolution of the solution in
+              this portion dominates
+the quality of the whole simulation. Standard
+              (non-adaptive) techniques
+often fail to solve these problems because they
+              spend effort evenly on
+the entire domain and thus require formidable resources
+              of computer
+CPU time and memory to obtain a reasonable degree of
+              resolution.
+On the other hand, adaptive mesh methods gain significant
+              economies
+by paying most attention to the small portion of the physical
+              domain
+where the solution changes most. The moving mesh method under study
+is
+              a natural type of adaptive mesh methods which are designed to
+capture the
+              moving features of the physical solution.  The method
+is suitable for parallel
+              computing and has proven to be an indispensable
+tool for use in the simulation
+              of many industrial manufacturing problems.
+As an important part of the
+              proposed research project, two specific
+applications will be focused on. The
+              first will be the numerical
+simulation of chemical transport in groundwater
+              aquifers.
+Groundwater supplies much of the water use in the United
+States.
+              The wide spread degradation of groundwater quality from
+chemical contamination
+              has recently prompted extensive research for
+simulating and predicting
+              chemical behaviors in the subsurface.
+The application of the moving mesh
+              methods will provide accurate,
+efficient, and robust numerical algorithms for
+              simulating chemical
+transport in groundwater and therefore for effectively
+              protecting
+and managing the groundwater resources. The other application will
+              be
+on the analysis of dynamic stall of airfoil for better understanding
+the
+              physical mechanisms which cause the unsteady flow
+behavior in the
+              high-angle-of-attack flight condition found common
+with modern fighter and
+              civil transport aircrafts.
+

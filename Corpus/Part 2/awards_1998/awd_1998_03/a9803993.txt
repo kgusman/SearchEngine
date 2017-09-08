@@ -1,0 +1,45 @@
+Title       : Investigation of a Robust Software Architecture for Safety-Critical Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 8,  1998  
+File        : a9803993
+
+Award Number: 9803993
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $41091              (Estimated)
+Investigator: Farokh B. Bastani bastani@utdallas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Software for safety-critical control systems must be highly  reliable since
+              failures can have catastrophic consequences.  A  novel approach is proposed for
+              assuring ultrahigh reliability  requirements for these systems using multiple
+              program versions  that satisfy different functionalities. One version
+              implements  the safety-critical functions of the system while other versions 
+              provide more optimal and refined control.  Each program is a  general relation
+              that computes all possible outputs for an input.  The system output is obtained
+              from the intersection of all the  output sets with a guarantee that the
+              safety-critical version  will never be violated. This approach allows the 
+              reliability of the system to be assessed cost-effectively.  It  also
+              facilitates the use of advanced adaptive and learning  control algorithms for
+              the non-safety-critical versions.  The project includes analysis of the
+              properties of the  architecture, syntax and semantics of relational programs, 
+              efficient relational composition methods, cost-effective  reliability
+              assessment methods, supporting tools for writing,  executing, and dynamically
+              composing relational programs, and  evaluation of the diverse-capability
+              architecture using several  problems.  The successful completion of this
+              research will result  in a scientifically rigorous and practical approach for
+              achieving  certifiable high assurance for safety-critical  systems.

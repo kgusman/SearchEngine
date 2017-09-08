@@ -1,0 +1,94 @@
+Title       : 3D Reconstruction of Icosahedral Viruses from X-ray Scattering Data
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : April 2,  1999      
+File        : a9513594
+
+Award Number: 9513594
+Award Instr.: Continuing grant                             
+Prgm Manager: Gregory K. Farber                       
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : January 1,  1996    
+Expires     : December 31,  1999   (Estimated)
+Expected
+Total Amt.  : $145238             (Estimated)
+Investigator: Peter C. Doerschuk   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 1108      INSTRUMENTAT & INSTRUMENT DEVP
+Fld Applictn: 0108000   Software Development                    
+              0203000   Health                                  
+              61        Life Science Biological                 
+Program Ref : 9184,BIOT,
+Abstract    :
+                   The objective of the proposed research is the development of new  methods
+              for determining the structure of small spherical viruses based  on x-ray
+              scattering measurements. Research in this area is timely  because synchrotrons
+              allow the measurement of qualitatively superior  data and new methods are
+              needed in order to fully exploit the data. For  instance, it will be possible
+              to study virus dynamics, e.g., maturation  and disassembly, in solution: the
+              high intensity of the x-ray beam  allows the recording of a solution scattering
+              pattern in roughly 100 ms  and the quality of the data, in terms of the ability
+              to make low-angle  scattering measurements and the sensitivity of the
+              detectors, is very  high so that a low-resolution structure can be
+              reconstructed from a  single 100 ms snap shot and therefore the evolution of
+              the structure  can be tracked.       This is an interdisciplinary collaboration
+              between the principal  investigator, in the School of Electrical Engineering,
+              and Professor  John E. Johnson, in the Department of Biological Sciences. It
+              combines  image processing, applied mathematical analysis, and numerical 
+              computation expertise from the electrical engineering side with  biological,
+              biophysical, and x-ray scattering experimental expertise  from the biological
+              sciences side. The major theme that extends through  all of the proposed work
+              is the need to exploit the icosahedral  symmetry present in small spherical
+              viruses. The principal investigator  has new mathematical results in
+              icosahedral harmonics and methodology  based on these results will allow the
+              development of reconstruction  methods which exploit the symmetry in a much
+              more natural and  computationally attractive fashion than has been possible in
+              the past.    Work is proposed in three areas:    Reconstruction of 3D
+              low-resolution viral structure from solution x-ray       scattering patterns: A
+              model of the virus is proposed which       exactly exhibits the icosahedral
+              symmetry. An iterative recon       struction algori thm, which is an
+              significant generalization of the       standard electron density modification
+              algorithm, is proposed.       Significance: Successful reconstruction would
+              allow easy low-cost       surveys of virus structure since no crystallization
+              is required;       would provide new starting points for reconstructions of    
+                high-resolution structures based on crystal x-ray diffraction       data;
+              and, most importantly, would enable the study of virus       maturation and
+              disassembly in the natural solution environment.    Nucleic acid packing and
+              nucleic acid-protein interactions: Small       spherical viruses provide an
+              elegant and relatively simple model       system for studying these problems.
+              However, because the bulk; of       the nucleic acid in a virus does not
+              exhibit icosahedral symmetry,       the protein is visible at atomic resolution
+              in a high-resolution x-       ray diffraction experiment while the nucleic acid
+              is not.       Therefore, in order to extract the maximum amount of information 
+                   concerning both protein and nucleic acid from the x-ray       diffraction
+              experiment, it is necessary to use different models       for the protein and
+              nucleic acid. Such models and least-squares       type algorithms for
+              estimating the parameters in the models from       low-resolution crystal x-ray
+              diffraction data are proposed.       Significance: Successful reconstruction
+              will validate the       low-resolution crystal x-ray diffraction data, which is
+              difficult       to measure, and provide an alternative view of the nucleic acid
+                    distribution and its interaction with the protein capsid based on      
+              x-ray diffraction rather than cryo electron microscopy data.    Refinement
+              using incomplete crystal x-ray diffraction data sets: In  many cutting-edge
+              problems the data set is       incomplete due to a limited amount of virus,
+              limited synchrotron  time, or inability to reliably grow       high-quality
+              crystals. Because the virus particle has icosahedral  symmetry, it follows that
+               the diffraction data       also has icosahedral symmetry which, in the
+              simplest case, implies  that the data is 60-fold redundant. Data     that is
+              5-fold redundant  is typically sufficient to refine a structure. Therefore,
+              large amounts  of the data (e.g.,       80%) can be missing and it should still
+              be possible to refine the  structure. However, standard algorithms and      
+              software require that a complete set of data be recorded.  Therefore, based on
+              the 60-fold redundancy, the       incomplete data set is interpolated to
+              generate a complete data  set. However, the current interpolation       methods
+              do not exploit the icosahedral symmetry of the data and  are therefore
+              inaccurate. We propose to       develop and implement more sophisticated
+              interpolation methods  that will exploit the icosahedral symmetry.      
+              Significance: Success in this work will allow the solution of new  structures
+              from existing previously unusable       data sets.

@@ -1,0 +1,71 @@
+Title       : Integration of Auditory & Chemical Processing into Compact, Distributed Sensing
+               Nodes
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : April 3,  2001      
+File        : a9988905
+
+Award Number: 9988905
+Award Instr.: Standard Grant                               
+Prgm Manager: Filbert J. Bartoli                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  2000 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Denise Wilson wilson@ee.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              In this research, we propose to combine complementary hear/smell functions where
+              the hearing process is used to complement smell for minimizing false alarms and
+              reinforcing suspected dangerous situations. Because of the unique nature of the
+              "hear" and "smell" sensing nodes proposed here, the "hear" function also allows
+              the hear/smell combination to operate under much lower overall power than a
+              "smell" node can currently operate alone.  
+
+If you think you see something,
+              are you not reassured when you hear it as well? If you think you hear an
+              explosion, are you not more anxious when you also smell smoke? If a dog smells
+              a rabbit, does it not chase faster upon seeing it as well?
+
+The answers to
+              these questions are, of course, yes. Not necessarily because add information to
+              the system, but because we complement one set of information with another set
+              that confirms our conclusions and reinforces our reaction. The focus of this
+              proposal on the integration of "smell" and "hear" functions using miniaturized,
+              low-power, unattended sensing nodes is unique. The system architecture for the
+              proposed work consists of two chips per sensing node, a wireless communication
+              interface, and a remote base station. Please refer to Figure 1 in the main
+              proposal text for a pictorial description of the proposed research. Each dual
+              sensing node implements a com-bination of "hear" and "smell" functions. The
+              interpretation of information gathered by these sensing nodes is done by a
+              "base station" or remote computer. Real time processing of sensory information
+              is enabled by compression of the large amount of incoming auditory and sensory
+              data at the sensing node itself using analog VLSI based hard-ware processing
+              architectures. Each sensing node consists of two custom integrated circuits
+              (Chip 1, Chip 2), and an external miniaturized microphone. Chip 1 receives and
+              processes an auditory signal from the microphone and also contains circuits to
+              extract features from pre-processed chemical sensors transferred from Chip 2.
+              Chip 2 con-tains an array of no less than eight chemical sensors based on
+              polymer films deposited on ChemFET structures.  Chip 2 also contains processing
+              circuits for controlling the heaters which reside local to the chemical sensors
+              and processing circuits for reducing noise in each sensor signal. The auditory
+              processing section of each sensing node is always powered on; by necessity, its
+              design is ultra low power and compact. Only in the presence of relevant stimuli
+              (as detected by the auditory processing) are the chemical sensors, chemical
+              sensor processing circuits and link to the base station powered on. This
+              selective operation not only extends battery life but also extends the
+              life-time of the chemical sensors by limiting their exposure to gases that can
+              irreversibly react with the sensor surface.  In this method of combination,
+              "hear" and "smell" not only offer more valuable, robust, and coherent sensory
+              information, they also enable lower power operation of the overall system.  
+

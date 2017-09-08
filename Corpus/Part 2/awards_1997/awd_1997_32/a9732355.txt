@@ -1,0 +1,46 @@
+Title       : Fast and Accurate Algorithms for Structured Matrix Computations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 23,  1998      
+File        : a9732355
+
+Award Number: 9732355
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1998       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $140947             (Estimated)
+Investigator: Vadim Olshevsky volshevsky@gsu.edu  (Principal Investigator current)
+Sponsor     : Georgia State University
+	      University Plaza
+	      Atlanta, GA  303033044    404/658-2000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Numerous applications in sciences, engineering and  mathematics give rise to
+              problems involving structured  matrices such as Toeplitz, Hankel,  Vandermonde,
+               controllability, observability, Cauchy, Bezoutians, along  with  many other
+              patterns of structure. In many of these  applications the use of standard 
+              mathematical software  tools (such as MATLAB, Mathematica, Maple, LAPACK, etc.)
+              is  not appropriate, because their ignoring of structure  requires unnecessary
+              storage as well as an extremely large  amount of CPU time. Secondly, many
+              structured matrices,  e.g., Hankel, Pick, Hilbert, Vandermonde, are extremely
+              ill-  conditioned, so that all available standard methods often  fail to
+              produce even one correct digit in the computed  solution.  The objective of
+              this project is the study of theoretical  and computational problems related to
+              structured matrices  which arise in several applied areas, including signal and
+               image processing, system theory, and control theory. New  accurate fast and
+              superfast algorithms will be developed for  several new classes of structured
+              matrices, arising in  rational matrix interpolation and approximation problems 
+              with norm constraints, in Gaussian quadrature as well as in  signal and image
+              processing. Along with these direct  methods, the approach will be used to
+              design new classes of  preconditioners based on discrete real transforms to
+              speed-  up the convergence of the conjugate gradient method for  block
+              Toeplitz-plus-Hankel matrices.

@@ -1,0 +1,72 @@
+Title       : CAREER: Scalable Mathematical and Computational Models for Biomolecular Modeling
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 28,  2002   
+File        : a0135195
+
+Award Number: 0135195
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2002   
+Expires     : December 31,  2006   (Estimated)
+Expected
+Total Amt.  : $312483             (Estimated)
+Investigator: Jesus Izaguirre izaguirr@cse.nd.edu  (Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              The proposed activities aim to create mathematical and computational methods for
+              modeling large biological molecules. Computational simulation of dynamics and
+              sampling of proteins, DNA, and nucleic acids promise to be a tool for
+              understanding the relationship between structure and function, and for computer
+              assisted drug design. Processes of interest include protein dynamics and
+              folding and the study of other cellular components. Despite significant
+              progress in the field, there is still a gap between the simulations that can be
+              routinely performed with current technology and the complexity of processes and
+              systems of biological interest. The proposed mathematical and computational
+              methods will overcome the size and time scale limitations inherent in atomistic
+              dynamics and sampling, while preserving the atomistic resolution of the
+              biological systems. The new methods will be disseminated for research and
+              educational purposes through an open source and scalable software framework
+              called ProtoMol, and tested in a range of systems, from small proteins to
+              potassium channels that reside in lipid bilayers. These new algorithms will
+              translate into speedups of one or more orders of magnitude over current
+              methodologies. This technology will enable simulations that are sorely needed
+              in the expanding field of proteomics and the processing of data from the human
+              genome project. To study dynamical processes, trajectories of large
+              biomolecules are generated using molecular dynamics (MD). In an attempt to
+              overcome the time scale limitations, multiple time stepping (MTS) integrators
+              have been introduced. Nevertheless, even these methods have been limited by
+              stability, and thus the time steps used in MD have not been dramatically
+              increased. The PI proposes to devise multiscale algorithms for MD that are not
+              limited by stability. To accomplish this goal, research will proceed in two
+              phases: the _rst will extend the PI's work on stabler MTS numerical integrators
+              by overcoming instabilities present in these methods. This will allow an
+              estimated two- to eight-fold speedup over current methods for MD. The second
+              phase involves the use of a symplectic semi-implicit method for MD using a
+              splitting that separates cleanly many time scales, and incorporates the faster
+              and less interesting ones in a more approximate manner. Speedups of two orders
+              of magnitude or more are possible, depending on the degree of accuracy desired.
+              This proposal will also tackle the related problem of statistical sampling. The
+              large conformational space of biomolecular systems causes many difficulties to
+              traditional sampling methodologies such as MD and Monte Carlo methods, or
+              hybrids of both, all of which super performance degradation as the system size
+              increases. We will use a biased hybrid Monte Carlo method that scales nearly
+              linearly with system size. This will produce speedups of one or two orders of
+              magnitude over MD, MC, or conventional hybrid MC methods. Synergy between this
+              research project and teaching will occur at several levels. There will be an
+              enhancement of materials of undergraduate and graduate courses taught by the
+              PI, on data structures and applied algorithms, numerical methods, and
+              computational methods for biomolecular modeling. Learning modules for
+              engineering and science students will be developed in ProtoMol to facilitate an
+              understanding of the behavior of large biological molecules. 
+

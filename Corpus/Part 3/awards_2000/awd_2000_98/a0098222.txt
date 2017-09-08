@@ -1,0 +1,62 @@
+Title       : Fast and Accurate Algorithms for Structured Matrix Computations: Applications
+               and Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2001       
+File        : a0098222
+
+Award Number: 0098222
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $285167             (Estimated)
+Investigator: Vadim Olshevsky   (Principal Investigator current)
+Sponsor     : Ga State U Res Fdn, Inc.
+	      University Plaza
+	      Atlanta, GA  30303    404/651-4350
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0098222
+Georgia State University 
+Olshevsky, Vadim
+
+Numerous
+              applications in sciences and engineering, as well as in computational, applied
+              and pure mathematics give rise to problems involving matrices with Toeplitz,
+              Hankel, Vandermonde,  Cauchy
+structures, along with  many other patterns of
+              structure. Standard mathematical software tools [e.g., MATLAB, Mathematica,
+              MathCad, Maple,  LAPACK], are based on standard [structure-ignoring]
+methods,
+              and therefore their use is often not appropriate for obtaining a satisfactory
+              solution. Here are two major  reasons.  First, ignoring  the structure
+              artificially squares the size of the  data, which requires unnecessary storage
+              and  an extremely large amount of CPU time. Secondly, many structured matrices
+              are
+extremely ill-conditioned, which means that all available standard methods
+              may fail to produce even one correct digit in the computed solution. The only
+              way to overcome these difficulties is to exploit the special structure of such
+              matrices, and to design more efficient algorithms.
+
+The objective of this
+              project is the study of several known and several new theoretical and
+              computational problems related to structured matrices which arise in several
+              applied areas, including signal and image processing, system theory, and
+              control theory. This research involves the development of new accurate
+fast
+              and superfast algorithms for several new classes of structured matrices arising
+              in rational matrix interpolation and approximation problems with norm
+              constraints (passive interpolation). This study will also focus on various
+              stability problems for matrix polynomials, and on various problems in
+              the
+theory of error-correcting codes.
+

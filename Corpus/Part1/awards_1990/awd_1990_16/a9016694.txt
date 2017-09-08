@@ -1,0 +1,63 @@
+Title       : U.S.-Japan Cooperative Research: Formal Verification of Finite State Systems
+Type        : Award
+NSF Org     : INT 
+Latest
+Amendment
+Date        : May 18,  1993       
+File        : a9016694
+
+Award Number: 9016694
+Award Instr.: Standard Grant                               
+Prgm Manager: Alexander DeAngelis                     
+	      INT  Office of Internatl Science &Engineering
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : April 15,  1991     
+Expires     : March 31,  1994      (Estimated)
+Expected
+Total Amt.  : $19822              (Estimated)
+Investigator: Edmund M. Clarke emc@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 5921      JAPAN
+Fld Applictn: 0108000   Software Development                    
+              30        Computer Science & Engineering          
+Program Ref : 2875,
+Abstract    :
+                                                                                             
+              This award provides support for a two year research project                    
+              between Professor Edmund Clarke, School of Computer Science,                   
+              Carnegie Mellon University, and Professor Hiromi Hiraishi,                     
+              Department of Information Science, Kyoto University, Japan.                    
+              The aim of the project is to investigate formal verification                   
+              methods for finite state systems.  These systems arise                         
+              naturally in the design of computer software and communication                 
+              protocols, and their correctness is likely to become an                        
+              important issue in the future.  Recent work has shown that                     
+              finite systems can often be verified automatically by                          
+              constructing and analyzing state-graph models of system                        
+              behavior.  However these methods rely on decision algorithms                   
+              which explicitly construct the state-graph model and because                   
+              the number of states in a model may grow exponentially with                    
+              the number of concurrently executing components, the complexity                
+              of systems that can be verified has been limited.  This                        
+              research will focus on new techniques which avoid this                         
+              problem, so that formal verification can be applied to                         
+              systems of realistic complexity.  A number of alternative                      
+              techniques have been proposed.  One example is to exploit the                  
+              hierarchical structure of the circuit in the verification                      
+              process.  Each individual component may be verified separately                 
+              and the results combined to infer properties of the global                     
+              behavior of the system.  A second approach is to implement                     
+              parallel algorithms that will run on supercomputers.                           
+                                                                                             
+              Both the US and Japanese researchers involved in this project                  
+              have been developing techniques for detecting these design                     
+              errors and recent research by both provides strong evidence                    
+              that it is possible to develop practical tools for this                        
+              purpose.  The research skills of the two researchers are                       
+              complementary and each country has much to learn from the                      
+              other about ways of dealing with this problem.  If successful                  
+              this project should lead to new techniques for automatic                       
+              design verification of finite state systems.

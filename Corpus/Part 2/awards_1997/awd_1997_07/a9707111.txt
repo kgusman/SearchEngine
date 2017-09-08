@@ -1,0 +1,82 @@
+Title       : Methods for Matrix Optimization Problems in Control and Statistical Signal
+               Processing
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 26,  1999      
+File        : a9707111
+
+Award Number: 9707111
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Stephen P. Boyd boyd@stanford.edu  (Principal Investigator current)
+              David L. Donoho  (Co-Principal Investigator current)
+              Michael Saunders  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9707111  Boyd    Powerful new methods for various convex matrix optimization
+              problems have emerged over the last few years.  Most of this research has
+              concentrated on the semidefinite programming problem (SDP), i. e., the problem
+              of minimizing a linear cost function over linear matrix inequalities (LMIs). 
+              SDPs are convex optimization problems that can be solved with great efficiency
+              using recently developed interior-point algorithms.  These matrix optimization
+              methods have had immediate practical and theoretical impact in several fields,
+              notably control systems and combinatorial optimization.  In control theory, the
+              basic idea is to formulate the analysis or synthesis problem in terms of convex
+              matrix optimization problems, which are then solved numerically.  The current
+              state of research on LMIs in control can be summarized:    There has been
+              intensive research on identifying control problems that can be cast in terms of
+              LMIS, and those for which an LM1 formulation is unlikely to exist.  In the
+              latter case, bilinear matrix inequalities (BMIS) have been recognized as a
+              unifying form.    The combined activity in mathematical programming and control
+              theory has led to very rapid progress in interior-point algorithms for solving
+              SDPS, focusing on local convergence rates, worst-case complexity, etc., and on
+              extending to SDP the sophisticated and efficient primal-dual interior-point
+              methods developed for linear programming (LP).    Several basic software
+              implementations of interior-point methods for SDP have become available.  These
+              codes have proven useful for small to medium-sized problems, but tend to be too
+              slow for larger problems, since they exploit little or no problem structure. 
+              LMls are becoming basic tools in control, much the way Riccati equations became
+              basic tools in the 1960s.  Thus, LMI/SDP solvers are becoming part of the
+              infrastructure of control (computation and practice), just as Riccati equation
+              solvers are now.  The same techniques can be applied in several other fields. 
+              In  statistical signal processing, for example, SDP allows one to define
+              optimization problems that involve representation and decomposition of
+              covariance matrices.  Here many challenges are still to be found in the problem
+              formulation area (i.e., identifying statistical signal processing problems that
+              can be cast in this framework) but it is already clear that the approach will
+              be rewarding.  Perhaps even more than in control, practical use of matrix
+              optimization in statistics will require efficient algorithms for large-scale
+              problems.  This proposal brings together researchers in the three key areas
+              involved: control theory, statistics, and large-scale numerical optimization,
+              in order to address the next logical areas of research: identification of the
+              problems in statistical signal processing that can be formulated in terms of
+              LMIS, and the development of more powerful algorithms (and practical codes) for
+              the matrix optimization problems that arise in control and statistical signal
+              processing.  The research effort will be complemented with a strong educational
+              component, by integrating the effort with the newly developed course Convex
+              Optimization with Engineering Applications.  We will transition new research
+              results in statistical signal processing directly into the course material,
+              which will help broaden the range of applications presented in the course.  The
+              new research on numerical methods will enter the course in two important ways:
+              first, as an advanced topic on implementation (missing from the current
+              course), and second, by providing tools that students can use during the
+              course, especially in projects.  Another important (but less direct)
+              educational goal is to train two PhD students in a completely interdisciplinary
+              fashion, equipping them with skills that range from, say, robust control theory
+              or statistics, to optimization theory and implementation of large-scale
+              numerical algorithms.  As the power of computing continues its exponential
+              rise, researchers with this background will  be increasingly valuable.

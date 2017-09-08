@@ -1,0 +1,61 @@
+Title       : Solving and Visualizing Algebraic Equations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  1990       
+File        : a9002228
+
+Award Number: 9002228
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $102000             (Estimated)
+Investigator: Chandrajit L. Bajaj   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              A general-purpose tool for computing and visualizing solutions to              
+              systems of algebraic equations shall be built.  Diverse algorithms             
+              exist for this problem and related sub-problems.  The goal of this             
+              project is also to develop a new set of solution techniques based on           
+              multi-polynomial resultants.  Our designed tool shall be portable and          
+              allow rapid prototyping of new and existing algorithms, in an                  
+              intelligent blend of algebraic and numeric methods and real                    
+              solutions.  Complex solutions can also be computed, but visualizing            
+              them is difficult. The software shall also take advantage of any               
+              parallel hardware that is present.  In all, a substantial improvement          
+              is anticipated in the state of the art of algebraic equation solving.          
+              Overall, the approach is to devise novel algorithmic techniques, blend         
+              with existing methods as well as compare the relative efficacy of the          
+              various methods.                                                               
+                                                                                             
+              A prototype system implementing some of these goals is built and               
+              evolving.  It is written in Common Lisp and C, and runs under the              
+              version 11 of the X window system.  The system is portable to any              
+              machine that runs vanilla Common Lisp, supports the X window system,           
+              and has at least a rudimentary Lisp/C interface.  At the present time          
+              it can solve systems of up to two equations in any number of                   
+              variables.  Example applications of this are curve and surface                 
+              display, curve-curve intersections, or surface surface intersections.          
+              A graphical user interface allows the display and manipulation of OD           
+              (points), 1D (curves) or 2D (surface) solutions.                               
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                 //

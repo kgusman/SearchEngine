@@ -1,0 +1,41 @@
+Title       : Instance-Based Theorem Proving with Semantics and Equality
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  1999    
+File        : a9972118
+
+Award Number: 9972118
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $245136             (Estimated)
+Investigator: David A. Plaisted plaisted@cs.unc.edu  (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+The ordered semantic hyper-linking strategy (OSHL) combines propositional
+              efficiency, semantics, and equality in one integrated automatic theorem prover
+              for first-order logic.  Semantics refers to the meaning of symbols, and
+              propositional efficiency refers to efficiency on problems requiring significant
+              case analysis.  Few existing provers utilize semantics, and most are not
+              propositionally efficient.  The current Prolog implementation will be extended
+              in ways that were suggested by a recent paper on the topic.  The prover will
+              also be re-implemented in Scheme for greater speed.  In addition, a prover
+              combining equality, unification, and propositional efficiency but no semantics
+              will be implemented, because semantics may not always be available.  These
+              combinations should outperform almost all other provers on a significant class
+              of problems.  Techniques capable of effective theorem proving on sets of
+              millions of input clauses will also be sought.
+

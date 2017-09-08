@@ -1,0 +1,48 @@
+Title       : A Composite Model Checking Toolset for Analyzing Software Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 30,  2001     
+File        : a9970976
+
+Award Number: 9970976
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $299999             (Estimated)
+Investigator: Tevfik Bultan bultan@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9970976  Bultan, Tevfik,  University of California, Santa Barbara
+A Composite
+              Model Checking Toolset for Analyzing Software Systems
+
+In this project a new
+              automated verification technique for analyzing software specifications called
+              composite model checking will be investigated. Model checking is a technique
+              for searching the state space of a system to find out if it satisfies a given
+              property. The success of model checking procedures rely on the efficiency of
+              the data structures used to represent the states of  the system. In this
+              project a composite model will be developed for combining multiple
+              type-specific representations so that all variable types can be represented
+              efficiently during the state space search. This way, representations such as
+              Binary Decision Diagrams which are efficient for encoding Boolean variables
+              will be combined with representations such as linear arithmetic constraints
+              which can encode unbounded variables. A set of tools will be implemented to
+              support composite model checking. The layered structure of the toolset will
+              allow other researchers to use it at various levels 1) for testing the
+              effectiveness of new representations; 2) for investigating various model
+              checking strategies such as backward and forward search, partitioning and
+              abstraction; or 3) for analyzing complex software specifications.
+

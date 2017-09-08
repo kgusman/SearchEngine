@@ -1,0 +1,65 @@
+Title       : On Providing Quality-of-Service Control for Core-Based Multicast Routing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : February 5,  2002   
+File        : a0296206
+
+Award Number: 0296206
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $220000             (Estimated)
+Investigator: Chao-Ju Hou jhou@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              There has been an increasing need of highly predictable, timely, and dependable
+              communication services with QoS guarantees on an end-to-end basis either for
+              embedded real-time applications or for multimedia-integrated distributed
+              control.  In particular, the RSVP Working Group of the IETF has developed a
+              resource ReSerVation Protocol (RSVP) protocol to provide receiver-initiated
+              setup of resource reservations for unicast/multicast data flows.  RSVP supports
+              receiver-initiated, fixed/shared reservation styles under the assumption that a
+              underlying routing protocol is available to provide unicast routes/multicast
+              trees with sufficient resources to maintain adequate QoS.  Unfortunately, most
+              of the currently operational multicast routing protocols do not explicitly
+              support QoS (in the form of end-to-end delay bound, end-to-end
+              inter-destination delay jitter bound, and minimum guaranteed bandwidth).  The
+              goal of the proposed research is thus to develop and evaluate a QoS routing
+              framework and its associated admission control, member join/leave procedures,
+              and information update procedures, to allow deployment of QoS routing
+              capabilities in core-based multicast routing protocols.    The proposed
+              research is a combination of two synergistic components: establishment of
+              theoretical base for, and development of, all the component schemes in a
+              well-defined analytic framework and their validation with software system
+              building and experiments.  We will pursue this research by (i) devising
+              effective admission tests to verify whether or not a multicast group member may
+              join the multicast tree, while not violating existing QoS guarantees to other
+              on-tree members; (ii) investigating the minimum set of information/state
+              required for admission tests in the context of the controlled-load service and
+              the guaranteed QoS service with various reservation styles as proposed in RSVP;
+              (iii) developing (with consideration of the scalability issue) effective
+              information update and state refresh procedures that can be read ily integrated
+              with the soft state refresh echanism that exist in most multicast routing
+              protocols that exploit the soft state concept; and   (iv) building an
+              experimental software using the GateD multicast source codes distributed by
+              Merit Network, Inc., defining and implementing a rich, well-defined interface
+              with RSVP (which may require minor changes in RSRR, the routing interface for
+              RSVP), and developing application level libraries to exploit the proposed
+              services to provide a suite of multicast services with different levels of QoS.
+               For more information, please refer to the project web page
+              (http://eewww.eng.ohio-state.edu/drcl/grants/qosr98/). On providing 
+              quality-of-service control for core-based multicast routing.    Attachment
+              Converted: C:\EUDORA\ATTACH\form1239.ps      Attachment Converted:
+              C:\EUDORA\ATTACH\form1239.p

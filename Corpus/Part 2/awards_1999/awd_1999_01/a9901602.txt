@@ -1,0 +1,71 @@
+Title       : CISE Postdoctoral Research Associates in Experimental Computer Science: Demand
+               Propagation in Labeled Logic Programming Systems
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : August 30,  1999    
+File        : a9901602
+
+Award Number: 9901602
+Award Instr.: Standard Grant                               
+Prgm Manager: Kenneth C. Whang                        
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $66000              (Estimated)
+Investigator: C. R. Ramakrishnan cram@cs.sunysb.edu  (Principal Investigator current)
+              David S. Warren  (Co-Principal Investigator current)
+              Michael Kifer  (Co-Principal Investigator current)
+              I. V. Ramakrishnan  (Co-Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9192,9218,HPCC,
+Abstract    :
+              
+9901602 
+Ramakrishnan, C.R. 
+Ramakrishnan, I.V.
+Kifer, Michael
+Warren,
+              David S.
+State University of New York at Stony Brook
+
+CISE Postdoctoral
+              Research Associates in Experimental Computer Science: Demand Propagation in
+              Tabled Logic Programming Systems  
+
+Tabled query evaluation - the defining
+              feature of our XSB logic programming system - eliminates most of the drawbacks
+              of Prolog-style SLDNF resolution.  When XSB runs in the tabled mode, the system
+              automatically maintains a table of predicate invocations and their answers,
+              using the table for all equivalent calls to the predicate made after the first
+              call.  Current implementations of tabled logic programming systems compute all
+              the answers to a tabled subgoal, regardless of whether all answers are actually
+              needed to correctly answer the top goal.
+
+We have identified a concept we
+              call demand propagation which can form the basis of a theory and implementation
+              of "don't care" nondeterminism in the context of tabled resolution.  In this
+              approach a programmer can release demand on a goal (for example, after an
+              answer has been returned which shows a negative subgoal in false), in which
+              case that goal and its subgoals will only be evaluated if there are other
+              demands for there answers.  This concept can elegantly solve several search
+              problems that have arisen in our application of XSB.
+
+The postdoctoral
+              associate supported by the project is developing both the theoretical
+              underpinnings as well as implementation of a tabled logic programming system
+              based on demand propagation.  The resulting system will be used for doing
+              sophisticated optimizations in two on-going research projects, namely, search
+              space pruning using partial-order reduction in our XSB-based model checker, and
+              reducing query evaluation times in deductive databases.
+
+
+

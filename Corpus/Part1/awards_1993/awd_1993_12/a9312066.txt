@@ -1,0 +1,58 @@
+Title       : Nonconvexity in Chemical Process Optimization
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : March 29,  1995     
+File        : a9312066
+
+Award Number: 9312066
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : February 1,  1994   
+Expires     : May 31,  1996        (Estimated)
+Expected
+Total Amt.  : $97144              (Estimated)
+Investigator: Angelo Lucia   (Principal Investigator current)
+Sponsor     : Clarkson University
+	      8 Clarkson Avenue
+	      Potsdam, NY  13699    315/268-6400
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+              53        Engineering-Chemical                    
+Program Ref : 0000,9146,MANU,OTHR,
+Abstract    :
+              Abstract - Lucia - 9312066    Theoretically sound and reasonably reliable and
+              efficient computer tools for finding local solutions to large chemical process
+              optimization problems have been the focus of this PI's research.  He has been
+              working on developing a successive quadratic programming (SQP) method for
+              nonlinearly constrained optimizations problems (an example of such problems are
+              the design of  separation units such as distillation columns).  SQP methods are
+              a very powerful class of methods for solving nonlinear programming problems,
+              particularly those with strong nonlinear constraints.  The single biggest
+              weakness of SQP methods is the fact that iterative QP solutions can give
+              directions of nondescent in the nonlinear program (NLP), even for convex
+              quadratic programs.  For this research project the PI plans to:  A) Develop the
+              theoretical framework for linear programming-based, asymmetric trust region
+              methods that guarantee descent when the quadratic programming solution is not a
+              descent direction.  B) Conduct concomitant numerical studies directed at
+              developing the necessary rules for adjusting the trust region size to guarantee
+              both descent and convergence to a local Kuhn-Tucker point.  C) Study the
+              theoretical and computational implications of saddlepoint solutions to
+              nonlinear programming algorithms.    In addition, he plans to look at the
+              general role of nonconvexity in quadratic programming by:  1) Conducting a
+              numerical investigation and study of the relationship between nonconvexity and
+              the inadequacy of current active set methods, the occurrence of constraint
+              redundancy, the presence of multiplicity, nondescent, the requirement of
+              starting point feasibility/infeasibility, projected definiteness,
+              indefiniteness, and projected singularity.  2) Developing, in parallel,
+              reliable and efficient algorithms that address these and other issues,
+              including (a) new active set methods capable of handling projected
+              indefiniteness with feasible or infeasible starting points, (b) preprocessing a
+              lgorithms that can identify all smallest nontrivial redundant subsets of a
+              given set of constrains, and (c) incorporating (b) into (a) when singularity is
+              encountered.  3) Establishing theoretical foundations to both guide and support
+              the algorithmic developments in 2) above.

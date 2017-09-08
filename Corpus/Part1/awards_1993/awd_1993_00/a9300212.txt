@@ -1,0 +1,45 @@
+Title       : Cooperative Register Allocation and Instruction Scheduling
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 7,  1994      
+File        : a9300212
+
+Award Number: 9300212
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : August 31,  1995     (Estimated)
+Expected
+Total Amt.  : $59993              (Estimated)
+Investigator: Lori L. Pollock pollock@udel.edu  (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9251,
+Abstract    :
+              9300212  Pollock  To exploit the fine-grain parallelism in pipelined,
+              superscalar,  and superpipelined machines, various strategies for carefully 
+              scheduling instructions at compile time must be developed.  Until  recently,
+              instruction scheduling and register allocation were  treated separately. 
+              Conflicts in ordering these two phases  reduced the efficiency of the final
+              generated code.  Although  several efforts have been made to provide
+              communication between  instruction scheduling and register allocation, these
+              schemes  suffer several significant drawbacks.    This research will address
+              the following principal research  problems.  Strategies will be developed for
+              communication between  register allocation and instruction scheduling   
+              techniques that  schedule across basic block boundaries, in   particular,
+              region  scheduling and software pipelining.  The impact of integrating 
+              register  allocation of scalars and subscripted variables on  instruction
+              scheduling will be investigated to develop  cooperative allocation/scheduling
+              schemes.  Register allocation  and basic block  instruction  scheduling will be
+              integrated  without sacrificing code efficiency.  The strategies developed 
+              will be compared to other existing strategies for code generation  across
+              various architecture configurations and program  structures.  ***

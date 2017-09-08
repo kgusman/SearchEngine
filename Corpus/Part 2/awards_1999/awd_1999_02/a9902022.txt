@@ -1,0 +1,60 @@
+Title       : A Fully Algebraic Multigrid Software Package for Automated Solution of
+               Unstructured Sparse Linear Systems on High Performance Computers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 31,  2000    
+File        : a9902022
+
+Award Number: 9902022
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $188313             (Estimated)
+Investigator: Jun Zhang jzhang@cs.uky.edu  (Principal Investigator current)
+              Craig C. Douglas  (Co-Principal Investigator current)
+Sponsor     : University of Kentucky
+	      University Station
+	      Lexington, KY  405060001    606/257-9000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9150,9216,HPCC,
+Abstract    :
+              This project is to design robust and efficient computational kernel software for
+              solving large sparse unstructured linear systems on high performance computers.
+               Such large scale problems can only be solved by iteritive techniques.  The
+              iterative techniques under our consideration include multilevel preconditioning
+              techniques and algebraic multigrid methods.  Our goal is to unify these two
+              groups of methods and to take advantage of both and avoid the disadvantages of
+              either.
+We will investigate, design, and test algebraic preconditioners that
+              offer the scalability of multigrid techniques, the parallelism of domain
+              decomposition methods, and the robustness of incomplete LIU
+              preconditioners.
+
+We will also use a factored sparse approximate inverse
+              technique to replace standard iterative schemes in algebraic multigrid methods.
+               Such an approach may increase the robustness of our methods and improve their
+              parallelism.  Graph partitioning of submatrices is to be used to balance loads
+              among processors.  The proposed research will result in a software package that
+              may be used by researchers and engineers as kernel software in large scale
+              numerical simulations and
+computations.
+
+The general purpose high
+              performance iterative solvers from this research project are expected to make
+              significant impact in the field of applied scientific computing.  The results
+              of the research will make a clear judgment concerning the relative advantages
+              and disadvantages of algebraic multigrid methods and multilevel incomplete LU
+              preconditioning methods.  The research has applications in aerospace,
+              semiconductor, reservoir simulation, combustion, ocean/climate modeling, and
+              pollution tracking
+ 
+
+

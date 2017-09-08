@@ -1,0 +1,48 @@
+Title       : Implementation Techniques for Parallel Logic Programming: Systematic Development
+               of Parallel Prolog Engines
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 17,  1996 
+File        : a9625358
+
+Award Number: 9625358
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $99992              (Estimated)
+Investigator: Gopal Gupta   (Principal Investigator current)
+Sponsor     : New Mexico St University
+	      Box 30001, MSC 3RES
+	      Las Cruces, NM  880038001    505/646-2481
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              An important property of logic programming languages, such  as Prolog, is that
+              their declarative semantics is largely  independent of the order of execution
+              of different  operations in the program. The different operations can also  be
+              performed in parallel. As a result, it is possible to  exploit substantial
+              parallelism from Prolog programs,  written for sequential machines, without
+              making any  modifications to them. There are various forms of implicit 
+              parallelism found in Prolog programs: or-parallelism,  independent
+              and-parallelism, dependent and-parallelism,  stream and-parallelism, data
+              or-parallelism, data and-  parallelism. Research so far has only focused on
+              exploiting  a single form of parallelism. This  project's objective is  to
+              parallel implementation techniques that will allow one to  extend a high
+              performance sequential Prolog system to  exploit the various forms of
+              parallelism simultaneously. The  focus of this project is upon self-contained
+              parallel  implementation techniques that are simple and that will  allow
+              addition of the various forms of parallelism to an  existing sequential Prolog
+              system in a systematic and  incremental way. The techniques  to be developed
+              here will  be  tested and demonstrated  for efficacy by incorporating  them in
+              the SICStus sequential Prolog engine. Relevant tools  for compile-time analysis
+              will also be developed. General  runtime optimization techniques for reducing
+              the parallel  implementation overhead will also be researched.  ***

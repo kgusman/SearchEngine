@@ -1,0 +1,65 @@
+Title       : ITR: Unifying Software Frameworks for Distributed Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0220183
+
+Award Number: 0220183
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Vaidy S. Sunderam sunderam@mathcs.emory.edu  (Principal Investigator current)
+Sponsor     : Emory University
+	      Office of Sponsored Programs
+	      Atlanta, GA  30322    404/727-2503
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,9216,HPCC,
+Abstract    :
+              An architectural framework for distributed computing is proposed, with a view to
+              unifying multiple resource sharing models. Farm computing, private virtual
+              machines, computational grids, and peer to peer technologies are examples of
+              di.erent paradigms that have evolved to support di.erent application domains.
+              However, despite their common underlying theme of sharing resources across
+              computer networks, systems implementing these technologies tend to preclude
+              interoperability and, in some cases, require substantial middleware to
+              orchestrate resource aggregation. This project adopts a provider-centric view
+              of resource sharing, emphasizes lightweight software infrastructures that
+              maintain minimal state, and facilitates straightforward interfacing to current
+              and emerging distributed computing standards. Through a reconfigurable,
+              component-based approach, the proposed framework will attempt to provide
+              support for multiple distributed computing paradigms in a unified setting.
+              
+
+The provider perspective adopted in this project envisions resource owners
+              hosting a software backplane onto which owners, clients, or third-party
+              resellers may load components or component suites that deliver value added
+              services. Complete control over usage, security, and protection of resources is
+              retained by the owner. Components may implement primitive functions such as
+              message transport or mathematical transforms, or may be aggregated to emulate
+              concurrent computing environments, or may ofer portal interfaces to complex
+              backend application services. Providers of primitive resources or components
+              may publish their availability using either standard mechanisms,
+              framework-supplied schemes, or private directories; clients discover, lookup,
+              and use these services
+subject to usage and security constraints.
+
+In the
+              conduct of this project, fundamental issues concerning commonalities and
+              dualities in distributed systems, secure resource sharing, and software
+              reconfiguration will be explored, and will likely contribute new and useful
+              findings to the field. Owing to its strong pragmatic bias, the project is also
+              likely to have broad impact by suggesting schemes to realize effective
+              distributed computing systems, and by evolving prototype paradigmatic
+              software.
+
+
+

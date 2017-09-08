@@ -1,0 +1,90 @@
+Title       : Localized Approach to Quality-of-Service Routing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 8,  2000       
+File        : a0073819
+
+Award Number: 0073819
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $299919             (Estimated)
+Investigator: Zhi-Li Zhang zhzhang@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Quality-of-Service (QoS) routing is an important traffic engineering
+              mechanism for providing requisite services for many emerging applications on
+              the Internet.  In QoS routing, paths for flows are selected based upon
+              knowledge of the resource availability (referred to as QoS State) at network
+              nodes (i.e., routers) and the QoS requirements of the flows.  It is expected
+              that QoS routing will choose, among the many possible choices, a path that has
+              sufficient resources to accommodate the QoS requirement of a given flow. 
+              Because of its awareness of the network QoS state, QoS routing, if done
+              appropriately, can significantly improve network throughput.
+     In this
+              proposal, the researchers present a novel approach to QoS routing -the
+              localized QoS routing approach.  Unlike the conventional global QoS routing
+              approach that requires network-wide exchange of QoS states among routers, the
+              proposed localized routing approach attempts to infer the network QoS state
+              from locally collected flow statistics such as flow arrival/departure rates and
+              flow blocking probabilities, and performs path selection based on this local
+              information.  As a result, the proposed localized QoS routing approach avoids
+              the drawbacks of the conventional global QoS approach such as degraded
+              performance in the presence of inaccurate routing information.  Furthermore, it
+              has the advantage of minimal communication overhead, no processing overhead at
+              core routers, and easy deployability.
+     The researchers propose to study
+              and develop localized QoS routing algorithms using a novel adaptive
+              proportional routing framework.  Adaptive proportional routing exploits the
+              inherent randomness in path selection by proportioning flows among multiple
+              paths between a source and a destination.  Flow proportions are determined
+              based on the perceived quality of these paths, and are dynamically adjusted in
+              response to the changing network conditions.  Using adaptive proportional
+              routing framework, the researchers will focus on the following aspects of their
+              localized QoS routing approach.
+     Theoretical Foundations:  The researchers
+              plan to develop theoretical models under which the behavior of localized QoS
+              routing can be studied and analyzed.  Their insights will then be used to guide
+              the design of practical schemes.
+     Proportional Source Routing:  The
+              researchers will develop proportional source routing schemes using local flow
+              statistics collected either at route-level or link-level.  Through theoretical
+              analysis and simulations, the researchers will study the adaptivity and
+              stability of these schemes.
+     Proportional Next-hop Routing:  The
+              researchers also will explore applicability of localized adaptive proportional
+              routing to hop-by-hop path selection and will develop proportional next-hop
+              flow routing schemes using locally gathered aggregate flow statistics.
+    
+              Hierarchical Proportional Routing:  The researchers plan to study methods for
+              topology and QoS state aggregation using the localized adaptive proportional
+              routing framework, and to develop hierarchical proportional routing schemes
+              using a combination of proportional source routing and proportional next-hop
+              routing.
+     Proportional Hybrid Routing:  The researchers will develop
+              hybrid QoS routing schemes that 1) combine infrequent global QoS update
+              mechanisms and localized flow proportioning methods, and 2) integrate on-line
+              path selection with off-line traffic engineering/flow placement. The
+              fundamental trade-off between the system overhead, the time scale of control
+              and the system performance will be investigated in these contexts.
+    
+              Implementation:   The researchers plan to implement the proposed localized QoS
+              routing schemes in a testbed.  They will measure the performance and processing
+              overhead of these schemes under real traffic settings.
+     The deliverables
+              from the research effort will include journal and conference publications,
+              technical reports and memorandums, Internet Drafts, and software prototype
+              implementation.
+

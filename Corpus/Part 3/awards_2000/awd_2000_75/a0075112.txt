@@ -1,0 +1,75 @@
+Title       : Faster Eigenvalue Computations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 29,  2000    
+File        : a0075112
+
+Award Number: 0075112
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2000    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Roy Mathias mathias@math.wm.edu  (Principal Investigator current)
+Sponsor     : College of William & Mary
+	      Grants & Research Admin.
+	      Williamsburg, VA  231878795    757/221-3967
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              FASTER EIGENVALUE COMPUTATIONS
+
+Roy Mathias
+College of William and
+              Mary
+
+ABSTRACT
+
+I will  develop new, much faster, algorithms to solve
+              eigenproblems.  My approach is to actively force deflations, rather than
+              passively waiting for them to occur.  This idea, called aggressive deflation,
+              was developed by Braman, Byers and Mathias.  A very simple untuned
+              implementation of the idea resulted in computational savings of up to a factor
+              of 3. My project consists of two parts.  The first part is to perfect the
+              details of the implementation of aggressive deflation, to extend it to other
+              eigenvalue problems, and to write software implementing these ideas, so that
+              others can use them easily -- like a black box.  This will provide a simple way
+              to greatly increase the speed of eigenvalue computations.  In light of the
+              results mentioned above I have little doubt about the utility and success of
+              this first part of the project.  The second part is much more ambitious and
+              more speculative. It is to repeatedly use the aggressive deflation idea, with
+              carefully chosen parameters, so that one is able to force so many deflations
+              that, in the case of the Hessenberg eigenvalue problem, the complexity is less
+              than the now standard n-cubed, and is perhaps as low as  n-squared-log(n) for
+              many families of problems.  I hope to make similar improvements in algorithms
+              for other eigenvalue problems.
+
+Many physical systems are modeled using
+              matrices.  The eigenvalues of these matrices provide insight on how these
+              systems behave.  Here are two well known examples of the utility of
+              eigenvalues.  Firstly, the collapse of the Tacoma narrows bridge  could have
+              been predicted by analyzing the eigenvalues of the associated matrix. 
+              Secondly, each chemical element emits light of characteristic frequencies,
+              which are the eigenvalues of an associated matrix.  One can deduce the make up
+              of stars just by observing the frequencies of light they emit.  The larger the
+              matrix used to model the system the more accurate the model.  Unfortunately,
+              the number of arithmetic operations that the standard approach to computing the
+              eigenvalues of a n-by-n matrix is proportional to n-cubed.  I plan to develop
+              algorithms which 
+
+1. have operation count proportional to n-squared
+              (approximately), and since n can be in the thousands or millions this
+              apparently minor improvement should prove very useful, and 
+
+2. can exploit
+              the capabilities of modern super computers, which perhaps ironically, take
+              longer to recall numbers from memory than to multiply or add them.
+
+

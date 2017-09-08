@@ -1,0 +1,99 @@
+Title       : ITR: A Formal Framework for Systematic Protocol Assessment
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 13,  2002 
+File        : a0220001
+
+Award Number: 0220001
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2002    
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $431086             (Estimated)
+Investigator: Andras Farago farago@utdallas.edu  (Principal Investigator current)
+              Violet R. Syrotiuk  (Co-Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              A fundamental challenge in network  design is how to choose  the right protocol,
+               with   the  right   parameter  settings,   for  some  given circumstances. A
+              key problem that lacks a systematic formal  framework is the scalability  issue
+              in the  design space: networks  rapidly grow not  only  in  size  and 
+              heterogeneity,  but  also  in  the number of available design  choices, such 
+              as the  right protocol  to select, or just setting the right parameters for a
+              given protocol.
+
+To help remedy this situation we propose MERIT, a formal
+              framework for systematically  assessing  protocols  in  dynamic  scenarios. 
+              The key novelty  of  the researcher's solution  is  its  inherent scalability:
+              rather than comparing the  different protocols  directly, the researchers
+              compute an  inherent measure of  the protocol.  Using this  measure the
+              researchers  define a  spectrum,
+called a MERIT spectrum, for  the protocol
+              that characterizes it  in a way that  ensures comparability  with other 
+              protocols without porting them to the same platform. In addition, we develop a
+              systematic way of analyzing these spectra.
+
+While  the  traditional 
+              qualitative  and  quantitative  measures  areinformative,  they  do  not 
+              provide  a  satisfactory  framework for a systematic and unified comparison of
+              protocols. For example, as  shown in the literature, the resulting ranking
+              often strongly depends on the chosen simulation model.  The researchers take a 
+              new, orthogonal direction  in the assessment  of  routing  protocols  in 
+              MERIT. Specifically, the MERITframework provides  a systematic  and general 
+              way to  rank any  given routing protocol  by comparing  it to  a theoretical, 
+              yet efficiently computable, optimum  in its  own system,  rather than  to a 
+              competing protocol.
+
+For the problem of  routing in a mobile  ad hoc network,
+              the researchers show that the theoretical optimum can be meaningfully defined
+              and computed.  The basis of the researchers approach is a characterization
+              based on the ratio of  the MEan ``Real'' to the ``Ideal'' cosT, or MERIT, of
+              the protocol, and the researchers call the measure  the MERIT ratio.  The MERIT
+              ratio  as a function  of
+some parameters defines the MERIT spectrum of the
+              protocol, yielding a multi-faceted representation of protocol
+              effectiveness.
+
+The successful preliminary theoretical and experimental
+              results of the MERIT framework have encouraged  the researchers to develop
+              three  primary research directions: (1) Further development  of the
+              mathematical model  in the MERIT framework, with special  emphasis on creating
+              formal  methods to analyze MERIT spectra. (2) Creating a software tool for the
+              systematic study of routing  protocols using the  MERIT framework. (3) 
+              Extensive experimentation   with real routing   protocols   to capture and
+              systematically compare their  behaviour through analyzing  their
+              MERITspectra.
+
+Regarding the broader impact of the project, the contributions
+              combine to impact the research in the field of dynamic networks. For mobile ad
+              hoc networks, there is an impact in both theoretical model development and 
+              also  simulation  based  performance  analysis. The three primary research 
+              directions  of  the  project  are  appropriate to help train graduate students
+              to become highly skilled to conduct both theoretical work with  strong
+              mathematical  foundations, as  well as  experimental
+work using realistic
+              network  models in simulation. The  methodologies will  also be  introduced 
+              into  the  graduate  curriculum as well as research seminars that may also
+              involve students from underrepresented groups. While the original motivation
+              for MERIT was to assess  routing
+protocols in mobile ad hoc  networks, the
+              methods are also  applicable to other dynamic scenarios. Thus, the benefit to
+              society, in  addition to the production of well educated and skilled 
+              rofessionals, is  that networks will run more efficiently since MERIT provides
+              a  methodology
+to select the right protocol for the job. The results will be 
+              broadly disseminated  in  conference  and  journal  papers,  as  well  as book
+              chapters.
+
+

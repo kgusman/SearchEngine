@@ -1,0 +1,79 @@
+Title       : Wireless Technology: Seamless Multitier Wireless Networks for Multimedia
+               Applications
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 10,  2002     
+File        : a9979465
+
+Award Number: 9979465
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $700000             (Estimated)
+Investigator: Behnaam Aazhang aaz@rice.edu  (Principal Investigator current)
+              Dan S. Wallach  (Co-Principal Investigator current)
+              Edward W. Knightly  (Co-Principal Investigator current)
+              Joseph R. Cavallaro  (Co-Principal Investigator current)
+              Richard G. Baraniuk  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1596,9218,HPCC,
+Abstract    :
+              In the past decade, the number of subscribers to mobile and wireless
+              communication services has grown at an exponential rate.  Concurrently,
+              emerging wireless devices have enabled new modes of communication beyond
+              traditional cellular voice.  However, to remain continually "connected," users
+              face the frustrating task of manually coordinating a vast disarray of services,
+              devices, and wireless technologies.
+
+The goal of this project is to develop a
+              platform for truly seamless communication throughout environments as
+              fundamentally different as high-speed indoor wireless and conventional cellular
+              systems. The investigators propose to design, build, and evaluate RENE (Rice
+              Everywhere NEtwork), a multi-tier system that provides network- and
+              application-level services using a single network interface card.  The key
+              innovations of the RENE project are as follows:
+
+1. The design of an mNIC
+              (multi-tier Network Interface Card), a novel network interface card that is    
+               reprogrammable on-the-fly to different physical- and network-layer standards. 
+              The mNIC will support      soft handoffs, both horizontally within a tier and
+              vertically among tiers, including transitions from a      prototype 100 Mbps
+              indoor wireless LAN protocol to commercial CDMA cellular standards.
+
+2. The
+              building of a proxy file system that enables seamless and consistent access to
+              a user's home working      environment, independent of the user's location or
+              available network resources.  The system will respond      to changes in
+              available capacity using transcoders, allow consistent reading and writing of
+              files (even when transcoded), and facilitate network-awareness in unmodified
+              applications.
+
+3. The investigators will perform an extensive measurement and
+              modeling study of proxy traffic using     multi-fractal models.  Using these
+              results, policies will be devised which enable the proxy to make    
+              intelligent decisions on when and to what extent to transcode or store user
+              data to best meet user      performance objectives.
+
+4. The development of a
+              new coarse-grained approach to resource reservation and admission control that 
+                  enables users to obtain predictable performance in multi-tier environments.
+               The key technique is to         abstract system resources into networks of
+              virtual bottleneck cells such that by provisioning resources in     the virtual
+              cells, quality of service objectives can be satisfied in the actual
+              system.
+
+This research will be conducted in collaboration with Nokia and
+              Texas Instruments in order to build a complete prototype implementation of the
+              RENE system and demonstrate its capabilities.
+

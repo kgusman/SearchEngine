@@ -1,0 +1,80 @@
+Title       : A Posteriori Error Estimates for Discontinuous Finite Element Methods Applied to
+               Problems in Geosciences and Medicine
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 13,  2000    
+File        : a9807491
+
+Award Number: 9807491
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : October 1,  1998    
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $154500             (Estimated)
+Investigator: J. Bernardo Cockburn cockburn@math.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1339,9183,9198,9216,9263,BIOT,EGCH,HPCC,
+Abstract    :
+              Cockburn
+      The investigator and his colleague Bernardo Cockburn, in a
+              collaborative project, develop adaptive numerical methods for problems with
+              moving interfaces and long-time dynamics.  These problems incorporate multiple
+              temporal and spatial scales.  Finite element methods have long been used for
+              solving partial differential equations.  Recently, methods using discontinuous
+              approximating spaces have become popular, especially for nonsteady
+              convection-diffusion problems.  Two such methods are the local discontinuous
+              Galerkin method (LDG) and the Godunov-mixed method (GMM), developed by the
+              investigators and their collaborators.  These methods have the advantage that
+              they are based on local conservation and approximate shocks and sharp gradients
+              with no spurious oscillations, which is important in many convection-diffusion
+              applications.  They also lend themselves to parallel computation.  Both methods
+              have been implemented computationally, and a priori error estimates have been
+              derived; however, no adaptive strategies based on these methods have been
+              developed.  It has long been recognized that adapting the finite element mesh
+              and time-step during a simulation is desirable for obtaining an accurate
+              solution.  In order to successfully adapt the mesh to guarantee that the actual
+              error is below a given tolerance, it is essential to develop a posteriori error
+              estimates that measure the actual error as a funtion of the mesh, time step and
+              the computed solution.  While a substantial literature exists for such
+              estimates for steady problems and conforming finite element spaces, little
+              research has been done for nonsteady problems and discontinuous methods. In
+              this project, the investigators and their colleagues develop a posteriori
+              estimates for the LDG and GMM methods for convection-diffusion equations, with
+              emphasis on three important applications: shallow water flow, chemically
+              reactive transport in porous media and surface water, and the modeling of brain
+              tumor cell growth and treatment.  The basis for these estimates is the
+              so-called approximate adjoint equation methodology; however, other ad-hoc
+              methods which may potentially be more efficient are also investigated.  These
+              estimates are novel for the applications as well as the numerical methods.
+
+ 
+                  The applications of interest are important to industry, government
+              laboratories and departments, and state agencies. Modeling of flow patterns in
+              shallow water systems (e.g. bays and estuaries) is important for understanding,
+              for instance, the environmental impacts of oil spills and the economic impacts
+              of dredging, and can also be useful in tracking storm surges during hurricanes
+              and other extreme weather events.  Modeling of transport of chemical species in
+              groundwater and surface water is important for understanding waste disposal and
+              pollution remediation.  The modeling of brain tumors can be useful in
+              predicting tumor growth and examining potential treatments. These applications,
+              though varied, share common mathematical characteristics and can utilize
+              similar numerical simulation methodologies.  Lacking for these applications and
+              methodologies are sound, mathematically based tools for controlling and
+              adapting the simulations to meet specific accuracy criteria of interest to the
+              user; that is, criteria which can be used to determine whether a numerical
+              simulation actually reflects physical reality.  The goals of this project are
+              to develop such criteria for making the simulations efficient, accurate and
+              physically realistic, and to train future researchers in the underlying
+              mathematics, computational science and multidisciplinary aspects of the
+              applications.  
+

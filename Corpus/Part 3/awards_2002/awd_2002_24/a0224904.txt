@@ -1,0 +1,119 @@
+Title       : New Modeling Procedure for Indoor/Outdoor Propagation Environments in Micro- and
+               Pico-Cell Wireless Communication Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 5,  2002       
+File        : a0224904
+
+Award Number: 0224904
+Award Instr.: Standard Grant                               
+Prgm Manager: Kawthar A. Zaki                         
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 15,  2002     
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $220708             (Estimated)
+Investigator: Magdy F. Iskander iskander@spectra.eng.hawaii.edu  (Principal Investigator current)
+Sponsor     : U of Hawaii
+	      2530 Dole Street
+	      Honolulu, HI  968222225    808/956-7800
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              0102253
+Iskander
+
+With this proposal the PI's respectfully request NSF
+              support to develop a detailed, accurate, and
+computationally efficient
+              propagation model for wireless communications in micro- and pico-cell
+              systems.
+A new 3D model [or alternatively a 2D model with advanced calculation
+              capabilities such as the vertical-plane-launch (VPL) technique] will be
+              developed based on integrating three new and innovative
+approaches to improve
+              calculation accuracy and increase the computational efficiency. This includes
+              the
+use of the following:
+
+1. A new unstructured triangular grid ray tracing
+              method (TGRM) to provide significant savings in
+computational time when
+              modeling outdoor regions. Preliminary results show that CPU time for the
+TGRM
+              method is approximately 30% of that of the visibility ray tracing.
+2. A space
+              division procedure based on a uniform rectangular grid method (URGM) for indoor
+              regions
+and assuming that the reflection/transmission surfaces coincide with
+              the grid lines. Preliminary
+results show that the CPU time for the proposed
+              uniform grid method for indoor propagation regions
+is approximately 14% of
+              that of the visibility ray tracing method.
+3. An FDTD approach to calculate
+              reflection (F ) and transmission (F ) coefficients of composite walls
+and
+              incorporate these coefficients in the overall ray tracing code. This is
+              important for short range
+signal prediction where average or effective values
+              of materials properties of walls may provide
+inaccurate predictions. The
+              multigrid Finite Difference Time Domain (multigrid FDTD) code will
+also be
+              used to calculate diffraction coefficients from indoor and outdoor objects that
+              are difficult to
+model analytically. Diffraction coefficient results will be
+              incorporated with a 3D ray tracing code that
+implements the proposed
+              procedures described above. Diffraction coefficients will be included as
+              part
+of the program in the form of a database and look-up tables.
+4. The
+              development of the 3D version of the proposed ray tracing code will be based on
+              using pyramidal
+or tetrahedral cells in the TGRM procedure, and solid
+              rectangular cells in the URGM method. The
+proposed methods do not involve
+              search algorithms and hence significant improvement in the
+computational
+              efficiency is expected.
+ 
+The overall results from the developed new
+              propagation model will be validated experimentally on scaled
+models in the
+              60'x40'x23' indoor antenna range available at the University of Utah. Scaled
+              models will be
+carefully selected so as to present physical structures of
+              interest, on the one hand, and an object that can be
+used as a building block
+              towards the development of a fully understandable and physics-based
+              propagation
+model, on the other. With the available experimental facilities
+              (HP8510 up to 40 GHz), it will be possible
+to use scale factors as large as 20
+              to model realistic structures at the higher frequencies (2GHz) presently
+being
+              used in terrestrial wireless communication systems.
+
+In addition to the
+              development of the deterministic EM-based propagation model, the PI's propose
+              to use the calculated EM power distribution pattern to determine statistical
+              parameters that may be used in the
+simulation of wireless communications
+              systems. This includes calculations of coverage, delay spread, bit
+error rate,
+              and angle of arrival. The project will involve two graduate students to work on
+              the simulation
+part of the project, and one additional graduate student
+              together with a team of undergraduate senior
+students to work on building the
+              scaled models and conducting the experimental verification part of
+              the
+project.
+

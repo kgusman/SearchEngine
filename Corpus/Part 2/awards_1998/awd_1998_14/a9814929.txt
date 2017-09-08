@@ -1,0 +1,70 @@
+Title       : SCORE: A Scalable Architecture for Implementing Resource Management Algorithms
+               in High Speed Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : March 22,  1999     
+File        : a9814929
+
+Award Number: 9814929
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $485601             (Estimated)
+Investigator: Hui Zhang hzhang@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              The ability to support per-flow management -- that is, to maintain state, manage
+              buffers, perform packet classification and/or scheduling on a per flow basis --
+              provides a powerful tool to address many of the challenging resource management
+              problems in today's Internet, such as congestion control and
+end-to-end
+              quality of service. However, given that the number of flows in a backbone
+              routers can be on the order of hundred of thousands, the complexity incurred by
+              per-flow management mechanisms may prevent them from being effectively
+              implemented and widely deployed.
+
+To address these problems, the principal
+              investigator (PI) proposes an architecture, called Scalable Core (SCORE for
+              short) in which the network is partitioned in continuous regions, called
+              islands.  Within each island the PI distinguishes between edge and core nodes.
+              While the edge nodes perform per flow management, the core nodes do not. Since
+              edge nodes manage fewer flows and at the limit an edge node can be a host, this
+              architecture is highly scalable.  The main goal is then to use the SCORE
+              architecture to approximate a reference island in which all nodes perform per
+              flow management. In this way it is possible to provide
+efficient support for a
+              wide variety of resource management policies.
+
+To approximate the reference
+              network the PI introduces two schemes. In the first scheme, each ingress node
+              labels every packet as it enters the network with the state of the flow (e.g.,
+              rate) to which it belongs. Further, each core node processes the packet based
+              on its label and the node state (e.g., utilization).  In the second scheme, the
+              states of all nodes on the flow's path are aggregated and sent to the edge
+              nodes. Based on this information and the flow state, the edge routers decide
+              how to process an incoming packet (e.g., forward or drop it).
+
+The PI plans
+              to develop an integrated set of algorithms within the SCORE framework to
+              support congestion control for best-effort service, end-to-end QoS guarantee,
+              and differential services.  He will conduct the study via a combination of
+              analysis, simulation, and implementation. In addition, he plans to conduct
+              scaled experiments over the CAIRN high speed testbed network and work with
+              industrial partners (Cisco, Ascend, 3Com, Intel, MCI) to speed-up the
+              transition of the developed technologies to the industry.  The results of this
+              work are expected to have significant impacts on the design of resource
+              management algorithms for the Internet.
+
+

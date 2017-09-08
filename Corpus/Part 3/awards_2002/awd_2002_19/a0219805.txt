@@ -1,0 +1,68 @@
+Title       : ITR: Protocol Synthesis and Verification
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 22,  2002    
+File        : a0219805
+
+Award Number: 0219805
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $259982             (Estimated)
+Investigator: Ganesh C. Gopalakrishnan ganesh@cs.utah.edu  (Principal Investigator current)
+              Konrad Slind  (Co-Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,1686,9215,HPCC,
+Abstract    :
+              Projects of national importance critically depend on supercomputers, such as the
+              ASCI White supercomputer deployed at Lawrence Livermore Laboratories.
+              Supercomputers such as these are comprised of thousands of microprocessors that
+              share terabytes of main memory. In order to bring down the cost of these
+              `shared memory' supercomputers and to ensure their error-free operation during
+              long-running simulations, their design and verification complexity must be
+              significantly reduced. A significant amount of this complexity exists in the
+              concurrent protocols that allow the microprocessors to reliably share memory.
+              The investigators study how to automatically synthesize these protocols from
+              higher level descriptions that are easier (and hence quicker) to verify
+              correct. This research involves a formal understanding of high performance
+              protocols in use this area, the creation of a guided synthesis procedure that
+              allows designers to quickly explore the space of protocols and select one that
+              meets the performance goals, and then mathematically prove the correctness of
+              the high level protocol as well as its translation to a detailed hardware-level
+              protocol description. Design and verification tools that the industry can adopt
+              are being developed.
+
+The distributed shared memory (DSM) is a dominant
+              organizational paradigm for multiprocessor machines.  DSM machines are used as
+              desktop computers, supercomputers such as the 512-node ASCI White of Lawrence
+              Livermore, and in future sold as single-chip multiprocessor components.  The
+              high verification complexity of DSM machines is known to delay the shipping
+              dates of microprocessors and parallel processing software. This complexity
+              stems from a host of DSM protocol design issues, such as: (i) aggressive
+              latency hiding through out-of-order processing, implying the use of complex
+              weak memory consistency models; (ii) complex protocol actions that require
+              buffer reservation and deadlock avoidance.  This research involves a formal
+              understanding of weak memory models (captured as a theorem-prover library), and
+              high performance protocols in use this area. It develops guided synthesis
+              procedures that allow designers to quickly explore a wide spectrum of
+              protocols. Once a high-level protocol meeting estimated performance goals is
+              selected, model checking is employed to verify conformance against the chosen
+              weak memory model.  A mathematically proven (using theorem proving) translation
+              procedure is then applied to obtain a detailed protocol description. This
+              description is analyzed for performance and iterated till convergence. Examples
+              drawn from industrial multiprocessors are used to illustrate our new methods. 
+              Design and verification tools that the industry can adopt are being
+              developed.
+
+

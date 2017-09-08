@@ -1,0 +1,103 @@
+Title       : Computational Methods for Problems in Material Science
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0207402
+
+Award Number: 0207402
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2002     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $208694             (Estimated)
+Investigator: Peter Smereka psmereka@math.lsa.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,7208,9263,OTHR,
+Abstract    :
+                   This project concerns the development of efficient numerical
+methods for
+              problems related to material science.  The
+investigator studies computational
+              issues concerning the
+numerical solution of continuum models for thin film
+              growth.  Many
+of these models include effects for surface diffusion, which is
+              a
+nonlinear 4th order term.  Consequently, these models are very
+stiff from a
+              computational point of view.  Because the surface
+diffusion term is nonlinear,
+              it is difficult to use implicit
+methods.  The investigator introduces a new
+              semi-implicit level
+set method for solving motion by surface diffusion.  He
+              uses this
+new method to incorporate the effects of surface diffusion
+              into
+models of polycrystalline thin films.  He also develops a new
+approach
+              for computing island dynamics, where the adatoms on the
+terraces are
+              considered as a continuum field and the atoms on the
+edge of the island are
+              treated discretely.  This approach retains
+the potential advantage of
+              continuum methods but at the same time
+preserves the discrete and stochastic
+              effects present in island
+dynamics.  The investigator includes effects of edge
+              diffusion,
+surface tension, nucleation, and elasticity.  An
+              important
+computational aspect of this problem is the numerical solution
+              of
+the diffusion equation in a complex domain.  The investigator
+examines new
+              methods for the efficient solution of this problem.
+     Thin films occur in a
+              large number of applications, from
+coatings on bearings to semi-conductor
+              devices.  In many cases
+these films are not single crystals but instead
+              are
+polycrystalline and the quality of the film can depend on its
+texture. 
+              Films with good biaxial texture are close to being a
+single crystal and have
+              applications in the manufacture of
+super-conducting tapes, for example.  One
+              important physical
+effect in determining the evolution of the texture is
+              surface
+diffusion, but this is difficult to implement numerically and
+              the
+investigator plans to develop a semi-implicit level set method to
+study
+              the growth of polycrystalline thin films.  The work here
+could help improve
+              the fundamental understanding of these films.
+Another important process by
+              which thin films are made is
+molecular beam epitaxy.  The standard method for
+              accurate
+simulation of this process is kinetic Monte Carlo.  In
+              many
+situations this method can be slow, and continuum models have
+              the
+potential to greatly increase the speed of such computations.
+However,
+              continuum models ignore discrete and stochastic effects.
+The investigator
+              develops hybrid models that have good physical
+fidelity but offer considerable
+              computational speed.

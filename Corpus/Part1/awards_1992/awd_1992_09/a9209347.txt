@@ -1,0 +1,87 @@
+Title       : RIA: An Adaptive Spectral Element Method for the Solution ofTransient Partial
+               Differential Equations in Complex Geometries
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : March 30,  1995     
+File        : a9209347
+
+Award Number: 9209347
+Award Instr.: Standard Grant                               
+Prgm Manager: George Lea                              
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1992  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Catherine A. Mavriplis mavripli@seas.gwu.edu  (Principal Investigator current)
+Sponsor     : George Washington Univ
+	      2121 Eye Street NW
+	      Washington, DC  200372353    202/676-4949
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0108000   Software Development                    
+              51        Engineering-Aeronautical                
+              53        Engineering-Chemical                    
+              55        Engineering-Electrical                  
+              56        Engineering-Mechanical                  
+Program Ref : 
+Abstract    :
+              The main objective of this research                                            
+              initiation project (RIA) element                                               
+              algorithm for the solution of time                                             
+              dependent partial differential                                                 
+              equations to simulate physical                                                 
+              phenomena in complex geometries.                                               
+              The adaptive method will ensure                                                
+              optimal allocation of computer                                                 
+              resources in terms of storage and                                              
+              cpu time by automatically refining,                                            
+              coarsening or reconstructing the                                               
+              geometric mesh used to discretize                                              
+              the equations in space throughout                                              
+              the calculation. The method wil be                                             
+              developed ina general way, in that                                             
+              the innovations will be independent                                            
+              of the geometry and equations to be                                            
+              simulated.  This approach will                                                 
+              benefit the many fields in which                                               
+              the application of high order                                                  
+              spectral methods can be used for                                               
+              simulation of complex physical                                                 
+              phenomena.                                                                     
+              THe main tasks are the construction                                            
+              of a rule-based system for                                                     
+              refinement, the development of a                                               
+              scheme for dynamic allocation of                                               
+              space for the changing mesh                                                    
+              connectivity information, the                                                  
+              development of a mesh optimization                                             
+              criterion, ensuring that the mesh                                              
+              alteration is time-accurate and                                                
+              conservative and finally improving                                             
+              the current error estimators and                                               
+              preconditioners. The research                                                  
+              entails theoretical and                                                        
+              computational work and will include                                            
+              a number of test and novel                                                     
+              simulations.                                                                   
+              The adaptive formulation of the                                                
+              spectral element method is aimed at                                            
+              increasing the flexibility and                                                 
+              range of capabilities of high order                                            
+              methods in general.  High order                                                
+              methods provide highly accurate                                                
+              simulations with very fast rates of                                            
+              convergence and are typically used                                             
+              in the direct simulation of basic                                              
+              physical phenomena.  The proposed                                              
+              research will allow high order                                                 
+              methods to deal with "real"                                                    
+              engineering problems, rather than                                              
+              idealized research problems, by                                                
+              reducing the needed computer                                                   
+              resources by one to two orders of                                              
+              magnitude.//

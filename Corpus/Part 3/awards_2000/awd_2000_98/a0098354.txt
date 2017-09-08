@@ -1,0 +1,52 @@
+Title       : Robust Real-Time System Resource Management Using Feedback
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 8,  2001     
+File        : a0098354
+
+Award Number: 0098354
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2001      
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $110000             (Estimated)
+Investigator: Manimaran Govindarasu gmani@iastate.edu  (Principal Investigator current)
+              Arun K. Somani  (Co-Principal Investigator current)
+              Murti Salapaka  (Co-Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Real-time computing is an enabling technology for many current and future
+              application areas. Many future generations real-time systems are expected to be
+              highly dynamic and operate in fault-prone on-deterministic environments under
+              strict timing constraints.  Therefore, these systems need to be robust while
+              delivering high performance. This motivates the need for robust resource
+              management techniques that dynamically address real-time requirements and
+              provide graceful degradation in the presence of uncertainty. Despite the
+              significant body of results in resource management in real-time systems, most
+              of them are based on
+``open-loop'' strategies which are effective when the
+              workload can be accurately modeled. These schemes are inadequate for many real
+              world problems wherein the workload cannot be accurately modeled. Thus, there
+              is a need for efficient architectures for resource management where predictable
+              performance guarantees
+can be obtained in the presence of
+              uncertainty.
+
+Feedback control theory has been central to modeling systems
+              operating in uncertain environments. In the past few decades, this theory  has
+              made impressive strides in this direction.  Correct adaptation as illustrated
+              by feedback control theory will  yield significant dividends with respect to
+              robustness.  This research focuses on developing a robust resource management
+              framework for real-time systems employing feedback control
+strategies.

@@ -1,0 +1,115 @@
+Title       : ITR: Technologies for Sensor-based Wireless Networks of Toys for Smart
+               Developmental Problem-solving Environments
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : November 14,  2000  
+File        : a0085773
+
+Award Number: 0085773
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $1841143            (Estimated)
+Investigator: Mani B. Srivastava mbs@ee.ucla.edu  (Principal Investigator current)
+              Eva L. Baker  (Co-Principal Investigator current)
+              Abeer A. Alwan  (Co-Principal Investigator current)
+              Richard R. Muntz  (Co-Principal Investigator current)
+              Miodrag Potkonjak  (Co-Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1661,4095,9102,9218,HPCC,
+Abstract    :
+              Despite enormous progress in networking and computing technologies, their
+              application has remained restricted to conventional person-to-person and
+              person-to-computer communication. However, the Moore's Law driven continual
+              reduction in cost and form factor is now making it possible to imbed networking
+              - even wireless networking - and computing capabilities not just in our PCs and
+              laptops but also other objects. Further, a marriage of these ever tinier and
+              cheaper processors and wireless network interfaces with emerging micro-sensors
+              based on MEMS technology is allowing cheap sensing, processing, and
+              communication capabilities to be unobtrusively embedded in familiar physical
+              objects. The result is an emerging paradigm shift where the primary role of
+              information technology would be to enhance or assist in "person to physical
+              world" communication via familiar physical objects with embedded (a)
+              micro-sensors to react to external stimuli, and (b) wireless networking and
+              computing engines for tetherless communication with compute servers and other
+              networked embedded objects. 
+
+The proposed research seeks to explore wireless
+              networking, middleware, and data management technologies for realizing the
+              above vision. The problems of ad hoc structure, distributed nature, unreliable
+              sensing, large scale/density, and novel sensor data types are characteristic of
+              such deeply instrumented physical environments with inter-networked physical
+              objects. This requires one to rethink current architectures, protocols,
+              algorithms, and formalisms that were developed for different needs. Further, to
+              provide a concrete problem domain, we propose to use and evaluate our
+              technologies in a "smart kindergarten" driver application targeted at
+              developmental problem-solving environments for early childhood education. This
+              is a natural application as young children learn by exploring and interacting
+              with objects such as toys in their environment. Our envisioned system would
+              enhance the education process by providing a childhood learning environment
+              that is individualized to each child, adapts to the context, coordinates
+              activities of multiple children, and allows unobtrusive evaluation of the
+              learning process by the teacher. This would be done by wirelessly-networked,
+              sensor-enhanced toys with back-end middleware services and database techniques.
+              
+
+The main information technology contributions of this research would be:
+ 
+               Wireless protocols for networks using short-range radios, with focus on highly
+              unstructured, dynamic, and dense networks of embedded devices, and problems of
+              energy efficiency and quality of service needs of sensor data.
+   Network
+              architectures designed for naming, addressing, and routing by object
+              capabilities and attributes, as opposed to id based approaches in conventional
+              networks.
+   Efficient techniques and algorithms for identifying, locating,
+              and tracking users and objects in instrumented environments, particularly
+              indoors.
+   Middleware architecture providing services such as special
+              communication patterns, context-aware network resource allocation and
+              scheduling under attribute and capacity constraints, power-aware operation,
+              media processing using shared background servers, and context discovery,
+              tracking, and change notification.
+   Data management methods to handle data
+              from multiple heterogeneous, unreliable, noisy sensors in a highly dynamic
+              environment, with support for real-time sensor data interpretation and fusion,
+              and off-line mining.
+   Automated mining of user profiles from sensor data,
+              and their use in task planning and execution of actions in the instrumented
+              environment 
+   Techniques for sensor-assisted automatic speech recognition of
+              children's speech.
+
+Complementing the above will be the driver application
+              where a Smart Kindergarten for developmental problem solving will be prototyped
+              based on the above ideas, and evaluated in a real classroom setting. Various
+              objects, particularly toys, will be wirelessly networked and have sensing and
+              perhaps actuator capabilities. A wireless network, with radios and protocols
+              suitable for handling a high density of proximate objects, will interconnect
+              the toys to each other and to database and compute servers using a toy network
+              middleware API. Sensors embedded in toys and worn by children will allow the
+              database servers to discover and track context and configuration information
+              about the children and the toys, and also orchestrate aural, visual, motion,
+              tactile and other feedback. The system will enhance the developmental process
+              by providing a problem-solving environment that is individualized, context
+              adaptive, and coordinated among multiple children. It will also allow
+              monitoring and logging for unobtrusive paper-free assessment by teacher or
+              parent.
+
+The project team is interdisciplinary, with researchers from UCLA's
+              CS and EE Departments for the technology component of the project, and from
+              UCLA's Graduate School of Education and Information Sciences (GSE&IS) for the
+              application component. GSE&IS operates a reputed laboratory elementary school
+              on campus, which will be used for real-life evaluation of 
+

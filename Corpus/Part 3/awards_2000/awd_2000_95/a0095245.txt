@@ -1,0 +1,86 @@
+Title       : SGER: Investigation of Microwave Components on CMOS Substrate for a Wireless
+               Chip-to-Chip Interconnect System
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : March 1,  2001      
+File        : a0095245
+
+Award Number: 0095245
+Award Instr.: Standard Grant                               
+Prgm Manager: James Mink                              
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2001  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $48813              (Estimated)
+Investigator: Ioannis Papapolymerou   (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,9237,OTHR,
+Abstract    :
+              0095245
+Papapolymerou
+
+Microwave and mm-wave circuit technology that offers
+              high-performance, low cost, small size and high profit is essential for today's
+              cost driven commercial and military industries.  In order to meet the above
+              requirements, the research community during the last five years has been
+              focusing on entire system-on-a-chip solutions, where both passive and active
+              components are monolithically integrated on a single semiconductor substrate
+              (Si, GaAs, SiGe) for dense, miniature lightweight and highly reliable microwave
+              systems.  The above solutions will also lead to analog, digital, MEMS and
+              microwave circuits co-existing on a single chip that is capable to sense,
+              think, act and communicate.  This concept can be used for the development of
+              microwave/mm-wave circuit-to-circuit interconnects that overcome many of the
+              problems associated with traditional interconnect techniques and address future
+              demands for feature sizes less than 100 nm.
+
+Currently, wire bond and flip
+              chip interconnects are large compared to dimensions used in microelectronic
+              fabrication technologies and cannot meet the signal delay and clock speed
+              requirements beyond the 100 mn node.  Guided-wave interconnects using metal
+              traces also pose serious limitations due to propagation delay, signal
+              distortion, noise and losses.  Furthermore, they impose a serious limitation on
+              circuit density and cost and can introduce parasitic reactances that degrade
+              circuit performance.  Wireless interconnects, on the other hand, eliminate the
+              need for increased wire density and do not suffer from loss related to finite
+              interconnect conductivity.  Parasitic effects, such as crosstalk, are reduced
+              and time delays can also be minimized if a fast conversion scheme that
+              translates the base signal to an RF one is used.  In this project, the PI
+              proposes to investigate both theoretically and experimentally the basic
+              microwave components of a wireless chip-to-chip interconnect system operating
+              between 30 and 35 GHz.  These components will reside on top of a low
+              resistivity (CMOS) silicon wafer covered with a thin dielectric layer such as
+              polyimide.  The microwave circuits will be designed with Finite Ground Coplanar
+              (FGC) line elements that can support TEM mode propagation and have a loss that
+              is predominantly ohmic.  The philosophy of the system is the following: An
+              oscillator at 30-35 GHz will feed a planar phase shifter that utilizes MEMS
+              bridges to change the phase of the microwave signal that is then transmitted by
+              a slot antenna.  The digital bit stream is applied as a positive modulating
+              voltage to the MEMS phase shifter producing a microwave signal with BPSK
+              modulation.  At the receiving chip the phase of the incoming microwave signal
+              (received with a slot antenna) will be compared to a reference signal via a
+              phase detector (mixer) that will demodulate the BPSK microwave signal.  A
+              bandpass filter is used right after the receiving slot antenna to isolate the
+              frequency of interest.  Due to the high risk nature of the proposed research,
+              the study of three passive components (slot antenna, MEMS phase shifter and
+              bandpass filter) on CMOS silicon wafers will be pursued under an SGER grant. 
+              The three microwave circuits will be characterized experimentally with on-wafer
+              measurements and theoretically with full-wave simulations.  The main research
+              effort will focus on understanding the properties and performance implications
+              and limitations of the three passive microwave circuits residing on top of a
+              low resistivity silicon substrate, with a goal to optimize their response.  For
+              the phase shifter, the characteristics of the MEMS switches on top of a CMOS
+              wafer will also be explored and their interaction with it will be analyzed.  It
+              is anticipated that the proposed research will result in significant
+              contributions to the area of integrated microwave and digital systems-on-a-chip
+              and wireless interconnects, as well as provide valuable insights for the design
+              of FGC microwave circuits on CMOS substrates used for digital circuitry.
+

@@ -1,0 +1,54 @@
+Title       : Multiuser Transmitter Optimization for Mobile Cellular Communications With
+               Coordinating Base Stations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 4,  1998       
+File        : a9628365
+
+Award Number: 9628365
+Award Instr.: Continuing grant                             
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $348544             (Estimated)
+Investigator: Michael L. Honig mh@ece.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+                A class of multi-user transmitter optimization problems is treated in the 
+              context of mobile cellular communications. THe objective is to optimize 
+              transmitter pulse shapes given a variety of assumptions concerning the  channel
+              model, receivers, and signaling constraints. Solutions to these  problems
+              reveal optimal multiple-access strategies, given particular sets  of modeling
+              assumptions. The work may also lead to adaptive algorithms for  multi-user
+              transmitter optimization which enable a significant increase in  system
+              capacity.  Both linear time-invariant and statistical (i.e.,  Rayleigh fading)
+              channel models will be considered. Models for an isolated  cell (the
+              multiple-access channel), an isolated pair of cells, and a linear  array of
+              cells are presented. In the latter two cases, neighboring base  stations may
+              share information (i.e., received or transmitted signals for  the reverse or
+              forward link, respectively).  The multi-cell channel models  can capture
+              different combinations of intra- and inter-cell multiple-access  schemes.
+              Antenna diversity at the transmitter and/or receiver will also be  included. 
+              Receivers include the (single-user) matched-filter, and  multi-user linear and
+              decision-feedback detectors. In most cases the  transmitters and detectors will
+              be optimized according to a zero-forcing or  Mean Squared Error criterion.  For
+              statistical channel models, the  objective is to optimize performance averaged
+              over the channel parameters.  Multi-user transmitter optimization assuming
+              multi carrier signaling will  also be considered. In this case the objective is
+              to maximize the size of  the rate region by allocating transmitted bits and
+              power to subchannels  (independently for each user), subject to performance
+              constraints. Finally,  transmitter adaptation in the presence of time-varying
+              channels and  interference, and associated performance issues are studied.

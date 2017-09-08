@@ -1,0 +1,88 @@
+Title       : ITR: Mesoscopic Modeling and Simulation: A Novel Approach to Monte Carlo Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : March 17,  2003     
+File        : a0219211
+
+Award Number: 0219211
+Award Instr.: Standard Grant                               
+Prgm Manager: Hans G. Kaper                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $420000             (Estimated)
+Investigator: Markos A. Katsoulakis markos@math.umass.edu  (Principal Investigator current)
+              David J. Horntrop  (Co-Principal Investigator current)
+              Dionisios G. Vlachos  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1686,9263,OTHR,
+Abstract    :
+              Proposal # 0219211
+PI: Markos A. Katsoulakis
+Institution: University of
+              Massachusetts Amherst
+Title: ITR: Mesoscopic Modeling and Simulation: A Novel
+              Approach to Monte Carlo
+
+ABSTRACT
+
+This project is concerned with a novel
+              framework for Monte Carlo simulations based on recently developed
+              coarse-grained stochastic mesoscopic models.  Mesoscopic models are stochastic
+              partial differential equations which are rigorously derived as asymptotic
+              limits from microscopic Monte Carlo (MC) algorithms by means of techniques from
+              non-equilibrium statistical mechanics.  Although such models describe the
+              mesoscopic scales, which are much larger than the underlying molecular scales,
+              they still include detailed microscopic information on particle interactions
+              and dynamics and can systematically model anisotropies and multiple
+              micromechanisms.  Another attractive feature of mesoscopic models is the
+              inclusion of random fluctuations derived directly from the underlying master
+              equation and yielding important nucleation and pattern formation and selection
+              mechanisms.  Finally, formal and rigorous asymptotics using Large Deviation and
+              WKB expansions as well as preliminary numerical simulations indicate that the
+              MC algorithms and the corresponding stochastic mesoscopic models produce
+              essentially identical results for such delicate quantities as nucleation rates
+              and phase transitions.  The main research objectives of this proposal are: (a)
+              to develop non-equilibrium coarse-grained MC algorithms by numerically solving
+              the stochastic mesoscopic equations using highly efficient spectral-based
+              methods and carry out detailed benchmarkings against conventional MC, and (b)
+              to apply the proposed computational tools to applications arising in pattern
+              formation in advanced materials and molecular separation in nanoporous
+              films.
+
+Because of their fundamental nature and their versatility in
+              describing complex out-of-equilibrium interactions between atoms and molecules,
+              molecular dynamics simulations and Monte Carlo (MC) algorithms have become
+              preeminent computational tools for science and engineering research.  With the
+              advent of enhanced computing capabilities, these methods can provide
+              unprecedented insights into numerous problems ranging from physicochemical and
+              biological processes to biomaterials, drug design, pattern recognition, and
+              image processing.  Despite their widespread use and the substantial progress in
+              related computational methods, molecular algorithms are limited to short length
+              and time scales.  Hence, they are capable of simulating only a relatively small
+              number of atoms or molecules for quite short time periods.  On the other hand,
+              device sizes and morphological features observed in experiments often involve
+              much larger spatial and/or temporal scales.  A major obstacle in meeting this
+              multiscale modeling challenge is the lack of a rigorous mathematical and
+              computational framework providing a direct link from the atomistic scale to the
+              complex mesoscopic and macroscopic phenomena that are the result of the
+              microscopic interactions.  In this direction, our work focuses on developing
+              novel stochastic models and algorithms capable of describing much larger length
+              and time scales than conventional MC simulations while still incorporating
+              microscopic details.  We intend to apply the computational methods to provide
+              new insights into two engineering problems, which are currently intractable
+              with conventional MC techniques:  (1) the study of self-organizing
+              micromechanisms and their role in pattern formation in advanced materials, and
+              (2) the transport and separation of molecules in nanoporous films and
+              membranes.
+
+

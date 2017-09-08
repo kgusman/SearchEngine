@@ -1,0 +1,87 @@
+Title       : Instrumentation for Empirical Studies in the Modeling of Visual Appearance
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0224431
+
+Award Number: 0224431
+Award Instr.: Standard Grant                               
+Prgm Manager: Rita V. Rodriguez                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $115000             (Estimated)
+Investigator: Peter N. Belhumeur belhumeur@cs.columbia.edu  (Principal Investigator current)
+              David J. Kriegman  (Co-Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              EIA 0224431
+Belhumeur, Peter N.
+Kriegman, David J.
+Columbia University
+              
+
+Title:  CISE RR: Instrumentation for Empirical Studies in the Modeling of
+              Visual Appearance 
+
+This project, supporting experimental validation of
+              computer vision algorithms for shape modeling and analysis, aims at building
+              two independent systems to support computer vision. Methods for shape
+              reconstruction and reflectance recovery, termed Helmholtz reciprocity
+              stereopsis and light field reconstruction that exploit previously neglected
+              physical principles, are able to recover surface shape regardless of the
+              object's BRDF. The two special purpose imaging systems will be built at
+              Columbia University and the University of Illinois at Urbana-Champaign (UIUC).
+              The Columbia rig, composed of sixteen imaging modules that can be arranged in
+              different configurations, directly supports research in Helmholtz reciprocity
+              stereopsis. The UIUC rig, consisting of two arms that move their endpoints over
+              the surface of a sphere, directly supports the light field reconstruction
+              method. The two new pieces of hardware will contribute to the following four
+              projects:
+Helmholtz Stereopsis,
+Light Field Reconstruction,
+Image-Based
+              Modeling and Rendering, and
+Texture and Reflectance Estimation from Small
+              Datasets.
+The first project exploits the symmetries in an object's surface
+              reflectance. The Helmholtz stereopsis method can reconstruct surfaces with
+              complex reflectance, e.g., highly non-Lambertian. The Helmholtz rig will be
+              used to gather datasets of objects in a manner such that they can be processed
+              using the Helmholtz stereopsis shape recovery method. The second uses images
+              gathered from a double covering of a surface's incident light field to
+              reconstruct both the surface shape and an effective bi-directional reflectance
+              distribution on a point-by-point basis. The illumination/viewpoint rig will be
+              used to gather data in a manner such that it can be processed with the light
+              field reconstruction method. The third utilizes the datasets gathered by both
+              rigs for image-based and modeling projects to render photorealistic images of
+              objects under novel viewpoint and arbitrary illuminations. Datasets of objects,
+              with their 3-D shape reconstructed, are collected and their reflectance is
+              modeled. These models of shape and reflectance are then used to synthesize
+              novel images of the objects and composite them into still pictures and video
+              footage. The objects will be catalogued by their visual appearance. The last
+              project uses the datasets gathered by the light field rendering rig for
+              developing low-dimensional models of texture and reflectance. These models are
+              then used to estimate texture and reflectance properties from a small number of
+              images. Thus, images characterizing reflectance properties of a wide variety of
+              materials will be created and distributed satisfying the following goals to
+              
+Develop, refine, analyze, and empirically validate the method of Helmholtz
+              stereopsis,
+Develop, refine, and analyze the light field reconstruction
+              method,
+Apply the reconstruction methods to image-based rendering,
+              and
+Develop and refine data-driven low-dimensional non-parametric models for
+              surface reflection and textures that vary with viewpoint and lighting.
+

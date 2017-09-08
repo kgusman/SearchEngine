@@ -1,0 +1,56 @@
+Title       : Numerical Methods for III-Posed Problems and Large Scale Eigenvalue Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2000     
+File        : a9732022
+
+Award Number: 9732022
+Award Instr.: Continuing grant                             
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $296213             (Estimated)
+Investigator: Dianne P. O'Leary oleary@cs.umd.edu  (Principal Investigator current)
+              Gilbert W. Stewart  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This work concerns two topics in numerical linear algebra: 1)  Regularization of
+              ill-posed linear systems; 2) Solution of large,  sparse eigenvalue problems. 
+              These topics share common features:  a wide range of application problems; the
+              use of iterative  methods for large-scale problems; and interesting problems in
+               matrix perturbation theory.    When continuous ill-posed problems are
+              discretized they result in  ill-conditioned linear systems which must be
+              regularized to yield  accurate solutions.  This part of the work has several
+              goals.  The first is to prove the folk theorem that if the components of  the
+              data vector with respect to the singular vectors of the  matrix decay
+              sufficiently fast then the conjugate gradient  iteration will produce a
+              regularizing set of solution vectors.  The second is to compare the numerous
+              formulations of discrete  ill-posed problems to see which are most effective. 
+              The third is  to further develop preconditioners to speed convergence of 
+              solution algorithms.  The fourth is to improve  data-gathering techniques so
+              that the attainable accuracy from  imaging is better, thus, for example,
+              revealing smaller tumors or  more information about distant stars.    Over the
+              past decade many new algorithms for finding clusters of  eigenvalues of large
+              matrices have been proposed.  Although the  effectiveness of some of these
+              algorithms has been demonstrated  empirically, analytic results are sparse. 
+              Fortunately, a large  number of these methods share a common framework, so that
+              it is  possible to develop analytic tools that are widely applicable.  As a
+              start toward this goal, attention is focused on a new,  promising
+              method---singular vector enhancement---that fits in the  framework.  A
+              preliminary analysis of a special case has already  yielded valuable results on
+              the relation of eigenvalues and  singular values.    The results of this
+              project will impact the solution of ill-posed  problems such as medical image
+              enhancement, astronomical data  processing, nondestructive  testing, and
+              spectroscopy, as well as  eigenvalue problems arising in systems modeling
+              (Markov chains),  computational chemistry, and structural analysis.

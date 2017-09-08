@@ -1,0 +1,48 @@
+Title       : A New Spectrum of Hierarchical Storage Architectures for High Performance Disk
+               I/Os
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 3,  2001     
+File        : a9714370
+
+Award Number: 9714370
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1997  
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $359466             (Estimated)
+Investigator: Qing Yang qyang@ele.uri.edu  (Principal Investigator current)
+Sponsor     : U of Rhode Island
+	      
+	      Kingston, RI  02881    401/792-1000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research is investigating the issues related to designs and performance 
+              evaluations of several innovative disk I/O architectures. These architectures
+              may  improve the I/O response time by orders of   magnitude over current
+              state-of-the-art disk architectures for office/engineering  workloads.  The
+              focus of the research includes:    * Minimization of disk write times by means
+              of disk caching disk (DCD). This is  a technique of using a small disk to cache
+              writes sequentially, as in a  log-structured file system, then using the log to
+              update the file   system on the larger disks.    * Using a combination of DRAM
+              and DCD to replace non-volatile RAM caches that are  currently used in RAID
+              systems.    * Using DRAM as a component of the file system to allow fast reads
+              and writes.   In this scheme, a log of files written to RAM will be kept in
+              either NVRAM or on  disk, but only the RAM access will be in the critical  
+              path.    * Upgrading existing file servers to emulate DCD using multiple
+              existing disks.    These architectures will be investigated using simulation to
+              compare them to  existing architectures under a wide range of I/O workloads. 
+              New analytical  models will also be devised and used in evaluation of
+              architectures.  Actual  implementations of the DCD architectures will be
+              carried out using disk  partitions as caches on the computers in the
+              department.  Performance  measurements will be performed on the DCD
+              implementations and used to compare  with existing disk architectures.

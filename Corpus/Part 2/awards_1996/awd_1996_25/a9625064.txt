@@ -1,0 +1,51 @@
+Title       : CAREER: On Equipping Virtual Path-Based ATM Networks with Fault-Tolerant and
+               Real-Time QoS Capabilities
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 28,  1997     
+File        : a9625064
+
+Award Number: 9625064
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Chao-Ju Hou   (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Rd
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+                    The primary objective of the research is to establish a unified  
+              framework for addressing timeliness and dependability requirements for   ATM
+              networks.  Central to the proposed research is the virtual   path/virtual
+              circuit (VP/VC) concept in ATM networks.  Based on the   VP/VC concept, this
+              project considers how to 1) equip ATM networks with   fault tolerant capability
+              by designing a fast restoration mechanism; and   2) provide ATM network users
+              with the real-time QoS guarantees by   devising a VC route selection scheme. 
+              In the context of designing a   fast restoration mechanism, work will focus on
+              1) selecting at system   initialization, for each primary VP, a backup VP (to
+              which the traffic   on the primary VP will be switched upon node/link failure)
+              and 2)   dynamically relocating routes for second-generation backup VPs or
+              backup   VPs that traverse the failed node/link upon failure.  In the context
+              of   establishing VCs with real-time QoS requirements through a variable  
+              number of VPs, work will focus on 1) establishing a formal basis for   testing,
+              for each selected VC route (i.e., a sequence of Vps) if there   is sufficient
+              bandwidth on each VP on the route to meet the   user-specified end-to-end delay
+              requirements; and 2) elaborating on   possible approaches to identifying a VC
+              route which traverses a minimum   number of VPs among all possible routes with
+              sufficient bandwidth. All   the component schemes proposed will be coherently
+              incorporated into the   VP layer of the ATM traffic control architecture.  In
+              conjunction with   the research, the PI will incorporate the research and
+              software   implementation into teaching.

@@ -1,0 +1,65 @@
+Title       : Proxy Services in Wide-Area Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 20,  1999 
+File        : a9977555
+
+Award Number: 9977555
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $193228             (Estimated)
+Investigator: Lixin Gao   (Principal Investigator current)
+Sponsor     : Smith College
+	      Elm Street
+	      Northampton, MA  01063    413/584-2700
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,9229,HPCC,
+Abstract    :
+                   Interest in streaming media services has grown dramatically in recent years
+              due to the unparalleled popularity of the Internet and the increase in backbone
+              and access bandwidth. As client access bandwidth further increases, the demand
+              for high-quality audio/video streaming will grow. Emerging applications include
+              orchestrated media applications, such as distance learning, that combine audio,
+              video, images, and text from one or more sources. Other challenging multimedia
+              applications are on the horizon, including virtual reality and distributed
+              interactive simulation. These applications involve both constant-bit-rate and
+              variable-bit-rate streams of varying popularity, and different degrees of
+              support for user interactivity, such as VCR or branching operations.
+    
+              These emerging high-quality multimedia applications will pose serious
+              challenges to the network infrastructure.  A common thread among these
+              applications is the so-called " continuous" nature of their data. In continuous
+              media (CM), strict timing relationships exist that define the schedule by which
+              CM data must berendered (e.g., a video displayed or audio played out). In a
+              network setting, the playout timing constraints, the rate variability of
+              specific CM such as variable bit rate (VBR) video, the possibility of packet
+              loss and delay within the network, and the desire to use network resources
+              efficiently combine to make the delivery of CM data an exceptionally
+              challenging problem.  The challenge of delivering high-quality audio and video
+              is further complicated by the fact that a single network service provider
+              typically does not control the entire path from the source to the end
+              client(s).  One promising approach to addressing these challenges is to deploy
+              proxy services within the network.  Proxies can hide heterogeneity, reduce user
+              start-up latency, lower the network resource usage, and adapt to fluctuations
+              in network performance properties.
+     In this proposal,the project director 
+              outlines research whose goal is to develop and evaluate proxy services that
+              improve the perceived quality of CM streams seen by clients while providing low
+              startup latencies. The awardee will focus on the development of the services
+              themselves, the underlying resource management mechanisms required at the
+              proxy, the programming interface required so that these services access the
+              resource management mechanisms, and characterizations of the workloads and
+              access patterns typically encountered by such proxies.The approach to
+              evaluating these services and mechanisms is eclectic, relying on a combination
+              of analysis, simulation, and experimentation with a Linux-based proxy, PRONTO,
+              which will be further enhanced throughout the project.
+1

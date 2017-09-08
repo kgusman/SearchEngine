@@ -1,0 +1,66 @@
+Title       : Algorithms and Numerical Analysis for Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 7,  1999       
+File        : a9704106
+
+Award Number: 9704106
+Award Instr.: Continuing grant                             
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1997       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $233527             (Estimated)
+Investigator: Alfred H. Schatz schatz@math.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Schatz Abstract:     We propose to investigate various aspects of the finite
+              element  method for elliptic and parabolic problems including, (1) A posteriori
+               error estimation. Conditions were recently given by the proposer, W.  Hoffman
+              and G.  Wittum under which a class of averaging operators are  asymptotically
+              exact error estimators for the max norm of the gradient  on each element in a
+              model smooth Neumann problem. The class includes  the Z-Z estimator.
+              Preliminary estimates indicate that these methods do  not work for problems on
+              polygonal domains where pollution effects  dominate. We propose cures which we
+              shall analyze.(2) We propose to  investigate a unifying theory for
+              superconvergence which includes  several previously developed by the proposer
+              and co-authors.  We shall  focus on a theory which is applicable to smooth and
+              nonsmooth  problems.(3) We will investigate an a priori "universal" mesh
+              grading  algorithm which can be used to provide  optimal relative error for 
+              problems with power type singularities.These meshes should be  particularly
+              useful for elliptic problems on three dimensional  polyhedral domains where the
+              optimal meshes are highly anisotropic. (4)  Problems with highly anisotropic
+              diffusion will be investigated which  are singularly perturbed elliptic
+              problems which degenerate to  parabolic problems. These problems often exhibit
+              boundary layer  behavior and the standard finite element method does not
+              perform well  when this occurs. These problems are not convection dominated.   
+                 The investigation and solution of the many complex problems  which arise in
+              science and the manufacturing industry have increasingly  benefited from
+              mathematical and numerical studies of their underlying  mathematical models.
+              The successs of this approach is due to advances  both in the developement and
+              unders tanding of new numerical algorithms  and in advances in high performance
+              computing. In this proposal we  study various aspects of the finite element
+              method for solving a large  variety  of problems which arise in practice and
+              which are modeled by  partial differential equations. As just a very few
+              examples we mention  problems in elasticity to determine the strength of
+              complex structures  a nd problems in fluid dynamics. The latter includes such
+              diverse  problems as the determination of ground water flows for pollution 
+              studies to the study of the ab sorbtion of medicinal ointment through  the
+              skin. This project is oriented toward suggesting and analyzing new  methods for
+              the efficient and accurate solution of such problems.We  shall seek better
+              approximations by enlarging the theory of sup  erconvergence and investigate a
+              means of universally grading meshes for  problems on domains with corners which
+              arise very often in industry.  Among other things we shall study means for
+              obtaining an estimate for  the error between the compute d solution and the
+              unknown true solution  to determine a posteriori the quality of the
+              approximation.

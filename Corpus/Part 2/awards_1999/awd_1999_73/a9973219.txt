@@ -1,0 +1,74 @@
+Title       : Computational and Applied Linear Algebra: Asynchronous Parallel Methods,
+               Multiplicative Schwarz and Other Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 10,  1999    
+File        : a9973219
+
+Award Number: 9973219
+Award Instr.: Standard Grant                               
+Prgm Manager: Jong-Shi Pang                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1999      
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $58000              (Estimated)
+Investigator: Daniel B. Szyld szyld@euclid.math.temple.edu  (Principal Investigator current)
+Sponsor     : Temple University
+	      1601 N. Broad Street
+	      Philadelphia, PA  191226099    215/204-8691
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              99732219
+
+Three areas of study in computational and applied mathematics will
+              be studied.
+
+The first deals with asynchronous parallel methods. In these
+              iterative methods the computational effort is distributed among the
+              processors.
+
+The processors proceed with their computation and exchange
+              information only when their own computational step is completed. This is done
+              without waiting for all processors to complete their tasks, that is, without
+              synchronization points. In this way, processor idle time is minimized, and the
+              overall computational time can be reduced.
+
+The second topic relates to the
+              linear algebra representation of multiplicative Schwarz methods for the
+              iterative solution of discretized partial differential equations. A weighted
+              max norm will be used to study the convergence of these methods in several
+              circumstances, including cases when there is no underlying grid, and the case
+              with a "coarse grid" correction.
+
+The third problem to be addressed is the
+              comparison of the rate of convergence of two different iterative stationary
+              methods for the solution of singular linear systems of algebraic equations.
+              Several authors have shown that the usual hypothesis in similar comparisons for
+              the nonsingular case do not apply here. A different partial order will be used
+              to try to obtain similar comparison theorems.
+
+Under the High Performance
+              Computing and Communication initiative, computers with several thousands of
+              processors are being designed.  Problems requiring a large computational effort
+              could be solved in these machines by distributing the work among the processors
+              and exchanging information as the computation proceeds. In order to increase
+              the computational efficiency, this exchange of information can be done
+              asynchronously, that is, without waiting for all processors to reach a certain
+              predetermined point. In this project, several aspects of these asynchronous
+              methods will be studied. For example, it is important to know for which kind of
+              problems this approach will be advantageous. One needs to know how to formulate
+              the problems so they conform to the conditions needed for these methods to
+              work.  Asynchronous methods are possibly the kind of methods which will allow
+              the next generation of parallel machines to attain their expected potential. 
+              Another part of the project relates to singular linear systems.  These systems
+              arise in numerous applications, such as queuing models of telecommunication
+              networks. Given two methods to solve the equations representing these models,
+              one wants to know which is faster. Tools to that effect will be developed.
+

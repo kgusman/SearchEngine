@@ -1,0 +1,51 @@
+Title       : Automated Perturbation Theory for Hamiltonian Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  1997 
+File        : a9712410
+
+Award Number: 9712410
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $97230              (Estimated)
+Investigator: Katherine A. Yelick yelick@cs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Many non-linear problems in dynamics fall under the general  theory of
+              perturbations. Important examples include the attitude  and orbital stability
+              of satellites, the identification of  molecules by spectroscopy, and the
+              stability of beams in  accelerators. These multidimensional systems are not
+              integrable,  but perturbation methods can be applied to transform them to 
+              approximations with fewer degrees of freedom.  Most of the time,  such
+              approximations are performed by elementary procedures with  no mathematical
+              sophistication, with the result that the  calculations become enormous. The
+              goal of this project is to  build a toolbox for solving dynamical systems,
+              specifically  targeted to perturbation methods for Hamiltonian systems.  The 
+              toolbox will be flexible enough to treat efficiently different  classes of
+              systems will allow researchers to explore new  problems, experiment with new
+              transformations, and verify  published results.    As a demonstration of
+              usefulness, flexibility and efficiency,  an analytical theory  will be
+              developed for lunar satellites at  low altitude. Planners for lunar survey
+              missions, such as the  Clementine mission in 1994, seek orbits appropriate for 
+              reconnaissance.  They need to predict the long-term behavior of a  satellite in
+              order to select an orbit with low eccentricity (for  constant sensor altitude)
+              and fixed pericenter (to economize fuel  in maneuvers). At present, orbit
+              selection is largely a matter of  guesswork. Using crude approximations,
+              planners choose possible  orbits which are then checked by numerical
+              integration. Without a  global view of the long-term dynamics, mission planners
+              can only  hope they sampled wisely. Generating ``maps'' of long-term phase 
+              space from an analytical model will remove the guesswork. Such  maps have
+              already proved useful in mission planning for earth  satellites.

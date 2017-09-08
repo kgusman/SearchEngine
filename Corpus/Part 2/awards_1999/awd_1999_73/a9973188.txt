@@ -1,0 +1,60 @@
+Title       : Multiscale Signal and Image Processing using Singularity Grammars
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  2002       
+File        : a9973188
+
+Award Number: 9973188
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $170200             (Estimated)
+Investigator: Richard G. Baraniuk richb@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+Many real-world signals and images are naturally processed in a multiscale
+              fashion, just as we move away from an object to view its general appearance and
+              zoom in to see its fine details. The multiscale data representation of the
+              wavelet transform naturally matches important signal and image singularity
+              structures such as edges, ridges, bursts, textures, and other transients. This
+              project focuses on characterizing these key structures using wavelets. The
+              resulting new signal and image processing algorithms will impact a
+diverse
+              range of important problems, from the management of computer network traffic in
+              the next-generation Internet to seamless handling of complicated data such as
+              documents containing both text and images.
+
+Since wavelets form a basis, they
+              can reproduce arbitrary functions, from highly structured real-world signals
+              and images to completely unstructured noise. In linguistic terms, the wavelet
+              vocabulary can
+be too expressive. To perform useful modeling of real-world
+              signals and images, the vocabulary's scope must be narrowed by imposing a set
+              of constraints -- a grammar -- that capture the salient structures
+              of
+singularities. While much research has concentrated on developing new
+              wavelet vocabularies, the most important current challenges to wavelet-based
+              processing lie in grammatical modeling. This project
+studies a new statistical
+              approach to multiscale modeling designed to match singularity-rich data.
+              Grammars under consideration include efficient and trainable probabilistic
+              graphs (hidden Markov tree models) and multiplicative pyramidal cascades. New
+              grammar design is being guided by a detailed study of the fine structure of
+              singularities using Besov spaces and multifractal analysis. From these new
+              models follow new algorithms for signal and image estimation,
+              detection/classification, segmentation, fusion, and synthesis.
+
+

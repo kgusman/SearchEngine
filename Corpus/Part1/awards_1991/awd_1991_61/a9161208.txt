@@ -1,0 +1,51 @@
+Title       : Coordinating Controllers for Multi-Objective Autmomatic Generation Control
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : January 16,  1992   
+File        : a9161208
+
+Award Number: 9161208
+Award Instr.: Standard Grant                               
+Prgm Manager: Ritchie B. Coryell                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 15,  1992   
+Expires     : September 30,  1992  (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Edward O. Lo   (Principal Investigator current)
+Sponsor     : EPIC Engineering Inc
+	      5150 El Camino Real Suite A-30
+	      Los Altos, CA  940221527    415/968-9911
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0306000   Energy Research & Resources             
+              55        Engineering-Electrical                  
+Program Ref : 1452,
+Abstract    :
+              Automatic Generation Control (AGC) of power                                    
+              systems has two major objectives.  The first - load                            
+              tracking - requires control of total generation at the                         
+              maximum permissible ramping capability.  The                                   
+              second - economic - requires control of individual units                       
+              to redistribute the total generation in an economical                          
+              manner.  These two objectives can be in conflict and a                         
+              coordinating controller is needed to assure good AGC                           
+              control.                                                                       
+              The design approach to achieve load tracking and                               
+              generation redistribution is based on decomposing the                          
+              vector formed by set points of all units into a vector                         
+              sum of two components, one along the direction                                 
+              defined by the ramp limits for all units and the other                         
+              along the subspace defined by the summation of set                             
+              points of all units equal to zero.  The control of each                        
+              process is realized by varying the corresponding                               
+              component.                                                                     
+              A linear design is presented.  This linear design                              
+              provides good control under small changes but results                          
+              in an oscillatory response otherwise, due to the                               
+              nonlinearity of unit ramp limits.  The elements within                         
+              the linear design that need improvement for such                               
+              problems are identified.

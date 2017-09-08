@@ -1,0 +1,73 @@
+Title       : Collaborative Research: A Markov Chain Approach to Classical Estimation
+Type        : Award
+NSF Org     : SES 
+Latest
+Amendment
+Date        : March 13,  2003     
+File        : a0241810
+
+Award Number: 0241810
+Award Instr.: Continuing grant                             
+Prgm Manager: Kwabena Gyimah-Brempong                 
+	      SES  DIVN OF SOCIAL AND ECONOMIC SCIENCES    
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : March 15,  2003     
+Expires     : January 31,  2005    (Estimated)
+Expected
+Total Amt.  : $135784             (Estimated)
+Investigator: Victor Chernozhukov vchern@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1320      ECONOMICS
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              This project develops the statistical properties of a class of new estimators,
+              called quasi-Bayesian (QBE) or Laplacian estimators. These estimators are
+              applicable to highly nonlinear classical M estimation problems, and to many
+              non-smooth semiparametric estimation problems.  They use the latest development
+              in Monte Carlo Markov Chain simulations in Bayesian statistics to overcome the
+              computational difficulty of many nonlinear classical estimators. The results of
+              this research project contribute to the understanding of computation and
+              inference in general nonlinear econometric models. Computation and inference
+              are two inseparable essential parts of any econometric model. The proposed
+              estimators address both issues and can potentially be used extensively in
+              empirical work. 
+Many parametric and semiparametric estimators involve
+              non-convex and nonsmooth objective functions. This not only makes proving large
+              sample statistical properties difficult, but also makes the estimators
+              difficult, if possible, to compute in practice. The first part of this project
+              defines quasi-Bayesian estimators that aim at overcoming these two prominent
+              issues, and studies their regular consistency and asymptotic normality
+              properties. When the underlying objective function is an actual log likelihood
+              function of the data, the QBEs reduce to the usual Bayesian approach. The
+              second part studies the properties of likelihood based inferences, including
+              Bayesian and maximum likelihood estimators, in a class of nonregular structural
+              econometric models, in which the support of the dependent variable can depend
+              on both the model parameters and the independent covariates. These models arise
+              naturally in the context of structural auction models, empirical equilibrium
+              job search models and frontier production analysis. This part of the project
+              provides a unified treatment of likelihood based estimation and inference in
+              these models. 
+The first two parts apply to finite dimensional parameters. 
+              The third part extends the quasi-Bayesian approach to estimate finite and
+              infinite dimensional parameters simultaneously, in which the infinite
+              dimensional parameter is approximated by a sieve space. The quasi-Bayesian
+              estimator overcomes the computational obstacle of sieve semiparametric models. 
+              The fourth project analyzes the properties of QBEs when the parameters are on
+              the boundary of the parameter space, which can be defined through linear or
+              nonlinear constraints on the parameters. While the properties of M estimators
+              have been extensively analyzed in the literature, they do not share the
+              optimality properties of M estimators when the parameter is in the interior of
+              the parameter space. QBEs provide useful alternative optimal estimators, and
+              enjoy tractable computational and inference properties. 
+The fifth part
+              focuses on the computational properties of QBEs and the implementation details
+              for a range of specific problems. It studies convergence criteria that are used
+              to monitor the computation of QBEs and improvements to the popular generic
+              optimization algorithm simulated annealing, by replacing the generic Metropolis
+              step with other Gibbs sampling algorithms. 
+ 
+

@@ -1,0 +1,55 @@
+Title       : Multi-Constraint, Multi-Objective Graph Partitioning
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 10,  1999 
+File        : a9972519
+
+Award Number: 9972519
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $286544             (Estimated)
+Investigator: George Karypis karypis@cs.umn.edu  (Principal Investigator current)
+              Vipin Kumar  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Algorithms that find a good partitioning of highly unstructured and irregular
+              graphs are critical for developing efficient solutions of a wide range of
+              problems including parallel execution of scientific simulations. The
+              traditional graph partitioning problem focuses on computing a k-way partition
+              of a graph such that the edge-cut is minimized and each partition has an equal
+              number of vertices (or in the case of weighted graphs, the sum of the
+              vertex-weights in each partition are the same). The task of minimizing the
+              edge-cut can be considered as the objective and the requirement that the
+              partitions will be of the same size can be considered as the constraint.
+              Unfortunately, this single-constraint single-objective graph partitioning
+              problem is not sufficient to model the underlying requirements of many current
+              and emerging applications, especially in the area of high performance
+              scientific simulations. In particular, the effective parallel solution of
+              multi-physics and multi-phase computations in areas such as automobile engine
+              design, crash-worthiness testing, fluid dynamics, structural mechanics, etc.,
+              requires that the partitioning algorithm simultaneously balances the
+              computations performed during each one of the phases and minimizes the various
+              communication overheads--none of which can be accomplished by the current graph
+              models and partitioning algorithms. The key characteristic of these
+              applications is that they require the partitioning algorithm to handle an
+              arbitrary number of balancing constraints as well as an arbitrary number of
+              optimization (either minimization or maximization) objectives. This project
+              will develop new generalized models for graph partitioning that are able to
+              model the requirements of many existing and emerging problems in
+              high-performance scientific simulations that cannot be modeled within the
+              current framework, as well as algorithms for solving these problems. The graph
+              models and partitioning algorithms will be tested and validated on a wide range
+              of problems obtained from industrial and government sources.

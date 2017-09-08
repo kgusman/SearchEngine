@@ -1,0 +1,65 @@
+Title       : Data Management for Wireless Communication Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 25,  1998 
+File        : a9628184
+
+Award Number: 9628184
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1996    
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $508838             (Estimated)
+Investigator: D C. Cox dcox@nova.stanford.edu  (Principal Investigator current)
+              Jennifer Widom  (Co-Principal Investigator former)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              Data management is critical to the functioning of wide-area wireless 
+              communication networks.  The communication infrastructure maintains  user 
+              profiles to keep track of information for operations such as call setup and 
+              delivery, subscriber authentication, and billing.  Data management deals  with
+              the problem of efficiently managing the information in user profiles,  which
+              may be distributed across the network.  In evaluating different data 
+              management schemes, performance measures of interest are:  1) profile  lookup
+              and update response times; 2) individual and global database access 
+              requirements: 3) individual communication link and global signaling  bandwidth
+              requirements; 4) total memory requirement; and 5)overall system  cost.   
+              Information in user profiles can be classified into "system information",  such
+              as current locations of subscribers and subscriber authorization  information,
+              "service provider information", such as billing records, and  "feature support
+              information", such as numbers for call screening or call  blocking.  These
+              different categories of information have different demands  on their data
+              management schemes.    One of the primary objectives of our proposed research
+              is to investigate  and develop novel database architectures and protocols for
+              efficiently  managing all the classes of information in user profiles. 
+              Specific schemes  will be designed to meet the various data management
+              requirements.  We are  especially interested in developing schemes that, unlike
+              current schemes,  provide lifelong user numbers through the support of location
+              independent  numbering.   Scalability and backward compatibility to existing
+              standards,  IS-41 and GSM, are also important design issues.  We have conceived
+              a  promising architecture that is based on a hierarchical organization of 
+              databases.  Its performance will be compared with a representative set of 
+              other data management schemes through extensive simulation studies using a 
+              realistic software simulator that we are developing.     Another major
+              objective of our proposal is to develop a realistic and  extensible simulation
+              platform for studying the performance of data  management schemes.  Realistic
+              user call and movement models are crucial to  our performance evaluations.  We
+              will develop detailed call and movement  models and corroborate them using
+              actual traffic data.  We have laid the  foundation in this area through the
+              development of the first version of a  highly configurable software simulator,
+              Pleiades.   Our research in user  behavior models for our simulations is
+              expected to have applications in  other areas of wireless communication
+              research.

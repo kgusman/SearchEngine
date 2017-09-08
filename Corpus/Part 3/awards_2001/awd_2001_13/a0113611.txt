@@ -1,0 +1,45 @@
+Title       : ITR: Integrating Induction Schemes into Decision Procedures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2002       
+File        : a0113611
+
+Award Number: 0113611
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2001      
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $401524             (Estimated)
+Investigator: Deepak Kapur kapur@cs.unm.edu  (Principal Investigator current)
+Sponsor     : University of New Mexico
+	      MSC05 3370
+	      Albuquerque, NM  87131    505/277-2256
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1658,9216,HPCC,
+Abstract    :
+              Verification tools based on decision procedures including OBDD based tools and
+              model-checkers have been effectively used in many application areas including
+              hardware verification, protocol analysis and verification, static analysis and
+              type-checking of code, byte-code verification, analysis of mobile code and
+              proof-carrying code.  These tools are however unable to deal with computations
+              modeled using large state space (including infinite state space), partly
+              because they do not support inductive reasoning. Induction based theorem
+              provers, while quite powerful, lack automation and require tremendous user
+              guidance. A novel and radical approach is proposed to combine decision
+              procedures, rewriting and induction schemes in a restricted way so as not to
+              lose automation.   Using this approach, recursive definitions are given as
+              terminating rewrite rules on top of decidable theories, such as Presburger
+              arithmetic. Induction schemes are generated from these terminating definitions.
+              By imposing structure on recursive definitions, it becomes possible to
+              automatically decide a large class of conjectures requiring inductive
+              reasoning. It is proposed to extend and generalize this approach to consider a
+              large class of recursively defined functions, their interactions with each
+              other, as well as a large class of conjectures about these functions, that can
+              be automatically decided (without any need for user guidance).  

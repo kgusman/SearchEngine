@@ -1,0 +1,66 @@
+Title       : Numerical Methods for Layered Models of Ocean Circulation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 21,  2001 
+File        : a0107495
+
+Award Number: 0107495
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $140000             (Estimated)
+Investigator: Robert L. Higdon higdon@math.orst.edu  (Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              The goal of this project is to develop numerical methods for layered (isopycnal)
+              models of the general ocean circulation.  In such models, the vertical
+              coordinate is not linear distance, but instead is potential density or some
+              other related quantity.  When an isopycnal model is discretized in the
+              vertical, the effect is to represent the ocean as a stack of layers that are
+              approximately immiscible.  This corresponds to the observation that the upper
+              and lower regions of the ocean are approximately isolated thermodynamically
+              from each other.  However, this isolation is not complete, and in an isopycnal
+              model the exchanges that do occur are under the control of the modeler.  This
+              type of model shows great promise for representing the long-term behavior of
+              ocean dynamics.  In the present project, the principal investigator will
+              develop and incorporate methods for solving the momentum equation in a flux
+              form for which momentum, not velocity, is the dependent variable.  It appears
+              that the momentum formulation may give more reliable results, such as in
+              situations where layer thicknesses tend to zero because of layer interfaces
+              intersecting the top or bottom of the fluid domain.  This approach may also be
+              valuable in modeling vertical transport in the ocean.  Non-oscillatory or
+              nearly non-oscillatory advection algorithms will be used to solve the momentum
+              equation.  Such methods will be analyzed and incorporated into a two-level
+              time-stepping algorithm that the investigator has recently developed for
+              formulations of the governing equations in which the fast and slow time scales
+              are split into separate subsystems.  The resulting algorithms will be tested on
+              model problems for which the solution behavior is known.  As time permits, the
+              PI will then pursue the implementation and testing of these methods in
+              existing, operational models of ocean circulation.  During this project the PI
+              will be in regular contact with ocean modelers at Oregon State University and
+              at Los Alamos National Laboratory.
+
+The long-term objective of this work is
+              to contribute to an understanding of the global climate system.  An important
+              tool towards understanding this system consists of computer simulations
+              involving coupled models of the atmosphere, ocean, sea ice, and terrestrial
+              effects.  With such simulations one can test the response of the earth's
+              climate to changes in external forcing, such as increased emissions of
+              greenhouse gases.  The world's oceans store and transport tremendous amounts of
+              heat energy, so the oceans play a crucial role in our climate system.  When the
+              circulation of the ocean is simulated on a computer, one is using the computer
+              to obtain approximate solutions to mathematical equations that describe the
+              evolution of fluid flows.  The goal of the present project is to improve the
+              methods that are used to solve those equations.  

@@ -1,0 +1,61 @@
+Title       : Taylor Expansion Diagrams: A Compact Canonical Representation for RTL
+               Verification
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 25,  2003  
+File        : a0204146
+
+Award Number: 0204146
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $280000             (Estimated)
+Investigator: Maciej Ciesielski ciesiel@ecs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,9218,HPCC,
+Abstract    :
+              The goal of this work is to develop a new canonical representation and an
+              efficient verification infrastructure to support the RTL verification of large
+              designs. The proposed graph-based representation, called Taylor Expansion
+              Diagram, is based on a different decomposition principle than used by
+              decision
+diagrams such as BDDs and BMDs. It is obtained by treating the
+              symbolic expression of the design as a continuous, differentiable function and
+              applying Taylor series expansion with respect to its word-level variables.
+              
+
+The resulting Taylor Expansion Diagram (TED) is canonical for a fixed
+              ordering of variables. TEDs can be used to represent functions containing  both
+              algebraic and Boolean expressions, facilitating the representation of complex
+              designs with arithmetic operators and Boolean logic, typically encountered in
+              
+RTL specifications. 
+
+We are building an RTL verification infrastructure
+              centered around TED that can be used to verify functional equivalence of RTL
+              designs.  We are developing systematic, algorithmic techniques for constructing
+              and manipulating TED representations of HDL designs, based on the new
+              theory.
+We are also investigating how to exploit TEDs for implementation
+              verification, that is checking functional equivalence between an RTL
+              specification and its logic, gate-level implementation.  By carrying out
+              extensive experiments, the applicability of TEDs to realistic designs with
+              arithmetic circuits and Boolean logic must be evaluated, and the performance of
+              TEDs compared against that of BDDs and *BMDs.
+
+This project has also an
+              important educational role of teaching students about modern design
+              representations from decision diagrams to more abstract, word-level data
+              structures in the context of design synthesis and verification.
+			  

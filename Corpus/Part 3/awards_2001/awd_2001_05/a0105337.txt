@@ -1,0 +1,83 @@
+Title       : Massive Data Streams: Algorithms and Complexity
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 1,  2001     
+File        : a0105337
+
+Award Number: 0105337
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2001      
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $256304             (Estimated)
+Investigator: Joan Feigenbaum joan.feigenbaum@yale.edu  (Principal Investigator current)
+              Sampath Kannan  (Co-Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+
+
+Title: "Massive Data Streams: Algorithms and Complexity"
+
+Investigators:
+              Joan Feigenbaum and Sampath Kannan
+
+Abstract:
+     Massive data sets are
+              increasingly important in many applications,
+including observational sciences,
+              product marketing, and monitoring and
+operations of large systems.  In network
+              operations, raw data typically arrive
+in streams, and decisions must be made
+              by algorithms that make one pass
+over each stream, throw much of the raw data
+              away, and produce ``synopses''
+or ``sketches'' for further processing. 
+              Moreover, network-generated massive
+data sets are often distributed:  Several
+              different, physically separated
+network elements may receive or generate data
+              streams that, together, comprise
+one logical data set.  The enormous scale,
+              distributed nature, and one-pass 
+processing requirement on the data sets of
+              interest must be addressed with 
+new algorithmic techniques.
+     Two
+              programming paradigms for massive data sets are "sampling" and
+"streaming." 
+              Rather than take time even to read a massive data
+set, a sampling algorithm
+              extracts a small random sample and computes
+on it.  By contrast, a streaming
+              algorithm takes time to read all the input, 
+but little more time and little
+              total space.  Input to a streaming algorithm 
+is a sequence of items; the
+              streaming algorithm is given the items in order, 
+lacks space to record more
+              than a small amount of the input, and is required
+to perform its per-item
+              processing quickly in order to keep up with
+the unbuffered input.  The
+              investigators continue the study of 
+fundamental algorithms for massive data
+              streams.  Specific problems of
+interest include but are not limited to the
+              complexity of proving properties 
+of data streams, the construction of
+              one-pass testers of properties of 
+massive graphs, and the streaming space
+              complexity of clustering.

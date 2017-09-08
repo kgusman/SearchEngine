@@ -1,0 +1,133 @@
+Title       : Resource Management for Broadband Satellite Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 20,  2001 
+File        : a0087266
+
+Award Number: 0087266
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $129684             (Estimated)
+Investigator: Catherine P. Rosenberg   (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Broadband satellite systems have an important role to play in the delivery
+              of multimedia applications.
+In this proposal we concentrate on GEO
+              (geo-synchronous) based satellite networks. GEO based systems
+deliver
+              continuous services to a specific region with a single satellite. They play an
+              ever-increasing role in
+the public and private Internets, due mostly to their
+              large geographic coverage, inherent broadcast
+capabilities and fast
+              deployment. They are attractive to support data, audio and video streaming;
+              bulk data
+transfer such as software updates or dissemination of Web caches;
+              and applications involving limited
+interactivity such as distance learning.
+              They are also attractive to provide broadband access to users who are
+either
+              beyond the reach of the terrestrial network, or have particular needs for
+              broadcast/multicast
+applications or fast deployment.
+     We will focus in
+              this proposal on Next Generation Satellite Networks that comprise one (or more)
+              GEO
+satellite with some form of onboard processing (OBP). Two of the essential
+              issues regarding broadband
+satellite network are 1) end-to-end resource
+              management, and 2) network availability.
+     Resource management is key to
+              deliver acceptable Quality of Service (QoS) to services while
+              providing
+adequate efficiency. It is central to any satellite system, be it a
+              bent pipe or an onboard processing (OBP)
+satellite system. Indeed, in order to
+              offer flexibility and efficiency to bursty applications, the capacity of
+              the
+multiple access uplink has to be managed using some bandwidth on demand
+              (BoD) scheme.
+     We define network availability as the ability for the
+              network to offer some level of services to some
+applications even during
+              degraded periods. Most of the next generation systems will be using the Ka
+              band,
+which is known for its very difficult transmission characteristics. Many
+              solutions involving variable rate
+coding, power control, and/or variable
+              modulation have been proposed to make this band friendly to
+broadband
+              applications. This proposal will not study directly those layer 1/2 mechanisms
+              but rather study
+how their use affects BoD and more generally end-to-end
+              resource management.
+     Hence the final objective of our proposal is to
+              design and evaluate end-to-end resource management
+for the Next Generation of
+              Satellite Networks that interworks efficiently with the range of
+              solutions
+proposed by the air-interface designer to improve the availability
+              of the transmission. In particular, we
+want to understand the trade-off in
+              terms of efficiency and system complexity.
+     To achieve this ultimate
+              objective, we will study:
+1. Static end-to-end resource management for large
+              GEO OBP systems. The term static refers to the
+fact that the coding and
+              modulation are fixed. The focus here will be to develop and
+              evaluate
+mechanisms that are scalable, robust, flexible and protect the OBP
+              (i.e., the switch in the sky). We
+will build upon our extensive previous work
+              in the domain where we developed scalable, robust,
+flexible end-to-end
+              resource management for large GEO bent pipe systems.
+2. Network availability.
+              One of the main concerns of satellite network designers is to offer
+              an
+"appropriate" level of service to the users in spite of the difficult
+              characteristics of the frequency
+band. However it is not very clear what is
+              meant by "an appropriate level of service" since it may
+vary from a user to
+              another or from an application to another. Most of the studies have focussed
+              on
+link availability without taking into account the networking and
+              applications aspects. We believe
+that coordinating the lower layers with the
+              upper layers will give us a flexible and cost-efficient
+solution allowing the
+              system to deliver different levels of network availability to the
+              users
+depending on their need and their willingness to pay. Hence network
+              availability can be seen as a
+QoS requirement and should be defined and
+              studied that way.
+3. Designing end-to-end resource management for a system
+              comprising layer 1/2 mechanisms to
+dynamically improve the uplink availability
+              so as to offer flexible and cost efficient services to the
+users. We need to
+              propose solutions and to evaluate them to ensure that the increase in
+              complexity
+is worthwhile in terms of efficiency. We will also propose and
+              study some dynamic pricing schemes
+integrated with the BoD so as to allow the
+              users to indicate their willingness to pay for capacity in a
+context where the
+              total available capacity is variable due to link impairment.

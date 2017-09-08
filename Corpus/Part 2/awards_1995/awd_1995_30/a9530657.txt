@@ -1,0 +1,41 @@
+Title       : Feature Space Trajectory Image Processor
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 11,  1998      
+File        : a9530657
+
+Award Number: 9530657
+Award Instr.: Continuing grant                             
+Prgm Manager: Jing Xiao                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1996       
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: David P. Casasent casasent@ece.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 2891,9216,9218,HPCC,
+Abstract    :
+              A  new  feature  space trajectory (FST) description  of  3-D  distorted versions
+              of an object or object part is considered  in  which  different  distorted
+              object views  are  different  vertices  on  the FST.  Adjacent vertices are 
+              connected  by  straight  lines.  Different objects  or  object  parts  have 
+              different  FSTs.  For  input data (an object  or  an  object  part),  the FST
+              closest to the input data denotes the  class  of  the  object  and the closest
+              line segment  on  that  FST  denotes  the  pose  of the object or  part.   A 
+              neural  net  processor   performs   all  needed  distance   calculations. 
+              Fundamental  issues associated with this new  representation  of  distorted 
+              objects  are  addressed.  Processing  a  time  sequence of input data and its
+              pose estimation ability  will  be  used  in active vision systems.  Its good
+              generalization  and performance on small training sets will be studied.  Its 
+              ability to reject false (non object) inputs and to learn new  inputs will be
+              studied.

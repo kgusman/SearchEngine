@@ -1,0 +1,63 @@
+Title       : Exact Computation in Sparse Linear Algebra
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 25,  2002     
+File        : a0098284
+
+Award Number: 0098284
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $254993             (Estimated)
+Investigator: B. David Saunders saunders@udel.edu  (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+Proposal #0098284
+Saunders, B. David
+University of Delaware
+
+This
+              is a program of research in the area of exact solution of systems of linear
+              equations and related problems. There will be an emphasis on Diophantine
+              problems, wherein the input data (coefficients) are integers and the solutions
+              sought must also have integer coefficients. There will also be an emphasis on
+              parametric linear systems, wherein the input data contain symbolic parameters
+              and the solutions must be expressed in terms of these parameters, including all
+              special cases (ranges of values of the parameters for which the solutions have
+              form different from the general case). New efficient algorithms are sought and
+              high performance software is to be developed based on both new and previously
+              described methods.
+
+The work will be largely carried out in the context of
+              the LINBOX collaboration. LINBOX is a group of twelve researchers in three
+              countries (USA, France, Canada) who are conducting research in the design of
+              efficient algorithms for linear algebra, in their implementation in a software
+              library, and in how to interface the library to widely-used scientific
+              computing software. such as Maple and Mathematica.
+
+There are two basic
+              approaches to sparse matrix problems, iterative and direct. Both approaches
+              have been significantly developed by the numeric linear algebra community.
+              Iterative methods involve finding recurrence relations in a series of vectors
+              resulting from matrix-vector products. In LINBOX these have been called "black
+              box" methods, and the adaptation of such methods to symbolic problems has been
+              the emphasis to date. There has been substantial theoretical work in the past
+              two decades in this area. The emphasis of LINBOX is to find and to demonstrate
+              in software the variants and extensions and improvements to these methods which
+              will work in practice. The here proposed research will continue in this
+              direction but will also work to develop the direct methods for solution of
+              sparse symbolic linear systems, again basing on prior work in numerical linear
+              algebra.

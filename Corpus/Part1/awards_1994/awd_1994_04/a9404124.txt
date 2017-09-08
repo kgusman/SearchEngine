@@ -1,0 +1,67 @@
+Title       : Mathematical Sciences: Computation and Analysis of Invariant Manifolds and Their
+               Bifurcations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 6,  1995       
+File        : a9404124
+
+Award Number: 9404124
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1995     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Jens Lorenz lorenz@math.unm.edu  (Principal Investigator current)
+Sponsor     : University of New Mexico
+	      Sholes Hall
+	      Albuquerque, NM  87131    /   -
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              In many areas of the applied sciences one is led to study dynamical systems
+              depending on one or more parameters.  The state vector often approaches a
+              low-dimensional invariant manifold that determines the dynamical behavior,
+              except for an initial transient.  The investigator develops and analyszes
+              methods for the  direct numerical computation of such invariant manifolds in a
+              path-following process.  Also, we studies how to detect and classify potential
+              bifurcations.  So far, well-developed algorithms for path following and for
+              detection of bifurcations exist only when the invariant manifold is a fixed
+              point or a periodic orbit.  The next interesting cases are branches of
+              invariant 2-tori, corresponding typically to quasiperiodic motion with two
+              frequencies.  In previous work the investigator and his collaborators have
+              developed a reliable code to compute such  branches of 2-tori, but the
+              numerical study of their bifurcations has just begun.  This project extends the
+              previous work in several directions, the most important being the following. 
+              First, indicators are added to the code that can tell if a bifurcation is
+              possible, and -- ideally -- can tell the nature of the bifurcation.  Second, to
+              represent the invariant manifold, local charts are used instead of one global
+              chart.  This extension makes local mesh refinement practical and greatly
+              enhances the performance and applicability of the existent code.               
+                During the last four centuries scientists have developed equations to
+              determine the time evolution of a great variety of systems.  Newton wrote down
+              the equations for planetary motion.  Euler, Navier, and Stokes developed
+              equations to predict the flow of water and other fluids.  The equations
+              governing meteorology, oceanography, or the phase changes of materials were
+              developed  more recently.  Though the equations determine the evolution in
+              principle, supercomputers are usually necessary to actually evaluate the
+              predictions.  The reason is, of course, the great complexity of th e processes
+              involved.  In fact, even the fastest computers are often insufficient for a
+              full modeling.  Then it is necessary to ask for sensible simplifications. 
+              These are possible if the state vector (which describes the state of the system
+              at a given instant of time) settles to a low-dimensional object in state space
+              as time progresses.  It is one aim of the proposed research to understand when
+              such a behavior occurs.  There are many  known examples, ranging from applied
+              mechanics to chemistry to material sciences.  Another aim is the direct
+              numerical computation of the low-dimensional geometric object that is
+              approached by the state vector.  The project helps understand dynamical systems
+              better.  In turn, this leads to better algorithms for predicting evolutions and
+              makes a wider range of processes and phenomena amenable to modeling by
+              supercomputers.

@@ -1,0 +1,56 @@
+Title       : Nonlinear Programming for Large-Scale Applications
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : May 15,  2000       
+File        : a9800544
+
+Award Number: 9800544
+Award Instr.: Continuing grant                             
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  1998       
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $375408             (Estimated)
+Investigator: Stephen G. Nash snash@gmu.edu  (Principal Investigator current)
+              Ariela Sofer  (Co-Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9147,MANU,
+Abstract    :
+              9800544
+Nash
+     This grant builds upon prior research on optimization
+              algorithms and software to develop successful methods for medical imaging and
+              other challenging applied problems.  Some of the applications studied are image
+              reconstruction via Positron Emission Tomography (PET), radiation therapy
+              planning, x-ray crystallography, and the modeling of underwater aquifers. These
+              problems are very large. The algorithms used are based upon well developed
+              general-purpose methods for nonlinear optimization. They use as a foundation
+              software for unconstrained optimization (both serial and parallel) based on a
+              truncated-Newton method developed in prior research. The applied algorithms
+              also use sophisticated ideas developed for barrier methods, techniques that
+              ensure stable numerical computations capable of producing high-accuracy
+              solutions. The algorithms are also based on primal-dual frameworks that are
+              proving to be successful for wide classes of linear and nonlinear optimization
+              problems.  The work extends these powerful computational tools, by exploiting
+              the special features of the applied problems.  Parallelism (both in the
+              underlying optimization method and in the calculations of the model functions)
+              is also essential to achieve effective methods.
+     The immediate goal of
+              this research is to produce software that can be used by scientists and
+              clinicians.  This requires algorithms that are fast and reliable.  The
+              longer-term hope is that the techniques developed for these applied problems
+              will lead to improved methods for general-purpose optimization.  The overall
+              intent is to produce reliable algorithms and software to solve these problems
+              as rapidly as possible.
+
+
+

@@ -1,0 +1,50 @@
+Title       : CAREER: Energy-Exposed Instruction Sets
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 12,  2003     
+File        : a0093354
+
+Award Number: 0093354
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2001   
+Expires     : January 31,  2006    (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Krste Asanovic krste@cag.lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,1187,9215,HPCC,
+Abstract    :
+              Energy consumption is a key constraint in the design of modern microprocessors,
+              limiting battery life in portable devices and achievable performance in
+              high-performance systems.  Modern instruction set architectures such as RISC or
+              VLIW are based on extensive research into how instruction set design
+              affects
+performance, and provide a purely performance-oriented
+              hardware-software interface.  Implementations of these ISAs perform many
+              energy-consuming microarchitectural operations during execution of each
+              user-level instruction and these dominate total power dissipation.  Because
+              modern architectures pipeline and parallelize this microarchitectural work, it
+              has little effect on the latency and throughput of user instructions, thus
+              there is no incentive to expose the micro-operations in a purely
+              performance-oriented
+hardware-software interface: energy consumption is hidden
+              from software.  The project will develop new energy-exposed microprocessor
+              architectures that give software much greater control over
+              the
+microarchitectural components used to execute each operation.  The
+              research will develop new integrated hardware and software energy-saving
+              techniques by simultaneously considering all levels of processor design,
+              including VLSI circuits, microarchitectures, instruction sets, compilers, and
+              operating systems.  The project will also be used to bring energy-efficiency
+              into the curriculum of existing undergraduate and graduate computer
+              architecture courses.

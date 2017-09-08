@@ -1,0 +1,51 @@
+Title       : A Software Support System for Parallel Processing in Multiprocessor Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  1996       
+File        : a9625959
+
+Award Number: 9625959
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1996      
+Expires     : July 31,  1997       (Estimated)
+Expected
+Total Amt.  : $18000              (Estimated)
+Investigator: Phyllis E. Crandall crandall@eng2.uconn.edu  (Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      14 Dog Lane
+	      Storrs, CT  062694133    203/486-2000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9221,HPCC,
+Abstract    :
+              This effort is funded as a Research Planning Grant (RPG). The  availability of
+              shared-memory, multiprocessor workstation  clusters offers the opportunity for
+              the simultaneous application  of shared memory and distributed memory parallel
+              processing  techniques to a single problem.  However, software systems that 
+              facilitate this dual-level parallel processing paradigm and allow  the
+              programmer, compiler, and run-time system to make the best  use of the
+              computational power offered by this platform are not  yet available.  The
+              long-term goal of this research is threefold:  (1) to provide a software system
+              that furnishes advice regarding  the partitioning methods and cluster
+              configuration expected to  yield the best performance,  (2) to develop a
+              communication  library that handles both shared and distributed memory 
+              communications with a single syntax, and  (3)  to incorporate  both the
+              advisory system and the communication library into a  data-parallel compiler
+              that transparently handles interprocessor  communication.    During the
+              research planning phase, which is being supported by  this grant award, four
+              initial steps toward the long-term  research goals will be accomplished.   (a)
+              The computation and  communication characteristics of the multiprocessor
+              cluster will  be characterized. (b) Mathematical models of performance of 
+              applications that exhibit stencil data dependencies will be  developed. (c) The
+              advisory system will be designed and  implemented with the initial mathematical
+              models. (d) The current  body of research on shared memory and distributed
+              memory  communication libraries and data-parallel compilers will be  surveyed
+              to determine the best approach for developing the  dual-level communication
+              library and incorporating the library  into existing compilers.  ***

@@ -1,0 +1,107 @@
+Title       : ITR: Tools For High-Performance Simulation of Granular Materials
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : September 6,  2002  
+File        : a0213305
+
+Award Number: 0213305
+Award Instr.: Standard Grant                               
+Prgm Manager: Hans G. Kaper                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $249958             (Estimated)
+Investigator: David E. Stewart dstewart@math.uiowa.edu  (Principal Investigator current)
+              Suely P. Oliveira  (Co-Principal Investigator current)
+              Sriram V. Pemmaraju  (Co-Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              This grant is for the development of computational tools for
+simulating very
+              large-scale problems involving granular flow.
+Rather than use a continuum
+              model of a granular material (which
+involves a large number of assumptions and
+              approximations about the
+way they behave), rather we look at the computational
+              challenges in
+discrete element models.
+These are challenging large-scale
+              problems with thousands to millions
+of grains that have to be
+              simulated.
+Direct interactions are usually between touching grains.
+However,
+              one grain can not only affect the others that it touches, but
+those will
+              affect their neighbors, and so on.
+Further, the network of interactions is
+              dynamic.
+Indeed, the overall pattern of interactions can become
+              very
+different depending on the circumstances: if a sand table is
+              shaken,
+then most of the sand grains will be independent; when the
+              grains
+settle, each grain will be touching many others.
+In order to
+              efficiently organize the computational tasks, we need to
+use techniques from
+              graph or network theory.
+These tools include graph partitioning techniques,
+              graph coloring
+techniques, and new techniques for handling the collisions of
+              grains.
+Since the problems are very large scale, currently
+              available
+techniques often have to be adapted from dealing with
+              small-scale
+problems to deal with large-scale problems.
+Furthermore, since
+              the network of interactions is dynamic, these
+techniques have to be adapted to
+              use information about the previous
+network in order to efficiently obtain the
+              corresponding information
+about the new network.
+In this project, we will be
+              developing these tools and drawing
+techniques from graph theory, continuous
+              optimization, complementarity
+theory, and computational geometry.
+
+Granular
+              materials are materials made of small, relatively hard
+objects that collide
+              off each other.
+Sand, breakfast cereals, talcum powder, and a box of marbles
+              are all
+examples of granular materials.
+Understanding these materials and
+              simulating their behavior directly
+is difficult because the position and
+              velocity of each of the
+``grains'' in the material needs to be tracked and
+              updated as they
+move and collide.
+In order to do this well, we need
+              high-performance computers, and we
+need to use them well.
+The crucial problem
+              is to understand the nature of the interactions
+between the grains, and to
+              develop automatic tools that can determine
+how to divide the computational
+              tasks so that they can be tackled
+efficiently on high-performance and parallel
+              computers.

@@ -1,0 +1,70 @@
+Title       : Investigation of a New Compressed Representation of Boolean Functions
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  2000    
+File        : a9986308
+
+Award Number: 9986308
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $200021             (Estimated)
+Investigator: Thomas W. Reps reps@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+                   CCR-9986308
+     Reps, Thomas W.
+     University of Wisconsin-Madison
+  
+                Investigation of a New Compressed Representation of Boolean Functions
+
+    
+              The goal of the proposed project is to advance the state of the
+     art in
+              symbolic model checking by investigating the properties of
+     a new
+              compressed representation of Boolean functions, called
+     CFLOBDDs, which
+              are an alternative to the now-standard Ordered
+     Binary Decision Diagrams
+              (OBDDs).  CFLOBDDs share many of the
+     good properties of OBDDs, but can
+              lead to data structures of
+     drastically smaller size -- exponentially
+              smaller than OBDDs, in
+     fact.  That is, an OBDD is a data structure that
+              -- in the best
+     case -- yields an exponential reduction in the size of
+              the
+     representation of a Boolean function (i.e., compared with the
+    
+              size of the decision tree for the function).  In contrast, a
+     CFLOBDD --
+              again, in the best case -- yields a doubly exponential
+     reduction in the
+              size of the representation of a Boolean
+     function.  Although not every
+              Boolean function has such a highly
+     compressed representation, the project
+              with see how far this
+     idea can be pushed.  The hope is that
+              doubly-exponential compression 
+     is a tool that would (a) permit
+              verification to be performed much 
+     faster, and (b) allow much larger
+              verification problems to be attacked 
+     than has heretofore been
+              possible.
+

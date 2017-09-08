@@ -1,0 +1,123 @@
+Title       : A Computational Infrastructure for Embedded High Consequence System Development
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0209187
+
+Award Number: 0209187
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Victor Winter vwinter@mail.unomaha.edu  (Principal Investigator current)
+Sponsor     : U of Nebraska Omaha
+	      60th and Dodge Street
+	      Omaha, NE  68182    402/554-2286
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,0000,9150,9216,HPCC,OTHR,
+Abstract    :
+              
+Project Summary
+
+
+
+The objective of the proposed activity is the
+              development of 
+a high-assurance function, called a classloader. This function
+              
+carries out the static aspects associated with the execution 
+of Java
+              classfiles as it is defined by a concrete implementation 
+of the Java Virtual
+              Machine (JVM). The implementation 
+being targeted is called the Sandia Secure
+              Processor (SSP). To 
+date, a prototype of the SSP has been developed in VHDL
+              which 
+synthesized to < 40K gates and is capable of operating near
+              75MHz.
+
+The goal is to compose the classloader and the SSP to produce a
+              
+Java-centric computational component capable of being used in 
+embedded
+              system development. Intended application areas for this 
+technology encompass
+              high to ultra-high consequence embedded systems.
+
+A primary application
+              domain for which this technology is targeted 
+has imposed the following
+              constraints on the system:
+
+	1.There must be the option of building the
+              processor 
+	  using rad-hard technology.
+
+	2.An open source for the system
+              must be available allowing 
+	  detailed design analysis and testing of all
+              aspects of 
+	  the system (possibly down to the gate
+              level).
+
+	3.Certification evidence should be provided by formal 
+	 
+              mathematical proofs of correctness to the extent possible, 
+	  and strongly
+              convincing evidence must be provided in all 
+	  other cases where mathematical
+              proofs have not been achieved.
+
+	4.A security policy must be strictly
+              enforced ensuring that 
+	  any program is either rejected as incorrect by
+              compile-time 
+	  or run-time checks, or its behavior must be understandable by
+              
+	  reasoning based entirely on the language semantics, independent 
+	  of
+              the implementation. In particular, no security violation must 
+	  be permitted
+              to succeed regardless whether it is the result 
+	  of an inadvertent error, or
+              a malevolent well thought out attack.
+
+
+Correctness-preserving program
+              transformation is the method that is being 
+employed to implement a
+              high-assurance classloader function. In this approach, 
+the functionality of
+              the classloader is realized via a lengthy sequence of 
+small "intellectually
+              manageable" rewrite steps. Here, a rewrite step is 
+considered to be
+              intellectually manageable if its correctness can be formally 
+verified in
+              practice. In order to achieve this goal, novel transformation 
+techniques are
+              being explored and developed.
+
+This project will significantly impact the
+              computer science community 
+by (1) advancing knowledge in the area of program
+              transformation, 
+(2) demonstrating to industry that formal methods (in this
+              case program 
+transformation) can be effectively applied to real-world
+              problems, and 
+(3) providing a computational infrastructure (i.e., the SSP)
+              that is 
+suitable for embedded high-consequence system development.
+
+
+

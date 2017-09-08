@@ -1,0 +1,134 @@
+Title       : Collaborative Research: Large-scale Optimization: Matrix-free Algorithms, Data
+               Parallelism, and Applications in Seismic Inversion
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 27,  1999    
+File        : a9973310
+
+Award Number: 9973310
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $58500              (Estimated)
+Investigator: Anthony J. Kearsley anthonyk@andrew.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+                   In this collaborative interdisciplinary project, the
+investigators Mark
+              Gockenbach, Anthony Kearsley, and William
+Symes develop and implement
+              algorithms for large-scale
+optimization problems that arise in a variety of
+              applications,
+focusing on techniques particularly suited to
+              parallel
+architectures, and apply the methods to the seismic
+              velocity
+estimation problem.  Large-scale optimization problems often
+present
+              difficulties to standard algorithms and software.  Many
+of these difficulties
+              arise in the seismic velocity estimation
+problem.  First, the sheer data
+              volume makes it impractical to
+explicitly form and factor matrices, as
+              required by many standard
+optimization algorithms.  To address this, a new
+              matrix-free
+Sequential Quadratic Programming (SQP) algorithm is
+              developed,
+based on recent advances in matrix-free algorithms for
+              the
+so-called trust region subproblem.  Second, the data structures
+and
+              interfaces required for seismic data processing are not
+easily adapted to
+              those required by "off-the-shelf" optimization
+software.  The Hilbert Class
+              Library (HCL), an object-oriented
+optimization package, can solve optimization
+              problems involving
+data structures and interfaces of arbitrary complexity. 
+              The SQP
+algorithm, along with the necessary seismic data structures
+              and
+simulators, is implemented in HCL.  Third, large-scale
+simulations often
+              require the use of parallel computation.  The
+use of parallelism in simulation
+              and optimization is addressed
+through the development of HCL classes that
+              automatically
+distribute data over a network of distributed workstations. 
+              The
+above innovations in optimization methods and software are used
+to study
+              in detail a new formulation of the seismic inverse
+problem.  The investigators
+              have recently introduced this
+formulation in order to overcome certain
+              optimization-theoretic
+difficulties inherent in standard formulations.
+    
+              Optimization problems arise in science and engineering,
+where one often wishes
+              to find the best design, the best
+mathematical model, the best strategy, and
+              so forth.  Large-scale
+optimization problems, which involve many variables,
+              present
+special challenges, including the choice of algorithm,
+              the
+representation of data, and the interface between optimization
+software
+              and programs written by the application scientist.  This
+project addresses
+              these challenges in the context of an important
+application, seismic
+              exploration.  The investigator and his
+colleagues develop new optimization
+              algorithms to identify
+geological features of the subsurface of the earth. 
+              Included is
+a general method for solving large-scale optimization
+              problems;
+this algorithm is applicable to other science and
+              engineering
+problems.  Moreover, they also develop an innovative
+              software
+package, called the Hilbert Class Library (HCL), that
+              allows
+optimization algorithms to be used with problems of
+              arbitrary
+complexity; the software adapts to different data structures
+              and
+software interfaces.  Finally, they extend HCL to automatically
+take
+              advantage of parallel computers, making it easier to take
+advantage of high
+              performance hardware.  The seismic exploration
+problem is important to the
+              petroleum industry; a precise
+knowledge of geological structures is essential
+              for efficient
+utilization of petroleum reserves.  In addition, the HCL
+              software
+addresses the important issue of technology transfer as it
+pertains
+              to numerical algorithms; too often algorithmic advances
+are unavailable to
+              application scientists because optimization
+software and application software
+              have incompatible interfaces.

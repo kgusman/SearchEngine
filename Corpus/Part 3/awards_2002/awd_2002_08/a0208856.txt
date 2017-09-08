@@ -1,0 +1,109 @@
+Title       : Online Competitive Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0208856
+
+Award Number: 0208856
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $235042             (Estimated)
+Investigator: Marek Chrobak marek@cs.ucr.edu  (Principal Investigator current)
+Sponsor     : U of Cal Riverside
+	      Office of Research Affairs
+	      Riverside, CA  925210217    909/787-5535
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Optimization problems that arise in practice are often inherently
+online; that
+              is, the input data is not available prior to
+computation but, instead, is
+              given as a sequence of requests
+each of which must be served before the next
+              one is received.
+A classical example is the caching problem in two-level
+              memory
+systems. Modern computer architectures enhance memory performance
+by
+              storing frequently accessed data items in a cache, which is
+a small buffer
+              memory. Memory locations stored in the cache
+can be accessed quickly. Requests
+              to memory locations that are
+not in the cache are called faults or misses, and
+              take much
+more time.  After each memory access, an online caching
+              algorithm
+needs to decide whether to put the requested item in the cache,
+and
+              if so, which item to evict from the cache. The objective
+is to minimize the
+              number of cache faults.
+
+Due to incomplete information, online algorithms
+              cannot, in general,
+compute optimal solutions. This brings up the issue of
+              performance
+evaluation: how do we tell good algorithms from bad ones? One
+              measure
+of the quality of online algorithms is their competitive
+              ratio,
+defined as the maximum, over all request sequences, of the
+              ratios
+between the solution computed by the online algorithm and the
+              optimal
+(offline) solution. Thus, an algorithm with competitive ratio,
+              say,
+1.5, always computes a solution that is within 50% of the
+              minimum.
+
+This research deals with the competitive analysis of online
+              algorithms.
+Several research directions are being explored. The first
+              direction
+is to study general techniques for the design and analysis of
+              online
+algorithms. Here, the most promising ideas include the
+work-function
+              algorithm (and its extensions) and the primal-dual method.
+Both of these
+              techniques, as well as some other, have been successfully
+applied to specific
+              online problems, but the mechanism behind their
+success is still poorly
+              understood, and they still require an in-depth
+study to determine their
+              applicability to other problems. Another
+direction is to study several
+              extensions of the competitive analysis,
+including access graphs (for caching),
+              diffuse adversaries, loose
+competitiveness and resource augmentation. This
+              work focuses on some open
+problems related to these models, on adapting these
+              models to other
+online problems, and on designing new problem-specific models.
+              The
+investigator is also continuing his work on several classical
+problems in
+              competitive analysis, including the k-server
+problem, several versions of
+              caching and scheduling problems,
+the k-median problem, and other. The main
+              goals of these efforts
+are to develop efficient competitive algorithms for
+              these problems
+and to establish matching lower bounds on the competitive
+              ratios.
+
+

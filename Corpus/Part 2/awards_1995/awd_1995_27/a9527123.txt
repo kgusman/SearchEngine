@@ -1,0 +1,59 @@
+Title       : MDC: Direct Simulation of the Motion of Particles in Flowing Liquids
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : March 13,  1998     
+File        : a9527123
+
+Award Number: 9527123
+Award Instr.: Continuing grant                             
+Prgm Manager: Rajinder P. Khosla                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1995    
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $1665000            (Estimated)
+Investigator: Daniel D. Joseph joseph@aem.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0108000   Software Development                    
+              30        Computer Science & Engineering          
+Program Ref : 0000,9216,9263,HPCC,OTHR,
+Abstract    :
+              9527123 Joseph  This project will develop highly efficient methods for computing
+              the three-dimensional motion of large number of particles in solid-liquid
+              flows, under the action of the hydrodynamic forces and torques exerted by the
+              suspending fluid, and use these methods to elucidate the fundamental dynamics
+              of particulate flows and solve problems of engineering interest.  The goal is
+              to develop high-performance, state-of -the-art software packages called
+              particle movers, capable of simulating the motion of thousands of particles in
+              2-D and hundreds in 3-D domains, in both Newtonian fluids, governed by the
+              Navier-Strokes equations, and in several popular models of viscoelastic fluids.
+               Such simulations will be extremely computationally intensive.  It is therefor
+              imperative to develop the most efficient possible computational schemes, and to
+              implement them on parallel machines, using state-of-the-art parallel
+              algorithms. The project will develop two different computational schemes for
+              simulating solid-liquid flows on parallel computers.  The first is a
+              generalization of the standard Galerkin finite element method in which both the
+              fluid and particle equations of motion are incorporated into a single
+              variational equation, containing both fluid and particle velocities as
+              primitive unknowns. In the second approach, an embedding method, the fluid flow
+              is computed as if the space occupied by the particles were filled with fluid. 
+              The no-slip boundary condition of the particle boundaries is enforced as a
+              constraint using Lagrange multipliers.  This allows a fixed grid to be used, 
+              eliminating the need for remeshing, a definite advantage in parallel
+              implementations. The new schemes will be used to study the microstructural
+              (pair interaction) effects which produce clusters and anisotropic structures in
+              particulate flows, to produce statistical analyses of particulate flows (mean
+              values, fluctuation levels and spectral properties), to derive engineering
+              correlations of the kind usually obtained from expe riments, and to provide
+              clues and closure data for the development of two-phase flow models and a
+              standard against which to judge the performance of such models.  They will also
+              be used to solve practical problems of industrial interest such as
+              sedimentation, fluidization an slurry transport of solid particles in Newtonian
+              and viscoelastic fluids.

@@ -1,0 +1,49 @@
+Title       : Experiments in Building Distributed Applications Through Compositional
+               Programming
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : August 25,  1997    
+File        : a9707056
+
+Award Number: 9707056
+Award Instr.: Standard Grant                               
+Prgm Manager: Anthony B. Maddox                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $128452             (Estimated)
+Investigator: Jayadev Misra misra@cs.utexas.edu  (Principal Investigator current)
+              Calvin Lin  (Co-Principal Investigator current)
+              Lorenzo Alvisi  (Co-Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Past failures in building large-scale distributed applications in  areas such as
+              avionics and telephony are painful reminders of the  difficulty of developing
+              and debugging distributed programs. As  applications become more ambitious in
+              both scale and  functionality, these problems will only be compounded.    The
+              Seuss project is based on the premise that this complexity  can be managed by
+              adopting a simpler model of computation. The  Seuss programming model builds
+              distributed applications from  large sequential components which interact
+              through small but  complex interfaces. This project has the following goals:   
+              (1) to develop conceptual tools for reducing the complexity of  these
+              interfaces,  (2) to reuse sequential pieces of code written in standard 
+              languages,  (3) to achieve efficiency by executing the various components 
+              concurrently.    More specifically, the Seuss model of concurrent object
+              oriented  programming reduces the complexity of concurrency by allowing 
+              programmers to reason about distributed applications as if they  were
+              sequential programs. At the same time, Seuss allows programs  to be executed
+              with multiple threads of control. Finally, Seuss  provides a logic for proving
+              the equivalence of sequential Seuss  programs and their multi-threaded
+              executions. This project will  allow programmers to build qualitatively more
+              complex distributed  applications with the assurance that they are both
+              efficient and  correct.

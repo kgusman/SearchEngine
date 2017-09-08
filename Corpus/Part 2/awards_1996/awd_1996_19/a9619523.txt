@@ -1,0 +1,44 @@
+Title       : Applications and Efficient Execution of Constraint Logic Programming Over a
+               Real-Number Domain
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 5,  2000       
+File        : a9619523
+
+Award Number: 9619523
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $79324              (Estimated)
+Investigator: Jennifer J. Burg burg@cs.wfu.edu  (Principal Investigator current)
+Sponsor     : Wake Forest University
+	      300 South Hawthrone Road
+	      Winston-Salem, NC  27109    336/716-5000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9251,HPCC,
+Abstract    :
+              9619523  Constraint logic programming (CLP) is a family of  programming
+              languages built upon predicate calculus, with  the added expressiveness of
+              constraint-based problem  representations.  Each language in the family is 
+              distinguished by the domain of values for the program  variables. Prolog is the
+              best-known language in the family  and can be viewed as CLP in the domain of
+              infinite trees.  This research focuses on CLP over a real-number domain 
+              (CLP(R)). Implementations of CLP(R) generally restrict  constraints to linear
+              equations and inequalities, and the  resulting languages have proven expressive
+              enough for a  variety of scheduling, warehouse location, cutting stock, 
+              options trading, and crew rostering problems, as well as AI  puzzles. However,
+              CLP(R)'s usefulness is limited by the  large search space required for most
+              problems and by the  complexity of the constraint satisfaction algorithm.
+              Stated  more simply, it is not always possible to benefit from CLP's 
+              expressiveness, since many useful problems take too long to  solve. The goal of
+              this research is to identify CLP(R)  applications that would be feasible if
+              execution could be  sped up, and to find ways to cut down on execution time 
+              through a more efficient constraint satisfaction algorithm.  ***

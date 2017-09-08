@@ -1,0 +1,77 @@
+Title       : MATLAB Extensions and Compiler Techniques for High-Performance Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 25,  2001     
+File        : a9870687
+
+Award Number: 9870687
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1999    
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $395607             (Estimated)
+Investigator: David A. Padua padua@uiuc.edu  (Principal Investigator current)
+              Luiz A. De Rose  (Co-Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              MATLAB has become the most popular rapid prototyping language for
+scientific
+              computing. Highlevel mathematical languages like MATLAB
+dramatically simplify
+              program development. Unfortunately, this
+simplification often has come at the
+              expense of efficient implementation.
+Today, MATLAB programs are usually
+              interpreted on sequential machines.
+Thus, the performance of these programs
+              suffers in comparison with Fortran
+programs compiled on parallel
+              high-performance computers. The objective of
+this project is to develop and
+              evaluate language extensions, run-time
+libraries, and tools for compiling
+              MATLAB and similar interactive languages
+for efficient execution on classes of
+              target machines ranging from
+uniprocessor workstations to highly-parallel
+              distributed systems.
+
+The technical thrust of this project is to develop
+              restructuring compiler
+technology that will enable the translation of MATLAB
+              codes into sequential
+or parallel object code that is competitive with
+              handwritten code produced
+by skillful FORTRAN programmers. The work will build
+              on previous work by
+the investigators and will take advantage of existing
+              software modules from
+the Falcon system (developed at Illinois). The compiler
+              will accept
+parallel extensions and will be able to automatically translate
+              sequential
+MATLAB loops into parallel form. The compiler will transform the
+              code to
+enhance locality and generate efficient sparse code from
+              dense
+computations. This transformation is necessary because MATLAB codes
+              usually
+represent sparse computations in dense form. The investigators will
+              also
+consider incorporating some of the compiler modules into the
+              interpreter
+for just-in-time restructuring.
+
+
+

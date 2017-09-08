@@ -1,0 +1,50 @@
+Title       : Efficient Fine Grained Synchronization Support Using Full/Empty Tagged Shared
+               Memory and Cache Coherency
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  2001     
+File        : a0105516
+
+Award Number: 0105516
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $225000             (Estimated)
+Investigator: Csaba Andras Moritz andras@ecs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Synchronization insures correctness of parallel execution by enforcing true data
+              dependencies and timing constraints. In a parallel programming environment
+              based on the shared-memory programming model, synchronization is provided
+              either through explicit user-level coarse-grain synchronization primitives
+              (such as locks and barriers) or implicitly synchronized data structures such as
+              lock-able L-structures and write-once I-structures.
+
+In this project we
+              propose a new efficient way to support fine grained synchronization
+              mechanisms
+on multiprocessors. We propose to design a full/empty tagged memory
+              hierarchy with aggressive hardware support for fine grained synchronization
+              that is embedded in the cache coherency mechanism of an SMP or a NUMA
+              multiprocessor, or a single-chip multiprocessor. We propose to handle
+              synchronization faults in a similar way as cache misses in a lockup-free cache.
+               We believe that handling synchronization and coherence together can provide a
+              more efficient execution, reducing the occupancy in the memory controllers and
+              the network bandwidth consumed by protocol messages.  The performance benefits
+              are primarily the result of allowing a dataflow style of computation in
+              programming models, and maximizing the exposed parallelism by minimizing the
+              possibility of false dependencies caused by coarse grained synchronization.
+
+

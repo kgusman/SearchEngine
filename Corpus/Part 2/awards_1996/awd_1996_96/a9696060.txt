@@ -1,0 +1,57 @@
+Title       : SGER: Reformulation of System Theories in Robotics
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 19,  1997      
+File        : a9696060
+
+Award Number: 9696060
+Award Instr.: Standard Grant                               
+Prgm Manager: Jing Xiao                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1995    
+Expires     : March 31,  1998      (Estimated)
+Expected
+Total Amt.  : $49678              (Estimated)
+Investigator: David P. Benjamin benjamin@top.cis.syr.edu  (Principal Investigator current)
+Sponsor     : Syracuse University
+	      113 Bowne Hall
+	      Syracuse, NY  132441200    315/443-2807
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+                This award, in the SGER mode, explores how the formulation of a  system's
+              motion affects the efficiency of synthesizing a plan to  bring the system to a
+              desired state. In general, a system's motion  can be described in a variety of
+              ways whose computational  properties may differ. An especially important
+              computational  property is the decomposability of a theory of motion. A theory
+              is  decomposable if it is expressible as the composition of a set of 
+              subtheories. Decomposability is important because it implies that  global
+              properties of the system can be derived from local  properties, thereby
+              reducing the expense of computing these  properties. In particular, global
+              plans can be built from local  plans. Decomposition is usually performed by the
+              human designers of  the system, who have prior knowledge of the demands that
+              will be  placed on the system, and engineer a representation whose  properties
+              will aid the system in meeting these demands  efficiently. In robotics and
+              artificial intelligence, the goal of  designing truly autonomous problem
+              solving systems requires a  method for automatic decomposition. This research
+              is built upon a  new method for reformulating and decomposing theories of
+              motion.  Each representation of a theory is analyzed using the tools of 
+              semigroup theory. Each distinct representation corresponds to an  abstract
+              coordinate system, which then yields a matrix  representation that is used to
+              transform and decompose the  representation into its irreducible invariants.
+              Furthermore, this  decomposition is guaranteed to hold for all tasks in a class
+              of  tasks inductively defined from the given task, permitting reuse of  the
+              decomposition on all members of this class. The ultimate goal  of this research
+              is to build systems that can automatically design  and modify their
+              representations by deriving algorithms for  automatic reformulation of
+              representations to improve their use in  synthesis. Previous research in
+              robotics and AI has produced  powerful methods for searching task  spaces -
+              spaces whose states  are configurations of the task domain. If successful, this
+              research  should produce reformulation methods of sufficient power that the 
+              search of the space of representations will be as automated as the  search of
+              task spaces currently is.

@@ -1,0 +1,61 @@
+Title       : CAREER: Software Frameworks to Enable Parallel, Adaptive, Multiscale Simulation
+               of Turbulence
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 21,  2003   
+File        : a9985340
+
+Award Number: 9985340
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2000   
+Expires     : January 31,  2004    (Estimated)
+Expected
+Total Amt.  : $256432             (Estimated)
+Investigator: Kenneth E. Jansen jansen@rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              CAREER: Software Frameworks to Enable Parallel, Adaptive, Multiscale Simulation
+              of Turbulence
+
+Computational Fluid Dynamics (CFD) is the numerical simulation
+              of the behavior of fluids, such as the flow of air over a car body or airplane
+              wing or the flow of water past a ship. This is a classic problem in
+              computational science, with great implications for both science (understanding
+              the fluids) and industry (improving performance of land, air, and sea
+              vehicles). Important cases of CFD - particularly turbulence, where a broad
+              range of scales interact - are still unsolved problems. This project will
+              attack those problems using modern multiscale computational methods.
+
+The
+              goal of this project is the development of computational frameworks necessary
+              to efficiently simulate turbulent flows at different approximation and
+              resolution levels. It will integrate existing physics-based turbulence models
+              with modern multiscale methods, where subgrid-scale models are based on
+              mathematical analyses of the discrete methods used to solve the underlying
+              partial diffential equations. The project will develop a parallel and adaptive
+              computational environment that automatically combines mesh refinement and
+              coarsening with method-order variation to achieve high efficiency. The
+              resulting framework will also support dynamic load-balancing, new a  posteriori
+              error estimation procedures, and appropriate data structures for high
+              performance on a variety of modern computer architectures. Lessons learned from
+              this framework will provide insight into frameworks for other complex
+              phenomena. The framework will also enable rich educational rewards. Young
+              children are fascinated by interactive computer simulations of the world (e.g.
+              why do airplanes fly, or baseballs curve); the framework can be packaged to let
+              them play with these concepts, and eventually attract them into a career in
+              science and engineering. At the college level, the framework can be used to
+              explain fluid mechanics concepts to engineering students, let CS students
+              analyze communication behavior in a real application, and illustrate numerical
+              analysis to undergraduate and graduate students.
+

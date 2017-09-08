@@ -1,0 +1,43 @@
+Title       : Postdoc: Parallelism & Procatical Application of Automatic Differentiation
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 10,  1997     
+File        : a9704685
+
+Award Number: 9704685
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1997        
+Expires     : April 30,  1999      (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Thomas F. Coleman coleman@tc.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              The proposed research plan combines automatic differentiation (AD) and parallel
+              computing, targeted toward large-scale inverse problems in engineering.  AD is
+              concerned with the computation of exact derivatives, up to an arbitrary order. 
+              Recent AD software packages are just beginning to bring the practical benefits
+              of AD into the mainstream of computational science.  Nevertheless, despite
+              significant progress on the efficient computation of sparse Jacobiian and
+              Hessian matrices, the reverse mode of AD remains impractical for large-scale
+              problems involving dense derivative matrices, primarily due to excessive memory
+              demands.  Typically, inverse problems are in this category.  The research plan
+              is focused on the efficient automatic generation of gradients for inverse
+              problems in engineering in a parallel computing setting.  Reverse mode is in
+              principle optimally efficient for computing gradient vectors; however in
+              practice the memory requirements (and subsequent swapping, etc.) are
+              problematic.  The PI's will develop the AD methodology in the parallel
+              computing setting, where the available memory is much greater.  Moreover, they
+              will investigate the use of the technique known as recursive checkpointing to
+              greatly reduce memory requirements.

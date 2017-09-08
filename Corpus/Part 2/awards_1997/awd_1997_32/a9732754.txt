@@ -1,0 +1,47 @@
+Title       : Efficient Sharing of RSA Keys and Diffie-Hellman Bit Security
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1998      
+File        : a9732754
+
+Award Number: 9732754
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert Sloan                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $160144             (Estimated)
+Investigator: Dan Boneh dabo@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The research focuses on two topics in Applied Cryptography:  efficient
+              generation of shared RSA keys and the bit security of  the Diffie-Hellman
+              secret.    To protect a high security private key one may wish to share it 
+              among a few sites. If a small number of sites are compromised no  harm is done.
+              An obvious question is who generates the shared  key? Traditionally, a "trusted
+              dealer" generates an RSA key pair  and then splits the private key among the
+              sites.  This project  studies various protocols for enabling three or more
+              parties to  efficiently generate a shared RSA key WITHOUT a trusted dealer.  At
+              the end of the computation the participants have an RSA  modulus N=pq. They are
+              all convinced that N is the product of two  large distinct primes; however no
+              proper coalition knows the  factorization of N.  The protocols should be
+              appropriate for  small, low bandwidth devices such as smartcards or Personal 
+              Digital Assistants (PDA's).    The project's second topic is the bit security
+              of the Diffie-  Hellman secret.  The Diffie-Hellman protocol enables two
+              parties  to exchange a secret.  Although an adversary may not be able to 
+              compute the entire secret, she may be able to infer certain  information about
+              it.  The proposed research will provide bounds  on the amount of information an
+              adversary can infer.  To do so  one shows that if an adversary can recover
+              certain bits of the  Diffie-Hellman secret then she can also break the entire 
+              protocol.  The techniques needed for such reductions involve  lattices and the
+              LLL algorithm.

@@ -1,0 +1,58 @@
+Title       : Analysis of Uncertainty in Local and Telecollaborative Virtual Reality
+               Applications in Design and Manufacturing
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : August 30,  2000    
+File        : a9988136
+
+Award Number: 9988136
+Award Instr.: Standard Grant                               
+Prgm Manager: Delcie R. Durham                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $249181             (Estimated)
+Investigator: Pat Banerjee banerjee@uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 1464      ENGINEERING DESIGN
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9148,MANU,
+Abstract    :
+              This grant provides funding for a framework for estimating, in advance, the
+              probability of the user's ability to successfully execute an operation on an
+              object in a virtual reality environment (e.g. picking, placing, pressing,
+              holding, drive-through, fly-through), given the current positional and temporal
+              uncertainties based on design (controllable) and noise (uncontrollable) factors
+              in the environment.  The positional and temporal uncertainties are
+              characterized.  For positional uncertainty analysis a six-element pose vector 
+              (three for position and three for orientation along three cartesian coordinate
+              axes) is used, and for temporal uncertainty a six-element state vector (three
+              for position and three for  velocity) is used.  A 6x6 covariance matrix, which
+              is the expectation of the square of the difference between the pose or state
+              estimate and the true vector, is proposed to characterize the uncertainty.  A
+              useful interpretation of the covariance matrix can be obtained by assuming that
+              the errors are jointly Gaussian.  The research project is to iteratively
+              predict the covariance matrix and correct it by fusing new sensor measurements
+              as they arrive by minimizing the geometric volume of the ellipsoid of
+              uncertainty among all possible linear combinations of sensory
+              information.
+
+If successful, the results of this research will improve the
+              understanding of nominal object size threshold for virtual environments,
+              nominal user interaction speed threshold, and probability densities of virtual
+              analysis task outcomes, which can then be used to more accurately estimate the
+              cost projections.  A utility function for expressing user attitude in virtual
+              environment in light of the embedded uncertainties is possible based on the
+              results.  The uncertainty analysis will be able to address design factors such
+              as: object boundary  interpretation errors, real environment-virtual
+              environment mapping/registration errors, blind spots and occlusions, and low
+              frame rate errors and errors that occur because of  fast movement of user or
+              object.
+

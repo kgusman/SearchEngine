@@ -1,0 +1,48 @@
+Title       : A Novel Computational Approach to Combustion Modelling
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : June 25,  1999      
+File        : a9705150
+
+Award Number: 9705150
+Award Instr.: Continuing grant                             
+Prgm Manager: Farley Fisher                           
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  1997       
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $246000             (Estimated)
+Investigator: Samuel Paolucci paolucci@nd.edu  (Principal Investigator current)
+              Joseph M. Powers  (Co-Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 1407      COMBUSTION AND PLASMA SYSTEMS
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT-Paolucci  CTS-9705150        Unsteady, multi-dimensional combustion
+              processes are modeled using a newly   developed wavelet technique combined with
+              a technique to rationally reduce the   relevant differential equations to lower
+              dimensions.  The focus is on problems   in which there is full coupling between
+              fluid mechanics and chemical kinetics;   such problems are characterized by a
+              multiplicity of phenomena evolving over   widely disparate length and time
+              scales.  The first technique uses a multi-level   wavelet collocation
+              approximation.  The multilevel structure of  the algorithm   facilitates the
+              computational adaptation of the grid refinement according to the   temporal
+              evolution of the solution.  The rational reduction phase of the compu-  tation
+              applies intrinsic low-dimensional manifold (ILDM) theory; those   processes
+              occurring on time scales faster than a physically motivated cutoff time   scale
+              are allowed to relax to partial equilibrium while the remaining processes   are
+              subject to time evolution.  In brief, the wavelet decomposition reduces the  
+              total number of unknowns and the rational reduction then reduces the  
+              dimension of the manifold on which the system of differential equations is  
+              solved resulting in a more efficient numerical method.    This project
+              considers both general algorithmic development and application to   specific
+              combustion problems well characterized by experiment and/or   independent
+              theory.  This work introduces wavelet techniques into combustion   modelling
+              and also has applicability to other large-scale numerical simulations.

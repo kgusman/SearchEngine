@@ -1,0 +1,75 @@
+Title       : CAREER: Collaborative Memory
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 29,  2002     
+File        : a9876073
+
+Award Number: 9876073
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1999       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $125000             (Estimated)
+Investigator: Vincent W. Freeh vin@cse.nd.edu  (Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              CCR-9876073
+CAREER: Collaborative Memory
+PI: Vincent W. Freeh
+
+Latency to
+              memory is ever-increasing and has reached the point where
+conventional
+              computer architectures are hitting a performance "wall."
+Concurrently, several
+              emerging technologies combine processing and
+memory in a single device.  It is
+              expected that in the near future
+nearly all integrated circuits will have both
+              logic and memory, called
+"processing in memory."  This research creates
+              "collaborative memory"
+an active memory system that abstractly provides
+              processing in memory.
+It increases the end-to-end performance of applications
+              and exposes
+additional parallelism, and mitigates the effect of memory
+              latency.
+This research builds on the Modify-on-Access (MonA) file system,
+              an
+active file system that performs operation on behalf of an
+application,
+              which has been develop under the direction of the PI.
+The research extends the
+              MonA file system in two ways.  One way is
+closer to the microprocessor, in the
+              virtual memory system, through
+fine-grain collaborative memory operations
+              visible to an application.
+The other way is farther from the microprocessor,
+              in an intelligent
+peripheral device.  This offloads computation from the
+              main
+microprocessor to the peripheral microprocessor.  Together the
+              two
+extensions create a system that increases performance, exposes
+implicit
+              parallelism, and tolerates memory latency without new
+advances in compiler
+              technology or programming languages.
+
+
+
+
+

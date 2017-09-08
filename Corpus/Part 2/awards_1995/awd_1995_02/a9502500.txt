@@ -1,0 +1,132 @@
+Title       : CAREER: An Integrated Approach for Improving the Performance, Programmability,
+               and Portability of Shared Memory Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 22,  1995      
+File        : a9502500
+
+Award Number: 9502500
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1995      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $96991              (Estimated)
+Investigator: Sarita V. Adve   (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              While shared-memory multiprocessors simplify many  aspects of programming, it is
+              widely believed that naive shared-  momory  programs are not likely to result
+              in high performance on  most shared-memory  systems.  The broad objective is to
+              develop  and evaluate techniques for  improving the performance of shared- 
+              memory systems while simultaneously  enhancing programmability and 
+              portability.    A key problem that inhibited  performance in shared-memory
+              systems  is that, unlike message passing programs,  the exact communication 
+              requirements of shared-memory programs are not obvious.  Therefore, compilers,
+              runtime systems, and hardware typically  need to make  conservative
+              assumptions, resulting in excessive  communication and  synchronization
+              primitives provided on a  particular machine (e.g., locks and  barriers), the
+              intended  sharing behavior is obscured by these details.  Furthermore, the 
+              low-level primitives that must be used to obtain good  performance  vary from
+              platform to platform, thus inhibiting program  portability.    This research
+              takes an integrated approach to improving the  performance, and portability of
+              systems.  The approach broadly  is:  (1) to  identify common
+              implementation-independent  communication patterns along with  primitive to
+              express those  patterns in a programming language, (2) to develop  heuristics 
+              that can be used by the compiler, runtime systems, hardware or  some 
+              combination thereof to map these high-level primitives to  the appropriate 
+              low-level primitives supported by the particular  target system, and (3) to 
+              evaluate the resulting performance  benefits on the system.  By exposing the 
+              intended sharing  behavior, many instances of unnecessary communication should 
+              be  avoided, thus achieving higher performance.  Furthermore, despite  the 
+              larger variety of synchronization patterns that a programmer  must choose from 
+              his or her task is simplified because details of  implementing the patterns are
+               left to the programming support  system (note tha t the sharing patterns 
+              themselves must be  understood by the programmer anyway).  Finally, in 
+              combination  with other projects within the overall research program, this 
+              research should demonstrate that these common, high-level  synchronization 
+              patterns can be efficiently supported on a  variety of platforms, thus
+              enhancing  the portability of the  program.    This part of the research
+              program is focused  on investigating a  specific kind of target system - a
+              hardware distributed  shared-  memory multiprocessor that provides software
+              control for  protocols and  efficient active message support (e.g., Stanford 
+              Flash and Wisconsin Typhoon)-  using execution-driven simulation.  Other 
+              projects in this research program are  already exploring  similar issues on
+              other types of target systems.  Education:  The educational objectives fall
+              within three broad  areas:  curriculm development, teaching methods, and
+              education  outside the classroom.  The objectives of the curriculm  development
+              part are (1) to introduce a course  in parallel  computing involving
+              computational scientists and engineers along  with computer scientists (both in
+              terms of students attending and  faculty  teaching the course), (2)  to
+              introduce hands-on parallel  programming  experience as part of currently
+              existing  undergraduate computer architecture  course, (3) to impart a sound 
+              education on performance analysis techniques, and  (4) to impart a  research
+              experience  to undergraduates by having a modest  research project as part of
+              the senior level architecture course  and by  actively recruiting
+              undergraduates in the proposed  research program through the  Rice senior
+              honor's thesis program.    The teaching methods part of the  education plan
+              address growth as  an effective teacher by exposure to research  in teaching
+              methods.  The final part seeks to (1) encourage women and other  under- 
+              represented groups to pursue computer science by actively  interacting  with
+              such groups informally and through formal  workshops, and (2) encourage an  ex
+              change between industry and  academia through tutorials and short courses.     
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                  

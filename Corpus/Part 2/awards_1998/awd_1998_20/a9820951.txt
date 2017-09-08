@@ -1,0 +1,93 @@
+Title       : A Proposal for Research on Markov Chains, Approximate Counting and Finite Metric
+               Spaces
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 9,  2001       
+File        : a9820951
+
+Award Number: 9820951
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $347096             (Estimated)
+Investigator: Alistair Sinclair sinclair@cs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              A Proposal for Research on Markov Chains, Approximate Counting and Finite Metric
+              Spaces
+
+                                                                   
+              Alistair Sinclair
+                                                   
+              University of California, Berkeley
+
+This project contains three loosely
+              related themes: computational applications of Markov chains, approximate
+              counting, and algorithmic apects of finite metric spaces.
+
+During the past
+              decade, the so-called "Markov chain Monte Carlo method" has emerged as a
+              powerful algorithmic paradigm, with applications in such areas as approximate
+              counting, statistical physics and combinatorial optimization.  The PI is
+              pushing ahead with these applications, in the following three
+              directions:
+
+Development of new techniques based on multicommodity flow to
+              analyze geometric Markov chains (where the state space is the set of integer
+              points inside a convex body).
+
+Investigation of techniques such as Chebyshev
+              acceleration, which can potentially modify a Markov chain so as to
+              substantially speed up its convergence.
+
+Improved understanding of newly
+              emerging connections between the rapid mixing property of certain Markov chains
+              on the configurations of physical systems and the thermodynamic properties of
+              those systems.
+
+In parallel with recent activity aimed at classifying NP-hard
+              optimization problems according to their degree of approximability, the PI is
+              contributing to a similar classification of #P-hard counting problems. 
+              Specific aims here include:
+
+Investigation of novel algorithms for the
+              central problem of approximating the permanent. 
+
+Development of
+              approximation-preserving reductions between counting problems so that, for
+              example, a class of problems that are equivalent to the permanent can be
+              constructed.
+
+Finite metric spaces provide a clean and elegant paradigm that
+              captures (and often streamlines) several previously ad hoc algorithmic ideas. 
+              The third part of the project involves a systematic study of finite metrics,
+              and specifically:
+
+The design of new techniques for l1 embedding, both in the
+              general case (to achieve a distortion within o(log n) of optimal) and for
+              special metrics (such as those supported on planar graphs).  This has
+              algorithmic applications to, among others, the central problem of approximating
+              the sparsest cut in a network.
+
+
+Development of improved techniques for
+              embeddings into low-dimensional spaces. These have applications to algorithms
+              for ubiquitous problems such as nearest-neighbor searching and
+              clustering.
+
+Approximation of complex metrics by simpler ones.  This would
+              allow existing algorithms that work well for simple metrics (such as trees) to
+              be applied more widely.
+

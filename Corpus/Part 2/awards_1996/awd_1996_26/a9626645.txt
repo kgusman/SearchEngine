@@ -1,0 +1,79 @@
+Title       : Mathematical Sciences: Immersed Interface Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 20,  1996    
+File        : a9626645
+
+Award Number: 9626645
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Randall J. LeVeque rjl@amath.washington.edu  (Principal Investigator current)
+              Loyce M. Adams  (Co-Principal Investigator current)
+              Kenneth Bube  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              LeVeque  9626645  The investigator and his colleagues develop immersed interface
+               methods and apply them to a variety of problems.  Immersed  interface methods
+              are a class of methods for solving partial  differential equations whose
+              solutions have discontinuities or  nonsmoothness across some interface(s).  The
+              idea is to use a  uniform Cartesian grid in spite of the fact that the
+              interface  may cut between grid points.  The goal of this work is to develop 
+              finite difference methods in two and three space dimensions that  give highly
+              accurate solutions at all grid points while  maintaining the efficiency and
+              ease of implementation of uniform  grid methods.  Pointwise second order
+              accurate methods have  already been developed for several classes of problems,
+              including  certain elliptic, parabolic, and hyperbolic equations with 
+              discontinuous coefficients across fixed interfaces.  Stokes flow  and
+              solidification problems with moving interfaces have also been  solved. 
+              Extensions to a number of other problems are currently  underway.  Many
+              important practical problems lead to differential equations  in regions of 2-
+              or 3-dimensional space that are geometrically  complicated, and that contain
+              interfaces across which the nature  of the solution changes.  These equations
+              can rarely be solved  exactly, and large-scale computation is required to
+              obtain  well-resolved solutions over multi-dimensional regions.  The goal  of
+              this work is to develop efficient computational methods to  approximate
+              solutions of such problems.  Several specific  problems are studied in depth: 
+              (1) One goal is to develop  improved methods for incompressible fluid dynamics
+              in regions  with complicated moving elastic boundaries, based on a method of 
+              Peskin's that is widely used in biophysical and physiological  modelling, e.g.,
+              of the heart, blood vesssels, the inner ear,  etc.  (2) Wave equations in
+              heterogeneous materials arise in  numerous applications, including ultrasound
+              imaging and therapy,  ocean acoustics, and seismic p ropagation in the earth. 
+              The  "forward problem" consists of solving the equations forward in  time given
+              the material properties and locations of interfaces.   The harder "inverse
+              problem" requires determining the material  properties and locations of
+              interfaces from measurements made at  the surface.  Ultrasound imaging requires
+              solving the inverse  problem for acoustics equations.  Seismic exploration of
+              the  earth, heavily used in the search for oil, for example, requires  solving
+              inverse problems for elastic wave equations or for  simplified travel-time
+              equations.  The methods developed in this  work are applied to both forward and
+              inverse problems.  (3) In  electrical impedance tomography, an inverse problem
+              is solved for  the electrical conductivity of an object.  This technique is
+              used  in medical imaging and is being studied for the purpose of  locating
+              unexploded land mines, a major health risk in many  countries today.  Inverse
+              problems of this type are being studied  in this work.  (4) Porous media
+              equations arising in oil  reservoir simulation and groundwater transport
+              requiremodeling  discontinuities in permeability and porosity at geological 
+              interfaces, as well as moving front representing interfaces  between oil and
+              water, for example.  Accurate modeling of  groundwater flow is important in
+              studying contamination by toxic  wastes and remediation of contaminated sites. 
+              (5) Multi-phase  solidification problems involve moving interfaces between the
+              two  phases (e.g. ice and water) and may be coupled with fluid  dynamics
+              effects as well as heat transfer.  Practical  applications include studying the
+              effect of ocean currents on ice  shelves, injection molding in manufacturing
+              processes, and  chemical etching.

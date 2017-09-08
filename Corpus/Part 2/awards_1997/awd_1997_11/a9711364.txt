@@ -1,0 +1,49 @@
+Title       : Active Harmony: Dynamic Resource Management in the Large
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 23,  1999      
+File        : a9711364
+
+Award Number: 9711364
+Award Instr.: Continuing grant                             
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $199999             (Estimated)
+Investigator: Jeffrey Hollingsworth hollings@cs.umd.edu  (Principal Investigator current)
+              Peter J. Keleher  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The PIs plan to develop Active Harmony, a software architecture that supports
+              distributed execution of computational objects heterogeneous environments. 
+              Principal features include: Dynamic execution environment: Active Harmony will
+              attempt to maximize data affinity and load balancing through intelligent
+              resource allocation and object migration.  Harmony will support an extensible
+              metric interface to permit the sharing of resource capacity and utilization
+              information among components in a distributed system.  Automatic application
+              adaptation:  Active Harmony will export a detailed metric interface to
+              applications, allowing them to access processor, network and operating system
+              parameters.  Applications export tuning options to the system, which can then
+              automatically optimize resource allocation.  Measurement and tuning can
+              therefore become first class objects in the programming model.  Programmers can
+              write applications that include ways to adapt computation to observed
+              performance and changing conditions.  Shared-data interfaces:  Active Harmony
+              will support shared-memory semantics among computational objects regardless of
+              location, allowing both peer-to peer and client-server computations to exploit
+              the simplified programming model and fine-grained sharing permitted by
+              traditional shared-memory environments.  The unique aspect of the Active
+              Harmony work is the emphasis on adapting to heterogeneous and changing
+              environments and on inter-relationships between objects in the system. The
+              primary result of this research will be an infrastructure and a set of
+              algorithms that permit global resource optimization under changing conditions.

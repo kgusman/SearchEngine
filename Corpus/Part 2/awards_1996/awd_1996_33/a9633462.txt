@@ -1,0 +1,44 @@
+Title       : Foundations for Reasoning About Implicit Invocation Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 8,  1996     
+File        : a9633462
+
+Award Number: 9633462
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1996     
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: David S. Notkin notkin@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              A critical issue for large-scale systems design and  evolution is the choice of
+              an architectural style that  permits the integration of separately-developed
+              components  into larger systems. Familiar styles include those based on  remote
+              procedure call, shared variables, asynchronous  message passing, etc.  One
+              increasingly important  architectural style for system composition is implicit 
+              invocation (II).  However, there is no established basis for  reasoning about
+              II systems. In particular it is difficult to  answer questions like: What will
+              be the effect of announcing  a given event? Have enough event bindings been
+              declared?  Does a given component announce the sufficient events to  permit
+              effective integration? If I add a new component to an  existing system, will it
+              break the existing system?  The  goal of this project is to provide such a
+              basis for  reasoning about systems designed using the II architectural  style. 
+              Two central benefits are expected.  The first  benefit is a step towards being
+              able to reason fully about  systems constructed in this style. The second and
+              probably  more important benefit is to replace current ad hoc  reasoning
+              approaches used by practitioners who use the II  style with a collection of
+              sound ideas that allow better  informal reasoning about such systems.  ***

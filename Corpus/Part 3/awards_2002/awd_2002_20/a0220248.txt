@@ -1,0 +1,66 @@
+Title       : ITR: Application Partitioning Without Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2002    
+File        : a0220248
+
+Award Number: 0220248
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $299634             (Estimated)
+Investigator: Ioannis Smaragdakis yannis@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,9215,HPCC,
+Abstract    :
+                  Application partitioning is the task of breaking up the
+    functionality
+              of an application into distinct entities that can
+    operate independently,
+              usually in a distributed setting. As
+    networking changes the computing
+              landscape, application
+    partitioning is becoming an increasingly common
+              form of distributed
+    programming. This project examines the possibility of
+              automating the
+    partitioning of a software application. Instead of hand
+              re-coding,
+    higher-level tools allow the user to express how the
+              application is
+    to be partitioned. The tools can then rewrite the
+              existing
+    application code to replace local data exchange (e.g. function
+ 
+                calls, data sharing through pointers) with remote communication
+    (e.g.
+              remote function calls, remote pointers or mobile objects).
+    The tools are
+              based on a novel static analysis and translation
+    algorithm. The potential
+              impact of this work is in significantly
+    simplifying distributed program
+              construction, a prime
+    intellectual and practical challenge of computer
+              science.
+    Automatic partitioning can revolutionize the way a large class
+              of
+    distributed programs is developed. Additionally, the proposed
+   
+              tools have a high educational value: they can be used for
+    illustrating
+              crucial concepts in both programming languages and
+    distributed systems,
+              while minimizing distractions due to low-level
+    complexity.

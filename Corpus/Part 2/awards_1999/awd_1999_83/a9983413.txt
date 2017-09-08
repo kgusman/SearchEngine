@@ -1,0 +1,64 @@
+Title       : SBIR Phase II: MPI-2: A Systematic Study, Design, and Commercialization of the
+               Extended Message Passing Interface for NOWs and Parallel Computers
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : July 10,  2002      
+File        : a9983413
+
+Award Number: 9983413
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan E. Figueroa                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 15,  2000      
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Rossen Dimitrov rossen@mpi-softtech.com  (Principal Investigator current)
+Sponsor     : MPI Software Technology
+	      101 So. Lafayette Street, Ste 33
+	      Starkville, MS  397599741    662/320-4300
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 9150,9216,HPCC,
+Abstract    :
+              This Small Business Innovation Research Phase II project builds on MPI Software
+              Technology, Inc.'s (MSTI's) extensive MPI-1 implementation experience with our
+              MPI-2 design developed in Phase I in order to continue research and advanced
+              prototyping of a quality implementation of the MPI-2 standard for clusters of
+              workstations . In Phase II, we build upon prototypes created in Phase I, while
+              continuing our investigations into scalable dynamic process startup, advanced
+              and poly-algorithmic approaches to one-sided communications, collective
+              operations, and parallel I/O.  Our research and development outcomes will
+              enable the high-performance computing community to unlock the potential of the
+              latest workstation and networking technology, providing access to architectural
+              enhancements of systems and software, and more complex computational
+              environments. Rationale for undertaking this effort is that the scientific
+              community needs enhancements to its most important parallel processing
+              environment, MPI, and that workstation cluster targets comprise the fastest
+              growing component of parallel processing environments. Inventing MPI-2
+              capability for HPC represents widely enabling technology for scientists and
+              engineers to produce new science, while incorporating computer-science
+              challenges of its own, both of a research and advanced development nature. 
+              Significant software, protocol, and algorithmic challenges must be tackled in
+              order to create a useful MPI-2 environment.
+
+MPI-2's dynamic process
+              management would support several classes of new scientific applications, and
+              computation strategies.  These include computational servers, growing/shrinking
+              parallel applications, and multi-disciplinary codes. Support for the one-sided
+              model would enable classes of applications that need fine grain communication
+              support, including certain sparse matrix algorithms, as well as quantum
+              chemistry codes that utilize global array-type algorithms (e.g., Focker-Planck
+              computations) . Support for effective intercommunicator collective operations
+              would simplify and enable applications that work with dataflow models,
+              including composite parallel simulation and visualization techniques.  Support
+              for MPI-2's I/O techniques would support myriad out-of-core and database-type
+              applications, including growing interest in financial modeling with MPI, but
+              also the traditional scientific problems in areas of climate and weather
+              modeling, and others with large, out-of-core datasets needed in conjunction
+              with parallel computing.
+

@@ -1,0 +1,63 @@
+Title       : Approximate Polynomial System Solving and Generic Groebner Bases
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 11,  1997    
+File        : a9712219
+
+Award Number: 9712219
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $75830              (Estimated)
+Investigator: Lakshman Yagati lakshman@mcs.drexel.edu  (Principal Investigator current)
+Sponsor     : Drexel University
+	      32 and Chestnut Street
+	      Philadelphia, PA  19104    215/895-2000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Symbolic computation is exact -- the result of a computation  is guaranteed
+              correct. This comes at a cost -- the computations  are sometimes very slow
+              and/or memory intensive; at times, the  correct results of a computation are
+              too huge to be of use.  Numerical computation, on the other hand, is faster,
+              and, on well  conditioned input problem instances, one can expect correct 
+              solutions in the sense of backward error analysis. The numerical  approach has
+              been very successful in solving a wide spectrum of  computational problems in
+              science and engineering. However, there  are situations where this approach is
+              not completely  satisfactory. In several applications of polynomial system 
+              solving arising in areas such as geometric modeling and  kinematics, one needs
+              the exact answer to a given problem  instance and not to a near-by instance. 
+              On the flip side, in  many application problems, the input polynomial system is
+              not  known exactly but to within small error bounds. This changes the  nature
+              of questions that can be asked of a solver.  For instance,  a question such as
+              ``does a given system of polynomial equations  have a root of multiplicity r?''
+              changes to ``is the given system  of polynomial equations near a system that
+              has a root of  multiplicity r?'' with respect to some appropriate measure of 
+              nearness. Existing symbolic/numeric algorithms are not equipped  to handle such
+              questions well. Some of the issues that need to be  addressed in this framework
+              are: characterization of the  solutions to a system of polynomial
+              equations/inequalities in the  presence of small input errors; design of
+              efficient algorithms  for solving polynomial systems that work in limited (or
+              adaptive)  precision; understanding the factors that affect the stability of 
+              these algorithms; investigation of ways to arrange the sometimes  independent 
+              symbolic phase and numerical phase in polynomial  system solving to take
+              maximum advantage of the strengths of each  other.    This project investigates
+              some specific instance s of polynomial  system solving in the above framework
+              with particular focus on  approximate polynomial greatest common divisors and
+              several  special families of systems of polynomials. A new parametric 
+              minimization technique is being studied and applied to the  approximate GCD
+              problem and  several of its variants.  The  concept of generic Groebner bases
+              is introduced and in  combination with eigenvalue computations, their
+              effectiveness in  the approximate solving of certain special families of
+              polynomial  systems is being investigated. The investigation of generic 
+              Groebner bases throws fresh light on some well-known unresolved  issues in
+              Groebner base theory. The new techniques will be  applied to polynomial systems
+              arising in geometric modeling and  kinematics.

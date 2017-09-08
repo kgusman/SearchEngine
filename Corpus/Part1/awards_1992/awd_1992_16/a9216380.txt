@@ -1,0 +1,79 @@
+Title       : Adaptive Rectification of Data from Nonlinear Dynamic Processes via Recursive
+               Neural Networks
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : December 7,  1993   
+File        : a9216380
+
+Award Number: 9216380
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 15,  1992   
+Expires     : March 31,  1995      (Estimated)
+Expected
+Total Amt.  : $153764             (Estimated)
+Investigator: David M. Himmelblau himmelblau@che.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+              53        Engineering-Chemical                    
+Program Ref : 9148,MANU,
+Abstract    :
+                                                                                             
+              A problem in many areas of science and engineering is that of                  
+              data rectification.  For example, in a plant a wide variety of                 
+              measurements are made of the process variables for purposes                    
+              such as cost accounting, process control, statistical quality                  
+              control, and performance evaluation.  Not all of the possible                  
+              variables are measured, some of the measurements are defective                 
+              in the sense that gross errors creep into the measurements                     
+              because of instrument degradation (or human error), noise                      
+              exists, and unmeasured disturbances enter the processes.  The                  
+              objective of data rectification is to provide the best                         
+              estimates of the process variables that satisfy the process                    
+              model assuming the process model is an accurate one - which                    
+              may or not be the case.  If flawed information is used for                     
+              process control or cost accounting, process performance can be                 
+              degraded, perhaps substantially.  Data rectification involves                  
+              not only reduction of noise but removing of other types of                     
+              contaminants in the data, particularly gross errors.                           
+                                                                                             
+              A problem with some existing techniques for data rectification                 
+              in dynamic processes is their inability to detect gross                        
+              errors.  Often a process model of a complex nonlinear process                  
+              may be inadequate to represent the dynamics of a process.                      
+              Model mismatch prevents correct detection of disturbances and                  
+              outliers, and rectified variables that satisfy an erroneous                    
+              model will include systematic errors.  The use of artificial                   
+              neural networks (ANN) for data rectification can ameliorate                    
+              this problem because the mapping they accomplish can easily be                 
+              of higher quality than that yielded by models based on                         
+              physical principles or regression analysis.  At the same time,                 
+              an ANN could serve as a filter to damp out random noise and                    
+              gross errors.                                                                  
+                                                                                             
+              This research involves the investigation of the possible uses                  
+              of recursive ANN to implicitly model dynamic chemical process                  
+              equipment with the goal of data rectification.  The PI plans                   
+              to generate deterministic simulations of simple and complex                    
+              nonlinear dynamic processes (so that the true values of the                    
+              process variables are known), and to these values add various                  
+              kinds of random noise and gross errors to generate simulated                   
+              measurements akin to real process data.  Scaled simulated data                 
+              will become input to various kinds of recursive ANN, and the                   
+              outputs of the nets will be the rectified values of the                        
+              variables.  The effect of:                                                     
+               (1) the magnitude and frequency of the gross errors,                          
+               (2) the degree of auto and cross correlation in the noise,                    
+               (3) model mismatch between the net and the true model,                        
+               (4) missing measurements,                                                     
+               (5) the sampling rate and delay in the measurements, and                      
+               (6) the appropriate types of recursive nets                                   
+              will be evaluated.***//

@@ -1,0 +1,64 @@
+Title       : A Practical Approach to Nonlinear Robust Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : January 8,  2002    
+File        : a9732917
+
+Award Number: 9732917
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $155212             (Estimated)
+Investigator: Randal W. Beard beard@ee.byu.edu  (Principal Investigator current)
+Sponsor     : Brigham Young University
+	      D 341 Asb
+	      Provo, UT  846021043    801/378-6177
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              9732917
+Beard
+Linear H-infinity  control is a technique for designing control
+              laws that are robust with respect to bounded variations in system parameters
+              and bounded external disturbances.  In recent years, linear H-infinity
+              techniques have been extended to nonlinear system.  The nonlinear H-infinity
+              control problem is solved by two first order nonlinear partial differential
+              equations called Hamilton-Jacobi-Isaacs equations.  These equations are
+              extremely difficult to solve except in very special cases and they are
+              difficult to approximate by standard techniques except for low order systems. 
+              The inability to solve these equations has lead to a failure to realize the
+              potential of nonlinear H-infinity control techniques.
+This proposal outlines a
+              plan to investigate innovative and computationally practical techniques for
+              approximating closed-loop nonlinear H-infinity optimal control laws.  The
+              approach is to approximate the Hamilton-Jacobi-Isaacs equation in a two step
+              procedure.  First, an iteration in policy space is used to reduce the nonlinear
+              partial differential equation to an infinite sequence of linear partial
+              differential equations.  The second step uses the Galerkin spectral method to
+              approximate each linear partial differential equation.  The result of this
+              process is a feedback control law, with a well defined region of attraction,
+              that converges to the nonlinear H-infinity solution as the order of
+              approximation increases.  The two step process outlined above suffers from
+              Bellman's "curse of dimensionality," i.e., the required computations and memory
+              increase exponentially with the order of the system.  This "curse of
+              dimensionality" is overcome by exploiting the structure in the problem for a
+              fairly general class of nonlinear systems.
+The proposed research will advance
+              the state of the art by supplying a practical method for approximating
+              nonlinear H-infinity control laws.  This result will be helpful to researchers
+              working in the area, allowing them to test their ideas on real world problems,
+              and to practicing engineers who wish to implement the latest developments in
+              control theory research.  The proposed research also advances the state of
+              knowledge by illustrating how to mitigate the "curse of dimensionality" by
+              exploiting the structure of optimal control for a certain class of nonlinear
+              systems.  
+***  
+

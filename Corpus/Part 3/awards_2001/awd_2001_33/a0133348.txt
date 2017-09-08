@@ -1,0 +1,135 @@
+Title       : CAREER: Designing Embedded Systems with Domain-Specific Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  2003   
+File        : a0133348
+
+Award Number: 0133348
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2002    
+Expires     : December 31,  2006   (Estimated)
+Expected
+Total Amt.  : $292873             (Estimated)
+Investigator: Stephen A. Edwards sedwards@cs.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Designing Embedded Systems with Domain-Specific Languages
+Stephen A.
+              Edwards
+
+This goal of this project is to provide tools to designers of
+              embedded
+systems that will allow them to more quickly create correct
+              systems.
+It proposes to do this by providing domain-specific languages
+              and
+compilers.  Such succinct, abstract languages reduce development
+              and
+testing time by providing more formal,
+              correct-by-construction
+methodologies and by enabling automatic implementation
+              techniques.
+The result will enable the development of these systems to
+              proceed
+beyond the current ad hoc C-and-assembly approach.
+
+The project
+              addresses three issues in the design of many embedded
+systems: real-time
+              software, software for communication, and software
+for communicating across
+              the hardware/software boundary.
+These issues are addressed through the
+              following specific investigations:
+
+New Compilation Techniques for
+              Synchronous Languages
+
+Synchronous languages such as Esterel provide very
+              predictable
+real-time behavior but are challenging to compile.  This
+              project
+includes developing new, more efficient compilation techniques
+              for
+large systems described in the Esterel language and its variants.  
+
+New
+              Languages and Compilers for Communication Protocols
+
+Network communication is
+              becoming a crucial part of every embedded
+system, but the growing complexity
+              of the protocols and the need for
+bandwidth (e.g., for video) makes this
+              software difficult to develop.
+This project includes the development of a new
+              language for
+describing such protocol software and a compiler for
+              producing
+efficient implementations.
+
+New Languages and Compilers for Device
+              Drivers
+
+Writing software that communicates directly with hardware is
+              currently
+tedious and error-prone, and unfortunately even more important
+              in
+embedded systems since they tend to have application-specific
+peripherals.
+               This project aims to simplify this task by creating a
+language and compiler
+              for writing device drivers.  The results of this 
+research will enable more
+              diverse languages for  communicating across 
+the hardware/software
+              boundary.
+
+This project is also addressing the recurring complaint that
+              academia
+does not produce students who understand both hardware and
+              software
+well enough to be effective embedded systems designers by
+              developing
+new courses along these lines.  At the undergraduate level, a
+              new
+embedded systems project course is being developed that will
+              give
+students the opportunity to learn about and use some of these
+              new
+techniques.  At the graduate level, a more sophisticated course is
+being
+              developed that focuses on languages for describing embedded
+systems and isses
+              with their semantics and implementation.  This will
+give future designers more
+              tools for developing embedded systems and
+will prepare students for research
+              in automating embedded system
+design.
+
+The results of this project are being
+              disseminated in three ways:
+through conference and journal papers, through the
+              release of all
+developed software to the public domain, and through the
+              education of
+students in the use of the languages and compilers developed. 
+              Just as
+computer-aided design tools have enabled the rapid, correct design
+              of
+fantastically complex integrated circuits, this work is enabling
+              the
+quick, correct design of tomorrow's complex embedded systems.
+

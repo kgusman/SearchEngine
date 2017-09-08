@@ -1,0 +1,60 @@
+Title       : SGER: Stochastic Algorithms for Visual Search and Recognition
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : January 21,  2003   
+File        : a0240148
+
+Award Number: 0240148
+Award Instr.: Standard Grant                               
+Prgm Manager: Junku Yuh                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2003   
+Expires     : January 31,  2004    (Estimated)
+Expected
+Total Amt.  : $99987              (Estimated)
+Investigator: Alan L. Yuille yuille@stat.ucla.edu  (Principal Investigator current)
+              Song-Chun Zhu  (Co-Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              SGER Proposal 0240148
+DDMCMC Algorithms for Rapid Search and Detection
+PI:
+              A.L. Yuille
+University of California, LA
+
+
+The proposed study is to design
+              and implement a rapid visual search algorithm called DDMCMC, which uses
+              data-driven feedforward visual cues to drive a Monte Carlo algorithm. This
+              approach combines the speed of feedforward algorithms with the high quality
+              performance of top-down model instantiation algorithms. DDMCMC was developed
+              for the image segmentation problem by the Co-PI and was demonstrated to give
+              fast and very accurate segmentation results on large datasets (with
+              groundtruth). DDMCMC is generalized to the search and detection task by using
+              techniques such as AdaBoost learning to determine effective feedforward
+              algorithms to drive the MCMC algorithm. 
+
+The broader impact is to develop
+              computer vision algorithms to help the blind and visually impaired (though we
+              will also use this grant to train graduate students). To achieve this, a pilot
+              study of the DDMCMC algorithm will be developed for the specific task of
+              searching for, and then reading, informational signs (the results can be
+              communicated to a visually impaired user by a speech synthesizer). This study
+              will be aided by researchers at the Smith-Kettlewell Eye Research Institute
+              (SKERI) who include two blind engineers. The proposed algorithms will be
+              designed and tested on image datasets taken by blind volunteers using head or
+              body mounted cameras (to ensure the realism of our approach).  Researchers at
+              SKERI will also give feedback on the practicality of the approach and how it
+              compares with alternative technologies for this task (none of which use
+              computer vision). Computer vision has enormous potential to help the visually
+              disabled provided fast and effective algorithms are developed.
+

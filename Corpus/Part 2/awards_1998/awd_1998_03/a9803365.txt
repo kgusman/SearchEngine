@@ -1,0 +1,52 @@
+Title       : Discrete Models for High-Level Image Analysis
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 17,  1998      
+File        : a9803365
+
+Award Number: 9803365
+Award Instr.: Standard Grant                               
+Prgm Manager: James L. Rosenberger                    
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $59169              (Estimated)
+Investigator: Valen Johnson   (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              9803365
+Valen E. Johnson
+
+This project develops statistical models for
+              automatic image analysis.  The image models developed are defined by
+              arbitrarily placing a large number of points, called facets, in a template
+              image.  The facet points are organized hierarchically, and are arranged either
+              on grids of increasing resolution or determined using more sophisticated
+              criteria, e.g., they may be located at local extrema in the scale-space of the
+              image.  Object shapes are established by connecting facets in a tree-like
+              structure, and then using the shape of the tree in the image template to model
+              expected shapes of facet trees in observed images from the class.  Typically,
+              thirty to forty thousand facets are positioned within a two-dimensional image
+              template, whereas one-quarter to one-half million facets are placed within
+              three-dimensional image sets (e.g., magnetic resonance images or positron
+              emission tomography images).
+
+Models generated under this proposal facilitate
+              computationally efficient high-level analysis of generic images.  These models
+              are applicable to a wide range of image modalities, and require only that a
+              template image or prototype image be available for the group of images under
+              investigation.  Given an image template for the class, derived models can be
+              applied with little or no operator intervention to obtain automatic
+              segmentation, object identification, and volumetric analysis for available
+              image data.
+

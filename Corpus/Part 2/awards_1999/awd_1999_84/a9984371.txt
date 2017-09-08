@@ -1,0 +1,77 @@
+Title       : CAREER: Slice-Processing: Highly-Accurate Prediction for Future High-Performance
+               Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2000      
+File        : a9984371
+
+Award Number: 9984371
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $229933             (Estimated)
+Investigator: Andreas I. Moshovos moshovos@ece.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,9215,HPCC,
+Abstract    :
+              DATE: April 19, 2000
+PROPOSAL NUMBER: C-CR 9984371
+INSTITUTION: Northwestern
+              University
+PI: Andreas Moshovos
+TITLE: CAREER: Slice-Processing:
+              Highly-Accurate Prediction for Future High-Performance
+              Processors
+ABSTRACT
+Prediction-driven speculative techniques are used in
+              virtually all modern, high-
+performance processors. Such techniques offer a
+              promising direction for further
+boosting performance. However, the benefits so
+              obtained are only as good as the
+underlying prediction-based methods are at
+              guessing what the program needs.
+This project investigates slice-prediction, a
+              paradigm that aims at providing
+highly accurate prediction beyond what is
+              possible with the existing methods.
+Existing methods are primarily
+              outcome-based since they rely on repeating
+patterns in a program's outcome
+              stream (e.g., addresses or branch directions).
+However, such patterns do not
+              always exist. More importantly, as current
+outcome-based methods are
+              perfected, irregular patterns increasingly dominate
+performance.
+              Slice-prediction attacks such cases by predicting the computation-
+slice that
+              produces such irregular yet performance-critical outcomes. Predicted
+slices
+              are then treated as miniature, autonomous programs, which can
+              precompute
+performance critical outcomes. The intuition is that while the
+              outcome of a
+program can be irregular the method used is typically relatively
+              simple and
+fairly stable.
+This project focuses on architecturally invisible,
+              hardware implementations of
+slice-prediction, and targets the following
+              applications: (1) Branch Prediction
+and (2) Data Prefetching. Performance
+              achieved by slice-prediction is evaluated
+through a detailed software
+              simulator over a set of widely used benchmarks.
+

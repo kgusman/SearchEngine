@@ -1,0 +1,43 @@
+Title       : User-Directed Hybrid Deterministic and Monte Carlo Parallel Light Transport
+               Algorithms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 24,  1999       
+File        : a9720192
+
+Award Number: 9720192
+Award Instr.: Continuing grant                             
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $409730             (Estimated)
+Investigator: Peter S. Shirley shirley@cs.utah.edu  (Principal Investigator current)
+              Charles D. Hansen  (Co-Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will investigate scalable parallel algorithms for the solution of
+              light transport balance equations for environments composed of complex surface
+              geometry. Although Monte Carlo methods can solve such balance equations when
+              the input geometry is complex (e.g., 100 million surfaces), their convergence
+              is slow. To overcome this limitation, finite element algorithms will be used to
+              roughly characterize the light flow in the environment, and this large-scale
+              information will be used to guide the sampling strategies of the Monte Carlo
+              algorithms. Because designers of optical systems typically know where the large
+              energy flow occurs in their systems, a 3D computer graphics steering front-end
+              will be used to help guide both the subdivision in the finite element phase,
+              and the sampling strategies of the Monte Carlo phase. Although the research
+              being conducted attempts to improve solutions to the light transport problem,
+              the systematic combination of the strengths of deterministic, Monte Carlo, and
+              human-assisted methods could have applications in many high-dimensional
+              problems where Monte Carlo methods are typically used.

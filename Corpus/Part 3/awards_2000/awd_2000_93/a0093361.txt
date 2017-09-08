@@ -1,0 +1,58 @@
+Title       : CAREER: The Secure Untrusted Data Repository (SUNDR)
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 23,  2002   
+File        : a0093361
+
+Award Number: 0093361
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  2001     
+Expires     : February 28,  2006   (Estimated)
+Expected
+Total Amt.  : $250007             (Estimated)
+Investigator: David Mazieres   (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              All too often, decisions about whom to trust in computer systems are
+driven by
+              the needs of system management rather than data security.
+In particular, data
+              storage is often entrusted to people who have no
+role in creating or using the
+              data--through outsourcing of data
+management, hiring of outside consultants to
+              administer servers, or
+even collocation servers in physically insecure machine
+              rooms to gain
+better network connectivity.
+
+SUNDR is a network file system
+              designed to run on untrusted servers.
+SUNDR servers can safely be managed by
+              people who have no permission
+to read or write data stored in the file system.
+               Thus, people can
+base their trust decisions on who needs to use data and
+              their
+administrative decisions on how best to manage the data. 
+              Moreover,
+with SUNDR, attackers will no longer be able to wreak havoc
+              by
+compromising servers and tampering with data.  They will need
+              to
+compromise clients while legitimate users are logged on.  Since
+clients do
+              not need to accept incoming network connections, they can
+more easily be
+              firewalled and protected from compromise than servers

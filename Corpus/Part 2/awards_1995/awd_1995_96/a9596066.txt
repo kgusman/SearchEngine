@@ -1,0 +1,49 @@
+Title       : Efficient Light Transport Algorithms for Computer Graphics
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  1995   
+File        : a9596066
+
+Award Number: 9596066
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1994  
+Expires     : February 28,  1995   (Estimated)
+Expected
+Total Amt.  : $127672             (Estimated)
+Investigator: Patrick M. Hanrahan hanrahan@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              Many realistic image synthesis algorithms have been proposed                   
+              in the last few years, but unfortunately they tend to be very                  
+              inefficient, often requiring hours or days of calculations.                    
+              As a result, the visual cues provided by these algorithms                      
+              (shading, shadows,  transparency, reflections, etc.)  still                    
+              have not been used routinely by applications requiring                         
+              visualization.  This project is concerned with development of                  
+              efficient image synthesis algorithms based on the integral                     
+              equation representing light transport in the environment.  It                  
+              used techniques recently developed to solve the N-body problem                 
+              in linear time.  Preliminary results indicate that the                         
+              interaction matrix corresponding to the integral equation with                 
+              a linear number of blocks can be approximated.  Since this                     
+              approximation has linear-space complexity, it makes it                         
+              possible to explore solution techniques that have been                         
+              previously too time and memory intensive to consider.  It also                 
+              studies visibility problems, sampling and meshing problems,                    
+              and lazy evaluation strategies within the context of solving                   
+              the light transport equation.  Finally, these ideas will be                    
+              implemented and tested.  The long range goal of all this                       
+              research is to develop robust and practical algorithms that                    
+              can be incorporated into 3D graphics workstations of the                       
+              future.

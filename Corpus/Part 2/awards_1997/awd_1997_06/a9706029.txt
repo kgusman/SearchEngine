@@ -1,0 +1,76 @@
+Title       : Next-generation algorithms for network layout
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 23,  1997 
+File        : a9706029
+
+Award Number: 9706029
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $259825             (Estimated)
+Investigator: Daniel Bienstock dano@ieor.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Nearly every single major telecommunications concern in the   United States, as
+              well as many abroad, has a group responsible  for network layout algorithms. 
+              This is a growing trend,   spurred by the large investments needed to upgrade
+              and expand  networks, especially in the case of ATM technology --a single  
+              large switch can cost millions of dollars. Typically, work   focuses on
+              individual problems as they arise, and the   resulting algorithms (whether
+              completely heuristic or based on  thoroughly grounded techniques) heavily
+              depend on many   particular details of the problem at hand.  A similar approach
+               is used by researchers at universities.  Other than completely  general
+              optimization techniques --such as general purpose   integer programming codes
+              or heuristics such as simulated   annealing-- which usually do not prove
+              satisfactory, no   successful common approach exists.      However, network
+              layout problems of all flavors do share many   common components. Our views on
+              this matter were spurred by   our experience with practical ATM layout
+              problems.  In ATM   network layout several interrelated subproblems arise. 
+              There   is a transmission system subproblem: on every link enough   capacity
+              must be installed to carry the traffic routed on it.  There is a similar switch
+              sizing subproblem (except that   capacity is installed at nodes, not links). 
+              There may be a   further subproblem concerning allocation of terminations at  
+              switches, again of a similar nature.  Finally, different types  of routings may
+              be allowed, for example, requiring   survivability.  An algorithm for a complex
+              problem of this type  may therefore need to handle each subproblem well (in
+              case   that subproblem is cost-dominant in a particular application)   but
+              would also need to integrate the different components into  a coherent single
+              unit (for example, the edge transmission   system subproblem will interact with
+              the switch sizing  subproblem).    Network design problems can be classifed as
+              mixed-integer   programs: the y involve variables that must take integral  
+              values (e.g. the number of transmission systems to install in   a particular
+              link) and also continuous variables (mainly   traffic routing decisions, which
+              are effectively modeled   without requiring integrality). From a computational
+              viewpoint   these problems are typically very difficult.  Purely heuristic 
+              algorithms are notoriously unreliable in terms of the quality   of the
+              solutions they provide.  At the other end difficult   network design problems
+              routinely trounce high-performance   general-purpose integer programming
+              algorithms.  See  problems "dano3mip" and "danoint" of the MIPLIB family 
+              (http://www.caam.rice.edu/~bixby/miplib/miplib.html) and other  problems in the
+              PI's previous work.    A final argument in favor of a general-purpose network
+              design   algorithm, concerns one way in which network design is used   in
+              practice.  No network planner will commit to an expenditure  of several million
+              dollars on the basis of a single run of an   optimization algorithm, no matter
+              how good a track record   this algorithm has.  Typically, an algorithm would be
+              used in   the context of a study where a design tool is run repeatedly.  Here
+              it is crucial to get fast, good-quality estimates.     The research supported
+              by this award focuses in developing a   generic network design tool. We plan to
+              develop several   fairly independent components of such a tool, principally:   
+              * Fast, approximate algorithms for continuous linear programs   arising in
+              network layout problems, in particular,   parallelizable versions thereof for a
+              shared-memory   environment.  * General "cutting-plane" techniques for the
+              mixed-integer   programs we are interested in, and  * Fast rounding heuristics
+              to quickly obtain good feasible  solutions.

@@ -1,0 +1,48 @@
+Title       : SBIR Phase I: A Newton-Krylov Based Solver for Modeling Finite Rate Chemistry in
+               Reacting Flows
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 21,  2000  
+File        : a0060688
+
+Award Number: 0060688
+Award Instr.: Standard Grant                               
+Prgm Manager: Jean C. Bonney                          
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2001    
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Michael J. Bockelie bockelie@reaction-eng.com  (Principal Investigator current)
+Sponsor     : Reaction Engineering Intl
+	      77 West 200 South, Suite 210
+	      Salt Lake City, UT  84101    801/364-6925
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This Small Business Innovation Research (SBIR) Phase I project will develop a
+              Newton-Krylov based Computational Fluid Dynamics flow solver for simulating
+              reacting flows that must account for finite rate chemistry. Sub-models will be
+              included for describing the finite rate chemistry with global, skeletal and
+              reduced mechanisms. The non-linear solver strategy will use a matrix-free
+              Newton-Krylov method and will include high quality preconditioners constructed
+              from application specific data, adaptive forcing terms and mesh sequencing for
+              problem initialization.  The Phase I project will demonstrate proof of concept
+              for the non-linear solver strategy.  Simulations of NOx formation in a furnace
+              will be used to evaluate the improved
+computational efficiency. The Phase II
+              project will focus on creating a solver for production level use. The Phase II
+              product will use the best techniques developed in Phase I and in addition will
+              include capabilities for local adaptive grid refinement and parallel
+              computing.
+
+The final product will find commercial application by engineers
+              and scientists in the combustion, chemical process and waste incineration
+              industries that need to perform detailed analysis of complex chemically
+              reacting flows in a cost effective manner.
+

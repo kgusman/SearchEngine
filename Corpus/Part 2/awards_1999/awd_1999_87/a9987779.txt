@@ -1,0 +1,86 @@
+Title       : Analysis and Design of Computational Systems for Three-Dimensional
+               Electromagnetic Modeling and Inversion
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 11,  2000       
+File        : a9987779
+
+Award Number: 9987779
+Award Instr.: Standard Grant                               
+Prgm Manager: Vladimir J. Lumelsky                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 15,  2000       
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Michael S. Zhdanov mzhdanov@mines.utah  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              This proposal contributes to the development of the underlying physical and
+              mathematical methods and principles of a new technology of electromagnetic (EM)
+              imaging the objects in nontransparent media based on EM forward and inverse
+              problem solutions. EM inverse methods are widely used in different technical
+              and engineering applications, including determining the internal defects in the
+              metal or concrete constructions, for studying the underground geological
+              structures in mineral, hydrocarbons and groundwater exploration, in the
+              solution of environmental clean up problems, for imaging of the internal
+              structure of human body in medical applications, in remote sensing, etc. The
+              image reconstruction is based on the numerical solution of the inverse
+              scattering EM problem. This problem requires development intelligent
+              computational systems for EM forward modeling and inversion in inhomogeneous
+              media. These problems are extremely difficult, especially in three-dimensional
+              case.
+ 	In this proposal we suggest to analyze and design the computational
+              systems which make the numerical methods more flexible and more powerful tool
+              for the solution of practical forward and inverse problems in media with a
+              complex distribution of EM parameters. This system will be based on applying
+              compression and numerical image enhancement and sharpening in the solution of
+              EM problems. The compression allows transforming the original Maxwell's
+              equations into a compressed domain, and the solution is obtained there in a
+              compact form. Using compression, we convert the original dense matrix of the
+              forward and inverse problems to a sparse matrix. This reduces the memory
+              required for storage and speeds up computations.
+Image processing and
+              restoration is one of the important problems in EM imaging. It requires
+              developing a stable inverse problem solution that at the same time can produce
+              a sharp and focused image of the target. We plan to consider a new way of
+              focusing EM images using specially selected stabilizing functionals. In
+              particular, we will use a new stabilizing functional, which minimizes the area
+              where strong model parameter variations and discontinuity occur. We plan to
+              demonstrate that focusing stabilizer will help to generate a stable solution of
+              EM inverse problem for complex objects, and will help to generate much more
+              ''focused'' EM images than conventional methods. In summary, the main goal of
+              this project is to develop new methods and ideas that will result in a new
+              enabling technology for EM inverse imaging.
+This new technology will address
+              the following problems: 1) to increase the resolution and stability of inverse
+              imaging by applying regularization method based on focusing stabilizers; 2) to
+              speed up computations and to enable solution of large EM forward and inverse
+              problems using data and image parameters compression technique; 3) to enable
+              general application for solution of different type of scientific and
+              engineering problems involving inverse EM imaging of the objects in
+              nontransparent media.
+The proposed work will be significant for several
+              reasons including
+a) fast and accurate computational system for 3-D EM forward
+              modeling in the media with
+the arbitrary distribution of conductivity will be
+              constructed using compression
+principles;
+b) a new generation of fast 3-D EM
+              inversion techniques will be developed based on
+compression and focusing
+              stabilizing functionals;
+c) improved methods for analysis, design and
+              evaluation of electromagnetic data in complex
+structures will be developed.
+

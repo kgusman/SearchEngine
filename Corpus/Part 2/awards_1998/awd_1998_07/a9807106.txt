@@ -1,0 +1,73 @@
+Title       : Integrated Tools for Automated Control Synthesis and Fault Diagnosis of
+               Automated Manufacturing Systems using Discrete Condition Models
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 31,  2000      
+File        : a9807106
+
+Award Number: 9807106
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1998    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $308518             (Estimated)
+Investigator: Lawrence E. Holloway holloway@engr.uky.edu  (Principal Investigator current)
+              Jonathan Agre  (Co-Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      109 Kinkead Hall
+	      Lexington, KY  405060057    859/257-8311
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              9807106
+Holloway
+Current practice in developing programs for automated
+              manufacturing leads to code that is difficult to develop, debug, and maintain. 
+              Discrete event system (DES) control synthesis techniques promise to automate
+              this control development using analysis of system models.  However, many
+              current DES techniques cannot be used for moderate or large systems because
+              they explicitely rely on analysis of the state space which sufffers from state
+              explosion.  Moreover, they require heavy investment in modeling due to an
+              inability to reuse plug-and-play component models, and they assume unambiguous
+              control specifications that are as detailed or are more detailed than the
+              control sequences that would have to be developed for a manually coded control.
+               For DES control synthesis to find use in industry for manufacturing control
+              requires the development of techniques that critically address the limitations
+              of current techniques.  In this proposal, we outline a research program for
+              developing an integrated set of tools and techniques that directly target the
+              application of automated model-based DES control synthesis to control of
+              manufacturing systems.  The resulting techniques will be implemented together
+              in an integrated software tool for demonstrating the use of control synthesis
+              to industries
+
+The control approach we propose will allow a user to assemble
+              a system model using plug-and-play discrete-state component models that have
+              well defined input and output structures.  The user then will enter high-level,
+              ambiguous specifications of desired system behavior.  The control synthesis
+              methods will use analysis of the system model to convert this specification
+              into a controller that contains complete information on the control sequences
+              necessary to achieve the specification while avoiding deadlock conditions.  The
+              controller also will include fault detection and diagnosis information derived
+              from the cause-and-effect relationships in the system model.  The size of the
+              controller will be kept modest by the use of a library of reusable,
+              automatically synthesized segments of control sequences.  The resultant control
+              structure will be then automatically converted into C code or ladder logic code
+              for compilation and execution. 
+
+The research issues that will be addressed
+              in the development of these techniques include the conversion of ambiguous
+              specifications into unambiguous hierarchical structures of control sequences,
+              the efficient control of synthesized heirarchical control components, the use
+              of supervisory control to prevent deadlock and prevent contradictory control
+              actions from these control sequences, the use of incomplete observation
+              information in the control, and the incorporation into the controller of fault
+              detection and diagnosis information derived from the system model.   
+***  
+

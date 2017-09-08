@@ -1,0 +1,46 @@
+Title       : Resource Allocation in Cellular Communication Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 21,  1998    
+File        : a9622636
+
+Award Number: 9622636
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $330551             (Estimated)
+Investigator: Dimitri P. Bertsekas dimitrib@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              This is a joint project between Dimitri Bertsekas, MIT and Andrea Goldsmith,
+              Caltech.    The scarcity of channel capacity to support emerging multimedia
+              wireless applications requires efficient strategies for using the available 
+              bandwidth.  Any system using fixed frequency reuse and base station assignment
+              must be designed relative to worst-case interference assumptions.  Dynamic
+              resource allocation is a more efficient strategy, where frequencies, base
+              stations, data rates, and power levels are dynamically assigned relative to
+              current and potential system conditions.    In this work, we propose to
+              formulate the general resource allocation problem as an optimization problem
+              subject to interference constraints.  The cost function is very general.  It
+              can incorporate most of the practical systems complexity in the optimization
+              framework, including cell handoff due to user mobility, multiple classes of
+              traffic, and channel variation.  We consider both FDMA and CDMA methods of
+              dividing up the available systems band width.  We will apply linear programming
+              to minimize the instantaneous cost function, and dynamic programming techniques
+              to minimize the cost function over the infinite horizon.  The dynamic problem
+              formulation will utilize recent developments in neuro-dynamic programming
+              techniques.

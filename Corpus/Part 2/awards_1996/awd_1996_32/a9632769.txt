@@ -1,0 +1,46 @@
+Title       : Distributed Resource Management in Workstation and PC Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  1996       
+File        : a9632769
+
+Award Number: 9632769
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1996      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $202408             (Estimated)
+Investigator: Henry M. Levy levy@cs.washington.edu  (Principal Investigator current)
+              Anna R. Karlin  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              Advances in network and processor technology are greatly changing  the
+              communication and computational power of local-area clusters  of workstations
+              and personal computers.  In particular, the  replacement of Ethernets by newer
+              switched network technologies,  which provide both higher throughput and lower
+              latency, presents  an opportunity for operating systems to better use network 
+              resources.  This research seeks to improve the performance of  applications
+              through distributed (cluster-wide) resource  management.  The project will
+              develop algorithms that permit the  effective sharing of all network resources:
+               processors, network,  memory, and disk storage.   For example, programs on
+              heavily-  loaded nodes can use available memory on idle nodes for both file 
+              system and virtual memory backing store, rather than disk,  thereby reducing
+              the data latency on access to that data.  As another example, applications may
+              migrate to nodes that  provide either a better processing environment or a
+              better memory  environment for their execution.  A key issue in developing 
+              algorithms for such closely-coupled system is finding the right  balance in
+              order to optimize system-wide performance while  minimizing any degradation of
+              performance on individual systems  as a result of network-wide resource
+              sharing.  ***

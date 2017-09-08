@@ -1,0 +1,75 @@
+Title       : Mathematical Sciences: Smoothed Nonparametric Hazard Regression
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 18,  1997      
+File        : a9501893
+
+Award Number: 9501893
+Award Instr.: Continuing grant                             
+Prgm Manager: Keith N. Crank                          
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1995       
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $72000              (Estimated)
+Investigator: Birgit Grund   (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1263      PROBABILITY
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,1045,9178,OTHR,SMET,
+Abstract    :
+              9501893 Grund Abstract  The main objective of the project is to develop
+              smoothing methods for  nonparametric hazard regression with time-dependent
+              regression coefficients,  in the framework of an additive hazard regression
+              model (Aalen model).  The  Aalen model incorporates the possibility that both
+              value and contribution  of  covariates may change over time.  Most important,
+              no particular parametric  shape of this time-dependence is assumed.   In the
+              current project, kernel smoothing will be used to estimate the  regression
+              coefficient curves.  A major objective is to develop data-driven  bandwidth
+              selectors, and to investigate their properties.  It is expected that  the
+              resulting methods will improve upon currently used empirical estimates.  
+              Moreover, kernel methods allow one to estimate the regression coefficient 
+              curves themselves, as opposed to cumulative coefficients.  This is 
+              particularly important for graphical data analysis. The new smoothing methods
+              will be implemented in XLISP-STAT, an object- oriented programming language; a
+              user-friendly interface will be provided.   Dynamic graphics will be used to
+              support visual data exploration.  As part of  the project, the developed
+              smoothing procedures will be used to analyze  epidemiological data. On the side
+              of education, the development of a new lecture course on  ``Smoothing Methods
+              in Curve Estimation'' for statistics majors at the M.S. or  Ph.D. level is
+              proposed.  Research results of the current proposal will be  included.  Dynamic
+              graphics software will be used to demonstrate smoothing  techniques in class,
+              thus giving students access to cutting edge technology   An important problem
+              in medicine is to predict the survival of patients,  given their current
+              condition and treatment.  The condition of a patient is  described by
+              "covariate values", such as blood cholesterol, blood pressure,  number of
+              antibodies, etc.  A central problem in analyzing survival data is to  assess
+              the influence of covariates;  for example, to quantify by how  much an 
+              elevated level of blood cholesterol increases the risk of stroke. Often the 
+              influence of covariates is known to change with time.  In this case standard 
+              methods tend to fail. The proposed project develops risk estimates based on the
+              Aalen model.  This  model is extremely flexible.  The influence of covariates
+              is allowed to change  over time, without assuming any particular shape of this
+              time-dependence  beforehand.   In this project,  modern smoothing techniques
+              will be adapted to estimate the  influence of covariates.  Smoothing methods
+              are extremely useful for  descriptive data analysis, and widely used in
+              statistics.  In the context of  survival data, however,  the use of
+              corresponding methods is a very recent  development, with many open problems.
+              Part of the project is the user-friendly computational implementation of the 
+              newly developed estimation procedures.  Interactive graphics will be used 
+              extensively to support visual data exploration.  With the provided software, 
+              smoothing methods in Aalen hazard regression will be available for 
+              practitioners for the first time. The new smoothing procedures will be used to
+              analyze epidemiological data. On the side of education, the development of a
+              new lecture course on  ``Smoothing Methods in Curve Estimation'' for statistics
+              majors at the M.S. or  Ph.D. level is proposed.  Research results of the
+              current proposal will be  included.  Dynamic graphics software will be used to
+              demonstrate smoothing  techniques in class, thus giving students access to
+              cutting edge technology.

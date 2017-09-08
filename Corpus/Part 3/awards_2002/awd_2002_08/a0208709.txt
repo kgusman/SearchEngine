@@ -1,0 +1,106 @@
+Title       : Analytic Information Theory, Combinatorics, and Algorithmics: The Precise
+               Redundancy and Related Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 31,  2002      
+File        : a0208709
+
+Award Number: 0208709
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $215000             (Estimated)
+Investigator: Wojciech Szpankowski spa@cs.purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue University
+	      610 Purdue Mall
+	      West Lafayette, IN  47907    765/494-4600
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : ,9215,HPCC,
+Abstract    :
+              Information theory has enjoyed over fifty years of rigorous
+              research,
+development, and application.
+In spite of its relative
+              maturity,
+new challenges arise due to novel  applications and emerging
+              theoretical
+developments (e.g., there is a resurgence of interest in
+              source
+coding in multimedia applications, molecular biology, and
+              security).
+In the 1997 Shannon  Lecture Jacob Ziv
+presented compelling
+              arguments for ``backing off'' to a certain extent
+from first-order asymptotic
+              analysis of information
+systems in order to predict the behavior of real
+              systems with
+finite (and often small) lengths (of sequences, files,
+              codes,
+databases, etc.) One way of overcoming these difficulties is
+              to
+increase accuracy of asymptotic analysis by replacing first-order
+analyses
+              (e.g., a leading term of the average code length)
+by full asymptotic
+              expansions and more
+accurate analyses (e.g., large deviations, central limit
+              laws).
+
+This research primarily focuses on an important aspect of
+source
+              coding, namely, the redundancy rate problem.
+Recent years have seen a
+              resurgence of interest in
+redundancy rates of lossless and lossy coding.
+We
+              describe analytic, combinatorial and algorithmic methods that
+work hand in
+              hand to solve this and other problems in information theory.
+The redundancy
+              rate problem for
+a class of sources corresponds to determining the extent to
+              which
+the actual code length exceeds the optimal code length.
+This problem is
+              an ideal candidate
+for second-order asymptotics
+since one must look beyond
+              the leading term of the code length,
+which is known to be the entropy of the
+              source.
+Following Hadamard's precept we study these problems using
+techniques
+              of complex analysis such as generating functions,
+Rice's formula, Mellin
+              transform, Fourier series,
+sequence distributed modulo 1, saddle point
+              methods,
+analytic poissonization and depoissonization, and
+singularity
+              analysis.  We present new results for
+well-studied problems (e.g., optimal
+              codes for maximal redundancy,
+memoryless and Markovian sources) as well as
+              novel formulations of old problems
+(e.g., redundancy of the class of mixing
+              sources, redundancy of
+arithmetic coding and the Lemepl-Ziv codes).
+              Furthermore,
+we apply the techniques developed as a part of this study
+to
+              related problems such as prediction (based on pattern matching),
+random number
+              generators, the average worst case probability of
+undetected error in channel
+              coding, pattern matching approach to
+(exact and approximate) run length
+              coding, and others.

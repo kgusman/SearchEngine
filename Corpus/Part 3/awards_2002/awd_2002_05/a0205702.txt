@@ -1,0 +1,88 @@
+Title       : ITR: A Grid for Research and Education in Distributed Systems and Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0205702
+
+Award Number: 0205702
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2007     (Estimated)
+Expected
+Total Amt.  : $1547874            (Estimated)
+Investigator: Jay Lepreau lepreau@cs.utah.edu  (Principal Investigator current)
+              Pascal Van Hentenryck  (Co-Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              Over the last two years, we've built a new type of experimental environment for
+              research in distributed systems and networks: a highly configurable Internet
+              emulator,  known as Emulab.  This time-and spaceshared facility has been used
+              by numerous top institutions for research published in top venues.  So
+              successful is the project, that others are building their own Emulabs, centered
+              around our software and design.  While the individual power of such Emulabs in
+              experimentation and teaching is great, connecting these into one large Research
+              and Education Grid will offer unprecedented power and flexibility.
+We now
+              propose, with dramatically expanded software and innovative algorithms, to
+              establish the framework for a federated set of local Emulabs, each
+              heterogeneous under local control and offering a unique set of hardware. 
+              Adding sites to the Grid will be easy and cheap, offering even small
+              institutions a chance to contribute while gaining access to an immensely
+              diverse and powerful resource.  Individual sites' users will have priority for
+              local hardware, as well as control over local administrative, security, and
+              resource allocation policies.  Such autonomy will encourage organic growth,
+              while intelligent allocation, scheduling, and swapping systems will provide
+              abstraction.  Researchers and students can be unconcerned with local
+              complexities, instead seeing one large collection of a wide variety of
+              hardware, including standard PCs, network processors, wireless nodes, and more.
+               Even the links between Emulabs will be a useful resource for experiments
+              wishing to operate on the real  Internet, while controlled-bandwidth links will
+              shield experiments that do not.  Support for wireless, mobile nodes will open
+              entirely new avenues for experimentation.
+Achieving this vision, however,
+              involves daunting challenges.  Creating the software to manage this will
+              involve a dramatic extension of existing Emulab systems and the application of
+              novel algorithms and techniques.  Existing database systems will be augmented
+              with failure-resistant peer-to-peer sharing of network information between
+              Emulabs.  Through these mechanisms, topology data will be shared for
+              observation and experiment scheduling.  Such scheduling on a non-static,
+              wide-area system is a particularly challenging NP-complete problem which will
+              require new algorithms to be designed and implemented.  Automated systems to
+              control experiment scheduling and allocation will be developed all the while
+              facing the challenge of maintaining simple user interfaces.  Emulab algorithms
+              and software must also be extended to handle a wider variety of hardware,
+              including wireless nodes.  Aspect-oriented programming and component
+              technology, developed at Utah, will manage software interfaces for complex and
+              numerous inter-operating hardware systems.  In  addition, methods for sharing,
+              saving, and restoring state between machines, as well as maintaining
+              performance isolation while multiplexing multiple virtual nodes on a single
+              computer, will be explored.
+The incorporation of multiple Emulabs into a
+              single federated entity offers a rich opportunity to overcome a wide variety of
+              network research and software engineering challenges, and allows for
+              experimentation on an unprecedented scale.  Users, ranging from individual
+              students to large research groups, will benefit from a greatly expanded ability
+              to controllably and faithfully emulate large real networks, coupled with the
+              availability of diverse and cutting-edge network components. Unifying resources
+              in a standard and consistent way will simplify experimentation, and make
+              accurate emulation an integral part of systems and network instruction and
+              research.
+The resulting loosely-coupled distributed system will enable
+              experiments in a host of areas.  As just one example, if Emulab is successful
+              in one of its core goals, isolation, experiments too dangerous to conduct in
+              the wild could be run.  Realistic Internet War Games could be staged, in which
+              attackers and defenders engage in a simulation of possible Internet attack
+              scenarios, replete with destructive and contagious worms and dangerous
+              automated counterattacks.  Only in an Emulab Petri dish could they be safely
+              evaluated at reasonable scale.

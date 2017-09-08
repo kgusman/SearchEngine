@@ -1,0 +1,67 @@
+Title       : CAREER:Exploiting Gray-Box Techniques in Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 16,  2002   
+File        : a0133456
+
+Award Number: 0133456
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2007     (Estimated)
+Expected
+Total Amt.  : $350000             (Estimated)
+Investigator: Andrea C. Arpaci-Dusseau dusseau@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              
+Modern operating systems are large and complex code bases in which
+hundreds
+              of programmer-years have been invested. As a result,
+modifying an operating
+              system is a difficult, costly, and often
+impractical endeavor. However,
+              viewing the OS as an immutable object
+is at odds with most OS
+              research.
+
+This research proposes techniques that enable the deployment of
+              OS
+ideas without changing OS source code. The thesis is that an
+              OS-like
+service can acquire information about the internal state of the OS
+              and
+control its behavior, even when no explicit interfaces to do so
+              are
+provided. With this approach, the OS is treated as a gray box, in
+which
+              the general characteristics of its algorithms are known; this
+knowledge is
+              then combined with run-time observations of how the OS reacts
+to probes in
+              order to infer its state and exert control.
+
+Initial experience with gray-box
+              systems points to additional areas of
+research: automated discovery of
+              algorithms, on-line benchmarking to
+configure parameters, dynamic insertion of
+              probes, and aggressive
+inference of OS internal state.  Thus, the goal of this
+              proposal is
+two-fold: to understand the theoretical foundations of
+              gray-box
+systems and to implement a toolbox of software for the
+              rapid
+development of gray-box systems.
+

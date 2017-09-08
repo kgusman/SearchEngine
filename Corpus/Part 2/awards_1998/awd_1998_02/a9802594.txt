@@ -1,0 +1,68 @@
+Title       : Ergodic and Topological Aspects of Linear Dynamically Varying (LDV) Control
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 25,  1998    
+File        : a9802594
+
+Award Number: 9802594
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Edmond A. Jonckheere jonckhee@eudoxus.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              9802594
+Jonckheere
+When confronted with the problem of controlling a nonlinear
+              dynamical system with unknown parameters, it is tempting to compute a family of
+              linearized approximations, derive the LQ, H-infinity or  Mu controller around
+              each operating point, and then "stitch  together" all of the locally
+              stabilizing compensators in a globally working scheme.  One such approach has
+              recently been referred to as Linear Parametrically Varying (LPV) control where
+              the parameters are of unknown dynamics, but constrained to lie in a bounded
+              set, in which their variation should be slow enough to ensure stability of the
+              adaptive scheme.  Motivated by problems as tracking of transitive orbits, this
+              proposal develops the so-called Linear Dynamically Varying (LDV approach, in
+              which the parameters are dynamically modeled, the dynamics of the variation of
+              the parameters is incorporated in the linear LQ or H-infinity design, resulting
+              in a design that need not be locally stable, but that is guaranteed to be
+              globally stable.  Mathematically, in discrete-time (rep. continuous time),
+              approach is characterized by functional (rep. partial differential) Riccati
+              equations and linear matrix inequalities in sharp contrast with the "state
+              dependent" Riccati equation of the traditional LPV theory.  The major focus of
+              attention is on the case of parameters running in a compact set and this quite
+              naturally endows the LDV svstem with ergodic properties.  Ergodic theory is
+              "put to work" to develop a computational scheme for solving functional Riccati
+              equations that relies crucially on the Poincare recurrence scheme.  Other fixed
+              point, continuous and differentiable selections, and Leray-Schauder degree
+              methods are proposed as well.  An example of the manifestation of the ergodic
+              properties of the design is a "self-similar" solution to the functional 
+              Riccati equation.  Next, while the LPV approach has focused on parameters
+              running in a subset of the Euclidean space where the reference axes are taken
+              for granted, the LDV approach on the other hand focuses on parameters running
+              on a nontrivial (incontractible) manifold, and existence of the reference axes
+              cannot be taken for granted.  The relevant global topological property is
+              parallelizability, that is, existence of a smooth orthonormal reference frame
+              in the tangent space to the manifold, relative to which the linearlized state
+              space equation are written.  In case the state manifold is not parallelizable,
+              the guiding idea to find parallelizable covering manifold on which the LDV
+              system runs.  Finally, an attempt to classifly these kind of control problems
+              using the Godbillion-Vey characteristic classes of higher-codimenional
+              foliation is proposed.  Finally, the Gelfand-Feigin-Fuks theory of variation of
+              characteristic classes is proposed to measure robustness and control authority.
+               
+***  
+

@@ -1,0 +1,71 @@
+Title       : High Performance Computing for Large Dynamical Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  1998    
+File        : a9619763
+
+Award Number: 9619763
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1997  
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $75440              (Estimated)
+Investigator: Ahmed H. Sameh   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project investigates high performance algorithms in the  areas of  model
+              reduction algorithms for dynamical linear  systems, eigenproblem solvers, and
+              iterative methods for sparse  nonsymmetric linear systems with one or multiple
+              right-hand side  vectors.    The model reduction work is based on the rational
+              Lanczos  algorithm which performs multipoint moment matching-based model 
+              reduction with automatic point selection from a specified grid.  It uses a
+              novel shifting strategy which exploits a mix of  imaginary and real positive
+              scalar values that provide a  multiscale view of the frequency response of the
+              dynamical system  being modeled.    The restriction to moment-matched reduced
+              order models will be  relaxed in order to improve the efficiency of the model 
+              production.  This will entail the development of new error  modeling techniques
+              as well as the assessment of the effect of  the use of iterative methods to
+              approximately solve the linear  systems that occur in each iteration of
+              rational approximation  algorithms.  This will also drive the development of
+              new  preconditioning and iterative method strategies.  A strategy for  point
+              placement (rather than point selection from a predetermined  grid) will be
+              developed and used in order to improve the accuracy  of the reduced order model
+              and to drive a load balancing strategy  for the large grain parallel processing
+              in a multilevel  parallelism implementation.    In the work on eigenproblems,
+              technology will be transferred and  adapted from the rational Lanczos domain to
+              Krylov-based  eigenproblem solvers.  This includes adapting the model reduction
+               shift strategy to yield a multilevel approach to locate  appropriate sections
+              of the complex plane in which eigenvalues  reside.  The choice of spaces used
+              to form the projector will  also be updated via rational Lanczos technology.  A
+              Gershgorin  disk-based alternative to Krylov-based approaches will also be 
+              studied.  The approach is a generalization and improvement of  work by Varga
+              and other s.  The methods natural multilevel  parallelism will be analyzed and
+              exploited in an experimental  implementation.    The area of nonsymmetric
+              sparse linear system solving via  preconditioned iterative methods supports the
+              advances in the two  areas above, and also contributes to the state-of-the-art
+              in  numerical algorithms.  Three basic tasks will be undertaken.  The  first is
+              to continue work on a robust parallel preconditioned  iterative method-based
+              package for the solution of nonsymmetric  systems.  This work will build on
+              earlier efforts on the EN-like  family of methods, partitioned row projection
+              schemes, and an  accelerated block Stiefel iteration adapted to nonsymmetric 
+              systems.  Preconditioners based on eigenvalue deflation,  incomplete
+              orthogonalization, and modified Krylov methods will be  considered.    The
+              second system linear system solving task that will be  addressed is the
+              development and analysis of a family of block  EN-like methods for linear
+              systems with multiple right-hand  side vectors encountered in
+              multiple-input-multiple-output  dynamical systems and applications such as
+              electromagnetics.    Finally, the linear system solvers above will be adapted
+              to  the situation encountered in model reduction -- multiple  linear systems
+              defined by a matrix pencil (A,E), and a set  of scalar shifts with associated
+              right-hand sides.

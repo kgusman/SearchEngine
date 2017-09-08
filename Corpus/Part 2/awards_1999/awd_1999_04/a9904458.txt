@@ -1,0 +1,67 @@
+Title       : Signal/Noise Modeling and Detector Design for Media Noise Dominated Magnetic
+               Recording Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 4,  2001        
+File        : a9904458
+
+Award Number: 9904458
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : January 31,  2003    (Estimated)
+Expected
+Total Amt.  : $340000             (Estimated)
+Investigator: Aleksandar Kavcic kavcic@deas.harvard.edu  (Principal Investigator current)
+              David Cheng  (Co-Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1504,9218,HPCC,
+Abstract    :
+              The object of the project is the development of the necessary tools and know-how
+              to design and implementable signal detector for magnetic recording systems
+              operating in signal-dependent correlated noise environments, i.e., media noise
+              dominated environments.  According to recent studies, it is anticipated that
+              the current magnetic recording technology will hit the superparamagnetic limit
+              in approximately five years.  The superparamagnetic limit occurs when the
+              magnetic media particles become so small that thermal energy at room
+              temperature is enough to destabilize the particle by randomly switching its
+              magnetization orientation.  To push back the approaching superparamagnetic
+              limit, signal processing circuits will have to cope with a radically changed
+              signal/noise environment: the signal-to-noise ratio will drop, the magnetic
+              media noise will dominate over the electronics white noise, and the overall
+              noise will become extremely correlated and signal-dependent due to the
+              intersymbol interactions in the magnetic media and due to the coloring
+              introduced by the read head.  This project will develop a fundamental
+              understanding of nonstationary stochastic modeling and use it to develop a
+              magnetic recording detector ideally tuned to correlated nonstationary media
+              noise.
+
+The project will be conducted through collaboration between Harvard
+              University and IBM Almaden Research Center.  IBM, a recognized global magnetic
+              recording technology leader, is in a unique position to provide the cutting
+              edge experimental support required establishing the link between the
+              theoretical and experimental parts of the project.  The project combines three
+              major efforts. (i) A understanding of signal-dependent noise modeling issues
+              will be developed.  This is an extension of widely used autoregressive modeling
+              methods in stationary processes to nonstationary processes.  Particular
+              attention will be given to objective model-size estimation through the
+              adaptation of Akaike's information theoretic criterion or Rissanen's minimum
+              description length principle.  (ii) The receiver will be designed through a
+              complexity-constrained optimization procedure.  Since both the intersymbol
+              interference length and the noise memory length contribute equally to the
+              receiver complexity, the constrained-complexity detector will minimize the sum
+              of the two lengths under a performance specification.  (iii) The final goal is
+              the implementation of the detector in VLSI technology.  Towards this goal, a
+              software detector and then a hardware detector will be developed.  Both
+              detectors will be tested in real channel environments at IBM Almaden Research
+              Center.
+

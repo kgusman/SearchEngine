@@ -1,0 +1,50 @@
+Title       : RIA: Combined Logic Synthesis and Physical Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  1992      
+File        : a9211668
+
+Award Number: 9211668
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1992       
+Expires     : May 31,  1995        (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Massoud Pedram pedram@ceng.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,
+Abstract    :
+              This research is on finding efficient techniques for producing                 
+              solutions to logic synthesis and physical design problems both                 
+              simultaneously and interactively.  Two problem areas are being                 
+              investigated: integrating logic synthesis with physical design; and            
+              layout algorithms for Boolean networks.  In the first area, a                  
+              prototype synthesis system which is capable of making synthesis                
+              decisions based on both logic level information and detailed data              
+              about the interconnecting wires and characteristics of the physical            
+              media is being developed.  The key idea is to generate a placement             
+              of the Boolean network that captures the structure of the layout.              
+              The correspondence between logic and layout representations is                 
+              maintained during iterations.  Both technology independent and                 
+              technology dependent logic transformations are accommodated.  In               
+              the second area, ways to assign the I/O pads or place the nodes of             
+              an unmapped Boolean network, where the nodes still have technology             
+              independent logic realizations, are being investigated.  Physical              
+              design tools which effectively capture the structural                          
+              characteristics of Boolean networks and can handle nodes of inexact            
+              or approximate area, intrinsic delay and drive are being developed.            
+              Accurate and efficient modeling of interconnect during logic                   
+              synthesis and layout plays a key role in the algorithm development.

@@ -1,0 +1,79 @@
+Title       : CAREER: A Multi-Level Approach to Malicious Mobile Code Detection
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 27,  2003     
+File        : a0238492
+
+Award Number: 0238492
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2003       
+Expires     : June 30,  2008       (Estimated)
+Expected
+Total Amt.  : $399946             (Estimated)
+Investigator: Giovanni Vigna vigna@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              Mobile code can be defined as executable content that is transferred to
+              a
+remote environment and executed there automatically.  Attacks from
+              malicious
+mobile code can be detected by analyzing the information associated
+              with the
+execution of code and identifying malicious behavior. This analysis
+              process is
+called intrusion detection while the process of collecting the
+              necessary
+information is called auditing.
+
+Unfortunately, most systems that
+              support code mobility provide no auditing
+mechanisms or are able to produce
+              only incomplete information about the
+activity of mobile code.
+
+To overcome
+              these problems, a multi-level approach to malicious mobile code
+detection is
+              proposed. The approach relies on the instrumentation of the
+different
+              components of the mobile code execution architecture to gather
+complete
+              information about the actions of the mobile code. The events
+collected at
+              different abstraction levels are used as input to multi-stream
+intrusion
+              detection analysis. The intrusion detection process uses both fusion
+and
+              correlation techniques to detect attacks and perform proactive
+              response
+procedures that limit the impact of an attack. In particular, the
+              research
+focuses on the containment of the spread of worm applications.
+
+The
+              results of this research will be used both to retrofit existing systems
+and to
+              secure future applications. In particular, in the near future mobile
+code will
+              become a fundamental mechanism for the upgrade and management of
+mobile
+              devices, as IP connectivity is brought to the millions of cellular
+phones in
+              use today. The use of multi-level intrusion detection will provide
+techniques
+              to protect both the infrastructure and the user terminals against
+malicious
+              mobile code.  
+
+

@@ -1,0 +1,83 @@
+Title       : Application of High Performance Computational Methods to Micromechanical
+               Characteristics of Composite Material
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : January 27,  1999   
+File        : a9422707
+
+Award Number: 9422707
+Award Instr.: Continuing grant                             
+Prgm Manager: Rajinder P. Khosla                      
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 1,  1995      
+Expires     : November 30,  1999   (Estimated)
+Expected
+Total Amt.  : $1250000            (Estimated)
+Investigator: Gregory J. Rodin gjr@ticam.utexas.eduu  (Principal Investigator current)
+              James C. Browne  (Co-Principal Investigator current)
+              J. Tinsley Oden  (Co-Principal Investigator current)
+              Robert A. van de Geijn  (Co-Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0104000   Information Systems                     
+              0108000   Software Development                    
+              0308000   Industrial Technology                   
+              56        Engineering-Mechanical                  
+Program Ref : 9139,HPCC,
+Abstract    :
+              Rodin 9422707  Design of composite materials to have desired properties is a
+              task of great engineering significance.  Presently this is usually accomplished
+              through trial and error laboratory synthesis and ad hoc analysis with the
+              result that non-optimal design is commonplace.  The dramatic increase in
+              computational power available for mathematical modeling and simulation raises
+              the possibility that computationally-based design can play a significant  and
+              complementary role to laboratory development of compmsite materials, as has
+              been the case in other engineering design problems.  The computational problem
+              is to determine the overall properties ( not necessarily linear elastic)  of
+              the composite material from the constituent properties.  The goal of the
+              proposed research is to create a toolbox of computational components with which
+              engineers can design and analyze composite materials directly form the
+              microstructural level.   The approach taken in this proposal is the adapt the
+              emerging methods for high performance parallel computation, being developed for
+              computational modeling in other domains, to micromechanical analysis of
+              composite materials.  The application of large-scale computation to this calls
+              of problems has been impeded by the fact that neither available  computation
+              power nor available computational methods were adequate for realistic
+              micromechanical models.   The methods to be adapted in this project are:  (i)
+              parallel h-P ada tive fineite element and boundary element methods for
+              computational fluide dynamics and acoustics, and (ii) parallel fast multipole
+              methods emerging form many-particle dynamics.  The most significant properties
+              of these methods are:  Superalgebraic  convergence rates, permitting effective
+              simulations with models requiring a minimum computational effort to achieve
+              acceptable accuracy's.    Amenability to ca common infrastructure for efficient
+              parallel implementation.  Development of an initial version of this
+              infrastructure under pervious research is  one cr itical enabling factor for
+              this proposal.  Natural applicability to micromechanical modeling of composite
+              materials since they perform similar roles in their current domains.  The
+              methods are complementary in their domains of application to composite
+              materials.  The development of the methods and of the toolbox will be empirical
+              and example driven.  The algorithms and methods will be evaluated by
+              application to known composite materials supplied by industrial collaborators. 
+              the toolbox will consist of libraries of object classes:  (i) infrastructure
+              for distributed dynamic arrays, (ii) h-P adaptive  finite element modules,
+              (iii) h-p adaptive boundary element modules, (iv) parallel linear algebra
+              modules,  (v) fast multipole modules, and (vi) and interface which facilitates
+              composition of applications form the libraries of modules.  The toolbox is to
+              be initially built around the PHLEX computational kernel which provides
+              object-oriented data management of hp-meshes and adaptive methods.  This is
+              truly interdisciplinary research.  It is no to be expected that the adaptation
+              of the parallel adaptive methods will be trivial.  The interactions in
+              composite materials are quite complex and substantial redesign and extensions
+              of the methods to be effective for composite materials is anticipated.  The
+              Research team includes expertise in micromechanical modeling of composites
+              (Rodin), H-p adaptive methods (Oden), high performance parallel computing (van
+              de Geijn and Browne), data structures (Browne), and application development
+              environment (Browne).  It is also very high leverage results since research
+              accomplishments form other fields,  with decades of development effort behind
+              them, are being exploited in this project.

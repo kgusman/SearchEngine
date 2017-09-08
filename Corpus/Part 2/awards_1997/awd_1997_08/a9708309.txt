@@ -1,0 +1,63 @@
+Title       : Space-Time Processing for Digital Comm: Nonparametric Channel ID & Interference
+               Cancellation & Multichannel Equalizer Design Based on Linear Matrix
+               Inequalities
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 13,  1999       
+File        : a9708309
+
+Award Number: 9708309
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1997     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $277000             (Estimated)
+Investigator: Michael D. Zoltowski   (Principal Investigator current)
+              Venkataramanan Balakrishnan  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              In an urban cellular environment, the data pulses employed in digital 
+              communications typically travel through multiple paths from transmitter to 
+              receiver due to reflections from buildings and other structures.  This
+              multipath  propagation causes each pulse to be corrupted by pulses transmitted
+              before and  after it; the deleterious effects of this "intersymbol
+              interference" (ISI)  necessitate signal processing in the form of an
+              "equalizer".  As a further  complications, the projected explosion in the
+              number of cellular users will  almost certainly require two users in the same
+              of adjacent cells to occupy the  same frequency band.  This leads to
+              "co-channel interference" that manifests  itself as cross-talk amongst users. 
+              The use of antenna arrays, which enables  discrimination amongst signals
+              arriving from different directions, offers a means  of suppressing co-channel
+              interference.    This research focuses on the development of spatiotemporal
+              signal processing  schemes to effect both equalization and interference
+              cancellation for mobile  narrowband digital communications in an urban cellular
+              environment.  The  equalizer design problem is reformulated as a convex
+              optimization problem based  on linear matrix inequalities and solved
+              numerically.  Equalization is effected  with sample-spaced taps at each
+              antenna, encompassing a time duration roughly  equal to the multipath time
+              delay spread.  This facilitates better tracking of  time-varying multipath
+              channels as compared to conventional equalization schemes  employing
+              symbol-spaced taps.  Interference cancellation is effected by forming  beams
+              with directions of maximum gain steered towards the desired user's  multipath,
+              and nulls steered towards strong co-channel interferers.  This is  achieved by
+              processing a short training signal via a novel extended correlator  that highly
+              localizes in time the contribution of the desired user's signal,  thereby
+              allowing one to estimate the spatial correlation matrix of the  interferers. 
+              The equalization an d interference cancellation schemes developed  in this
+              research hold the greatest promise in terms of the trade-off amongst 
+              convergence rate, computational complexity, robustness to model mismatch, and 
+              symbol error performance for Time Division Multiple Access (TDMA) systems where
+               the multipath time delay spread is less than the null-to-null mainlobe of the 
+              pulse symbol waveform, as is the case with cellular systems based on the IS-136
+               TDMA standard.

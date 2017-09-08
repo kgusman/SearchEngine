@@ -1,0 +1,79 @@
+Title       : WIRELESS TECHNOLOGY: Coordinated Fast Adaptation in Wireless Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 22,  2001    
+File        : a9979438
+
+Award Number: 9979438
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $635967             (Estimated)
+Investigator: Richard D. Schlichting rick@cs.arizona.edu  (Principal Investigator current)
+              Matti A. Hiltunen  (Co-Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1596,9218,HPCC,
+Abstract    :
+              The technological improvements will dramatically change the nature of wireless
+              systems over the next ten years.  Not only will more devices of increasingly
+              diverse types compete for wireless media, but new applications based on
+              wireless technology will also make more intensive use of this scarce resource,
+              with strict requirements for Quality of Service (QoS) attributes such as
+              throughput, security, and reliability.  Despite technological advances,
+              however, certain key features of wireless systems are expected to remain
+              unchanged.  For instance, wireless systems will continue to operate in an
+              exceptionally dynamic execution environment in which bandwidth and other
+              resources can vary significantly over time.  The diversity of available
+              resources (e.g., power, CPU speed, memory, transmission power and bandwidth) at
+              the wireless devices and the wired base stations will also undoubtedly persist.
+               This project proposes a wireless architecture that uses fine-grain
+              configurability and fast coordinated adaptation as fundamental cornerstones for
+              providing QoS for applications in such a diverse and dynamically changing
+              environment.  Fine-grain configurability allows the software on each device to
+              be customized to the characteristics of that device, the executing application,
+              and the current execution environment, while fast coordinated adaptation allows
+              the configuration to be changed dynamically at runtime.  Unlike current
+              efforts, the focus on adaptability is on coordination across multiple layers
+              and among multiple devices to support more global optimizations and the need
+              for dramatic changes in the networking software.  The latter could be used, for
+              example, in a natural disaster to alter the network routing protocols used by
+              affected wireless systems to compensate for the loss of fixed base
+              stations.
+
+The starting point for this work is Cactus, a system for
+              constructing highly-configurable network protocols and other services from
+              fine-grain software modules that interact using an event-driven execution
+              paradigm.  Cactus will provide the implementation framework for the various
+              components on different system layers, ranging from device drivers to
+              applications, as well as the basis for realizing the adaptive behavior within
+              each component.  The proposed wireless architecture also adds new system
+              components that coordinate adaptations across different system layers and
+              different devices in a wireless network.  The overall architecture offers a
+              platform where a system is constructed of highly adaptive system layers and the
+              adaptations of different layers are optimized locally for the specific
+              requirements of each application and globally to meet broader system
+              requirements.  Thus, it has the potential to serve as a good platform for new
+              wireless applications with strict QoS requirements. The goals of the proposed
+              research include the design of the overall system architecture, development of
+              adaptation mechanisms, construction of example adaptive protocols,
+              investigation of adaptation and coordination policies, and experimental
+              validation.  Two different prototyping environments will be used. The first is
+              an existing cluster of 64 Pentium PCs, where wireless communication is
+              simulated over a wired 100 Mb Ethernet.  This platform makes it easy to
+              experiment with issues such as failures of base stations, location-aware
+              protocols, and vertical handoffs between different wireless networking
+              solutions. The second testbed is a collection of portable PCs with a selection
+              of different wireless networking hardware and GPS receivers for location-aware
+              computing.
+

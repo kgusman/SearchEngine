@@ -1,0 +1,120 @@
+Title       : Novel Dispersion-Division-Multiplexing Technique for Enabling Double the
+               Spectral Efficiency in Transmission and Routing of Photonic and Microwave
+               Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 19,  2001 
+File        : a0123518
+
+Award Number: 0123518
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 1,  2001   
+Expires     : October 31,  2004    (Estimated)
+Expected
+Total Amt.  : $269999             (Estimated)
+Investigator: Alan E. Willner willner@solar.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1751,9218,HPCC,
+Abstract    :
+                   It has long been a comfortable fallacy that the optical fiber has infinite
+              bandwidth, and, therefore,
+we have bandwidth to burn. With the explosion of
+              multiple-channel communications through the
+              use
+wavelength-division-multiplexing (WDM), available bandwidth now takes
+              center stage. When
+comparing optical communications with other types of
+              communications, we lag far behind in terms of
+spectral efficiency (i.e.,
+              bits/Hz) and we are not even close to the Shannon capacity limit. In fact,
+              higher
+spectral efficiency is probably the area of least creative activity
+              within the field, and yet it holds the
+promise for revolutionary increases in
+              future systems capacity.
+     One of the technical areas within optical
+              communications that has shown the most bandwidth
+waste and has many future
+              potential applications is subcarrier multiplexing (SCM) of many
+              lower-speed
+channels on a single wavelength carrier. In SCM, half the data
+              bandwidth is wasted since either:
+(i) transmitting double-sideband signals
+              will, in essence, duplicate the data being sent given that each
+sideband
+              carries the full information needed for reception, or (ii) transmitting
+              single-sideband signals
+requires that the mirror frequencies on the other side
+              of the carrier wave (i.e., where the second sideband
+would have been located)
+              remain unoccupied by any other data signals.
+     Subcarrier multiplexing has
+              many advantages for future optical communications systems,
+including: (a) the
+              transmission of many lower-speed digital data signals on a single
+              high-capacity
+wavelength, (b) the transmission of many analog-modulated
+              signals, (c) the transmission medium for
+networks that accommodate wireless
+              microwave-based optical signals, and (d) the transmission of control
+labels
+              for efficient routing in packet-switched networks.
+     We propose
+              implementing a new multiplexing scheme that enables double the spectral
+              efficiency
+for optical systems that use subcarrier multiplexing. The scheme is
+              called dispersion-division-multiplexing
+(DDM) and relies on placing two data
+              channels simultaneously in the same frequency space
+away from an optical
+              carrrier. For example, one double-sideband data channel is
+              transmitted
+conventionally, and a second double-sideband channel is
+              transmitted in the shadow of the first
+channel. Shadowing occurs due to the
+              chromatic dispersion of the optical fiber. Due to dispersion, each
+of the two
+              double sidebands of a single channel will travel at slightly different speeds.
+              These sidebands
+will periodically be out-of-phase will each other relative to
+              the optical carrier wave, thereby canceling
+each other and inducing RF power
+              fading (i.e., a nearly complete disappearing of the given channel's
+power at a
+              receiver). One channel would be faded when the other channel would be in-phase
+              and have
+full power. By using a tunable dispersion-inducing element, a
+              receiver can change the relative phase
+between each cannel's two sidebands and
+              thus recover either of the two frequency-co-located channels.
+     Our
+              research program will investigate unique functionalities, opportunities, and
+              limitations when
+using spectrally-efficient dispersion-division-multiplexing
+              that could bear significant fruit in the 5-10
+year time frame. The key
+              fundamental features of our systems and networking research program are
+              as
+follows. We will:
+(a) demonstrate highly-spectrally-efficient DDM for many
+              WDM channels,
+(b) demonstrate the utility of DDM for interconnecting nodes in
+              a wireless-based photonic
+network,
+(c) demonstrate SCM label swapping and
+              routing in a WDM photonic network, and
+(d) investigate the fundamental
+              limitations of generating, transmitting, and receiving DDM
+channels when
+              considering SNR, extinction ratio, and data bandwidth.
+TABLE OF CONTENTS

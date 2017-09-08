@@ -1,0 +1,44 @@
+Title       : CAREER: Principles, Practice, and Applications of Tabled Logic Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 17,  2000       
+File        : a9702681
+
+Award Number: 9702681
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Terrance L. Swift tswift@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              9702681  Many practical problems such as compile-time analysis of  programs,
+              verification of concurrent systems, planning by  intelligent agents, and
+              diagnosis of physical systems have  in common the fact that they can be easily
+              specified using  logic. However, attempts to execute such specifications  using
+              traditional logic programming techniques usually do  not terminate, and are
+              thus impractical.  This project seeks  to create a logic programming system
+              which can solve such  problems and draws on recent research in tabled and 
+              constraint logic programming. Tabled logic programming,  particularly the XSB
+              system, terminates for large classes of  programs, and permits reasoning in the
+              presence of  inconsistent information through its semantics for default 
+              negation. Constraint logic programming allows problems in  theories such as the
+              real numbers to be expressed  declaratively and solved automatically. The
+              project will  create a unified computational basis for the two paradigms  using
+              XSB as a starting point. For certain problems in the  verification of
+              concurrent systems and in program analysis,  large programs based on C already
+              have been replaced with a  few hundred XSB rules with no loss in efficiency.
+              The  project will increase the number of such problems for which  a logic-based
+              specification leads to an efficient, practical  system.  ***

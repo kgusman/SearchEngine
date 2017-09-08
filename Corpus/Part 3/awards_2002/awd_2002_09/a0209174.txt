@@ -1,0 +1,82 @@
+Title       : Operating System and Architectural Implications of Programmable Network
+               Interfaces
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0209174
+
+Award Number: 0209174
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $303400             (Estimated)
+Investigator: Scott Rixner rixner@rice.edu  (Principal Investigator current)
+              Vijay Pai  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Networking server performance has improved substantially in recent years, due
+              mostly to rapid developments in application and operating system level software
+              and, to a lesser extent, improved hardware in the network interface. These
+              developments have greatly reduced the CPU load of network
+servers, the amount
+              of main memory used for networking, and the bandwidth requirements of data
+              transfers between the CPU and its main memory. However, when the server
+              prepares to send its data out onto the network, the network interface must
+              still use DMA to fetch each piece of data to be transmitted
+from the main
+              memory of the host processor, and this overhead increases work for both the
+              local interconnect (for example, the PCI bus) and the main memory system. As
+              network capacities increase, the bandwidth of these resources will become a
+              performance bottleneck.
+
+While many network interfaces continue to use
+              special-purpose hardware, several programmable network interfaces exist. These
+              programmable network interfaces are currently used to offload computations such
+              as TCP/IP checksum calculation from the CPU. Such optimizations provide
+              substantial benefits, but they underutilize the flexibility of programmable
+              network processors by using them only for fixed functionality that is already
+              implemented efficiently in special-purpose hardware.  A key deficiency is
+that
+              current network interfaces use storage primarily as buffer space for incoming
+              and outgoing transmissions, thus retaining the logical semantics of a simple
+              wire. In reality, however, a programmable network interface is a node in a
+              heterogeneous multiprocessor system, where the CPU and main memory
+form one
+              node and the network processor and its local memory form another.
+
+We propose
+              to exploit the heterogeneous multiprocessing capability of a server with a
+              programmable network interface through better utilization of both storage and
+              computation.  First, we intend to use some of the local memory on the network
+              interface as a cache of frequently-served content.
+This will substantially
+              reduce the load on the local interconnect, the system memory, and the CPU for
+              setting up DMA transfers.  Second, we intend to explore ways to utilize the
+              flexible computation provided by network processors in the network interface. 
+              This will further improve server performance by offloading demanding networking
+              tasks from the CPU and also enable additional services beyond those offered
+              today by our richer use of storage on the interface.
+
+Finally, we will
+              consider the impact of these proposals on network processor architectures. 
+              Network processors today have been designed primarily for routers and low-level
+              packet processing.  However, our proposals lead to substantially different
+              workloads for programmable network interfaces in
+servers, requiring systems
+              with flexibility akin to modern high-performance microprocessors along with the
+              packet processing efficiency of network processors.  We plan to investigate
+              various hybrid designs, as well as tighter coupling between the CPU and network
+              processor.
+

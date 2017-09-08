@@ -1,0 +1,76 @@
+Title       : Diagnostics for Structured Data and Quality Improvement
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 1,  2000     
+File        : a9803622
+
+Award Number: 9803622
+Award Instr.: Continuing grant                             
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1998    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $92130              (Estimated)
+Investigator: Douglas M. Hawkins doug@stat.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9147,9216,HPCC,MANU,OTHR,
+Abstract    :
+              9803622
+Douglas M. Hawkins
+
+Structured data sets are those in which the data
+              are other than independent identically distributed scalar quantities.  Examples
+              are multiple regression and multivariate data sets, and time series. 
+              Diagnostics involves identifying cases that depart from some baseline  (usually
+              Gaussian) model.  This general framework covers finding outliers as a part of
+              data analysis, and is also the basis for statistical process control (SPC)
+              methodologies.  One thread of the present project extends the PI's previous
+              work in outlier identification, particularly in situations where the outliers
+              are numerous or badly placed.  It has recently become apparent that methods
+              that work well on text-book-sized problems are useless in data sets with even a
+              few thousand cases in a few dozen dimensions.  As such data sets are
+              increasingly common, this has reopened a major emphasis of the present project
+              -- the whole question of workable approaches for finding outlying cases in
+              large data sets.  A somewhat distinct problem is detection of persistent
+              changes in time-ordered scalar and multivariate data.  This is the problem
+              addressed by change-point, exponentially weighted moving average, and
+              cumulative sum methodologies.  The program of work includes a major effort in
+              this area also.  The union of the two problem areas leads to the design of
+              statistical process control methodologies that are resistant to isolated
+              outliers.
+
+In large data bases it is impossible to verify the correctness or
+              internal consistency of the entries using current methodology.  Methods that
+              work well on small data sets are computationally unthinkable in data sets up in
+              the megabyte and beyond range leaving the quality of information in data bases
+              hostage to undetected errors.  This project is developing methods to identify
+              "outliers" --- atypical entries in large data bases --- with an acceptable,
+              though still large, amount of computational effort.  More processor power alone
+              will not solve the problem, but more powerful processors combined with the
+              improved algorithms developed in this program of work may do so.  The problem
+              is inherently amenable to distributed processing --- previous work showed how
+              outlier identification could be speeded up by using an array of central
+              processors.  Another thread of the work is cumulative sum (cusum) charting, a
+              tool in the statistical process control (SPC) family.  The classic Shewhart
+              Xbar and R control charts are incapable of detecting small but persistent
+              shifts.  Such shifts are found and diagnosed rapidly with cusums.  Used in
+              conjunction with Shewhart charts, cusums can diagnose manufacturing problems,
+              leading to substantial quality improvement.  Cusums are also effective in many
+              other monitoring situations, from online medical monitoring to detecting plumes
+              of pollution in air or water.  Groundwater monitoring around a landfill, for
+              example, aims at exactly this problem of detecting an increased level of
+              pollutants against a highly variable background.  Cusums are already recognized
+              as a powerful tool to use in the detection and diagnosis of leakages, and their
+              extension to handle non-detect chemical data is important in extending their
+              applicability to pollutants like heavy metals that are harmful at low
+              concentrations.
+

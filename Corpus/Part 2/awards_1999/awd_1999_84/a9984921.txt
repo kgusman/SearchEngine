@@ -1,0 +1,90 @@
+Title       : CAREER:The Internet Congestion Manager
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 19,  2000      
+File        : a9984921
+
+Award Number: 9984921
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $275040             (Estimated)
+Investigator: Hari Balakrishnan hari@lcs.mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+                   Internet traffic patterns and applications have been evolving rapidly in
+              recent years and network congestion is becoming a problem of extreme
+              importance. While the Internet's transport protocol, TCP, incorporates
+              congestion control machinery and has largely been responsible for the stability
+              of the Internet to date, two problematic trends threaten this situation:
+    
+              Concurrent flows:   Several applications are characterized by multiple
+              concurrent flows between sender and receiver. Today, these flows compete with
+              each other for network resources, prove overly aggressive on the network, and
+              do not share information about the network with each other.
+     Lack of
+              adaptation:   An increasing number of applications use UDP-based flows without
+              sound congestion control because they do not need the reliable, in-order
+              service provided by TCP. Today, they do not learn about or adapt well to
+              hanging network conditions. Unfortunately, current protocol architectures do
+              not
+provide adequate support for this.
+     Motivated by these trends, this
+              NSF CAREER proposal takes a fresh look at Internet congestion management from
+              an end-system perspective and proposes a new architecture built around a
+              Congestion Manager (CM). The CM maintains network statistics across flows,
+              orchestrates data transmissions governed by  robust control principles, and
+              obtains feedback from the receiver, using a congestion Controller, Flow
+              Scheduler, and Feedback Prober. It also exports a simple yet powerful API for
+              applications to learn about network state and adapt their data transmissions to
+              obtain the best possible performance.
+     The research thrusts of this
+              proposal include: (i) network architecture, involving the design and deployment
+              of the CM infrastructure and API, (ii) analysis using mathematical and
+              simulation techniques of the impact of   congestion feedback on control
+              quality, of the spatial stability of Internet performance, and of the temporal
+              stability and potential for caching of network performance parameters, (iii)
+              algorithms, for deciding which flows share  congestion state, for new
+              congestion control techniques, and for aging congestion control parameters in
+              the absence of receiver feedback, (iv) protocols to communicate probes and
+              feedback between senders and receivers and allow user preferences to be
+              reflected in data transmissions, (v) implementation of the CM and several
+              applications including Web and real-time conferencing ones, and (vi) deployment
+              of the CM and its applications in the wide-area Internet to  conduct
+              performance experiments.
+     If successful, this research has the potential
+              to fundamentally change the network architecture of end-hosts and greatly
+              improve the design and    implementation of Internet applications, forming the
+              basis for congestion management in the future Internet. As this work matures,
+              IRTF- (Internet Research Task Force) and IETF-sanctioned (Internet Engineering
+              Task Force) standardization of some of the CM protocols and API are expected,
+              as are discussions with vendors of popular server operating systems to explore
+              technology transfer issues. The major expected results of this research are a
+              detailed design, analysis, and evaluation of the CM architecture the internal
+              algorithms, analysis of congestion, the adaptation API, the CM protocol, a
+              reference implementation in the Linux operating system, and several
+              applications. The resulting software will be made freely available under the
+              standard M.I.T. copyright.
+     The education plan in this proposal consists
+              of three components: (i) curriculum development, to introduce two new courses
+              in networking at the undergraduate and graduate levels, focusing on fundamental
+              principles as well as practical issues, (ii) undergraduate research, tapping
+              into M.I.T.'s UROP program and involving undergraduate students in various
+              aspects of the proposed research, and (iii) a teaching philosophy emphasizing
+              the scientific method and experimental computer science in undergraduate
+              education, by designing several hands-on experimental tasks and using
+              simulation and visualization extensively in lectures the same tools that are
+              the vehicles for the research proposed herein. 
+

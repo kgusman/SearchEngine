@@ -1,0 +1,96 @@
+Title       : A Fluid Simulation Methodology for Complex, Large Scale Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 11,  2000    
+File        : a9809332
+
+Award Number: 9809332
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $631807             (Estimated)
+Investigator: Weibo Gong gong@ecs.umass.edu  (Principal Investigator current)
+              James F. Kurose  (Co-Principal Investigator current)
+              Donald F. Towsley  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+              Researchers from the University of Massachusetts at Amherst and
+              Dartmouth
+College jointly propose to perform fundamental research on
+              developing a
+fluid simulation methodology that will enable efficient,
+              multi-time-scale,
+hierarchical performance modeling of complex networks such
+              as the next
+generation Internet. The proposed effort will allow networks to be
+              more
+easily modeled and their performance to be evaluated significantly
+              faster;
+it will make it possible to model significantly larger networks than
+              before
+and to allow the tradeoffs between modeling accuracy and solution speed
+              to
+be quantitatively assessed. The novel features of the proposed
+              fluid
+modeling methodology include:
+>
+>Modeling at multiple time-scales. The
+              proposed unified modeling framework
+provides for modeling system behavior at
+              different time-scales, allowing for
+significant savings in simulation
+              execution times when modeling at coarser
+time-scales. Development of formal
+              means for quantitatively characterizing
+the potential loss of modeling
+              accuracy when fast-time-scale behavior is
+modeled at a coarser time-scale is
+              an important part of the framework.
+>
+>Hierarchical fluid modeling. The PIs
+              demonstrate that multi-level
+(hierarchical) fluid modeling allows for
+              abstraction of a potentially
+complex component of the simulation by a simpler
+              model and substitution of
+this simpler model into the larger simulation.  The
+              PIs also develop
+rigorous techniques that can automatically identify when such
+              substitution
+can be performed without significant loss of modeling
+              accuracy.
+>
+>Efficiency in modeling complex systems. The PIs demonstrate that
+              in
+addition to providing for multi-time-scale, multi-level modeling,
+              fluid
+simulation can be significantly more efficient than traditional
+              discrete
+event  simulation. The PIs' initial work shows a 50-fold speedup in
+              a
+uniprocessor fluid simulation speed over the discrete-event counterpart
+              with
+little loss in modeling accuracy. 
+>
+>Applicability in many problem
+              domains.  The PIs demonstrate that fluid
+simulation methodologies are ``plug
+              and play'' in the sense that they can be
+applied equally well to the current
+              Internet protocol suite, future
+real-time and multicast protocols, or  ATM
+              networks.
+>
+

@@ -1,0 +1,54 @@
+Title       : ITR/AP: A Motion Planning Approach for Protein Folding Simulation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 24,  2001 
+File        : a0113974
+
+Award Number: 0113974
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Nancy M. Amato amato@cs.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Abstract    :
+              This project will develop a framework for studying protein folding that is 
+              based on techniques recently developed in the robotics motion planning 
+              community. In particular, this work uses Probabilistic Roadmap (PRM) motion 
+              planning techniques which have proven to be very successful for problems 
+              involving high-dimensional configuration spaces. The key advance that PRMs 
+              offer protein science is the ability to efficiently explore large 
+              conformational transitions of realistic models of proteins. The work  involves
+              research in both protein science and information technology.    The project
+              has two main research goals related to protein science. First,  PRMs are
+              expected to provide a computational method to predict the folding  kinetics of
+              proteins, when the native structure is already known. This  makes PRMs ideal
+              for investigating classical problems in protein folding  kinetics such as
+              kinetic intermediates, kinetic traps, parallel vs. series  folding routes, and
+              general folding mechanism questions related to  potential energy landscapes and
+              zippers processes. Second, PRM, used in  conjunction with a new ENPOP parameter
+              optimization strategy, has the  potential to improve energy models both
+              high-resolution and low-resolution  models for predicting biomolecule
+              conformations.    The project has two main research goals related to
+              information technology.  Both are motivated by the massive computational
+              requirements of the  simulations needed to investigate the protein folding
+              questions. First, new  strategies and optimization techniques for PRMs will be
+              needed to support  the efficient extraction of high quality paths from the
+              roadmaps for  problems with hundreds of dof.  Second, since PRMs are known to
+              be amenable  to parallel implementation, they will utilize high-performance
+              computing.  This will include the development and application of an adaptive
+              parallel  version of the C++ STL (Standard Templates library) called STAPL.
+              With  STAPL, the simulations can be optimized and run on various parallel and 
+              distributed systems and yield a performance approaching that of code  manually
+              optimized for each platform 

@@ -1,0 +1,46 @@
+Title       : ITR: Distributed Analysis of Large Distributed Datasets with Java (BlueOx)
+Type        : Award
+NSF Org     : PHY 
+Latest
+Amendment
+Date        : August 5,  2002     
+File        : a0219095
+
+Award Number: 0219095
+Award Instr.: Standard Grant                               
+Prgm Manager: Barry I. Schneider                      
+	      PHY  DIVISION OF PHYSICS                     
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2002     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $119000             (Estimated)
+Investigator: Christopher Tully cgtully@princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1221,1652,OTHR,
+Abstract    :
+              The scale of data storage and analysis for the high energy physics experiments
+              at the Large Hadron Collider (LHC) at CERN, Switzerland, provides new
+              challenges and necessitates research into new concepts of CPU utilization. The
+              quantity of data produced is too large to store at any single university.
+              Rather, the data will be archived in a central location. This project will
+              develop techniques and software packages to enable the efficient distributed
+              analysis of these data by researchers at remote sites. This proposal would
+              support the investigation into how to send a user's request for a particular
+              analysis and some code to the locations where the data are stored and run the
+              code there. The system would then collect and assemble the results and present
+              them to the user. The framework would be the BlueOx system and Java will be the
+              implementation language for the BlueOx framework so as to take advantage of its
+              cross-platform compatibility.
+
+The most important challenge facing the
+              framework is that of scalability. This project plans to study and improve the
+              scalability by testing it with large dummy datasets of simulated data on a
+              moderate-sized computing cluster. The aim is to keep the generality that can
+              make it useful to many large scientific projects.
+

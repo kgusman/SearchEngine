@@ -1,0 +1,50 @@
+Title       : Fundamental Limits for Information Retrieval
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 31,  2002       
+File        : a9980416
+
+Award Number: 9980416
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2000      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $374991             (Estimated)
+Investigator: Kim A. Winick winick@eecs.umich.edu  (Principal Investigator current)
+              John T. Coffey  (Principal Investigator former)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              The fundamental limits of performance for a general model of information
+              retrieval from databases are studied.  In the scenarios to be considered a
+              large quantity of information is to be stored on some physical storage device. 
+              Requests for information are modeled as randomly generated sequences with a
+              known distributions.  The requests are assumed to be "context-dependent", i.e.,
+              to vary according to the sequence of previous request.  The state of the
+              physical storage device is also assumed to depend on the history of previous
+              requests.
+
+In general the logical structure of the information to be stored
+              does not match the physical structure of the storage device, and consequently
+              there are nontrivial limits on the minimum achievable average access times,
+              where the average is over the possible sequences of user request.  The propose
+              research will apply information-theoretic methods to establish these limits. 
+              Preliminary results demonstrate the potential of such methods for this problem,
+              giving very accurate results for some (relatively general) first
+              cases.
+
+Allowing redundancy in general can greatly lower the achievable
+              access times, even when the amount added is an arbitrarily small fraction of
+              the total amount of information in the dababase.  Preliminary results establish
+              the achievable limits both with and without redundancy for some simplified
+              cases; very many interesting problems arise in general.

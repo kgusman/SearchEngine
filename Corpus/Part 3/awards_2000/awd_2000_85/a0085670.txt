@@ -1,0 +1,79 @@
+Title       : ITR: Interactions of Multithreaded Computing and Operating System Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 17,  2002       
+File        : a0085670
+
+Award Number: 0085670
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $914613             (Estimated)
+Investigator: Henry M. Levy levy@cs.washington.edu  (Principal Investigator current)
+              Susan J. Eggers  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1661,9216,HPCC,
+Abstract    :
+              Proposal Number: 0085670
+Title:  Interactions of Multithreaded Computing and
+              Operating System Design
+PIs:  Henry M. Levy and Susan J.
+              Eggers
+
+Abstract:
+
+Over the next decade, highly scalable computer systems
+              consisting of
+hundreds or thousands of nodes will become necessary to meet
+              the
+demands of emerging global applications, such as Web and database
+servers
+              used for Internet commerce.  These applications must be
+multithreaded to
+              handle the thousands of simultaneous requests.  One
+promising technology for
+              this scalable server domain is the use of
+multithreaded processors; for
+              example, Compaq has announced
+Simultaneous Multithreading (SMT) support for
+              its Alpha processor 
+in the 2002/2003 time frame.
+
+Unfortunately, no
+              research has been conducted on multithreading
+support for operating systems or
+              on how to structure operating systems
+for multithreaded CPUs.  Yet the OS may
+              be crucial in this environment;
+e.g., measurements show that a loaded web
+              server can spend 75% of its
+time in the OS.  The proposed research will
+              develop the software
+environment to complement the multithreaded hardware
+              environment
+provided by SMT and other fine-grained parallel processors. 
+              The
+research sits squarely between architecture and operating
+              systems,
+examining (1) the design and performance of multithreaded
+              processors
+to support OS needs, and (2) the structure of operating systems
+              in
+light of the capabilities of multithreaded processors.  The research
+will
+              focus on these questions in the domain of highly parallel,
+request-driven
+              workloads, such as Web servers and database servers.
+
+

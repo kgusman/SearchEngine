@@ -1,0 +1,44 @@
+Title       : RIA: Recoverable Distributed Shared Memory Using Evolutionary Concurrent
+               Checkpointing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 29,  1998     
+File        : a9410028
+
+Award Number: 9410028
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1994     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Junsheng Long jlong@mosaic.uncc.edu  (Principal Investigator current)
+Sponsor     : U of NC Charlotte
+	      U N C C Station
+	      Charlotte, NC  28223    704/597-2000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              The shared memory computation model provides an attractive  alternative to the
+              message passing model such that the techniques  learned from parallel
+              computations can be applied to distributed  computation problems.  In a
+              distributed environment, node failures  are more often than in a
+              tightly-coupled multiprocessor system due  to man-made downtime.  The fault
+              recovery issue should be dealt  with in order to make the shared memory
+              computation model feasible  for distributed environments.    The objectives of
+              this project are (1) to develop a low overhead  concurrent checkpointing scheme
+              with a controllable checkpoint  interval and no global synchronization; (2) to
+              design a recoverable  distributed shared memory system based on the new
+              checkpointing  scheme; (3) to build an experimental system to examine the 
+              engineering issues related to building such systems; (4) to  evaluate different
+              checkpointing schemes, with benchmark  applications; and (5) to explore
+              potential distributed  applications, based on shared memory computations.

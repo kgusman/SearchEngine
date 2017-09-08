@@ -1,0 +1,63 @@
+Title       : Experimental Software Systems: A Parallel Message-Passing Platform for Atomic
+               Structure Calculations
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : November 8,  2000   
+File        : a9996143
+
+Award Number: 9996143
+Award Instr.: Standard Grant                               
+Prgm Manager: William W Agresti                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Amy W. Apon aapon@uark.edu  (Principal Investigator current)
+              Lawrence W. Dowdy  (Co-Principal Investigator current)
+              Charlotte F. Fischer  (Co-Principal Investigator current)
+Sponsor     : U of Arkansas
+	      120 Ozark Hall
+	      Fayetteville, AR  72701    501/575-2000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 
+Program Ref : 2861,9216,9218,HPCC,
+Abstract    :
+              9806521
+Apon, Amy W.
+Fischer, Charlotte F. 
+Vanderbilt
+              University
+
+Experimental Software Systems:  A Parallel Message-Passing
+              Platform for Atomic Structure Calculations
+
+This project is an experimental
+              and analytic investigation of a previously untested type of network interface
+              as the interconnect of a cluster of workstations for the calculation of atomic
+              structure data.  As an example, recent calculations for the prediction of the
+              electron affinity of boron yielded an answer that spurred new experimental
+              measurements of a boron atom.  However, such accuracy for larger atoms may
+              present a considerable computational challenge.  The hardware platform being
+              studied is a cluster of workstations interconnected with a network interface
+              that contains user-level accessible memory.  Each node has memory in the
+              network interface that can be used to cache shared data, and that may be read
+              or written by any node.  
+
+Primary efforts are to (1) propose modifications
+              to the atomic structure calculation that use network interface memory as a
+              respository for selected shared data, (2) evaluate via analysis and
+              experimentation the effectiveness of using shared buffers and zero-copy
+              messaging for atomic structure calculations, and evaluate tradeoffs such as
+              memory partitioning techniques and data and thread placement, and (3) propose
+              generalizations of these experimental results for use in other scientific
+              code.
+
+It is expected that investigations will lead to a new proposal for an
+              implementation of large atomic structure calculations with better
+              performance.
+

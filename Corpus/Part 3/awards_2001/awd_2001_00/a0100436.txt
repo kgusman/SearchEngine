@@ -1,0 +1,49 @@
+Title       : Spatial and Spatio-Temporal Aggregation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0100436
+
+Award Number: 0100436
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $344276             (Estimated)
+Investigator: Bongki Moon bkmoon@cs.arizona.edu  (Principal Investigator current)
+              Richard Snodgrass  (Co-Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              Aggregate computation is expensive, especially when time-varying attributes are
+              involved in it. The task of computing aggregates becomes more challenging for
+              spatial and spatio-temporal databases, as the spatial and temporal extent over
+              which the aggregate value holds must be computed. For example, multi-attribute
+              images are often the result of a query in the Earth Observing System (EOS)
+              environments, which retrieves all of the measurements incident on the pixels
+              that satisfy the spatio-temporal bounds of the query. Each pixel of
+              multi-attribute images has several values associated with it. This project
+              develops a suite of techniques for computing spatio-temporal aggregates. While
+              there has been significant work done in temporal aggregation, little is known
+              about how to evaluate spatial aggregates. The existing temporal aggregation and
+              spatial join algorithms are generalized to create efficient algorithms for
+              computing spatial aggregates, and then further generalized these algorithms to
+              accommodate spatio-temporal aggregates. In addition, scalable techniques will
+              be developed by parallelizing the aggregation algorithms on a shared-nothing
+              architecture. The project team includes a hydrologists at the United States
+              Geological Survey on the USGS Death Valley Regional Flow System (DVRFS)
+              Project, which is investigating ground-water flow in the Nevada Test Site,
+              proposed as a repository for high-level nuclear waste. The results from this
+              research has a direct impact on many large-scale spatio-temporal database
+              applications such as EOS, cadastral databases, atmospheric databases and
+              hydrologic databases. 

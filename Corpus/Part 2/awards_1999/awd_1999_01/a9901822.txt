@@ -1,0 +1,40 @@
+Title       : Semidefinite Programming and Interior Point Cutting Plane Approaches to Integer
+               Programming Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 20,  1999    
+File        : a9901822
+
+Award Number: 9901822
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $247366             (Estimated)
+Investigator: John E. Mitchell mitchj@rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Many integer programming problems can be solved by examining a sequence of
+              relaxations.  Possible relaxations include linear programming problems and
+              semidefinite programming (SDP) problems.  This project is concerned with
+              solving integer programming problems by using interior point methods to solve
+              the relaxations.  The development of these methods will make it possible to
+              solve problems that were previously considered intractable or too large. 
+              Preliminary results show that an interior point cutting plane method is able to
+              solve some far larger MAXCUT problems than with a simplex cutting plane method,
+              that using a combination of an interior point and simplex cutting plane methods
+              can be an order of magnitude faster than using either just an interior or
+              simplex cutting plane algorithm for linear ordering problems, and that an SDP
+              cutting plane algorithm for MAXSAT problems is considerably faster than other
+              methods for certain instances with many clauses.

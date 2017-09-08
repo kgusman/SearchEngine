@@ -1,0 +1,64 @@
+Title       : Compilation and Automatic Optimization of Network Protocol Implementations
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 13,  2000     
+File        : a9628218
+
+Award Number: 9628218
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $415063             (Estimated)
+Investigator: Ron K. Cytron cytron@cs.wustl.edu  (Principal Investigator current)
+              Douglas C. Schmidt  (Co-Principal Investigator current)
+              George Varghese  (Co-Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,9218,HPCC,
+Abstract    :
+                Network software is hard to design, implement, debug, and maintain. This 
+              basic problem is compounded by heterogeneity and the need for high 
+              performance.  Heterogeneity results in multiplying the amount of networking 
+              software that must be developed and maintained. To improve performance, 
+              networking software is often hand-crafted in an operating system kernel,  where
+              software is particularly hard to debug and maintain.  Emerging  high-speed
+              networking technology, coupled with next generation multimedia  applications,
+              is resulting in increased demand for high performance and  extremely flexible
+              networking software.  A fundamental theme of this  proposal is that advances in
+              network software can only be achieved by an  approach that simultaneously
+              considers programming ease, platform  diversity, and performance.    This
+              proposal investigates the use of compiler technology to rapidly  prototype and
+              automatically optimize complex protocol software.  The result  is network
+              software that is easier to write, more portable, and more  maintainable.  Yet,
+              with the appropriate automatic optimizations, the  performance of such
+              implementations should compare favorably to the  performance of hand-crafted
+              implementations.    The first part of our proposal concerns techniques for
+              automatically  optimizing network software to achieve Gigabit link speeds. 
+              This involves  inventing new optimization techniques (e.g., fusing together
+              individual  message demultiplexing definitions into efficient demultiplexing
+              code),  automating existing optimization paradigms (e.g., header prediction and
+               address caching), and extending existing work on automated optimization 
+              techniques.  Our plans call for building on the existing theory underlying 
+              optimizing compilers to unify various ad hoc techniques, and to provide a 
+              point of departure for producing new optimization techniques.    The second
+              part of our proposal involves a framework that integrates our  optimization
+              techniques to support rapid prototyping of efficient  ne tworking software.  We
+              enable protocol code to be developed without undue  attention paid to low-level
+              wire data formats; operating system specific  mechanisms for demultiplexing,
+              synchronization, or error handling.  This  allows an extremely compact protocol
+              description that is then compiled and  optimized by our framework to a wide
+              range of target environments.  These  environments include a simulator,
+              application-level network interfaces, and  shared-memory multiprocessor
+              platforms.

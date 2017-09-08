@@ -1,0 +1,60 @@
+Title       : CAREER: Iterative Decoding Schemes For Channels With Memory: Application To
+               Fading Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 29,  2003   
+File        : a0093215
+
+Award Number: 0093215
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2001  
+Expires     : January 31,  2006    (Estimated)
+Expected
+Total Amt.  : $299890             (Estimated)
+Investigator: Javier Garcia-Frias jgarcia@eecis.udel.edu  (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              Error correcting codes (channel codes) are on e of the key elements to optimize
+              digital communications systems.  Traditionally, the design of good error
+              correcting codes assumes memoryless channels.  In this context, turbo codes and
+              the rediscovery of low-density parity check (LDPC) codes represent two of the
+              most significant advances in channel coding in recent years:  Iterative
+              decoding of these codes makes it possible to achieve performance close to the
+              theoretical limits for memoryless channels.  However, in most of the
+              applications, the channel is not so simple.  This research focuses on the study
+              of iterative decoding for more realistic channels, such as wireless
+              communications channels, characterized by having memory.  The objective is to
+              achieve reliable communications, close to theoretical limits, for these types
+              of channels.  This will have a direct application in the design of realistic
+              communications systems (including wireless communications), allowing a
+              reduction in the transmitter power requirements for a given quality of service,
+              and a better use of the available bandwidth.
+
+In order to achieve the best
+              possible performance when the channel has memory, the statistical properties of
+              the channel must be exploited in the decoding process.  This will be
+              accomplished in a two-fold process:  First, statistical models, such as hidden
+              Markov models and stochastic grammars, the iterative decoding schemes will be
+              modified to incorporate the statistical models in the decoding of turbo codes,
+              LDPC codes, and concatenated space-time codes.  Both steps are completely
+              interwined.  The idea is to jointly design the statistical models and the
+              decoding modifications, taking the decoding performance for the real channel as
+              the real channel as the optimization criterion.  Moreover, when possible, this
+              process should work adaptively, with no a priori knowledge of the channel
+              required: when the communications system is used in an unknown channel, a
+              convenient statistical model of the channel should be obtained jointly with
+              decoding (in either a completely blind fashion if possible or by using pilots).
+               In every iteration such a model should be used for the decoding and be
+              conveniently refined.
+

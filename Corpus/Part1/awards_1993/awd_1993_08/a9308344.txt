@@ -1,0 +1,54 @@
+Title       : Research Initiation Award: Cleopatra: A Programming Environment for Embedded
+               Time-Critical Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  1993      
+File        : a9308344
+
+Award Number: 9308344
+Award Instr.: Standard Grant                               
+Prgm Manager: Bruce H. Barnes                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1993      
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $99807              (Estimated)
+Investigator: Azer Bestavros best@cs.bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2880,9216,9264,
+Abstract    :
+              Predictability - the ability to foretell that an                               
+              implementation will not violate a set of specified                             
+              requirements - is a crucial, highly desirable property of                      
+              embedded systems.  This research aims at developing a                          
+              programming environment (language, libraries, and tools) for                   
+              building predictable time-critical systems.                                    
+                                                                                             
+              The backbone of the environment is CLEOPATRA, a programming                    
+              language that is demonstrably well-suited for the                              
+              requirements of embedded systems.  CLEOPATRA features a C-                     
+              like imperative syntax for the description of computation,                     
+              which makes it easier to incorporate in applications already                   
+              using C.  It is event-driven, and thus appropriate for                         
+              embedded process control applications. It is object-oriented                   
+              and compositional, thus advocating modularity and                              
+              reusability.  CLEOPATRA is semantically sound; its objects                     
+              can be transformed, mechanically and unambiguously, into                       
+              formal TRA automata for verification purposes, which can be                    
+              pursued using model-checking or theorem providing                              
+              techniques. Since 1989, an ancestor of CLEOPATRA has been in                   
+              use as a specification and simulation language for embedded                    
+              time-critical robotic processes.  The goal of this research                    
+              goes one step further.  It aims at building an integrated                      
+              CLEOPATRA-based support environment that would be useful for                   
+              real-time system developers, both in academia and in                           
+              industry.

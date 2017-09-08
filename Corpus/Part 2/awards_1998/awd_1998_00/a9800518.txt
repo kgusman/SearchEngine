@@ -1,0 +1,47 @@
+Title       : Using Probabilistic Context-Free Languages and the BranchingProcess to Model
+               Packet Dependence in Telecommunications Traffic Simulations and Calculations
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 6,  1999        
+File        : a9800518
+
+Award Number: 9800518
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1998      
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $55486              (Estimated)
+Investigator: Richard A. Thompson rat@lis.pitt.edu  (Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,9237,HPCC,
+Abstract    :
+              When we design queue sizes, link bandwidths, and other network parameters, we
+              assume   that successive packets are statistically independent.  We make this
+              assumption because   (1) we don't have a good way to specify such dependencies,
+              (2) our useful underlying   mathematical tools are based on this assumption,
+              and (3) it has given us decent results.    However, in broadband and/or
+              wide-area networks, it's no longer clear we're getting   decent results.  In
+              this research project, the theory of Probabilistic Context-Free   Grammars is
+              proposed as a tool for specifying statistical dependence among successive  
+              packets in a network.  We will try to extend the underlying mathematics, the
+              N-Type   Branching Process, so it can specify the queue sizes, link bandwidths,
+              and other network   parameters.  Eventually, we will compare the specifications
+              from the classical design and   from this new design to real measurements.   
+              For the SGER component of this project, we will develop a convincing example. 
+              This   example will show how a Probabilistic Context-Free Grammar can be used
+              to specify   statistical dependence among successive packets in a network.  It
+              will illustrate how the   current state of the underlying mathematics (the
+              N-Type Branching Process) can be used   to specify network parameters (packet
+              queues, link bandwidths, etc.) more realistically   than does the classical
+              design technique (that assumes packet independence).  This   illustrative
+              example will be used in a follow-up proposal for an extended research project.

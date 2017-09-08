@@ -1,0 +1,59 @@
+Title       : Scalable Performance Models for Large Scale Networks with Correlated Traffic
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0106640
+
+Award Number: 0106640
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $299993             (Estimated)
+Investigator: Kenneth Mitchell   (Principal Investigator current)
+              Victor L. Wallace  (Co-Principal Investigator current)
+              Appie van de Liefvoort  (Co-Principal Investigator current)
+Sponsor     : U of Missouri Kansas City
+	      5100 Rockhill Road
+	      Kansas City, MO  641102446    816/235-1303
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   It  is well established that long-range autocorrelation and heavy-tailed
+              inter-packet time distributions are dominant characteristics of modern
+              multimedia high speed network traffic, determining limits to performance and
+              radically influencing policies for management.  Incorporating such
+              characteristics in parametric performance models has so far been difficult.    
+                                                                                             
+                   This project will center about the development of powerful and efficient
+              models to capture network behavior for varying levels of abstraction while
+              incorporating approximations to long-range dependence and heavy tails.  The
+              model does not solely rely on steady state results, but rather on a finite
+              horizon that can be used for online monitoring and early detection of rare
+              events.  In particular, this means that time dependent threads can be modeled
+              which are the root cause of such dependency related problems.  Decomposability
+              techniques will be used to decrease the granularity if possible and to scale
+              the model to time scales suitable for online analysis and control.             
+                                                                                             
+                                                    The approach will be to extend the
+              successful and innovative model developed for a high-speed network.  Highly
+              correlated arrival processes can be viewed as nearly-completely decomposable
+              processes, which in turn impose a nearly-completely decomposable structure on
+              the system as a whole.  Each of these nearly decomposed systems can be solved
+              separately and in parallel and their solutions combined to accurately evaluate
+              the performance of the system.                                                 
+                                                                                  
+              Theoretical work must be done to determine error bounds and robust algorithms
+              for solutions in a wide range of applications, to allow flexible approximation
+              of measured correlations, and to broaden the classes of results that can be
+              computed.  Additionally, experimental work must be done to exercise models and
+              compare them with published and other artifactual data.  Finally, a prototype
+              software package will be developed that demonstrates the viability of placing
+              this tool in the hands of practicing network engineers and equipment designers.

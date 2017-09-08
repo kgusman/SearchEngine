@@ -1,0 +1,49 @@
+Title       : Experimental Software Systems: Hardware-Software Co-Design of an Experimental
+               Real-Time Operating System and a Microcontroller Architecture
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : September 3,  1998  
+File        : a9806645
+
+Award Number: 9806645
+Award Instr.: Standard Grant                               
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $280000             (Estimated)
+Investigator: David B. Stewart   (Principal Investigator current)
+              Bruce L. Jacob  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2861,9218,HPCC,
+Abstract    :
+              9806645  Stewart, David B.  Jacob, Bruce L.  University of Maryland, College
+              Park    Experimental Software Systems:   Hardware-Software Co-Design of an
+              Experimental  Real-Time Operating System and Microcontroller Architecture    A
+              hardware-software co-design strategy is being used to create an environment for
+              real-time embedded systems, comprising a real-time operating system (RTOS) for
+              microcontrollers, and a set of hardware mechanisms that enhance a
+              microarchitecture's real-time capabilities. The project validates this
+              experimental system through extensive testing on a simulated processor, and
+              measures the cost-effectiveness of the hardware architecture extensions over a
+              wide range of design choices. The central contribution on the hardware side is
+              the addition of multiple "nanoprocessors" and software-managed caches to the
+              main processor core; each of these is a software-configurable finite state
+              machine (FSM) with limited processing capabilities, but each has access to most
+              of the processor state. These hardware mechanisms are orthogonal to the
+              underlying microarchitecture and can be implemented inexpensively even in a
+              low-cost microcontroller. The RTOS implements all of its high-overhead
+              operating   system functions as FSMs that are mapped onto the configurable
+              hardware. Each of the nanoprocessors becomes a personal assistant to the
+              operating system, performing mundane tasks such as prioritizing interrupts,
+              filtering input/output, or acting as high-resolution timers. This leaves the
+              full   100% of CPU processing time on the main processor core for applications.

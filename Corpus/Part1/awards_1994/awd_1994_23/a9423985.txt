@@ -1,0 +1,42 @@
+Title       : Multi-Purpose Parallel Process for Biosequence Analysis
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : January 29,  1998   
+File        : a9423985
+
+Award Number: 9423985
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $557287             (Estimated)
+Investigator: Richard Hughey rph@cse.ucsc.edu  (Principal Investigator current)
+              Kevin Karplus  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Cruz
+	      1156 High Street
+	      Santa Cruz, CA  950641077    408/429-0111
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 2891,9215,HPCC,
+Abstract    :
+              This project is building an application-specific computer system  for
+              biosequence comparison.  The architecture is suitable for a  wide range of
+              sequence comparison methods, including the Smith-  Waterman algorithm, BLAST,
+              profile searches and dictionary methods.   In addition, the architecture is
+              being integrated with software for  the statistical analysis of sequences using
+              techniques such as  hidden Markov models.    The core of the architecture is a
+              linear array of SIMD processing  elements, each with a small local memory.  A
+              single chip can  contain 64 of these elements, so a board with 20 chips will
+              hold  1280 processors.  The processing elements have been tuned to  sequence
+              comparison by incorporating a single cycle add-and-min  instruction and a
+              data-path for quickly recording the results of  the instruction.  Software,
+              I/O, and algorithms have been  considered in the design of this architecture;
+              the resulting  balanced implementation should result in high performance at low
+               cost.

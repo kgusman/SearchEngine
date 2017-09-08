@@ -1,0 +1,49 @@
+Title       : Applications of Morse Theory and Catastrophe Theory to Computer Graphics
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  1998    
+File        : a9732379
+
+Award Number: 9732379
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $220541             (Estimated)
+Investigator: John C. Hart   (Principal Investigator current)
+              Robert R. Lewis  (Co-Principal Investigator current)
+Sponsor     : Washington State Univ
+	      Office of Grants & Research Dev
+	      Pullman, WA  991643140    509/335-9661
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Morse theory and catastrophe theory provide powerful models of  the neighborhood
+              of a critical point of a real function. Under  suitable conditions these models
+              are in fact capable of  discerning the topological type of the domain of the
+              function.  This project extends software that finds and tracks critical  points
+              to guarantee the topological type of an implicit surface  polygonization, and
+              applies it to other areas of computer  graphics. These techniques can solve a
+              variety of currently  open problems of computer graphics.    The most immediate
+              application is a topologically-correct  implicit curve parameterization. The
+              techniques can aid in the  visualization of complicated manifold immersions by
+              providing the  ability to switch between surface renderings and 2-D slices on 
+              and between Morse critical values of a height function. The  techniques can
+              maintain the topological type of a shape during  transformation, such that for
+              example the intermediate shapes in  the transformation of a donut into a coffee
+              cup all consist of a  single component with one hole. Modeling the neighborhood
+              of a  critical point should also aid in maintaining a consistent  texture
+              mapping across a change of genus.  Incorporating critical  points in a data
+              compression algorithm yields a data  compression that avoids errors that alter
+              the topological type of  the reconstructed data. Similar techniques can insure
+              that the  simplification of complex geometry for faster display does not 
+              sacrifice the qualitative nature of its topological type.  Finally, the
+              application of catastrophe theory to global  illumination will yield a faster
+              algorithm for determining  regions of caustic reflection.

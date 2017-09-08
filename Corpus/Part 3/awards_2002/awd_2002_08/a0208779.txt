@@ -1,0 +1,86 @@
+Title       : Cyberlogic
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  2002      
+File        : a0208779
+
+Award Number: 0208779
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2002      
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $329975             (Estimated)
+Investigator: Harald Ruess ruess@csl.sri.com  (Principal Investigator current)
+              Natarajan Shankar  (Co-Principal Investigator current)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1667,9218,HPCC,
+Abstract    :
+              
+Cyberlogic is a semantic foundation for implementing evidential
+transactions
+              using the public key infrastructure (PKI).  Evidential
+transactions form the
+              basis of frameworks for authorization and
+authentication, electronic commerce,
+              business workflow, and digital
+government.  Such transactions involve the
+              exchange of physical evidence
+in the form of identity cards, driver's
+              licenses, money, checks, visas,
+airline tickets, traffic tickets, birth
+              certificates, and stock
+certificates, as well as electronic evidence including
+              PIN numbers,
+passwords, keys, certificates, and nonces.  Cyberlogic is an
+              enabling
+foundation for building and analyzing protocols that involve
+              the
+exchange of electronic forms of evidence.
+
+Cyberlogic builds on
+              evidence, public keys, and protocols.  First, evidence
+is encoded by means of
+              numbers using digital certificates and nonces.
+Second, public keys are
+              predicates so that any information $i$ signed by a
+private key corresponding
+              to the public key $P$ entails that $P$ holds of
+$i$.  Indeed, the signed
+              certificate is a proof for the assertion contained
+in the certificate.  Third,
+              protocols are distributed logic programs that
+gather evidence by using both
+              ordinary predicates and digital
+certificates.   These simple building blocks
+              can be used to
+construct a rich variety of services in a variety of
+              domains
+ranging from digital government to access control in computer
+              systems.
+
+The public key infrastructure (PKI) provides basic services
+              for
+encryption, authentication, trust, authorization, and
+              digital
+certificates.  Cyberlogic is a protocol layer over the PKI that serves
+              as
+a reliable foundation for evidential transactions.  It provides
+              a
+standardized semantic and computational infrastructure for
+              exchanging
+evidence in electronic form.  With such a foundation, it is
+              possible to
+design secure electronic versions of transactions that currently
+              require
+physical forms of evidence.
+

@@ -1,0 +1,43 @@
+Title       : Efficent I/O Communication for High-Performance Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 7,  1998    
+File        : a9522047
+
+Award Number: 9522047
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1996   
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $274999             (Estimated)
+Investigator: Jeffrey S. Vitter jsv@cs.duke.edu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              The project focuses on the following crucial areas of large-scale  computing and
+              communication, all of which revolve around issues  of Input/Output (I/O)
+              communication and locality:       (a) External memory and I/O performance: The
+              relative  bottleneck in many large scale applications is the I/O  communication
+              between main memory, and external memory  and/or other levels of memory.  The
+              goal is to develop an  understanding of the limits of I/O systems and to 
+              construct external-memory algorithms that are  simultaneously optimal in terms
+              of internal computation  and I/O.       (b) TPIE: a Transparent Parallel I/O
+              programming  Environment:  A system called TPIE is proposed, consisting  of an
+              easy-to-use object-oriented interface linked to  powerful disk and memory
+              management primitives, to  facilitate implementation and evaluation of
+              external-  memory algorithms.       (c) Prediction and applications to caching:
+              By contrast,         the problem of cache replacement involves designing an 
+              utility (which can be part of an operating system) to  manage the cache memory
+              so that the data requested during     the  application algorithm are most often
+              local in the  cache, thus avoiding costly page fetches.  ***

@@ -1,0 +1,46 @@
+Title       : Hardware Generation of Threads in a Multithreading Processor
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 4,  2000        
+File        : a9808697
+
+Award Number: 9808697
+Award Instr.: Continuing grant                             
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $422592             (Estimated)
+Investigator: Dean M. Tullsen tullsen@cs.ucsd.edu  (Principal Investigator current)
+              Bradley G. Calder  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              Simultaneous Multithreaded (SMT) processors depend on thread-  level parallelism
+              (multiple jobs to run) to surpass the  performance of single-threaded
+              processors. However, single-  thread performance is still important for
+              mainstream  processors. When there are only one or a few processes in  the
+              system, hardware can create threads that increase the  ILP available to the SMT
+              processor, using otherwise idle  resources. This project is developing hardware
+              thread-  generation techniques to increase SMT performance in the  absence of
+              software-generated thread-level parallelism. The  techniques being
+              investigating include multiple path  execution, instruction recycling, and
+              speculative loop  execution. Threaded Multiple-path Execution (TME) takes 
+              advantage of idle hardware contexts to solve the branch  problem, speculatively
+              executing multiple paths through  conditional branches in a single application.
+              Instruction  Recycling increases the efficiency of multiple-path  execution, as
+              it avoids refetching instructions which are  not path-dependent on a branch,
+              and avoids re-executing  instructions that are not data-dependent on the
+              branch.  Speculative Loop Parallelism speculatively executes multiple  future
+              loop iterations in parallel, using compiler analysis  and dynamic hardware
+              detection of loops and induction  statements.

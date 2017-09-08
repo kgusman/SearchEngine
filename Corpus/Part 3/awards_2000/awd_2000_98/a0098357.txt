@@ -1,0 +1,70 @@
+Title       : Turbo Coded Modulation for Partially Coherent Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 20,  2003  
+File        : a0098357
+
+Award Number: 0098357
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2001       
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $245925             (Estimated)
+Investigator: Benjamin J. Belzer belzer@eecs.wsu.edu  (Principal Investigator current)
+Sponsor     : Washington State Univ
+	      Office of Grants & Research Dev
+	      Pullman, WA  991643140    509/335-9661
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Abstract:
+
+This research considers the design of bandwidth efficient coded
+              modulation for partially coherent channels.  Such channels occur in practice
+              when coherent receivers are operated at low or moderate signal-to-noise ratios
+              (SNRs), resulting in noisy phase estimates.  This happens for example on
+              wireless channels, where multipath fading causes fluctuations in received SNR. 
+              This research leverages a recent breakthrough known as turbo coding, wherein
+              the outputs of two or more encoders at the transmitter are iteratively decoded
+              at the receiver, resulting in reliable communication at SNRs within 1 dB of
+              channel capacity. This research integrates phase-tracking error into all
+              aspects of turbo coded modulation design, thereby reducing the required SNR for
+              practical coherent communication systems.  The new design techniques stemming
+              
+from this research will therefore interest not only communication and coding
+              theorists, but also engineers designing practical communication systems.
+
+The
+              goal of this research is to develop theoretically based, practical design
+              methods for parallel and serially concatenated turbo coded modulation over
+              partially coherent (PC) channels, including PC additive white Gaussian noise
+              (AWGN) channels, and PC fading channels with and without channel state
+              information (CSI), with and without correlated fading, and with closed-loop and
+              open-loop phase estimation.  The investigators study the information capacity
+              of PC channels, and determine capacity-achieving input probability density
+              functions (PDFs) and capacity-optimal constellations for equiprobable and
+              non-equiprobable signaling under average and peak power constraints.  Distance
+              metrics based on pairwise symbol error probabilities will be derived for PC
+              fading channels, and iterative decoder performance prediction tools based on
+              union bounds and convergence-region analysis will be developed.  The
+              investigators will then study set-partitioning, bits-to-symbol mapping, and
+              code-search procedures for both linear and non-linear recursive convolutional
+              encoders used as constituent codes in concatenated trellis-coded modulation
+              schemes.  Finally, shaping code design techniques for turbo coded modulation on
+              power-constrained PC channels will be developed, based on the
+              capacity-achieving PDFs of these channels, which are known to be non-Gaussian.
+              These codes will shape the high-dimensional space of encoder output symbol
+              sequences so that the induced two-dimensional PDF will 
+closely approximate
+              the capacity-optimal input PDF.    
+
+
+
+

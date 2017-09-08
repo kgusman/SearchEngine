@@ -1,0 +1,83 @@
+Title       : ITR: Exploiting Remote Infrastructure for Mobile Information Access
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 22,  2001       
+File        : a0081396
+
+Award Number: 0081396
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $488820             (Estimated)
+Investigator: Mahadev Satyanarayanan satya@cs.cmu.edu  (Principal Investigator current)
+              Mor Harchol-Balter  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9102,9218,HPCC,
+Abstract    :
+                   The researchers propose to design, implement, analyze and evaluate
+              mechanisms that will enable mobile clients to opportunistically exploit
+              computing, data and communication resources in the fixed infrastructure to
+              facilitate information access. A mobile client typically faces many resource
+              challenges. These include unpredictable variation in wireless network quality;
+              wide disparity in the availability of remote services; limitations imposed by
+              weight and size constraints on CPU power, memory size and disk capacity; and
+              concern for battery power consumption. The goal is to exploit remote
+              infrastructure, such as transient caching sites or compute servers, to overcome
+              these challenges. When such infrastructure is unavailable or would be too
+              expensive or slow to access in terms of battery power or bandwidth, the
+              researchers wish to be able to continue operation relying solely on local
+              resources. The challenge is to come up with the adaptive mechanisms, algorithms
+              and policies that can be effectively implemented on a resource-limited mobile
+              client, yet function smoothly and seamlessly from a user's viewpoint. 
+    
+              The research will span both experimentation and analysis. On the one hand, the
+              researchers plan to design, implement, and evaluate mobile computing systems
+              embodying innovative solutions to the challenges described above. This will
+              give the researchers the hands-on experience and insights needed to elucidate
+              sound design principles for this domain. In parallel, the researchers plan to
+              conduct an analytical and modelling effort to obtain a deeper understanding of
+              fundamental tradeoffs in adaptation, and to explore a much broader region of
+              the design space than feasible experimentally. 
+     This effort will be
+              organized into three major thrusts:
+     1.Efficient file cache management for
+              mobile clients
+     2.Offloading computation for energy and bandwidth
+              savings
+     3.Modelling and analysis of adaptation tradeoffs
+     In the
+              first thrust, the researchers plan to explore the use of intermediate caching
+              sites in the infrastructure to improve the efficiency of cache management in
+              mobile file systems. The importance of caching for mobile information access is
+              widely acknowledged, but what specific form it should take in the mobile
+              systems of the future remains an open question. In the second thrust, the
+              researchers will explore techniques for mobile clients to adaptatively offload
+              computation on servers in the infrastructure. Such offloading may be useful for
+              improved performance as well as enhanced battery life. In the third thrust, the
+              researchers will analytically investigate a wide range of policies for the
+              mechanisms developed in the other thrusts. The mobile computing systems of the
+              future are likely to encounter considerable variability in environmental
+              conditions, user preferences, and application characteristics. Characterizing
+              this large multi-dimensional space analytically, and understanding its
+              implications for alternative policies will be critical to the development of
+              successful systems.
+     If successful, the research will bring mobile
+              computing one step closer to reality. Although commercial deployment of mobile
+              computing systems is an enormous potential market for industry, many difficult
+              technical problems remain to be solved. Incremental efforts by industry to
+              extend today's widely-deployed commercial off-the-shelf systems to mobile
+              environments will not solve these problems. The researchers proposed effort,
+              combining experimentation and analysis on a key set of challenging problems,
+              thus represents a high-risk, high-payoff venture.
+

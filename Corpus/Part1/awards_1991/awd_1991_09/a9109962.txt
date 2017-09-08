@@ -1,0 +1,66 @@
+Title       : Estimation and Stabilization of Hybrid Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : February 9,  1993   
+File        : a9109962
+
+Award Number: 9109962
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1991  
+Expires     : November 30,  1993   (Estimated)
+Expected
+Total Amt.  : $49973              (Estimated)
+Investigator: Yaakov Bar Shalom   (Principal Investigator current)
+              Chun Yang  (Co-Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      14 Dog Lane
+	      Storrs, CT  062694133    203/486-2000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              This research deals with an important class of                                 
+              stochastic systems, whose dynamic character is                                 
+              undergoing random abrupt changes.  These systems are                           
+              called hybrid systems since they are suitably                                  
+              described in a hybrid space consisting of the usual                            
+              continuous-valued system state or base state and a                             
+              finite valued discrete jump state or system mode.  The                         
+              switching of the mode indicates a change of the base                           
+              state dynamics.  For systems with a finite number of                           
+              modes the optimal estimation problem has                                       
+              computational requirements that are exponentially                              
+              increasing with the time horizon,i.e., infeasible in                           
+              practice.  While a number of estimation and control                            
+              algorithms have been developed for this class of                               
+              problems based on noisy state observations, they relied                        
+              on heuristic approximations.  In view of this, no hard                         
+              results, like stability of the controlled system, could be                     
+              proved.  Performance evaluation for these algorithms                           
+              has been done only via Monte Carlo simulations.                                
+              The investigation we are proposing will consider the                           
+              following three major problems related to hybrid                               
+              systems: estimation, control and stability.  In the area                       
+              of estimation there ar several practical algorithms and                        
+              we shall focus on developing tools for prediction of                           
+              their performance without recourse to expensive                                
+              simulations and, in particular, the evaluation                                 
+              of the stability of such algorithms in tracking                                
+              problems -- a major practical issue in e.g., Air Traffic                       
+              Control Systems.  For controlling such systems there                           
+              are some algorithms, but, since they were developed                            
+              using heuristic approximations to the Stochastic                               
+              Dynamic Programming, one cannot evaluate the                                   
+              stability of the resulting controlled systems.                                 
+              A real-time implementable control algorithm will be                            
+              obtained using an upper bounding technique in the                              
+              Stochastic Dynamic Programming.  This technique will                           
+              then be used to show, with a stochastic Lyapunov                               
+              function, that the resulting closed-loop system is stable.

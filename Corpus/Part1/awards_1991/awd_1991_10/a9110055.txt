@@ -1,0 +1,47 @@
+Title       : Automata-Driven Matching, Unification and Indexing for Logic Programming and
+               Rewriting
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  1991        
+File        : a9110055
+
+Award Number: 9110055
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $38598              (Estimated)
+Investigator: Ramashubramani Ramesh   (Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              Unification and matching are fundamental operations in many symbol-            
+              manipulation systems such as automated deduction, rewriting and logic          
+              programming.  In most applications involving unification and matching,         
+              typically the same term is repeatedly unified either with several              
+              other terms or with every subterm of these terms.  Moreover, very              
+              often these match and unification attempts fail.  Existing methods are         
+              inadequate for repeated unification/matching because either they are           
+              inefficient or they make strong assumptions on the structure of the            
+              input.  In addition, they do not handle failures properly.  The basic          
+              issues involved in repeated matching and unification and the means to          
+              design efficient algorithms for them will be addressed in this                 
+              project.  Moreover, algorithms that can detect failures quickly will           
+              be designed.  The practical importance of our algorithms will be               
+              studied through a number experiments that will be conducted.  The              
+              experiments will provide the best choice of algorithms which will be           
+              used to build a rewrite system and to improve the SBProlog                     
+              interpreter/compiler.  This research will yield new classes of                 
+              algorithms for repeated matching and unification and also speed up             
+              implementations of a large class of symbol-manipulation systems.

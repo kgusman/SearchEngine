@@ -1,0 +1,86 @@
+Title       : Adaptive Resource Management for IP/ATM Hybrid Switching Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 3,  2001     
+File        : a9714586
+
+Award Number: 9714586
+Award Instr.: Continuing grant                             
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1998  
+Expires     : May 31,  2002        (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: San-Qi Li sanqi@ece.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              IP traffic is becoming the killer application for ATM networks.  One challenge
+              in current network research  is how to effectively transport IP traffic over
+              ATM networks.  IP was independently developed on basis of connectionless model,
+               while ATM was originally designed for connection-oriented services.  IP
+              traffic is usually switched using packet  software-forwarding technology, which
+              is expensive  and has substantially limited forwarding capacity.  In contrast,
+              ATM switches are designed with high transmission bandwidth,  but having limited
+              connection setup processing capacity due to its  complex signalling structure
+              developed for connection-oriented services.    The proposed research addresses
+              a fundamental problem in resource management  for hybrid switching systems. 
+              Such systems aim at efficiently transporting  layer 3 connectionless IP traffic
+              over layer 2 connection-oriented ATM  switching fabrics. The hybrid switching
+              technology is further classified  into flow-driven switching and
+              topology-driven switching.   The idea behind the flow-based hybrid switching is
+              first to decompose  individual IP packet streams into flows  and then to
+              classify them into short-lived flows and long-lived flows.  While the
+              short-lived flows are best forwarded  by the embedded software through
+              permanent virtual connections (PVC),  the long-lived flows are more effectively
+              transmitted by hardware  through to-be-established switched virtual connections
+              (SVC).  Clearly, the key issue in such a flow-based hybrid switching system is
+              the  design   of an on-line flow classification scheme, which can effectively  
+              utilize the constrained system resources to achieve the maximum throughput 
+              performance.   In contrast, the topology-driven switching establishes switch
+              connections  based on current network routing information, i.e.,   associated
+              with routing table entries rather than individual flows.   Hence, no software
+              forwarding is required if the arriving packets  can be mapped into such
+              pre-established switched  conne ctions.  The key issues in such a
+              topology-based hybrid switching system are   related to routing scalability,
+              connection-setup initiation and traffic merge.    The first part of our
+              proposal will consider the flow classification design   in flow-based hybrid
+              switching systems, such as IP switching and MPOA.   Unlike the traditional
+              emphasis on resources such as link bandwidth and cell  buffer size, our
+              proposal focuses on the resources which are directly  associated with  packet
+              processing power, signaling capacity and routing table size.  Our study
+              indicates that the presently available {\it static flow  classification}
+              methods have a vital shortcoming in balancing the   utilization of the system's
+              resources.  This is due to the various system design strategies  for allocating
+              resources as well as the time varying traffic characteristics.  As a
+              consequence, hybrid switching system can end up operating  in a highly
+              unbalanced mode where some resources are  significantly underloaded while
+              others are heavily  overloaded, causing substantial inefficiencies in network
+              performance.     We propose a novel approach for {\it adaptive flow
+              classification}  which can balance the utilization of system resources  to
+              match the time varying traffic characteristics.  The proposed flow adaptation
+              is formulated as a stochastic control  problem, where the stochastic control
+              framework can be applied  towards the development of efficient and stable flow
+              adaptation algorithms.  Our preliminary studies for this proposal show  the
+              viability of the proposed flow adaptation  for dynamic resource management in
+              hybrid  switching system design.  Due to its great impact on system
+              performance,  we propose to carry out further theoretical analysis, algorithm
+              development   and simulation study for flow adaptation mechanisms.      The
+              second part of our proposed research will focus on the development of   an
+              unified modeling technique for performance comparison study between   the
+              flow-driven and topology-driven switching tech nologies.   One of the most
+              challenging issues in networking field today is   to decide which of these two
+              switching technologies should be adopted.   The success of proposed research is
+              expected to have a substantial  technical impact on the selection of the next
+              generation switching  technologies and also the design and resource management 
+               of such IP/ATM hybrid switching systems.   Please visit
+              http://www.ece.utexas.edu/~sanqi/NSF.html for further  information.

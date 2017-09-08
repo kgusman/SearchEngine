@@ -1,0 +1,74 @@
+Title       : Semiparametric Bootstrap Methods for Time Series
+Type        : Award
+NSF Org     : SES 
+Latest
+Amendment
+Date        : March 10,  2003     
+File        : a0241152
+
+Award Number: 0241152
+Award Instr.: Continuing grant                             
+Prgm Manager: Kwabena Gyimah-Brempong                 
+	      SES  DIVN OF SOCIAL AND ECONOMIC SCIENCES    
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : July 1,  2003       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $251281             (Estimated)
+Investigator: Bruce Hansen bhansen@ssc.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 1320      ECONOMICS
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              ABSTRACT
+
+PROPOSAL NUMBER:		0241152
+INSTITUTION:			University of Wisconsin,
+              Madison
+NSF PROGRAM:			ECONOMICS
+PRINCIPAL INVESTIGATOR:	Hansen,
+              Bruce
+PROPOSAL TITLE:		Semiparametric Bootstrap Methods for Time Series
+
+The
+              bootstrap is a method of statistical inference is growing in popularity in
+              applied econometrics due to its broad applicability and success in improving
+              the accuracy of statistical inferences.  Bootstrap methods for time-series data
+              are fundamentally different from those for random samples, as the bootstrap
+              needs to replicate the dependence structure in the data.  The theory for
+              flexible and practical bootstrap methods for time-series is sorely lacking. A
+              promising new bootstrap method for time-series is the Markov bootstrap (MB),
+              which is based on nonparametric estimation of the one-step-ahead conditional
+              distribution function, and uses this estimator to construct the bootstrap
+              distribution. 
+
+This research extends the MB method to time-series.  It
+              investigates theoretical structure of the bootstrap, leading to concrete
+              methods of implementation.  The research discusses how to construct the ergodic
+              density of the MB and how to calculate bootstrap parameters and moments from
+              the ergodic density.  This is essential for practical implementation of the MB,
+              as these calculations are a necessary input in its application. It also
+              investigates the imposition of constrained on the ergodic density.  This is
+              necessary for efficient inference, as a full nonparametric estimator does not
+              make use of the available information about the model.  Furthermore,
+              constraints must be imposed when the bootstrap is used to construct efficient
+              confidence intervals.
+
+The accuracy of the MB will depend on the accuracy of
+              the nonparametric estimator of the conditional distribution; accordingly the
+              research develops methods to improve estimation efficiency.  In this
+              connection, new high order and low-bias kernel estimators explored.  The
+              improvements in density estimation lead to improved rates of asymptotic
+              refinements for bootstrap inference.  This improvement in density estimation
+              requires theoretical investigation of the methods developed, which this
+              research investigates. The theory and methods developed by this research will
+              have broad impacts on bootstrap applications and will be useful to applied
+              economists in both academic and public sectors.
+
+
+ 
+

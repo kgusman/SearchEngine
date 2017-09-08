@@ -1,0 +1,63 @@
+Title       : Preconditioned Algorithms for Large Eigenvalue Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 28,  2002    
+File        : a0208773
+
+Award Number: 0208773
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $157500             (Estimated)
+Investigator: Andrew Knyazev Andrew.Knyazev@cudenver.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Denver
+	      Campus Box 129 PO Box 173364
+	      Denver, CO  802173364    303/556-4060
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Knyazev 
+0208773 
+     In many application areas, there is a pressing and
+              increasing need for novel numerical techniques for solving very large algebraic
+              eigenvalue problems. They arise naturally as discretization of continuous
+              models described by systems of partial differential equations and pose new
+              numerical challenges. The problem matrix may be available only implicitly
+              through a function that computes the corresponding vector-matrix product for a
+              given vector, which thus calls for 
+matrix-free eigenvalue solvers. The growth
+              of the problem size often leads to badly conditioned problems, which require
+              improved algorithm stability and new tools to estimate the accuracy of computed
+              eigenvalues and eigenvectors. Classical eigenvalue solvers that do not scale
+              linearly with the problem size are very expensive for modern practical
+              problems. The focus of the present project is on an alternative technique,
+              called preconditioning. While the mainstream research in the area introduces
+              preconditioning for eigenvalue problems by using preconditioned inner
+              iterations for solving linear systems with 
+shift-and-invert matrices, the
+              approach of the present project is to incorporate preconditioning directly into
+              Krylov-based solvers such as the locally optimal block preconditioned conjugate
+              gradient method. The preconditioned iterative methods of this kind are
+              specially designed for large-scale ill-conditioned matrix-free problems and can
+              be effective and parallelizable. The investigator studies preconditioning for 
+              singular values computations, an adaptation of the preconditioned eigensolvers
+              to some problems with nonlinear dependence on the spectral parameter, and an
+              efficient solution of eigenproblems resuling from partial differential
+              equations with large jumps in coefficients.
+     The investigator develops
+              fast, reliable methods to solve very large eigenvalue problems. Numerical
+              simulations are performed on modern parallel computing systems, e.g., on a
+              Beowulf cluster. The targeted applications for a joint investigation with
+              engineers include structural dynamics finite element models associated with
+              re-entry vehicles and their complex aerospace and electronic systems, and
+              evolution of the error covariances in Kalman filter equations for
+              chemistry-transport atmospheric models. 
+

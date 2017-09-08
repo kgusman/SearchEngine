@@ -1,0 +1,65 @@
+Title       : Parameterized Computation and Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 8,  2000  
+File        : a0000206
+
+Award Number: 0000206
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $167849             (Estimated)
+Investigator: Jianer Chen chen@cs.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The definitions of P and NP are based on polynomial time computations.  It has
+              been a long-time concern whether one should call a problem with computational
+              complexity Q (n100) 'tractable".  A commonly accepted explanation is that in
+              practice most problems in P in fact can be solved in time O(n3) or better. 
+              However, recent research has shown that some very important practical problems
+              seem to require algorithms whose complexity is bounded only by very high degree
+              polynomials.  
+
+On the other hand, there are many NP-hard problems, described
+              in a parameterized version, for which it is desired to construct the precise
+              solutions deterministically, while a wide range of applications is only
+              interested in solving these problems with a small or moderate value for the
+              parameters.  The point is how to take advantage of this fact and develop most
+              efficient algorithms for these intractable problems in practice.
+
+The
+              research studies the refinement of the classification of tractability and
+              intractability, based on the recently developed theory of parameterized
+              complexity, with the aim of identifying "impractical" polynomial time
+              algorithms and "efficient" exponential time algorithms for practical problems. 
+              The following specific issues in algorithm theory are
+              investigated:
+
+developing efficient parameterized algorithms for intractable
+              problems.  This includes two steps:  identifying fixed-parameter tractable
+              problems, and development of most efficient parameterized algorithms for the
+              problems.
+
+identifying "hard" polynomial time solvable problems, based on the
+              framework of the W[1]-hardness.  Problems from other practice will also be
+              studied based on this framework.
+
+investigating the relationship between
+              parameterized complexity and approximability.  Parameterized complexity
+              suggests new techniques for proving non-approximability for certain
+              optimization problems that may otherwise be not easy or even impossible based
+              on classical complexity theory.
+
+

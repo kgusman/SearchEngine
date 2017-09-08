@@ -1,0 +1,51 @@
+Title       : Collaborative Research: Theory and Implementation of Semidefinite Programming
+               and Its Application to Combinatorial Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 17,  2002      
+File        : a0203426
+
+Award Number: 0203426
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  2002      
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $255818             (Estimated)
+Investigator: Samuel A. Burer samuel-burer@uiowa.edu  (Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0203113/0203426
+Burer, Samuel
+Iowa State
+
+In a semidefinite
+              programming (SDP) problem, a linear function of a symmetric matrix variable X
+              is minimized subject to linear equality constraints on X and the essential
+              constraint that X be positive semidefinite.  Many mathematical optimization
+              problems can be cast as SDP problems including linear programs, convex
+              quadratic problems with convex quadratic inequality constraints, matrix norm
+              minimization problems, and a variety of maximum and minimum eigenvalue
+              problems. In addition, SDP has many applications in combinatorial optimization,
+              engineering, statistics, and robust optimization.
+
+Today, there are numerous
+              algorithms and codes available for solving SDPs, and these methods can be
+              loosely grouped into two classes: second-order interior-point (IP) methods and
+              first-order nonlinear programming (NLP) methods. The choice of which class to
+              use for a particular application is determined primarily by
+problem size ---
+              second-order IP methods are more efficient on small- to medium-scale problems
+              while first-order NLP methods are better for large-scale problems.
+

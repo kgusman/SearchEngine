@@ -1,0 +1,50 @@
+Title       : CAREER: Automatic Retargeting of Network Server Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 3,  2003      
+File        : a0093351
+
+Award Number: 0093351
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  2001     
+Expires     : February 28,  2006   (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Vivek Pai vivek@cs.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              High-performance network server software is already central to many users'
+              day-to-day interaction with computers, and its importance will increase as more
+              services become networkcentric.  Despite widespread commercial and academic
+              interest in network servers, the process of developing and maintaining this
+              software remains in its infancy.  The underlying difficulty is the blurring of
+              the service (what gets done) with particular implementations (how it gets
+              done).
+
+This research focuses on automating the development and maintenance
+              of the software's infrastructure, allowing programmers to focus their attention
+              on the server's core functions.  The approach uses semi-automatic
+              parallelization of network applications via source-to-source transformation. 
+              This approach is well suited to the network server software domain, since
+              common design patterns and behavior exploitable in a domain-specific manner are
+              often used.
+
+Fundamentally, this research advocates completely separating the
+              server's behavioral model from its underlying software architecture.  Allowing
+              programmers to specify the behavioral description of the software in a
+              high-level manner frees developers from worrying about hardware details and
+              operating system interfaces.  This decoupling provides benefits for server
+              developers, and will spur new research in parallelization techniques, operating
+              system interfaces, and software architectures.
+

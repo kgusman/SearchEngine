@@ -1,0 +1,62 @@
+Title       : SGER: A Distributed Hybrid Optimization Technique for Protein Structure
+               Prediction
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : July 30,  1998      
+File        : a9730053
+
+Award Number: 9730053
+Award Instr.: Standard Grant                               
+Prgm Manager: THOMAS QUARLES                          
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 1,  1998     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Alberto M. Segre segre@cs.uiowa.edu  (Principal Investigator current)
+              Yinyu Ye  (Co-Principal Investigator current)
+              Kenneth P. Murphy  (Co-Principal Investigator current)
+              William R. Kearney  (Co-Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 0510104   Past Carbon Dioxide Level               
+              0510301   Structure & Function                    
+Program Ref : 9183,9237,BIOT,
+Abstract    :
+              Abstract    Optimization problems arise naturally in many areas of  science,
+              engineering, and busi-ness. Some of these problems  are discrete, where the
+              solution involves finding the best  configuration over a finite number of
+              possible conformations  (for example, production scheduling problems in
+              operations  research or circuit minimization problems in computer 
+              engineering). Other optimization problems are inherently  continuous, where the
+              solution involves finding the best  solution in some infinite space (for
+              example, entropy  minimiza-tion in physics, portfolio allocation problems in 
+              finance, or elasticity studies in civil engi-neering). Often,  useful
+              abstractions exist which convert one type of problem  into a simpler problem of
+              the other type.    Some of the most compelling optimization problems in the 
+              biological sciences also dis-play this same kind of duality.  An obvious
+              example is the problem of predicting a protein's  (continuous)
+              three-dimensional shape- and, consequently, its  biological function-from its
+              (discrete) primary structure,  expressed as the sequence of constituent amino
+              acids {  Friesne~6 . Curren~y, protein structure is most accurately  determined
+              by experimental means, such as X-Ray  crystallography or NMR spectroscopy. A
+              primary goal for compu-  tational biologists is to be able to predict the
+              tertiary  structure without resorting to experi-mental observation.    This
+              project takes a new approach to the problem of  predicting protein structure.
+              In partic-ular, the merger of a  novel distributed search technique for
+              discrete  (combinatorial) opti-mization, and an efficient, polynomial  time,
+              interior-point algorithm for solving continuous  optimization problems. Each
+              approach will operate using  separate, albeit related, energy models, with the
+              discrete  system "proposing" conformations for the con-tinuous model to 
+              evaluate. The goal is to increase the efficiency of the  computation by
+              exchanging information between the two  approaches while exploiting parallelism
+               in order to solve  realistically-sized proteins. Specifically the project will
+               construct a prototype hybrid computational tool, apply the  prototype to a
+              protein conformation problem, and evaluate the  solution by comparison to both
+              existing computational  approaches and physi-cal reality.

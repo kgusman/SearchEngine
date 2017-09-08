@@ -1,0 +1,141 @@
+Title       : Operatory Theory and Systems Engineering
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 2,  2002      
+File        : a0100576
+
+Award Number: 0100576
+Award Instr.: Continuing grant                             
+Prgm Manager: Juan J. Manfredi                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $239072             (Estimated)
+Investigator: J. William Helton helton@osiris.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 1281      ANALYSIS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              ABSTRACT
+NONLINEAR OPERATOR THEORY. The goal is to find canonical "nonlinear
+              generalizations" 
+of analytic function theory and the related parts of linear
+              operator theory.  Many 
+classical and many new analytic function theorems have
+              a statement purely in terms of 
+linear operators.  The surprising thing is
+              that these theorems about linear operators 
+do not actually require linearity,
+              and it has become clear that there will be  extensive 
+nonlinear
+              generalizations of them.  This wide open area is close to control
+              theory.
+COMPUTER OPERATOR ALGEBRA.  Linear engineering systems theory and
+              operator theory are rife with calculations in a noncommutative algebra.
+              Helton's group with M. Stankus 
+are major providers of software (called
+              NCAlgebra) for performing general noncommutative 
+calculations in Mathematica.
+               One phase of the software is at the level of a very 
+powerful `yellow pad',
+              and contains numerous algorithms they developed. For example, 
+the 
+              "noncommutative convexity" algorithm discussed  below will go in.  In another
+              phase 
+there is  extensive software implementing noncommutative Groebner basis
+              algorithms 
+due to Mora and algorithms for sorting and "shrinking" the output
+              in various ways ( this 
+is crucial in the noncommutative case). Since the
+              techniques are new, experimentation on 
+traditional problems is important.
+              
+NONCOMMUTATIVE INEQUALITIES.  Recently, Helton and collaborators made
+              progress on a 
+theory and resulting algorithm which takes a rational function
+              F of noncommutative 
+variables Z and outputs a family of inequalities which
+              determine a domain G of Z on 
+which F is "matrix convex".  Decidedly
+              non-trivial is showing that the domain G 
+determined by the algorithm is  "the
+               largest possible" domain of matrix convexity 
+for F. This is a first attempt
+              at an automatic method for what engineers now do with 
+Schur complement tricks
+               to convert a design problem to Linear Matrix Inequalities.  
+OPTIMIZATION 
+              OVER SPACES OF ANALYTIC FUNCTIONS. Qualitative theory, computer algorithms
+              based on this theory, analysis of such algorithms.  These are the key
+              optimization 
+problems which arise in designs of linear systems where there
+              are competing constraints, 
+or uncertainty in the math model of the physical
+              system one is trying to control.
+
+The research is directed at several
+              projects in parts of operator theory and functional 
+analysis related to
+              engineering system theory. Linear operator theory has had a strong 
+interplay
+              with analytic function theory and engineering for many decades.  Indeed most
+              
+commercial software (at least in the control engineering community) for
+              solving analytic 
+function problems is based on this type of interplay between
+              functions and matrices.  
+One branch of analysis closely related to
+              applications is classical Nevanlinna-Pick-
+Nehari theory, or equivalently
+              commutant lifting theory, a part of the area called 
+operator model theory. 
+              The early development of this  was done for the purest of 
+mathematical
+              reasons, but in the mid 1970's  and early 1980's this was shown to be
+              
+critical to the design of engineering systems where stability of the system
+              is the key 
+constraint. This motivated much more mathematical development and
+              now it is one of the 
+areas of functional analysis most closely associated
+              with control engineering. For many 
+years (since Norbert Wiener) design tools
+              optimized mean square performance. The theory 
+above ultimately lead to
+              (commercially commonplace) tools for optimizing worst case 
+frequency domain
+              performance. The goal of much of the proposed research is to extend 
+this
+              theory in several radically new directions and we list the main ones.
+HIGHLY
+              NONLINEAR GENERALIZATIONS; the goal is to find canonical "nonlinear
+              
+generalizations" of analytic function theory and the related parts of linear
+              
+operator theory.  This wide open area is closely related to control theory. 
+              Many 
+systems which people wish to control are nonlinear (e.g., jet
+              engines).
+NONCOMMUTATIVE COMPUTER ALGEBRA; if a signal goes into a system A,
+              comes out and then goes into B what we get is BA, while if a signal goes into B
+              and then A what we 
+get is AB.  Seldom does AB  equal BA, thus the design of
+              engineering systems
+requires (heavy) noncommutative calculations.  Helton's
+              group has a broad based 
+effort to develop methods and theory for computer
+              assistance of such calculations.  
+Inequalities with noncommuting elements is
+              now a major topic in engineering and 
+Helton's group is working out systematic
+              methods for treating them.
+
+

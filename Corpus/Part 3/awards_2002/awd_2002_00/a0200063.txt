@@ -1,0 +1,92 @@
+Title       : Current Mode Band-Limited Signaling for Deep Submicron Global Interconnects
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 12,  2002      
+File        : a0200063
+
+Award Number: 0200063
+Award Instr.: Standard Grant                               
+Prgm Manager: Usha Varshney                           
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 15,  2002      
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Wentai Liu wentai@eos.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              Recent trends in submicron CMOS scaling suggest that global interconnects will
+              increasingly become a major performance limitation due to increased signal
+              delay and cross-talk noise. The implementation of copper and low k wiring
+              technology mitigates the effect of scaling on signal delay and cross-talk in
+              local and intermediate interconnects. However, the benefits of new materials
+              may not be sufficient for scaling long global interconnects due to the
+              increasing RC delays. The near term solution adopted by the semiconductor
+              industry to minimize the relative delay, according to the 1TRS roadmap, has
+              been to increase the aspect ratio of interconnects. However, the increase in
+              metal thickness, reduction in metal pitch and continuing voltage scaling with
+              each technology generation will progressively exacerbate the noise problem due
+              to interconnect capacitive and inductive coupling effects and will eventually
+              become the dominant problem over local and global propagation delays.
+
+The
+              research described in this proposal will address the signal propagation delay
+              and cross-talk noise limitations in deep submicron interconnects by introducing
+              a fundamental change in the signaling approach: the use of current-mode
+              band-limited signaling to reduce the signal delay and cross-talk noise
+              bottlenecks in CMOS VLSI's. To reduce cross-talk noise due to capacitive and
+              inductive effects, the proposed signaling scheme based on band-limited basis
+              waveforms will partially replace the square pulses in critical communication
+              links within the system. A preliminary remit from the proposed band-limited
+              signaling scheme in 0.35-urn CMOS process shows capacitive cross-talk noise
+              reduction beyond 30 percent for aluminum and copper interconnects. An
+              attractive result from the proposed signaling approach is that given the signal
+              bandwidth and noise margin requirements, longer interconnects lines or higher
+              interconnect densities can be achieved.
+
+To overcome the bandwidth
+              limitations in the deep submicron regime, new approaches to high-speed
+              signaling are required. In the proposed research, we intend to use current-mode
+              circuit techniques to improve the bandwidth performance and reduce signal
+              delay. Current-mode sensing has received limited attention for signaling in
+              global interconnections partially due to the popularity of voltage-mode full
+              swing repeater insertion methodologies. . It can be shown that as CMOS
+              technology continues to scale, the number of repeaters required to achieve the
+              projected performance criteria will increase dramatically and constitute a
+              significant portion of the total system power dissipation. Therefore,
+              current-mode sensing circuits will increasingly become popular in this deep
+              submicron IC era.
+
+Accurate estimation of propagation delay and cross-talk
+              noise in long global interconnects plays an important role in the early design
+              stages of high performance VLSI systems. Various techniques based on
+              simulations and/or analytical closed-form formulations have been proposed to
+              model delay and cross-talk in interconnects. The bulk of the work dedicated to
+              this area targets capacitively terminated lines for voltage mode signaling.
+              However, with the increasing speed requirements in VLSI circuits, current mode
+              signal transporting techniques may provide an attractive solution to some of
+              the challenges caused by aggressive interconnect scaling. To accommodate
+              current-mode signaling techniques, we propose to derive efficient closed-form
+              analytical models for a driven distributed RC line with arbitrary termination.
+              The accuracy of this work is predicted to be the same as Elmore Delay
+              formulation, extended to accommodate current-mode type circuits.
+
+In this
+              research, we intend to develop the theoretical basis for the proposed
+              current-mode band-limited signaling scheme and analytically formulate its
+              impact on cross-talk noise and signal delay reduction. We will target our study
+              toward understanding its effects on interconnect coupling noise. Study of
+              circuit design issues will be followed by prototype fabrication for conceptual
+              and experimental verification. Finally, we intend to apply this knowledge to
+              build a high performance wide bus system to prove the noise reduction
+              advantages.
+

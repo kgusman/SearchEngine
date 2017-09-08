@@ -1,0 +1,127 @@
+Title       : On-Line Reorganization
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 4,  1999     
+File        : a9610001
+
+Award Number: 9610001
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $229966             (Estimated)
+Investigator: Betty J. Salzberg salzberg@ccs.neu.edu  (Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              The goal of this research project is to design, analyze and simulate restartable
+              algorithms for on-line reorganization in parallel database management systems
+              (DBMSs). The approach includes the description of explicit logging operations
+              to assure consistency and preserve incremental improvements in the face of
+              possible system failures at any site. Each algorithm is carefully detailed to
+              work with standard concurrency and recovery modules in large DBMSs. Most large
+              databases will soon be managed by parallel DBMSs (i.e., DBMSs on clusters of
+              workstations, each managing its own collections of disks, connected by LANs and
+              running the same software), so parallel algorithms are important. Earlier work
+              in a centralized setting, by the Prof. Salzberg and her students Chendong Zou
+              and Allyn Dimock, included algorithms for shrinking sparsely populated B-trees
+              and for moving records (for example, to improve clustering). This project
+              continues this work and expands it to a parallel setting. The project
+              investigates the question of incrementally and lazily updating distributed
+              dictionaries and indexes when records are moved from disks at one site to disks
+              at another. This project represents the only work on on-line reorganization
+              done in an academic setting which considers recovery and logging. Prof.
+              Salzberg collaborates with Svein-Olaf Hvasshovd and Svein-Eric Bratsberg of
+              Telenor Research (Norway's telephone company) using the parallel DBMS ClustRa
+              as a testbed for the algorithmic work. Because this project considers recovery
+              and because of the industrial collaboration, the results of this research are
+              likely to able to be used in online reorganization utilities in commercial
+              parallel DBMSs.                                                    ?           
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                               

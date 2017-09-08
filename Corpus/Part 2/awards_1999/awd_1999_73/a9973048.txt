@@ -1,0 +1,62 @@
+Title       : Adaptive Methods for Systems of Reaction-Diffusion Equations in Three Space
+               Dimensions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 6,  1999       
+File        : a9973048
+
+Award Number: 9973048
+Award Instr.: Standard Grant                               
+Prgm Manager: Jong-Shi Pang                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1999       
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $73914              (Estimated)
+Investigator: Peter K. Moore   (Principal Investigator current)
+Sponsor     : Tulane University
+	      6823 St. Charles Avenue
+	      New Orleans, LA  701185665    504/865-4000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9973048
+
+Systems of reaction-diffusion equations occur frequently in
+              scientific and engineering applications.  Some important examples include the
+              bidomain model with the Beeler-Reuter ionic membrane kinetics in cardiac
+              electrophysiology, the Brusselator model of the Belousov-Zhabotinsky reaction
+              and Turing models of pattern formation Adaptive finite element methods are
+              particularly well-suited to these problems and indeed have proved effective in
+              solving a wide variety of partial differential equations without requiring user
+              intervention.  This proposal aims to develop software for solving
+              reaction-diffusion systems in three dimensions efficiently and accurately. 
+              Adaptive codes depend on two building blocks, a posteriori error estimates and
+              adaptive grid strategies.  The finite element method will employ hp-adaptivity
+              where h and p will be allowed to vary in different directions (anisotropic
+              refinement).  A new data structure for storing anisotropic grids will be
+              implemented.  The adaptive strategy will be coupled with new a posteriori error
+              indicators based on successful indicators developed by the proposer for linear
+              elements.  The large system of linear equations arising from the temporal and
+              spatial discretization process will be solved using preconditioned GMRES.  An
+              adaptive preconditioning selection strategy will be used to choose the
+              appropriate preconditioner during program execution.
+
+Many physical and
+              biological processes can be modeled by reaction-diffusion equations.  Some
+              important examples include pattern formation in biological systems and voltage
+              propagation in the heart.  Specifically models for voltage propagation in the
+              heart aid in understanding the onset of cardiac arrhythmias and may lead to
+              better therapies.  These models involve a large number of equations over both
+              simple and complex geometries.  The goal of this proposal is to provide
+              researchers, such as biomedical engineers, with the accurate and efficient
+              computational tools necessary in order to analyze their models in the case of
+              simple geometries.  These tools can then be used in solving problems on more
+              complex geometries.  This work is being carried out in conjunction with the
+              work of a biomedical engineer at Tulane University.
+

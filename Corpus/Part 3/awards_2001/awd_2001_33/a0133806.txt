@@ -1,0 +1,80 @@
+Title       : CAREER: Exposure-Resilient Cryptography
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 3,  2002    
+File        : a0133806
+
+Award Number: 0133806
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2002    
+Expires     : December 31,  2006   (Estimated)
+Expected
+Total Amt.  : $330000             (Estimated)
+Investigator: Yevgeniy Dodis dodis@cs.nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Abstract:
+Exposure-Resilient Cryptography concerns the important problem of
+              key
+exposure and general information leakage.  Exposure of such
+information
+              poses one of the most serious and common threats to
+employing cryptography in
+              real life. For example, cryptographic
+computations (decryption, signature
+              generation, etc.) are often
+performed on a relatively insecure device (e.g., a
+              mobile device or an
+Internet-connected host) which cannot be trusted to
+              maintain secrecy
+of the private key. Thus, the goal of Exposure-Resilient
+              Cryptography
+is to design solutions that will limit (or even completely
+              eliminate)
+the negative consequences of such an exposure in various
+              cryptographic
+scenarios. In particular, this research concentrates on the
+              design of
+various key evolving schemes and the problem of partial key
+              exposure.
+
+The paradigm of secret key evolution over time invloves updating
+              one's
+secret key such that key leakage at given period(s) compromises
+              the
+security of other periods to the minimal extent possible.
+              The
+investigators examine two such models. Forward-secure schemes
+              update
+secret key locally, and seek to protect the security of all the
+              past
+periods when the current key is exposed. In
+              contrast,
+bidirectionally-secure schemes use secure key updates, but
+              protect
+all non-exposed periods: both in the past and in the future. 
+              In
+either model, the public information (e.g., public keys) are not
+affected
+              by the secret key evolution. The problem of partial key
+exposure concerns the
+              scenario where most but not all secret
+information has been leaked. The main
+              question studied in this setting
+is how can valuable secret information be
+              stored or represented in
+such a way that almost complete exposure of its
+              representation still
+guarantees the secrecy of the actual, embedded secret?
+

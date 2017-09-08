@@ -1,0 +1,69 @@
+Title       : Model Checking of Software Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 24,  1998    
+File        : a9523972
+
+Award Number: 9523972
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $316977             (Estimated)
+Investigator: Jeannette M. Wing WING@CS.CMU.EDU  (Principal Investigator current)
+              Daniel Jackson  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              Software systems keep growing in size and complexity. Our  reliance on such
+              systems is likewise increasing, making it  critical that they obey the
+              properties their designers  intended. Because these properties are global,
+              their  consideration cannot be left to the implementation of  modules; rather,
+              they must be ensured by design early on.  Achieving critical properties thus
+              depends on being able to  analyze designs, so that the consequences of design
+              choices  can be explored without the cost of implementation, and  potentially
+              disastrous flaws can be caught while their  repair is still relatively cheap.  
+               Analysis methods based on formal, rather than informal,  techniques are
+              amenable to mechanical reasoning. Formal  methods have had a dramatic impact in
+              hardware verification  -- principally due to the success of model checking --
+              and  are being adopted by industry. In software development, on  the other
+              hand, formal methods have not yet had the same  impact. This is largely because
+              little tool support has been  available. Almost any analysis of a software
+              specification  seems to require theorem proving. Theorem proving is not 
+              feasible for most software developments, since it requires  highly skilled
+              proof experts, and cannot be automated fully.  Without automatic analysis,
+              formal specification is much  less attractive to practitioners.    This project
+              has two aspects.  First, it investigates the  application of model checking
+              techniques to software. This  involves both the identification of appropriate
+              abstract  representations of large systems, along with the properties  they
+              should obey, and the invention of new abstraction  techniques to relate such
+              representations to software  designs.    The abstraction techniques pursued in
+              this research arise in  three ways: (1) from the form of the property to be
+              checked  (for example, merging states to preserve a universally  quantified
+              property); (2) from the application area (for  example, not distinguishing the
+              varieties of failure in a  distribu ted system); and (3) from the application
+              itself  (for example, abstracting the data held in cache lines in  the
+              evaluation of a cache protocol).    Second, new checking techniques are being
+              developed for  specifications that are not currently well served by model 
+              checking. Software designs often involve operations on  complex data structures
+              that are defined implicitly. In this  case, there is no apparent model to be
+              checked; rather, it  is necessary to generate models from the specification and
+               determine whether they satisfy intended properties. The  project is developing
+              a language, NP, that is roughly a  subset of the Z specification language, and
+              a checker,  Nitpick, that can both simulate the execution of operations 
+              specified implicitly and check inductive properties of  operations, by
+              generating models of a relational formula.    While emphasizing principles that
+              are expected to find  broader application, the project is driven by realistic
+              case  studies: railway switching, telephone features, and security  protocols.
+              ***

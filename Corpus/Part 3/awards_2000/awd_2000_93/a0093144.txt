@@ -1,0 +1,69 @@
+Title       : CAREER: A Pull-Based Architecture for Active Web Content Replication
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 22,  2003   
+File        : a0093144
+
+Award Number: 0093144
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2001      
+Expires     : February 28,  2006   (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Tarek F. Abdelzaher zaher@cs.virginia.edu  (Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 400195
+	      Charlottesville, VA  229044195    434/924-4275
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              The phenomenal growth of the world wide web has made it the most
+              popular
+Internet application today. Web proxy caching is an important vehicle
+              to
+mitigate web traffic explosion.  Current web caching services are
+              becoming
+increasingly inefficient for two reasons. First, the continuous
+              increase
+in dynamically generated content makes an increasing fraction of
+              web-based
+media uncacheable. Second, the increasing diversity of web
+              traffic
+requires a QoS-aware caching infrastructure while the current caches
+              are
+best-effort.
+
+In this project we shall design, implement and evaluate an
+              active
+caching/replication architecture that resolves the aforementioned
+              major
+limitations.  The service augments web caches with the ability
+              to
+replicate not only static data but also data sources in a
+              demand-driven
+QoS-sensitive fashion.  The cache acts as a QoS-aware retailer
+              that
+imports whatever active content is in local demand at the current
+              time.
+Demand-driven data source replication allows dynamic content to
+              be
+generated on the cache. Hence, it shifts the need for computing power
+              from
+centralized origin servers to proxies in the vicinity of end-users
+              thereby
+improving scalability and allowing cache-assisted customization
+              of
+user-perceived information access performance.  By offering data
+              source
+location as a dimension to manipulate, the architecture achieves
+              better
+solutions for the web performance optimization problem that
+              are
+well-suited to diverse end-user needs.

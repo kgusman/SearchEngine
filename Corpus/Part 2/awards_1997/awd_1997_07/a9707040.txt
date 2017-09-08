@@ -1,0 +1,47 @@
+Title       : Linear and Nonlinear Multigrid Methods on Cache Based Parallel and Serial
+               Computers with Applications
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 19,  1998       
+File        : a9707040
+
+Award Number: 9707040
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 1,  1998       
+Expires     : May 31,  2002        (Estimated)
+Expected
+Total Amt.  : $120000             (Estimated)
+Investigator: Craig C. Douglas douglas@ccs.uky.edu  (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      201 Kinkead Hall
+	      Lexington, KY  405060057    /   -
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              Douglas  9707040       The investigator begins a study of multigrid methods for 
+              computers whose performance is highly dependent on the cache  utilization.  The
+              project includes both algorithm development and  realizations in code.  For
+              structured problems in two dimensions,  effective new algorithms can be
+              devised.  For general,  unstructured problems in either two or three
+              dimensions, this is  much harder and requires a completely different approach. 
+              Two  approaches are planned.  One is based on localizing graph  connections of
+              a sparse matrix associated with the grid based  problem.  A second is based on
+              a software tool that re-orders the  computation at run time to use the cache
+              efficiently.  In  addition, the investigator develops new nonlinear multigrid 
+              algorithms that can robustly solve real applications.  A new  methodology is
+              developed to coarsen adaptively refined grids for  problems in which current
+              algorithms fail to converge.       Real world simulations of complex science
+              and engineering  problems like climate, ocean, petroleum reservoir, and
+              pollutant  tracking modeling require enormous amounts of computer time. 
+              Computers today have separate memory modules that run at vastly  different
+              speeds.  Normally, programs run at the speed of the  slowest memory in a
+              computer.  The investigator examines how to  use the faster memory modules
+              instead of the slowest memory for  the solvers needed to run complex problems
+              much faster.

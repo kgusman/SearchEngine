@@ -1,0 +1,63 @@
+Title       : Irregular and optimized representations for image based rendering
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 19,  2002      
+File        : a0203932
+
+Award Number: 0203932
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: Steven Gortler sjg@deas.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0203932
+Gortler, Steven
+Harvard University
+
+Image based rendering
+              is a promising area of innovation in computer graphics. In image based
+              rendering,
+one starts with an input set of images or a video sequence. One
+              then applies some degree of processing
+to this data to obtain an intermediate
+              representation. This intermediate representation is then used in
+              an
+interactive computer graphics setting. These interactive uses include but
+              are not limited to: viewing the
+scene from novel points of view that were not
+              available in the input sequence, relighting the scene using
+virtual lights
+              that were not available in the input sequence, and geometrically manipulating
+              the objects that
+make up the scene. This functionality greatly enlarges the
+              uses of digital photographs, and introduces a rich
+source of content for use
+              in interactive computer graphics.
+For image based rendering, we plan to focus
+              on lumigraph representations, which are a sampled repre-sentation of the light
+              that travels along the rays in the scene. In particular, the visual information
+              of a static scene is represented by the five dimensional radiance function.
+              This function describes the intensity and color of light for every 2D direction
+              at every 3D spatial position (x; y; z). If we consider only the
+subset of
+              light leaving the convex hull bounded object (or equivalently entering a
+              bounded empty region of
+space), the fact that radiance along any ray remains
+              constant 1 allows us to reduce the domain of interest of
+the radiance function
+              from five to four dimensions.

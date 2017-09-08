@@ -1,0 +1,102 @@
+Title       : Integrated Multicast for Ad Hoc Networks (IMAHN-NSF)
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 2,  2000     
+File        : a9813724
+
+Award Number: 9813724
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $720711             (Estimated)
+Investigator: Katia Obraczka   (Principal Investigator current)
+              Gene Tsudik  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 
+Program Ref : 4097,9218,HPCC,
+Abstract    :
+              This proposal will investigate, design and deploy a suite of novel
+multicast
+              protocols aimed primarily at ad hoc networks.  The investigators
+maintain
+              that, due to the inherent broadcast capability, wireless networks
+are well
+              suited for multicast communication.  The contributions of the
+proposed suite
+              of multicast packet routing and forwarding protocols (IMAHN)
+can be summarized
+              as follows: (1) design, evaluation, prototyping and
+deployment of a suite of
+              multicast routing and packet forwarding protocols
+for ad hoc networks, and (2)
+               development of an integrated multicast
+routing solution for the mixed-media
+              internetwork of the future; this
+includes investigation, evaluation,
+              prototyping, and deployment of
+mechanisms providing seamless multicast
+              service.
+
+IMAHN will emphasize the following: (1) robustness vs efficiency:
+              many
+existing multicast routing approaches rely on state in routers to
+              keep
+track of multicast group members. This, coupled with the high volume
+              of
+routing information exchanges and slow convergence, makes
+              traditional
+multicast approaches untenable in highly dynamic ad hoc networks
+              (AHNs)
+composed of anemic (low-power, low storage capacity) hosts. We propose
+              a
+new technique, adaptive flooding, that stresses rapid and robust
+              delivery.
+IMAHN will consist of a suite of adaptive protocols addressing a
+              range of
+AHNs and mobility patterns. In constantly changing AHNs,
+              redundant
+broadcasting may be appropriate, while, in less dynamic AHNs, a
+              range of
+more bandwidth-efficient multicast protocols will be considered;
+              (2)
+adaptability: hosts should be able to (and will) migrate freely among
+              ad
+hoc, fixed-infrastructure mobile, and traditional wired networks.  In
+              order
+to function appropriately -- when faced with changes in the
+              underlying
+infrastructure -- hosts need switch on-the-fly among multiple
+              multicast
+mechanisms; (3) unlimited mobility: some existing solutions are
+              geared
+towards discrete mobility where periods of movement are interspersed
+              with
+periods of rest. Others assume certain limits on direction, speed
+              and
+number of simultaneously moving hosts. In contrast, we stress
+              universal,
+unlimited mobility of all network components; (4) integrated
+              multicast:
+multicast solutions for AHNs will most likely differ substantially
+              from
+those for fixed networks (one of the main reasons is the marked
+              difference
+in transmission rates). In order to offer seamless and integrated
+              multicast
+service for the mixed-media internetwork of the future, IMAHN will
+              develop
+novel mechanisms for inter-operation of fixed and wireless
+              multicast
+solutions.
+
+

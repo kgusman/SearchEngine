@@ -1,0 +1,47 @@
+Title       : SGER: Implementation and Performance Analysis of Real-Time Pythagorean-Hodograph
+               (PH) Curve CNC Interpolators for Precision Machining Applications
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : July 27,  1999      
+File        : a9908525
+
+Award Number: 9908525
+Award Instr.: Standard Grant                               
+Prgm Manager: K. P. Rajurkar                          
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  1999     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $57603              (Estimated)
+Investigator: Rida T. Farouki farouki@ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1468      MANUFACTURING MACHINES & EQUIP
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9146,9237,9263,MANU,
+Abstract    :
+                   This Small Grant for Exploratory Research (SGER) project will investigate a
+              novel approach to driving CNC machines directly from the analytic descriptions
+              of paths based on the use of Pythagorean-hodograph (PH) curves. The principal
+              goal of this exploratory study is to give a practical demonstration of the
+              advantages of PH curve interpolator algorithms by implementing and testing them
+              within the framework of a commercial open-architecture CNC software product. 
+              The MDSI OpenCNC system will be used for this purpose. The performance of the
+              PH curve CNC interpolators in terms of positional accuracy, feedrate
+              smoothness, continuously-variable feedrate capability, and other
+              characteristics will be compared with both linear/circular G code part programs
+              and approximate Bezier/B-spline interpolation algorithms.
+     The PH curves
+              incorporate a special algebraic structure, which renders them well suited to
+              real-time processing by open-architecture CNC interpolators and controllers. 
+              In addition to bypassing the need for intermediate linear/circular tool path
+              approximations, PH curves offer a new ability to drive CNC machines at
+              continuously-varying feedrates. This project offers the potential for very
+              significant performance improvements in CNC machines.  
+
+

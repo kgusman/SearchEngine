@@ -1,0 +1,78 @@
+Title       : A New Paradigm for the Analysis of Transient Saturated/Unsaturated Flow and
+               Transport in Randomly Heterogeneous Soils
+Type        : Award
+NSF Org     : EAR 
+Latest
+Amendment
+Date        : February 25,  1999  
+File        : a9628133
+
+Award Number: 9628133
+Award Instr.: Continuing grant                             
+Prgm Manager: L. Douglas James                        
+	      EAR  DIVISION OF EARTH SCIENCES              
+	      GEO  DIRECTORATE FOR GEOSCIENCES             
+Start Date  : February 1,  1997   
+Expires     : January 31,  2000    (Estimated)
+Expected
+Total Amt.  : $283796             (Estimated)
+Investigator: Shlomo P. Neuman neuman@hwr.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 1579      HYDROLOGIC SCIENCES
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9189,EGCH,
+Abstract    :
+              9628133  Neuman    The objectives of this project are to develop (a) an exact
+              conceptual/mathematical framework for the optimum prediction and analysis of
+              transient saturated and unsaturated water flows in randomly heterogeneous
+              subsurface environments, subject to arbitrary initial conditions, source terms,
+              and boundary conditions; (b) a related conceptual/mathematical framework for
+              the prediction and analysis of nonreactive solute transport under transient
+              flow in saturated and partially saturated media; (c) associated low- and
+              higher-order computational schemes for such flows and solute transport.  The
+              theoretical framework and computational methodology will rely on stochastically
+              derived deterministic flow and transport equations which contain both local and
+              nonlocal information-dependent parameters.  In contrast to upscaled quantities
+              which are often difficult to justify theoretically, or compare with
+              measurements, all quantities entering into our equations will be defined on a
+              scale compatible with potentially available field data (their support scale). 
+              The theoretical framework will contain explicit expressions to assess
+              prediction uncertainty.    When the properties of a soil vary randomly in
+              space, the corresponding flow and transport equations are stochastic.  To solve
+              them analytically, the equations must be linear(ized) and the soil properties
+              severely restricted.  To solve them numerically by (conditional) Monte Carlo
+              simulation is computationally intensive and does not usually guarantee
+              convergence.  Ideally, the Monte Carlo method converges to a (conditional) mean
+              solution which constitutes an optimum unbiased predictor of system behavior
+              under uncertainly, and a (contional) variance which measures prediction
+              uncertainly.  Our aim is to circumvent the need for Monte Carlo simulations by
+              evaluating these (conditional ) moments deterministically.  For this, we
+              propose to  first derive exact flow and transport equations that govern the
+              space-time evolution of these moments, then solv e them numerically by
+              approximation.  We expect such flow and transport equations to be
+              integro-differential, hence nonlocal, non-Darcian, and non-Fickian.  We refer
+              to this new solution paradigm as "smoothing".  Contrary to upscaling in which a
+              grid must be defined a priori on the basis of ad hoc criteria, here the grid is
+              defined a posteriori based on how smooth the moment functions are expected to
+              be.  Their smoothness is controlled in part by the quanlity and distribution of
+              conditioning (measurement) points in space-time.  In most cases such points are
+              sparse enough to render the moment functions much smoother than are their
+              random counterparts.  Hence a grid required to resolve the former is usually
+              much coarser than that required to resolve the latter.  The net result should
+              be a considerable saving in computer time and storage when compared to the
+              Monte Carlo method.    Exact conditional moment equations have been developed
+              for steady state saturated flow by Neuman and Orr (1993), and for nonreactive
+              solute transport by Neuman (1993) and Zhang and Neuman (1995e).  These nonlocal
+              equations involve local and nonlocal flow and transport parameters that are
+              conditional on data and thus nonunique.  Though the equations are exact, their
+              nonlocal parameters cannot be evaluated directly without either high-resolution
+              Monte Carlo simulation or approximation; a third option is to estimate them
+              indirectly by inverse methods.  We propose to extend the above nonlocal flow
+              and transport theories to transient saturated and unsaturated flow conditions;
+              to develop suitable approximations for the corresponding parameters; and to
+              develop computational schemes for the solution of the corresponding nonlocal
+              mean flow and transport equations, as well as for the assessment of the
+              corresponding prediction errors.

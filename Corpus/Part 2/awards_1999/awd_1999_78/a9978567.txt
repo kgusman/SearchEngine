@@ -1,0 +1,51 @@
+Title       : Efficient Query Processing for Data Integration
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 5,  2001       
+File        : a9978567
+
+Award Number: 9978567
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : October 31,  2002    (Estimated)
+Expected
+Total Amt.  : $226000             (Estimated)
+Investigator: Alon Y. Halevy alon@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              This goal of this research project is to develop efficient query optimization
+              and query execution methods for data integration systems. Data integration
+              systems provide uniform access to a multitude of autonomous data sources within
+              an enterprise or on the World-Wide Web. Unlike in traditional database
+              applications, a query execution engine for data integration must be able to
+              cope with limited availability of statistics on the underlying data and with
+              unexpected network delays during query execution. The approach consists of
+              developing an adaptive query execution engine for data integration. Two kinds
+              of adaptivity are considered: (1) interleaving of query optimization and
+              execution, and (2) developing novel query execution operators that are tailored
+              to data integration. In the first part, algorithms for determining appropriate
+              points at which to suspend query optimization are considered. For the second
+              part, novel join implementations are considered (e.g., the double-pipelined
+              join), as well as operators that are needed only in the data integration
+              context (e.g., dynamic collectors performing unions over large collections of
+              sources). In addition, issues involving the integration of semi-structured data
+              (e.g., XML) are also addressed. The results of the research include the
+              implemented Tukwila data integration system, which will be made available to
+              other researchers in the field. The impact of the research will be to remove
+              the performance bottleneck that hinders fielding data integration systems in
+              the WWW and enterprise contexts. We will be able to process data integration
+              queries involving 10's of MB of data coming from external sources in real
+              time.
+http://data.cs.washington.edu/integration/tukwila
+

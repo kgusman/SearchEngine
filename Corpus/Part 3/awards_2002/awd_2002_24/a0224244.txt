@@ -1,0 +1,65 @@
+Title       : ITR: Imperative Programming with Dependent Types
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 19,  2002  
+File        : a0224244
+
+Award Number: 0224244
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 31,  2001   
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $311607             (Estimated)
+Investigator: Hongwei Xi hwxi@cs.bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1640,1658,1660,9216,HPCC,
+Abstract    :
+              Proposal Number: ITR-0081316
+PI: Xi, Hongwei
+Institution: West Campus,
+              University of Cincinnati
+TITLE: Imperative Programming with Dependent
+              Types
+
+Programming is notoriously error-prone. As a consequence, a
+              great
+number of approaches have been developed to facilitate program
+              error
+detection.  The proposed research intends to enrich practical
+              imperative
+programming with a type discipline that allows for specification
+              and
+inference of significantly more precise information on programs
+              than
+those enforced in languages such as Java and Standard ML.  The
+              primary
+motivation for developing such a type discipline is to enable
+              the
+programmer to capture with types more program properties such as
+memory
+              safety and then enforce these captured properties through
+type-checking.  This
+              practice allows for detecting more program errors
+in less time. Another
+              motivation is to use the type discipline to
+generate memory safety proofs for
+              low-level code and thus effectively
+produce proof-carrying code that asserts
+              its own memory safety.  In
+short, the research studies a type discipline for
+              practical imperative
+programming at both high and low levels, aiming for
+              producing software
+that is not only more robust to run but also less costly to
+              maintain.
+

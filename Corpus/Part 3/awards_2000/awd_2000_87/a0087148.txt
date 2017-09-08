@@ -1,0 +1,132 @@
+Title       : Mobile Backbone Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0087148
+
+Award Number: 0087148
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300001             (Estimated)
+Investigator: Izhak Rubin rubin@ee.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Providing reliable multimedia communications in mobile multihop wireless
+              networks is a formidable
+challenge. Communication networks in which all users
+              are potentially mobile and untethered to any fixed
+wireline infrastructure
+              arise in a variety of contexts. The mobile users of the system desire
+              reliable
+communications, including real-time voice and video, notwithstanding
+              the lack of a fixed infrastructure. That
+is, the disconnection probability
+              should be low and certain quality of service (QoS) guarantees should
+              be
+provided: for many applications, the information exchanged should have low
+              delay, low jitter and a low loss
+rate.
+     In a fully distributed wireless
+              network, there is no fixed (wired) backbone that can be exploited
+              to
+centralize some of the network management and routing functions. In order
+              to provide the desired functionality, the mobile terminals must be organized
+              into a network that has some hierarchical organization or reliable structure
+              that is maintained (at least to some degree) under varying network
+              connectivities. This structure should, if possible, be maintained in a
+              distributed fashion, without reliance on a centralized controller.
+     Our
+              approach to solving the ad hoc network problem is to use an embedded
+              hierarchical structure, with
+physically different networks at the various
+              levels. Recently, we have proposed the employment of a mobile
+backbone to
+              support guaranteed QoS (as well as best effort) applications for mobile
+              networks. Certain mobile
+terminals are assigned to effectively serve as mobile
+              base stations, and these selected users ("backbone nodes") together with their
+              interconnecting communication links constitute the mobile backbone. The
+              backbone network consists of a mesh topology with point-to-point links used to
+              interconnect neighboring backbone nodes. The mobile backbone, which has a
+              functionality analogous to a fixed backbone in a cellular network, is then
+              exploited to make the routing, access control, scheduling and congestion
+              control problems tractable. Such mobile backbone networks can also be exploited
+              to supplement an employed ad hoc mobile network that lacks a transport
+              backbone, and is thus not able to readily provide QoS guarantees to multimedia
+              applications.
+     This research proposes a new approach to synthesizing
+              communication backbones for mobile wireless
+networks. The backbone will
+              satisfy user-specified accessibility and connectivity requirements and will
+              support guaranteed QoS objectives. The mobile backbone construction algorithm
+              will incorporate terminal positional information and a distance metric in order
+              to discern geographical sections of the network with high concentrations of
+              users. Pattern recognition based techniques will be developed and employed for
+              the first time in the context of telecommunications networks in order to
+              discern compact sections of the network, and to choose representative backbone
+              nodes for these compact sections. This approach provides a new means of
+              decomposing a global network into smaller simpler subnetworks, on each of which
+              a backbone construction
+algorithm can then be run.
+     Once the network has
+              been divided into subnetworks (termed itclustersln), a backbone is then
+              constructed
+for each separate cluster. These separate intra-cluster backbones
+              are then linked together to form a composite global backbone network with the
+              desired functionality.
+     New graph-theoretic algorithms will be developed
+              to synthesize the separate intra-cluster backbones.
+These methodologies will
+              incorporate deterministic and probabilistic relaxations of the backbones
+              accessibility features. Investigations will also include preprocessing of the
+              input graph that models the communications network and subgraph removal
+              techniques to determine optimal topologies that can be exploited for backbone
+              synthesis. Robust algorithms will be developed that ihlook aheadlp to possible
+              future graph scenarios (based on terminal movement) and choose the best
+              backbone for the ensemble.
+     The global backbone construction algorithms
+              will be simplified by decoupling the inter-cluster backbone
+connectivity
+              requirements from the intra-cluster connectivity requirements. A mobile
+              backbone will be
+designed with a single user-specified inter-cluster
+              connectivity requirement, but may have different user-
+specified intra-cluster
+              connectivity requirements for each cluster. The inter-cluster backbone will
+              be
+constructed using graph-theoretic techniques wherein each cluster is
+              treated as a single node a supernode.
+The mobile backbone construction
+              algorithms will be analyzed and evaluated to optimize methods of
+backbone
+              reconstitution under failures caused by nodal movement, environmental
+              variations and loading
+fluctuations. Extensive analyses and simulations will
+              be performed to evaluate the performance of the
+proposed backbone construction
+              protocol under several scenarios that correspond to, e.g., different
+              mobility
+patterns, different network loads, and a multitude of multimedia
+              applications.
+     The mobile backbone networks to be investigated here are of
+              significant importance in many application
+scenarios. They have been targeted
+              for the implementation of next generation wireless networks for military
+unit
+              operations, as well as for a multitude of commercial networks, which require
+              rapid and reliable deployment in an area that lacks an existing fixed-backbone
+              infrastructure. Included are civilian and government networks used for disaster
+              relief purposes.

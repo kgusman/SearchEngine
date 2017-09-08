@@ -1,0 +1,53 @@
+Title       : Implementation of Fast Data Transfer with Global Flush Broadcasts
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 3,  1996       
+File        : a9523815
+
+Award Number: 9523815
+Award Instr.: Standard Grant                               
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1996      
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $17369              (Estimated)
+Investigator: Tracy K. Camp   (Principal Investigator current)
+Sponsor     : U of Alabama Tuscaloosa
+	      P.O. Box 870104
+	      Tuscaloosa, AL  354870104    205/348-5152
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,9221,HPCC,
+Abstract    :
+              9523815  Camp       Flush communication channels generalize the more
+              conventional  asynchronous one-to-one communication paradigms.  A flush channel
+               offers the implementor of a distributed application the flexibility  of
+              specifying a message delivery order apropos of the demands of  the application.
+               This stands in marked contrast to the rigid FIFO  (first-in-first-out)
+              delivery order of communication specified by  a virtual circuit in TCP/IP or
+              specified by a virtual channel in  ATM communication.  The more restrictive the
+              delivery order, the  less concurrency possible to exploit in message
+              transmissions over  a multi-path system.  Flush channels allow the user to
+              define the   delivery of a message to be after the delivery of all messages   
+              previously transmitted, or before the delivery of all messages  subsequently
+              transmitted, or both.  The delivery order between the  sending site and the
+              destination site, created by the user, is a  partial order.       The results
+              from previous work are encouraging.  Flush  communication channels can reduce
+              the mean delivery time of  messages substantially, regardless of the underlying
+              physical  structure of the network.  That is, an implementor of a distributed 
+              application that uses an F-channel can reduce communication costs  whether the
+              communication occurs on routes established for virtual  circuit or datagram in
+              TCP/IP or UDP/IP or on routes established  for the connectionless service class
+              D provided by the ATM  Adaptation Layer.  This possible reduction in mean
+              delivery time of  messages may be critical in meeting real-time requirements of
+              the  application.  However, all previous results only consider  interprocess
+              communication (IPC) for one-to-one communication.  The  goal of this research
+              is to investigate the implications of  implementation and performance when we
+              extend F-channel  communication to many-to-many communication.  ***

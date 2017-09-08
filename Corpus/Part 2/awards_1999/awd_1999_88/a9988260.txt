@@ -1,0 +1,79 @@
+Title       : Circuit Complexity: Grid Graphs, Planar Circuits, and Lower Bounds
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2000    
+File        : a9988260
+
+Award Number: 9988260
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $212790             (Estimated)
+Investigator: David A. Barrington barrington@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Abstract
+
+
+Circuit Complexity: Grid Graphs, Planar Circuits, and Lower
+              
+Bounds
+
+David Mix Barrington
+Computer Science Department
+University of
+              Massachusetts
+
+Project Description
+
+Complexity theory is the mathematical
+              study of the resources needed for computational problems.  In circuit
+              complexity theory these resources are the size, depth, and other parameters of
+              boolean circuit families that solve the problems.  The basic results are upper
+              bounds (algorithms solving the problem while obeying certain resource
+              constraints) and lower bounds (proofs that no such algorithm can do
+              so).
+
+This project takes a qualitative approach to circuit complexity.  The
+              basic object is a complexity class, which is the set of problems that can be
+              solved within certain resource constraints.  For most natural and robust
+              choices of constraints, the resulting class has complete problems --- problems
+              whose solution requires a fundamental algorithmic technique that suffices to
+              solve all the problems in the class.  Upper and lower bounds for the complete
+              problems then give us results about the classes. This project studies two
+              specific computational problems: grid graph reachability and monotone planar
+              circuit value. Given a graph embedded on a rectangular mesh, and two nodes, is
+              there a path from one node to the other?  What is the value computed by a given
+              circuit of AND and OR gates, where no wires cross, and a given input? In each
+              case recent work of the PI and others have improved upper bounds for versions
+              of the problem.  The goal here is to improve these algorithmic results and
+              explore the various versions, relating them to each other and to standard
+              problems.  
+
+This exploration will be carried out in the context of prior
+              work by the PI and others in qualitative complexity theory.  This work has
+              identified a set of standard complexity classes that are robust across a
+              variety of models, and developed a single framework characterizing these
+              classes in term of the syntactic resources needed to express their problems in
+              first-order logic.
+
+In addition, further work will apply the logical
+              framework to lower bound problems in low-level complexity.  The outstanding
+              problem in this area, open for a decade, is to prove some natural problem to be
+              outside of a circuit class such as $ACC^0$. Here two new approaches, developed
+              in recent work of the PI and others, offer some hope: counting circuit classes
+              and intermediate levels of uniformity.
+
+

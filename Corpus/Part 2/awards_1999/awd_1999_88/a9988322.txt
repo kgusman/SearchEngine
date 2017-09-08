@@ -1,0 +1,72 @@
+Title       : Developing Linear-time Model-checking Technology
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  2002       
+File        : a9988322
+
+Award Number: 9988322
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $330155             (Estimated)
+Investigator: Moshe Y. Vardi vardi@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number: CCR-9988322
+PI's Name: Vardi, Moshe Y.
+Institution: Rice
+              University
+Title: Developing Linear-Time Model-Checking
+              Technology
+Project-summary-paragraph:
+
+Model checking is a key technology in
+              formal verification.
+As it is generally practiced today, model checking is
+              basically
+an efficient symbolic search procedure based on fixed-point
+              computation
+that checks whether a model of the design satisfies given
+              CTL
+specifications.  In spite of the phenomenal success of CTL-based
+              model
+checking, CTL suffers from several fundamental limitations as
+a
+              specification language, all stemming from the fact that CTL is
+              a
+branching-time formalism: the language is unintuitive and hard to
+use, it
+              does not lend itself to compositional reasoning, and it is
+fundamentally
+              incompatible with dynamic validation.
+In contrast, the linear-time framework
+              is expressive and intuitive,
+supports compositional reasoning and semi-formal
+              verification, and
+is amenable to combining enumerative and symbolic search
+              methods.
+Surprisingly, the linear-time framework, even though it preceded
+              CTL,
+and does not suffer from its weaknesses, has not enjoyed the same
+              
+intensive research focus as CTL, resulting in a much less mature
+technology.
+               This projects builds upon the theoretical foundations of
+the linear-time
+              framework that have been laid over the last 20 years, 
+and focuses on
+              generating a body of knowledge that industry can convert
+into a robust
+              technology.

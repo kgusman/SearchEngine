@@ -1,0 +1,61 @@
+Title       : CAREER: A Comprehensive Rewriting Framework for Compilation, Optimization, and
+               Run-Time Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 7,  2001   
+File        : a9624711
+
+Award Number: 9624711
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1996       
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $205000             (Estimated)
+Investigator: Zena M. Ariola ariola@cs.uoregon.edu  (Principal Investigator current)
+Sponsor     : U of Oregon Eugene
+	      5219 University of Oregon
+	      Eugene, OR  974035219    541/346-5131
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              This  research plan pursues the development of a unifying  framework for
+              reasoning about execution, compilation, and  optimization of programs. The goal
+              is to provide the  programmer, compiler writer, and implementor with an 
+              abstract laboratory in which to investigate the interplay  among various
+              techniques and to reason about their  correctness and efficiency with respect
+              to both time and  space. Specifically, the aim is to formalize an evaluator, a 
+              compiler, an optimizer, and a parser as a rewriting process.  This requires
+              enhancing current rewriting technology with  the ability to deal with graph
+              structures, including cyclic  and disconnected graphs. This is important since
+              graphs are  ubiquitous in a program development system.  They occur at  the
+              source level, after parsing, in the intermediate program  representation and
+              during program execution.    A rigorous study of graphs is thus fundamental for
+              reasoning  about both run-time and compile-time issues. The rewriting 
+              technology will be enhanced further by associating  priorities and conditions
+              to the rules. This will allow us  to directly analyze the impact of different
+              application  schemes on efficiency. Both strict and nonstrict languages  will
+              be considered, and also their extensions to handle  state.    The development
+              of the abstract framework addressed in this  CAREER research project is also
+              important for educational  purposes, since it provides a simple yet rigorous,
+              basis for  introducing students to concepts, practical issues and, at  the same
+              time, to formal reasoning about properties of  programs without having to
+              introduce complex mathematical  machinery. A strong, formal background is
+              important  regardless of whether a student is seeking higher degrees or 
+              immediate employment. The proposed research will allow an  integration across
+              the undergraduate language-compilation  implementation sequence, establishing a
+              connection between  abstraction and application. Exposure of students to 
+              research is planned through collaborat ions with other  institutions and
+              student exchanges, which can serve to  encourage students to consider advanced
+              education and  research careers.    This study constitutes a first step towards
+              providing  automatically generated tools, such as optimizing compilers. 
+              Moreover, through use of the results of the proposed  research in the
+              classroom, their value as a tool for  introducing and reasoning about language
+              issues can better  be evaluated.  ***

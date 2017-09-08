@@ -1,0 +1,51 @@
+Title       : Quorum Based Mobility Management Schemes for Ad-Hoc Networking
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 17,  1998 
+File        : a9805133
+
+Award Number: 9805133
+Award Instr.: Standard Grant                               
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $48425              (Estimated)
+Investigator: Ravi Prakash ravip@utdallas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Dallas
+	      P O Box 830688
+	      Richardson, TX  750830688    972/883-2313
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              With increasing size and the rate at which their configuration change, mobility
+              management in ad-hoc networks is expected to be one of the basic challenges in
+              the design of this breed of networks. The basic shortcoming of the traditional
+              HLR/VLR based mobility management schemes stems from two problems: nodes that
+              serve as HLRs may be frequently unreachable (due to the intermittent wireless
+              connectivity in such networks) and the association of a mobile with a
+              particular HLR requires dissemination of this information to all  the network
+              nodes, presence of which in the network may frequently change.    In the
+              proposed scheme, a subset of nodes in the network dynamically assumes the
+              function of the "Mobility Reporting Centers" (MRCs). The "location" of a mobile
+              is reported to a set (quorum) of the MRCs. To locate a mobile, a set (quorum),
+              possibly different from the reported-to one, is queried. As any two quorums
+              intersect, the querying operation is ensured to produce the location of the
+              mobile. As the quorums may overlap in multiple MRCs, loss of connectivity with
+              a limited number of MRCs may have no effect on the ability of the scheme to
+              locate a mobile. Finally, due to the "network-wide known" scheme for quorum
+              creation, there is no need to disseminate the information of association of a
+              mobile with a particular MRC - any reported-to and queried-from two quorums
+              will produce the sought answer.     In the proposed one-year feasibility study,
+              we will tackle the following topics:  (i) study of the complexity and
+              associated overhead of the quorum-based mobility management scheme' (ii) quorum
+              construction strategies that ensure high degree of reliability with limited
+              network load and uniform MRCs' processing load; (iii) reduction of the
+              probability of erroneous operations and/or inconsistent querying results during
+              the reconfiguration periods;

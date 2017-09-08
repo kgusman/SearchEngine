@@ -1,0 +1,90 @@
+Title       : Development of a Rockbolt Support Element for Discontinuous Deformation Analysis
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a0201577
+
+Award Number: 0201577
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard J. Fragaszy                     
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  2002        
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $69590              (Estimated)
+Investigator: Mary MacLaughlin mmaclaughlin@mtech.edu  (Principal Investigator current)
+Sponsor     : MT Tech of the U of Montan
+	      1300 W. Park Street
+	      Butte, MT  59701    406/496-4101
+
+NSF Program : 1634      GEOMECHANICS & GEOTECHNIC SYST
+Fld Applictn: 0106000   Materials Research                      
+Program Ref : 1057,9102,CVIS,
+Abstract    :
+              CMS-0201577
+PI:		Mary MacLaughlin
+Institution:	Montana
+              Tech
+Title:		"Development of a Rockbolt Support Element for Discontinuous
+              Deformation Analysis"
+
+Astract:
+The primary objective of this research
+              project is to develop a rockbolt support element that is capable of modeling
+              actual rockbolt behavior, particularly nonlinear movement between the bolt and
+              the rock which is critical for numerical modeling.  Discontinuous Deformation
+              Analysis, DDA, has several unique features that make it a perfect candidate for
+              development of a bolt element that has the ability to characterize rockbolt
+              behavior to a much higher degree of realism and accuracy than has previously
+              been possible.  DDA is an implicit discrete element method that already has the
+              capacity to model "blocks" of any irregular shape, and the contact routines are
+              specifically designed to efficiently capture contact between blocks with both
+              convex and concave vertex angles.  The method accounts for frictional,
+              cohesive, and tensional forces which are present at the contacts, and allows
+              blocks to slide, separate, and impact without penetrating.  A rockbolt element
+              will be implemented as a "block" with a particular geometry and special
+              material properties consistent with those of a typical rockbolt.  The
+              support-rock interaction mechanics will then be incorporated into the model as
+              manifested by displacement between the bolt element and the surrounding rock
+              blocks.  This capability to model bolt behavior, especially pull-out failure,
+              will make the DDA rockbolt element a more accurate modeling tool than other
+              previously developed numerical rockbolt support elements.  Mark (2000) states
+              that "the reinforcement mode is actually dictated to the bolts by the ground,
+              rather than the reverse."  One of the real strengths of the DDA approach is
+              that this outcome is a natural result of the analysis.  The behavior and
+              failure mode do not have to be specified before or during the analysis - they
+              are part of the calculated results.
+The NIOSH Spokane Research Laboratory,
+              which was a branch of the US Bureau of Mines until 1995 and is now part of the
+              National Institute for Occupational Safety and Health, has invested significant
+              resources into the development, installation and testing of instrumented
+              rockbolts since the mid-1980's.  Analysis of the data collected using the
+              instrumented rockbolts has contributed a great deal to the general
+              understanding of the behavior of rockbolt supports, and collaboration with
+              NIOSH personnel is an important component of this project.
+The development of
+              the bolt element will involve bolt type selection, theoretical development,
+              algorithm development and implementation.  The PI and Ms. Kathryn Clapp, the
+              Montana Tech graduate student involved in this project, will jointly work on
+              all of these aspects, with assistance from Mr. Steve Signer of NIOSH.  One
+              fairly unique aspect of this project is that once the theoretical development
+              is finished and the rockbolt algorithms have been implemented into the
+              software, validation will be performed using the large archive of NIOSH
+              instrumented rockbolt data which has already been collected.  This is a
+              tremendous advantage and will allow the project to be completed in a relatively
+              short period of time, with a modest budget.  Ms. Clapp will perform the bulk of
+              the validation activities, which will entail constructing DDA models
+              corresponding to each of the different laboratory test configurations used, and
+              performing analyses with model conditions specified to represent the lab tests
+              as closely as possible.  The DDA calculations of the head displacement and load
+              values at points along the bolt will be recorded and compared to actual bolt
+              behavior as observed during the tests.
+
+Reference:  Mark, C. (2000).  "Design
+              of Roof Bolt Systems."  In C. Mark, D.R. Dolinar, and R. Tuchman, eds. New
+              Technology for Coal Mine Roof Support, Proceedings of the NIOSH Open Industry
+              Briefing, NIOSH IC 9453, pp. 111-132.
+

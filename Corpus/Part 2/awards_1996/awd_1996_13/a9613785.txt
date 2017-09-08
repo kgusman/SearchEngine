@@ -1,0 +1,53 @@
+Title       : CONACyT: Topological Methods in Distributed and Concurrent Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 9,  1997      
+File        : a9613785
+
+Award Number: 9613785
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1996 
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Maurice Herlihy herlihy@cs.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1069,9218,HPCC,
+Abstract    :
+                  This NSF-CONACyT Collaborative Renewal Award continues to apply  techniques
+              from the abstract mathematical area of simplicial  algebraic topology
+              (developed under CCR-9505949) to the  problem of coordinating concurrent
+              processes in a  distributed or parallel computing system.  Coordination 
+              problems arise at all scales of modern distributed and  concurrent systems, way
+              from synchronizing access to shared  data objects in tightly-coupled
+              multiprocessors, to  allocating data paths in ATM networks.  Coordination is 
+              difficult because modern parallel and distributed systems  are inherently
+              asynchronous (that is, processes may be  delayed without warning for a variety
+              of reasons, including  interrupts, pre-emption, cache misses, communication
+              delays,  or failures).  These delays can vary enormously in scale:  (a) a cache
+              miss might delay  a processor for fewer than ten  instructions; (b) a page
+              fault for a few million  instructions; and (c) operating system pre-emption for
+               hundreds of millions of instructions.  Coordination  protocols that do not
+              take such delays into account run the  risk that if one processor is
+              unexpectedly delayed, then the  remaining processes may be unable to make
+              progress.  Such  problems become increasingly severe as systems scale.   In 
+              the past few years, a number of researchers have developed a  range of new
+              techniques, based on classical algebraic  topology, for analyzing distributed
+              and concurrent protocols  and data structures.   These techniques have been
+              applied  successfully, under the US-Mexico collaborative effort  supported by
+              CCR-9505949, to a range of computational  problems.   This renewal
+              collaborative project extends these  algebraic topological techniques to a
+              range of more  difficult problems, not just for distributed and parallel 
+              computing, but for any problem area that requires reasoning  about uncertainty
+              and partial information.***

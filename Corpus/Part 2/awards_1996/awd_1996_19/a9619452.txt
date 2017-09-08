@@ -1,0 +1,60 @@
+Title       : Numerical Methods for large Eigenvalue Problems: Parallizable Fast Algorithms
+               and Inner-Outer iterations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 14,  1997  
+File        : a9619452
+
+Award Number: 9619452
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1997      
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $128119             (Estimated)
+Investigator: Hongyuan Zha zha@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This research project consists of two major parts:  parallelizable fast
+              algorithms for large dense eigenproblems  and inexact/inner-outer iteration
+              methods for large sparse  eigenproblems.    Techniques of rational
+              transformation and matrix-squaring  for designing parallelizable fast
+              algorithms for large dense  eigenproblems have been developed which only use
+              matrix-  matrix multiplications and  QR decompositions as building  blocks. Now
+              a general theory is to be established to  encompass the class of algorithms 
+              developed and to also  provide guidance to the derivation of  new algorithms. 
+              Error analysis, robust deflation techniques and stopping  criteria which are
+              extremely important for the practical  implementation of the algorithms will be
+              fully investigated.  This part of the research will result in deeper 
+              understanding of the theory of a new class of generalized  eigensolvers and
+              deliver a class of algorithms that are  truly of high parallel efficiency and
+              robustness.    Efficient algorithms for eigenproblems of partial  differential
+              equations is the major topic of the second part  of this research. Inner-outer
+              iteration type of algorithms  will be developed for the subspace iteration and
+              Lanczos  algorithms and the insight obtained will be applied to the  PDE case.
+              It is demonstrated that different iterative  processes behave quite differently
+              with respect to the  distribution of the accuracy of each inner iteration, and 
+              each iterative process needs a careful analysis in order to  find the
+              distribution strategy that will give the minimum  number of total inner
+              iteration steps. Two algorithms, the  variable-accuracy inner-outer iteration
+              method and the  successive inner-outer iteration method will be further 
+              analyzed and their convergence behavior explained. A PDE  eigenproblem will be
+              solved by putting an iterative process  such as the Lanczos method in a Hilbert
+              space setting. At  each Lanczos  iteration step, the matrix-vector 
+              multiplication corresponds to solving a boundary value   problem for the
+              differential operator, and different  discretizations will be used to enhance
+              efficiency.  The  research will result in deeper understanding and provide 
+              sound theoretical results of various iterative processes for  solving large
+              sparse eigenproblems in the setting of inexact  matrix-vector multiplication.
+              It will also give more  efficient algorithms for solving  large sparse
+              eigenproblems  that arise in many science and engineering areas.

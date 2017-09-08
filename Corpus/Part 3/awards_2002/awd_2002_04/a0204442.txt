@@ -1,0 +1,77 @@
+Title       : Numerical Methods for Molecular Dynamics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 19,  2002      
+File        : a0204442
+
+Award Number: 0204442
+Award Instr.: Standard Grant                               
+Prgm Manager: Hans G. Kaper                           
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $212200             (Estimated)
+Investigator: Robert D. Skeel skeel@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Proposal: DMS-0204442
+PI: Robert D. Skeel
+Institution: University of Illinois
+              at Urbana-Champaign
+Title: Numerical Methods for Molecular Dynamics
+              
+
+ABSTRACT
+
+The primary goal of the research is to create more efficient
+              propagators for atomistic computer simulations that reliably achieve acceptable
+              levels of accuracy and thus to make possible more ambitious scientific
+              calculations.  A second goal is to explore innovative techniques that simulate
+              long-time molecular motions without sequentially stepping through billions of
+              intermediate states, as would be necessary with standard approaches.  New
+              algorithms for both dynamics and sampling are to be constructed using such
+              techniques as modified energy functions that compensate for finite steps,
+              stochastic stabilization, and optimization of method parameters, together with
+              physical insight.  Promising algorithms are tested and compared using
+              mathematical analyses and computer experiments.  Tools for mathematical
+              analysis include the concept of effective accuracy, the method of modified
+              equations, linear analysis, and KAM theory.  Computer experiments are performed
+              on model problems chosen to reveal unambiguously the properties of interest. 
+              Faster algorithms are to be implemented in molecular simulation software
+              developed and distributed for public use in a project at the University of
+              Illinois Beckman Institute.  Many of the techniques will apply not only to
+              molecular simulations but also to simulations in astrophysics, structural
+              mechanics, and fluids.
+
+Computer simulations of atomic detail are heavily
+              employed in physics, chemistry, materials science, and structural biology. 
+              These calculations require the generation of sequences of atomic configurations
+              either for the purpose of modeling actual motion or for the purpose of
+              calculating averaged values and structures from a wide range of representative
+              samples.  The computing time ranges from hours to months, so it can benefit
+              tremendously from faster algorithms.  It is the objective of this research
+              project to do this: to create much more efficient propagators for dynamics and
+              sampling that reliably achieve acceptable levels of accuracy.  The construction
+              of such algorithms employs ideas from mathematics and computer science together
+              with physical insight.  Promising algorithms are tested and compared using
+              mathematical analyses and computer experiments.  The successful ones are
+              implemented in molecular modeling software being developed for widespread use
+              in a project at the University of Illinois Beckman Institute.  These advances
+              in methodology are also to be disseminated in articles targeted to
+              practitioners.  Many of the techniques will apply not only to molecular
+              simulations but also to simulations in astrophysics, structural mechanics, and
+              fluids.  Potentially, the availability of accelerated propagation algorithms
+              will lead to a variety of scientific results that otherwise would not be
+              obtained.  The performance of the research will be a valuable interdisciplinary
+              experience for a graduate student.
+

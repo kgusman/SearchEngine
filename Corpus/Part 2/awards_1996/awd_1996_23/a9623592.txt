@@ -1,0 +1,50 @@
+Title       : Career: Research Plan: Simulation of Surface Waterflow and Transport in a
+               Parallel Computing Environment Teaching Plan: Engineering Futures and
+               Engineering Education
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 26,  2002 
+File        : a9623592
+
+Award Number: 9623592
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $231250             (Estimated)
+Investigator: Randall L. Kolar kolar@ou.edu  (Principal Investigator current)
+Sponsor     : U of Oklahoma
+	      1000 Asp Avenue, Room 314
+	      Norman, OK  73019    405/325-4757
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              This project will investigate scalable parallel algorithms for the solution of
+              the hydrodynamic flow and transport equations.  The algorithms studies will be
+              implemented on a variety of platforms, including clusters of workstations and
+              massively parallel systems.  The mathematical model will be based on the
+              generalized wave continuity equation for surface elevation, the
+              non-conservative form of the momentum equations for the velocity field, and the
+              advection-diffusion equation for transport. Alternative numerical solution
+              techniques, such as mixed finite element methods, will be investigated.  There
+              are five phases to the research.  The first phase will use domain decomposition
+              in conjunction with an existing hydrodynamic model to achieve parallelism.  In
+              the second phase, parallelism will be realized by exploring new algorithms
+              specifically designed to take full advantage of parallel hardware, e.g., domain
+              decomposition techniques.  In conjunction with the second phase, a third phase
+              will expand the codes capabilities by incorporating more physics into the
+              governing equations.  For example, baroclinic terms, which account for driving
+              forces due to density variations, would  be added so that simulations of, say
+              fresh water/salt water interactions could be modeled.  The fourth phase will
+              rigorously test and validate the model against field data and analytical
+              solutions.  In the fifth phase, the code will be disseminated to users in
+              academia, consulting, and industry, where it will be used to research topics,
+              such as freshwater flow requirements in sensitive coastal ecosystems.

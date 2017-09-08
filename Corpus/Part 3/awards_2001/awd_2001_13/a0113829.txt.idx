@@ -1,0 +1,51 @@
+Title       : ITR/SY: Data Parallel Component Software Components
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 7,  2001     
+File        : a0113829
+
+Award Number: 0113829
+Award Instr.: Standard Grant                               
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $443400             (Estimated)
+Investigator: Steven Parker sparker@cs.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Abstract    :
+              This project envisions an environment where a scientist can easily combine
+              existing software components to create an efficient, highly parallel scientific
+              simulation. To accomplish this, it will develop new software component
+              technologies for high performance computing environments, including a high
+              performance component framework and a new parallel Interface Definition
+              Language (IDL). It will use those tools to investigate mechanisms for
+              integrating high performance (often data parallel) computing with distributed
+              software components. Success of this project will be measured by providing
+              acceptable performance on at least two scientific applications using the new
+              component framework. The applications chosen for the first test of this work
+              (whose development has already started under separate funding) are bioelectric
+              source localization and a combustion simulation of a high-energy material
+              placed in a pool fire. Both applications will stress the capabilities and
+              efficiencies of the proposed work.  As software systems, including high
+              performance parallel programs, become more complex, the use of component
+              architectures can help manage many aspects of this complexity. However, such
+              mechanisms are not prevalent in parallel scientific computing applications due
+              to limitations of existing component systems. These include inefficient
+              handling of large amounts of data, inability to express parallelism in the data
+              or within a component, and difficulty matching parallelism in one component
+              with parallelism in another. The new component architecture research will help
+              overcome many of these limitations. It will, among other features, provide
+              efficient mapping of components to processors, provide efficient communication
+              between parallel components, facilitate migration of components (including
+              checkpoint/restart capabilities), and facilitate redistribution of components
+              for dynamic load balancing.  

@@ -1,0 +1,80 @@
+Title       : On-Line Competitive Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2001     
+File        : a9988360
+
+Award Number: 9988360
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $168862             (Estimated)
+Investigator: Marek Chrobak marek@cs.ucr.edu  (Principal Investigator current)
+Sponsor     : U of Cal Riverside
+	      Office of Research Affairs
+	      Riverside, CA  925210217    909/787-5535
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 5922,9216,HPCC,
+Abstract    :
+              Abstract
+
+
+PI:  Marek Chrobak
+Proposal Number:  9988360
+Institution: 
+              University of California-Riverside
+
+
+
+Optimization problems that arise in
+              practice are often inherently (online); that is, the input data is not
+              available prior to computation but, instead, is given as a sequence of requests
+              each of which must be served before the next one is received. A classical
+              example is the (catching) problem in two-level memory systems. Modern computer
+              architectures enhance memory performance by storing the most frequently
+              accessed data items in a cache, which is a small buffer memory with very short
+              access time.  When a requested item r is not in the cache -- an event referred
+              to as a (fault) -- the caching algorithm stores r in the cache. If the cache is
+              full, the algorithm needs to decide which item to evict from the cache to make
+              room for r.  This decision is made (online), without the knowledge of future
+              requests. Naturally, the goal is to minimize the number of faults. 
+
+Due to
+              incomplete information, online algorithms cannot, in general, compute optimal
+              solutions. This brings up the issue of performance evaluation: how do we tell
+              good algorithms from bad ones?  One measure of the quality of online algorithms
+              is their (competitive ratio), defined as the maximum, over all request
+              sequences, and of the ratios between the solution computed by the online
+              algorithm and the optimal (offline) solution. Thus, an algorithm with
+              competitive ratio, says, 1.5, always computes a solution that is within 50% of
+              the minimum. 
+
+This research deals with the competitive analysis of online
+              algorithms and is divided into three projects.  The first project is to study
+              several known, specific online problems, including the k-server problem, file
+              caching, and others.  The objectives of this work are to develop efficient
+              competitive algorithms for these problems and to establish matching lower
+              bounds on their competitive ratios.  More fundamental issues in competitive
+              analysis are addressed in the second project. The main focus here is on the
+              techniques for the design and analysis of online algorithms. The most
+              promising, emerging ideas in this direction include the work-function algorithm
+              (and its extensions) and the primal-dual method. Both of these techniques, as
+              well as some other, have been successfully applied to specific online problems,
+              but the mechanism behind their success is still poorly understood, and they
+              still require an in-depth study to determine their applicability to other
+              problems.  The third project is to explore some extensions of the competitive
+              analysis that have been recently introduced for the caching problem: access
+              graphs, diffuse adversaries, and loose competitiveness. In addition to work on
+              some remaining open problems in this area, this project will also focus on
+              adapting these new models to online problems other than caching (for example,
+              file migration), and, if appropriate, on designing and studying other
+              problem-specific models. 
+

@@ -1,0 +1,46 @@
+Title       : Collaborative: Improving Subjectivity Analysis to Achieve High-Precision
+               Information Extraction
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 21,  2002    
+File        : a0208985
+
+Award Number: 0208985
+Award Instr.: Standard Grant                               
+Prgm Manager: Karen Kukich                            
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $275010             (Estimated)
+Investigator: Ellen M. Riloff riloff@cs.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 6845      HUMAN COMPUTER INTER PROGRAM
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : ,9218,HPCC,
+Abstract    :
+              This project will use subjectivity analysis to improve the accuracy of
+              information extraction (IE) systems.  IE systems are designed to extract facts,
+              but they are prone to false hits from subjective statements such as
+              accusations, allegations, suspicions, and opinions. The first phase of the
+              research will create a subjectivity classifier that uses learning algorithms to
+              identify linguistic features associated with subjective language.  The
+              classifier will use several natural language representations, including
+              extraction patterns, N-grams, and noun phrases. The classifier will be embedded
+              in a bootstrapping architecture so that it can learn from unannotated corpora,
+              requiring only a small amount of annotated data to jumpstart the bootstrapping.
+               In the second phase, the classifier will be integrated into an IE system to
+              measure the impact of subjectivity classification on IE performance. 
+              Information extracted from objective sentences will be treated as facts, but
+              information extracted from subjective sentences will be labeled as uncertain or
+              discarded.  This research will produce a better understanding of how subjective
+              language is expressed and the role that context plays in recognizing
+              subjectivity.  The potential impact of the research is to produce more accurate
+              subjectivity classifiers and to demonstrate that subjectivity analysis can
+              improve the performance of IE systems.

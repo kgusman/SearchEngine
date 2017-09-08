@@ -1,0 +1,82 @@
+Title       : ITR/SY (CCR): Implementing Modular Program Analysis via Intersection and Union
+               Types
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 9,  2002       
+File        : a0113193
+
+Award Number: 0113193
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $448412             (Estimated)
+Investigator: Assaf J. Kfoury kfoury@cs.bu.edu  (Principal Investigator current)
+              Joseph B. Wells  (Co-Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1658,9216,HPCC,
+Abstract    :
+              
+Proposal Number: ITR Proposal 0113193
+
+Title: Implementing Modular Program
+              Analysis via Intersection
+and Union Types.
+
+PI: Assaf J. Kfoury
+
+The
+              proposed research will investigate real-world relevance of a 
+new framework
+              for modular program-analysis, which uses "intersection" 
+and "union" types.
+              The starting point of this investigation is a 
+recently designed polymorphic
+              type system, called System I, for a 
+foundational functional language, the
+              lambda-calculus. The chief 
+feature of System I is the use of "intersection"
+              types together 
+with the new technology of "expansion variables", which allow
+              
+System I to satisfy a substitution-based principal-typings property.
+              
+Although fully modular, the resulting program analysis is now 
+restricted to
+              a foundational language (the lambda-calculus) missing 
+many standard
+              high-level programming features such as conditionals,
+recursive definitions,
+              exceptions, assignments, input/output, etc.
+Considerable work is necessary in
+              order to turn System I into a 
+type system for a full-fledged programming
+              language such as Scheme 
+(now considered to be the initial target language of
+              proposed research).
+
+The proposed research is largely engineering work, aimed
+              at producing 
+an efficient prototype implementation, based on appropriate
+              extensions 
+of System I. The implementation will be evaluated --- or
+              re-designed 
+in parts --- by the extent to which it produces demonstrably
+              better 
+results in handling large software systems (enforcing larger classes
+              
+of safety properties, statically detecting and ruling out larger classes 
+of
+              run-time errors).
+
+

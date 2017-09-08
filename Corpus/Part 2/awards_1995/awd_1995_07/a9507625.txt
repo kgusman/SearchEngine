@@ -1,0 +1,73 @@
+Title       : Continued Development of a Software Framework to Maintain and Query Features of
+               Biological Macromolecules
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : October 18,  1996   
+File        : a9507625
+
+Award Number: 9507625
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : September 15,  1995 
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $141007             (Estimated)
+Investigator: Philip E. Bourne   (Principal Investigator current)
+              Calton Pu  (Co-Principal Investigator current)
+              Ilya N. Shindyalov  (Co-Principal Investigator current)
+Sponsor     : General Atomics
+	      
+	      San Diego, CA  92118    /   -
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0510204   Data Banks & Software Design            
+              61        Life Science Biological                 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This proposal seeks to maintain and further develop an  object oriented software
+              framework to represent and access  macromolecular structure data of proteins,
+              DNA, RNA. and  their complexes. In this context a software framework  implies a
+              set of reusable software components that encompass  the storage, intuitive,
+              efficient retrieval and processing  of macromolecular structure-based
+              information leading to a  better understanding of structure-function
+              relationships. A  continuing major design goal is the ability to quickly 
+              combine and apply these components in hitherto unthought of  ways. An approach
+              of particular value to the fast evolving  domain of structural biology where
+              the amount of data, our  knowledge about that data, and presumably the new
+              questions  that data raises, continues to grow at a near exponential  rate. The
+              existing framework, based on PDBlib, a ~++ class  library for representing a
+              macromolecular structure, already  interfaces to a variety of backend storage
+              formats including  Protein Data Bank (PDB) ASCII files. Object Oriented PDB 
+              (OOPDB - a persistent version of PDBlib) and a Derived  Features DataBase
+              (DFDB). Query of all backend storage  formats is available through
+              MacroMolecular Query Language  (MMQL), a domain specific non-formal query
+              methodology. More  limited query of OOPDB and DFDB and reports generated from 
+              these databases are available globally through the  Macromolecular Object
+              Oriented Search Engine (MOOSE), a  World Wide Web (WWW) server. This proposal
+              seeks to maintain  and expand all facets of the framework. The specific goals 
+              of this proposal are as follows:         Maintain and make available through
+              the resources of       the San Diego Supercomputer Center (SDSC) the existing  
+                  and evolving framework. This implies: providing access       to current
+              native and derived data, database       maintenance, software maintenance,
+              software       distribution, and limited assistance to the community       of
+              users.         Extend the framework to:               1. Support a broader
+              range of information on       biological macromolecules through               
+              extensions to PDBlib. Namely, functional       classification of
+              macromolecules,                primary sequence where no 3-D structure      
+              exists, NMR ensemble d~ta, and                experimental data including that
+              from sources       other than X-ray and NMR.              2. Provide new query
+              methods (predominantly for       comparative analysis) to               
+              effectively use existing and new data by       extensions to MMQL.             
+              3. Provide the ability to store and subsequently       operate on the results
+              of previous                queries as specialized databases.         Optimize
+              the storage and query methodology used by the  framework.         Continue
+              in-house research using the framework to       explore correlations between
+              various structural       parameters found in protein structures.    While it is
+              far from proven that the community will use and  further develop software
+              frameworks such as the one proposed  here, the rationale behind it would seem
+              sound in a time  when the falling cost of hardware has not been matched by a 
+              significantly decreased cost in software development.

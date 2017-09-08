@@ -1,0 +1,76 @@
+Title       : CAREER Proposal: Fundamental Algorithmic, Architectural and Economic Issues in
+               Designing High Speed QoS-capable Data Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 27,  2001 
+File        : a9985446
+
+Award Number: 9985446
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Balaji S. Prabhakar balaji@isl.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+                   A broad research program is outlined for investigating fundamental issues
+              arising in the design of high speed, quality-of-service (QoS) capable data
+              networks. Several key problems are identified within an over all architectural
+              framework, similar to that considered by the IETF Working Group on
+              Differentiated Services (DIFFSERV) for the Next Generation Internet (NGI). The
+              research program consists of technological and economic components, each
+              containing several problems that confront the research community.
+     The
+              essential issue of providing differentiated QoS to individual users is the fair
+              allocation of network resources among the users. The network can accomplish
+              this by employing packet scheduling mechanisms like Weighted Fair Queueing
+              (WFQ) at the switching nodes.  It has been shown that these schemes effectively
+              erect bandwidth firewalls between the flows of different users, thus
+              guaranteeing that the QoS of one flow is not at the mercy of other flows. But
+              schemes like WFQ suffer from the curse of dimensionality: They require
+              switches/routers to maintain flow state information for distinguishing the
+              packets of individual flows. This renders them too complex to be used in large
+              high speed networks.
+     Alternatively, if users can be incentivised to
+              condition their flows to prescribed parameters, then the network can be spared
+              the burden of having to erect bandwidth firewalls. This considerably reduces
+              the complexity of router design. Using economic thinking researchers argue that
+              the requisite incentive can be provided by charging users for the damage caused
+              to other traffics by their ill-conditioned flows. But the feasibility of
+              charging schemes depends on their implementability: Although they reduce the
+              cost of routers, they require the installation of devices for monitoring each
+              flow and for producing a charge accordingly.
+     This research program taps
+              into both these interrelated currents and takes a unified
+approach. The
+              central questions addressed are: (i) Can implementationally simple
+              router
+mechanisms be designed for providing QoS guarantees to individual
+              flows? (ii) Can simple and effective charging mechanisms be devised for
+              incentivising users to condition their flows? Preliminary work conducted by the
+              proposer gives an encouraging answer to these questions, and suggests a general
+              approach to the problem of providing QoS with minimal implementation overhead.
+              The overall program involves devising algorithms, considering architectural
+              issues, analyzing mathematical models, and using game theoretic and economic
+              ideas. The robustness of solutions will be tested through extensive simulation
+              of a wide range of network topologies and parameter values. The complexity of
+              implementing them will be explored through simulation and possibly through
+              prototype design.
+     The education plan consists of developing an advanced
+              networking course which aims to closely integrate theory and practice,
+              developing an undergraduate course in Networking over the next two years,
+              initiating cross-disciplinary education and research activities, and involving
+              undergraduate and graduate students in research.
+

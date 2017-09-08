@@ -1,0 +1,50 @@
+Title       : Incremental Placement and Routing Algorithms for FPGA and VLSI Circuits
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 5,  2002   
+File        : a0204097
+
+Award Number: 0204097
+Award Instr.: Continuing grant                             
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2003    
+Expires     : October 31,  2005    (Estimated)
+Expected
+Total Amt.  : $298213             (Estimated)
+Investigator: Shantanu S. Dutt dutt@ece.uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research addresses the creation of efficient algorithms for incrementally
+              re-placing and re-routing small portions of a VLSI circuit to correct problems
+              such as signal integrity, speed and high heat density that have been discovered
+              therein via simulation.  The challenge is to quickly re-layout only the
+              affected portion of the circuit, while minimizing any layout changes of the
+              much larger unaffected part of the circuit in order to capitalize on the
+              enormous resources and time already spent on the physical design of the chip,
+              to retain the already optimized features of the design, and to meet
+              time-to-market requirements.
+
+Algorithms for both regular VLSI chips and
+              field-programmable gate arrays (FPGAs) are being addressed in this project. 
+              For the incremental placement problem, a min-cost network-flow based algorithm
+              is being investigated using both deterministic and probabilistic edge costs. 
+              In the incremental routing realm, the following areas are being researched:  
+              (a) Algorithms for constraint-driven "bump-and-refit" (this allows exploration
+              of solution spaces with different sets of constraints like upper bounds on the
+              increase in net lengths and/or delays, on the number of vias, and on crosstalk
+              coupling). (2) Performing incremental global and detailed routing in one
+              consolidated framework in order to obtain better optimized routings.  (3)
+              Incremental Satisfiability (SAT) methods and their application to incremental
+              routing.  (4) Various additional issues and solution techniques needed for
+              incremental routing of VLSI circuits.
+

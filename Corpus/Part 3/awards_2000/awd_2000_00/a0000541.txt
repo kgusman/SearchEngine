@@ -1,0 +1,95 @@
+Title       : Precision Fabrication of Nanostructures by Optimal Mixed H2/H Control of
+               Microcontact Next Generation Lithography Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 7,  2000  
+File        : a0000541
+
+Award Number: 0000541
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Thomas Kailath tk@isl.stanford.edu  (Principal Investigator current)
+              Charles D. Schaper  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              0000541
+Kailath
+
+A number of different so-called NGL (next generation
+              lithography) techniques are currently begin explored for continuation of the
+              so-far incredibly successful optical lithography techniques, which can take the
+              PI's to devices with 70 nm critical dimensions, one of the more interesting
+              classes of NGL techniques, called microcontact or soft lithography, has
+              demonstrated exceptional patterning fidelity in even the fabrication of 10 nm
+              feature sizes and working integrated devices.  Microcontact lithography methods
+              involve a 1:1 conformal mask or template, brought into direct contact with the
+              surface of the substrate with several different approaches for completing the
+              printing process subsequent to contact, including physical, chemical, and
+              photonic means.  Recently, a novel microcontact NCL strategy utilizing
+              permeable membrane materials (PMM) has been developed in the PI's Stanford
+              semiconductor manufacturing group.  In this approach, pattern transfer is
+              achieved by molecular transport of reactive species through a permeable porous
+              template to form a spatially selective etch-resistant mask on the substrate
+              surface.
+
+At the dimensions envisaged for microcontact NGL techniques,
+              extremely precise positioning and alignment of mask and substrate will be
+              needed during the entire printing trajectory including extension, hold, and
+              retraction.  The PI's propose to develop an optimal multivariable control
+              system for this purpose, with their recently developed PMM system as a specific
+              test vehicle.  Preliminary explorations have led them to focus on a dual servo
+              6-axis piezeo-driven nanopositioning flexure stage along with real-time
+              mask-substrate gap detection and laser interferometry for positioning and
+              alignment. Overall, the fine-stage system will employ six piezoactuators and
+              nineteen high resolution positioning detectors.  Although the control laws will
+              be developed and demonstrated on their PMM technology and a related near-field
+              direct write patterning system, the strategy will be generally applicable to
+              other microcontact NCL techniques that employ flexure positioning
+              methods.
+
+Some details on their proposed approach follow.  First, a
+              state-space model of the flexure stage will be identified using recent advances
+              in the so-called subspace methods developed by Cho and Kailath at Stanford.  In
+              the planned approach, frequency domain data will be generated and a linear time
+              invariant model will be computed.  Subspace identification techniques offer a
+              non-iterative method to generate multivariable state-space models.  For their
+              application which has considerable redundancy in the sensor set, the subspace
+              approach to model identification is useful since, by employing results from
+              displacement structure theory, fast algorithms can be obtained.  They also plan
+              to investigate the use of the subspace identification output to determine a
+              minimal set of detectors and actuators to control the unit.
+
+Using the
+              identified model, they will design an optimal mixed H2/H controller.  The H2/H
+              control objective is applicable to this project because of the need to optimize
+              the positioning speed for an increase in throughput while guarding against
+              worst-case crashes of the mask to the substrate surface.  Both stochastic and
+              bandlimited disturbances due to vibrations, as well as internal effects such as
+              nonlinear beam bending moments, hysteresis, and variable initial conditions and
+              topography effects, enter the plant and must be compensated along the desired
+              positioning trajectory.
+
+In brief, this proposal envisages the extension and
+              application of recent control design theories to design a very high performance
+              nanopositioning control system.  A specific new so-called PMM technology will
+              be the testbed for the development.  However the techniques are relevant to
+              several microcontact technologies; they should also be useful for specific
+              applications such as fabrication on curved surfaces, and for manufacturing MEMS
+              (microelectro- mechanical systems), microsynthetic and microfluidic
+              systems.
+***
+

@@ -1,0 +1,47 @@
+Title       : Non-Relational Implementation of a Class of Decision-Support Relational Queries:
+               the For-loop Approach
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 12,  2001  
+File        : a0091928
+
+Award Number: 0091928
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  2001  
+Expires     : January 31,  2004    (Estimated)
+Expected
+Total Amt.  : $176335             (Estimated)
+Investigator: Antonio Badia abadia@louisville.edu  (Principal Investigator current)
+Sponsor     : U of Louisville Res Fdn
+	      2301 S. Third St.
+	      Louisville, KY  40292    502/852-8367
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9150,9216,HPCC,
+Abstract    :
+              Advanced database applications like Decision-Support Systems (DSS) and data
+              mining use existing database technology (relational databases and their query
+              language, SQL) to extract high-level information from large amounts of data.
+              Since SQL is a declarative language (it allows the user to specify what is
+              needed, not how to obtain it), and most SQL queries can be implemented in
+              different ways, a process of optimization is carried out which chooses the most
+              efficient implementation known to the system for each query. However, as both
+              the amount of data to be processed and the complexity of the queries used grow,
+              optimization is becoming more difficult and more important. This project
+              explores a novel approach to the optimization of complex SQL queries, called
+              the For-loop approach, which goes beyond the relational framework to try to
+              find more efficient implementations. The results of this project will provide
+              insight into the strengths and limitations of optimizations for SQL. The new
+              approach has the potential to provide significant performance improvements over
+              current techniques for a restricted (but important) class of queries, including
+              queries with subqueries where the FROM and WHERE clause of query and subquery
+              exhibit significant overlap (these queries are not uncommon in DSS
+              environments). The results of this research will be actively disseminated by
+              the PI in order to attract collaboration with industry and with other
+              researchers. 

@@ -1,0 +1,44 @@
+Title       : Parallel Jacobi Methods for Large Control Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  1997   
+File        : a9619514
+
+Award Number: 9619514
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1997  
+Expires     : January 31,  1999    (Estimated)
+Expected
+Total Amt.  : $53270              (Estimated)
+Investigator: Niloufer Mackey nil.mackey@wmich.edu  (Principal Investigator current)
+Sponsor     : Western Michigan Univ
+	      1903 West Michigan Avenue
+	      Kalamazoo, MI  49008    616/387-8298
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              The aim of this project is the development and implementation of  parallelizable
+              numerical methods for solving matrix Riccati  equations that arise from large
+              control problems.  One effective  and widely used approach to their solution is
+              via the computation  of the stable invariant subspace of an associated
+              Hamiltonian  matrix.  Existing methods have one or more drawbacks: limited 
+              parallelizability, lack of structure-preservation, numerical  instability, or
+              slow convergence.    In this project, new Jacobi type algorithms for
+              Hamiltonian and  other structured eigenproblems will be developed.  Existing 
+              structure-preserving Jacobi algorithms suffer from poor  convergence: they use
+              2x2 symplectic-rotations, which limit the  positions on the off-diagonal that
+              can be targeted for  annihilation.  By exploiting the correspondence between
+              4x4  matrices and the tensor square of the quaternion algebra,  this proposal
+              studies ways to overcome this restriction,  and develop structure-preserving
+              algorithms that have better  convergence properties, while retaining numerical
+              stability and  parallelizability.  The algorithms developed will be evaluated 
+              for speed and stability in serial and parallel settings.  Improved parallel
+              algorithms will enable scientists and engineers  to solve larger control
+              problems with greater accuracy.  ***

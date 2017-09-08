@@ -1,0 +1,58 @@
+Title       : Generalized Branch-and-Cut Method for Mixed Integer Programming
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0200151
+
+Award Number: 0200151
+Award Instr.: Standard Grant                               
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $287204             (Estimated)
+Investigator: Sanjay Mehrotra mehrotra@iems.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0107000   Operations Research                     
+Program Ref : 9147,MANU,
+Abstract    :
+              Models involving general integer variables with nonlinear constraints are very
+              hard to solve.  There has been some, but limited progress towards solving large
+              scale models of this type.  Computational results on practical test problems
+              suggest that the gap between the optimum objective value and a bound from the
+              solution of the relaxed problem at the root node is significantly larger when
+              compared with bounds obtained in the linear case, and the size of the
+              enumeration tree explodes quickly.  To overcome the difficulties in solving
+              large scale problems of this type, advances in several directions are needed. 
+              Methods for generating good cutting planes need to be developed further, as
+              well as more advanced heuristics for identifying a feasible solution quickly
+              need to be developed.  However, we think that the most fundamental advance may
+              come from the development of advanced branching schemes in a branch-and-cut
+              method.  The standard branching schemes branch on a single variable disjunction
+              at a time.  Lenstra showed that by branching on general hyperplanes we can
+              solve a mixed integer linear programming problem in polynomial time.  Lenstra's
+              algorithm has found limited practical value.  This is because the computational
+              cost of finding the branching hyperplane in his algorithm is very high. 
+              However, there is a possibility for finding branching planes that are ``good
+              quality'' but computationally not as expensive.  This research will focus on
+              this problem as well as related issues towards solving nonlinear mixed integer
+              programs.
+
+Several engineering and management problems lead to models that
+              are nonlinear, possibly stochastic, integer programs.  These problem areas
+              include inventory, production and chemical process planning, layout, location,
+              logistics and financial optimization.  For example, nonlinearity arises
+              naturally while modeling uncertainty using the second moment.  This proposal
+              request funds to support our ongoing research for finding efficient techniques
+              for solving such models.  The development of general purpose solution
+              methodology for solving nonlinear integer programming problem will have a wide
+              ranging impact, as it would facilitate solving such problems arising from many
+              different areas.

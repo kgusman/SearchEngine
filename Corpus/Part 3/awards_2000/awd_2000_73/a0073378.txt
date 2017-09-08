@@ -1,0 +1,97 @@
+Title       : Efficient Lossy Data Compression Via Statistical Model Selection
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 5,  2001      
+File        : a0073378
+
+Award Number: 0073378
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2000      
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $99254              (Estimated)
+Investigator: Ioannis Kontoyiannis   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              This research develops a novel framework for the design and
+              better
+understanding of data compression algorithms. This framework
+              facilitates 
+the use of ideas and techniques from statistics in order to:
+ 
+              (a) Design efficient practical algorithms for specific applications; 
+  (b)
+              Precisely characterize the performance of such algorithms. 
+These algorithms
+              provide easily implementable, high-compression methods. 
+Their construction is
+              done in three stages: A precise correspondence is 
+first established between
+              data compression algorithms and statistical 
+models. In the second stage,
+              statistical techniques are applied to 
+identify a suitable "model" for the
+              data, and in the third stage the 
+selected model is turned into a practical
+              algorithm. Virtually all of the 
+algorithms that are currently used in
+              compression applications can be 
+incorporated into this framework. In view of
+              the tremendous practical 
+importance of the basic problem (lossy data
+              compression), especially in
+the area of multimedia, even modest advances can
+              have a strong impact. 
+
+Using ideas and techniques from the area of adaptive
+              statistical model-
+selection, this study develops practical algorithms and
+              attempts to
+advance theoretical understanding of the fundamental issues
+              involved 
+in lossy data compression, by investigating the following basic
+              questions:
+1. What are the fundamental limits of performance (in terms of
+              redundancy 
+   and complexity), for compression with finite amounts of data?
+              What is
+   the best achievable rate at which optimality can be reached using
+              
+   reasonable computational resources?
+2. How can the trade-off between
+              implementation complexity and compression 
+   performance be balanced in
+              practice?
+3. What is the natural _lossy_ analog of the well-known
+              correspondence 
+   between algorithms and codebooks in lossless compression,
+              and how can 
+   model-selection be employed to construct practical
+              algorithms?
+On the side of applications, the primary emphasis is on adaptive
+              methods 
+that can be implemented in real-time systems, and which are based on
+              
+concrete theoretical guidelines. These will provide low-complexity,
+              
+universal algorithms. In terms of the theory, the focus is on
+              determining
+the natural mathematical framework, within which the above issues
+              can
+be analyzed. This development builds on recent work in
+              information
+theory, centered around a natural "lossy" generalization of the
+              
+Asymptotic Equipartition Property and its refinements.
+

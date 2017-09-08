@@ -1,0 +1,81 @@
+Title       : Analysis and Design of Multivariable Extremum Seeking Algorithms
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 5,  2000  
+File        : a0080832
+
+Award Number: 0080832
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $196008             (Estimated)
+Investigator: Mario A. Rotea rotea@purdue.edu  (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              0080832
+Rotea
+
+Several control engineering problems require the determination
+              of parameters that optimize a system level cost function in real time.
+              Real-time optimization is necessary to seek optimal control parameters in many
+              application areas such as vibration and noise attenuation, flow separation,
+              combustion control, and control of flying formations. In these problems the
+              control architectures that improve system operation (e.g., minimize a noise or
+              vibration figure, minimize flow separation in an airfoil, minimize the unsteady
+              pressure fluctuation in a combustion chamber) are known in advance.  On the
+              other hand, the optimal control parameters are not known in advance and must be
+              determined.
+
+Off-line calculation of the optimal parameters is impractical
+              when no reliable model is available to predict the variation of the cost
+              function with time, the optimization parameters, or the system's operating
+              conditions.  It is generally possible, however, to make real-time measurements
+              of the cost function through the addition of sensors and data processing.  This
+              additional hardware and software opens up the possibility of calculating
+              optimal parameters by 'experimenting with the system' in order to determine the
+              parameter setting that leads to a cost function improvement. The practical
+              implementation of this idea requires an iterative algorithm that seeks the
+              optimal parameters in real time.
+
+The main objective of this project is the
+              development of new iterative algorithms for the real-time optimization of a
+              measurable cost function.  Iterative 'extremum-seeking algorithms' that make
+              use of function evaluations only, to estimate optimal parameters, will be
+              considered. The challenge is to derive algorithms that (I) track fast
+              variations in the optimal parameters, (II) are insensitive to the noise present
+              in the measurements of the cost function, and (III) exhibit monotonic
+              improvement of the cost function during the course of the optimization.
+
+The
+              focus shall be on 'gradient-based iterative algorithms' for which the necessary
+              gradient information is not available and it must be estimated from the
+              measurements of the cost function.  Analysis of the algorithm performance, and
+              sensitivity to modeling assumptions, will be carried out using methods and
+              tools from the theory of nonlinear uncertain dynamical systems.  Performance
+              and sensitivity (or robustness) bounds will be obtained from the combination of
+              traditional differential equations methods (averaging techniques) with recent
+              tools from uncertain dynamical systems analysis.  The bounds will later be used
+              to synthesize algorithms that optimize criteria (I)-(III) above from available
+              prior information.
+
+If successful, the proposed research will advance the
+              state-of-the-art of real-time gradient-based optimization algorithms.  A novel
+              framework for analysis that takes into account fast variations in optimal
+              parameters and measurement noise will be developed.  New systematic procedures
+              to design extremum-seeking algorithms that work in uncertain noisy environments
+              will be created.  These design procedures would allow engineers to implement
+              extremum-seeking algorithms with minimal development effort.   
+***   
+

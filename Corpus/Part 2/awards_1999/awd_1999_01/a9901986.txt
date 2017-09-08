@@ -1,0 +1,79 @@
+Title       : Large-Scale Matrix Computation Problems in Information Retrieval and Datamining
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  1999    
+File        : a9901986
+
+Award Number: 9901986
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $229344             (Estimated)
+Investigator: Hongyuan Zha zha@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+This research focuses on the development, analysis and implementation of fast
+              and memory-efficient algorithms 
+for solving several matrix computation
+              problems arising from information retrieval and data mining.  The singular
+              value decomposition (SVD) of large and/or sparse matrices plays an essential
+              role in this research: it is used, on the one hand, for dimension reduction to
+              achieve high algorithmic efficiency, and on the other for noise reduction to
+              improve retrieval accuracy.  The emphasis is on exploring the intrinsic
+              structures of the matrices arising from those applications to develop fast
+              algorithms for their SVD computation. 
+
+Specifically, the goals of this
+              research are 1) the development of theoretical foundation for latent semantic
+              indexing (LSI) and related spectral analytical methods for information
+              retrieval, hypertext link analysis and data mining; 
+2) the development and
+              implementation of high performance algorithms for partial SVD and sparse
+              low-rank approximation computation that can scale to very large text corpora
+              and databases.
+A subspace-based statistical model has been previously
+              developed to represent the 
+relations between terms and latent concepts.  This
+              model has led to a "low-rank-plus-shift" structure that is approximately
+              satisfied by the cross-product of the term-document matrices. 
+This structure
+              gives rise to a more accurate updating scheme for LSI and it also leads to a
+              highly parallel divide-and-conquer method for computing the partial SVD of
+              large sparse term-document matrices. 
+This project will 1)  further develop
+              our subspace-based model and gain deeper understanding of the 
+effectiveness
+              of partial SVD and their sparse variations in text retrieval, link analysis and
+              data mining 
+applications; 2) further explore the low-rank-plus-shift
+              structures of the term-document matrices and link matrices 
+to develop fast
+              and memory-efficient numerical algorithms for the computation of their partial
+              SVD in linear time; 
+3) explore other efficient heuristics for finding dense
+              bipartite subgraphs used in Web link analysis and data mining applications; and
+              4) test the algorithms on text corpora generated from WWW and large commercial
+              databases.
+
+No computation of SVD on the order of several million has been
+              attempted before, and LSI, data mining applications and link analysis for WWW
+              provides a perfect platform to investigate algorithmic issues and parallel
+              implementation issues for large-scale computation.  This research attempts to
+              integrate theoretical investigation based on statistics and matrix perturbation
+              theory, algorithmic development using computational linear algebra
+              methodologies, and experimentation on real-world text corpora and large
+              datasets obtained from WWW search engines and large commercial databases. 
+

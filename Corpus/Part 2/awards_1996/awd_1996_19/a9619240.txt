@@ -1,0 +1,45 @@
+Title       : Nonrigid Motion and Structure Recovery from 2D Views
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 2,  1999   
+File        : a9619240
+
+Award Number: 9619240
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1997     
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $299467             (Estimated)
+Investigator: Dmitry B. Goldgof goldgof@csee.usf.edu  (Principal Investigator current)
+Sponsor     : U of South Florida
+	      4202 Fowler Avenue
+	      Tampa, FL  336209951    813/974-5465
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              The  goal  of  this research project is to develop algorithms  to  solve  dual
+              problem of structure and motion recovery of  nonrigid  objects from multiple 2D
+              views. Previously, algorithms have  been  developed  that  can  recover point
+              correspondences  in  nonrigid  motion   from  range  data  sequences.  If  only
+               2D  projections  (perspective  or  scaled orthographic) are  available,  not 
+              only  motion  but  also structure (i.e. 3D coordinates) of the  surface  points
+               need  to  be  determined.   There  are  several  research  questions related
+              to nonrigid motion and structure recovery which  are  being addressed.  .First,
+              depending on the observed  motion,  which  of  the various nonrigid motion
+              models should be  utilized  (that  include determination  of the number of
+              parameters  to  be  estimated)?  Second, once the motion model is decided,  how
+               many  feature  points, over how many frames are required  in  order  to 
+              estimate   the   motion  and  structure  of  the   points   under 
+              consideration? Further, the derived solutions need to be extended  to  line 
+              (and  other)  features.   This  local  motion  modeling  approach  is often
+              noise sensitive and may have problems handling  large   deformations.    Those 
+              drawbacks   will   be   addressed  bycombining  local techniques with global
+              models.  Global  models  under   investigation  include  time-varying 
+              superquadrics   and  hyperquadrics, spherical harmonics as well as FEM models.

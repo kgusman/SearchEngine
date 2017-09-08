@@ -1,0 +1,47 @@
+Title       : Parallelization of Scheduling Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 4,  1998   
+File        : a9896127
+
+Award Number: 9896127
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1997     
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $64121              (Estimated)
+Investigator: Min-You Wu   (Principal Investigator current)
+Sponsor     : U of Central Florida
+	      Office of Research
+	      Orlando, FL  328263252    407/823-5278
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              Static scheduling utilizes the knowledge of problem  characteristics to reach a
+              global optimal, or near optimal,  solution.  Although these scheduling
+              algorithms apply to  parallel programs, the algorithms themselves are
+              sequential,  and are executed on a single processor system.  The memory  and
+              speed of a single processor limits the size of the graph  that can be handled. 
+              Using multiprocessors to schedule  tasks to multiprocessors is a natural
+              solution to solve  these problems. In fact, a scalable scheduler is not 
+              feasible without parallelizing the scheduling algorithm and  running it on a
+              parallel computer.    There are two major data domains in a scheduling
+              algorithm,  the source domain and the target domain.  The source domain  is the
+              macro-dataflow graph; the target domain is the  schedule for target processors.
+               Two approaches are  proposed, the vertical scheme and the horizontal scheme. 
+              The advantages and disadvantages of the two approaches will  be studied.  This
+              research has already accomplished the  primary stage.  Two parallel scheduling
+              algorithms have been  developed, vertical parallel MCP (VPMCP) and horizontal 
+              parallel MCP (HPMCP).  New parallel scheduling algorithms  will be developed. 
+              An incremental parallel scheduling is  also proposed for applications with
+              dynamic and  unpredictable features.  The goal of this project is to 
+              investigate this approach and evaluate its performance for  some important
+              applications, and to integrate  these results  into a tool-set that will
+              provide support for scheduling of  dynamic and irregular problems.  ***

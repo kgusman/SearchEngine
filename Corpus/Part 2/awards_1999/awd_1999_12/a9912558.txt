@@ -1,0 +1,51 @@
+Title       : Generating Machine-Optimal Numerical Control Paths
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : July 10,  2002      
+File        : a9912558
+
+Award Number: 9912558
+Award Instr.: Continuing grant                             
+Prgm Manager: Delcie R. Durham                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $244127             (Estimated)
+Investigator: Sanjay E. Sarma sesarma@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1464      ENGINEERING DESIGN
+Fld Applictn: 0308000   Industrial Technology                   
+              0510403   Engineering & Computer Science          
+Program Ref : 9148,MANU,
+Abstract    :
+              The objective of this research is to generate the fastest tool paths to sweep a
+              three-dimensional surface.  This will be accomplished by first developing a
+              mathematical formulation which captures all the practical constraints of
+              machining, including motor speed limits, acceleration limits, surface finish
+              requirements, machine kinematics and the effects of path discontinuities.  It
+              is likely that the formulated problem will not yield a closed-form solution. 
+              Several numerical approaches will be tested.  A "greedy" approach has shown
+              initial promise.  In this approach, the tool paths are denerated using a local
+              optimality criterion in place of the global optimality criterion.  A second
+              approach is to generate candidate tool path families are using parametric
+              "basis" curves.  A third approach which will be studied is a global search; the
+              surface will be broken into smaller and smaller elemefltts, and tool paths
+              directions will be varied individually in each element.  The third approach is
+              computationally expensive, but is also likely to yield the best results.
+
+If
+              successful, this research will yield faster tools paths for high speed
+              machining.  As the spindle speeds available in CNC machine tools have
+              increased, linear actuation systems have increasingly become the bottleneck in
+              machining performance. Upgrading to faster linear motor technologies is very
+              expensive.  The tool paths enabled by this research will better utilize the
+              capabilities of todays machine tool structures with new spindle technologies,
+              and enable greater productivity without significantly greater costs.
+

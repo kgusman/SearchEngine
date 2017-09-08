@@ -1,0 +1,59 @@
+Title       : SGER: An Experimental Investigation of Distributed Computing Approaches for
+               Resolving Production Scheduling Problems
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : May 22,  1995       
+File        : a9423694
+
+Award Number: 9423694
+Award Instr.: Standard Grant                               
+Prgm Manager: Georgia-Ann Klutke                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 1,  1995       
+Expires     : January 31,  1996    (Estimated)
+Expected
+Total Amt.  : $29915              (Estimated)
+Investigator: Robert P. Davis robert.davis@eng.clemson.edu  (Principal Investigator current)
+              Thomas K. Keyser  (Co-Principal Investigator current)
+Sponsor     : Clemson University
+	      Box 345702
+	      Clemson, SC  296345702    864/656-2424
+
+NSF Program : 1465      PRODUCTION SYSTEMS
+Fld Applictn: 0308000   Industrial Technology                   
+              59        Engineering NEC                         
+Program Ref : 9147,9237,MANU,
+Abstract    :
+              9423694  Davis   This research explores the feasibility and the effectiveness of
+              using parallel algorithms for solving production scheduling and other related
+              problems is a distributed control manufacturing environment.  Under a parallel,
+              distributed control architecture, a problem is partitioned and solved
+              simultaneously by several processors, with each processor contributing only a
+              portion of the total time to the total solution time.  A mixed integer
+              programming formulation of the job shop scheduling program is used as the
+              general model structure for the research.  The model is then transformed
+              through parameter adjustments into other scheduling scenarios (e.g., flow shop
+              problem).  The emphasis is on permutation schedules.  A set of permutation
+              schedules is formulated using an n-ary structure.  The branching variable in
+              the n-ary tree is the position of each job in the sequence.  This structure is
+              common to many branch and bound solutions for sequencing and scheduling
+              problems.  Using a depth first search rule through the n-ary tree, all job
+              sequences are implicitly evaluated to solve the problem.  Several sample
+              problems will be solved.  Using the results from the sample problems, the
+              behavior of parallel algorithms in a distributed control architecture will be
+              characterized in terms of  algorithmic solution time, communication overhead
+              due to data exchanges between processors, and other algorithmic overheads due
+              to start up, search, and wind down.   As earlier research has established,
+              scheduling problems of practical sizes are very computationally intensive and
+              when left to a single processor, can take an extremely large amount of time to
+              solve, especially if exact solution approaches are employed.  Parallel
+              programming offers some promise in reducing the computational load on a
+              processor to solve a problem.  Therefore, any insights gained in solving this
+              class of problem will offer some economic benefits to several sectors of the
+              economy given that scheduling problems are encountered in  several areas of
+              life.  In addition, there are several other classes of problems that behave
+              alike and are similar to scheduling and sequencing problems.  These classes of
+              problems stand to gain if  progress is made in solving scheduling problems.

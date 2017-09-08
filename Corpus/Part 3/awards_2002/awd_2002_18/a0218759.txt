@@ -1,0 +1,63 @@
+Title       : ITR: Bayesian Models Linking Web Site Structure and Usage
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0218759
+
+Award Number: 0218759
+Award Instr.: Standard Grant                               
+Prgm Manager: Marianthi Markatou                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : October 1,  2002    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $235046             (Estimated)
+Investigator: Alan F. Karr karr@niss.org  (Principal Investigator current)
+              Ashish Sanil  (Co-Principal Investigator current)
+Sponsor     : Nat'l Inst. of Stat. Sci.
+	      PO Box 14006
+	      Research Triangle Pk, NC  277094006    919/685-9300
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1686,OTHR,
+Abstract    :
+              Abstract
+
+PI: Alan Karr
+
+Proposal Number: ITR-0218759
+
+
+Despite its
+              ubiquity, the World Wide Web is poorly understood. As a consequence, many sites
+              are difficult to navigate, hard to use and have confusing structure, to the
+              extent that users may be unable to find content and abandon the site. Essential
+              needs are to relate user behavior to Web site structure; to compare site usage
+              at different times, or for different classes of users; segmentation of
+              sessions; quantification of inter-relationships among pages; and prediction of
+              user behavior, including forecasts, for example, of the economic impact of
+              promotional campaigns. The ultimate impact is more efficient Web sites that
+              serve users more effectively. 
+
+This research will create a set of four
+              increasingly complex, but scalable, Bayesian models that relate the usage
+              (specifically, user page transitions) of a Web site to its structure. It will
+              apply, validate and refine the models and use real data from four qualitatively
+              different Web sites, an E-commerce site, a site operated by a large financial
+              institution, a content site and an information site. The models are scalable
+              because the destinations from a given page are classes of pages that mirror the
+              tree structure of the site, rather than individual pages. Examples are the
+              parent, children and siblings of a page. All four models assume Dirichlet prior
+              distributions for transitions from each page. The first three employ very
+              aggregated classes of transitions, and differ according to whether the
+              transition distributions and the priors are the same for all pages. The fourth
+              model disaggregates the "child" and "sibling" destinations. Calculation of
+              posterior distributions varies in difficulty: some are available in closed
+              form, while others require intensive Markov chain Monte Carlo computation. In
+              addition rigorous model assessment will provide insight into what level of
+              aggregation is appropriate to which analyses of Web data.
+

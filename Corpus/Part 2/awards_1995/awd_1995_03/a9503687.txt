@@ -1,0 +1,46 @@
+Title       : A Control Basis for Learning and Skill Acquisition
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : December 31,  1997  
+File        : a9503687
+
+Award Number: 9503687
+Award Instr.: Continuing grant                             
+Prgm Manager: Jing Xiao                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1995     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $252850             (Estimated)
+Investigator: Roderic A. Grupen grupen@cs.umass.edu  (Principal Investigator current)
+              Andrew G. Barto  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9139,9146,MANU,
+Abstract    :
+              This research addresses principles for organizing predictable and  flexible 
+              behavior in complex sensorimotor systems  operating  in  unstructured
+              environments. The central hypothesis of the work  is  that  large  classes of
+              correct behavior can  be  constructed  at  run-time  through  the  use of a
+              small set of  properly  designed  control primitives (the control basis) and
+              that the skillful  use  of these sensorimotor primitives generalizes well to
+              other tasks.  A  control basis is designed to represent a broad class of tasks,
+               to   structure  the  exploration of  control  policies  to  avoid  irrelevant 
+              or  unsafe alternatives, and to  facilitate  adaptive  optimal  compensation.
+              The Discrete Event Dynamic Systems  (DEDS)  framework is used to characterize
+              the control basis and to  prune  inappropriate  control composition policies.
+              Dynamic  programming  (DP) techniques are used to explore safe composition
+              policies  in  which  sensory and motor resources are bound to elements  of  the
+               control basis to maximize the expected future payoff. An adaptive 
+              compensation policy is designed to extend the control  basis  and  to
+              incrementally approximate optimal control policies.  A program  of  theoretical
+              development and empirical analysis is  undertaken  to  demonstrate  the 
+              utility of this approach  in  robotics  and  machine learning applications.

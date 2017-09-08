@@ -1,0 +1,64 @@
+Title       : Performance and Reliability/Availability Models for the Analysis of Distributed
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 24,  1996       
+File        : a9520226
+
+Award Number: 9520226
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1996       
+Expires     : April 30,  1999      (Estimated)
+Expected
+Total Amt.  : $137732             (Estimated)
+Investigator: Noe Lopez-Benitez noe.lopez@ttu.edu  (Principal Investigator current)
+Sponsor     : Texas Tech University
+	      203 Holden Hall
+	      Lubbock, TX  794091035    806/742-2011
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              The purpose of this project is to investigate high level  models for the
+              performance and  performability analysis of  distributed computing systems
+              hosting replicated programs  and data  files. The high level models studied
+              rely on  Stochastic Petri Nets (SPN) used hierarchically to  model the behavior
+              of the system in the presence of several types of  hardware faults as well as 
+              software failures. Systems targeted include real-time systems where critical 
+              jobs are deadline  constrained. These jobs are partitioned  into tasks with
+              precedence relations depicted via a task  graph. Although task graphs can be
+              evaluated directly, the  evaluation assumes the existence of an  unlimited
+              number of processing units. Using Stochastic Petri Nets (SPN) the  evaluation
+              of task  graphs can include other constraints such  as a limited number of
+              processors and existing  allocation schemes static or dynamic. At the SPN
+              level, state  reduction can be achieved by  generating only those states  that
+              satisfy functional as well as performance requirements  specified in the form
+              of symbolic boolean expressions. A synergistic approach will be investigated 
+              to predict the  effect of hardware failures on the performance of a system 
+              running a single or  multiple tasks, that may require access  to distributed
+              data files.  The combination of SPN models  and previously proposed reliability
+              models such as those  used to evaluate multiterminal  reliability, has the
+              objective of reducing the state space of the underlying  Markov model 
+              (failure/repair models) even though hardware  failures include nodes and links.
+              Once the  failure/repair  model is generated, performance reward levels can be
+              associated with each  structural state of the system. This work will contribute
+              to the systematic design of  distributed  systems. Design requirements such as
+              delay, network throughput, load, task completion time, cost,  etc.,  will be
+              analyzed in terms of their susceptibility to  failures in the hardware support
+              for  a particular  applica tion. It will also contribute to the evaluation of 
+              existing systems in order  to detect bottlenecks or weak  points and suggest
+              appropriate remedial  course of action (to  either update or replace existing
+              equipment). The  systematic prediction of  performance and  reliability in 
+              terms of selective critical tasks, will aid in the process  of  updating
+              currently  saturated computer systems. In  particular, the performance models
+              of partitioned  jobs will  be  useful in predicting the average completion
+              times under  userselected allocation schemes  via a  single SPN-based model  of
+              a given task graph.  Thus, giving users a rapid  assessment on the  suitability
+              of particular schemes in a  real-time distributed computing environment.  ***

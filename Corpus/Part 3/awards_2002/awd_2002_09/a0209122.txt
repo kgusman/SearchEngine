@@ -1,0 +1,80 @@
+Title       : Composing Data-Rich Embedded Systems the Easy Way
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 14,  2003  
+File        : a0209122
+
+Award Number: 0209122
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $207737             (Estimated)
+Investigator: Henrik Nilsson henrik.nilsson@yale.edu  (Principal Investigator current)
+              Arvind Krishnamurthy  (Co-Principal Investigator current)
+              Brian M. Scassellati  (Co-Principal Investigator former)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Composing Data-Rich Embedded Systems the Easy
+              Way
+-------------------------------------------------
+
+Arvind Krishnamurthy
+              and Henrik Nilsson
+Department of Computer Science, Yale
+              University
+
+
+Embedded computing increasingly takes place in a sensor rich
+              environment where
+the acquisition of raw information is much easier than its
+              interpretation. In
+addition to building components to process this data,
+              embedded systems
+programmers must also arrange the communication among
+              potentially hundreds of
+components, distributing computation to the processing
+              elements so as to
+minimize communication costs and maximize responsiveness,
+              and scheduling of
+the processing elements to adapt to changing priorities and
+              communication
+patterns. These challenges must be addressed at the system level
+              rather than
+the processor level.
+
+This project develops a framework for
+              composing distributed, data-rich
+embedded systems that automates many of the
+              low-level process allocation and
+scheduling tasks. It takes place against a
+              backdrop of a "next generation"
+humanoid robot currently being developed at
+              Yale. The robot contains a
+significant number of processors connected in a
+              heterogeneous fashion. The
+project addresses two fundamental research issues.
+              The first is the use of
+modern programming language techniques to address
+              critical embedded system
+concerns such as composability and dynamic
+              configuration change. The second is
+improving overall system performance by
+              exploiting high level system knowledge
+in the run-time system. The end result
+              will be a design methodology that will
+enable rapid and reliable construction
+              of complex data-rich interactive
+systems.
+

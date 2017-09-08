@@ -1,0 +1,49 @@
+Title       : Abstraction and Compositionality for the Verification of Infinite-State Reactive
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 25,  1998    
+File        : a9804100
+
+Award Number: 9804100
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1998    
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $85000              (Estimated)
+Investigator: Zohar Manna zm@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9804100  The research addresses the verification of properties of 
+              infinite-state reactive systems, which have an ongoing  interaction with their
+              environment.  Reactive systems include  hardware, software, and real-time and
+              hybrid systems.  Their  computations can be modeled as infinite sequences of
+              states, and  their properties conveniently expressed using temporal logic. 
+              Except for untimed hardware, where a state depends on a fixed  number of bits,
+              these systems are infinite-state: not only is a  computation an infinite
+              sequence of states, but the set of  possible system states is infinite as well.
+              Abstraction underlies  virtually all deductive and algorithmic verification
+              techniques  for infinite-state systems.The algorithmic methods explore finite 
+              quotients of the state-space, which are often incrementally  refined. Deductive
+              verification rules can also be understood as  using an appropriate abstraction,
+              expressed using intermediate  assertions. When applied to software systems, the
+              main challenge  in both cases is to find the right abstraction that will allow 
+              the verification of the properties of interest.  Compositional verification
+              reduces the validity of a property  over a complex system to that of related
+              properties over smaller  components. Compositionality is often used together
+              with  abstraction to verify systems larger than would otherwise be  possible. 
+              The research investigates new forms of abstraction and  compositional
+              reasoning, combining algorithmic and deductive  methods.  They will facilitate
+              the verification of temporal  properties of software components, automating the
+              process  whenever possible.***

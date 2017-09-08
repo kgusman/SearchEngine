@@ -1,0 +1,54 @@
+Title       : Scalable Sparse Solvers
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : January 22,  2001   
+File        : a0196125
+
+Award Number: 0196125
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : June 30,  2001       (Estimated)
+Expected
+Total Amt.  : $183644             (Estimated)
+Investigator: Padma Raghavan raghavan@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The efficient solution of large, sparse linear systems on high-performance
+              multiprocessors continues to be the subject of research.  There is no single
+              method that is consistently superior across application domains and computing
+              platforms.  For example, for linear systems associated with the numerical
+              solutions of elliptic partial differential equations, domain decomposition
+              methods provide a naturally parallel, efficient formulation.  However,
+              domain-decomposition relies on close tie-ins to partial-differential-equation
+              discretization and mesh formulation.  Consequently, it is not suitable as a
+              general-purpose "black-box" sparse solver given only the sparse matrix and no
+              other information.  Both Krylov subspace iterative (KSP) solvers and direct
+              solvers can be used as "black-box" solver.  But, once again, both classes of
+              methods have serious limitations.  Direct solvers (based on some form of matrix
+              factorization) are not memory scalable; memory  requirement grows nonlinearly
+              with problem size when original zeroes fill-in.  KSP iterative solvers avoid
+              the memory problem but their convergence can be very slow or fail altogether
+              depending on the spectral properties of the sparse matrix. Robust, scalable
+              sparse solver, suitable for a variety of large-scale applications on
+              high-performance multiprocessors, require a spectrum of methods that range from
+              pure iterative to pure direct methods.  This project will develop parallel,
+              "flexible," hybrid solvers based on KSP with matrix factorization
+              preconditioners.   The hybrid solvers developed will combine the inherent
+              scalability and parallelism of KSP iterative solvers with robust
+              preconditioners obtained using data-structures, algorithms and graph-techniques
+              from sparse direct solver.  The project will work on two fronts: (1) developing
+              scalable, hybrid solvers by extending current technology, i.e., incomplete
+              factorization preconditioners, and , (2) developing new improved "structurally
+              enhanced" matrix factor preconditioners by using a combination  of structural
+              and numerical information.

@@ -1,0 +1,39 @@
+Title       : Robust Fault Tolerance for Computations in Linear Algebra and Signal Processing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 12,  1996 
+File        : a9628786
+
+Award Number: 9628786
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1996    
+Expires     : September 30,  1999  (Estimated)
+Expected
+Total Amt.  : $59862              (Estimated)
+Investigator: Daniel L. Boley boley@cs.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              The objective of this project is to develop and test fault  tolerant algorithms
+              for numerical computation in various  domains, including sparse matrices,
+              recursive filtering and  signal processing.  The methods used are a combination
+              of  checks made during the computation based on preconditioned  checksums and
+              thresholds, and a-posteriori checks made on  the final computed results based
+              on backward error  assertions (BEAs).  In spite of the presence of rounding 
+              errors, BEAs allow very tight, cheap, validation of the  final results
+              independent of the specifics of the  implementation or sources of error, and
+              checksums and  thresholds supplement the BEAs by providing checks during  the
+              computation.  These methods will be extended beyond  prototype examples to more
+              realistic large computations,  demonstrating their scalability and
+              applicability to large  domains.***

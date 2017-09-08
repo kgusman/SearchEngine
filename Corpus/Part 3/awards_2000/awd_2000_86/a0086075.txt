@@ -1,0 +1,80 @@
+Title       : ITR: Personalized Spatial Audio via Scientific Computing and Computer Vision
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 7,  2000  
+File        : a0086075
+
+Award Number: 0086075
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $2999995            (Estimated)
+Investigator: Larry S. Davis lsd@umiacs.umd.edu  (Principal Investigator current)
+              Qing Huo Liu  (Co-Principal Investigator current)
+              Richard O. Duda  (Co-Principal Investigator current)
+              V. Ralph Algazi  (Co-Principal Investigator current)
+              Ramani Duraiswami  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1661,9218,HPCC,
+Abstract    :
+              This is the first 4 years funding of a five-year continuing award.   Humans are
+              very good at discerning the spatial origin of sound using a mixture of
+              frequency-dependent interaural time difference (ITD), interaural level
+              difference (ILD), and pinna spectral cues in disparate environments ranging
+              from open spaces to small crowded rooms.  This ability helps us to interact
+              with others and the environment by sorting out individual sounds from a
+              mixture, and helps us to survive by warning us of danger over a wider region of
+              space compared to vision.   These advantages of spatial sound are important for
+              human-computer interaction. 
+
+While the frequency-independent ITD cues
+              (delays) associated with the two ears are relatively easy to render over
+              headphones, the ILD (level difference) and pinna elevation cues are not.   For
+              a given source location and frequency content, the sound scattered by the
+              person's torso, head and pinnae, and is received differently at the two ears,
+              leading to differences in the intensity and spectral features of the received
+              sound.   These effects are encoded in an extremely individual "Head Related
+              Transfer Function" (HRTF) that depends on the person's anatomical features
+              (structure of the torso, head and pinnae).   This individuality has made it
+              difficult to use the HRTF in the proposed applications.   Recent research,
+              including that of members of this team, has focused on measuring the HRTFs for
+              individuals in specific environments, on constructing models of the HRTF, on
+              understanding how the geometry of the body is related to the characteristics of
+              HRTF, and how the brain processes the cues to derive spatial information.  
+              However, this research has also indicated that the brain is extraordinarily
+              perceptive to errors in cues that result when sound is rendered with an
+              incorrect HRTF.
+
+In this project the PI and his team will use numerical
+              methods to compute individualized HRTFs from accurate 3-D surface models of the
+              body.   They will use multiview, multiframe computational vision techniques to
+              extract the surface models from imagery.    They will then use boundary element
+              methods employing fast multipole/ transform techniques and parallel processing
+              to compute the HRTFs from the surface models.    The resulting HRTFs will be
+              evaluated both by objective comparisons with acoustically measured HRTFs and by
+              psychoacoustic testing, and will be used in demonstrations of virtual reality,
+              augmented reality, and teleconferencing.   A major advantage of this
+              vision-based approach is that it will allow the PI and his team to investigate
+              and model the way that HRTFs change with body posture, providing the potential
+              of tracking dynamic environments.     Thus, the project will include
+              fundamental research to extend the static HRTF measurements to dynamic
+              situations in different environments, using a combination of visual tracking to
+              locate the person in real space, and construction of in-room HRTFs from
+              free-field HRTFs using fast iterative techniques.    This will provide a
+              scientific foundation for HCI applications of audio rendering.   The research
+              will in addition yield algorithms and understanding that will have an impact on
+              varied fields, including computer vision based model creation; scientific
+              computing; computational acoustics for noise control and land mine detection;
+              neurophysiological understanding of human audition; etc.
+

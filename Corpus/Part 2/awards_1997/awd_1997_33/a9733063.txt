@@ -1,0 +1,42 @@
+Title       : Career: An Integrated Compiler/Run-Time System for Global Data Distribution
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 24,  2003   
+File        : a9733063
+
+Award Number: 9733063
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1998       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $200089             (Estimated)
+Investigator: David K. Lowenthal dkl@cs.uga.edu  (Principal Investigator current)
+Sponsor     : U of Georgia Res Fdn Inc
+	      616 Boyd GSRC
+	      Athens, GA  306027411    706/542-5939
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              The focus of this research project is to develop an  integrated compiler and
+              run-time system for global data  distribution.  The goal is for the integrated
+              system to  execute large-scale, multi-phase parallel scientific  applications
+              more efficiently than can be done with static  analysis alone. First, compiler
+              analysis will be developed  to divide a program into its component phases as
+              well as  pass useful hints to the run-time system about intra-phase  behavior,
+              such as the communication pattern.  Second, the  necessary run-time analysis
+              will be developed to support  multi-phase applications and to make use of the
+              compiler  information.  A framework will be investigated to determine  at run
+              time an efficient global data distribution over a  reasonable set of possible
+              distributions.  This means that a  distribution will be determined for each
+              array in each  program phase, with possible redistribution between phases, 
+              that results in good application performance. Furthermore,  if application
+              characteristics change during execution, the  distribution will be changed
+              accordingly.  The integrated  system will be measured on a variety of
+              large-scale,  adaptive parallel scientific programs.

@@ -1,0 +1,80 @@
+Title       : Combining EM and Monte Carlo to Maximize Intractable Likelihood Functions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a0072827
+
+Award Number: 0072827
+Award Instr.: Continuing grant                             
+Prgm Manager: Marianthi Markatou                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  2000      
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $345946             (Estimated)
+Investigator: James P. Hobert jhobert@stat.ufl.edu  (Principal Investigator current)
+              James G. Booth  (Co-Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              ABSTRACT
+
+This proposal concerns parameter estimation methodology for
+              an
+important class of statistical models.  These models, which we refer
+to as
+              ``generalized hierarchical models'' (GHMs), have proven to be
+extremely useful
+              in a wide range of scientific endeavors.  Specific
+examples of applications
+              that have appeared in the scientific
+literature include: the impact of passive
+              smoking, changes in voting
+behavior, clinical trials for a treatment for
+              epilepsy, social surveys
+of households in rural China, sheep cloning
+              experiments, the
+estimation of animal abundance and the analysis of
+              multivariate
+survival data.
+
+A general purpose algorithm for estimation
+              called EM
+(expectation-maximization) is particularly suited to the GHM
+              setting.
+However, implementation the algorithm is complicated because it
+              often
+involves the calculation of intractable multi-dimensional
+              integrals.
+Two methods for dealing with these integrals that have received
+              some
+attention recently are Monte Carlo EM (MCEM) and
+              Stochastic
+Approximation EM (SAEM).  Both methods involve replacing
+              intractable
+integrals by Monte Carlo approximations.  Unfortunately,
+              applications
+of the these Monte Carlo fitting algorithms to GHMs can often
+              take
+hours or even days to converge.  This has limited their widespread
+              use
+so far.  The situation will no doubt improve with the availability
+              of
+faster computers.  However, the development of much faster
+              algorithms
+would accelerate this process tremendously.  Hence, the
+              proposed
+research concerns a detailed comparison of the MCEM and
+              SAEM
+algorithms with a view towards substantially improving
+              their
+performance.
+

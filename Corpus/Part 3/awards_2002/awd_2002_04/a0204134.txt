@@ -1,0 +1,69 @@
+Title       : Covalidation of Timing Faults in Hardware-Software Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 26,  2002      
+File        : a0204134
+
+Award Number: 0204134
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2007     (Estimated)
+Expected
+Total Amt.  : $330107             (Estimated)
+Investigator: Ian Harris harris@ecs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project investigates the detection of functional errors caused by timing
+              faults in hardware-software systems. A hardware-software system can be defined
+              as one in which hardware and software must be designed together, and must
+              interact to properly implement system functionality. The widespread use of
+              these systems in cost-critical and life-critical applications motivates the
+              need for a systematic approach to verify functionality. The complexity of the
+              verification problem for large, heterogeneous hardware-software systems
+              necessitates the development of simulation-based covalidation approaches, which
+              uniformly validate hardware, software, and their interaction.
+              
+
+Hardware-software systems are typically composed of several behaviors, or
+              processes, which may be mapped to different hardware and software components.
+              The correctness of process interactions depends on the synchronization between
+              the executions of communicating processes. Correct synchronization depends on
+              the adherence of the system to numerous timing relationships between
+              inter-process communication events. Verifying these timing relationships is
+              central to the hardware-software covalidation problem, and is the focus of this
+              project.
+
+The goal of this research effort is to provide hardware-software
+              system designers with a set of CAD tools that partially automate the timing
+              covalidation process. The CAD tools are being developed to support a generic
+              codesign/covalidation flow. At different intermediate steps of the codesign
+              process, cosimulation is performed using a functional test sequence. Designers
+              need the ability to evaluate the completeness of an existing functional test
+              sequence, and the ability to automatically generate a functional test sequence.
+              To support this codesign flow, we explore the following specific research
+              objectives:
+
+1. Develop a design fault model to describe design errors in
+              hardware-software systems, specifically targeting errors in the timing of
+              inter-process communication events.
+
+2. Develop a fault simulation approach
+              for the design fault model which evaluates the degree to which a given test
+              sequence detects all design errors.
+
+3. Develop techniques for automatic test
+              pattern generation (ATPG) for a hardware-software description. The ATPG tool
+              developed must target the proposed design fault model in order to ensure the
+              detection of design errors.
+

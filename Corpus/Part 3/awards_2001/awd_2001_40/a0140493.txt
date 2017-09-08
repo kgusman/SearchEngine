@@ -1,0 +1,50 @@
+Title       : Containment, Equivalence, and Related Problems for XPath Expressions
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 16,  2002    
+File        : a0140493
+
+Award Number: 0140493
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $196510             (Estimated)
+Investigator: Dan Suciu suciu@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              . A large class of applications access XML data through XPath expressions and
+              need to make routine decisions based on a simple test: whether one XPath
+              expressions is contained in another, meaning that the answer to the first is
+              always is subset of the answer to the second.  Examples of such applications
+              include query optimization, query rewriting, semantic caching, XML-based
+              content routing.  Despite its apparent simplicity, the containment problem
+              turns out to be surprisingly difficult to analyze when XPath expressions
+              include wild-cards, descendant axes, and predicates.  Previous work has focused
+              on only toy fragments of XPath for which the containment problem is in PTIME,
+              but these simple results fail for more realistic fragments. This project
+              studies the containment problem for a large fragment of XPath.  During initial
+              investigations for the project it was established that the containment problem
+              for XPath expressions that contain wild-cards, descendant axes, and filters  is
+              co-NP hard, suggesting that a complete and efficient containment algorithm is
+              impossible to find.  In light of that, several algorithms will be designed in
+              order to explore the tradeoff between efficiency and completeness.  One goal of
+              the project is to design a complete algorithm that always returns the correct
+              answer, runs in exponential time in general, but runs efficiently on special
+              instances of XPath expressions.  Another goal is to design a heuristic
+              algorithm that always runs efficiently, but that may return false negatives in
+              certain cases.  Both algorithms will be analyzed formally, in order to provide
+              a full insight into what performance or precision guarantees they offer.  The
+              most promising algorithm will be implemented and made available in the public
+              domain. 

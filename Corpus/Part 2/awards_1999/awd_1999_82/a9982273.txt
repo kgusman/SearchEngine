@@ -1,0 +1,73 @@
+Title       : Multiresolution Visualization Tools for Interactive Analysis of Large-Scale
+               N-Dimensional Datasets
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 28,  2001      
+File        : a9982273
+
+Award Number: 9982273
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 15,  1999   
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $1200000            (Estimated)
+Investigator: David E. Breen david@cacr.caltech.edu  (Principal Investigator current)
+              Alan H. Barr  (Co-Principal Investigator current)
+              James C. Pool  (Co-Principal Investigator current)
+              Peter Schroder  (Co-Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    626/395-6073
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1595,9216,HPCC,
+Abstract    :
+              Advances in computing technology are making simulation as important to science
+              today as theory and experiment have been in the past. Unfortunately this
+              success is overwhelming the scientific community by drowning scientists in the
+              data produced. Because of storage, network, and graphics bottlenecks, more data
+              is produced than can be analyzed or visualized. Valuable information is being
+              lost or neglected because of these deficiencies. Additionally, scientists are
+              painfully aware of this technological bottleneck, and it affects how they
+              conduct their science. It slows the rate of data acquisition, and calculations
+              that could generate higher-dimensional data, e.g. vector and tensor, are not
+              being performed. The goal of this project is to address the visualization
+              bottleneck by developing multiresolution software tools that will facilitate
+              understanding of large-scale experimental and simulation datasets. The project
+              will then apply these new techniques to data from physics and biology, thus
+              providing advances in fluid dynamics and neuroscience. We will do this by close
+              interactions with the discipline scientists, including using their feedback to
+              improve initial designs of our tools.
+
+The technical approach of the project
+              is based on the fact that the graphics workstations available to most
+              scientists are incapable of visualizing giga- and tera-scale datasets. It is
+              also clear that for the foreseeable future our ability to generate data will
+              outpace our ability to render and visualize it. Therefore we must develop
+              methods for representing, segmenting and compressing these enormous datasets
+              into a form that can be processed on today's graphics computers.
+              Multiresolution representations and algorithms are at the core of the methods
+              and tools to be developed. A multiresolution approach allows visualization
+              techniques to scale to enormous datasets by focusing resources in those regions
+              of the dataset most important to the user. For example, multiresolution
+              modeling and display techniques will allow a user to view a single dataset at a
+              coarse level-of--detail, and easily provide pertinent details only in those
+              regions of greatest interest. During analysis, multiresolution methods can
+              allocate more computational resources in segments of the data with the greatest
+              rates of change or containing specific properties. This project will produce a
+              set of multiresolution software tools for processing and visualizing
+              large-scale N-dimensional (scalar, vector and tensor) volumetric datasets
+              (NDVDs), as well as large-scale triangle meshes. Specifically, tools for
+              segmenting and interpolating NDVDs using level-set methods, extracting
+              semi-regular meshes directly from volume datasets, compressing triangle meshes,
+              and volume rendering NDVDs will be developed. As tools become available they
+              will be deployed to scientists at Caltech's Center for Simulation of Dynamic
+              Response of Materials (sponsored by DOE), and to scientists at the National
+              Center for Microscopy and Imaging Research (UC San Diego).
+

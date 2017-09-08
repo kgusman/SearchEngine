@@ -1,0 +1,63 @@
+Title       : Automated Theorem Proving in Type Theory
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 4,  2001        
+File        : a0097179
+
+Award Number: 0097179
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $267010             (Estimated)
+Investigator: Peter B. Andrews Andrews@cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+The basic purpose of this research is to automate and facilitate the use of
+              rigorous logic. Rigorous reasoning plays (or should play) an important role in
+              a wide variety of intellectual endeavors, and automated reasoning tools have
+              many important potential applications. Procedures for proving theorems will be
+              crucial components of automated reasoning tools, since these procedures can be
+              used as inference mechanisms. The focus of this research is on proving theorems
+              of a formulation of higher-order logic known as type theory (more specifically,
+              the typed lambda-calculus). This formal language includes first-order logic,
+              but in a practical sense it has greater expressive power, and it is
+              particularly well suited to the formalization of mathematics and other
+              disciplines and to specifying and verifying hardware and software.
+
+Part of
+              this research involves continued development of an existing computerized
+              theorem proving system called TPS, which can be used to construct and check
+              formal proofs (in natural deduction style) interactively, semi-automatically,
+              and automatically. In automatic mode, TPS first searches for an expansion
+              proof, which expresses in a non-redundant way the fundamental logical structure
+              of proofs of the theorem in a variety of styles, and then transforms this into
+              a proof in natural deduction style. The interactive commands for applying rules
+              of inference are available in a related program called ETPS (Educational
+              Theorem Proving System), which is used interactively by students in logic
+              courses to construct natural deduction proofs. The possibility of using TPS in
+              a mixture of automatic and interactive modes makes it an attractive tool for
+              working on complex logical problems in a variety of disciplines. More
+              information about TPS can be found at http://gtps.math.cmu.edu/tps.html.
+              
+
+The research involves methods of searching for expansion proofs, including
+              methods of finding appropriate substitutions for set variables, methods of
+              searching for matings of subformulas, and the interactions between these;
+              representations, manipulations, presentations, and translations of proofs;
+              enhancement of TPS as a useful logical tool; and related problems and
+              questions.
+
+

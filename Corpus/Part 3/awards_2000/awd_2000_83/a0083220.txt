@@ -1,0 +1,91 @@
+Title       : Technology for 24-GHz Wireless Networks
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 1,  2000  
+File        : a0083220
+
+Award Number: 0083220
+Award Instr.: Standard Grant                               
+Prgm Manager: Kawthar A. Zaki                         
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $280129             (Estimated)
+Investigator: Seyed-Ali Hajimiri hajimiri@its.caltech.edu  (Principal Investigator current)
+              David B. Rutledge  (Co-Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    626/395-6073
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              0083220
+Hajimiri
+
+Most of the recent work in the area of wireless networks
+              has been focused on systems operating at 2.4 and 5 GHz.  The bandwidth
+              available at these frequencies limits the maximum data rates for these
+              networks.  Very little has been done to use frequencies at or above 20 GHz for
+              wireless networks.  The major advantages of higher frequencies are higher
+              available bandwidths, smaller antenna sizes and possibility of using phased
+              array structures for directionality and gain boosting.  The major impediment to
+              operation at these frequencies is the large hardware cost, which originates
+              from the large amount of circuitry that has to be done in gallium-arsenide or
+              other III-V semiconductors.
+
+An alternative approach using a large silicon
+              integrated circuit core and a small gallium-arsenide front-end is proposed to
+              remedy this problem.  The proposed approach uses an array of resonant
+              microstrip patches etched on a 5-cm square printed circuit board to receive and
+              transmit signals.  The antenna system can provide a gain of 20 dB, and this
+              great directionality is available for both transmitting and receiving.  The
+              array can scan in azimuth to find, and communicate to other units on the
+              network, while rejecting undesired interference cause by other users.  The
+              system has a gallium-arsenide monolithic microwave integrated circuit (MMIC)
+              that only consists of a low noise amplifier (LNA) for the receive path and a
+              power amplifier (PA) on the transmit side.  Due to the high cost of gallium
+              arsenide components, every effort is taken to minimize the size of the
+              gallium-arsenide circuitry.
+
+Silicon integrated circuit is at the heart of
+              the system and is the most critical part of it.  It contains the first down-
+              and up-conversion blocks, i.e., the fully integrated frequency synthesizer
+              operating at 21.6-GHz and two mixers down- and up-converting the signal from
+              and to 24 GHz from a 2.45-GHz intermediate frequency (IF).  This choice of IF
+              frequency is not arbitrary and is to allow for bypassing the front-end
+              circuitry and using a lower-frequency resonance of the array to effectively act
+              as a single patch antenna receiving at 2.45GHz ISM band for finding other users
+              and low bit rate data transmission in so-called sniffing mode.
+
+The
+              fully-integrated 21.6-GHz silicon frequency synthesizer is based on using
+              distributed voltage controlled oscillators (DVCO), which make it possible to
+              use transistors close or even beyond their cut-off frequency, fT.  These DVCOs
+              produce a reasonable output power with good phase noise performance and large
+              tuning range, using a novel tuning technique, known as delay-balance,
+              current-steering tuning.  A super-harmonic injection-locked frequency dividers
+              can be used as the prescaler to divide the output frequency to lower
+              frequencies that can be handled by digital dynamically-loaded frequency
+              dividers to further divide to reference oscillator frequency to maintain phase
+              lock.  To demonstrate the feasibility of this approach, a 0.35-mm CMOS DVCO
+              operating at 10 GHz with 12% tuning range and a phase noise of -104dBc/Hz at
+              1-MHz offset from the carrier is designed and tested.  Also two silicon bipolar
+              DVCOs operating at 12 GHz and 17 GHz are demonstrated, further verifying the
+              feasibility of such systems.
+
+A complete analysis of MOS switching mixer
+              makes it possible to exploit the higher bandwidth of the MOS transistor when
+              used as switches and not gain devices.  This approach which is based on
+              stochastic differential equations with cyclostationary sources is used to
+              optimize silicon up- and down-conversion mixers' performance at 24 GHz.  It is
+              shown that high performance circuitry for the first IF/sniff mode RF can be
+              implemented in silicon, making it possible to integrate the complete back-end
+              of the transceiver.
+
+

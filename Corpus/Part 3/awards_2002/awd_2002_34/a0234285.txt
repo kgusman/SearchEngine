@@ -1,0 +1,49 @@
+Title       : SOFTWARE: Heterogeneous Cluster MPI: A System for Out-Of-Core, Heterogeneous
+               Data Distribution
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : February 10,  2003  
+File        : a0234285
+
+Award Number: 0234285
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2003       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: David K. Lowenthal dkl@cs.uga.edu  (Principal Investigator current)
+Sponsor     : U of Georgia Res Fdn Inc
+	      616 Boyd GSRC
+	      Athens, GA  306027411    706/542-5939
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Grid computing, or using several potentially heterogeneous computers to execute
+              an application, is becoming increasingly popular.  A grid poses significant
+              software challenges for parallel computing; in particular, fundamental parallel
+              computing problems are made more difficult.  This project focuses on the data
+              distribution problem, which is to distribute data to processors to minimize
+              application completion time.  We will re-examine the data distribution problem
+              on one specific instance of a grid: a local area network of heterogeneous
+              computers.  Processors in such a cluster can have different relative CPU
+              speeds, different amounts of available physical memory, and different effective
+              I/O latencies.  In addition, we will support the increasing number of
+              out-of-core programs on these clusters.
+
+We will address this data
+              distribution problem through the design and implementation of what we call
+              Heterogeneous Cluster MPI (HC-MPI), which will be constructed as extensions and
+              analysis built into MPI. The extensions will (1) assist users in writing
+              adaptable programs and (2) allow HC-MPI to collect enough program information
+              to determine automatically an effective data distribution.  The expected impact
+              of this work is to allow computational scientists to execute parallel programs
+              efficiently on a variety of heterogeneous clusters.
+
+

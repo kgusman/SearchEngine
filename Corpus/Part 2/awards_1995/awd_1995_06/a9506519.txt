@@ -1,0 +1,79 @@
+Title       : Mathematical Sciences: Computational Error Estimation and Adaptive Error Control
+               for Numerical Methods for Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 13,  1998      
+File        : a9506519
+
+Award Number: 9506519
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1995      
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $62000              (Estimated)
+Investigator: Donald J. Estep   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,OTHR,
+Abstract    :
+              Estep       The investigator develops and implements accurate  approximation
+              methods for differential equations using a  posteriori error estimates and
+              adaptive error control.  The main  target is systems of reaction-diffusion
+              equations.  Such problems  are important in practical terms because they occur
+              as  mathematical models in applied science and engineering, including 
+              applications in genetics, material science, chemistry, and  biology, among
+              others.  The challenge is to compute accurate  approximations of solutions that
+              generically include multiple  scales in their space and time behavior and whose
+              behavior depends  strongly on parameters prescribed as part of the model. 
+              Moreover,  using computation as a scientific tool requires an estimate of the 
+              accuracy of the approximation.  The approach to these problems is  based on
+              developing a posteriori error estimates that bound the  error in terms of
+              computable information obtained from the  approximation once a computation is
+              completed.  The analysis takes  into account both the difficulty of solving the
+              differential  equation over a small interval and the global accumulation of 
+              errors.  In particular, the stability properties of the solution  being
+              approximated are measured by auxilary computations performed  during the
+              approximation.  The result is robust and reliable  computational error
+              estimates.  In addition, the investigator  examines the dynamical properties of
+              numerical schemes in the  context of obtaining schemes with improved accuracy
+              for a  specified problem and obtaining more accurate error estimates for  such
+              schemes.  The third component of the project is the  development and
+              implementation into code of adaptive error control  algorithms based on the a
+              posteriori error estimates.  The ultimate  goal of this project is the public
+              release of a parallel code that  can solve systems of reaction-diffusion
+              equations in two and three  dimensions reliably and efficiently.      
+              Mathematical models in applied science, including genetic s,  material science,
+              chemistry, and biology, are often expressed as  nonlinear reaction-diffusion
+              differential equations that contain  source terms balanced against terms that
+              diffuse energy.  The goal  of such modelling is to describe the physical
+              situation in terms  of the solution of the differential equation.  However, the
+               nonlinear nature of most models makes it impossible to solve the  equations
+              explicitly; consequently numerical approximation is an  important tool in
+              science.  This approach has its own difficulties.  The balance between reaction
+              and diffusion is usually delicate and  difficult to handle accurately. 
+              Moreover, solutions of such  problems typically evolve on several scales, i.e.
+              some interesting  behavior occurs in very localized regions in space and time
+              while  other behavior evolves over long times or over larger regions in  space.
+               The use of a uniform numerical discretization for a real  application results
+              in huge computations that tax even the largest  computers.  The investigator
+              aims to produce numerical schemes that  adapt themselves to the localized
+              behavior of the target solution  so as to make the computations both as
+              accurate as desired and as  efficient as possible.  Another benefit is that the
+              estimate of the  accuracy can then be reported, which increases the scientific 
+              level of numerical analysis.  The mathematical approach is develop  estimates
+              of the error that use information obtained from the  approximation, which can
+              then be used to adapt the discretization,  that is make the computations
+              self-governing.  The investigator  also is implementing this theory in a code
+              for parallel computers  that can solve very general problems with minimum user
+              input.  The  intent is to make the code publicly available, yielding a 
+              scientific tool that benefits the engineering and scientific  infrastructure.

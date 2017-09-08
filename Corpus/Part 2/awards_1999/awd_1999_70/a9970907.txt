@@ -1,0 +1,42 @@
+Title       : Debugging Via Run-Time Type Checking
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 18,  1999    
+File        : a9970907
+
+Award Number: 9970907
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $157005             (Estimated)
+Investigator: Susan Horwitz horwitz@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9970907  Susan Horwitz
+Java programmers have the security of knowing that
+              errors like out-of-bounds array indexes or attempts to dereference a null
+              pointer will be detected and reported at runtime.  Java also provides security
+              via its strong type system; for example, it is not possible to treat a pointer
+              as if it were an integer or vice versa, and run-time type checks ensure
+              theccorrectness of down-casting.  C and C++ programmers count on tools like
+              Purify to help find out-of bounds array accesses and bad pointer dereferences. 
+              However, those tools do not provide help with errors that involve bad run-time
+              types.  This research involves the design and implementation of a tool to
+              provide new kinds of run-time checks based on type information.  The goal of
+              the tool is to help C/C++ programmers find errors in their programs that
+              manifest themselves as bad run-time types, in the same way that Purify helps
+              programmers find errors in their programs that manifest themselves as bad
+              run-time memory accesses. 
+

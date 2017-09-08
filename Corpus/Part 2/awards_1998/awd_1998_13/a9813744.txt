@@ -1,0 +1,42 @@
+Title       : Text-Based Signal Processing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 4,  2000   
+File        : a9813744
+
+Award Number: 9813744
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1998      
+Expires     : March 31,  2000      (Estimated)
+Expected
+Total Amt.  : $92443              (Estimated)
+Investigator: George Cybenko gvc@cos.dartmouth.edu  (Principal Investigator current)
+Sponsor     : Dartmouth College
+	      11 Rope Ferry Road #6210
+	      Hanover, NH  037551404    603/646-1110
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9216,9237,HPCC,
+Abstract    :
+              The goal of this research project is to explore the  applicability of advanced
+              signal processing techniques to  certain problems arising in natural language
+              text  processing. Specifically, we seek to evaluate the  effectiveness of using
+              multiple hypothesis tracking  concepts, originally developed for radar target
+              tracking  applications, to the problem of correlating text-based  messages over
+              time.  A key concept in this project involves  treating a natural language
+              message or statement as a sensor  report. Such a text message, M, is regarded
+              as a random  variable that is related to the underlying truth of a  system's
+              state, S, through joint and conditional  probabilities, p(M|S), p(S|M), and
+              p(S, M). For example,  p(S|M) is the probability that the true system state is
+              S  given that an observation, M in text form, has been  reported. The tracking
+              problem is to estimate the most  likely sequence of states Stl, St2, ..., Stk
+              given a  sequence of text-based observations, Mtl, Mt2,..., Mtk, of  those
+              unknown states. Formulated as a maximum likelihood  estimation problem, this
+              can be solved using standard  recursive estimation methods including Viterbi's
+              algorithm.

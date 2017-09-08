@@ -1,0 +1,71 @@
+Title       : Scalable Parallel Computational Methods for Partial Differential Equations with
+               Moving and Varying Boundaries
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 24,  1999    
+File        : a9902035
+
+Award Number: 9902035
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $330222             (Estimated)
+Investigator: Roland Glowinski roland@math.uh.edu  (Principal Investigator current)
+              Yuri Kuznetsov  (Co-Principal Investigator current)
+              S. Lennart Johnsson  (Co-Principal Investigator current)
+Sponsor     : U of Houston
+	      4800 Calhoun Boulevard
+	      Houston, TX  772042015    713/743-9222
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project will investigate novel parallel numerical methods, relying on a
+              special type of finite element 
+meshes, called here LRLFH-meshes (Locally
+              Refined Locally Fitted Hierarchical meshes), and on coupling of advanced
+              multigrid methods with domain embedding/fictitious domains and domain
+              decomposition techniques, for solving linear and nonlinear Partial Differential
+              Equations with moving and varying boundaries. The efficient solution of such
+              problems is very important in various scientific and industrial applications,
+              e.g., particulate flows, optimal control of systems with moving parts, optimal
+              shape design. In the case of problems with varying geometry, requiring the
+              solution of a large number of finite element/finite volume systems of equations
+              associated with varying meshes, finding the right balance between accuracy and
+              algorithmic efficiency is very difficult, particularly on parallel platforms.
+              Recent results indicate that highly efficient parallel methods can be designed
+              for the above problems by coupling multigrid preconditioning with domain
+              decomposition and fictitious/embedding domain 
+techniques on meshes which are
+              block structured or almost structured, respectively. 
+
+The main objectives of
+              this project are:
+
+To develop and investigate parallel generators for Locally
+              Refined Locally Fitted Hierarchical meshes for complex two and three
+              dimensional geometries.
+
+To develop and investigate scalable parallel
+              iterative solution methods with preconditioning based on coupling advanced
+              multigrid algorithms with fictitious (embedding) domain and domain
+              decomposition techniques.
+
+To apply the mesh generators and iterative
+              solution methods, to be developed, to the numerical simulation of flow problems
+              with complex moving boundaries, e. g., particulate flows governed by the
+              Navier-Stokes equations, and to optimal shape design problems on parallel
+              platforms (clusters of workstations and IBM SP/2).
+
+The work will have impact
+              on the simulation of various phenomena encountered 
+in chemical, mechanical
+              and aerospace engineering.
+

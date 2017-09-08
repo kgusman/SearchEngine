@@ -1,0 +1,67 @@
+Title       : High Performance Algorithms for Electronic Materials
+Type        : Award
+NSF Org     : DMR 
+Latest
+Amendment
+Date        : October 8,  1997    
+File        : a9525885
+
+Award Number: 9525885
+Award Instr.: Continuing grant                             
+Prgm Manager: G. Bruce Taggart                        
+	      DMR  DIVISION OF MATERIALS RESEARCH          
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : December 1,  1995   
+Expires     : November 30,  1999   (Estimated)
+Expected
+Total Amt.  : $593000             (Estimated)
+Investigator: James R. Chelikowsky jrc@msi.umn.edu  (Principal Investigator current)
+              Yousef Saad  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1765      MATERIALS THEORY
+Fld Applictn: 0106000   Materials Research                      
+              17        Materials Theory                        
+Program Ref : 9162,9218,HPCC,
+Abstract    :
+              9525885  Chelikowsky  This computational materials science grant is co-funded by
+               the Materials Theory Program in the Division of Materials  Research and the
+              New Technologies Program in the Advanced  Scientific Computing Division.  One
+              principal investigator  is a computational materials scientist while the other
+              is a  computational scientist.  A primary objective of this  research is to
+              develop computer codes for materials modeling  on advanced platforms which
+              utilize the combined expertise  of these two researchers.    The goal of the
+              research is to develop computational methods  which fully utilize innovations
+              in high performance  computers in order to open new applications of electronic 
+              structure codes to complex materials.  The focus of the  research will be on
+              real space methods through higher order  finite difference techniques to
+              electronic structure  problems.  Finite difference techniques coupled with ab 
+              initio pseudopotentials can provide a simple, yet accurate  and efficacious,
+              approach to complex systems.    A few of the advantages of finite difference
+              techniques over  more traditional plane wave techniques include:         finite
+              difference techniques are far easier to  implement than plane wave codes   
+              with no loss of accuracy,  especially for parallel implementations;        
+              these techniques to not require the use of supercells  for localized systems. 
+              No    cell-cell interactions are  present.  Charged systems can be handled
+              directly  without artificial compensating backgrounds.  Replication of  vacuum
+              is natural   and minimized compared to extended basis  sets;         finite
+              difference algorithms result in a minimum factor  of 4-5 gain in speed over    
+              plane wave techniques for  shared memory architectures.  Significantly better 
+              performance is expected for massively parallel platforms;         no
+              fast-Fourier transforms are required.  Global  communications are minimized.   
+              Applications will center on electronic materials such as  large clusters,
+              liquids and amorphous s olids.  Algorithm  development will concentrate on
+              designing parallel  preconditioners for the eigenvalue problem, as well as the 
+              implementation of these techniques on various paralllel  platforms.  %%%  This
+              computational materials science grant is co-funded by  the Materials Theory
+              Program in the Division of Materials  Research and the New Technologies Program
+              in the Advanced  Scientific Computing Division.  One principal investigator  is
+              a computational materials scientist while the other is a  computational
+              scientist.  A primary objective of this  research is to develop computer codes
+              for materials modeling  on advanced platforms which utilize the combined
+              expertise  of these two researchers.  The goal of the research is to  develop
+              computational methods which fully utilize  innovations in high performance
+              computers in order to open  new applications of electronic structure codes to
+              complex  materials.  ***

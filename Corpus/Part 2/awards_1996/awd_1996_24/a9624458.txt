@@ -1,0 +1,51 @@
+Title       : CAREER: Efficient Implementation of Object Oriented Languages on Superscalar
+               Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 6,  2001      
+File        : a9624458
+
+Award Number: 9624458
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1996      
+Expires     : March 31,  2002      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Urs Hoelzle urs@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              9624458  Hoelzle  Programmers have long been faced with the dilemma of choosing 
+              between abstraction and efficiency: if they use abstraction  pervasively, their
+              programs become more maintainable but may  execute too slowly.  Ideally, hiding
+              a design decision behind an  abstract interface should have no impact on
+              performance, so that  programmers can reap the full benefits of encapsulation
+              without  fear of performance problems. Thus, abstraction-oriented  languages
+              must employ aggressive compiler optimizations to reduce  the run-time overhead
+              of abstraction. Since the ultimate goal is  to increase programmer
+              productivity, these optimizations must be  compatible with interactive,
+              exploratory programming  environments. The focus of this work is on reducing
+              the cost of  abstraction in object-oriented languages, as well as, 
+              complementary educational goals.  The objective of this project is to develop
+              adaptive  customization, a compiler technique that aims to make aggressive 
+              optimization practical by improving performance without unduly  increasing code
+              size. Being suitable for interactive programming  environments, adaptive
+              customization could dramatically improve  the performance of real-world
+              applications written in dynamic  languages like Smalltalk, Self, Java, Dylan,
+              or CLOS.  Not all dispatches can be optimized away, and the remaining 
+              dispatches may become more expensive on superscalar processors.  Thus, the goal
+              is to develop new dispatch techniques specifically  optimized for such
+              processors. A comprehensive study of dispatch  performance on superscalar
+              processors will be undertaken in this  project. Benchmark suites and tools 
+              will be developed to support  this research.  ***

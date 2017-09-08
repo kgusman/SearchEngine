@@ -1,0 +1,57 @@
+Title       : Next Generation Software: Active Debugging Information for Multi-Language,
+               Multi-Platform Debugging
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : August 6,  1999     
+File        : a9974967
+
+Award Number: 9974967
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $167653             (Estimated)
+Investigator: Norman Ramsey   (Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 9003
+	      Charlottesville, VA  229069003    804/924-0311
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2882,2884,9218,HPCC,
+Abstract    :
+              EIA-9974960
+Ramsey, Norman
+University of Virginia
+
+Next Generation Software:
+               Active Debugging Information for Multi-Language, Multi-Platform
+              Debugging
+
+This project is aimed at developing debuggers that work seamlessly
+              with multiple platforms and multiple languages, and to which one can add
+              support for new platforms and new languages at low cost.
+
+This proposal
+              proposes a radical change from the way current compiler technology supports
+              debugging. In essence the proposal proposes to develop active debuggers. 
+              Instead of simply giving some compiler-generated information about the program,
+              allow the debugger to step through the code itself.  The proposal has selected
+              a set of operations that the debugger will perform to analyze the code, and
+              such operations can be performed efficiently by invoking the compiler to
+              provide implementation of the critical operations.  Given this approach allows
+              the debugger to support applications including multilanguage modules.  
+              
+
+Some preliminary demonstration of some of these ideas has been already done
+              by the proposer with encouraging indications, as to the effectiveness and
+              efficiency of the proposed methods.
+
+
+
+

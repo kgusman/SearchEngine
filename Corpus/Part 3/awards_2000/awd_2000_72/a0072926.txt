@@ -1,0 +1,44 @@
+Title       : Value Speculation for VLIW and EPIC Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 2,  2002        
+File        : a0072926
+
+Award Number: 0072926
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $199936             (Estimated)
+Investigator: Thomas M. Conte conte@ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project addresses new techniques to break pure dependencies for horizontal
+              (EPIC, VLIW) microarchitectures. The ultimate limit to schedule length is the
+              longest chain through the computation. The research presents techniques for
+              dependence chain splitting, which attack pure dependence chains using methods
+              presented earlier for superscalar microarchitectures. The techniques for
+              superscalar processors are not directly applicable to VLIW or EPIC
+              architectures, since such architectures have no or little dynamic speculation
+              mechanisms. Essentially, they execute code that is statically speculated by the
+              compiler. The core idea of this work is to break a chain at a beneficial split
+              point, and then speculatively execute the second half of the chain. This
+              project develops techniques to find the best split point(s) of a region of
+              code, develop hardware-based very low overhead value profiling, study
+              VLIW/EPIC-specific value predictor designs, investigate heuristics to address
+              the penalty branches to patch-up code, look into methods for adding confidence
+              prediction for VLIW/EPIC value speculation, and study the potential of
+              software-only value speculation. Issues such as register pressure impact and
+              branch insertion for value speculation across control flow are also being
+              explored.

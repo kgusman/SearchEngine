@@ -1,0 +1,46 @@
+Title       : Domain Independent Vision-Based Navigation
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 14,  2000    
+File        : a9996321
+
+Award Number: 9996321
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : November 1,  1998   
+Expires     : October 31,  2000    (Estimated)
+Expected
+Total Amt.  : $177392             (Estimated)
+Investigator: David J. Kriegman kriegman@uiuc.edu  (Principal Investigator current)
+              Gregory D. Hager  (Co-Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 
+Program Ref : 9139,HPCC,
+Abstract    :
+              The  goal  of  this  research is to develop methods  for  robust, 
+              domain-independent  vision-based  navigation  suitable  for  both  structured 
+              and  unstructured environments.  Visual  tracking  is  used  to  monitor a set
+              of image features (markers), and  vision-  based  control  is used to to guide
+              the robot's motion  from  the  image  trajectory  of the markers while avoiding
+               obstacles.   An  environment  is  represented  as  a  graph  (map)  which  may
+               be  constructed under human control (e.g. giving the system  a  tour)  or 
+              autonomously  as  the system explores.  As  the  robot  moves  during the
+              process of mapping, markers are automatically selected  from  the  video stream
+              and tracked.  Rather than using prestored  models  of landmarks, markers are
+              selected based on image content  using  a  suite  of  domain-independent
+              operators.  The  selected  markers  will be visually distinctive, unique within
+               the  image,  and  stable  under  varying viewpoint and  illumination.   During
+               passive  map  making,  the  robot is taken  on  a  tour,  and  it 
+              instantiates  a graph representing the paths that the  robot  can  follow; 
+              recognition is used to annotate the map.  During  active  mapping,  the  robot
+              systematically explores the environment  and  incrementally   constructs  the 
+              graph   representation.    These  algorithms will be tested empirically on two
+              mobile platforms  in  both indoor and outdoor environments.

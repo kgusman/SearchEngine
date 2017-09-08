@@ -1,0 +1,89 @@
+Title       : Evaluation and Comparison of Econometric Models Using Nonparametric Likelihood
+               and Bootstrap
+Type        : Award
+NSF Org     : SES 
+Latest
+Amendment
+Date        : June 15,  2001      
+File        : a9905247
+
+Award Number: 9905247
+Award Instr.: Continuing grant                             
+Prgm Manager: Daniel H. Newlon                        
+	      SES  DIVN OF SOCIAL AND ECONOMIC SCIENCES    
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : August 15,  1999    
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $188424             (Estimated)
+Investigator: Yuichi Kitamura   (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 1320      ECONOMICS
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              This project covers the following three topics in evaluation and comparison of
+              econometric model specifications:  use of bootstrap smoothing in predictive
+              inference, use of nonparametric methodology in comparing possibility
+              misspecified dynamic econometric models, and optimal properties of empirical
+              likelihood ratio tests in terms of Hoeffding's measure of asymptotic relative
+              efficiency.   These topics are central to major research activity in
+              econometric model evaluation and comparison.  This project should make major
+              contributions to econometric theory and applied econometrics.
+
+The first
+              project discusses predictive inference, which can be regarded as a validation
+              problem that uses a certain data splitting scheme. To carry out a predictive
+              test of an econo-metric model, a loss function is specified and the data set is
+              divided into the training set and the validation set. Unknown parameters of the
+              model are estimated using the training set, and the estimated model is tested
+              against the validation set, using the expected loss (sometimes called risk) as
+              a criterion. Thus the efficacy of the predictive test depends on the accuracy
+              of the risk estimator.  A conventional risk estimator is the validation-sample
+              average of loss function values eval-uated at the estimated parameter value.
+              This procedure can be viewed as a variant of cross validation that is carried
+              out forward, therefore called forward validation (FV). A drawback of FV is that
+              it does not explicitly incorporate parameter estimation uncertainty into risk
+              estimation.
+This project proposes to use bootstrap smoothing (BS) to remedy
+              this drawback. The BS algorithm repeats the following two steps: (1) a
+              bootstrap draw of an unknown parameter is obtained by resampling the training
+              set (2) as in FV, the validation-sample average of the loss function values is
+              calculated, but this time evaluated at the bootstrap draw from (1). After
+              ap-plying these two steps to (sufficiently many) bootstrap draws, the average
+              of validation-sample averages is taken. This method is similar to Efron's
+              "leave-one-out-bootstrap," or Breiman's "bagging," which are known to be
+              effective for discontinuous loss functions. The first project develops the
+              following theorem: bootstrap smoothing eliminates the effect of parameter
+              uncer-tainty for indicator loss functions in large samples, thereby providing a
+              clear and potentially substantial asymptotic efficiency gain. This is a rather
+              surprising result, but consistent with the good practical performance of
+              "leave-one-out" methods and bagging. Some connections with Bayesian methods are
+              discussed. The BS methodology is applied to Merton's predictability measure of
+              market timing and other empirical examples.
+
+The second project is concerned
+              with the comparison of possibly misspecified and possibly non-nested moment
+              condition models. Standard specification tests for moment condition models
+              assume the presence of an exactly correct moment restriction under the null,
+              but sometimes this assumption is not reasonable in practice. Even so, it is
+              still of interest to compare such possibly misspecified models in terms of an
+              overall measure of goodness-of-fit. This project develops a device for this
+              comparison by combining a nonparametric likelihood method and Vuong's
+              (parametric) model comparison test. Furthermore, a local smoothed version of
+              nonparametric likelihood is used to extend the method to comparing possibly
+              misspecified conditional moment restriction models.
+
+The third project
+              considers moment condition models. It pursues optimal tests of overidentifying
+              restrictions, which are typically tested by Hansen's "J-test." Recently several
+              alternatives to Hansen's test have been developed using some versions of
+              nonparametric likelihood. While conventional local asymptotic efficiency
+              comparisons cannot distinguish among these competing tests, a global efficiency
+              measure originally proposed by Hoeffding makes it possible to establish an
+              optimality property of empirical likelihood ratio tests for IID samples.
+              Extensions of this analysis to dependent observations are also investigated.
+

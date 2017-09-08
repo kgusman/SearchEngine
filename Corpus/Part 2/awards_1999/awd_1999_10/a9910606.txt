@@ -1,0 +1,50 @@
+Title       : SGER: Fractals for Spatial and Temporal Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 20,  2001    
+File        : a9910606
+
+Award Number: 9910606
+Award Instr.: Standard Grant                               
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Christos Faloutsos christos@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,9237,HPCC,
+Abstract    :
+              The goal of this project is to use concepts from fractals to solve long-standing
+              database problems in query optimization, spatial databases, and temporal
+              databases. Moreover, it introduces the powerful tools of fractals, chaos and
+              non-linear systems for additional applications, like forecasting, time-sequence
+              data mining, buffering and prefetching, for large database applications.
+              Typical questions can be as diverse as: "In a real set of points, like cities
+              of the world, estimate the average number of neighbors within 10 miles from New
+              York city" in a GIS (Geographic Information System) setting, and "Given the
+              history of past disk page requests, what can we forecast for future requests"
+              in a disk scheduling setting. Deriving estimated answers to such questions is
+              notoriously hard, because of the non-uniformities that real datasets exhibit.
+              Although unrealistic, the uniformity and independence assumptions have been
+              traditionally used in past efforts, mainly because of their mathematical
+              tractability and because of the lack of anything better. The current project
+              proposes to replace them with the assumption of self-similarity, leading to
+              much more accurate estimates. Current estimates with the uniformity assumption
+              lead to up to 179 per cent error; with fractals, we expect the error to go down
+              to 10 per cent or less. This will allow for more accurate selectivity
+              estimations, yielding more realistic answers to queries and more successful
+              query optimization, and better disk scheduling, improving the performance of
+              database and disk systems.
+http://www.cs.cmu.edu/~christos
+
+

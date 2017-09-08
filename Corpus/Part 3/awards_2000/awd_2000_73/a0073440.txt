@@ -1,0 +1,47 @@
+Title       : Exploiting Value Locality in Shared Memory Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0073440
+
+Award Number: 0073440
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Mikko H. Lipasti mikko@engr.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Value locality, a recently discovered program attribute that describes the
+              likelihood of the recurrence of previously seen program values, has been
+              studied enthusiastically in the published literature. This project investigates
+              a new domain for the exploitation of value locality, namely shared-memory
+              multiprocessor (SMP) systems running commercial workloads. Initial results from
+              a recent study of store value locality indicate that significant potential
+              exists for reducing multiprocessor data and address bus traffic by identifying
+              and squashing silent and stochastically silent stores. This project describes
+              and evaluates exact mechanisms for store squashing techniques, investigates
+              alternative approaches for exploiting value locality, and finally, develops
+              focused mechanisms for attacking the specific problem of read/write data
+              sharing and synchronization in SMP systems. The project demonstrates that
+              overcoming the performance bottlenecks caused by data sharing requires
+              speculative techniques based on value locality, since other more conventional
+              approaches to speculative execution are guaranteed to fail.  This research
+              realizes the potential of speculative techniques that exploit value locality to
+              improve performance and/or reduce implementation cost and complexity in future
+              generation shared-memory multiprocessor systems that are designed to run
+              commercial workloads.
+
+

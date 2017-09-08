@@ -1,0 +1,51 @@
+Title       : ITR/SY+SI: Language Technology for Trustless Software Dissemination
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2001    
+File        : a0121633
+
+Award Number: 0121633
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : September 30,  2006  (Estimated)
+Expected
+Total Amt.  : $1712000            (Estimated)
+Investigator: Karl Crary crary@cs.cmu.edu  (Principal Investigator current)
+              Peter Lee  (Co-Principal Investigator current)
+              Robert W. Harper  (Co-Principal Investigator current)
+              Frank Pfenning  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Abstract    :
+              CR-0121633 ITR/SY+SI: Language Technology for Trustless Software
+              Dissemination Karl Crary, Robert Harper, Peter Lee, Frank
+              Pfenning  ABSTRACT:  The project investigates the theoretical and
+              engineering basis for  the trustless dissemination of software in an untrusted
+              environment.   To make this possible the project investigates
+              machine-checkable certificates of compliance with security, integrity, and
+              privacy requirements.  Such checkable certificates allow participants
+              to verify the intrinsic properties of disseminated software, rather
+              than extrinsic properties such as the software's point of origin.  To obtain
+              checkable certificates the project develops certifying compilers that equip
+              their object code with formal representations  of proofs of properties of the
+              code.  Specifically, the project investigates the use of proof-carrying code,
+              typed intermediate languages, and typed assembly languages for this purpose. 
+              In each case certificate verification is reduced to type-checking in
+              a suitable type system.  To demonstrate the utility of trustless software
+              dissemination, the project develops an infrastructure for building
+              applications that exploit the computational resources of a network of
+              computers.  The infrastructure consists of a "steward" running on host
+              computers that accepts and verifies certified binaries before installing
+              and executing them, and certifying compilers that generate certified binaries
+              for distribution on the network.  The scope of the investigation includes the
+              theory of specification and certification, and the systems building required
+              to implement these ideas.  

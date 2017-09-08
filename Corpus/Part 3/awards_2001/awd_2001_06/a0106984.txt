@@ -1,0 +1,80 @@
+Title       : Adaptive and Scalable Quality of Service Provisioning in Multirate Multicast
+               Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 27,  2001 
+File        : a0106984
+
+Award Number: 0106984
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $323347             (Estimated)
+Investigator: Saswati Sarkar swati@ee.upenn.edu  (Principal Investigator current)
+              Leandros Tassiulas  (Co-Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Multicasting has become increasingly important for real-time applications
+              since it is the inherent mode of
+delivery in several of them, e.g.
+              teleconferencing, audio and video broadcasting, etc. The Internet,
+              however,
+does not provide end-to-end bandwidth or delay guarantees for unicast
+              or for multicast data. As a result, a
+number of multiple scale encoding
+              schemes for real-time voice and video transmission have been developed;
+these
+              schemes allow adaptation both to the available bandwidth and to the receiver
+              capabilities by varying
+the number of levels of the information stream and
+              therefore the corresponding bit rates. Thus, bandwidth
+and receiver adaptation
+              of multi-level information streams, in multicast delivery in particular, is an
+              issue
+of prime importance for the successful, large-scale deployment of those
+              real-time applications. We propose
+to investigate and develop methods for
+              bandwidth sharing and adaptation in the context of multicast-
+based real-time
+              applications. A set of fairness criteria based on which the performance of
+              different schemes
+can be quantified and compared is introduced. A methodology
+              for finding bandwidth allocations that are
+optimal or suboptimal with respect
+              to the different criteria is proposed. Scalability with the network
+              size,
+amenability to distributed implementation in terms of required control
+              information and speed of convergence
+are adopted as prime criteria, in
+              addition to optimality, in the evaluation of the different algorithms.
+              We
+propose an approach for the design of the algorithms that allows the
+              trade-off between optimality with
+respect to the performance objective and
+              practicality with respect to the other attributes (i.e. scalability
+etc.). A
+              methodology for network control in multicasting in the case of unknown traffic
+              and/or network
+conditions is proposed as well. It involves explicit
+              back-pressure based congestion notification feedback and
+dynamic per ow
+              scheduling. Finally we propose a method for the design of congestion control
+              policies
+with the objective of maximizing an aggregate network utility. A
+              relative comparison between the two
+approaches (fairness based and aggregate
+              utility maximization) is also proposed in order to be able to select
+the most
+              appropriate one in each case.

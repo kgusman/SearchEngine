@@ -1,0 +1,46 @@
+Title       : Adaptive Memory Hierarchy Management
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 20,  1998    
+File        : a9870238
+
+Award Number: 9870238
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1998    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $176229             (Estimated)
+Investigator: Pei Cao cao@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Modern computers rely on memory hierarchies (which consist of  disks,
+              main-memory and hardware caches) for high performance and  low cost. Technology
+              trends, however, have continued to increase  the access-time gaps between the
+              layers.  The gaps threaten to  reduce the effectiveness of memory hierarchies
+              unless novel  techniques can be found to improve hit ratios and data movement 
+              efficiencies. The research focuses on three such techniques:  adaptive virtual
+              memory, near-optimal page coloring, and coherence-  miss reduction.  Adaptive
+              virtual memory targets the disk and main-  memory layers.  It improves
+              performance by observing applications'  page fault patterns and adjusting page
+              replacement and prefetching  policies accordingly, and by integrating dynamic
+              swap allocation  with page managements. Near-optimal page coloring targets the
+              main-  memory and hardware cache layers. It increases cache hit ratio by 
+              carefully placing the pages into cache sets. The research studies  the
+              theoretical aspects of the problem and designs practical  algorithms including
+              profile-based optimizations based on the  theoretical foundation.Coherence-miss
+              reduction targets multi-  processor caches.  It uses a database system as a
+              case study to  identify common data structures and algorithms that  contribute
+              the most to cache coherence misses, and design and  evaluate alternatives that
+              perform better.Combined, the three  techniques promise to improve memory
+              hierarchy performance  significantly.

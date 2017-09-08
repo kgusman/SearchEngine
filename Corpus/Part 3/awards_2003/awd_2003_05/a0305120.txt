@@ -1,0 +1,69 @@
+Title       : ALGORITHMS: Parallel Large-Scale Sparse Linear System Solvers: New Methods and
+               Paradigms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 8,  2003      
+File        : a0305120
+
+Award Number: 0305120
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2003       
+Expires     : May 31,  2006        (Estimated)
+Expected
+Total Amt.  : $350494             (Estimated)
+Investigator: Yousef Saad saad@cs.umn.edu  (Principal Investigator current)
+              Masha Sosonkina  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The  investigators   have  developed  a  set   of  parallel  algebraic
+              multilevel techniques for solving distributed sparse linear systems of
+              equations,  leading to the  ``parallel Algebraic  Recursive Multilevel Solver''
+              (pARMS),  a portable and general purpose  library for solving sparse  linear
+              systems  on  parallel computers. One of their goals is to begin to address the
+              `efficiency gap' between `special purpose'  and `general purpose'  methods.  On
+              one  extreme of the spectrum of solvers available, lie sparse direct methods
+              which are robust,  general-purpose, but  expensive.  On  the other  extreme,
+              are special purpose methods, such  as multigrid, which utilize information
+              about  the  underlying   problem  to  tailor-design  certain  solution
+              procedures.  Such methods  can be optimal but they  aim at solving the original
+              physical problem instead  of the resulting linear system.  In between  these
+              extremes  are the  preconditioned Krylov  methods whose performance is
+              variable.
+
+This research is characterized by a different vision of what a
+              library of parallel iterative solvers should offer. The investigators strongly
+              believe that a new paradigm is  required where a solver is no longer a
+              monolithic  box comprising a  set of  preconditioners, but  allows the user to
+              input specific information,  indeed even parts of the solution algorithm, in
+              order to tailor the multilevel solution procedure.  This approach,  which is 
+              enabled by  the modular  design of  pARMS,  is in perfect agreement  with the
+              standard  approach used in  industry.  The new  paradigms  and methods 
+              envisioned  in  this  research will  also
+include a number of other key issues
+              which arise in a typical solution process.  Thus, it is important to exploit
+              the underlying context when solving  nonlinear systems  of  equations.  It  is 
+              also important  to ensure that the pARMS code provides a fall-back option to an
+              efficient sparse direct solver for  situations where the iterative solver
+              fails. The  investigators  also  plan  to  explore new  questions  which  are
+              starting  to  emerge  with  the  advent  of  the  Computational  Grid. Finally,
+              they  will keep  in mind architecture-  and problem-dependent tuning of
+              solution algorithms.
+
+The software developed  by the investigators will
+              continue  to be made publicly available.   Both investigators have  major
+              interactions with researchers in important applications areas.  The pARMS-X
+              code is also likely to have  an impact on graduate education, as  was the case
+              with SPARSKIT in the past. 
+
+

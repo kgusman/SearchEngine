@@ -1,0 +1,51 @@
+Title       : Multiple Interpretations of Domain-Specific Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 25,  2001      
+File        : a9970980
+
+Award Number: 9970980
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $325000             (Estimated)
+Investigator: John Launchbury jl@cse.ogi.edu  (Principal Investigator current)
+Sponsor     : Oregon Hlth and Science U
+	      3181 S W Sam Jackson Rd
+	      Portland, OR  972013011    503/748-1031
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9970980   Launchbury, John   Oregon Graduate Institute
+Multiple Interpretations
+              of Domain-specific Languages
+
+Recently, domain-specific languages (DSLs) have
+              become a popular topic of research. Their promise is in their expressiveness.
+              The programmer becomes concerned with specifying what computation is to be
+              performed, and not with low level detail such as storage, or the order in which
+              to perform computation. When a DSL is defined, the designer will have a primary
+              interpretation in mind. For hardware description languages, for example, the
+              primary interpretation may be a description of how individual gates and
+              primitive circuits are to be wired together. However, DSLs also often have
+              secondary interpretations. Again, a hardware description language may have
+              simulators that provide it with a different semantics: an execution
+semantics,
+              which allow for testing circuits before they are committed to silicon. For
+              these two distinct meanings to be useful, they must be coherent in some precise
+              sense, perhaps expressed by a commuting diagram. This research investigates the
+              principles and practice of multiple interpretations of DSLs. The expected
+              outcomes include techniques for providing multiple coherent interpretations to
+              DSLs; application of these techniques in the context of Hawk, a domain-specific
+              language for specifying microprocessor microarchitectures; and a demonstration
+              of the value of multiple interpretations by obtaining new results in
+              microarchitecture verification.
+

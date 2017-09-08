@@ -1,0 +1,56 @@
+Title       : SBIR PHASE I: A Global Multi-Grid GMRES Scheme for an Adaptive Cartesian/Prism
+               Flow Solver on Distributed Memory Machines
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : January 25,  1996   
+File        : a9560782
+
+Award Number: 9560782
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Patrick Johnson                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : February 1,  1996   
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Z.J. Wang   (Principal Investigator current)
+Sponsor     : CFD Research Corporation
+	      215 Wynn Drive, 5th Floor
+	      Huntsville, AL  35805    205/536-6576
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,1266,OTHR,
+Abstract    :
+              ***  9560782  Wang         This Small Business Innovation Research Phase I
+              project proposes to develop and demonstrate a parallel algorithm for a newly
+              developed adaptive Cartesian/prism grid flow solver on distributed memory
+              parallel machines.  A global Generalized Minimal RESidual algorithm (GMRES)
+              will be utilized in combination with an explicit multi-grid pre-conditioner to
+              drive flow to steady state.  A hybrid domain decomposition method, i.e., a
+              recursive eigenvector bisection (RSB) method on the coarsest grid and a divide
+              and conquer type local cell migration method (LCM) on the finest grid, will be
+              implemented to balance load on the finest grid.  The strategy ensures that the
+              original structure of the coarsest grid is not destroyed with domain
+              decomposition.  Overlap of one cell deep at each multi-grid level between
+              domains is provided for data communication.  Message passing will be provided
+              through a parallel virtual machine (PVM) package.  In addition, a novel
+              communication and computation overlap (CCO) procedure is proposed to achieve
+              data synchronization and zero wait time by processors.  Since both the GMRES
+              algorithm and the explicit multi-grid pre-conditioner can be effectively
+              parallelized, the overall approach is expected to perform very well on
+              distributed memory parallel machines, both homogeneous and heterogeneous.      
+                The automatic grid generation and load balancing approaches drastically
+              reduce the overhead cost associated with grid generation and domain
+              decomposition for parallel computers.  The parallelizable GMRES multi-grid
+              solution algorithm is ideally suited for distributed memory machines and is
+              expected to further speed up convergence of flow to steady state.  If the
+              concept is successfully proven in Phase I, it will be extended to 3D in later
+              phases.  The key commercial objective is to develop a computational fluid
+              dynamics (CFD) code that is specially designed for distributed memory machines,
+              which are viewed by many as the most cost-effective computer archit ecture for
+              large scientific and engineering simulations.  ***

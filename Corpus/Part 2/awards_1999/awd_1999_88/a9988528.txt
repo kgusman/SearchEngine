@@ -1,0 +1,90 @@
+Title       : Subdivision-based Algorithms for Surface Modeling
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 17,  2000    
+File        : a9988528
+
+Award Number: 9988528
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $279592             (Estimated)
+Investigator: Denis Zorin   (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Subdivision was initially conceived as an extension of splines to control meshes
+              of
+arbitrary topology. Subdivision algorithms, while being more flexible and
+              general,
+retain a number of useful properties of splines. Most importantly,
+              the surfaces generated
+by these algorithms have a natural hierarchical
+              structure and are computed
+using simple local rules. This allows the design of
+              efficient hierarchical, local, and
+adaptive algorithms for rendering,
+              manipulation, collision detection and intersection
+of such surfaces.
+              Subdivision surfaces are rapidly gaining wide acceptance in
+the industry. In
+              recent years, substantial progress has been made in understanding
+the
+              properties of the subdivision surfaces, especially smoothness properties.
+              However,
+subdivision still lacks the body of well understood and reliable
+              algorithms
+available for splines and a few practically important aspects of
+              subdivision, such
+as subdivision rules for boundaries and singular features,
+              do not have a rigorous
+theoretical foundation. Aside from smoothness, no other
+              property of subdivision
+surfaces has been studied in detail. At the same time,
+              some fundamental limitations
+of the commonly used stationary subdivision
+              schemes became apparent. For example,
+practical curvature-continuous
+              subdivision surfaces necessarily have a "flat."
+spot near extraordinary
+              vertices, and the surfaces acquire ripples near vertices of
+high valence. The
+              proposed research has three main objectives:
+
+
+Advance the theory of
+              stationary subdivision to include all important practical
+cases, and develop
+              the theory necessary to understand fairness, mesh
+quality, and approximation
+              properties of subdivision.
+
+
+Develop robust algorithms for common geometric
+              operations such as com-putting
+collisions and intersections of subdivision
+              surfaces;
+
+
+Explore nonstationary subdivision schemes which retain locality,
+              and identify
+ways to improve the quality of the resulting surfaces without
+              sacrificing
+the performance.
+
+The three components are unified by a common
+              goal: the development of a
+surface representation supporting highly efficient,
+              local, hierarchical and adaptive
+algorithms for geometric modeling.

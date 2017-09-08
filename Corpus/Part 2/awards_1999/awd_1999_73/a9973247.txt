@@ -1,0 +1,85 @@
+Title       : Computations and Applications for Stochastic Matrices, Linear Systems, and
+               Graphs
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 1,  2003      
+File        : a9973247
+
+Award Number: 9973247
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1999     
+Expires     : January 31,  2003    (Estimated)
+Expected
+Total Amt.  : $63000              (Estimated)
+Investigator: Michael Neumann neumann@math.uconn.edu  (Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      438 Whitney Road Extension
+	      Storrs, CT  062691133    860/486-3622
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9973247
+
+We suggest problems in computational and applied linear algebra that
+              come under three headings. (i) Under the first heading come two problems on
+              parallel computations.  The first concerns a divide and conquer approach to the
+              problem of computing the mean first passage matrix for Markov chains, work that
+              was started in the case when the process is a random walk with an underlying
+              cutpoint graph structure, e.g., a tree.  The second problem is to investigate
+              the speed-up due to the addition of processors, when the number of blocks
+              (natural partitions) is kept fixed, in a model of asynchronous iterations.  One
+              factor here is the type of coefficient matrix to which the model is applied. 
+              
+(ii) Under the second heading  comes a problem encountered when working
+              on
+convergence of infinite products of matrices.  It is known that in
+              iterative methods for computing a solution to singular systems, e.g., in
+              computing the stationary distribution for a Markov process, the magnitude of
+              the subdominant eigenvalue determines the asymptotic rate of convergence.  We
+              have noticed that for random stochastic matrices the subdominant eigenvalue
+              seems to decay exactly as the square root of n.  We suggest investigating this
+              behavior.  (iii) Here we suggest two problems on approximating the algebraic
+              connectivity of a graph which is the second smallest eigenvalue of its
+              Laplacian matrix.  Estimates of this quantity are used in various graph-based
+              algorithms such as the spectral separator method.  In the first problem we
+              suggest investigating bounds derived from the generalized group inverse of the
+              Laplacian which seems to yield good lower bounds. In the second problem we
+              propose studying the algebraic connectivity of random graphs on n vertices. 
+              Throughout the proposal we give examples from the literature for the
+              applications of the problems set forth.
+
+Because many practical problems are
+              very intricate, we need to build models to represent them and then develop a
+              way of understanding and handling the models.  Such modeling frequently results
+              in large arrays of numbers or, what is often associated with the arrays, a
+              system with many equations and many unknowns.  The numbers in the array can be
+              of a random nature if the model represents a physical situation (scientific,
+              economic, social or statistical) in which there is some randomness involved. If
+              the model represents a more deterministic physical situation, there will be
+              definite numbers with some relations between them.  Once we have a model, 
+              there may be many parameters and features which we need to measure and compute.
+              This proposal suggests seven problems.  Two of the problems concern certain
+              high-performance computing with these models.  The computations are to be
+              performed in parallel so as to achieve speed-up of the computation and, if
+              possible, a reduction in the number of computations.  Two examples of questions
+              are: If a problem partitions naturally into a number of subproblems which are
+              called blocks, and if we begin to increase beyond the number of blocks, the
+              number of computers/processors applied to solve in parallel the entire problem,
+              do we necessarily continue to increase the speed of calculations, or is a point
+              of saturation reached after a while and what do we do then?  A common situation
+              in which such a problem arises is in data-fitting, sometimes known as the
+              least-squares problem.  Another problem for computation in parallel is in
+              physical systems which have states with a probability of going from one state
+              to another.  An example is various types of population concentrations such as
+              urban, suburban, rural, etc. with a probability of moving from one type of
+              region to another.  We may be interested in the distribution of the population
+              in the different conurbations after a short term.  It turns out that such
+              predictions  may be done in parallel under certain underlying assumptions.
+

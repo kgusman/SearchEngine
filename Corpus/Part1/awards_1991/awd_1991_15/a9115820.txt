@@ -1,0 +1,52 @@
+Title       : Discrete Time Synchronization Systems for Burst Mode Communication
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 13,  1994      
+File        : a9115820
+
+Award Number: 9115820
+Award Instr.: Continuing grant                             
+Prgm Manager: Aubrey M. Bush                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1992       
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $197172             (Estimated)
+Investigator: Michael Fitz   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+                   This project is an investigation of discrete time burst mode              
+              synchronization algorithms.  The goal of the work is to minimize               
+              acquisition time in synchronization to enable applications to                  
+              burst mode systems such as multi-user architectures.  The primary              
+              design tool is the discrete time maximum likelihood estimator.                 
+              Lower bounds are sought for symbol timing with an unknown phase                
+              or frequency and for the performance of joint symbol time and                  
+              carrier phase and frequency estimation wit doppler.  This will                 
+              establish theoretical lower limits of the acquisition                          
+              performance.  Maximum likelihood estimator structures for                      
+              discrete time burst mode synchronization systems will then be                  
+              sought.  The work will focus on recursive and nonrecursive                     
+              discrete time implementations.  Stochastic approximation                       
+              techniques will be used in the solution of the maximum likelihood              
+              equations.  This will result in digital  phase lock loop systems               
+              with time varying gains, greatly improving the acquisition                     
+              performance over constant gain realizations.  Recursive                        
+              structures will be developed for both joint and marginal                       
+              synchronization of carrier phase and symbol timing.  Statistical               
+              characterization of the acquisition process of the resulting                   
+              estimators is a major emphasis.  Markov theory and efficient                   
+              Monte Carlo simulation are tools.  Optimal techniques for                      
+              detecting the start of a burst and optimal preamble designs will               
+              be developed and investigated.

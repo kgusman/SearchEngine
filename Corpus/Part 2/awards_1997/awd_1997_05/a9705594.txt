@@ -1,0 +1,47 @@
+Title       : Experimental Evaluation of Software Coherence for Next-Generation Networks
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : June 12,  2001      
+File        : a9705594
+
+Award Number: 9705594
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1997      
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $794221             (Estimated)
+Investigator: Michael L. Scott scott@cs.rochester.edu  (Principal Investigator current)
+              Wei Li  (Co-Principal Investigator current)
+              Sandhya Dwarkadas  (Co-Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              Efficiently supporting shared memory on top of commodity  hardware is one of the
+              greatest challenges to widespread  acceptance of parallel computing.  Coherence
+              is the central  problem: data in a large-scale system must be replicated and 
+              kept near to the processors that use them, but changes must  be communicated to
+              all of the copies.  This research  addresses this problem through a distinctive
+              combination of  software and low-cost hardware, and through an active 
+              integration of "behavior-driven" coherence protocols with  compiler-based
+              program analysis.  Applications to be studied  include collaborative work with
+              researchers in Economics,  Biology, Radiology, Genetics, data mining, computer
+              vision,  and virtual reality.    The hardware base for the research is a
+              cluster of eight  multiprocessors (32 processors total) acquired under a 
+              collaborative agreement with Digital Equipment Corporation,  and connected by
+              DEC's new Memory Channel network.  By  directly accessing remote memory, the
+              network allows  processors to interact two orders of magnitude faster than 
+              they can in comparable systems.  Software coherence  protocols can exploit this
+              fast communication to maintain  directories, implement synchronization, and
+              avoid  interrupting the work of remote processors.  The ultimate  goal of the
+              research is to obtain supercomputer performance  for both traditional and
+              emerging applications on networks  of commodity machines.

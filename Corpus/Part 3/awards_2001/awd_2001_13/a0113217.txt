@@ -1,0 +1,69 @@
+Title       : ITR/SY: Optimization of Network Topology Design and Management
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 11,  2002      
+File        : a0113217
+
+Award Number: 0113217
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Serge A. Plotkin plotkin@cs.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1656,9216,HPCC,
+Abstract    :
+              The process of designing or upgrading a large-scale broadband
+communication
+              infrastructure involves solving several optimization problems, including
+the
+              problems of optimum topology design, server placement, distribution
+and
+              replication of data between the servers, and fair division of
+limited network
+              resources (e.g. bandwidth, CPU cycles, etc.) among the users. As
+networks
+              become larger and more complicated, it becomes imperative to
+use
+              mathematically sound, scalable methods for solving the above problems.
+The
+              goal of this project is to develop and implement such methods.
+
+One of the
+              main thrusts of the project is development of new approaches
+for network
+              design and sizing. In particular, the project focuses on
+development of
+              optimization techniques where the goal is to construct a low cost
+topology,
+              choose optimum locations (and sizes) for servers (e.g. web
+caches, application
+              servers, wireless hubs, etc.), and decide how to
+replicated the data.  A
+              related problem is network
+expansion/augmentation, where the goal is to decide
+              (online) where to
+place new equipment and to choose which new links to lease
+              in order to
+satisfy the increased demand. Due to economies of scale, topology
+              design
+and augmentation problems have concave costs structure and hence can
+              not
+be solved by classical flow-based approaches. The investigators work
+              on
+developing principled approaches for solving the above problems and
+              on
+designing and implementing a set of tools that can be used in the
+planning
+              and network management process.

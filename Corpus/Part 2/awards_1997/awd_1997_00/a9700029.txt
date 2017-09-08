@@ -1,0 +1,65 @@
+Title       : Approximation Algorithms via Linear Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 1,  2000     
+File        : a9700029
+
+Award Number: 9700029
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert Sloan                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  2000       (Estimated)
+Expected
+Total Amt.  : $213514             (Estimated)
+Investigator: David B. Shmoys shmoys@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Most combinatorial optimization problems are NP-hard, and  hence unlikely to
+              have a polynomial-time algorithm that  finds an optimal solution. This project
+              investigates the  design of algorithms that find near-optimal solutions but 
+              also come with a guarantee that the solution is not too much  worse than
+              optimal. This research investigates algorithms  that produce solutions
+              guaranteed to be nearly-optimal by  relying on information contained in the
+              optimal solution to  linear programming relaxation.  One consequence of such 
+              results would be to provide a theoretical justification for  the strength of
+              the bounds given by these linear programming  relaxations. By giving algorithms
+              for which one can prove  that the solution found has value relatively close to
+              the LP  bound, one also shows that relative error of the  solution(compared to
+              the integer optimum) is also small.  Furthermore, past experience has shown
+              that the insight  needed to devise algorithms with such performance guarantees 
+              can also lead to algorithms with superior empirical  performance. The research
+              focuses on several specific areas  in which computational experience has
+              indicated that  particular linear programming relaxations provide strong 
+              bounds and attempts to build on this to design approximation  algorithms with
+              good performance guarantees and good  practical performance. Scheduling
+              problems arise in a cross-  section of applications, and the proposal focuses
+              on several  basic scheduling models, with the aim of developing  algorithmic
+              techniques that are not particularly application  specific. Facility location
+              problems are a type of network  design problem in which the aim is to build a
+              distribution  network consisting of facilities and routes used to serve 
+              clients from the facilities.  Known relaxations produce  extremely high-quality
+              bounds and the research will attempt  to provide some theoretical justification
+              for this, as well  to devise new algorithms that also build on these. The 
+              traveling salesman problem is per haps the canonical  optimization problem, and
+              this investigation will try to  resolve a well-known conjecture on the strength
+              of the so  called Held-Karp lower bound.  For the bin-packing problem,  this
+              research will focus on a conjecture that there exists a  polynomial-time
+              algorithm that uses at most a constant extra  bins, and is based on the
+              cutting-stock LP formulation. For  some other problems, such as the maximum
+              acyclic sub-graph  problem, in addition to the LP-based approach described 
+              above, this investigation will also explore algorithms based  on convex
+              programming relaxations, which have recently been  used to strengthen linear
+              relaxations in some settings. The  ultimate goal of this research is to devise
+              algorithms that  will not just complement the ongoing computational work in 
+              polyhedral combinatorics with a theoretical foundation, but  will also develop
+              algorithmic implementations to solve these  applications more easily.***

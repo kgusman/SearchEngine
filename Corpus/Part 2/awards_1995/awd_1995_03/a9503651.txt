@@ -1,0 +1,40 @@
+Title       : Reachability Computation Using the Extended Finite State Machine Model and its
+               Application to Automatic Test Generation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 24,  1995      
+File        : a9503651
+
+Award Number: 9503651
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $201844             (Estimated)
+Investigator: Kwang-Ting Cheng timcheng@ece.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      c/o Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9148,MANU,
+Abstract    :
+              This research addresses computation of reachable states for VLSI  designs
+              described in high-level languages and the application of  these results to
+              automatic test pattern generation (ATPG).  Methods  to compute symbolically the
+              set of states reachable from an initial  state are being explored.  An extended
+              finite state machine (ESFM)  model, which can represent communication protocols
+              and hardware  behavior, is being used.  A key idea is that the model allows use
+               of arbitrary state variables, such as boolean and arithmetic, which  will
+              provide efficiency in computation.  Methods and prototype  tools to convert
+              automatically a design in VHDL to an ESFM are  being developed.  These methods
+              and  techniques are being applied  to ATPG for sequential circuit test.

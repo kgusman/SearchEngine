@@ -1,0 +1,47 @@
+Title       : SGER: Staged Query Processing
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 26,  1998    
+File        : a9817798
+
+Award Number: 9817798
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Richard Snodgrass rts@cs.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,9237,HPCC,
+Abstract    :
+              In today's data management environment, query processing is spread across
+              multiple components, with each middleware component doing some of these tasks,
+              and with some tasks done several times, which we term staged query processing.
+              The potential presence of multiple stages restricts the information available
+              to the middleware component, with particular impact on query optimization. The
+              conventional approach, of cost-based query optimization, in which numerous
+              query plans are enumerated and the cheapest one selected, is not appropriate
+              when detailed cost metrics are not available and when the later stages perform
+              their own, complex optimization. A new approach, termed cost-based graph
+              rewriting, is used to transform a query in one query language into an efficient
+              output query in perhaps a different language. A novel idiomatic cost estimator
+              provides cost parameters to the rewriter, enabling the rewriter to determine
+              the processing that should take place within the component, and the processing
+              that should be performed by later stages. This estimator is more coarse-grained
+              than conventional estimators; in particular, it does not cost individual
+              relational operators in a query plan. The goal of this exploratory research
+              project is to develop an initial prototype utilizing these concepts for a
+              temporal middleware component translating TSQL2 into SQL, and to evaluate the
+              efficacy of this approach by targeting at least two different commercial DBMSs
+              and demonstrating that the middleware component can reflect the differences of
+              these DBMSs in the generated code.

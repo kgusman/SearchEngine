@@ -1,0 +1,57 @@
+Title       : Coded Diversity Combining and Channel Estimation for Wireless Data
+               Communications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  1999      
+File        : a9706592
+
+Award Number: 9706592
+Award Instr.: Continuing grant                             
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $246636             (Estimated)
+Investigator: Zygmunt J. Haas   (Principal Investigator current)
+              Stephen B. Wicker  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                  Recently, a new post-detection macrodiversity scheme was proposed for
+              cellular communication systems. In this new scheme, termed Multiply-Detected
+              Macrodiversity (MDM), the signals at multiple base stations are detected and
+              used as input to a Decision Algorithm, which provides an optimal decision of
+              what was transmitted.  The MDM scheme shows considerable improvement in the
+              Bit-Error Rate (BER), especially when the mobile is close to the boundary
+              between cells. As the boundary between cells is exactly the region in which the
+              quality of the mobile's signal is mostly impaired, the MDM scheme has the
+              effect of equalizing the BER throughout the system coverage area.    The
+              Decision Algorithm of the MDM scheme requires as an input, in addition to the
+              separate detections of the receivers, also an estimation of the quality of the
+              received signals, so that appropriate"weightings" of these signals can be
+              applied in the post-detection combining process. To obtain estimates, usually
+              some sort of channel measurement is performed; e.g., the signal power
+              (S-diversity) or the Signal-to-Interference-Ratio (S/I-diversity).  In such
+              cases, the measurement process complicates the design of the
+              transmitter/receiver hardware and the operation of the system. Furthermore, the
+              measurements are subject to high variance and need to be averaged over time.   
+              To avoid the disadvantage of the measurement-based quality of signal
+              estimation, we propose here to investigate the use of channel coding to
+              evaluate the transmission characteristics of a wireless channel for
+              macrodiversity reception. The proposed channel estimation schemes use side
+              information generated during the decoding process.In summary, we intend to
+              study the use of the MDM combining with coded channel estimation in the case of
+              a single site equipped with multiple,widely-separated receivers and in the case
+              of multiple cell sites. In the latter case, we will investigate the use of both
+              post-detection and predetection combining (with quantization of the recei ved
+              signal), comparing the performance in the schemes in the presence of channel
+              impairments characteristic to the mobile communication environment.

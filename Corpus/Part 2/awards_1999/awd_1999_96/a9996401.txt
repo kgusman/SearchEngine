@@ -1,0 +1,48 @@
+Title       : Hardware Multicast Routing Techniques for Scalable Parallel Computers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 31,  1999    
+File        : a9996401
+
+Award Number: 9996401
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $43583              (Estimated)
+Investigator: Prasant Mohapatra   (Principal Investigator current)
+Sponsor     : Michigan State University
+	      
+	      East Lansing, MI  48824    517/355-1855
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              MLulticast communication is an essential feature in parallel computers.  It 
+              benefits several parallel applications and is useful for shared memory, 
+              distributed memory, and distributed-shared memory systems.  Multicasting also 
+              helps in supporting a class of communication patterns known as collective 
+              operations.  Multicasting can be supported by either hardware or software 
+              approaches.  However, the hardware approach is significantly faster than the 
+              software approach.  Most vendors of parallel computers are either unaware of it
+               or have made unsuccessful attempts at implementing deadlock-free hardware 
+              multicasting schemes.  This project is concerned with efficient hardware 
+              multicast routing techniques for meshes and switch-based parallel computers.  
+              Several implementation details, such as start-up latency, router delays, and 
+              multiple multicasts, will be addressed in this project.  The primary objectives
+               of the research will include the minimization of the total communication
+              latency  by reducing the number of start-up steps required for multicasting in
+              meshes.   For switched-based systems, this project will examine alternative
+              switch designs  to support efficient deadlock-free multicasting.  Finally, an
+              effort will be made  to design low-cost routers that support multicast
+              operation.  Two primary  constraints will be observed during this research. 
+              First, the cost and  complexity of the algorithms will be minimized.  Second,
+              the PI will focus on  techniques that not only support deadlock-free multicast
+              operations but also  enhance the performance of node-to-node unicast
+              communications.

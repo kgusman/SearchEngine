@@ -1,0 +1,52 @@
+Title       : Online Algorithms for Selective Multicast, Maximal Dense Trees, and Related
+               Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 4,  1997  
+File        : a9700157
+
+Award Number: 9700157
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $134909             (Estimated)
+Investigator: Baruch Awerbuch baruch@cs.jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The essence of this research is a systematic classification  of the variants of
+              the multicast problems that present  themselves in various networking and
+              distributed systems  applications, as well as algorithmic solutions to these 
+              problems in the spirit of "competitive analysis". Even  though the research
+              pursued in this project is theoretical  in nature, the algorithms developed may
+              be of practical  value.  The issues addressed are also being very actively 
+              studied by the networking community.  This algorithmic  effort may in fact
+              bridge between the Theory and Networking  communities, since the researchers in
+              the Networking  community are seeking solutions to dire problems created by 
+              the growing scale of the Internet and its applications. From  the algorithmic
+              point of view, which is the point of view  taken in this proposal, the
+              Multicast Problem can be defined  as follows.  Various network users issue
+              online requests for  a connection to certain multicast sources.  The network 
+              either connects this request or rejects it (admission  control decision).  If a
+              request is connected, a path with  sufficient residual bandwidth is established
+              starting at the  requesting user and ending either at the source or at one of 
+              the users previously connected to the same source (route  selection decision). 
+              The goal of these admission control  and route selection decisions is to
+              maximize the total  number of users connected subject to the network capacity 
+              constraints.  Namely, the number of connections to different  sources passing
+              through any edge should not exceed the  capacity of that edge. The innovation
+              in this research is in  developing a unifying framework that simultaneously
+              captures  admission control and route selection decisions in their  full
+              generality. This framework can be generalized to  include issues such as
+              pricing policies, network design &  synthesis, etc.

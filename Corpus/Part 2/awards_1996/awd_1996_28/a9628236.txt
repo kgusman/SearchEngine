@@ -1,0 +1,57 @@
+Title       : Adaptive Receivers for Uncertain, Time-Varying Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 23,  1996    
+File        : a9628236
+
+Award Number: 9628236
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $186542             (Estimated)
+Investigator: Don H. Johnson dhj@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+                In this research the goal is to develop a nonparametric adaptive 
+              communications receiver strategy by exploiting results from the theory of 
+              universal classification and data compression. Analysis based upon the 
+              "typicality" of the data has become one of the primary theoretical and 
+              practical concepts in modern information theory. The so-called "Type" 
+              (appropriate histogram estimators of the amplitude distribution) have not  only
+              been shown to be sufficient statistics for both classification and 
+              compression, but have also been shown to converge exponentially fast to the 
+              true underlying distribution. Because type-based detectors make no a priori 
+              assumptions about the channel characteristics and measure the quantities 
+              needed to provide asymptotically optimal reception, these detectors can 
+              theoretically achieve the same exponential error rate as the clairvoyant 
+              receiver that knows the channel characteristics perfectly and uses them 
+              optimally. Measurements made during succeeding transmissions, possibly  using
+              the data transmissions themselves in a decision feedback paradigm,  can be used
+              to track channel variations. The approach will be extended to  deal with
+              intersample dependencies and colored noise by using channel  measurements in an
+              optimally effective way. Two techniques drawn from data  compression work,
+              context trees and Lempel-Ziv (universal) coding, will be  examined to determine
+              which represents channel-induced dependencies most  efficiently and which is
+              most adaptable. By merging systems based on these  two theories, a receiver
+              that adapts to unknown, time-varying channels will  be developed. It will be
+              demonstrated that this receiver can be used in  multiuser channels, both
+              wireless and optical fiber, with little  modification. The research will
+              develop the theoretical underpinnings of  this adaptive receiver strategy, and
+              will develop a complete software  implementation of the receiver, using as test
+              data actual communication  channel recordings.  This work will be performed  by
+              a close collaboration  of researchers from Rice University and George Mason
+              University.

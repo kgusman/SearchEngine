@@ -1,0 +1,40 @@
+Title       : RIA: Query Optimization for Parallel Executions
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 23,  1995      
+File        : a9409405
+
+Award Number: 9409405
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1994    
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Sumit Ganguly   (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+                Query Optimization refers to the selection of an efficient  execution strategy
+              for database queries posed in declarative  languages, as typified by SQL.  The
+              design of successful query  optimizers for sequential processing has
+              contributed significantly  to the success of relational database systems. 
+              However, current  solutions to the problem of query optimization for parallel 
+              executions are inadequate  4  and limit the potential success of  database
+              systems on parallel machines.  This project is concerned  with the design an
+              implementation of parallelizing query  optimizers.    There are two basic
+              challenges in the design of parallelizing query  optimizers.  The first is the
+              design of near-accurate cost models  that predict the time it takes to complete
+              the parallel execution  of an execution strategy.  The second is the design of
+              reasonably  efficient search algorithms which search for the plan with the 
+              minimum cost.

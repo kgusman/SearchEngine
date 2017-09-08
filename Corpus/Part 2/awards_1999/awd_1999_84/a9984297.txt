@@ -1,0 +1,56 @@
+Title       : CAREER: Timing Recovery in Digital Magnetic Recording Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 21,  2000     
+File        : a9984297
+
+Award Number: 9984297
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $200001             (Estimated)
+Investigator: Aleksandar Kavcic kavcic@deas.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 1045,9216,9218,HPCC,
+Abstract    :
+              As magnetic recording densities increase, powerful signal processing algorithms
+              will need to be utilized to overcome a drop of up to 6dB in the signal-to-noise
+              ratio. Recently, iterative decoding methods (applied to turbo codes and
+              low-density parity-check codes) have shown to approach the channel capacity of
+              additive white Gaussian noise channels. Simulation show that turbo codes
+              routinely achieve coding gains up to 6dB over conventional maximum likelihood
+              detection in magnetic recording partial response channels. A drawback of
+              iterative decoding is a decision delay that is intolerably long for the timing
+              recovery loop. Clearly, robust timing recovery algorithms that can operate at
+              very low signal-to-noise ratios and can tolerate long decision delays are
+              needed. This project is developing timing recovery methods for receivers
+              employing iterative decoding strategies. 
+
+Since iterative decoders introduce
+              a delay of several thousand bits, it is suggested that the waveform be
+              asynchronously oversampled, and that the decoding delay be used to refine the
+              sampling in an iterative schedule that follows closely the schedule of the
+              iterative decoder. This research developing a 'soft' decision-directed timing
+              recovery method. During the decoding iterations of an iterative decoder, soft
+              information is passed between the processing elements. This soft information is
+              the reliability information regarding a specific bit (or a bit-sequence) and
+              could be used to refine the sampling instants of the received waveform. This is
+              precisely the strategy used here. Iterative decoding is well explained by
+              passing conditional probability information on a code-graph. Recently, it has
+              been shown that both equalization and decoding can be performed using the same
+              message-passing strategy on a joint channel/code graph. The goal here is to
+              expand this concept by formulating the entire receiver using a system graph. A
+              suitable message-passing algorithm on the entire graph will then perform the
+              basic receiver functions (synchronization, sampling, equalization, decoding).
+

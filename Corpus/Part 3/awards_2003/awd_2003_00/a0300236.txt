@@ -1,0 +1,65 @@
+Title       : Analysis and Design of a Global Adaptive Critic Controller
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : April 4,  2003      
+File        : a0300236
+
+Award Number: 0300236
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  2003        
+Expires     : April 30,  2005      (Estimated)
+Expected
+Total Amt.  : $167745             (Estimated)
+Investigator: Silvia Ferrari sferrari@duke.edu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 0000,7238,OTHR,
+Abstract    :
+              Recent advances in a variety of technologies and applications call for improved
+              performance and reliability, while exacerbating the complexity and uncertainty
+              of systems and their surroundings. Although classical control and system theory
+              already allow for a high degree of machine automation, a renewed interest in
+              systems that display intelligent behavior is emerging across disciplines. This
+              project will formally investigate the stability and robustness of a novel
+              design that has proven particularly effective for the full-envelope on-line
+              learning control of a full nonlinear aircraft simulation, subject to unmodeled
+              dynamics and unexpected control failures. This adaptive control system will be
+              further tested on anew and more advanced aircraft simulator capable of
+              reproducing highly nonlinear phenomena, such as aeroelastic effects, and
+              stall/post-stall behavior. One major goal is to reduce the rate of loss of
+              aircraft or even spacecraft under conditions even more extreme then those
+              addressed by more conventional forms of "reconfigurable flight control."
+
+The
+              design consists of a two-phase learning procedure that is realized through
+              novel techniques for neural-network function approximation. Firstly, a global
+              classical control design is incorporated in a network of neural networks off
+              line, by solving linear systems of equations. Secondly, the network parameters
+              are updated or fine tuned incrementally over time, through
+              dual-heuristic-programming adaptive-critic architecture. The author recently
+              showed that this approach to on-line learning control could considerably
+              improve performance with respect to the classical control design, under a range
+              of unforeseen conditions. The proposed research would combine a novel algebraic
+              training approach with integral-quadratic-constraint techniques to prove
+              closed-loop stability and establish performance guarantees for this global
+              control system.
+
+The intellectual merit of this project consists of providing
+              a systematic, rigorous framework for understanding the behavior, quality, and
+              characteristics of intelligent control systems. The design of systems that are
+              not only adaptive and reconfigurable, but also safe and reliable would widen
+              the range of workable applications and, thus, encourage further research in
+              this field. The broader impact of the proposed research is the creation of new
+              performance metrics for comparing intelligent vs. classical control systems.
+              Furthermore, the proposed objectives would enhance our understanding of
+              rational intelligence as a viable paradigm for dealing with complexity.
+

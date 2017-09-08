@@ -1,0 +1,82 @@
+Title       : Mathematical Sciences: Numerical Methods & Conservation Laws
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 13,  1995      
+File        : a9505021
+
+Award Number: 9505021
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1995     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $193910             (Estimated)
+Investigator: Randall J. LeVeque rjl@amath.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9139,9216,9263,HPCC,
+Abstract    :
+              The investigator develops multi-dimensional high resolution  finite volume
+              methods for solving nonlinear hyperbolic systems of  conservation laws and
+              related problems arising in a variety of  applications.  The public domain
+              software package CLAWPACK  (Conservation LAWs PACKage) he has developed is
+              extended to handle  a wider variety of problems on both Cartesian and
+              curvilinear  grids in 1, 2, and 3 space dimensions.  Mosaic composite grids are
+               further developed to allow body-fitted grids near an irregular  boundary to be
+              coupled with Cartesian grids away from the  boundary.  Immersed interface
+              methods for handling discontinuities  in the solution or its derivatives are
+              used in conjunction with  multi-dimensional conservation law methods to solve
+              fluid dynamics  and wave propagation problems with material interfaces.  These 
+              techniques achieve second order accuracy on uniform Cartesian  grids cut by
+              irregular interfaces.  Similar techniques are applied  to problems with stiff
+              source terms arising from chemical  reactions or combustion, giving rise to
+              thin reaction zones that  behave macroscopically as interfaces.  Specific
+              applications in a  number of areas are studied, including groundwater flow, 
+              atmospheric flow, chemotaxis, and astrophysics.  The software being  developed
+              is intended for teaching as well as research purposes,  and includes extensive
+              documentation and applied examples.  An  accompanying textbook is being
+              written.         The investigator develops computational methods and public 
+              domain software for the solution of a class of mathematical  problems that
+              arises in virtually every field of science and  engineering.  The partial
+              differential equations considered can, in  various forms, model the motion of
+              liquids or gas (e.g., air in  the atmosphere, water in the ocean, aerodynamic
+              flow around  aircraft or through turbines, groundwater or oil beneath the 
+              earth's surface), or the motion of waves in fluid or air (e.g.,  acoustic waves
+              in the air or ocean or in ultrasonic explor ation of  the body, seismic waves
+              in the earth originating from earthquakes  or artificially generated for oil
+              exploration, radar waves).  Even  the motion of organisms in ecological
+              modeling or cells in  developmental biology follows similar laws.  The methods
+              are based  on extensive research over the past 20 years, primarily in the 
+              aerodynamics and weapons development communities.  This technology  is slowly
+              being transferred to other areas, but is hindered by the  complexity of most of
+              the algorithms.  The software of this project  should help speed this process. 
+              It is designed for general use as  both a teaching and research tool, with
+              extensive examples  included in many applications areas.  Novel methods are
+              also  developed to deal with phenomena occurring on different time  scales
+              (e.g., fast chemical reactions coupled with slow  groundwater or atmospheric
+              flow) and for problems in geometrically  complicated regions of space bounded
+              by irregular boundaries or  containing interfaces where material properties
+              change (e.g.,  between different types of rock in groundwater flow and 
+              seismology, or between bone and tissue in ultrasound imaging).  Close
+              collaboration is underway with researchers in many areas  (particularly
+              groundwater flow and atmospheric modeling), both to  improve and generalize the
+              software and to use it in the solution  of specific problems.  An application
+              of great interest is  contaminant transfer in groundwater flow, where linear or
+               nonlinear advection in a porous medium with discontinuous  permeabilities and
+              irregular geometries must often be coupled with  stiff source terms for
+              adsorption and reactions.  Accurate models  are needed both as an aid to
+              remediation of polluted sites and to  the study of proposed underground storage
+              sites for nuclear waste.  Atmospheric modeling is crucial both in short-term
+              weather  prediction and in long-range global modeling of climate, ozone 
+              depletion, etc.  The investigator works with researchers in these  areas to
+              incorporate this  software into standard models as well as  to develop new
+              methods where needed.

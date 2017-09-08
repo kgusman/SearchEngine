@@ -1,0 +1,53 @@
+Title       : Towards Practical, Expressive Multimethods
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 30,  2001     
+File        : a9970986
+
+Award Number: 9970986
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $199972             (Estimated)
+Investigator: Craig D. Chambers chambers@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9970986   Chambers, Craig D.   University of Washington, Seattle
+Towards
+              Practical, Expressive Multimethods
+
+One of the promises of object-oriented
+              programming is the development of highly reusable and extensible software
+              components, but traditional object-oriented languages have fundamental
+              limitations that hinder the attainment of this goal.  Multimethods, as found in
+              a few object-oriented languages, offer several advantages in uniformity,
+              flexibility, reusability, and extensibility.  However, multimethod in current
+              languages suffer from several weaknesses compared to traditional
+              object-oriented languages, including a lack of modular approaches to static
+              typechecking, a lack of strong encapsulation  mechanisms, and poorer run-time
+              performance for message dispatching.  This project seeks to solve these
+              problems.  A flexible model for
+dispatching is being developed that subsumes
+              single dispatching, multiple dispatching, and functions defined by
+              pattern-matching, along with a classless object model and a static type system.
+               A module system is being added to this base, to provide encapsulation and to
+              define the units of separate static typechecking.  New implementation
+              techniques for efficient message dispatching are also being developed.  To
+              assess this research, the design is being embodied into both a small core
+              language suitable for theoretical study (named Dubious) and an extended
+              language suitable for practical programming (named Diesel), and the Vortex
+              optimizing compiler infrastructure is being modified to include the new
+              dispatching algorithms.
+

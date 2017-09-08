@@ -1,0 +1,66 @@
+Title       : Robust Adaptive Network-Attached Storage
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 29,  2001       
+File        : a0098274
+
+Award Number: 0098274
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $310000             (Estimated)
+Investigator: Remzi H. Arpaci-Dusseau remzi@cs.wisc.edu  (Principal Investigator current)
+              Andrea C. Arpaci-Dusseau  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9217,HPCC,
+Abstract    :
+              The basic elements of the storage industry are in the midst of radical
+              change
+with the advent of network-attached storage devices. Storage systems
+              comprised
+of network-attached drives provide many potential advantages over
+              traditional
+storage architectures, but also introduce additional challenges,
+              particularly
+regarding manageability.  In this proposal, the WiND project
+              (Wisconsin
+Network Disks) is described, which has the goal of developing the
+              software
+techniques required to build a truly manageable network-attached
+              storage
+system.
+
+The key to manageability is adaptation.  In traditional
+              systems, such
+adaptation is performed by a human administrator. Future storage
+              systems must
+themselves adapt, and in doing so, reduce the need for
+              manual
+intervention. The WiND system will gracefully and efficiently adapt to
+              changes
+in the environment, reducing the burden of administration and
+              increasing the
+flexibility of storage for an eclectic range of clients.  In
+              particular, WiND
+will automatically handle the addition of new heterogeneous
+              disks to the
+system, the failure of existing disks, and changes in client
+              workload. Within
+this proposal, three specific sub-areas of WiND are
+              developed: adaptive data
+layout and access with SToRM, adaptive caching via
+              Clouds, and the underlying
+information substrate.
+
+

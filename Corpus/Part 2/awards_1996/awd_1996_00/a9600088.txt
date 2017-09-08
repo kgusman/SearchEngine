@@ -1,0 +1,61 @@
+Title       : Mathematical Sciences: Numerical Methods for Molecular Dynamics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 4,  1998       
+File        : a9600088
+
+Award Number: 9600088
+Award Instr.: Continuing grant                             
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $148000             (Estimated)
+Investigator: Robert D. Skeel skeel@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9178,9183,9216,9251,9263,BIOT,HPCC,OTHR,SMET,
+Abstract    :
+              9600088  Skeel    The work involves the analysis, synthesis, and testing of
+              efficient numerical   time stepping schemes for the long-time simulation of
+              Hamiltonian systems   of differential equations.  This is motivated by the
+              desire to improve the   performance of computer programs that simulate the
+              dynamics of   biomolecules, with particular attention to the MDScope simulation
+              program   NAMD/SIgMA.  Much of the proposed work is general and applies
+              directly   to a variety of applications modeled by Hamiltonian systems, such as
+                astrophysics, some structural dynamics problems, and wave propagation.   
+              Some of the work is less general but can be adapted to other applications.   
+              Typically, the complicated dynamics of Hamiltonian systems is a combined  
+              effect of many simple interactions, often having a range of time scales.  A  
+              key emphasis of the research is the development of sound "long-timestep"  
+              methods, which exploit the slowness present in many components of the   motion
+              and the possible regularity present in other components.  More   specifically,
+              such methods evaluate some interactions at time increments   that well exceed
+              half the period of the fast modes of the system.  Another   emphasis is the
+              design of time stepping schemes that can compute long   trajectories having the
+              right qualities.  A specific goal is the construction of   a multiple time
+              stepping scheme that can be used both with long timesteps   and for long-time
+              simulations--existing schemes fail in one respect or the   other.  Another
+              specific goal is to reduce the cost of certain calculations,   such as
+              inverse-square-law forces, by reducing their accuracy without   sacrificing
+              qualitative properties.    Mathematical formulas are being devised that can
+              predict typical motions of   large molecules such as proteins and DNA.  The aim
+              is find shortcuts that   enable very fast calculations on large computers. 
+              These ideas are tested for   accuracy and speed, and the more useful ones are
+              put into the software that   biologis ts and other scientists use to study the
+              action of molecules.    Computer simulations can help the scientist to
+              understand how molecules   perform biological functions, which can be very
+              difficult to observe   experimentally. Such studies are also useful in the
+              design of molecules for   agricultural and medical purposes.  Much of the
+              proposed work is general   and extends to other applications in which
+              dissipation is negligible, such as   astrophysics, some structural dynamics
+              problems, and wave propagation.

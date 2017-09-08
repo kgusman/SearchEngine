@@ -1,0 +1,51 @@
+Title       : SBIR Phase I: Fast Flow Control in High Speed Communications Networks
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : November 20,  1996  
+File        : a9660335
+
+Award Number: 9660335
+Award Instr.: Standard Grant                               
+Prgm Manager: Sara B. Nerlove                         
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1997    
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $74637              (Estimated)
+Investigator: ChiMan Kwan ckwan@i-a-i.com  (Principal Investigator current)
+Sponsor     : Intelligent Automation Inc
+	      7519 Standish Place, Suite 200
+	      Rockville, MD  208552743    301/222-0444
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000912   Computer Science                        
+Program Ref : 4095,9139,HPCC,
+Abstract    :
+              ***  9660335  Kwan    This Small Business Innovation Research Phase I project
+              describes a new approach to flow control in high speed communication networks
+              which can significantly reduce the packet delays. In many networks, even the
+              traffic is routed optimally, there are situations where the total traffic into
+              the network is much larger than the network can handle. If no control
+              strategies are present to limit the traffic into the network, queue sizes at
+              bottleneck links will grow and packet delays will increase which may violate
+              some maximum delay specifications for voice and video signals. The flow control
+              problem is first treated as a fluid-flow dynamic system with time delay. Based
+              on the model, we propose a flow controller that can generate some predictive
+              information about the future queue length in the system. This predictive
+              information is crucial to the success of the flow control scheme since it
+              guarantees that the time delay of packets will not go unstable. Thus the
+              maximum time delay performance criterion can be assured. In addition, the new
+              flow control method can also maintain certain throughput of the system which is
+              very important in applications such as video distribution. A new type of neural
+              network called Fuzzy CMAC (Cerebellar Model Arithmetic Computer) is also
+              proposed to predict the total information delay and the channel disturbance.
+              The outputs of the Fuzzy CMAC will be passed to the flow controller to enhance
+              the performance even further.  The new flow control method can guarantee the
+              maximum packet delay criterion and can also maintain a desired minimum
+              throughput of the system which is very important in applications such as video
+              distribution.  Another advantage is that the controller is very easy to
+              implement.  The proposed algorithm should find many applications in broadband
+              ISDN and ATM networks.  ***

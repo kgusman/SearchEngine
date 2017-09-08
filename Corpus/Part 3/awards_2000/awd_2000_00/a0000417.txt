@@ -1,0 +1,66 @@
+Title       : Experimental Partnership - Real-Time Computer Vision Based Spatial Mapping and
+               Referencing for Minimally Invasive Surgery
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0000417
+
+Award Number: 0000417
+Award Instr.: Continuing grant                             
+Prgm Manager: Gregory R. Andrews                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $1300000            (Estimated)
+Investigator: Badrinath Roysam roysam@ecse.rpi.edu  (Principal Investigator current)
+              Charles V. Stewart  (Co-Principal Investigator current)
+              Christopher Carothers  (Co-Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1653,1660,4725,9218,HPCC,
+Abstract    :
+              EIA-0000417
+Badrinath Roysam
+Rensselaer Polytechnic Institute
+
+Experimental
+              Partnership-Real Time Computer Vision Based Spatial Mapping and Referencing for
+              Minimally Invasive Surgery
+
+The goal is to develop core computer vision
+              technology for a new generation of highly capable instruments for minimally
+              invasive surgery.  The specific applications are in opthamology.  Developing
+              the technology requires facing and overcoming several fundamental barriers that
+              have plague computer vision systems.  These include poor quality image data
+              during surgery, difficult to model biological tissues, large scale and
+              unpredictable motions of the eye, a need for extreme accuracy over long
+              duration, a need for predictable response in a real-time implementation, and a
+              need for transparency of the system as a whole.
+
+The computer vision
+              technology will distinguish these instruments by making them "spatially-aware".
+               This means they include capabilities for spatially mapping and spatial
+              referencing.  Spatial mapping is the problem of building and maintaining a
+              seamless, wide-area map (mosaic) of the three-dimensional region of surgical
+              interest and its surrounding.  This map will be constructed from images
+              acquired during diagnostic exploration and forms the basis for absolute and
+              hence verifiable spatial referencing.
+
+Novel aspects of the work in mapping
+              include:  (1) a fast, recursive technique for tracing elongated structures and
+              then detecting their branching and cross-over points, (2) a feature-based
+              image-to-image matching algorithm that used a high-order transformation model
+              and a hierarchy of robust estimation techniques, (3) a joint optimization of
+              all image-to-mosaic transformations simultaneously, and (4) a 3-D
+              reconstruction of the retinal surface despite an inherent inability to
+              calibrate the imaging system.   These techniques are each useful in other
+              domains besides ophthalmology.
+

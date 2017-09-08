@@ -1,0 +1,42 @@
+Title       : RUI: Distributions of Floating Point Sums
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 20,  1990      
+File        : a9009449
+
+Award Number: 9009449
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1990     
+Expires     : January 31,  1992    (Estimated)
+Expected
+Total Amt.  : $32933              (Estimated)
+Investigator: Charles W. Schelin   (Principal Investigator current)
+              John K. Scheidt  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin La Crosse
+	      1725 State Street
+	      La Crosse, WI  546013742    608/785-8000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9229,
+Abstract    :
+              The mantissae of floating-point numbers are often assumed to be                
+              logarithmically distributed; that is they are assumed to have a                
+              reciprocal probability density function.  Mantissae of products of             
+              floating-point numbers are logarithmically distributed when at least           
+              one of the factors has a mantissa that is so distributed.  However,            
+              the logarithmic distribution of mantissae is not preserved under               
+              floating-point addition.  The aim of this project is to derive a               
+              density function for the sum of two or more floating-point numbers             
+              that have logarithmically distributed mantissae and exponents that are         
+              not uniformly distributed.  The deviation between the density function         
+              for this sum and the reciprocal density will be measured using a               
+              relative supremum norm.  Error bounds will be derived for this                 
+              deviation.  The resulting density functions can then be used to                
+              compute probabilistic error bounds for floating-point sums.

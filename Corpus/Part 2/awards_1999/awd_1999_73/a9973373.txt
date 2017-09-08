@@ -1,0 +1,97 @@
+Title       : Numerical Methods for Digital Signal Reconstruction
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 23,  1999    
+File        : a9973373
+
+Award Number: 9973373
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1999    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $81000              (Estimated)
+Investigator: Thomas Strohmer strohmer@math.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+                   The investigator develops efficient numerical methods
+              for
+multi-dimensional signal reconstruction using tools from
+              harmonic
+analysis such as local trigonometric transforms and wavelets.
+The
+              reconstruction problems that are considered range from
+approximation of
+              nonstationary signals from scattered data to
+recovery of missing data in
+              digital image sequences.  Successful
+solution of these reconstruction problems
+              requires a priori
+information about the signal, otherwise these problems
+              are
+ill-posed.  Often this a priori knowledge can be derived from
+physical
+              properties of the process, for instance in terms of the
+"local frequency
+              behavior" of the signal.  Local trigonometric
+transforms and wavelets have
+              become powerful methods for
+analysis, compression and denoising of digital
+              signals.  The
+investigator derives a mathematical framework for the
+              application
+of these concepts to signal and image reconstruction (beyond
+              the
+well-traversed area of denoising).  The design of these
+reconstruction
+              methods is accompanied by the development of
+multi-level regularization
+              techniques in order to provide a
+flexible framework for the incorporation of
+              different kinds of a
+priori knowledge about the signal.  The investigator
+              applies the
+new numerical methods to the approximation of geophysical
+              signals
+from scattered data and to error correction in received coded
+              bit
+streams.
+     This project is motivated by a number of
+              multi-dimensional
+signal reconstruction problems arising in areas as diverse
+              as
+exploration geophysics, medical imaging, and telecommunication.
+In order
+              to optimally compress, transmit or analyze an incomplete
+or distorted signal,
+              it is necessary to first reconstruct the
+original signal from the available
+              data.  This reconstruction
+process includes the restoration of lost data as
+              well as the
+recovery of a signal from scattered noisy measurements. 
+              The
+mathematical framework being developed here allows the design of
+flexible
+              and robust algorithms for the reconstruction of
+multi-dimensional signals. 
+              Due to huge amount of data and
+possibly required real-time processing the
+              reconstruction
+algorithms must also be fast and efficient.  The
+              derived
+numerical methods are important for reliable error correction in
+data
+              transmission, for efficient reconstruction of geophysical
+signals, and for
+              other applications.

@@ -1,0 +1,51 @@
+Title       : Experimental Software Systems: Collaborative Research: Applications of Flow
+               Types in the Efficient, Modular, and Reliable Compilation of Higher-Order Typed
+               Languages
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : September 4,  1998  
+File        : a9806747
+
+Award Number: 9806747
+Award Instr.: Standard Grant                               
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1998 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $93626              (Estimated)
+Investigator: Franklyn A. Turbak fturbak@wellesley.edu  (Principal Investigator current)
+Sponsor     : Wellesley College
+	      106 Central Street
+	      Wellesley, MA  02481    781/283-1000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2861,9218,HPCC,
+Abstract    :
+              9807647  Turbak, Franklyn  Wellesley College    Experimental Software Systems:
+              Collaborative Research: Applications of Flow Types in the Efficient, Modular,
+              and Reliable Compilation of Higher-Order Typed Languages    Modern programming
+              languages (e.g. ML, Haskell, Scheme, Java) have several expressive features
+              that let programmers abstract away from low-level, system-specific details and
+              achieve benefits like code safety, code reuse, and modularity.   
+              Unfortunately, these features are challenging to implement efficiently in a
+              compiler.  The central difficulty is that the compiler must decide what
+              concrete representations to assign to different abstractions of the same type
+              in different contexts.  Traditional compilers (inefficiently) solve this
+              problem by choosing a uniform representation for all data.    This research,
+              part of the Church Project (http://www.cs.bu.edu/groups/church) addresses this
+              challenge by (1) embedding type and control/data flow information in the
+              intermediate representation of the program, (2) maintaining the accuracy of
+              this information through the stages of the compiler and (3) using this
+              information to customize data representations based on context, and to drive
+              several compiler optimizations.    The goal is to experimentally evaluate the
+              efficacy of these "flow types" to compile a modern language like ML.   
+              Products of this research will include a compiler workbench that can be tuned
+              with respect to flow information, experimental results indicating the
+              effectiveness of type and flow information in compilation, and the design,
+              implementation and evaluation of a new framework for the compilation of program
+              fragments.

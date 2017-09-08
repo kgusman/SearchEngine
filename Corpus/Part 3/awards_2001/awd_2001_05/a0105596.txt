@@ -1,0 +1,53 @@
+Title       : Scalable Optimization of Generic Java
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 26,  2001 
+File        : a0105596
+
+Award Number: 0105596
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $220000             (Estimated)
+Investigator: Robert S. Cartwright cork@rice.edu  (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,9218,HPCC,
+Abstract    :
+              Java programmers rely on clumsy "erasure" idiom to define generic operations:  a
+              generic class is represented by conventional classes where all references to
+              type parameters have been replaced by the type Object.  Programs that rely on
+              this idiom must repeatedly cast the results of generic operations to the types
+              of omitted type parameters.  Generic operations in Java are slower than their
+              non-generic counterparts because this idiom introduces a level of indirection
+              in the representation of type parameters instantiated as primitive
+              types.
+
+The investigator has recently completed the construction of a
+              prototype compiler for NexGen, a Java extension supporting genericity designed
+              by the investigator and Guy Steele.  The compiler relies on the erasure idiom
+              to implement genericity and hence does not improve the performance of
+              computations involving generic classes.
+
+To produce good performance for
+              generic Java, a compiler must eliminate indirection in the representation of
+              generic class instances.  The requisite transformation is called {\em whole
+              program analysis} because it is invalid if any program operation depends on the
+              address of an inlined object.  Fortunately, there is a nearly linear algorithm
+              based on previous work by the investigator on concrete type analysis that can
+              determine if a given object field can be inlined.
+
+This project will develop
+              a new optimizing compiler for NextGen that uses concrete type analysis to
+              inline the parametric fields of generic classes.
+

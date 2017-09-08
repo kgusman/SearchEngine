@@ -1,0 +1,52 @@
+Title       : Power-Efficient Ad Hoc Mobile Networking
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 24,  1998    
+File        : a9706080
+
+Award Number: 9706080
+Award Instr.: Continuing grant                             
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $97968              (Estimated)
+Investigator: Suresh P. Singh   (Principal Investigator current)
+Sponsor     : U of SC Columbia
+	      Byrnes Building, Room 511
+	      Columbia, SC  29208    803/777-7093
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Consider the problem of establishing a temporary network in a region  hit by
+              some natural disaster. Such a network would, for example, allow  medics in the
+              field to retrieve patient history from hospital  databases, allow insurance
+              companies to file claims from the field,  etc. Ideally, setting up such a
+              network should involve no more than  equipping medics with PDAs (Personal
+              Digital Assistants) that have  radio capability and providing one or more
+              ``gateways'' that connect  this ad hoc network with the outside world.    A
+              fundamental problem in setting up such a network is routing packets  between
+              nodes in the ad hoc network. Why is this a difficult problem?  The primary
+              reason is that as nodes move about the network topology  changes and thus
+              routes need to be constantly updated. Furthermore,  natural obstacles may have
+              the effect of partitioning the network for  brief periods of time. Thus,
+              packets enroute to a destination that no  longer lies in a partition may be
+              dropped (even though the partition  is short-lived). Finally, an overreaching
+              constraint on any solution  is the problem of very limited battery life at each
+              mobile. Thus,  while a specific protocol may route packets optimally, it may
+              cause an  inordinate amount of power drain causing mobiles to run out of power 
+              quickly.    In this research, we will develop routing protocols that are 
+              power-efficient (i.e., the battery life of mobiles is maximized) while  still
+              providing near-optimal routing functionality. In addition, these  protocols
+              will support Quality of Service (QoS) guarantees by performing  demand-based
+              route discovery. Other protocol support for QoS, such as  loss profiles for
+              dynamic adaptation to bandwidth changes, will also  be incorporated. Finally,
+              the routing protocols will implement  cache-and-forward packet routing to deal
+              with short-lived network  partitions.    Papers and other documents related to
+              this research project may be  found at http://www.cs.sc.edu/~singh/adhoc.html.

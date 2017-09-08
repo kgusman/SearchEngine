@@ -1,0 +1,57 @@
+Title       : Local Cuts in Discrete Optimization and Mixed-Integer Programming
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : April 3,  2003      
+File        : a0245609
+
+Award Number: 0245609
+Award Instr.: Continuing grant                             
+Prgm Manager: Ronald L. Rardin                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  2003        
+Expires     : April 30,  2006      (Estimated)
+Expected
+Total Amt.  : $374959             (Estimated)
+Investigator: William J. Cook   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 5514      OPERATIONS RESEARCH
+Fld Applictn: 0107000   Operations Research                     
+Program Ref : 9147,MANU,
+Abstract    :
+              Solution algorithms for difficult discrete optimization problems often rely on
+              problem-specific cutting-planes to improve the associated linear-programming
+              relaxations.  It is standard practice to look for cutting planes that match
+              prescribed templates, where the templates are drawn exclusively from the set of
+              linear inequalities that induce facets of the convex hull of the solution set
+              for the problem.  In the traveling salesman problem (TSP) research of
+              Applegate, Bixby, Chvatal, and Cook, an alternative to this template paradigm
+              for cutting planes was proposed.  The new procedure is called local cuts and it
+              played a crucial role in the solution of a set of large-scale TSP instances,
+              including a 13,509-city example and a 15,112-city example.  The goal of this
+              project is to extend the local-cut procedure to other classes of discrete
+              optimization problems and to general mixed-integer programming models.  The
+              local-cut procedure consists of selecting a family of linear mappings taking
+              the original solution space down to one of low dimension, and selecting a
+              super-set of the image that is accessible, that is, it is easy to optimize
+              linear functions over the super-set.  Using delayed column-generation, cutting
+              planes for the accessible set are determined; these cuts are then mapped back
+              to cutting planes in the original set of variables.  This project will continue
+              the investigation of local cuts for the TSP, but a major part of the work will
+              be to develop the methodology for other classes of problems, including
+              mixed-integer programming models, vehicle routing, steiner trees, and stable
+              sets.
+
+Broader Impact.  Discrete optimization is used to solve practical
+              problems that involve choosing the best alternative from a field of
+              possibilities; it has broad applications in nearly every segment of the
+              economy. The local-cut techniques developed in the proposed project will permit
+              the solution of larger, more-complex problem instances, allowing users to be
+              more aggressive in building models to represent the details of their
+              applications.
+

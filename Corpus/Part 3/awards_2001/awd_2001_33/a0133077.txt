@@ -1,0 +1,48 @@
+Title       : CAREER:The Impact of Resource Scheduling on Improving Server Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 26,  2001  
+File        : a0133077
+
+Award Number: 0133077
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2002      
+Expires     : February 28,  2007   (Estimated)
+Expected
+Total Amt.  : $350000             (Estimated)
+Investigator: Mor Harchol-Balter harchol@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9218,HPCC,
+Abstract    :
+              This proposal tackles fundamental problems in system design using a two-pronged
+              approach including both queueing theory and kernel-level implementation. 
+              Particular emphasis is placed on understanding the impact of heavy-tailed
+              properties in compute workloads.  The proposal
+focuses on two specific
+              research questions:
+
+(1) Is it possible to reduce the expected response time
+              of every request at a server, simply by changing the order in which requests
+              are scheduled?  Todays web servers employ FAIR scheduling, wherein requests are
+              time-shared fairly.  This proposal considers instead
+scheduling which biases
+              towards SHORT requests, and argues analytically and via implementation that
+              biasing towards SHORT requests improves response times for all requests.
+
+(2)
+              How should servers be designed to cope with transient overload conditions? 
+              Most of client dissatisfaction can be attributed to moments of temporary
+              overload at the server.  This proposal aims to  understand exactly what happens
+              to systems during overload, both via a formal queueing analysis and via a
+              rigorous systematic study of server/OS internals.
+

@@ -1,0 +1,49 @@
+Title       : Compilation and Design for Parallel Computer Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 15,  1992      
+File        : a9110261
+
+Award Number: 9110261
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1991      
+Expires     : December 31,  1993   (Estimated)
+Expected
+Total Amt.  : $63296              (Estimated)
+Investigator: Matthew T. O'Keefe okeefe@ece.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2880,9264,
+Abstract    :
+              SIMD (Single Instruction stream, Multiple Data stream) and VLIW (Very          
+              Long Instruction Word) architectures have been successful as targets           
+              for parallelizing compilers in large part because they resolve                 
+              synchronizations statically, at compile-time, yielding zero run-time           
+              cost for synchronization between processes.  However, since SIMD and           
+              VLIW machines support only a single control flow thread, they cannot           
+              execute distinct loops, conditional statements, subroutine calls, nor          
+              even variable-time-instructions in parallel.  Hence, much program              
+              parallelism must be ignored, and the resulting serialization of code           
+              can dramatically reduce speedup and efficiency.  Recently, a new               
+              architecture called barrier MIMD (Multiple Instruction                         
+              stream, Multiple Data stream) architectures has been introduced as a           
+              new parallel MIMD architecture that can retain the static scheduling           
+              advantages of SIMD and VLIW, but also execute in parallel almost any           
+              programming language construct.  The result is that a far larger               
+              amount of program parallelism can be exploited by a parallelizing              
+              compiler and efficiently executed on a barrier MIMD.  The objective of         
+              this project is to improve and advance the compiler technology                 
+              capable of exploiting barrier MIMD hardware.  Instruction and data             
+              memory hardware designs which exploit static, compile-time knowledge           
+              to dramatically increase barrier MIMD performance will also be                 
+              investigated.

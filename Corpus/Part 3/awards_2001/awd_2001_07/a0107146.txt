@@ -1,0 +1,100 @@
+Title       : Temporally Uniform Grid Convergence of Discrete Approximations and Numerical
+               Simulations in the Problems of Wave Propagation over Unbounded Domains
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 20,  2001    
+File        : a0107146
+
+Award Number: 0107146
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2001    
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $94989              (Estimated)
+Investigator: Semyon V. Tsynkov tsynkov@math.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Two major well-recognized difficulties in numerical simulation of
+              waves
+propagating over unbounded domains are the accumulation of error during
+              
+long time intervals and necessity to truncate the domain and subsequently
+              
+set the artificial boundary conditions (ABCs) at the external
+              artificial
+boundary. These two issues turn out to be closely related. In the
+              previous
+work of the PI with collaborators that has been done in the framework
+              of
+the scalar wave equation, we have used the inherently three-dimensional
+              
+phenomenon of lacunae and developed a methodology that modifies any
+              
+appropriate discrete scheme so that the long-term error buildup is fully
+              
+eliminated while all of the original properties of the scheme (e.g., order
+              
+of accuracy) are preserved. Moreover, the procedure allows one to replace
+              
+the original infinite domain by a finite computational domain, which leads
+              
+to obtaining highly accurate non-local unsteady ABCs. These ABCs are built
+              
+directly for the discrete formulation of the problem, their temporal
+              non-
+locality is fixed and limited, and they possess full geometric
+              universality. 
+The key objective of the proposed project is to extend the
+              aforementioned 
+methodology to wave-type models of practical interest, in
+              particular, the 
+Maxwell's equations (electromagnetic waves) and the
+              linearized Euler's and 
+full-potential equations (acoustic waves). The
+              attainability of this goal 
+is accounted for by the fact that the solutions to
+              these equations have 
+sharp aft fronts of the waves (manifestation of
+              lacunae), which is the 
+exact same behavior as displayed by the solutions to
+              the wave equation.
+
+Numerical simulation of waves on unbounded domains has
+              numerous applications 
+that range from scattering of electromagnetic waves
+              from aircraft and ground 
+vehicles (radar technology) to antenna design to
+              calculation of the acoustic
+fields produced by the airframe and airplane's jet
+              engines for the purpose of 
+reducing the noise levels around airports, as well
+              as inside the passenger 
+compartments. The results that we expect to obtain
+              are going to benefit the 
+foregoing applied areas. Indeed, we anticipate the
+              creation of a universal 
+framework that would allow one to modify a wide class
+              of already existing and 
+proven methods so that to enable two additional
+              crucial capabilities -- long-
+term integration and accurate computation of
+              infinite-domain wave fields on 
+truncated domains. Besides, as the proposed
+              research unfolds, it will 
+necessarily include communication and collaboration
+              with physicists and 
+engineers, as well as preparation of course materials and
+              training young 
+researchers.
+

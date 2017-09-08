@@ -1,0 +1,86 @@
+Title       : Studies in Numerical Solution of Ordinary Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a9971164
+
+Award Number: 9971164
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $105000             (Estimated)
+Investigator: Zdzislaw Jackiewicz jackiewi@math.la.asu.edu  (Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              
+Jackiewicz
+
+It is the purpose of this project to study various acceleration
+              
+techniques for continuous and discrete waveform relaxation
+iterations. These
+              techniques include exponential, polynomial or
+Toeplitz preconditioning and/or
+              overlapping components of the 
+system. We will also study the construction and
+              implementation 
+of novel numerical methods for ordinary differential
+              equations
+which are special cases of general linear methods. Such methods
+              
+are appropriate for nonstiff or stiff differential systems in a
+sequential
+              or parallel computing environment. These methods have
+also higher potential to
+              preserve qualitative properties of the 
+solution than classical methods. This
+              potential will be exploited
+to integrate wave propagation problems with
+              absorbing boundary
+conditions.
+
+The research supported by this proposal will
+              lead to the development
+of modern software for the solution of many problems
+              in science and
+engineering which are governed by large differential systems.
+              This
+software will be based on novel numerical methods developed in the
+past
+              few years by the principal investigator and his coworkers and 
+will utilize
+              modern computer architecture by splitting the underlying
+large problem into
+              smaller subsystems or subproblems which can then be 
+solved in parallel by
+              allocating them to different processors. 
+Numerical experiments on many
+              problems, for example, acoustic wave
+propagation, chemical reactions,
+              movements of a plate under the load
+of a car passing through it, catastrophe
+              model for the nerve impulse
+mechanism, model that describes the dynamics of a
+              system with large
+number of particles which can form clusters, and
+              reaction-diffusion
+systems, indicate that these novel methods are more
+              efficient and 
+robust and better suited to take advantage of the
+              state-of-the-art
+computer architecture than the methods which are currently in
+              use for
+these problems.
+

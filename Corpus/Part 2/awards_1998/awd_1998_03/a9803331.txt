@@ -1,0 +1,64 @@
+Title       : Numerical Methods for Large-Scale Modeling of Ocean Circulation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 3,  1998     
+File        : a9803331
+
+Award Number: 9803331
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1998     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $86083              (Estimated)
+Investigator: Robert L. Higdon higdon@math.orst.edu  (Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,1339,OTHR,
+Abstract    :
+              Higdon  9803331       The investigator develops improved algorithms for
+              computing  numerical simulations of ocean circulation.  One motivation for 
+              this work is to improve the numerical methods used in the Miami  Isopycnic
+              Coordinate Ocean Model (MICOM), but this work also has  broader application. 
+              MICOM is an operational ocean model that is  currently being tested at Los
+              Alamos National Laboratory and  elsewhere for use in coupled, ocean-atmosphere
+              models of the  global climate system.  This model presently uses a three-level 
+              timestepping scheme that, in practice, requires a restriction on  the time step
+              that is more severe than would be expected from  standard theory.  In addition,
+              the model is affected by a  computational mode consisting of nonphysical
+              grid-scale  oscillations, which are particularly stimulated by the behavior  of
+              MICOM's representation of the oceanic mixed layer.  As an  alternative, the
+              present project investigates methods involving  two time levels.  Such methods
+              have the potential of allowing a  substantially longer time step, require less
+              storage, and do not  admit a computational mode.  These methods are analyzed
+              and  implemented in conjunction with a barotropic-baroclinic time  splitting,
+              which is used to split the fast and slow motions into  separate subsystems that
+              are solved by different techniques.       One application of computer models of
+              ocean circulation is  to aid in the study of the earth's climate system.  For
+              example,  a major point of interest in climate modeling is the poleward 
+              transport of heat.  If the atmosphere and ocean were held  stationary, the
+              tropical regions would be hotter than they  actually are, and the polar regions
+              would be colder.  However,  the movement of the atmosphere and ocean serves to
+              moderate these  extremes.  Roughly half of the poleward transport of heat is
+              due  to the atmosphere, and half is due to the ocean.  In the ocean, 
+              substantial transport is due to bulk movement by currents such as  the Gulf
+              Stream; another transport  mechanism is the mixing caused  by eddies that are
+              shed from ocean currents due to hydrodynamic  instability.  A proper modeling
+              of these phenomena requires high  spatial resolution and computations over long
+              time intervals, and  climate-scale simulations of ocean circulation pose great 
+              computational challenges that strain the capabilities of the most  powerful
+              computers.  The aim of the present project is to improve  the efficiency and
+              reliability of the algorithms that are used in  such computations.  A
+              full-scale climate model would require both  a model of the atmosphere and a
+              model of the ocean, and these  components must communicate in a way that
+              simulates the  interaction of the real atmosphere and ocean.  The present 
+              project focuses on an existing ocean model that is being prepared  at several
+              sites for large-scale, coupled ocean-atmosphere  simulations.

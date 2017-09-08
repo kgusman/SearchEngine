@@ -1,0 +1,58 @@
+Title       : A Study of Concatenated Codes and Coded Modulation Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 24,  1999     
+File        : a9706045
+
+Award Number: 9706045
+Award Instr.: Continuing grant                             
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1997    
+Expires     : September 30,  2000  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Hisashi Kobayashi hisashi@ee.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                     We will investigate a general class of concatenated codes and
+              coded-modulation, by building upon our recent invention. Our concatenated
+              scheme is more general than the conventional concatenated codes in that a
+              "coder" can be a channel with memory (e.g., a partial-response channel, a
+              channel with intersymbol interference and/or multipath delays, a channel with
+              burst noise), or a modulator with some constraint or memory (e.g., continuous
+              phase modulation (CPM), trellis-coded modulation (TCM)). We can also
+              concatenate more than two coders.        In our proposed system an "ambiguity
+              zone detector (AZD)" plays a critical role.  The AZD introduces generalized
+              "erasure" symbols, and is found to be a most efficient way of exploiting
+              soft-decision outputs.  We also make use of a "permutation" and "iterative
+              decoding", as has been done in Turbo codes. But unlike the Turbo codes and such
+              other known schemes as product codes, the permutation size required for our
+              system needs not be so large.  The main advantage that differentiates our
+              approach from prior arts is its extremely simple decoding algorithm. Hence, the
+              decoder is easily implementable and the decoding delay is kept minimal.       
+              The performance of our system, measured in terms of residual errors/erasures,
+              is extremely good. For example, our initial result obtained for a system which
+              adopts a Hamming code  and a partial-response channel G(D)=1+D demonstrates
+              that our decoding algorithm converges within several iterations, and produces
+              nearly error-free outputs even when more than 50% of the AZD outputs are
+              labeled "erasures".    In this proposed study we intend to perform the
+              following research tasks:    1. Simulation of specific application examples
+              (e.g., partial-response channels,   wireless channels with CPM)  2.
+              Determination of  good permutations and effective decoders (e.g., optimal
+              selections of the ambiguity zones)  3. Performance analysis of the proposed
+              codes, and coded modulation schemes  (e.g., bounds and approximation for t he
+              decoding error probability)  4. Construction of powerful codes, using a more
+              general concatenation topology (e.g. a parallel-serial concatenation), and the
+              corresponding decoding procedures.    We also expect that insights to be gained
+              in the present study should lead to a better understanding of the Turbo codes,
+              and vice versa.

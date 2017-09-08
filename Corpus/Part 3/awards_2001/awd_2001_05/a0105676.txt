@@ -1,0 +1,51 @@
+Title       : High-Performance Internet Router Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  2002       
+File        : a0105676
+
+Award Number: 0105676
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $210042             (Estimated)
+Investigator: Laxmi N. Bhuyan bhuyan@cs.ucr.edu  (Principal Investigator current)
+Sponsor     : U of Cal Riverside
+	      Office of Research Affairs
+	      Riverside, CA  925210217    909/787-5535
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              With communication link speed exceeding terabit per second, packet processing at
+              the routing processors is becoming the main bottleneck in network services. 
+              The workload for these processors is very different compared to the
+              general-purpose processors.
+
+The two-year project develops necessary
+              benchmark and simulation environment to analyze the impact of new architectural
+              ideas, such as instruction-level parallelism, branch prediction, speculative
+              execution, lock-up free caches and multiprocessing, on the performance of
+              Internet router architectures.  First, it creates suitable workload by
+              developing a set of communication benchmark programs that normally execute on
+              high-performance routers.  These programs are executed on commercially
+              available processors and their performance is compared with other standard
+              benchmark applications.
+
+The main contribution of the project lies in
+              development of an execution-driven simulator for the router, where these
+              communication programs are compiled and executed.  The simulator incorporates
+              the network processor, line cards, and the backbone crossbar switch.  The input
+              data to the simulator is obtained from real Internet traces, such as NLANR and
+              UCB.  By incorporating new ideas in instruction-set design, memory subsystem,
+              packet scheduling, and multiprocessing into the simulator, architectures for
+              the next-generation Internet routers are developed and tested in this
+              project.
+

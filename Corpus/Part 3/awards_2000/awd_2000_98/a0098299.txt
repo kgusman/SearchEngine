@@ -1,0 +1,55 @@
+Title       : Translation Validation of Advanced Compiler Optimizations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2001      
+File        : a0098299
+
+Award Number: 0098299
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $239999             (Estimated)
+Investigator: Lenore D. Zuck   (Principal Investigator current)
+              Amir Pnueli  (Co-Principal Investigator current)
+              Benjamin Goldberg  (Co-Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/998-2121
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Title:  Translation Validation of Advanced Compiler Optimizations 
+PI:  Lenore
+              Zuck
+Proposal Number:  CCR-0098299
+
+This goal of the research is to advance
+              the state of the art in ensuring the correctness of compilation in the presence
+              of extensive optimization.  This will be achieved via the use of translation
+              validation where, rather than verifying the compiler itself one constructs a
+              tool that formally confirms that the target code produced by each run of the
+              compiler is a correct translation of the source program.  The methods being
+              developed will handle an extensive set of optimizations for modern
+              architectures, ranging from high level loop optimizations that dramaically
+              change the structure of a program to low level machine dependent optimizations,
+              such a instruction scheduling.  
+
+The research will first develop the theory
+              of a correct translation.  Special care will be taken to obtain a maximally
+              faithful representation of hardware factors characteristic of modern
+              architectures, such as instruction latencies, CPU resources, etc.
+
+The
+              preferred (and often mandatory) approach is that the validator tool should
+              derive all of this information automatically by a carefully analysis of the
+              source and the target.   A major component of the secondpart of the proposal
+              will be dedicated to the development of heuristics and analysis techniques by
+              which this task can be accomplished.

@@ -1,0 +1,52 @@
+Title       : Mathematical Sciences: High Order Methods for Time Dependent Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 24,  1997      
+File        : a9500814
+
+Award Number: 9500814
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  1995  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $169755             (Estimated)
+Investigator: David I. Gottlieb dig@cfm.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9216,9263,HPCC,OTHR,
+Abstract    :
+                 "High Order Methods for Time Dependent Equations"  The project entails
+              research in long term integrations of genuinely time dependent partial
+              differential equations. It involves the development and application of high
+              order finite differences and finite element schemes as well as Spectral
+              methods. The methods to be developed and applied are suitable for problems in
+              several space dimensions with complicated geometries. A major consideration in
+              developing and assessing high order methods for long term integrations is their
+              scalability. Based on the experience gained already in parallelizing ENO codes,
+              a further effort to parallelize spectral and finite element based ENO codes is
+              proposed. The research has two components, theory and applications, those
+              components are linked together.  The theory is motivated by the type of
+              applications under investigation and the applications use the theoretical
+              developments.  It has been shown that in order to numerically simulate
+              complicated flows that change in time, high order methods are necessary.
+              However those methods, because of their high accuracy, are less robust. The
+              proposed research deals with the issue of the successful implementations of
+              high order methods.  This involved theoretical issues (as solving the 100 years
+              old Gibbs Phenomenon) as well as more applied issues. On the applied side, the
+              problem of mixing enhancement by interactions of Shock waves and hydrogen jets
+              will be studied. This entails the simulation of an air shock passing through an
+              hydrogen jet in high Mach numbers. High order methods are mandatory here since
+              the process of interest is the mixing and combustion inside the jets. The
+              current codes, Spectral and ENO are to be modified to handle more general
+              cases.  Parallel versions of ENO and spectral methods are being applied now and
+              will be further modified.

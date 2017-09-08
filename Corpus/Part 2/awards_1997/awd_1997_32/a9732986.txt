@@ -1,0 +1,77 @@
+Title       : CAREER: Robust Learning Control with Application to Intelligent Building Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 9,  2000     
+File        : a9732986
+
+Award Number: 9732986
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : May 1,  1998        
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Peter M. Young pmy@engr.colostate.edu  (Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1045,1187,OTHR,
+Abstract    :
+              9732986
+Young
+The research focuses on the development of new methodologies for
+              robust controller analysis and design, which will be combined with
+              reinforcement learning techniques to develop a new control paradigm: robust
+              learning control.  These new analysis and design tools will then be used to
+              address two specific application areas for intelligent building systems:
+              structural control and environmental control.  These problems are highly
+              multidisciplinary in nature, and present interesting and important research
+              challenges.  At the same time simplified versions of these problems will be
+              used as effective educational tools in a multidisciplinary undergraduate
+              teaching laboratory.
+
+The theoretical and computational part of the work will
+              aim towards developing computationally efficient analysis and synthesis methods
+              for a general class of robust performance problems for complex multivariable
+              uncertain systems.  These will allow one to address problems with parametric
+              uncertainty and (possibly nonlinear) dynamic uncertainty, with both unknown
+              disturbances and known fixed inputs.  These theoretical results will be used as
+              the basis for studying reinforcement learning controllers, by developing an
+              uncertainty model for the learning process within the above robustness
+              framework.  This will in turn be used to develop a new controller design
+              methodology for robust leaning controllers, which combine the best aspects of
+              robust and reinforcement learning control.  The controller will have guaranteed
+              insensitivity to plant/parameter variations and disturbance signals, while at
+              the same time it will be capable of precisely tuning itself to the
+              nonlinearities and time-variations of a particular plant.
+
+The first
+              application area for these new techniques will be vibration supression in tall
+              buildings.  The buildings will be subjected to loading which might arise from
+              earthquakes and/or high winds.  The goal is to equip the building with sensors
+              and actuators under computer control, creating an intelligent building which
+              has the ability to sense and react to its enviroment.  Computer simulations,
+              based on mathematical models, will be comtined with wind-tunnel experiments on
+              a dynamically-scaled physical model.  A DSP-based real-time digital feedback
+              control scheme will be used to implement advanced feedback controllers,
+              operating at a sufficiently high bandwidth to effect control of wind-induced
+              vibration on the structure.
+
+These techniques will also be applied to design
+              controllers for building environmental systems.  These Heating, Ventilation,
+              and Air-Conditioning (HVAC) systems present very challenging control problems
+              because they are complex nonlinear time-varying systems, and yet the controller
+              is required to function on first powering up, preferably without human
+              intervention.  Furthermore, high performance is required for energy efficiency,
+              while at the same time robust stability is essential for safety reasons.  The
+              new robust learning controllers will be tested both in simulation and on an
+              experimental HVAC system.  
+***  
+

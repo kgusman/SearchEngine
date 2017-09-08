@@ -1,0 +1,46 @@
+Title       : Postdoc: Portable Parallel Preconditioning
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 15,  1996    
+File        : a9626298
+
+Award Number: 9626298
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: John R. Gilbert   (Principal Investigator current)
+Sponsor     : Xerox-Palo Alto Res Ctr
+	      3333Coyote Hill Road
+	      Palo Alto, CA  94304    650/812-4073
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              This project will study parallel preconditioners used by iterative methods to
+              solve general sparse linear systems of equations.  The new preconditioning
+              algorithms will be based on Incomplete Factorization of Complete Matrices
+              (IFCM; for example, ILU) and Complete Factorization of Incomplete Matrices
+              (CFIM).  The latter approach is rather new.  The PI plans to extend the
+              combinatorial algorithms developed in the parallel direct methods to the
+              construction of parallel preconditioners.  By exploiting both structural and
+              algebraic features of the original matrix, they will design parallel linear
+              solvers with a blend of techniques along the continuous spectrum from pure
+              iterative to pure direct methods.  The new preconditioners are independent of
+              problem domain, and hence are suitable to be used in general-purpose library
+              software.  Besides fundamental algorithms research, the PI will produce widely
+              usable parallel libraries and tools for computational scientists and engineers.
+              The preconditioning software will be based on and augment the best available
+              parallel direct-method software and tools, some of which is being developed in
+              the PIs thesis work.  The new algorithms and libraries will be bench marked in
+              several applications, such as unsymmetric sparse eigenvalue computation,
+              groundwater remediation modeling, and Stokesian dynamics models of colloidal
+              suspensions.

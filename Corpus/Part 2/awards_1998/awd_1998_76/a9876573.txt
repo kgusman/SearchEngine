@@ -1,0 +1,83 @@
+Title       : Computing in Networks: Active System Area Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 16,  2001    
+File        : a9876573
+
+Award Number: 9876573
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1999      
+Expires     : March 31,  2003      (Estimated)
+Expected
+Total Amt.  : $939421             (Estimated)
+Investigator: Sudhakar Yalamanchili sudha@ece.gatech.edu  (Principal Investigator current)
+              Esther A. Hughes  (Co-Principal Investigator current)
+              David E. Schimmel  (Co-Principal Investigator current)
+              Karsten Schwan  (Co-Principal Investigator current)
+              Marcel-Catalin Rosu  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 4095,9215,9218,HPCC,
+Abstract    :
+              The confluence of computing and communication has produced an explosion of
+              network-based applications. Numerous examples can be drawn from web-based
+              applications, interactive simulations, gaming,
+visualization, and
+              collaborative environments. Current approaches to the development of
+              network-based applications are still based on a CPU-centric model using node
+              architectures optimized for uniprocessor
+or small-scale multiprocessor
+              applications. This can lead to significant inefficiencies for distributed
+              applications.
+
+This project explores an architecture for the support of
+              emerging network-based applications whereby selected application-level
+              computations are executed within network interfaces (NIs). The focus is
+              on
+networks of workstations (NOW) that have emerged as a viable high
+              performance computational vehicle. Within this context the project will support
+              applications with substantial computation and data manipulation
+requirements.
+              Such high performance programs are drawn from three different application
+              domains: scientific simulation, computer vision and image processing, and
+              computer graphics. The unique aspect of the
+approach to supporting these
+              classes of programs is the use of extensible network interfaces, where
+              extension concerns programs executed both on the low cost microprocessors
+              resident on NIs and on additional, programmable and NI-associated hardware in
+              the form of field programmable gate arrays (FPGAs). Specifically, the project
+              will demonstrate (1) the use of FPGAs to implement data-intensive
+computations
+              and (2) the use of the NIs' microprocessors to handle associated
+              meta-information and perform computationally non-intensive operations best
+              performed "close" to the network. Extensibility for NIs will be attained by
+              development of a flexible and extensible virtual communication machine. The
+              project  refers to such enhanced networks as Active System Area Networks
+              (ASANs).
+
+The key research issues are (1) to understand and demonstrate an
+              ASAN's ability to perform selected computations and services more efficiently
+              than host CPUs and to explore the effects and trade-offs of off-loading certain
+              functionality from host CPUs to the ASAN, (2) to develop the programming model
+              that enables the efficient and application-specific use of the ASAN's
+              computational resources, and (3) to create an ASAN software architecture that
+              is low overhead and easily extensible.
+
+The approach to the proposed research
+              is experimental. It includes construction of a testbed, implementation of
+              selected NI extensions for use by the three classes of parallel/distributed
+              applications investigated in this work and performance evaluation of the
+              resulting system/application performance. Successful demonstration of
+              the>approach will have a major impact the way future multimedia network
+              applications are designed, optimized, and supported.
+
+

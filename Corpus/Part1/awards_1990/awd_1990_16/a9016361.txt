@@ -1,0 +1,49 @@
+Title       : Network Protocols for Broadcast Communication
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 4,  1992       
+File        : a9016361
+
+Award Number: 9016361
+Award Instr.: Continuing grant                             
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1991        
+Expires     : April 30,  1994      (Estimated)
+Expected
+Total Amt.  : $195636             (Estimated)
+Investigator: P M. Melliar-Smith pmms@ece.ucsb.edu  (Principal Investigator current)
+              Louise E. Moser  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      c/o Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+                 The computer of tomorrow will be a fault tolerant network in                
+              which communication is a fully integrated function equal in                    
+              significance to storage and processing.  In such a network,                    
+              challenging problems arise from the need to maintain consistency               
+              of the data and of processing.  These problems are currently solved            
+              using agreement protocols that require many message frames to be               
+              exchanged with adverse effects on network performance.  The                    
+              approach of this research to maintaining consistency is based on               
+              two novel protocols.  The Trans protocol provides efficient                    
+              reliable broadcast or multicast communication.  The Total protocol             
+              promptly places a total order on message frames and achieves                   
+              distributed agreement in the presence of communication faults and              
+              of fail-stop, timing, omission, and Byzantine processor faults.                
+              The Trans and Total protocols are intended to be used in local area            
+              networks such as Ethernet, token ring or FDDI ring.  By exploiting             
+              the inherent broadcast characteristics of the physical                         
+              communication medium, substantial improvements in performance can              
+              be achieved.  The design of fault-tolerant networks is greatly                 
+              simplified when consistency between distributed components of the              
+              network is maintained by the communication function.

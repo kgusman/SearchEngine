@@ -1,0 +1,128 @@
+Title       : Object Store Garbage Collection
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : April 16,  1999     
+File        : a9632284
+
+Award Number: 9632284
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $200820             (Estimated)
+Investigator: J. Eliot B. Moss moss@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              The project adapts and extends an existing block-by-block main-memory garbage
+              collection scheme, called Mature Object Space, for use in collecting persistent
+              object stores. The scheme will locate and reclaim database memory containing no
+              longer accessible data. This will relieve programmers of the burdensome and
+              error-prone task of indicating which memory can be reused, thus allowing better
+              programming styles. The algorithm is the first to work block by block
+              (important for integrating nicely with databases) and to guarantee to find all
+              inaccessible memory. It can also help reorganize (recluster) data and thus
+              improve store performance. The algorithm is incremental, with a coarse
+              granularity (collecting one block at a time).  A significant contribution of
+              the research is the algorithm itself. Perhaps more significant will be the
+              implementation and measurement of the algorithm, and investigation of how to
+              incorporate reclustering.  The resulting storage management techniques will be
+              suitable for incorporation into practical database management systems,
+              guaranteeing that storage is not `lost` but eventually `found` and `recycled`
+              for further use. The techniques will be substantially independent of storage
+              management policy, allowing policy to be chosen by database implementors and
+              application builders to best suit their needs.                                 
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                          

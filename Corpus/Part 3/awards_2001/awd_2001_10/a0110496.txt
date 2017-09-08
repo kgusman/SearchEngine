@@ -1,0 +1,84 @@
+Title       : ITR/SY: Non-Deterministic Computations for Functional Logic Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2001      
+File        : a0110496
+
+Award Number: 0110496
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2001      
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $186000             (Estimated)
+Investigator: Sergio Antoy antoy@cs.pdx.edu  (Principal Investigator current)
+Sponsor     : Portland State University
+	      P O BOX 751
+	      Portland, OR  972070751    503/725-3423
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1658,9216,HPCC,
+Abstract    :
+              0110496
+Sergio Antoy
+Portland State University
+
+ITR/SY: Non-Deterministic
+              Computations for Functional Logic Programs
+    
+Abstract:
+
+    Narrowing
+              allows the seamless integration of functional and logic
+    computations. A
+              narrowing strategy selects from an expression the
+    subexpression(s) to
+              evaluate and instantiates variables if
+    necessary. Different selection
+              strategies extend from functional
+    to functional logic programming
+              computational behaviors such as
+    call-by-value and call-by-need. Sound,
+              complete, and optimal (to
+    varying degrees) strategies are known for both
+              Haskell-like
+    programs and programs that allow some forms of parallelism.
+
+                 
+    Unfortunately, these classes of programs do not support
+   
+              non-deterministic computations. The lack of non-determinism is a
+    severe
+              limitation in functional logic languages. It prevents the
+    use of familiar
+              logic programming idioms and, in some cases, leads
+    to programs that
+              violate the inherent laziness of a problem. The
+    research proposes a new
+              computational framework, a class of
+    programs, and a strategy for narrowing
+              computations in this class
+    that supports non-determinism without loss of
+              soundness,
+    completeness or efficiency. Within this framework, programs
+              become
+    textually shorter, conceptually simpler, more modular, easier to
+ 
+                understand and maintain, and arguably more efficient.
+    
+    The proposed
+              strategy has the potential to encompass strategies
+    for other interesting
+              classes of functional logic programs and it
+    is expected to unify various
+              concurrent disjoint efforts aiming at
+    integrating different narrowing
+              strategies within a single
+    language.
+
+

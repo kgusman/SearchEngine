@@ -1,0 +1,49 @@
+Title       : STIMULATE: Modeling Structure in Speech above the Segment for Spontaneous Speech
+               Recognition
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 26,  2001  
+File        : a9996450
+
+Award Number: 9996450
+Award Instr.: Continuing grant                             
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $221100             (Estimated)
+Investigator: Mari Ostendorf mo@ee.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 6845      HUMAN COMPUTER INTER PROGRAM
+Fld Applictn: 
+Program Ref : 9139,HPCC,
+Abstract    :
+              Current   speech   recognition  technology,   while   useful   in  constrained 
+              domains with cooperative speakers,  still  leads  to  unacceptably   high  
+              error  rates  (30-50%)   on   unconstrained  conversational  or  broadcast
+              speech.   An  important  difference  between  these tasks and high accuracy
+              conditions is  the  larger  variability  in speaking style, even within data 
+              from  a  single  speaker.   Existing  acoustic  models  do  not  account  for 
+              the  systematic   factors   behind  this  variability   so   must   be 
+              ``broader,'' leading to more confusability among words and  hence  high  error
+              rates.  This work proposes to improve acoustic models  by  representing sources
+              of variability at three time scales: the  syllable, short regions within an
+              utterance, and the speaker.  At  the  syllable  level, automatic clustering
+              will capture  syllable  position and phonetic reduction effects.  At the region
+              level,  a  slowly  varying  hidden  speaking mode will  indicate  systematic 
+              differences in pronunciations associated with reduced vs. clearly  articulated
+              speech. At the speaker level, hierarchical models  of  the  correlation among
+              speech sounds will improve  adaptation  of  acoustic  models  from small
+              amounts of data.   Experiments  will  involve  large  vocabulary recognition of
+               conversational  speech  using  a  multi-pass search strategy to handle the 
+              cost  of  the  higher-order  models  proposed here. By  representing 
+              systematic  variability, the proposed work should significantly advance  both 
+              the  target  task of unconstrained speech recognition and  human-  computer
+              speech communication more generally.

@@ -1,0 +1,56 @@
+Title       : Digital Cancellation of Analog Mismatch Noise in Pipelined ADCs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 18,  2002      
+File        : a0073552
+
+Award Number: 0073552
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $272395             (Estimated)
+Investigator: Ian Galton galton@ece.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The purpose of this research is to extend the present performance limits of
+              pipelined analog-to-digital converters (ADCs) through the development of a
+              digital signal processing technique that corrects for analog circuit
+              mismatches.  With recent trends toward software reconfigurability and digital
+              signal processing, pipelined ADCs have become widely used in applications such
+              as cellular telephone base-stations and wideband wireline modems.  However,
+              analog component mismatches have limited the accuracy achieved by present
+              fabricated pipelined ADCs to levels below those desirable in many
+              communications applications.  For example, the accuracy ceiling imposed by
+              analog component mismatches in present pipelined ADCs with conversion rates at
+              or above 10MHz is approximately 75dB peak signal-to-noise-and-distortion
+              (SINAD).  Several distinct mismatch calibration techniques have been proposed
+              in recent years to address the mismatch problem, but so far they have not made
+              it possible to break through the above-mentioned 75dB SINAD ceiling.  The
+              problem is that the calibration techniques proposed to date are ultimately
+              limited by the precision of their analog components, which tends to decrease as
+              the conversion rate is increased.  This research involves the development of a
+              new pipelined ADC mismatch calibration technique that avoids this problem. The
+              new technique differs from other mismatch calibration schemes in that it
+              continuously measures and cancels noise in the ADC output arising from
+              component mismatches during normal operation of the ADC; no special calibration
+              signals or auto-calibration phase are required prior to A/D conversion.  Both
+              the measurement and cancellation of mismatch noise are performed entirely using
+              digital logic, but unlike previously proposed digital calibration techniques
+              the technique does not require additional pipeline stages or bits per stage.
+              The objectives of the research are to 1) refine the technique, 2) quantify its
+              performance limits through simulation and theoretical analyses, and 3) develop
+              a CMOS pipelined ADC prototype that achieves record-setting performance enabled
+              by the technique as a proof-of-principle.
+

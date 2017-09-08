@@ -1,0 +1,44 @@
+Title       : ITR: DREAM -- Dynamic Re-optimization for Application Migration
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 29,  2002    
+File        : a0220021
+
+Award Number: 0220021
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $413623             (Estimated)
+Investigator: Wei Hsu hsu@cs.umn.edu  (Principal Investigator current)
+              Pen-Chung Yew  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1658,1686,9218,HPCC,
+Abstract    :
+              EIA-0220021 Wei-Hsu University of Minnesota-Twin Cities ITR: DREAM-Dynamic
+              RE-optimization for Application Migration
+
+This project proposes the design
+              and implementation of a common dynamic binary re-optimization system called
+              DREAM (Dynamic RE-optimization for Application Migration).  DREAM can be used
+              for migrating compatible legacy application binaries such as moving
+              applications in Intel 486 code to Pentium IV processors, or moving
+              IA-64/Itanium code to IA-64/McKinley processors.  DREAM can also be used to
+              improve the performance of migrating incompatible application binaries, such as
+              moving applications in Unisys x2200 code to the new IA-64 processors.  In this
+              case, a dynamic translator first translates the incompatible binaries into
+              native code and stored in a translation cache.  DREAM will focus on speeding up
+              the native code stored in the translation cache.  Furthermore, DREAM can be
+              used to speed up applications released in intermediate form that may require
+              generating native code dynamically for higher execution efficiency.
+

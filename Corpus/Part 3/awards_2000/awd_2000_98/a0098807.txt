@@ -1,0 +1,55 @@
+Title       : Understanding and Improving On-Line Planning Methods
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 26,  2002      
+File        : a0098807
+
+Award Number: 0098807
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $385662             (Estimated)
+Investigator: Sven Koenig skoenig@cc.gatech.edu  (Principal Investigator current)
+              Craig A. Tovey  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+This is the first year funding of a three year continuing award.   A variety
+              of on-line planning methods are used in artificial intelligence including, for
+              example, real-time search methods such as LRTA*, reinforcement-learning methods
+              such as Q-learning, and robot-navigation methods such as D*.  The PIs intend to
+              improve the performance of these and other on-line planning methods
+              substantially so that, for example, future robot-navigation methods will be
+              able to map unknown terrain significantly faster than is now possible, yet have
+              the same advantageous properties as existing on-line planning methods.   Many
+              on-line planning methods, either always or most of the time, execute actions
+              that move the agent in the perceived direction of the goal, that is, move the
+              agent so that it reduces the estimates of the goal distances the most.  
+              However, the PIs preliminary theoretical results show that executing actions
+              that move the agent in the perceived direction of the goal is usually not a
+              good idea.   For example, D* does not reach a goal location in unknown terrain
+              with a minimal travel distance in the worst case.  The key to improving the
+              performance of these on-line planning methods then is to exploit the distance
+              estimates that they maintain (or can maintain) in a way that is more directly
+              related to the planning or learning objective.   The PIs will study the
+              properties of on-line planning methods both theoretically and experimentally,
+              and will develop improved on-line planning methods that have the same interface
+              as the existing methods, which allows users of these methods to easily
+              substitute the new methods for the ones they are currently using.   Side
+              benefits of the proposed research include developing a test-bed for the
+              experimental evaluation of robot navigation methods in unknown terrain, and
+              creating a solid theoretical foundation for understanding robot-navigation
+              methods in unknown terrain, including D*.
+

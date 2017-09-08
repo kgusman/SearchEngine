@@ -1,0 +1,49 @@
+Title       : Divide and Conquer Methods for Machine Learning
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0083292
+
+Award Number: 0083292
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $374987             (Estimated)
+Investigator: Thomas G. Dietterich tgd@cs.orst.edu  (Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+                This project will develop machine learning algorithms, prototype tools, and
+              supporting theory for solving complex machine learning problems.  Existing
+              theory and algorithms have focused on learning simple classifiers that take a
+              description of an object and assign it to one of a small number of classes
+              (e.g., taking an image of a character and classifying it as one of the 26
+              letters of the alphabet).   Emerging applications in science and industry
+              require learning much more complex functions that map from complex inputs
+              (e.g., 2D maps, time series, and strings) to complex outputs (e.g., other 2D
+              maps, time series, and strings).   Despite the lack of theory covering such
+              cases, many practical systems have been built that work well in particular
+              applications.  These systems all employ some form of divide-and-conquer, where
+              the inputs and outputs are divided into smaller pieces ("windows"), classified,
+              and then the results are merged to produce an overall solution.   This project
+              will develop a general formulation of machine learning for divide-and-conquer
+              problems, a collection of algorithms for solving these problems, and a
+              prototype tool kit for solving new learning problems via the divide-and-conquer
+              approach.   In addition, theoretical models will be developed to understand the
+              tradeoffs that affect the design of divide-and-conquer systems.  The resulting
+              algorithms and theory will extend the range of problems that can be solved via
+              machine learning methods and make it easier to construct new divide-and-conquer
+              machine learning applications.  This will lead to improved performance of
+              existing machine learning applications, for example, in text processing,
+              intrusion detection, and the analysis of sensor data to signal alarms.

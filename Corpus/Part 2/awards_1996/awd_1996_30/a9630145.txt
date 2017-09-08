@@ -1,0 +1,54 @@
+Title       : The Quest for a Zero Overhead Parallel Machine
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 17,  1996      
+File        : a9630145
+
+Award Number: 9630145
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $235442             (Estimated)
+Investigator: Umakishore Ramachandran rama@cc.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              The primary goal of this project is to demonstrate the viability of cost- 
+              effective parallel computing techniques for two application domains that make 
+              computing ubiquitous.  The first one is parallel databases embodying a 
+              clients/server paradigm used in data mining/data warehousing applications.  The
+               second one is the physical simulation of virtual multimedia environments that
+              has  potential use in several everyday situations.  The challenge in this
+              domain is  to perform realistic physical simulation in real time of multiple
+              actors (some  real and some synthetic), each with several degrees of freedom. 
+              This research  will investigate the system architecture issues in the design of
+              parallel  (cluster) servers engineered with commodity processing and network
+              components for  supporting such applications.  A shared address space across
+              the cluster is an  attractive abstraction from the perspective of programming
+              such applications.   However, accessing and caching data from this shared
+              address space can be  expensive in terms of observed latencies in a cluster. 
+              Therefore, clever  techniques that hide the communication overheads for
+              accessing the shared address  space are imperative to achieving good
+              performance.  The ultimate goals is to  make the cluster server appear as
+              though the applications incur zero overhead for  communication.  Specific
+              research issues to be addressed in this research include  (a) mechanisms for
+              realizing shared address space across the cluster, (b)  mechanisms for
+              supporting variable granularity, caching, explicit communication,  and
+              synchronization (within the framework of shared space) tailored to the needs 
+              of these applications, (c) hardware assists necessary to make clusters
+              appealing  as cost-effective parallel machines, and (d) detailed performance
+              evaluations of  cluster servers under such multimedia and database workloads.

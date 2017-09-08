@@ -1,0 +1,78 @@
+Title       : Robust Feedback Control of Improper Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 22,  1997 
+File        : a9616567
+
+Award Number: 9616567
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1997    
+Expires     : September 30,  2001  (Estimated)
+Expected
+Total Amt.  : $302410             (Estimated)
+Investigator: J. Daniel Cobb cobb@engr.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECDS-9616567  Cobb    Roughly speaking, an improper system is one whose gain
+              increases over a large bandwidth.  In this project, we demonstrate the
+              importance of the problem of feedback compensation for improper dynamic systems
+              from both a theoretical and practical perspective.  In doing so, we highlight
+              specific applications which are described most naturally by improper models and
+              develop some preliminary theoretical results for the case of a single-input,
+              single-output plant.  Our results show clearly the striking differences between
+              the improper plant case and the heavily studied strictly proper case.  We then
+              proceed to frame our preliminary findings in terms of the few existing results
+              in the literature where improper systems are discussed explicitly.  The
+              importance of improper models becomes clear when one distinguishes between
+              actual system behavior and the model which is chosen to describe that behavior.
+               In practice, every physical device exhibits decreasing gain at sufficiently
+              high frequency.  Nevertheless, an improper model is sometimes still the most
+              appropriate choice for analyzing a given plant, since the exact characteristics
+              of the high-frequency roll-off may be difficult or impossible to establish and
+              may occur well outside the frequency range of primary interest.  Also, a
+              strictly proper perturbation of an improper model has higher order than the
+              improper model itself and exhibits large separation of time scales, leading to
+              difficult analytic and numerical problems.  Our main theoretical result states
+              that, for an improper plant, stabilizing compensators are characterized not
+              only by their effect on closed-loop poles but also by the high-frequency
+              interaction of plant and compensator gains in the control loop.  The
+              admissibility of this high-frequency loop interaction is determined entirely by
+              the sign of the high-frequency loop gain.  This result is based on
+              consideration of a large class of plant perturbations; it has no counterpart in
+              the theory of strictly proper systems .  In the light of our results, some
+              changes are required in those aspects of the literature which, at least
+              superficially, pertain to the improper case.  For example, the celebrated
+              Q-parametrization of stabilizing compensators does (at least nominally) apply
+              to the improper plant case.  Our results demonstrate that a small modification
+              of the theory is necessary, leading to a tightening of the constraint on the
+              parameter Q.  A significant portion of our proposed research is experimental. 
+              Several specific application areas are discussed in this proposal.  For
+              example, certain problems in motion control of passenger vehicles lend
+              themselves naturally to improper models.  We intend to pursue these problems in
+              a laboratory setting with the intention of demonstrating the advantages of
+              improper control design for certain important applications.  In the ECE
+              Department at UW, we have a preexisting laboratory facility intended for
+              precisely this kind of work.  Only small expenditures will be necessary for
+              equipment, mainly in constructing non-traditional motion sensors.   We intend
+              to carry out theoretical work which will extend the preliminary results
+              discussed in this projectl to the multivariable case.  In principle, these
+              results can be incorporated into most any area of control theory.  Some of the
+              more interesting implications of our results are related to the
+              well-established topics of Q-parametrization, robust stabilization, singular
+              perturbations, singular systems, and H2 and H( optimality.  We propose to
+              carefully develop appropriate generalizations of these theories to the improper
+              plant case to the extent that time permits.  Simultaneously, we intend to
+              verify the practicability of the results obtained relative to a variety of
+              control problems by conducting real-time, hardware-based experiments in our
+              existing laboratory facility.

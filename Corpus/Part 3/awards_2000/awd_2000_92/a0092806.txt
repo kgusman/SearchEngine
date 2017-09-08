@@ -1,0 +1,88 @@
+Title       : CAREER: Adaptive Network Processing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 15,  2001       
+File        : a0092806
+
+Award Number: 0092806
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2006     (Estimated)
+Expected
+Total Amt.  : $500000             (Estimated)
+Investigator: Samrat Bhattacharjee bobby@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+                The research objective of this proposal is to design, implement, and evaluate
+              a scalable and adaptive network service platform.
+  Supporting sophisticated
+              new applications, such as multi-party conferencing and streaming media
+              transmission, over the Internet poses serious technical challenges for the
+              underlying infrastructure.  However, adding some processing inside the network
+              enables new network-based services that substantially improves the end-to-end
+              performance of these applications. The continual exponential decrease in the
+              cost of processing makes network services viable, while the increases in
+              application complexity makes it necessary. Link capacities, however, have been
+              increasing at rates even faster than increases in processing capacity, and
+              current network service platforms are incapable of sustaining non-trivial
+              service to multiple flows at line speeds.
+  In this proposal, the researcher
+              outlines research whose goal is to develop and evaluate adaptive processing
+              techniques to scale the number of flows supported by network service platforms.
+              Adaptive techniques control degradation in service quality when aggregate
+              demand exceeds available resources, and can be applied within a single node or
+              across multiple cooperating nodes. The research focuses on the development of
+              general adaptation techniques that are applicable across a wide range of node
+              architectures and applications.  The  proposed work is grouped into three major
+              thrusts: design of the adaptation mechanisms themselves and underlying control
+              and resource management mechanisms and interfaces required to adapt processing
+              on-line; development of a single- and multi-node policy framework to trigger
+              adaptation; and the development of an analytic model of adaptive network
+              processing that will allow on-line evaluations of possible adaptations. The
+              researcher will evaluate these techniques using a combination of analysis,
+              simulation, and experimentation with a number of example services and policies
+              implemented over the Odyssey network service platform.                         
+                                                                                             
+                                  The success of the Internet derives from the spectrum of
+              applications it supports. As a new generation of Internet applications emerge,
+              a pivotal challenge is to design a scalable and flexible network service
+              platform that can sustain processing for multiple end-applications at high
+              speeds; otherwise, end-to-end performance will be limited by the processing
+              constraints imposed by the network. This research explicitly addresses the
+              issues of network processing scalability by using adaptive techniques. By
+              reducing, and in some cases eliminating, network processing bottlenecks, the
+              work will enable new classes of applications to be supported on a large scale
+              over the Internet.
+     The educational objective is to design a set of core
+              networking courses that introduce students to current developments in the field
+              while emphasizing the fundamental concepts and to train students to understand
+              how large networks, complex programs, and realistic systems can be built by
+              composing relatively small, simple, and modular components.
+      The core
+              networking curriculum consists of an undergraduate, a graduate, and a research
+              course. The undergraduate course teaches the basics of networking with an
+              emphasis on the fundamentals.  Students learn by building substantial parts of
+              different network layers, and by experimenting with real-world applications
+              with which they are already familiar. The aim of the graduate course is to
+              understand core network protocols in detail, to appreciate the philosophy
+              behind the current Internet protocols, and to introduce students to new
+              research ideas in networking. The goal of the research course is to try to
+              bridge the gap between theory and implementation: understand the overheads
+              incurred in implementing complex protocols and devise mechanisms to mitigate
+              their effects.
+      The unparalleled success of the Internet has made it
+              essential that every CS student understand the basics of networking. This
+              curriculum will fill this need for general CS students and will motivate
+              students interested networking to pursue further research in the field.
+

@@ -1,0 +1,57 @@
+Title       : Collaborative Research: Hierarchically Parallel Algorithms for Portable and
+               Scalable Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 18,  1992       
+File        : a9123452
+
+Award Number: 9123452
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  1992       
+Expires     : June 16,  1992       (Estimated)
+Expected
+Total Amt.  : $0                  (Estimated)
+Investigator: Ahmed H. Sameh   (Principal Investigator current)
+              Yousef Saad  (Co-Project Director current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2865,9216,HPCC,
+Abstract    :
+              The goal of this research proposed is to develop parallel sparse               
+              system solvers for symmetric indefinite and non-symmetric linear               
+              systems such as those occurring in computational fluid dynamics,               
+              develop parallel techniques for solving time-dependent problems, and           
+              construct a rapid prototyping environment for developing and                   
+              experimenting with algorithms in sparse matrix computations on shared          
+              and distributed memory multiprocessors.  In particular, the following          
+              will be examined:                                                              
+                                                                                             
+                o  parallel solution schemes for solving Stokes-like linear problems         
+                   arising in CFD and other augmented Lagrangian problems such as            
+                   interior point methods of linear programming,                             
+                                                                                             
+                o  incomplete Newton methods with Krylov or row projection iterative         
+                   solvers for the inner iteration,                                          
+                                                                                             
+                o  solution of time-dependent problems using high-order parallel             
+                   methods in time,                                                          
+                                                                                             
+                o  defining and developing sparse matrix primitives analogous to the         
+                   highly effective BLAS-3's for dense computations, and                     
+                                                                                             
+                o  implementing sparse factorization and solution schemes.                   
+                                                                                             
+              The goal is portable efficiency and scalability, by exploiting                 
+              parallelism on multiple levels.  This in turn will allow the work to           
+              be used across a wide spectrum of existing and future computer                 
+              architectures, instead of simply a particular machine.

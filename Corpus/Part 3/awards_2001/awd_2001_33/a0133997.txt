@@ -1,0 +1,69 @@
+Title       : CAREER:The Evaluation and Design of a Scalable, High Performance and Energy
+               Efficient Microprocessor Architecture
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 3,  2002    
+File        : a0133997
+
+Award Number: 0133997
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  2002    
+Expires     : November 30,  2006   (Estimated)
+Expected
+Total Amt.  : $361544             (Estimated)
+Investigator: Glenn Reinman reinman@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 1045,1187,9215,HPCC,
+Abstract    :
+              Speculative execution has been widely used in computer architecture
+research in
+              the pursuit of higher levels of instruction level
+parallelism.  However,
+              recent studies have shown that this technique
+can significantly impact the
+              scalability of the processor pipeline.
+This research will investigate a number
+              of speculative techniques
+with respect to performance, scalability, energy
+              efficiency, area
+costs, and complexity; eventually leading to a novel,
+              scalable
+architecture to provide high performance at future technology
+              sizes.
+Such an architecture will minimize the amount of logic on the
+critical
+              timing path of the processor, relying on small speculative
+structures to
+              reduce the cycle time of the processor.  Off the
+critical path, a variety of
+              larger speculative structures provide a
+backing store to the critical
+              path.
+
+Some of the techniques to be examined in this research include
+branch
+              prediction, value and address prediction, data prefetching,
+early register
+              release and late register allocation, and multiple
+clustered functional units.
+               Many of these techniques require large
+and often complex predictors that can
+              impact the cycle time and power
+density of a processor.  This research
+              investigates some techniques
+to reduce the access time and size of these
+              structures, while still
+providing the accuracy to avoid costly speculative
+              recovery
+procedures.
+

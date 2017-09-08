@@ -1,0 +1,73 @@
+Title       : ITR: Static Checking in an Extended Type System
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a0082560
+
+Award Number: 0082560
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $248879             (Estimated)
+Investigator: Natarajan Shankar shankar@csl.sri.com  (Principal Investigator current)
+              Sam Owre  (Co-Principal Investigator current)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1660,1667,9216,HPCC,
+Abstract    :
+              CCR-0082560
+Static Checking in an Extended Type System
+
+PIs: Natarajan
+              Shankar and Sam Owre
+
+Abstract: 
+A safe programming language is one whose
+              type system can, at compile time,
+detect potential runtime errors such as null
+              dereferences, out-of-bounds
+array indices, division by zero, and inapplicable
+              method invocations.  Few
+widely used programming languages are safe in this
+              sense.  Specification
+languages like PVS, however, contain safety features
+              such as predicate
+subtypes and dependent types that can be used to ensure the
+              absence of
+runtime errors. The design of safe programming languages requires
+              an 
+integration of specification and programming languages through the use
+              
+of enriched type systems.  These types increase the expressiveness
+and
+              naturalness of both executable descriptions (programs) and
+non-executable
+              descriptions (mathematical specifications).
+
+We extend the type systems for
+              widely used languages, such as Java, with
+PVS-like specification constructs. 
+              We develop an effective static
+typechecker for this type system that detects
+              many common programming
+errors.  The research builds on advances in
+              programming languages, type
+theories, program optimization techniques,
+              decision procedures, and
+program analysis methods, and tools such as LCLint,
+              ESC, and BANE.  An
+extended type system for programming languages can be a
+              foundation for the
+design and development of well-specified, efficient, and
+              safe programs.
+

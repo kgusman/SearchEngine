@@ -1,0 +1,57 @@
+Title       : NGS: Scalable I/O Management and Access Optimizations for Scientific
+               Applications for High-Performance Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0103023
+
+Award Number: 0103023
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $99827              (Estimated)
+Investigator: Alok Choudhary choudhar@ece.nwu.edu  (Principal Investigator current)
+              Mahmut T. Kandemir  (Co-Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              EIA-0103023
+Alok Choudhary
+Northwestern University
+
+Scalable I/O Management
+              & Access Optimizations for Scientific Applications for High-Performance
+              Computing
+
+The main objective of this proposal is to address the problem of
+              large-scale storage, performance management of I/O, automatic performance
+              optimizations of I/O using historical information and access patterns, data
+              management, analysis, and access using simple interfaces which permit flow of
+              access information to lower levels software for exploiting higher level
+              information.  Furthermore, since analysis at such a scale is simply not
+              feasible if done manually (e.g., visualization alone or off-line analysis),
+              integration of on-line analysis and feature extraction while simulations and
+              experiments are executing is very important.  Our observation is that neither
+              parallel file systems nor runtime systems and database management systems
+              (DBMS) fully-address the large-scale data management problem, as they lack
+              global information about the applications access patterns and most of them are
+              not effective in handling storage hierarchies.
+
+We believe that the results
+              from the proposed research will enable scientists to address one of the most
+              important bottlenecks in computational simulation cycles; namely, the
+              bottleneck of analyzing and managing massive data in high-performance
+              distributed computing environment (such as Grid).
+
+

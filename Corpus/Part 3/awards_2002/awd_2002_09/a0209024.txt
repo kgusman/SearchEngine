@@ -1,0 +1,125 @@
+Title       : Testing Based on Hybrid System Models
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 12,  2002 
+File        : a0209024
+
+Award Number: 0209024
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $450000             (Estimated)
+Investigator: Insup Lee lee@central.cis.upenn.edu  (Principal Investigator current)
+              Oleg Sokolsky  (Co-Principal Investigator current)
+Sponsor     : U of Pennsylvania
+	      Research Services
+	      Philadelphia, PA  191046205    215/898-7293
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,1667,9216,HPCC,
+Abstract    :
+              Lee, Insup
+CCR-0209024
+
+Many embedded systems are part of safety-critical
+              applications, e.g.,
+avionics systems, manufacturing, automotive controllers,
+              and medical
+devices.  The safety-critical nature of embedded applications
+              requires a higher
+level of robustness and reliability than is called for in
+              conventional
+software systems development.  In the attempt to insure a higher
+              level of
+confidence in the design and implementation, current practice
+              merely
+increases the duration, frequency, scope, etc. of
+              traditional
+verification practices.  The net result is substantially
+              higher
+development costs and longer design cycles, leading to a design
+              cycle
+where a verification bottleneck is impacting overall
+              operational
+effectiveness, efficiency and safety.  
+
+This project seeks to
+              mitigate the verification bottleneck by identifying
+appropriate specification
+              formalisms, and using those formalisms as a
+basis to develop fully automated
+              techniques for verifying
+implementations using testing.  An important
+              distinguishing 
+characteristic of the embedded applications listed earlier is
+              the 
+hybrid (discrete and continuous)nature of behaviors. The continuous
+              
+components of embedded systems, and the large state
+spaces of all
+              industrially relevant systems, make verification
+techniques based on
+              exhaustive exploration of the state space
+intractable.  Therefore, it is
+              necessary to approach the verification
+problem with techniques based on
+              sampling, i.e., testing.  This requires 
+abstracting the original system state
+              space to
+create a condensed state space that can be explored to
+              determine
+valuable points to sample.  Methods of abstraction, methods
+              for
+selecting test points, and methods for evaluating the relative merit
+of
+              one set of test points vs. another are all issues addressed by this
+work. The
+              research also explores the use of traditional
+notions of test coverage applied
+              to formal specifications of hybrid
+systems.  Test suites are generated using
+              the counterexample or
+witness generation techniques of model checkers as well
+              as random path
+generations.
+
+The practical issues of demonstrating the
+              working techniques, and the
+efficacy of these techniques when applied to
+              realistic systems, are
+addressed through the implementation of tools that
+              automate all
+steps of the process: abstraction, test selection, test
+              derivation,
+test application to concrete implementations, and the evaluation
+              of
+test results.  Tools are developed on top of the existing
+CHARON framework
+              for creating hybrid system models.
+Case-study work based on real system
+              specifications and
+benefit from interaction with practicing engineers working
+              for Honeywell, a
+leader in the development of advanced avionics systems.  One
+              issue is how
+to integrate the techniques into development processes that
+              conform 
+to the DO-178B avionics certification process.
+Among the broader
+              impacts that are anticipated from this work are (1)
+an increase in awareness
+              of and actual use of formal methods by
+practicing developers, and (2) an
+              acceleration of the safety-critical
+embedded system development process that
+              will enable the creation of
+safer, more reliable systems with shorter
+              development cycle times.
+

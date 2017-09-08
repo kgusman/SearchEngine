@@ -1,0 +1,57 @@
+Title       : Next Generation Software: Active Debugging Information for Multi-Language,
+               Multi-Platform Debugging
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 14,  2003     
+File        : a0096091
+
+Award Number: 0096091
+Award Instr.: Continuing grant                             
+Prgm Manager: Frederica Darema                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $167653             (Estimated)
+Investigator: Norman Ramsey nr@eecs.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 2884      NEXT GENERATION SOFTWARE PROGR
+Fld Applictn: 
+Program Ref : 2882,2884,9218,HPCC,
+Abstract    :
+              EIA-9974960
+Ramsey, Norman
+University of Virginia
+
+Next Generation Software:
+               Active Debugging Information for Multi-Language, Multi-Platform
+              Debugging
+
+This project is aimed at developing debuggers that work seamlessly
+              with multiple platforms and multiple languages, and to which one can add
+              support for new platforms and new languages at low cost.
+
+This proposal
+              proposes a radical change from the way current compiler technology supports
+              debugging. In essence the proposal proposes to develop active debuggers. 
+              Instead of simply giving some compiler-generated information about the program,
+              allow the debugger to step through the code itself.  The proposal has selected
+              a set of operations that the debugger will perform to analyze the code, and
+              such operations can be performed efficiently by invoking the compiler to
+              provide implementation of the critical operations.  Given this approach allows
+              the debugger to support applications including multilanguage modules.  
+              
+
+Some preliminary demonstration of some of these ideas has been already done
+              by the proposer with encouraging indications, as to the effectiveness and
+              efficiency of the proposed methods.
+
+
+
+

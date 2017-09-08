@@ -1,0 +1,94 @@
+Title       : ITR: MAC Protocols Specific for Sensor Networks (MACSS)
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 16,  2002 
+File        : a0220026
+
+Award Number: 0220026
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: John S. Heidemann johnh@isi.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              Wireless sensor networking is an emerging technology that has a wide range of
+              potential applications including environment monitoring, smart spaces, medical
+              systems and robotic exploration. While the technology is very promising, it
+              raises serious challenges in network
+and system design.  Sensor networks
+              differ in many ways from than the traditional IP or voice networks, and have
+              their unique features and requirements.  Although MAC protocols such as 802.11
+              and TDMA are ideal for wireless IP or voice, no MAC protocol today meets the
+              needs
+of sensor networks.
+
+This project will execute a systems-driven
+              research program to address these problems through the development of
+              sensor-network specific MAC protocols.  Specifically, we are
+              investigating:
+
+ADAPTIVITY AND ENERGY EFFICIENCY:  Sensor network MACs must
+              be adaptive in several dimensions, including energy consumption, traffic loads,
+              and deployment density.  Energy is *the key limitation* for battery-powered
+              sensor nodes.  The researchers are investigating and will provide designs for
+              ENERGY CONSERVATION approaches that modify node duty cycle
+to conserve energy
+              while considering user varying application traffic requirements.  One approach
+              to energy conservation is to trigger primary node radios with a paging channel,
+              but this requires a second radio (with corresponding cost, space, and money
+              requirements). Sensor nodes already must operate sensors full time, so the
+              researchers are evaluating the use of sensors (acoustic, seismic, etc.) as a
+              PHYSICAL SENSOR PAGING CHANNEL.
+
+MAC INTERACTION WITH THE PHYSICAL LAYER: 
+              With low-power, relatively unsophisticated radios, sensor networks applications
+              and MAC protocols are very close to physical layer effects of radio
+              propagation.  A serious problem with current sensor applications is dealing
+              with link
+error conditions such as packet loss and asymmetric communication.
+              Energy-conserving MAC layers already keep track of neighbors, so the
+              researchers will provide a BLACKLISTING SERVICE that allows the MAC to identify
+              and exclude unusable links.  The researchers also will study and report on
+              radio POWER CONTROL AND APPLICATION INTERACTIONS to understand how MACs can
+              control neighborhood size.
+
+UNIQUE APPLICATION NEEDS OF SENSOR NETWORKS: 
+              Sensor networks are fundamentally different from Internet-style networks of
+              peer nodes in several different ways.  A first differences is that sensor
+              networks are primarily quiescent, but they occasionally become very active
+              when
+something is sensed.  The researchers  will develop a MAC PROTOCOL WITH
+              MULTIPLE
+OPERATING MODES to allow the MACs to adjust to this ``feast or
+              famine'' traffic load.  In addition, energy conservation introduces a
+              *directional bias* in node communication; sleep/wake-up schedules can either
+              add latency to all directions equally, or can allow rapid communication in one
+              direction and slower communication in the other. The researchers will evaluate
+              how controllable MAC-LEVEL DIRECTIONAL BIAS INTERACTS WITH APPLICATION,
+              exploiting it where possible.
+
+Finally, the research community has a
+              compelling need for a publicly available, freely modifiable Sensor-MAC protocol
+              for experimentation and simulation.  Evaluation of our ideas requires
+              implementation and evolution of a MAC protocol.  We will provide this
+              implementation to other researchers for use over existing sensor network radios
+              (with a reference implementation on the UC Berkeley Mote hardware) and in
+              simulation (with a reference implementation in the ns-2 simulator).
+Thus, in
+              addition to opening up sensor-network-specific MAC protocols as a new subfield
+              of research, this work will serve as a catalyst for wider sensor network
+              research that is sorely in need of an appropriate and modifiable MAC.
+

@@ -1,0 +1,47 @@
+Title       : SGER: Multi-Stream Approach Using Syllable Length Temporal Evidence in Acoustic
+               Modeling of Conversational Speech
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 17,  1997      
+File        : a9713583
+
+Award Number: 9713583
+Award Instr.: Standard Grant                               
+Prgm Manager: Gary W Strong                           
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $49738              (Estimated)
+Investigator: Hynek Hermansky hynek@cse.ogi.edu  (Principal Investigator current)
+Sponsor     : Oregon Grad Inst of S&
+	      20000 NW Walker Road
+	      Beaverton, OR  970068921    503/645-1121
+
+NSF Program : 6845      HUMAN COMPUTER INTER PROGRAM
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,9237,HPCC,
+Abstract    :
+              The project studies the multi-stream approach to automatic speech  recognition 
+              (ASR)  using stream definitions  in  the  modulation  spectrum  domain.  The
+              multi-stream approach is  a  new  acoustic  modeling technique to increase the
+              robustness of ASR systems.  It  derives different information sub-streams from
+              the speech  signal  followed   by  independent  feature  extraction  and 
+              probability  estimation  in  each sub-stream. The vectors of class-conditional 
+              probabilities obtained from each sub-stream are merged to  obtain  the final
+              decision. The multi-band model which utilizes different  regions  of  the
+              frequency spectrum in the sub-streams  has  been  shown  to be robust to
+              frequency-selective degradation.  The  aim  of  the  project is to utilize
+              different ranges of the modulation  spectrum  in  different  sub-streams.  A
+              study  of  the  relative  importance  of  the  different ranges of the
+              modulation  spectrum  indicates that they might carry different information.
+              This makes  the  various  elements  of  the modulation  spectrum  interesting 
+              candidates  for  the  multi-stream approach. The  computation  of  these 
+              features  requires looking at longer  segments  (typically  syllable length
+              segments) of the signal.  The proposed project is  an  attempt to apply the new
+              assumptions of relative independence  of   elements   of  the  feature  vector 
+              and  medium-term   time  dependencies  between  feature vectors to  ASR  with 
+              a  view  to  improve its robustness.

@@ -1,0 +1,65 @@
+Title       : ITR: Compiler Technology for Automatic Parallelization via Thread-Level
+               Speculation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 22,  2002    
+File        : a0219931
+
+Award Number: 0219931
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Todd Mowry tcm@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : ,1652,9215,HPCC,
+Abstract    :
+              For many practical reasons (e.g., hardware development cost, power
+consumption,
+              etc.), it would be attractive if we could increase the
+effective performance
+              of a computer system by simply adding more processors
+to it.  While it is
+              reasonably straightforward to build such systems that
+support "parallel
+              processing", relatively few of today's programs would
+enjoy any performance
+              gain on such machines because they were not written
+with parallel processing
+              in mind.  The ideal solution for harnessing the
+potential benefits of parallel
+              processing without placing a large burden on
+the programmer would be for the
+              compiler to automatically transform a
+sequential program into an efficient
+              parallel program.  While there has
+been progress on using compilers to
+              automatically "parallelize" regular
+numeric programs (typically written in
+              FORTRAN), there has been little
+progress in automatically parallelizing
+              broader classes of programs.  The
+key stumbling block has been that compilers
+              have traditionally created
+parallelism by proving that potential threads are
+              always independent.  To
+circumvent this limitation, recent hardware prooposals
+              enable the compiler
+to optimistically create parallel threads without proving
+              independence.  In
+this project, we plan to develop the compiler technology
+              necessary to fully
+exploit this new potential for harnessing parallel
+              processors.
+

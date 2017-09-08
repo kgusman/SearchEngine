@@ -1,0 +1,51 @@
+Title       : Logical Support for High-Assurance Software Evolution
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 23,  1997      
+File        : a9633388
+
+Award Number: 9633388
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: David A. Schmidt schmidt@cis.ksu.edu  (Principal Investigator current)
+              Brian Howard  (Co-Principal Investigator current)
+              Matthew Dwyer  (Co-Principal Investigator current)
+              Allen Stoughton  (Co-Principal Investigator current)
+Sponsor     : Kansas State University
+	      2 Fairchild Hall
+	      Manhattan, KS  665061103    913/532-6222
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              A central problem in the management of large software projects  and the
+              maintenance of libraries of reusable software is ensuring  the consistency of
+              inter-module connections in the face of  continuing system evolution. As bugs
+              are isolated and fixed,  capabilities are added or enhanced in response to
+              changes in the  user requirements, and support software and hardware is
+              upgraded  or replaced, there are myriad opportunities for invalidation of 
+              prior assumptions used in code development.    In this project, techniques from
+              logic, type theory, and abstract  interpretation are employed in the design and
+              implementation of  tools to help automate the process of ensuring consistency.
+              A  partial-evaluation-driven abstract-interpretation algorithm is  used to
+              analyze individual modules for consistency with respect  to local
+              specifications, and a linking and configuration manager  will be used to check
+              for correspondence between module  specifications. Using abstract
+              interpretation, proof generation,  and realizability techniques, the manager
+              synthesizes common  additional code that may be needed to provide trustworthy 
+              linkages. Two aspects of this approach are essential for  application to
+              large-scale, evolving systems: (i)link updating  must be a local process, so
+              that small changes do not incur large  penalties, and (ii)linkage information
+              must be available to the  programmer in a user-readable format. Recent
+              experience with  building efficient, usable logic tools is applied in the
+              project  towards satisfying these requirements.  ***

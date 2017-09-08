@@ -1,0 +1,59 @@
+Title       : SBIR Phase II: A Fast Hybrid Fourier/Real Space Algorithm for Coulomb Energies
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : August 6,  1998     
+File        : a9531459
+
+Award Number: 9531459
+Award Instr.: Standard Grant                               
+Prgm Manager: Cynthia J. Ekstein                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1996 
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $283073             (Estimated)
+Investigator: Jing Kong jkong@q-chem.com  (Principal Investigator current)
+              Benny G. Johnson  (Principal Investigator former)
+Sponsor     : Q-Chem, Inc.
+	      317 Whipple Street
+	      Pittsburgh, PA  15218    412/268-1056
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0203000   Health                                  
+              12        Chemistry                               
+Program Ref : 1978,9183,BIOT,
+Abstract    :
+              ***  95-31459  Johnson       This Small Business Innovation Research Phase II
+              project will continue the development of an innovative alternate approach to
+              the evaluation of the Coulomb interactions in large molecules.  Recently there
+              has been a rapidly growing interest in Density Functional Theory (DFT) as a
+              general procedure for predicting physical properties of molecules, which is
+              relatively inexpensive compared to traditional correlated methods. For the
+              largest molecular systems whose study is feasible by the current DFT programs
+              (several hundred atoms), the treatment of the Coulomb interactions, with its
+              quadratic cost in system size, is computationally dominant. In order to be able
+              to perform calculations on truly large molecules, a reduction in the scaling of
+              the Coulomb contribution is required.  The Phase I research established the
+              feasibility of a breakthrough hybrid Fourier/real space method, the KWIK
+              algorithm, which solves the Coulomb problem in only linear work in system size.
+              The experience gained in Phase I with the one-dimensional version of KWIK will
+              be used to develop the extensions that are required to handle two- and
+              three-dimensional systems and to treat the continuous distributions in
+              electronic structure calculations. The Phase I research effort has revealed not
+              only that it is technically feasible to implement the KWIK algorithm, but also
+              that the kernel of a KWIK program module is simple and tunable. It was also
+              shown that the structure of KWIK is quite amenable to simultaneous
+              vectorization and parallelization - ingredients that are both critical to
+              achieving near-peak performance on many modern computing platforms. During
+              Phase II, the Phase I results will be refined and attached to the Q-Chem
+              quantum chemistry program, and the implementation will be extended to parallel
+              platforms. It is therefore anticipated that a highly efficient parallel program
+              for the study of molecules of unprecedented size will result from this work.  
+              This research will allow highly accurate d ensity functional calculations to be
+              carried out on much larger molecular systems than is possible with current
+              techniques and programs. This will be of considerable value in computational
+              quantum chemistry and physics  researchers at universities as well as
+              industrial and govemment facilities.  ***

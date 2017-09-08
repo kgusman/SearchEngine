@@ -1,0 +1,52 @@
+Title       : Innovative Algorithms and Techniques for Large Scale Simulations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 28,  2000 
+File        : a9972533
+
+Award Number: 9972533
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $308521             (Estimated)
+Investigator: Ahmed H. Sameh   (Principal Investigator current)
+              Vivek Sarin  (Co-Principal Investigator current)
+              Ananth Grama  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project aims to develop a variety of robust, effective, and parallelizable
+              solvers and preconditioners for sparse linear systems arising from finite
+              element modeling and dense linear systems arising from boundary element
+              modeling approaches. As is evidenced from our preliminary results, a careful
+              cross-breeding of techniques from these two areas is capable of yielding the
+              breakthrough needed in designing effective parallel preconditioners and
+              solvers. The techniques proposed for sparse linear systems are based on a
+              hierarchy of representations using block low-rank matrices and multipole
+              approximations of the inverse. The project will study the implications of these
+              techniques for compression schemes used in approximate dense linear system
+              solvers as well. The project will also investigate algebraic multilevel
+              techniques for sparse linear systems in which hiearchical representations are
+              used to obtain an alternate preconditioned system. 
+
+Parallel formulations of
+              all these techniques will be developed along with theoretical estimates for
+              convergence and parallel performance. In addition to these, this study will
+              investigate projection-based 
+techniques that affect preconditioning
+              implicitly through a set of concurrent projections onto appropriate subspaces.
+              Such techniques include row-projection methods and are robust forms of
+              approximate 
+inverse preconditioners.
+

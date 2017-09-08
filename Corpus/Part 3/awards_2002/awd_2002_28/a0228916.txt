@@ -1,0 +1,98 @@
+Title       : HPNC: High Speed Networking for Automated Fluorescence Microscopy
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 16,  2002 
+File        : a0228916
+
+Award Number: 0228916
+Award Instr.: Standard Grant                               
+Prgm Manager: Gregory E Monaco                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Peter Rogan progan@cmh.edu  (Principal Investigator current)
+Sponsor     : Children's Mercy Hosp/Clin
+	      2401 Gillham Road
+	      Kansas City, MO  64108    /   -
+
+NSF Program : 4088      High Perf Netwk Connect-SciEng
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9217,HPCC,
+Abstract    :
+              With high speed networking capability, investigators at Children's Mercy
+              Hospital will be able to rapidly transmit high volumes of digital images
+              produced by fluorescent microscopes to colleagues at collaborating Internet2
+              institutions where images will be processed. The images must be captured and
+              transmitted with very low latency, because network delays could lessen data
+              quality (fluorescence is quenched from prolonged exposures (>5.) at the
+              excitation wavelengths at high magnification) and because sustained high
+              transmission rates are required (2-4 Mb/sec over 3 hours per experiment). 
+              
+Fluorescence microscopy is a key technology in cell biology and genetics
+              research.  Molecular cytogenetic detection of chromosomal abnormalities by
+              fluorescence in situ hybridization  (FISH) has been translated into clinical
+              practice. More recently, FISH has been used to stratify patients for cancer
+              therapies targeted to the genes rearranged in these disorders.    CMH
+              investigators study the causes of human chromosomal disorders using a new type
+              of single copy DNA probe (scFISH) that has been designed and produced directly
+              from the human genome draft.  Funded research studies at CMH are using scFISH
+              probes to detect abnormal chromosomes from patients with inherited or acquired
+              disorders. It is feasible to produce and hybridize arrays of scFISH probes at
+              very high genomic densities (1 per 20-30 kb), enabling definition of chromosome
+              rearrangements at a resolution not feasible with conventional FISH probes. With
+              conventional FISH, the rate of DNA probe preparation is a bottleneck in
+              generating results from hybridization experiments. This is overcome with
+              scFISH, in which umerous probes can be prepared and hybridized simultaneously. 
+                Now, the rate at which the microscopist can scan slides for adequate
+              metaphase chromosome spreads (or other cellular structures) is the limiting
+              factor in the analysis of scFISH (or immunofluorescence) data.
+CMH
+              investigators are collaborating with computer scientists and engineers,
+              respectively, at the University of Missouri-Columbia  (MU) and at the
+              University of Missouri-Kansas City  (UMKC) to develop  an  automated  system 
+              to  expedite  processing  and  prioritize  images  from  scanned  microscope
+              slides  of  fluorescently-labeled,  hybridized  metaphase  chromosomes  or 
+              antibody-labeled  cells.  Current commercial automation systems are limited
+              only to fluorescent probe detection, and do not account for both chromosome (or
+              cellular) morphology and the fluorescent signals, which is the goal of this
+              project.  This system will reduce the backlog of hybridized or antibody-stained
+              slides and should therefore result in significantly higher throughputs for
+              scFISH studies aimed at defining the breakpoints of chromosomal
+              rearrangements.
+Slide scans will be processed  (at least) daily by MU and UMKC
+              collaborators to select the optimal images of either fluorescently-labeled
+              probes hybridized to chromosomes or antibodies bound to cellular structures in
+              order to obtain timely results for subsequent genetic analyses of patient
+              specimens. For the FISH application, slides will initially be scanned at low
+              magnification to localize the fields containing metaphase chromosome spreads
+              and distinguish them from intact interphase nuclei and empty or incomplete
+              fields. (Other criteria will be developed for immunofluorescence studies to
+              select optimal cells for further analyses.) The coordinates of potential
+              metaphase spreads will be recorded for subsequent rescanning of specific
+              subsets of fields at higher magnification, resulting in a total of ~7200 images
+              per slide.  MU and CMH investigators have carried out image analyses indicating
+              that metaphase chromosomes are computationally-distinguishable from interphase
+              nuclei and other cellular structures. 
+Once algorithms and parameters have
+              been optimized for feature selection  (ie. chromosome density, overlap,
+              condensation, banding, and clarity and the location of fluorescent signals),
+              images and coordinates the "best" metaphase spreads will be returned to
+              microscopists at CMH, where they will then be reviewed, and ranked according to
+              metaphase quality. The coordinates and rankings of these images will be sent to
+              collaborators at MU and UMKC for subsequent parametric or algorithmic
+              refinement.  Sensitivity and specificity of algorithms will be monitored at
+              each iteration until the processing algorithms cannot improve upon existing
+              rankings.  Under ideal circumstances, the microscopist and the image processing
+              procedures will produce identical rankings. However, the rankings will be
+              considered adequate (ie. useful) if at least the top 50% of human-ranked
+              metaphase chromosome spreads or labeled cells are also present in the
+              computer-based rankings.  Once the software is ready for production
+              applications, it will be compared with a commercial automated FISH analysis
+              system that has not been optimized for use with metaphase chromosomes.  
+
+

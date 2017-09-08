@@ -1,0 +1,54 @@
+Title       : Multiscale Methods for the Rapid Solution of Boundary Integral Equations in
+               Geometrically Complicated Domains
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 4,  2000     
+File        : a0074553
+
+Award Number: 0074553
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $73000              (Estimated)
+Investigator: Johannes Tausch tausch@mail.smu.edu  (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              The proposed research is concerned with multiscale discretizations of boundary
+              integral operators on geometrically complicated surfaces.  The standard
+              approach, generating multiscale discretizations in parameter spaces and lifting
+              them on the surface, is not efficient when a large number of parameter patches
+              is required.  This project is concerned with an alternative approach to
+              multiscale discretizations.  The basis is generated in a hierarchical
+              decomposition of the three-space and subsequently restricted on the boundary
+              surface.  This construction leads to a sparse representation of the integral
+              operator even for complicated geometries.  It is planned to apply this approach
+              to boundary integral formulations of general elliptic as well as time dependent
+              parabolic problems.
+
+The range of important engineering applications which
+              the proposed research could impact is quite diverse.  Examples include the
+              analysis of integrated circuit interconnect and micromechanical systems.  In
+              these areas finding computationally efficient numerical methods for complex
+              three dimensional structures is important in order to generate prototypes
+              interactively on a computer.  In the past the major computational tool has been
+              the Fast Multipole Method (FMM), because of its relative simplicity and its
+              flexibility to geometry and integral operator.  We construct a multiscale basis
+              by using a hierarchical decomposition of the three-space.  The same hierarchy
+              of cubes is also used by the FMM, and therefore the proposed approach is able
+              to combine the flexibility of the FMM with the strengths of multiscale methods.
+               Thus the planned research can lead to faster and more robust algorithms as
+              well as to a better understanding of theoretical and practical issues of both
+              approaches.
+

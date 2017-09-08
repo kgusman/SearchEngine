@@ -1,0 +1,47 @@
+Title       : Integrating Software Architecture and Software Development
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 3,  2003      
+File        : a0204047
+
+Award Number: 0204047
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Craig D. Chambers chambers@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Integrating Software Architecture and Software Development Craig Chambers 
+The
+              goal of the research is to extend the benefits of software architecture from
+              design into later stages of the software lifecycle by ensuring a rigorous
+              connection between architecture and implementation code.  Existing architecture
+              description languages are not tightly coupled to implementation languages in a
+              way that ensures that the implementation code conforms to the architectural
+              specification.  To overcome this limitation, this project is developing
+              ArchJava, a simple extension to Java that allows programmers to express
+              software architecture within their implementation.  The language is flexible,
+              supporting dynamically changing software architectures as well as common
+              object-oriented implementation idioms, but it also rigorously guarantees that
+              the program semantics conform to the constraints in the architectural
+              specification.  A system's design can be expressed in ArchJava before any
+              implementation exists; this design can then be fleshed out incrementally into a
+              complete implementation.  At all times, conformance between the architecture
+              and the (partial) implementation can be mechanically verified.  By extending
+              the benefits of software architecture throughout the software lifecycle and by
+              allowing developers to trust the accuracy of the architecture, this work has
+              the potential to make software architecture a much more effective and commonly
+              used tool. 

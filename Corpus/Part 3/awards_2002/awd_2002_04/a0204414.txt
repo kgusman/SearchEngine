@@ -1,0 +1,56 @@
+Title       : Efficient Techniques for High Quality Delay Testing of High-Speed Circuits
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 20,  2003     
+File        : a0204414
+
+Award Number: 0204414
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $180000             (Estimated)
+Investigator: Sandeep K. Gupta sandeep@poisson.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              High-speed circuits are highly pipelined, use latches as opposed to flip-flops,
+              and practice extensive time borrowing to reduce overheads of pipelining. Since
+              speed is a critical objective, high quality delay testing, such as path delay
+              testing, is imperative for such circuits. Use of latches and extensive time
+              borrowing have two important consequences that give rise to new problems in
+              delay testing. First, since the paths in one block interact with the paths in
+              the blocks in its fan in and fan out, it becomes necessary to test for delay
+              faults multi-block paths, i.e., paths that traverse multiple blocks of a
+              circuit. The number of such paths is often astronomical. Second, due to time
+              borrowing, values at a latch output are not applied at any fixed time, but at
+              some time within a range. Since the exact time when values are applied at the
+              outputs of a latch vary from vector to vector and from one fabricated copy of a
+              chip to another, it is impossible to design design-for-testability (DFT)
+              circuitry that mimics the timing of events during the normal mode of operation.
+              
+
+Two types of test application schemes are proposed that can be implemented
+              using scan designs that do not try to mimic the timing of events during the
+              circuit's normal operation but apply values and capture responses at specific
+              clock edges. It is then proven that it is indeed possible to use such scan to
+              precisely test, for path delay faults, latch based circuits that use time
+              borrowing. Techniques to use above DFT technique to efficiently test such
+              high-speed circuits will be developed. This will include development of a
+              technique to generate optimal test plans as well as tools that can generate the
+              types of tests and perform detailed design of DFT circuitry required by the
+              proposed approach. The proposed research will provide the first systematic
+              approach for achieving, at reasonable costs, efficient testing for path delay
+              faults in high speed circuits while providing provably high test quality. The
+              tools developed will be leveraged and extended for instructional purposes. 
+

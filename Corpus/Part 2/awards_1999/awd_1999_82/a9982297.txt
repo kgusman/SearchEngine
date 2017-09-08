@@ -1,0 +1,59 @@
+Title       : Terascale Data Visualization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : October 31,  2001   
+File        : a9982297
+
+Award Number: 9982297
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 15,  1999   
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $593536             (Estimated)
+Investigator: Chandrajit L. Bajaj bajaj@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1595,9216,HPCC,
+Abstract    :
+              Today's computer simulations and experiments often produce huge amounts of data
+              that need to be seen and interpreted to explain the underlying phenomena.
+              Conventional approaches to this visualization and analysis are likely to fail
+              or have limited scope when used in isolation. A comprehensive end-to-end
+              framework that integrates the data source, storage, servers, network, and the
+              visualization client is critical for delivering scalable performance on a range
+              of hardware platforms and datasets. The complete solution makes it possible to
+              examine vast amounts of data that were never available before, and achieve true
+              understanding of the science that produced the data. In particular, we will
+              examine data from subsurface modeling projects (thus understanding the flow of
+              groundwater and oil reservoirs) and the ASCI program (thus providing insight
+              into advanced physics).
+
+This project will develop a framework for
+              interrogative visualization of terascale datasets. The basis of this framework
+              is a suite of compressed multiresolution representation and data streaming
+              techniques that adapt in an error-controlled manner to available computational
+              resources. Used in conjunction with fully threaded visualization servers and
+              clients for parallel performance and 1/0 optimizations for out-of-core
+              computations at both server and client ends, the system should provide seamless
+              scalable performance. This is part of a long-term project at UT Austin to
+              develop a comprehensive framework for multi-scale visualization and simulation
+              for terascale problems, with a tight coupling between modeling, simulation, and
+              visualization. The proposed project deals strictly with progressive
+              interrogative visualization of off line terascale datasets. Other funding will
+              extend the work to support interrogative steering of terascale physical
+              simulations as well. Our primary source of terascale data is from massively
+              parallel physical simulations of time dependent phenomena being performed at
+              the Center for Subsurface Modeling (CSM) at the University of Texas at Austin
+              (UT). To ensure a wider scope and general applicability of our techniques, we
+              will also validate them on terascale simulation data sets made available by
+              researchers at NASA Ames (simulation of supersonic flows), and by the DOE
+              research laboratories (simulation of shock-waves in 

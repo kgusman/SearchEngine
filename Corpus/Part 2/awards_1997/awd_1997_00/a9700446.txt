@@ -1,0 +1,47 @@
+Title       : Recognizing and Finding Articulated Objects
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 13,  1997      
+File        : a9700446
+
+Award Number: 9700446
+Award Instr.: Standard Grant                               
+Prgm Manager: Jing Xiao                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $189989             (Estimated)
+Investigator: Davi Geiger geiger@cs.nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/598-3131
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              This  award  funds investigation of an approach to detecting  and  recognizing 
+              deformable articulated shapes, such  as  people  and  animals,  from real
+              images.  The approach involves  specifying  a  "language" for representing such
+              objects, based on previous  work  on  deformable  template models.  These
+              models represent  objects  probabilistically,  where  the  probabilities  are 
+              required   to  specify  likely geometric deformations of the object and  of 
+              the  imaging  function. To handle effects such as lighting changes  or  partial
+               occlusion  of  the object.  These models,  however,  are  complex,  and  so 
+              detecting  them  in  images  poses  formidable  combinatorial optimization
+              challenges.  This research explores  a  strategy  which makes use of a small
+              number of image "primitives"  which can be thought of as key features.  These
+              may include  both  local   image  structures  such  as  image  corners  and  
+              larger  structures  such  as symmetric shapes.  These  should  be  simple 
+              enough  that well-established optimization techniques can  detect  them 
+              optimally.  The primitives are desaribed probabilistically,  like the object
+              models, enabling the use of information theory to  quantify  how  much 
+              information a particular primitive  provides  about the preseance or absence,
+              or configuration of the object in  an  image.  It also enables optimal choices
+              of primitives  to  be  made,  with  the  goal of finding primitives  that  are 
+              easy  to  compute and convey maximal information about the objects  in  the 
+              image.

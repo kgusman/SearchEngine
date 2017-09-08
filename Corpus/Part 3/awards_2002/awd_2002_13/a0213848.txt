@@ -1,0 +1,81 @@
+Title       : ITR: High Performance Implementation of Approximate Algorithms for Large-Scale
+               Routing and Network Design
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2002    
+File        : a0213848
+
+Award Number: 0213848
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $233759             (Estimated)
+Investigator: Daniel Bienstock dano@ieor.columbia.edu  (Principal Investigator current)
+Sponsor     : Columbia University
+	      1210 Amsterdam Avenue; MC 2205
+	      New York, NY  10027    212/854-6851
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              This project will address theoretical and computational methodology for
+              massively large, approximate optimization problems in network design and
+              routing, encompassing both static and online problems. A central component of
+              the work will be the implementation of the PI's algorithms on architectures
+              such as IBM's forthcoming BG/L.
+
+The work will be directed at problem
+              instances arising in networking and telecommunications, that are far larger
+              than those currently studied by the mathematical programming community. While
+              metropolitan area networks, at an appropriate level of aggregation, involve a
+              few hundred nodes, computer networks can be far larger. Looking toward
+              next-generation networking, especially wireless and adhoc networking, the need
+              for optimization tools that can handle much larger networks becomes
+              pressing.
+
+The PI's previous work built upon methodologies on potential
+              function methods for linear programming, developed during the last decade
+              primarily by the theoretical computer science community. His work further
+              developed the methodology and produced an effective implementation. This
+              implementation is fast (more efficient than competing special-purpose
+              algorithms and much faster than commercial software), it is quite accurate for
+              engineering purposes, and it is general: it handles network design problems,
+              static throughput routing problems, multicommodity flow problems, and in fact,
+              a much more general class of linear programming problems, all with a common
+              interface and no user-selected parameters. It successfully handles problems
+              involving networks with hundreds and up to a few thousand nodes. The resulting
+              linear programs, with tens of millions of variables and constraints, are at the
+              limit of what can be considered approachable with state-of-the-art linear
+              programming software.
+
+When considering larger networks, however, the
+              dimensions of the optimization problems increase by several orders of
+              magnitude, placing them well beyond the capabilities of current methods and
+              implementations - these problems are large enough that the idea of optimization
+              becomes rather daunting. At the same time, the complexity, economics, and
+              fast-changing nature of networking applications provides a stringent need for
+              cost-effective, survivable designs and high throughput routing schemes. This
+              work will seek to build on new, concrete methodological ideas so as to develop
+              algorithms with provably stronger convergence properties; further, it will also
+              develop high-performance implementations that can tackle massively large
+              problems.
+
+A parallel effort will concern online routing problems. Many
+              online routing methods (for example, dynamic routing schemes that seek to
+              minimize congestion, or to achieve fair routings) can be viewed as single
+              iterations of potential function methods for corresponding static problems.
+              This project will use this idea, together with the PI's work on static
+              problems, with the aim of developing effective routing algorithms; again, a
+              significant part of this work will be computational.
+
+In both cases, this
+              project will use previously established industrial research partnerships  to
+              validate methodologies and to obtain realistic data.
+

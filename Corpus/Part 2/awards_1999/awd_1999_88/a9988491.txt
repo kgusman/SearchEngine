@@ -1,0 +1,86 @@
+Title       : Type Systems for Secure Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 30,  2002       
+File        : a9988491
+
+Award Number: 9988491
+Award Instr.: Continuing grant                             
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $245623             (Estimated)
+Investigator: Scott F. Smith scott@cs.jhu.edu  (Principal Investigator current)
+Sponsor     : Johns Hopkins University
+	      3400 North Charles Street
+	      Baltimore, MD  212182695    301/338-8000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 2876,9216,HPCC,
+Abstract    :
+              CCR 9988491
+Smith, Scott
+Johns Hopkins University
+Type Systems for Secure
+              Programming
+
+Security in language design is a rising concern due to
+              increased
+portability of code.  Most language-level security mechanisms
+              have
+been afterthoughts to language designs.  One widely known
+              language
+security system is the Java Security Architecture, found in the
+              JDK
+1.2.  There, access control mechanisms are written as code in the
+program
+              itself, and it is difficult to determine what access controls
+are actually in
+              place.  The goal of this research is to develop a
+declarative security
+              architecture for programming languages.  In this
+project, a novel static type
+              system for guaranteeing safety with
+respect to certain security properties at
+              run-time will be developed.
+The research consists of two main components,
+
+*
+              a novel static type system in which security information decorates program
+ 
+              types (so-called security access types), and the type system properly 
+ 
+              enforces propagation of this information;
+
+* a novel module system which
+              includes security access types as part of the
+  interface, and for which
+              program linking will entail validating security
+  properties.
+
+The aim is an
+              expressive, flexible security discipline which allows
+static verification that
+              security checks are met, allowing run-time
+security checks to be avoided.  The
+              advantages of static over dynamic
+enforcement of properties forms one of the
+              basic pillars of
+programming language design and software engineering: the
+              types
+themselves serve as concise readable specifications of
+              program
+behavior, and the lack of a class of run-time errors gives
+              more
+reliable execution behavior.  In the context of secure
+              programming,
+"more reliable" directly translates to "more secure".  The
+              long-term
+aim of this research is a more secure internet.
+

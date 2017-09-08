@@ -1,0 +1,54 @@
+Title       : ITR: New Algorithms for Scalable Modeling in Materials Science
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 24,  2002      
+File        : a0082094
+
+Award Number: 0082094
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $441981             (Estimated)
+Investigator: Yousef Saad saad@cs.umn.edu  (Principal Investigator current)
+              James R. Chelikowsky  (Co-Principal Investigator current)
+              Andreas Stathopoulos  (Co-Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              )One of the most significant achievements of the last century has been the
+              development of accurate methods to predict the electronic and structural
+              properties of matter. These methods, based on density functional theory and
+              pseudopotentials, allow us to explore the properties of materials without
+              resort to experiments. We can now predict new materials and their properties
+              based on numerical calculations. The only inherent limitations of these methods
+              are computational constraints; current electronic structures methods have a
+              very high computational cost. While the use of modern high-performance
+              computers has enabled tremendous progress in raw computational power for these
+              problems, gains on the algorithms side are also necessary to accommodate more
+              complex materials.
+
+This project will introduce new methods, based on
+              efficient algorithms, for bypassing the computational limitations mentioned
+              above. It will seek novel solution methodologies that improve efficiency
+              without sacrificing accuracy and functionality. In particular, one goal will be
+              to avoid the use of eigenvectors, the primary cost for both computation and
+              memory. The project will do this by examining the fundamental physics of the
+              problem, which reveals that a different basis for the subspace spanned by the
+              same eigenvectors can be computed and used instead. The project will find
+              efficient and robust methods for computing these bases, find efficient
+              solutions to the time-dependent and self-consistent Kohn-Sham equations,
+              develop effective out-of-core parallel methods for solving these very large
+              systems, and use these methods to perform pioneering calculations of real
+              materials.
+

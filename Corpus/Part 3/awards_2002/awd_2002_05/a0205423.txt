@@ -1,0 +1,78 @@
+Title       : ITR:Information Theoretic Secure Hyper-Encryption and Protocols
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 1,  2002     
+File        : a0205423
+
+Award Number: 0205423
+Award Instr.: Continuing grant                             
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : June 30,  2006       (Estimated)
+Expected
+Total Amt.  : $950000             (Estimated)
+Investigator: Michael O. Rabin rabin@deas.harvard.edu  (Principal Investigator current)
+              Yan Z. Ding  (Co-Principal Investigator current)
+              Salil P. Vadhan  (Co-Principal Investigator current)
+              Richard J. Lipton  (Co-Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 1667,9218,HPCC,
+Abstract    :
+              The overall objective of this proposal is to study and implement provably
+              information theoretic secure methods for encryption and derive applications to
+              important security tasks such as message and user authentication and commitment
+              protocols. The great interest in quantum cryptography demonstrates the need for
+              absolutely secure encryption. The approach will use existing networks to
+              transmit large streams of encrypted data. The proposed implementation can be
+              widely deployed within the near future. Having a practical, provably secure
+              against any attack, method for preserving secrecy of messages is of great
+              importance for protection of personal privacy and commercial correspondence.
+              
+
+In recent years a new paradigm for encryption, one that does not depend on
+              as yet unproven computational intractability results, was proposed. The
+              customary  assumption that the would be code-breaker is computationally
+              bounded,is replaced by an assumption that he is storage space bounded. The
+              Sender and Receiver share a small private key and employ an unending intense
+              stream of random bits readable by them and possibly by adversaries. The
+              bandwidth and duration of the bit stream renders the permanent storage of a
+              comparable number of bits by the adversary economically infeasible. Methods for
+              generating and broadcasting or transmitting the bit stream, and the viability
+              of the storage bound assumption, will be studied and implemented. In recent
+              years, strong results concerning the information theoretic everlasting secrecy
+              of a practical encryption algorithm (Hyper-Encryption) in the bounded storage
+              model were proved.
+
+The project will comprise four interleaving lines of
+              work. 
+1. System design: Satellite, web page, and fiber optics based systems
+              for the distribution of the random bit streams will be specified and analyzed
+              in consultation with experts in these technologies. 
+
+2. Protocols and
+              applications: Innovation and development of Hyper-Encryption based protocols
+              for e-commerce and network security. 
+
+3. Web page hopping based
+              Hyper-Encryption: Detailed development of a complete Hyper-Encryption system
+              employing random walk over pages of the World Wide Web as a pragmatic source of
+              randomness and evaluation of its viability. 
+
+4. Theoretical foundations:
+              Improving the Hyper-Encryption algorithm. Employing randomness extraction
+              methods to enhance the safety of the WWW  based system.
+
+Projected
+              achievements: 
+A usable detailed system for provably secure communications and
+              protocols based on Hyper-Encryptions.  Complete theoretical foundation for
+              Hyper-Encryption and its applications.

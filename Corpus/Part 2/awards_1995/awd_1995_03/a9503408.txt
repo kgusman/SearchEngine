@@ -1,0 +1,129 @@
+Title       : Iterative Substructuring Methods for Elliptic Problems and Related Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 12,  1997     
+File        : a9503408
+
+Award Number: 9503408
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1995    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $227000             (Estimated)
+Investigator: Olof B. Widlund widlund@cs.nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/598-3131
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+                The development of numerical methods for large   systems  is central in the
+              development of efficient codes for    fluid dynamics, elasticity, and other
+              core problems  of   continuum mechanics.  Many other tasks in such codes 
+              parallelize relatively   easily.  The importance  of the algebraic  system
+              solvers is therefore increasing with   the appearance of  parallel and
+              distributed computing systems, with a   substantial  number of fast 
+              processors, each with relatively large memory.  The   development of improved 
+              methods will, together with more  powerful computer systems,   make it possible
+              to  carry out  simulations in three dimensions, with quite high   resolution, 
+              relatively easily.    Work will continue in developing   iterative
+              substructuring  and  other domain decomposition methods for increasingly  
+              difficult  elliptic  problems.  Domain decomposition algorithms are iterative  
+               methods, often of  conjugate gradient type, for the parallel  solution of the 
+               large linear, or  nonlinear, systems of algebraic  equations that arise when  
+              partial differential  equations are  discretized by finite elements, finite  
+              differences, or spectral  methods.  In each iteration step, local problems
+              representing   the  restriction  of the original problem to a potentially large
+              number  of   subregions are solved  approximately.  The subregions, which  can
+              be allocated to   individual processors  of a parallel computer,  form a
+              decomposition of the entire   domain of the  problem.  In  addition, the
+              inclusion of a coarse subproblem   substantially increases the efficiency of
+              the preconditioner.      In this study,  which combines mathematical analysis
+              with the  design and   numerical testing  of algorithms, a special emphasis  is
+              on the study of   elements and other high  order finite element methods, on  
+              nonconforming methods  such as  the mortar finite elements, and on the
+              difficulties   which are  related  to distorted subregions or elements.        
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                             

@@ -1,0 +1,74 @@
+Title       : Interactive Concurrent Visualization of Unsteady Flows on Parallel Architectures
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 6,  2003      
+File        : a9872140
+
+Award Number: 9872140
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1999    
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $291085             (Estimated)
+Investigator: Mohammed Y. Hussaini myh@csit.fsu.edu  (Principal Investigator current)
+Sponsor     : Florida State University
+	      
+	      Tallahassee, FL  323064166    850/644-5260
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Simulations of fluid dynamics, such as the flow of air over an airplane
+wing,
+              are vital for understanding the fluids, but cannot be computed fast
+enough for
+              humans to interact with the simulation.  This project will
+develop an
+              efficient, accurate, integrated environment for the simulation,
+visualization,
+              and analysis of time-dependent turbulent flow fields using
+advanced physical
+              and numerical models.  The investigators will create
+low-order (relatively
+              cheap and fast) approximations to an existing
+Navier-Stokes code, and use the
+              approximations to provide interactive
+explorations of the simulation database
+              while the main code continues to
+run.  They will also add a graphical user
+              interface to the existing code to
+allow remote visualization.  The key
+              subtasks in this process will include:
+
+* Developing physically-based models,
+              called surrogate models, of the
+compressible Navier-Stokes equations that
+              sharply reduce the cost of the
+simulation yet capture the dominant flow
+              structures.
+
+* Using the surrogate models to visualize particle paths,
+              streaklines, and
+pathlines interactively while the full simulation
+              continues.
+
+* Using the flow features to assess the error of the surrogate
+              models.
+
+* Developing efficient parallel algorithms for the surrogates,
+              and
+assessing more advanced strategies for incrementally constructing
+              and
+adapting them to simulation data.
+
+
+
+
+
+

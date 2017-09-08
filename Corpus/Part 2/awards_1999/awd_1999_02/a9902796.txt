@@ -1,0 +1,67 @@
+Title       : Visually Optimized Supra Threshold Wavelet Image Compression
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 5,  2001   
+File        : a9902796
+
+Award Number: 9902796
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1999      
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $205397             (Estimated)
+Investigator: Sheila S. Hemami hemami@ee.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9902796
+Hemami
+
+The increase in image transmission, currently over the
+              internet and in the future via wireless personal-communication-services, poses
+              new problems with respect to digital image compression.  High-quality images
+              can be nearly instantaneously downloaded over a communications link with high
+              bandwidth.  However, as bandwidth decreases, the download time increases
+              dramatically.  At some point, the user may decide whether to continue or to
+              stop the transmission based on the image information available, rather than
+              waiting for the entire high-quality image.  If the transmission is stopped at
+              any point, the
+user should ideally have an image of the highest possible
+              visual quality for that amount of data.  Generation of such images requires an
+              understanding of the human visual system (HVS), and specifically how the HVS
+              perceives compression artifacts in low-quality images. However, HVS research to
+              date has focussed only on understanding how the HVS perceives artifacts in
+              high-quality images.  The goal of this research is to quantify the perception
+              of compression artifacts in wavelet-coded images with visible artifacts.  The
+              resulting
+algorithms will allow image recognition, object identification, and
+              data extraction at lower bit rates than algorithms known to date, and hence
+              imaging tasks will require that less data be transmitted or downloaded.
+
+The
+              proposed work will experimentally quantify human sensitivity to supra-threshold
+              compression artifacts in wavelet-compressed images. Because sensitivity to
+              visible artifacts is under evaluation, a top-down test in which actual images
+              are distorted is employed, rather than the traditional bottom-up test which
+              measures sensitivity to individual basis functions.  Uniform quantization noise
+              is added to individual subbands and observers identify the step sizes that
+              produce noticeable differences.  Fifteen images selected for their specific
+              visual characteristics and over 150 subjects will provide a data set large
+              enough to make general characterizations rather than producing image- and
+              observer-specific results.  The effects of granular and
+overload distortion
+              will be separately characterized, and these experimental results will be
+              incorporated into quantization strategies and compression algorithms, both for
+              traditional and embedded wavelet coders.
+
+

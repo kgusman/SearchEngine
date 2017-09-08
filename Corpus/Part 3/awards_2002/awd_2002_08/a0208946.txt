@@ -1,0 +1,54 @@
+Title       : Architectural Solutions for Preventing Distributed Denial of Service Attacks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a0208946
+
+Award Number: 0208946
+Award Instr.: Standard Grant                               
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $196250             (Estimated)
+Investigator: Ruby Lee rblee@ee.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 1667,9215,9218,HPCC,
+Abstract    :
+              Denial of service attacks flood a web-site with so many requests that it can no
+              longer respond. Computers connected to the Internet are vulnerable to being
+              used unwittingly in mounting a distributed denial of service (DDoS) attack on a
+              victim web-site.  Past countermeasures based on software patches or
+              re-compilation are often ignored by users, leaving many systems vulnerable. 
+              This research first proposes a classification of the various denial of service
+              attacks and countermeasures, then defines architectural solutions in the core
+              (non-optional) hardware and software of future machines.  
+
+The
+              vulnerabilities of computers, which allow DDoS attack networks to be set up,
+              are studied.  Low overhead architectural features in the core hardware of
+              computers are investigated which hinder attack networks from being set up in
+              the first place, or detect and prevent the execution of potentially hostile
+              code.   Malicious parties often employ buffer overflow attacks to gain entry to
+              a computer by corrupting procedure return addresses.  This research
+              investigates features like a secure return address stack (SRAS) in the
+              processor architecture as a new defense against such buffer overflow exploits. 
+              The proposed research approach is unique in providing defenses in the client
+              platforms rather than only in the servers or routers, and in building more
+              trusted architecture in the core hardware, rather than only in software layers.
+               Since application code need not be changed nor re-compiled, both legacy and
+              future software can enjoy the security benefits of hardware architectural
+              solutions.  Since DDoS attacks pose a serious threat to the availability of
+              critical Internet services, this research can contribute to the overall
+              security of the Internet while increasing the trust that owners may have in
+              their interconnected information appliances.
+

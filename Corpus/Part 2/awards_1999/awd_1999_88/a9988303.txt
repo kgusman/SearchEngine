@@ -1,0 +1,84 @@
+Title       : Centroidal Voronoi Tessellations: Algorithms, Applications, and Theory
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  2002       
+File        : a9988303
+
+Award Number: 9988303
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2000       
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $333882             (Estimated)
+Investigator: Max D. Gunzburger   (Principal Investigator current)
+              Qiang Du  (Co-Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              A centroidal Voronoi tessellation (CVT) is a Voronoi tessellation of a
+given
+              set such that the associated generating points are centers of 
+mass of the
+              corresponding Voronoi regions. Applications of CVT's 
+range from problems in
+              image compression, vector quantization, 
+quadrature rules, grid generation and
+              optimization, finite difference 
+schemes, distribution of resources, cellular
+              biology, cluster analysis, 
+and the territorial behavior of animals. The goals
+              are to develop highly
+efficient parallel algorithms for the computation of
+              CVT's, to gain 
+further understanding of interesting features related to the
+              these 
+tessellations, to implement and test these algorithms, and to produce
+              
+a useful software suite that can serve as a design tool for many
+problems in
+              applications.
+
+Among the theoretical questions to be studied are the
+              complexity of 
+algorithms for the construction of CVT's, the effects of
+              nonuniform 
+densities, CVT's in general metrics, constrained CVT's, and
+              generalized
+CVT's based on lines, curves and surfaces.
+
+Parallel
+              deterministic and probabilistic algorithms will be developed 
+and tested. In
+              the former case, different averaging and communication
+strategies will be
+              examined; for the latter,domain decomposition 
+ideas will be exploited. This
+              effort can lead to parallel grid generation
+ algorithms and other software
+              useful in applications such as
+clustering analysis.
+
+Applications of CVT's
+              will also be studied, with particular emphasis 
+on grid generation and
+              optimization. The questions addressed in this
+connection include the role of
+              the density functions used to generate 
+the CVT's on the optimal placement of
+              grid points, the construction of 
+grids with special properties and the the
+              use of various generalized 
+CVT's. Another application that will be examined
+              are the use of CVT's 
+in the clustering analysis of large data sets.
+

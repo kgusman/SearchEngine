@@ -1,0 +1,75 @@
+Title       : Robust Control of Non-Minimum Phase Non-Linear Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 2,  1999       
+File        : a9707891
+
+Award Number: 9707891
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1997    
+Expires     : September 30,  2000  (Estimated)
+Expected
+Total Amt.  : $162764             (Estimated)
+Investigator: Alberto Isidori isidori@zach.wustl.edu  (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9707891  Isidori    In the last few years, new powerful ideas and concepts
+              have contributed to the development of a number of systematic methods for
+              global analysis and design of nonlinear feedback systems.  A common goal of
+              these research efforts has been the synthesis of feedback controllers yielding
+              asymptotic stability (with prescribed region of attraction) and/or asymptotic
+              tracking (rejection) of selected exogenous commands (disturbances), in the
+              presence of structured uncertainties, such as parameter variations, and/or
+              unstructured uncertainties, such has unmodeled dynamics.  The actual setup in
+              which these robust design methods have to be implemented is that in which only
+              a set of variables (and not the full state) is available for feedback.  In this
+              case the entire design problem becomes of course more demanding, in view of the
+              need of including; some kind of "state observer" in the feedback architecture. 
+              This problem is particularly felt in the case of tracking, when the most
+              realistic situation is indeed the one in which only the "tracking error" (and
+              not the entire reference trajectory) would be available for control purposes. 
+              As it happens for any design scheme dealing with the selection of specific
+              output maps, the possibility of implementing the above-mentioned methods for
+              feedback design is deeply influenced by the asymptotic properties of the
+              so-called "zero dynamics" of the system (the dynamics which arise internally in
+              a system when input and initial state are such as to constrain the output to be
+              identically zero).  More precisely, a consistent number of these methods for
+              feedback design require the zero dynamics to be asymptotically stable: systems
+              having this property are - in analogy with a terminology en vogue for linear
+              systems called "minimum phase systems".  In particular, if a system is minimum
+              phase it is possible to achieve an arbitrarily small level of attenuation
+              between disturbances and output, with obvious positive consequences on the
+              ability of solving pr oblems of robust stabilization in the case of unmodeled
+              dynamics.  However, many physical systems exhibit a non-minimum phase behavior.
+               Motivated by the importance of being able to robustly control also non-minimum
+              phase nonlinear systems and by the scarcity of available results in this area,
+              this research will focus on two directions.  The first one deals with problems
+              of robust stabilization of non-minimum phase nonlinear systems, in the presence
+              of unmodeled dynamics.  Robustness with respect to this kind of uncertainty is
+              usually dealt with by looking at the controlled system as to the feedback
+              interconnection of two subsystems, only one of which is accurately modeled, and
+              then seeking a control law which lowers, as much as possible, some suitably
+              defined "gain" of the interconnection modeled/unmodeled component.  In this
+              setup, the research will address the problem of finding, for various classes of
+              non-minimum phase systems, estimates of the lowest achievable "gains" (so as to
+              reduce the conservativeness of the design).  The other direction is to study
+              problems of robust tracking in the presence of parametric uncertainties. 
+              Unlike the case of linear systems, where the presence of unstable zero dynamics
+              is generally not an obstruction to asymptotic tracking of prescribed families
+              of trajectories, in the case of non-minimum phase nonlinear system no method is
+              available yet to achieve asymptotic tracking, in the presence of large
+              parameter uncertainties and for arbitrarily large initial conditions.  This
+              part of the proposed research is directed toward the development of systematic
+              methods yielding semiglobal robust tracking for nonlinear systems having
+              unstable zero dynamics.

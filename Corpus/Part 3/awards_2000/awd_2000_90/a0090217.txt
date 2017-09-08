@@ -1,0 +1,78 @@
+Title       : Synthesis of Block-recursive Codes for Deep Memory Hierarchies
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 26,  2002      
+File        : a0090217
+
+Award Number: 0090217
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2004        (Estimated)
+Expected
+Total Amt.  : $548314             (Estimated)
+Investigator: Keshav Pingali pingali@cs.cornell.edu  (Principal Investigator current)
+              Paul V. Stodghill  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4080,9216,HPCC,
+Abstract    :
+              Modern computers have multi-level memory hierarchies in which the cost of data
+              access may increase by an order of magnitude or more from one level to the
+              next. On these machines, a program that touches a large amount of data runs
+              well only if it exhibits locality - that is, if most of its references are
+              satisfied by the highest level of the memory hierarchy. Unfortunately, many
+              programs do not exhibit locality.
+
+For 2-level memory hierarchies, the
+              numerical linear algebra community has addressed the problem by implementing
+              libraries of blocked codes such as LAPACK. For multi-level memory hierarchies,
+              they are developing libraries of block-recursive algorithms. 
+
+The problem
+              with any library is that it is not general-purpose - for example, the BLAS and
+              LAPACK libraries cannot be used for obtaining good performance on
+              finite-difference codes. This research will develop a general-purpose
+              restructuring compiler for synthesizing block-recursive codes from standard
+              iterative ones. The compiler is general-purpose in the sense that in principle,
+              it can restructure any program in which dense arrays are accessed by affine
+              array references. The technology proposed  has already been used successfully
+              to restructure iterative codes into LAPACK-style blocked codes.
+
+The approach
+              to be taken consists of:
+
+--- converting the problem of generating code that
+              touches data in a block-recursive order into the problem of generating code
+              that walks over a certain iteration space called the product space in a
+              block-recursive or space-filling order. This enables standard techniques from
+              dependence analysis to be used to synthesize the appropriate restructuring
+              transformations.
+
+- switching to an iterative code once the problem size
+              becomes small enough. The threshold problem size at which this transition
+              should happen may be difficult to determine analytically. In our system, the
+              compiler will estimate this size using a simple abstraction of the underlying
+              machine architecture. For frequently used codes however, the system will use a
+              new approach called empirical optimization - whenever there are free cycles on
+              the machine, our system will experiment with different threshold values,
+              remember the best threshold value for each input size, and use that value when
+              that code is run again.
+
+- developing a symbolic analysis technique called
+              fractal symbolic analysis for verifying the legality of transformations on
+              codes like LU with pivoting (since it is well-known that dependence analysis is
+              inadequate for restructuring codes such as LU factorization with pivoting).
+              However, it is not yet known how to synthesize the right locality-enhancing
+              transformations from information provided by fractal symbolic analysis. Such
+              techniques will be developed and integrated with dependence-based techniques.
+              
+

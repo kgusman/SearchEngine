@@ -1,0 +1,62 @@
+Title       : CAREER: Model Free Fault Detection for Nonlinear Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : February 6,  2002   
+File        : a0134132
+
+Award Number: 0134132
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : February 1,  2002   
+Expires     : January 31,  2007    (Estimated)
+Expected
+Total Amt.  : $375000             (Estimated)
+Investigator: Tyrone L. Vincent tvincent@mines.edu  (Principal Investigator current)
+Sponsor     : Colorado School of Mines
+	      1500 Illinois
+	      Golden, CO  804011887    303/273-3200
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,1045,1187,OTHR,
+Abstract    :
+              This proposal will deal with concerns of the development and application of
+              methods for fault detection of nonlinear dynamical systems. Fault detection of
+              linear systems is by now well established, but application of these techniques
+              to nonlinear systems can lead to a loss of performance. The market for fault
+              detection is growing, as more and more manufacturing and industrial centers are
+              interested in improving their productivity by reducing unplanned maintenance
+              and limiting losses to product due to equipment failure. In addition, many
+              manufactures have installed sophisticated sensor and data collection networks
+              in order to closely monitor their processes, which would enable the application
+              of very sophisticated fault detection schemes.
+
+Fault detection can be as
+              simple as placing limits on the allowable range of sensor measurements, but
+              when the systems that are monitored are dynamic systems, more sophisticated
+              methods can and should be applied. This is because dynamic systems, by the
+              their very nature, have temporal relationships between the system variables
+              that characterize both normal and faulted operating conditions. The challenge
+              is to codify these temporal relationships. One method is to develop analytical
+              models from first principles. In most model based fault detection schemes,
+              output observers are designed which generate residual signals that measure the
+              disagreement between the model and the measured data. However, these models are
+              sometimes difficult to come by. The systems described above are nonlinear
+              thermo-fluid systems that are difficult to model accurately and the resulting
+              models would have many unknown parameters. In this case, system identification
+              methods can be employed.
+
+This proposal is aimed at developing a theory of
+              the interactions between the system identification and fault detection
+              processes. The focus is on a general, practical method of nonlinear fault
+              detection which is easily implemented on input/output models that are generated
+              by modern nonlinear system identification methods. The basic question that is
+              addressed is to determine how the choices made during the system identification
+              process, such as the model structure. The objective function, the choice of
+              regularization, and the validation procedure influence or interact with the
+              fault detection process. 
+

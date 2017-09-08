@@ -1,0 +1,101 @@
+Title       : ITR: Space-Time Spreading and Coding
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 26,  2002      
+File        : a0082987
+
+Award Number: 0082987
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $474716             (Estimated)
+Investigator: Vijay P. Kumar vijayk@ceng.usc.edu  (Principal Investigator current)
+              Keith M. Chugg  (Co-Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1656,1660,4096,4097,4720,9218,HPCC,
+Abstract    :
+              PROJECT SUMMARY
+The channel fading and co-channel interference present in a
+              wireless radio propagation channel presents a harsh challenge to the radio
+              design engineer. Diversity techniques commonly used to combat the channel
+              include the use of interleaved coded modulation and multiple antennas at the
+              receiver end. Lately there has been a great deal of interest in the use of
+              multiple antennas at the transmitter end, i.e., in using transmit diversity. 
+              Researchers have shown that the capacity of multi-antenna systems significantly
+              exceeds that of conventional single-antenna systems. Space-time codes attempt
+              to realize the potential increase in capacity by distributing code symbols
+              intelligently in space (across the different transmit antennas) and time.  This
+              topic has received a great deal of attention since the BLAST space-time system
+              was proposed and demonstrated at Bell Labs. This is because, owing to the
+              additional dimensionality obtain by exploiting space, a spectral efficiency of
+              40 bits per sec per Hz at realistic signal to noise ratios was demonstrated
+              (i.e., 20 times the spectral efficiency achieved in current cellular systems).
+              The importance of space-time methods in communication and information theory
+              was recently recognized by the selection of the work by Tarokh, Seshadri and
+              Calderbank for the 1999 IEEE Information Theory Paper Prize.  The great
+              majority of space-time coding research has been based on the following
+              assumptions:
+
+Single-user link or time-division multiplexed
+
+Complex
+              Gaussian channel gains (frequency at fading) from each transmit (Tx) antenna to
+              each receive (Rx) antenna.
+
+Independent channels for each Tx-Rx antenna
+              pair.
+
+Equal average energy in each Tx-Rx antenna channel.
+
+Time
+              non-selective channels (quasi-static assumption)
+
+Based on these assumptions,
+              effective design rules have been established by considering the probability of
+              pairwise codeword error. These design rules aim to maximize the diversity and
+              coding gains.  The assumptions described above best represent a system with a
+              dense, rich scattering environment sur-rounding the Tx and Rx antenna arrays
+              and stationary or slowly moving receivers. This model is applicable, for
+              example, to an indoor office environment. It may also be accurate for a
+              pedestrian cellular user in a dense urban environment, depending on the
+              base-station antenna location. However, space-time channel measurements and
+              models suggest that in many cases of practical interest, the above assumption
+              of independence of channel gains is not accurate.  The lack of like-signal
+              interference may also not be applicable to code-division multiple access
+              (CDMA)
+systems since a well-utilized CDMA system is limited by such
+              interference. Virtually all third-generation mobile radio standards are based
+              on CDMA systems as are the most effective wireless LAN systems. In a CDMA
+              system, the effects of signature sequence design must also be considered
+              together with coding and
+modulation.
+In this project, we have developed an
+              expression for the pairwise error probability for a system model that is
+              broadly applicable. Our model includes arbitrary correlation between Tx-Rx
+              antenna channels, multiple CDMA users, and the potential for time variations in
+              the channel gains. Based on this model we propose to develop design rules for
+              space-time spreading and coding for CDMA systems. Our goal is to develop rules
+              that are applicable to a variety of applications (i.e., mobile users and dense
+              scattering, or fixed-point systems
+out of the scatter) and/or which are robust
+              to uncertainties in the channel model.
+We propose to generalize the methods of
+              space-time coding so that the approach may be used in CDMA systems and/or
+              systems without rich scattering environments. Research directions include rules
+              for spacetime spreading and code design, investigation of receiver structures
+              and channel estimation/tracking, code design for simplified decoding and
+              modified design rules for non-Euclidean distance receivers. This study will be
+              conducted under different channel model assumptions and presumed knowledge at
+              the receiver and transmitter of channel knowledge.
+

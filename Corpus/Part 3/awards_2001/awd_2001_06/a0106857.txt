@@ -1,0 +1,118 @@
+Title       : Improvements and New Techniques for Deterministic and Stochastic SIR based Power
+               Control for 3-G Wireless CDMA Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0106857
+
+Award Number: 0106857
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $259468             (Estimated)
+Investigator: Zoran R. Gajic   (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The proposed research is about the use of optimal control theory and modern
+              numerical linear algebra
+techniques to improve existing power control schemes
+              and to formulate and solve more general and more
+realistic formulations of
+              power control problem in 3-G wireless CDMA networks. The first two parts of
+              the
+proposal deal with the deterministic power control problem and its
+              variants, and the third part is on
+stochastic versions of the same problem.
+ 
+                 In the first part of the proposed research, an improvement of distributed
+              constrained power control
+algorithm (PCPC), which is presently considered in
+              the literature as the most efficient one, is suggested
+via the use of the
+              acceleration techniques for fixed-point iterations and via the use Krylov
+              subspace
+iterations (presently considered as the most efficient numerical
+              method for solving systems of linear
+large scale algebraic equations).
+    
+              The second part of the proposal considers an optimal fast closed-loop SIR-based
+              power control
+scheme for 3-G wireless CDMA network, based on the recent
+              research work of the author of this proposal
+and his doctoral student. In
+              addition of being optimal, the scheme obtained theoretically converges in
+              one
+iteration. This scheme follows perfectly channel variations and assumes
+              that the link gains constantly
+change in time. Due to the fact that the scheme
+              needs a scalar discrete-time estimator (predictor), it
+practically converges
+              in 4-5 iterations. Simulations on a CDMA system demonstrate the effectiveness
+              of
+the optimal power control algorithm and its superiority over the
+              corresponding IS-95 algorithm and the
+present version of the DCPC algorithm.
+              As a future research topic, a comparative analysis between the
+optimized power
+              control algorithm and the improved versions of the DCPC algorithm (accelerated
+              and
+Krylov subspace based) to be obtained in the first part of this proposal,
+              is suggested first. Secondly, since
+during optimization, the weighted sum of
+              the transmission power and the SIR (signal-to-interference)
+error, are jointly
+              optimized, the power control problem can be put in the framework of Nash
+              dynamic
+games. It is suggested to extend the optimized power control results
+              to capture the conflict situation
+among users in a wireless network, which
+              leads to the formulation of a Nash dynamic game problem.
+     The third part
+              of this proposal deals with the stochastic formulation of the power control
+              problem. This
+is a pretty much new and widely open research problem. The basic
+              problem formulation extends the
+deterministic optimized power control problem
+              to a stochastic environment, and leads to the linear power
+evolution equation
+              with additive Gaussian white noise. This problem formulation assumes that
+              either link
+gains or background noise or both are modeled as Gaussian white
+              noise stochastic processes. Its variant
+of colored background noise and
+              colored link gains noise are also suggested for future research. In
+addition,
+              more realistic situations of state- and control-dependent noise using optimal
+              control theory
+results will be considered. The control variables will be the
+              ones that regulate the convergence process of
+the state variables
+              (transmission powers and SIR errors) to their optimal values in a noisy
+              environment.
+Note that the state- and control-dependent noise optimal control
+              problems in discrete-time domain have
+been solved recently in the optimal
+              control literature. In the final stage of this proposal, it is suggested
+              to
+study the power control problem assuming that the link gains change
+              according to Poisson stochastic
+processes.
+     The impact of the proposed
+              research will be in the area of improvements of the capacity of 3-G
+wireless
+              CDMA networks, reliability of quality of service (QoS) and durability of user's
+              battery life. All
+these will be achieved by controlling interference in an
+              optimal manner.

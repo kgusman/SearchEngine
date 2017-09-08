@@ -1,0 +1,72 @@
+Title       : Representation Specification and Optimization of Object-Oriented Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 30,  2002       
+File        : a0073379
+
+Award Number: 0073379
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $249782             (Estimated)
+Investigator: Craig D. Chambers chambers@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Craig Chambers
+
+Higher-level programming languages, such as Smalltalk, ML, and
+              Java, can make
+programming easier, more reliable, and more flexible than
+              lower-level
+programming languages, such as C and C++.  Unfortunately, these
+              software
+engineering benefits often come at significant cost to run-time
+              efficiency.
+ One
+important obstacle to achieving good performance for
+              higher-level languages is
+the relatively inefficient approach to the
+              representation and layout of data
+structures, where data structures are
+              represented uniformly as heap-allocated
+structures referenced indirectly via
+              pointers.
+
+This research aims to reduce the performance costs of this
+              high-level data
+model
+while retaining its software engineering benefits for
+              programmers.
+Declarative
+techniques will be developed for specifying the
+              layout of data structures and
+for specifying optimizations to data structure
+              layouts.  Techniques will be
+developed for deciding which layout optimizations
+              to apply, based on a mix of
+programmer suggestions, automatic static analyses,
+              and dynamic profile
+feedback.  A flexible, language-independent compiler
+              intermediate
+representation
+will be designed that explicitly maintains,
+              checks, and optimizes
+representations.  The techniques will be implemented in
+              an optimizing
+compiler,
+and their effectiveness measured on a range of large
+              benchmark programs in a
+variety of object-oriented programming languages.
+

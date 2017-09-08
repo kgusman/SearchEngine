@@ -1,0 +1,101 @@
+Title       : Interior Point Methods for Nonconvex Nonlinear Programming
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 30,  2001      
+File        : a0107450
+
+Award Number: 0107450
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $216700             (Estimated)
+Investigator: David F. Shanno shanno@rutcor.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              The work will continue to develop the algorithm of the LOQO 
+interior point
+              code for general continuous mathematical 
+programming problems, and expand the
+              range of problems to 
+which it can be applied. Areas of research include
+              better
+detection of infeasibility and unboundedness, better detection 
+of
+              linear dependence of the constraints, and better estimates 
+of initial
+              estimates to the optimum point. Work on higher 
+order methods, which can
+              greatly improve algorithmic efficiency, 
+will be continued, with particular
+              interest in applying filter 
+methods. In an attempt to expand the scope of the
+              types of 
+problems that the algorithm can solve, the research will be
+              
+concerned with solving discrete problems using interior point 
+methods. On
+              type of problem considered will be mixed integer 
+quadratic programming.
+              Problems of this type commonly arise in 
+finance. Mixed integer linear
+              programming problems will also 
+be studied, with an initial focus on quickly
+              finding feasible 
+solutions. Further work will be concerned with general
+              
+complementarity problems, especially those that arise in 
+economics and
+              engineering. In all cases, appropriate collections 
+of problems arising from
+              real applications will be modeled 
+in AMPL. These will be made available via
+              the internet, as will 
+extensions to the LOQO program.
+
+The LOQO code for
+              solving a variety of types of mathematical 
+programming problems has been
+              under development for the past 
+four years as a joint research effort of the
+              principal investigator 
+and Professor Robert Vanderbei of Princeton
+              University. The code 
+is made freely available via the internet, and to date
+              has been 
+downloaded several thousand times. It is used to solve problems 
+as
+              diverse as engineering design, portfolio optimization, airline 
+scheduling
+              problems, and is currently being adapted for various 
+projects in medical
+              research. The proposed research is 
+concentrated both on improving the
+              efficiency of the code and 
+increasing the set of problems for which the code
+              can be used. 
+The new types of problems for which it is hoped the code can
+              
+be adapted efficiently are problems with variables that must be 
+an integer,
+              generally 0 or 1. These problems are extremely common, 
+and of great practical
+              value. For example, when assigning aircraft 
+to routes, a whole plane must be
+              assigned to a specific route, 
+not some fraction of a plane. Including integer
+              variables within 
+the context an algorithm of this type is very new, and will
+              be 
+approached initially through important specific applications.

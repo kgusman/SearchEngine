@@ -1,0 +1,53 @@
+Title       : CAREER: Cooperative Compiler Optimizations for Fine-Grained Parallel
+               Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 12,  1999       
+File        : a9625219
+
+Award Number: 9625219
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1996        
+Expires     : April 30,  2000      (Estimated)
+Expected
+Total Amt.  : $220000             (Estimated)
+Investigator: Cindy Norris can@cs.appstate.edu  (Principal Investigator current)
+Sponsor     : Appalachian State Univ
+	      
+	      Boone, NC  28608    704/262-2000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              In order for compilers of fine-grain parallel architectures to be  as effective
+              as possible, compiler writers must understand the  interactions between the
+              phases of the compiler. These phases  include instruction scheduling which
+              rearranges code in order to  increase available fine-grain parallelism.  In
+              addition, code  transformations to increase memory performance are applied,
+              such  as tiling and loop interchange to increase cache performance, 
+              prefetching to prefetch values from memory in order to eliminate  the memory
+              latency, and scalar replacement which changes array  references to scalar
+              references to decrease memory accesses. The  compiler also performs register
+              allocation, which allocates  registers to values so as to minimize the number
+              of memory  accesses.    The goal of this proposed work is to investigate the
+              interactions  of these phases. This effort is being undertaken along two 
+              directions. The first direction is to continue previous work in  cooperative
+              register allocation and instruction scheduling by  (1) incorporating
+              cooperative software pipelining and performing  the cooperative register
+              allocation and scheduling optimizations  over a single framework, the program
+              dependence graph  (2) performing a thorough analysis and experimental study of
+              the  effects of register assignment strategies on scheduling to  increase
+              fine-grain parallelism. The second direction is to  investigate the
+              interactions between code transformations  improving memory performance and
+              other compiler phases. In  particular, the proposed work will investigate (1)
+              the impact of  scalar replacement and software prefetching on instruction 
+              scheduling to increase fine-grain parallelism and on register  allocation (2)
+              strategies for enabling communication between code  transformations to increase
+              memory performance, register  allocation, and instruction scheduling.  ***

@@ -1,0 +1,49 @@
+Title       : ITR: Automated Verification of Asynchronous Software Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 5,  2002  
+File        : a0219745
+
+Award Number: 0219745
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $360000             (Estimated)
+Investigator: Gianfranco Ciardo ciardo@cs.wm.edu  (Principal Investigator current)
+Sponsor     : College of William & Mary
+	      Grants & Research Admin.
+	      Williamsburg, VA  231878795    757/221-3967
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : ,1667,9216,HPCC,
+Abstract    :
+              Abstract
+0219745
+Ciardo -
+College of William and Mary
+
+This research is
+              devoted to the development and implementation of novel sequential and parallel
+              algorithms for the verification of asynchronous software systems, such as
+              communication protocols and distributed or embedded software.  Existing
+              automated techniques based on state-space exploration, in particular symbolic
+              model checking based on Binary Decision Diagrams (BDDs), focus on verifying
+              synchronous hardware and software.  Although symbolic model checking may in
+              principle be applied to asynchronous software systems as well, this poses new
+              challenges that are not, or only insufficiently addressed in the literature. 
+              Most importantly, the inherent complexity of asynchronous software makes
+              state-space exploration a time-bound problem, in addition to a memory-bound
+              problem.  The research addresses these two fundamental limitations by
+              developing algorithms that employ Multi-valued Decision Diagrams (MDDs) and
+              Boolean Kronecker Operators to encode sets of states and transitions,
+              respectively, in contrast to BDDs traditionally used for both purposes.  This
+              paves the way for exploiting the property of event locality that is inherent in
+              asynchronous software and, thereby, for greatly improving the efficiency of
+              sequential algorithms and enabling their efficient parallelization. 

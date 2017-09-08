@@ -1,0 +1,65 @@
+Title       : Nonlinear Robust Control and Estimation For Distributed Parameter Systems: A
+               Temperature Field Control Application
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : August 10,  1998    
+File        : a9813284
+
+Award Number: 9813284
+Award Instr.: Standard Grant                               
+Prgm Manager: Alison Flatau                           
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1999    
+Expires     : December 31,  2001   (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Sergey V. Drakunov drakunov@eecs.tulane.edu  (Principal Investigator current)
+              Enrique Barbieri  (Co-Principal Investigator current)
+              Fernando Figueroa  (Co-Principal Investigator current)
+Sponsor     : Tulane University
+	      6823 St. Charles Avenue
+	      New Orleans, LA  701185665    504/865-4000
+
+NSF Program : 1632      DYNAMIC SYSTEMS AND CONTROL
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 9218,HPCC,
+Abstract    :
+              9813284  Drakunov  The objective of this research project is to develop robust 
+              and computationally feasible control schemes which can  successfully deal with
+              Distributed Parameter Systems(DPS).  The main difficulties to control DPS for
+              example, a  diffusion equation modeling the evolution of the temperature  field
+              in arc welding, or a Timoshenko equation modeling the  vibrations of a flexible
+              manipulator, are complexity and  strong uncertainty.  Although one can assume
+              for simulation  purposes that the geometry and properties of the heated (or 
+              cooled) materials are known, or that the manipulator payload  may be ignored,
+              in practice they vary in a wide range.  An  accepted model for a DPS is
+              obtained by (1) selecting a  suitable set of boundary conditions that describe
+              a closely  related problem; (2) solving the associated  eigenvalue/eigenfuction
+              problem; and (3) invoking the  assumed-mode method.  The result is an infinite
+              system of  uncoupled, ordinary differential equations for the so called  system
+              modes.  In practice, one truncates the model and  fulfills the control design
+              using a finite number of  equations.  To validate such an approach in general,
+              the  effects of unmodeled dynamics, that is, control and  observation
+              spillover, need to be examined.  On the other  hand, there exists the sliding
+              mode control methodology,  which is well developed for finite dimensional
+              systems but  relatively very little has appeared in the literature for 
+              infinite dimensional systems.  The appeal of this approach  is its robutsness
+              to matched disturbances and parameter  variations. The design idea is based on
+              the following  procedure: in order to solve a control problem such as the 
+              stabilization of the weld width or heat penetration, the  objective is
+              formulated as a certain function of the system  states which defines a desired
+              manifold.  A control is found  such that the set in the state space where this
+              relation is  true forms a sliding manifold, that is, an integral manifold 
+              reachable in finite tim e.  Once in the sliding mode, the  dynamic behavior is
+              prescribed by the choice of switching  surfaces, and the system is inherently
+              insensitive to that  class of parameter variations and external disturbances 
+              which is implicit in the system input channels -- the so  called matched
+              uncertainty.  The inherent insensitivity of a  system with sliding modes to
+              parameter variations and  disturbances eliminates the need for exact modeling -
+              a very  desirable property that has quite remarkable theoretical and  practical
+              implications.  In this research project, the  generalization of this method is
+              developed with mathematical  rigor to further study and synthesize efficient
+              control and  sensing algorithms for DPS.  ***

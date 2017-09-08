@@ -1,0 +1,71 @@
+Title       : ITR: Feedback Control of Dynamic Computing Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 27,  2002    
+File        : a0219047
+
+Award Number: 0219047
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $350000             (Estimated)
+Investigator: Dawn Tilbury tilbury@umich.edu  (Principal Investigator current)
+              Brian D. Noble  (Co-Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,9215,HPCC,
+Abstract    :
+              Software systems have become increasingly complex, and are expected to
+provide
+              service over wide operating ranges.  To meet service goals,
+software
+              developers provide many tuning  parameters that must be
+set carefully for the
+              system to provide acceptable performance and
+functionality.  Tuning these
+              parameters adequately often requires extensive
+trial-and-error experimentation
+              by system administrators.  As workloads and
+operating conditions continually
+              change, the parameters must be endlessly
+re-tuned to provide good
+              performance.
+
+This research project will apply feedback control to automate
+              this
+parameter tuning loop in two example systems.  The first, a
+              wide-area
+replicated file system, provides variable consistency and
+              performance
+through optimistic concurrency control.  Feedback will be used to
+              schedule
+replica reconciliation and data migration  to provide
+              acceptable
+performance and consistency to end users.  The second system, a
+              database
+engine, offers a large variety of tuning parameters to be
+              considered.
+Feedback control will be used to enable database administrators to
+              manage
+the growing complexity of their server systems.
+
+ From these two
+              examples and other work, a framework for feedback control of
+dynamic computing
+              systems will begin to emerge.  This framework will enable
+future computing
+              systems to offer reliable and robust operation and
+predictable performance,
+              without costly maintenance and continual manual
+tuning.
+

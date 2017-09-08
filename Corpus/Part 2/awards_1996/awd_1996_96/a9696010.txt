@@ -1,0 +1,46 @@
+Title       : RIA: Fast Simulation of Computer Architectures Using Field-Programmable Gate
+               Arrays as Hardware Accelerators
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 26,  1995   
+File        : a9696010
+
+Award Number: 9696010
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1995     
+Expires     : January 31,  1998    (Estimated)
+Expected
+Total Amt.  : $76100              (Estimated)
+Investigator: Thomas M. Conte conte@ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              This research is on architectural-level simulation using field-  programmable
+              gate arrays as hardware accelerators.  The goals of  this research include the
+              development of a paradigm for  architectural specification that is both
+              general-purpose and can be  used to produce fast and efficient simulators,
+              development of a  graphical user interface-based entry tool, development of
+              tools for  automatic translation of an architectural description to FPGA 
+              programming information, and implementation of a trace-driven  execution
+              environment to run the simulations.  The key idea behind  this work is to use
+              FPGA's to simulate a system above the gate  level, at the level of events,
+              dependencies, resources and delays.   FPGA's place a limit on the size of the
+              hardware-implemented data  structures, which will be extended via a software
+              monitor to allow  virtual, unlimited-length structures.  The simulation will be
+               automatically translated from a high-level description by use of  methods
+              adapted from high-level synthesis and the compilation of C  programs.  To aid
+              in entering the architectural description, a  graphical user interface tool
+              will be developed.  The paradigm for  system description will be based on a
+              discrete-event architectural  model of system behavior.  This paradigm will be
+              hierarchical and  provide a library that takes advantage of existing fast
+              simulation  techniques for cache and processor simulation.

@@ -1,0 +1,47 @@
+Title       : Stability of Large Scale Systems With Order Model Reduction
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 22,  2001       
+File        : a9803055
+
+Award Number: 9803055
+Award Instr.: Standard Grant                               
+Prgm Manager: James Momoh                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  1998    
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $125000             (Estimated)
+Investigator: M. A. Pai pai@ece.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9803055  Pai    Stability of large scale systems with model reduction is
+              going to be important in the emerging new structure of power systems.  Faster
+              and reliable tools for computing dynamic available transfer capabilities (DATC)
+              will be needed.  This proposal addresses three aspects which will impact this
+              area.    Firstly, trajectory sensitivities which have yielded reliable results
+              for dynamic security assessment (DSA) based on post-fault systems only, will
+              now be extended to cover both faulted and post-fault dynamics.  This will imply
+              formulating dynamic sensitivity functions for systems of differential algebraic
+              equations with discontinuities in the algebraic portion.  This will enable the
+              direct computation of sensitivities to critical clearing time as well to
+              changes in load, tap settings, etc.    A second objective is to find better and
+              robust preconditioners for solving large sparse systems of the type Ax = b by
+              iterative methods.  This will then be used as part of the fast dynamic
+              simulation algorithm using the simultaneous implicit method.    Finally two new
+              approaches to model reduction will be taken.  First, we will use trajectory
+              sensitivities of the nonlinear dynamic response to identify coherent
+              generators.  To date only linearized models around an operating point have been
+              used for coherency grouping or some other heuristic criteria.  Secondly, we
+              will use the Krylov projector technique to develop reduced order dynamic
+              models.  This is a recently developed tool in numerical linear algebra for DAE
+              systems.

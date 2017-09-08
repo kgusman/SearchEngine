@@ -1,0 +1,69 @@
+Title       : CAREER: Learning to Understand -- Integrating Reasoning and Learning
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 21,  2003  
+File        : a0093100
+
+Award Number: 0093100
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  2001     
+Expires     : February 28,  2010   (Estimated)
+Expected
+Total Amt.  : $422897             (Estimated)
+Investigator: Robert L. Givan   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Because general-purpose deduction in first-order languages is undecidable, it
+              has been difficult to incorporate into practical relational concept learning. 
+              In this project the PI will explore the use of powerful polynomial-time
+              deductive reasoning procedures to benefit relational learning systems. The
+              research introduces a new learning setting called "learning from immediate
+              consequences"  which is parameterized by a polynomial-time deductive reasoning
+              procedure that can be viewed as defining the "immediate consequences" of any
+              set of formulas relative to a query.  The learning goal in this setting is to
+              take as input a set of examples that are not currently immediate consequences
+              of the background knowledge, and induce a definition of the target concept such
+              that the positive examples become immediate consequences but the negative
+              examples do not. A rough analogy can be drawn between immediate consequences
+              and those consequences that are obvious to humans.  When given a query, a human
+              is able to determine immediately whether or not the answer to it is obvious, in
+              the same sense that a low-order polynomial-time inference procedure can quickly
+              answer the same question.  Given this analogy, the proposed learning setting
+              can be viewed as learning a target concept that makes the positive examples
+              obviously covered while the negative examples remain apparently uncovered.  
+              Formal representation languages other than classical predicate calculus will be
+              considered, which are designed to facilitate discovery of useful immediate
+              consequences quickly;   the resulting learning system can express and learn
+              target concepts in a language that is strictly more expressive than the
+              standard Horn clause language.
+
+This approach stands in contrast to that used
+              by perhaps the most well-known efficient relational learning system, FOIL,
+              which avoids the undecidability of general-purpose deduction entirely by
+              requiring that all background knowledge be extensionally specified, and making
+              no attempt to go beyond that specification deductively.   In spite of the
+              contrast between the PI's approach and that of FOIL, it is feasible to
+              integrate many of the ideas from FOIL and other relational learning systems
+              into this new learning setting, with the intention of retaining the advantages
+              of those systems.   The potential impact of this work includes improved
+              induction and data-mining algorithms for use in many industrial contexts. 
+              These algorithms will be particularly advantageous in situations where the data
+              to be analyzed are highly structured, and thus are not ideal for current
+              state-of-the-art attribute-value learning techniques. This work will provide
+              means to recognize rich structure in data without using expensive
+              theorem-proving techniques and/or assuming an extensionally represented
+              background knowledge base.  Natural language text databases on the world-wide
+              web form a central source for learning problems that will benefit from such
+              efficient use of structured representations.
+

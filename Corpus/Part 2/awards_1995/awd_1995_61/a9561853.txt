@@ -1,0 +1,53 @@
+Title       : SBIR PHASE I: MultiFACET - An Approach for Solving Large Scale Planning and
+               Scheduling Problems
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : February 14,  1996  
+File        : a9561853
+
+Award Number: 9561853
+Award Instr.: Standard Grant                               
+Prgm Manager: Ritchie B. Coryell                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 1,  1996      
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $74069              (Estimated)
+Investigator: Donald L. Miller miller@combination.com  (Principal Investigator current)
+Sponsor     : Adv Process Combinatorics
+	      P.O. Box 2324
+	      West Lafayette, IN  479060324    218/724-5416
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0308000   Industrial Technology                   
+              59        Engineering NEC                         
+Program Ref : 1465,9147,MANU,
+Abstract    :
+              DMI-9561853  Miller         This Small Business Innovation Research (SBIR) Phase
+              I develops new software for solving planning, and scheduling problems in
+              flexible manufacturing facilities.  The software design is directed to
+              solutions for large-scale industrial planning and scheduling.  @enefits are
+              expected in increased production capacity, reduced waste, lower operating
+              costs, reduced inventories, and shorter response time to customer orders.  The
+              approach is a rigorous mathematical formulation of planning and scheduling
+              problems and relies on a novel problem decomposition methodology.  The
+              decomposition scheme uses a sliding time window containing a detailed model,
+              coupled to a coarse-grained planning model for the remainder of the time
+              horizon.  The heart of the method is an automated mechanism for propagating a
+              detailed window along the time axis in an iterative fashion, much like
+              numerical integration.  The time axis is decomposed into fine and coarse
+              grained sections.  In the fine grained section, the scheduling problem will be
+              modeled and solved as a mixed-integer linear program.  The length of the
+              fine-grained time window is chosen so that the scheduling subproblem may be
+              solved using a customized algorythm.  The remainder of the time horizon
+              (outside the fine grained window) will be modeled using aggregate constraints
+              and solved by relaxing integrality conditions.  This allows such macroscopic
+              features as plant capacity and anticipated product demand to be propagated into
+              each detailed scheduling subproblem.       If successful, this research will
+              provide a new engine for scheduling tools useful in process industries. 
+              Available software is difficult and expensive to install and maintain and does
+              not provide high quality solutions.  The new software is expected to reduce
+              customization and installation time and yet provide high quality results.

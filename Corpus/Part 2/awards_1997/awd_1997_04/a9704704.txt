@@ -1,0 +1,44 @@
+Title       : Postdoc: Exposing Input/Output Parallelism by Relaxing Request Ordering
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : April 15,  1997     
+File        : a9704704
+
+Award Number: 9704704
+Award Instr.: Standard Grant                               
+Prgm Manager: Stephen R. Mahaney                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Garth A. Gibson garth@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9192,9218,HPCC,
+Abstract    :
+                97-04704  Gibson, Garth A  Carnegie Mellon University    Postdoc:  Exposing
+              Input/Output Parallelism by Relaxing Request Ordering     (CES Associateship
+              for Tara Madhyastha)  Input/output is a critical performance limitation for
+              many parallel scientific applications. One important lesson learned from
+              application performance analysis is that it is important to expose and utilize
+              all available input/output concurrency.  A traditional sequential file model
+              does not allow applications to express the parallel nature of their resource
+              demands, or to exploit the full parallel file system bandwidth.   This research
+              proposes new application-level input/output interfaces to express parallelism
+              that cannot be automatically detected.  Interfaces to access parallel files
+              with partially ordered or unordered records will be created and evaluated on a
+              variety of parallel platforms, quantifying the performance improvements
+              achieved at various levels within the file system. The demonstrated benefits of
+              application supplies access pattern information; while file system policy
+              control drive attempts to standardize system and application-level programming
+              interfaces.   However, the division between system and application-level file
+              system functionality is poorly understood.  This research helps to define this
+              boundary for a large and important class of parallel scientific applications.

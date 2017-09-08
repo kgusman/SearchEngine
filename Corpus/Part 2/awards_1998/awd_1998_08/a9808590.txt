@@ -1,0 +1,45 @@
+Title       : A Framework for Path and Resource Sensitive Optimizations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  1998      
+File        : a9808590
+
+Award Number: 9808590
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $360000             (Estimated)
+Investigator: Rajiv Gupta   (Principal Investigator current)
+              Mary L. Soffa  (Co-Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              The current design for compilers typically includes optimization  modules in
+              order to provide the performance required in today's  application programs. The
+              extensive research performed on code  optimization in the last 25 years has
+              focused on developing the  necessary data flow and code improving algorithms
+              for particular  optimizations.  Although these efforts have been enormously 
+              successful, a number of problems with the optimization models that  are
+              currently used are surfacing. One problem relates to where  optimizations are
+              applied in the program code. Another problem is  that the optimization models
+              that have traditionally been used are  inflexible and simplistic in that they
+              do not take into account  the available machine resources or characteristics. 
+              This  research is exploring techniques which address these problems  through
+              the development of a framework for path and resource  sensitive optimizations. 
+              The machine characteristics, the  available resources and the most beneficial
+              paths of a program to  optimize, including interprocedural paths, are factors 
+              in the  path and resource sensitive optimization algorithms. The data flow 
+              analysis used by the optimization algorithms is being enriched  with 
+              capabilities to exploit machine characteristics and  profiling information in a
+              systematic fashion.

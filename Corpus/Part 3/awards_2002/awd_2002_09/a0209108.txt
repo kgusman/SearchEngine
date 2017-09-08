@@ -1,0 +1,73 @@
+Title       : Query Processing in Structured Peer-to-Peer Networks
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 1,  2002     
+File        : a0209108
+
+Award Number: 0209108
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $179827             (Estimated)
+Investigator: Ion Stoica istoica@eecs.berkeley.edu  (Principal Investigator current)
+              Joseph M. Hellerstein  (Co-Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9218,HPCC,
+Abstract    :
+              Recently a new generation of P2P systems, offering distributed hash
+table (DHT)
+              functionality, have been proposed.  These systems greatly
+improve the
+              scalability and exact-match accuracy of P2P systems, but
+offer only the
+              exact-match query facility.  This proposal outlines a
+research agenda for
+              building complex query facilities on top of these
+DHT-based P2P systems. 
+              There are three defining directions of the
+proposed research agenda:
+
+  
+              Core Algebra: Explore the implementation of a core set of
+   algebraic query
+              operators that run over DHTs in a P2P network.
+
+   DHT APIs: Identify the
+              minimum set of primitives and functions that
+   need to be implemented by a
+              P2P network in order to efficiently
+   support the query operators.
+
+  
+              Query Optimization: P2P networks are often distributed across slow
+   network
+              links, and may benefit from distributed database
+   optimizations like the use
+              of semi-joins.  However, it is not clear
+   how the various ideas in the query
+              processing literature map into
+   the P2P context, particularly when using
+              DHTs for routing during
+   query processing.  This proposal intends to study
+              the costs and
+   tradeoffs of various alternatives for the query plan space in
+              this
+   context.
+
+Simulation of large networks will be used to study the
+              proposed
+techniques at Internet scale.
+
+
+

@@ -1,0 +1,87 @@
+Title       : VLSI Optimized Architectures for Wide Area ATM Switches
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 10,  1997 
+File        : a9706545
+
+Award Number: 9706545
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $269999             (Estimated)
+Investigator: Paul S. Min psm@ee.wustl.edu  (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Asynchronous Transfer Mode (ATM) has emerged as a leading technique for wide are
+              networking.  The world's telephone companies are well on their way to total
+              conversion to ATM which is expected to take about 25 years.  Utilizing a small
+              53-byte cell structure, ATM enables effective communication between a large
+              variety of broadband technologies that are currently evolving.    Accordingly,
+              there is strong interest in formulating a switching architecture suitable for
+              ATM-based wide area network, for which several studies can be found in the
+              literature.  Often, these studies reported specific switching architectures
+              along with performance data such as throughput and delay, but little in the way
+              to indicate their effectiveness as large, wide area switches.    This project
+              entails comprehensive investigation in developing a framework for wide area ATM
+              switching.  Based on the extensive experiences derived from our recent
+              prototyping effort for the Washington University Multi-Channel Switch (WUMCS),
+              we incorporate several important technological constraints in the investigation
+              of the characteristics of wide area switches, such as scalability,
+              synchronization, high performance, fault tolerance, fairness, and modularity.  
+               Use of Very Large Scale Integration (VLSI) is necessary in order to provide
+              the extremely high clocking and data transfer rates needed in wide area
+              switches.  The number of integrated circuit (IC) chips in a switch translates
+              directly to the cost and implementation complexity.  We attempt to minimize the
+              IC count in the switch by implementing each switch module with the maximum
+              possible throughput in a single IC.  Significant effort is devoted to the
+              investigation of various options in the design of switch modules that result in
+              the maximum possible throughput, while taking into consideration constraints
+              associated with VLSI such as die size, electrical propagation delay, power
+              dissipation, and pin limitation.  An important goal of the proposed work is to
+              determine the VLSI chip limi ts of various switching architectures in terms of
+              maximum throughput, maximum number of input/output channels, and maximum
+              achievable channel speed, when implemented in a single IC.    Since any
+              realistic wide area switch requires throughput that is not achievable in a
+              single IC, we investigate methodologies of scaling up the switch by
+              interconnecting switch modules.  We explicate the benefits to a wide area
+              switch of integrating multi-channel switching which balances loads across the
+              switch modules in a switch.    In the project , we develop switch architectures
+              which are optimized for VLSI implementation, and conduct comprehensive
+              analytical studies on their efficacy under varying traffic and network
+              conditions.    In addition, there will be a significant amount of
+              implementation.  The proposed implementation work will comprise of:      *
+              Design and development of switch ICs  * System board construction  * Software
+              controller development  * Demonstration testbed development     The first part
+              of the implementation work will be the definition of the functional
+              requirements for the switching system, followed by the design specifications
+              for the switch ICs and the software controller.  IC design will be the first
+              actual electronic design step.  We will most likely employ a  schematic capture
+              process for the IC design, utilizing VHDL mostly for the functional and logical
+              verification.    We will utilize a conservative CMOS technology from a
+              reputable foundry.  The estimated IC size for switch  module is 150 square
+              milli meters, and the IC will require about 350 pins and consume 1.5 watts.  We
+              expect that the system board will be 12 inches by 16 inches in dimension,
+              implement the line interface, timing, switching, and header translation
+              functions for 10 giga bits per second throughput.    By the conclusion of this
+              project, we expect to have created a promising methodology for guiding the
+              development of wide area ATM switches.  Our overall goal is to suggest methods
+              to alleviate the size and speed l imitation of current electronic switches by
+              proposing scalable and simple-to-implement architectures that can support very
+              high bandwidth and a variety of traffic types seen in wide area networks.   
+              Given the growing deployment of ATM in local area networks and the increased
+              interest in using it in wide area networks, we believe that the proposed work
+              is very timely and can serve to establish a framework for future work to
+              follow.    Details of this project can be found at
+              http://www.rgit.edu/projects/NSF-switch.

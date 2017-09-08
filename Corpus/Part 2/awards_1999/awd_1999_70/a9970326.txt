@@ -1,0 +1,71 @@
+Title       : Algorithms in Nonlinear Approximation
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 18,  1999       
+File        : a9970326
+
+Award Number: 9970326
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 1,  1999       
+Expires     : May 31,  2002        (Estimated)
+Expected
+Total Amt.  : $82328              (Estimated)
+Investigator: Vladimir N. Temlyakov temlyak@math.sc.edu  (Principal Investigator current)
+Sponsor     : U of SC Columbia
+	      Byrnes Building, Room 501
+	      Columbia, SC  29208    803/777-7093
+
+NSF Program : 1281      ANALYSIS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Our main interest in this proposal is  nonlinear approximation. The basic idea
+              behind nonlinear approximation is that the elements used in the approximation
+              do not come from a fixed linear space but are allowed to depend on the function
+              being approximated. While the scope of our proposal is mostly theoretical, we
+              should note that this form of approximation appears in many numerical
+              applications such as adaptive PDE solvers, compression of images and signals,
+              statistical classification, and so on.   The standard problem in this regard is
+              the problem of m-term approximation where one fixes a basis and looks to
+              approximate a target function  by a linear combination of m terms of the basis.
+               When the basis is a wavelet basis or a basis of other waveforms, then this
+              type of approximation is the starting point for compression algorithms. We are
+              interested in the quantitative aspects of this type of approximation.  Namely, 
+               we want to understand the properties (usually smoothness) of the function
+              which govern its rate of approximation in some given norm (or metric).  We are
+              also interested in stable algorithms for  finding good or near best
+              approximations using m terms. Some of our earlier work has introduced and
+              analyzed such algorithms. More recently, there has emerged another more
+              complicated form of nonlinear approximation which we call  highly nonlinear
+              approximation.  It takes many forms but has the basic ingredient that a basis 
+              is replaced by a larger system of functions that is usually redundant. Some
+              types of approximation that fall into this general category are mathematical
+              frames, adaptive pursuit (or greedy algorithms) and  adaptive basis selection. 
+              Redundancy on the one hand offers much promise for greater efficiency in terms
+              of approximation rate,  but on the other hand gives rise to highly nontrivial
+              theoretical and practical problems. With this motivation, our recent work and
+              the current proposal focuses on nonlinear approximation both in the classical
+              form of m-term approximation (where several important problems remain unsolved)
+              and in the form
+ of highly nonlinear approximation where a theory is only now
+              emerging.
+
+Nonlinear approximation seeks ways to approximate complicated
+              functions by simple functions using methods that depend nonlinearly on the
+              function being approximated. Such methods of approximation are more flexible
+              than traditional linear approximation methods and proved to be very useful in
+              various applications such as image compression, signal processing, design of
+              neural networks, and the numerical solution of nonlinear partial differential
+              equations. The purpose of the proposed research is to continue investigations
+              of nonlinear approximation. Emphasis will be placed on studying the efficiency
+              of algorithms which are important in practical applications. Implementation of
+              these algorithms may substantially reduce time for signal and image prosessing.
+              This is important for automated target recognition and related applications
+              including autonomous landing of aircraft and registration of images from a
+              database.
+

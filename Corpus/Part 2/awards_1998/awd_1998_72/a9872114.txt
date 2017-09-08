@@ -1,0 +1,80 @@
+Title       : Parallel Infrastructure for Recognition of Non-Local Patterns from Particle
+               Detectors
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : June 9,  1999       
+File        : a9872114
+
+Award Number: 9872114
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1999       
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $166632             (Estimated)
+Investigator: Gene Cooperman gene@ccs.neu.edu  (Principal Investigator current)
+              John D. Swain  (Co-Principal Investigator current)
+              Stephen Reucroft  (Co-Principal Investigator current)
+Sponsor     : Northeastern University
+	      360 Huntington Avenue
+	      Boston, MA  021155096    617/373-5600
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project studies pattern recognition algorithms for High Energy
+              Physics
+(HEP).  In particular, it looks at pattern recognition for data from
+              HEP
+experiments which requires global information and lends itself well
+              to
+parallelism.  While a trivial form of parallelism has always been
+              present
+in HEP software due to the independent data (results of separate
+              high
+energy collisions), there has been little done for pattern
+              recognition
+within single events.  This is a particularly pressing problem for
+              the next
+generation of experiments where data is taken in at rates of up to
+              20
+Mbytes each 25 nanoseconds and rapid pattern recognition is essential
+              to
+decide which events should be kept for later study.  Since a single
+              event
+will leave traces in many different detectors, pattern recognition here
+              is
+a non-local, non-sequential pattern matching problem.
+
+Other physicists
+              have tried to find a quick heuristic match during a single
+pass through the
+              data. In contrast, this project will do a more careful
+analysis of the data to
+              better resolve multiple events that are close in
+time and space by using
+              signal processing techniques (e.g. Kalman
+filtering) to pre-process the data.
+              The project will use a better
+algorithmic formalism to take advantage of
+              computer science algorithms and
+data structures, and will implement parallel
+              algorithms to recognize
+non-local patterns.  Special challenges will be
+              presented by the
+anticipated datasets, which have petabyte sizes.  New
+              algorithms for these
+applications will have to take careful account of the
+              different access
+times for RAM and disk access.  This project is
+              interdisciplinary in
+nature, with potential impact on both computer science
+              and high energy
+physics.
+
+

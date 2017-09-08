@@ -1,0 +1,48 @@
+Title       : Design and Evaluation of Algorithms for Storage Reclamation in Object Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 22,  1997      
+File        : a9521046
+
+Award Number: 9521046
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $344445             (Estimated)
+Investigator: Alexander L. Wolf alexander.wolf@colorado.edu  (Principal Investigator current)
+              Benjamin G. Zorn  (Co-Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 2891,9139,HPCC,
+Abstract    :
+              A problem for an object database management system (ODBMS) is the reclamation of
+              storage for persistent, secondary-memory objects that are no longer accessible.
+              Although excellent reclamation algorithms have been developed for transient,
+              primary-memory objects, these algorithms have been shown to be inappropriate
+              for use on secondary-memory objects in object databases. This project
+              investigates new algorithms for ODBMS storage reclamation. The critical aspects
+              of secondary-memory reclamation are teased apart into a set of distinct policy
+              areas. Rigorous trace-driven simulations of the algorithms are performed to
+              gain an understanding of the relative performance of alternative policies
+              within each area as well as an understanding of the interplay of policies
+              across areas. Prototype implementations of the most promising algorithms are
+              integrated into an existing ODBMS. This project makes three primary
+              contributions to the ODBMS research, development, and user communities. First,
+              a set of new reclamation algorithms appropriate for object databases is
+              defined. Second, performance evaluations of the algorithms are used to reveal
+              the circumstances under which the algorithms should be considered for adoption
+              within a particular ODBMS or application. Third, a catalog of benchmark and
+              live-application traces is created to establish an empirically founded
+              characterization of application behavior that can be used far beyond evaluation
+              of reclamation algorithms.

@@ -1,0 +1,71 @@
+Title       : Over-complete Signal Decomposition
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 5,  2001   
+File        : a9903368
+
+Award Number: 9903368
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1999      
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $192600             (Estimated)
+Investigator: Avideh Zakhor avz@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              CCR-9903368
+Zakhor
+
+
+Efficient compression of image and moving video is
+              becoming increasingly more important in a wide range of emerging applications.
+              These applications can be classified by the bit rates they require. A broadcast
+              quality video-on-demand system might require several megabits per second, while
+              a commercial video conferencing system might use only a few hundred kilobits
+              per second. At the extreme low end of the scale, video telephone and wireless
+              communication systems are often restricted to rates below 20 kilobits per
+              second. The hybrid motion-compensated Discrete Cosine Transform (DCT) structure
+              is a part of nearly all existing video coding standards such as H.263 and
+              MPEG-1,2,4, and commercially available video compression systems. In applying
+              DCT to very low bit rate video coding, blocking artifacts become quite
+              pronounced. This research is focused on non-block oriented decomposition
+              techniques to replace DCT in today's video coding systems.
+
+
+One such scheme
+              recently developed at the VIP group at U.C. Berkeley involves signal
+              decomposition over a larger, more flexible over-complete basis set based on
+              Gabor dictionary. It uses the greedy, matching pursuit algorithm from the
+              statistics literature in order to find the expansion coefficients. This
+              approach is found to result in significant PSNR and visual quality improvement
+              over DCT based schemes. In addition, since there are no constraints on the
+              overcomplete set of basis functions over which the signal decomposition is
+              carried out, the elements of the set can be chosen to be free of blocking
+              artifacts, resulting in artifact free reconstructed frames, with no need for
+              compute expensive post processing. The main goal of this research is to
+              investigate signal decomposition along overcomplete dictionaries with
+              applications to video coding. In particular the issues to be addressed
+              regarding video coding systems based on over complete signal expansion include:
+              fundamental bounds on performance, optimum amplitude and position coding
+              algorithms, non-block based motion compensation techniques to match the
+              non-blocky nature of the basis set, dictionary design, decomposition and search
+              strategies, and extension to: (a) spatio-temporal scalability, (b) still image
+              coding, (c) multiple description coding and (d) synthetic
+              video/imagery/graphics. 
+
+
+Level of Effort Statement: At the recommended
+              level of support, the PI will make every attempt to meet the original scope and
+              level of the project. 
+

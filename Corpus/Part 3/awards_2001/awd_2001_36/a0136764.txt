@@ -1,0 +1,109 @@
+Title       : Video Traces: Create, Disseminate, Analyze
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 9,  2002  
+File        : a0136764
+
+Award Number: 0136764
+Award Instr.: Continuing grant                             
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : July 31,  2006       (Estimated)
+Expected
+Total Amt.  : $733308             (Estimated)
+Investigator: Martin Reisslein reisslein@asu.edu  (Principal Investigator current)
+              Sethuraman Panchanathan  (Co-Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              Encoded video is expected to account for a large portion of the traffic in the
+              Internet of the future
+and next generation wireless networks. The video
+              carried over future networks is expected to be (1)
+coded using heterogeneous
+              encoding schemes, (2) coded at a range of quality levels, and (3) to a large
+              extent scalable encoded (e.g., into several layers) to enable scalable
+              multimedia services over highly heterogeneous networks. To date the traffic
+              characteristics of these heterogeneous and scalable encoded videos are largely
+              unexplored (only a few initial observations based on a small number of short
+              video sequences have been made). Even less is known about the implications of
+              these traffic characteristics for the network transport of heterogeneous and
+              scalable encoded video. Therefore, the researcher proposes a comprehensive
+              large scale study of the traffic characteristics and the network transport of
+              heterogeneous and scalable encoded video. The researcher will investigate
+1.
+              the traffic characteristics (i.e., statistical properties) in conjunction with
+              the video quality and
+the content features, and
+2. the network capacity,
+              i.e., the number of video streams that a given network can
+              support
+(multiplexing performance) subject to given quality of service (QoS)
+              constraints
+both for
+(a) non scalable video encoded at a range of quality
+              levels using diffierent encoding schemes, and
+(b) scalable encoded
+              video.
+These traffic and networking studies are traditionally based on traces
+              of real video traffic. The
+existing video trace libraries, however, provide
+              only frame size traces of a limited number of single
+layer MPEG 1 encoded
+              videos. Hence, the existing trace libraries are inadequate for this study
+(and
+              also for other researchers studying scalable multimedia services over
+              networks). Therefore, the researcher proposes to create an extensive publicly
+              available trace library of heterogeneous and
+scalable encoded video as the
+              basis for the proposed study. The researchers will 
+(1) encode over 100
+              di.erent videos, spanning a wide range of video genres and lengths
+              and
+including diverse texture and motion characteristics.
+(2) encode each
+              video into a single layer (non scalable) at a range of quality levels using
+              di.erent
+encoding schemes.
+(3) encode each video into several quality layers,
+              using the temporal, spatial, SNR, and data
+partitioning scalability modes, as
+              well as the object based scalability mode of MPEG 4.
+(4) broaden the notion of
+              video traces by capturing the video traffic, the video content features,
+and
+              the video quality in traces.
+(5) disseminate the created video trace library
+              through publicly available web sites.
+The trace library will stimulate
+              research on protocols and mechanisms for scalable multimedia
+services in
+              heterogeneous wireline and wireless networks. To date, the research in this
+              area has been hampered by the lack of representative traces of scalable encoded
+              video. In fact, the lack of realistic traffic data for scalable video may have
+              prevented the development of e.cient and reliable protocols for heterogeneous
+              multimedia services.
+As part of the seed work for the proposed project, the
+              researchers have created a preliminary publicly available library of traces of
+              non scalable MPEG 4 and H.263en coded video (http://www.eas.asu.edu/trace) and
+              studied the statistical properties of the traces in the library. This library
+              is a first attempt at providing MPEG 4 and H.263 video traces. These traces are
+              already widely used by networking researchers.
+The PIs complement each other
+              in their competencies. Martin Reisslein brings to the project
+his expertise in
+              developing and evaluating traffic management schemes for video traffic in
+              high
+speed wireline networks and wireless networks. Sethuraman Panchanathan
+              brings to the project his
+expertise in video compression, scalable video
+              coding, video content analysis, and MPEG 4.

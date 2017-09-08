@@ -1,0 +1,54 @@
+Title       : Reducing Frequency via Speculation and Fall-Back Recovery
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 28,  2002      
+File        : a0208581
+
+Award Number: 0208581
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Frank Mueller mueller@cs.ncsu.edu  (Principal Investigator current)
+              Eric Rotenberg  (Co-Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2801      Embedded & Hybrid Systems(EHS)
+Fld Applictn: 
+Program Ref : ,9216,HPCC,
+Abstract    :
+              Mueller, Frank
+CCR-0208581
+" Reducing Frequency via Speculation and Fall-Back
+              Recovery"
+
+Conserving power is a key issue in embedded computing.  At
+              present, significant power is wasted because embedded system designers lack
+              detailed knowledge of the processing speed needed by applications.  Naive
+              worst-case timing analysis exaggerates the required processor frequency,
+              especially as software and hardware complexity increases.
+
+This work puts
+              forth a two-tier approach to reduce the processor frequency of complex embedded
+              systems.  First, tight worst-case timing analysis reduces the perceived upper
+              bound on the number of cycles consumed by tasks.  This reduces the maximum
+              frequency, saving power.  Second, architecture simulation and processors with
+              dual frequency/voltage modes enable significant additional power savings. 
+              Architecture simulation produces an approximate worst-case timing estimate,
+              which does not have to be safe and, consequently, is the basis for a very low
+              speculative frequency.  A higher recovery frequency is utilized as a fall-back
+              mode to ensure safe operation bounded by tight worst-case timing analysis, as
+              delivered in the first approach.  These two approaches complement each other. 
+              They initially reduce the power requirements by a significant amount when
+              compared with the naive approach.  Additionally, they reduce
+              power
+requirements further by exploiting simulation to accurately 
+

@@ -1,0 +1,83 @@
+Title       : Composition Patterns in Nucleotide Sequences
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 11,  2000    
+File        : a0073081
+
+Award Number: 0073081
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $289327             (Estimated)
+Investigator: Gary Benson benson@camelot.biomath.mssm.edu  (Principal Investigator current)
+Sponsor     : Mt Sinai School of Medicin
+	      One Gustave L. Levy Place
+	      New York, NY  100296504    /   -
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              PI:  Gary Benson
+Proposal Number: 0073081
+Institution:  Mt. Sinai School of
+              Medicine
+
+Project Summary
+
+This project is an investigation of
+              computational problems that arise for a new type of discrete pattern in DNA
+              sequences, the composition pattern.
+Composition is a vector quantity
+              describing the frequency of occurrence of each alphabet letter in a particular
+              string. Let S be a string over E.Then, C (S) =(f1; f2; pH j _ j) is the
+              composition of S, wherefore 2 _, fi is the fraction of the characters in S that
+              are i. A composition pattern is a string P = r1r2 _ _ _ rp, where RI represents
+              a composition region i.e. a substring of homogenous composition which differs
+              from that of its surrounding regions. Note that the order of letters in RI is
+              irrelevant, as it has no effect on the composition of RI. To date, algorithms
+              which characterize DNA functional sites have concentrated primarily on
+              identifying what this proposal terms position-specific patterns, such as the
+              consensus sequence or the
+more flexible, but less specific weight matrix based
+              pattern profile. Unfortunately, position-specific patterns are usually not
+              selective enough to distinguish actual occurrences of a feature from false
+              positives. Too often, when these patterns are used to search for unknown
+              matches, one to several orders of magnitude more false positives than true
+              positives are obtained. The composition pattern is a new approach which
+              embraces an important physical property, the potential for variation in
+              structural conformation (shape) of the DNA double helix, yet does so in the
+              context of a type of discrete pattern which has apparently not been previously
+              explored by the algorithmic community.  DNA crystallization studies support the
+              idea that certain dinucleotides base-steps confer specific types of
+              flexibility. Further evidence is provided by studies of intrinsically curved
+              and `kinkable' DNA. Based on these observations, it is suggested here that for
+              conformational flexibility, the order of nucleotides in a sequence may be less
+              important than the effect, which certain nucleotide or dinucleotide base-step
+              biases impart on the sequence as a whole. In support of this assertion is an
+              accumulating body of evidence of important DNA features whose unifying
+              characteristic is composition bias rather than position-specific information.
+              This research project encompasses algorithm development for three related
+              problem areas which form the basis for understanding the functional importance
+              of composition variation in nucleotide sequences and the detection of
+              composition patterns. These areas are:
+
+Pattern matching. A composition
+              pattern and sequence are given. Find all occurrences of the pattern in the
+              sequence. Occurrences may be exact or approximate.
+
+Pattern detection. A
+              sequence or set of sequences is given. Find all recurring composition patterns.
+              Occurrences may be exact or approximate. The patterns are not specified or only
+              partially specified
+Sequence segmentation. A sequence is given. Partition it
+              into statistically distinct regions of homogenous composition.  These problems
+              have theoretical interest in their own right, independent of biology and have
+              received almost no attention from the algorithmic community.
+

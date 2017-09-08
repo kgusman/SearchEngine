@@ -1,0 +1,47 @@
+Title       : Amortized Analysis for On-Line Learning Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 8,  1998       
+File        : a9700201
+
+Award Number: 9700201
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1997       
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $229999             (Estimated)
+Investigator: Manfred K. Warmuth manfred@cse.ucsc.edu  (Principal Investigator current)
+              David Paul Helmbold  (Co-Principal Investigator current)
+Sponsor     : U of Cal Santa Cruz
+	      1156 High Street
+	      Santa Cruz, CA  950641077    408/429-0111
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+                The focus of this project is a new family of  algorithms that has been
+              recently developed  within the Computational Learning Theory  community.
+              Algorithms in this family do  multiplicative updates to their parameters 
+              instead of the usual additive updates  characteristic of the standard gradient 
+              descent methods. The algorithms from the new  family have radically different
+              behavior from  the algorithms of the gradient descent  family. The new family
+              of algorithms is  particularly useful when the input dimension  is large and
+              the best parameter setting is  ``sparse'' -- having only a few non-zero 
+              parameters. In many simple settings, the new  family has proven loss bounds
+              that grow only  logarithmically in the total number of  parameters when the
+              best parameter setting  uses only a few parameters, whereas the  standard
+              algorithms can easily be forced to  have loss proportional to the number of
+              input  variables for the same targets. This  indicates that the new family of
+              algorithms  is likely to be particularly effective in  settings where the input
+              dimension is large  (such as in Information Retrieval) or where a  small number
+              of inputs are expanded to a  large number of non-linear basis functions  over
+              the original inputs. The goals of the  research are to extend the new family of
+               algorithms, quantify the qualitative  differences between the new family and 
+              existing algorithms, and to demonstrate the  practical importance of the new
+              family.***

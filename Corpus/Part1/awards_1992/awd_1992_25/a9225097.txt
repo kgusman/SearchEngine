@@ -1,0 +1,53 @@
+Title       : Cooperative Shared Memory and the Wisconsin Wind Tunnel
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : April 18,  1995     
+File        : a9225097
+
+Award Number: 9225097
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1993       
+Expires     : November 30,  1996   (Estimated)
+Expected
+Total Amt.  : $1233081            (Estimated)
+Investigator: Mark D. Hill markhill@cs.wisc.edu  (Principal Investigator current)
+              David A. Wood  (Co-Principal Investigator current)
+              James R. Larus  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0104000   Information Systems                     
+              0308000   Industrial Technology                   
+              0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 0000,9215,HPCC,OTHR,
+Abstract    :
+              Hill         The goal of this project is to design hardware and software  for
+              scalable shared-address-space computers.  Cooperative shared  memory, the
+              approach taken in the project, provides a simple  design for shared-memory
+              hardware and a programming model that  can be used by programmers and compilers
+              to understand an  application's communication behavior.  Cooperative shared
+              memory  uses simple directory hardware together with a set of pragmas for  use
+              in applications software.  The pragmas allow the applications  software to
+              indicate which processors will be using a block of  memory:  a processor can
+              check out a block when it expects  frequent use, check it back in when it is
+              done, and can indicate  that it expects to check out a block in the near
+              future.  Simple  directory hardware can be used to place checked-out-memory 
+              locations in the caches of the appropriate processors.  Common  state
+              transitions in the directory protocol are implemented in  hardware, while the
+              less common ones use software traps.  Note  that the pragmas and the resulting
+              hardware actions affect only  the execution speed of a program, not its
+              correctness.         A new virtual prototyping approach is being used for 
+              evaluating the new architecture.  The Wisconsin Wind Tunnel runs  parallel
+              shared-memory programs on a parallel message-passing  computer and concurrently
+              evaluates the programs execution times  on proposed hardware using a
+              distributed simulation.  The  simulation runs quickly because instructions that
+              make only local  memory references are executed directly.                      
+                                          

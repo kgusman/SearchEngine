@@ -1,0 +1,40 @@
+Title       : Debugging of Real-Time Distributed Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 6,  1992      
+File        : a9106540
+
+Award Number: 9106540
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1992     
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $97109              (Estimated)
+Investigator: Jeffrey J. Tsai tsai@eecs.uic.edu  (Principal Investigator current)
+Sponsor     : U of Illinois Chicago
+	      1737 W. Polk Street
+	      Chicago, IL  60612    312/996-7000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+                   Debugging of real-time distributed software systems is difficult          
+              because of timing constraints imposed on them and because of their             
+              non-deterministic behavior.  Conventional static analysis methods are          
+              not adequate to deal with the violation of timing constraints which            
+              are inherent in real-time distributed software systems.  This research         
+              develops a dynamic analysis method which uses recorded run-time                
+              information to debug these kinds of timing errors.  Based on this              
+              approach, a non-interference monitoring architecture will be developed         
+              to collect the process-level and the function-level program execution          
+              data of a target real-time distributed system.  Different-leveled              
+              logical views can be reconstructed from this collected run-time                
+              information.  The dynamic analysis method will then be developed to            
+              analyze the timing behavior of real-time distributed software systems.

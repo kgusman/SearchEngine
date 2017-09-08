@@ -1,0 +1,64 @@
+Title       : Routing, Restoration and Reconfiguration in Lightwave Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 21,  2000 
+File        : a9980783
+
+Award Number: 9980783
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $299980             (Estimated)
+Investigator: Murat Azizoglu aziz@ee.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   The objective of the proposed research is to develop efficient solutions
+              for routing, restoration, and reconfiguration of lightpaths in a
+              circuit-switched wavelength division multiplexed (WDM) network.  Such a network
+              is fundamentally important to the success of a next-generation Internet which
+              will have the capacity to carry a much larger amount of traffic than today's 
+              Internet at lower delays.  The network layer simply uses the lightpaths as the
+              virtual links over which store-and-forward packet routing is performed.  The
+              design of the optical layer architecture over which electronic packet transport
+              takes place is a grant challenge for optical network architects.
+     The
+              proposed project aims to contribute to this optical layer design by improving
+              the fault tolerance and adaptability of the optical network architecture. 
+              There are two major components to this project.  The first component is to
+              develop algorithms that efficiently restore lightpaths in the event of link
+              failures.  These algorithms will not only utilize the network resources, namely
+              wavelengths and switches, efficiently, but also provide rapid restoration
+              capability.  This requires the design of service and restoration paths jointly
+              at the time of resource allocation, thereby reducing the number of wavelengths
+              required to reroute the lightpaths in the event of a link or node failure.  The
+              researchers will consider mesh-based restoration algorithms and evaluate their
+              performance both in terms of wavelength requirement and restoration speed.  In
+              addition to determining service and restoration paths for each lightpath, the
+              routing/restoration algorithms will also specify efficient signalling
+              mechanisms to coordinate the switchover to the restoration paths and the
+              allocation of wavelengths to such paths.  Restoration times and the
+              computational complexity of the proposed signalling mechanisms will be
+              analyzed.
+     A lightpath-based Internet backbone provides a unique
+              opportunity for the reconfiguration of the logical topology by changing the set
+              of lightpaths.  Such reconfiguration must be based on real-time measurement of
+              packet traffic on the logical links and can provide an additional degree of
+              freedom in the capacity planning for packet networks.  The researchers will
+              design algorithms that will be used to determine the frequency and the nature
+              of topology reconfiguration.  The introduction of dynamic topological
+              transformation at the optical layer to satisfy the dynamic traffic requirements
+              at the network layer is a promising concept that is expected to open many
+              interesting research directions.
+

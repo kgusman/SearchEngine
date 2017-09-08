@@ -1,0 +1,52 @@
+Title       : New Krylov Methods: Theory and Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 21,  2002      
+File        : a0204084
+
+Award Number: 0204084
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $510000             (Estimated)
+Investigator: Gilbert W. Stewart stewart@cs.umd.edu  (Principal Investigator current)
+              Dianne P. O'Leary  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0204084
+Gilbert Stewart
+University of Maryland College
+              Park
+
+Krylov sequence methods are widely used in the solution of large
+              eigenproblems (e.g., the Lanczos and Arnoldi methods) and the solution of large
+              linear systems (e.g., the conjugate gradient method and GMRES). In their
+              ordinary applications these methods are well understood and have a firm
+              theoretical basis. In more exotic applications, however, the theory and
+              practice are not as advanced. This proposal in concerned with
+three of these
+              applications.  Residual Krylov methods. The property of being a Krylov sequence
+              is very sensitive to error. A single error toward the beginning of the sequence
+              causes permanent loss of
+accuracy in the approximations to eigenvectors in the
+              Krylov subspace. This has the consequence that when shift-and-invert techniques
+              are used to enhance the spectrum of a matrix, the resulting linear systems must
+              be solved to full accuracy at each step of the process. It turns out, however,
+              that if the sequence is extended using the residual for a targeted eigenvector,
+              the sequence converges to that vector even when the shift-and-
+invert
+              equations are solved inaccurately. The practical consequences of this
+              observation, which needs new theory to support it, promises to be great.  

@@ -1,0 +1,94 @@
+Title       : Collaborative Research: Fast Hardware Encryption
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 20,  2000     
+File        : a9980429
+
+Award Number: 9980429
+Award Instr.: Standard Grant                               
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  2000      
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $270000             (Estimated)
+Investigator: Andrew M. Klapper klapper@cs.uky.edu  (Principal Investigator current)
+Sponsor     : U of Kentucky Res Fdn
+	      109 Kinkead Hall
+	      Lexington, KY  405060057    859/257-8311
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              Abstract:
+
+High speed, high volume cryptographic systems will
+form the basis
+              for the security of video, wireless,
+and computer communications of the next
+              decade.  This
+research involves the design and development of such
+systems,
+              especially that of hardware-based stream
+ciphers.  High speed hardware-based
+              stream ciphers can
+be easily manufactured, programmed, and implemented.
+They
+              can be used to encrypt data (such as voice or
+video) in real time and are used
+              as embedded
+components in cellular telephones, GPS satellites,
+radar, and
+              radio systems.  Most stream ciphers,
+however, have been found to be vulnerable
+              to various
+cryptoanalytic attacks.  This research involves the
+development
+              and analysis of new architectures for
+sequence generators which have all the
+              above
+advantages but which are much more secure than
+traditional
+              architectures.  They are also potentially
+useful for a variety of other
+              applications such as
+sonar systems and Monte Carlo integration.
+
+Linear
+              feedback shift registers have proven especially
+useful for the generation of
+              pseudorandom sequences
+for high speed communications.  They have
+              been
+intensively studied for over forty years and their
+usefulness does not
+              appear to have any end in sight.
+Recently a fundamentally new architecture for
+              feedback
+shift registers was discovered, the so-called
+feedback-with-carry
+              shift register or FCSR.  This
+architecture shares all the advantages of the
+              linear
+feedback architecture such as high speed and ease of
+implementation
+              and significantly expands the class of
+easily generated and useful sequences. 
+              This research
+involves a number of implementation issues for the
+              new
+architecture including (1) the development of parallel
+circuitry for high
+              speed generation of pseudorandom
+sequences, (2) the design of combiners and
+              feedforward
+functions to increase the security of FCSR sequences, 
+(3) the
+              design of clock-controlled FCSR circuits, and 
+(4) the analysis of the
+              cryptographic security of the 
+FCSR sequences which are generated in this way.

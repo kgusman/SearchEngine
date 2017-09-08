@@ -1,0 +1,68 @@
+Title       : Scheduling Support for High Performance Clusters
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a9988164
+
+Award Number: 9988164
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $195035             (Estimated)
+Investigator: Anand Sivasubramaniam anand@cse.psu.edu  (Principal Investigator current)
+Sponsor     : PA St U University Park
+	      201 Old Main
+	      University Park, PA  168021503    814/865-4700
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Clusters are becoming a predominant and cost-effective platform
+for high
+              performance parallel computing. These systems are gaining acceptance
+not just
+              for scientific applications, which have traditionally needed
+supercomputers,
+              but are also being deployed to meet the needs of
+applications in domains such
+              as databases, web service, multimedia, and 
+graphics/visualization.
+              Traditional parallel scheduling techniques
+such as simple space sharing or
+              coscheduling, which are optimized more
+for throughput, may not be able to
+              handle the responsiveness needs of
+these emerging applications. At the same
+              time, leaving it entirely
+to the native operating system scheduler at each
+              node to make independent
+decisions can have a detrimental effect on the
+              performance of communicating
+applications. Considering these different issues,
+              this proposal will
+explore techniques for efficient management and
+              coordination of the 
+CPU resources across the nodes of a cluster. This
+              research will develop
+a framework to design cluster scheduling mechanisms
+              taking communication 
+into account together with working sets and I/O
+              information, accomodate
+the constraints and idiosyncrasies of an application,
+              and adapt dynamically
+to the system load. The mechanisms will be evaluated
+              with real workloads,
+using simulation, analytical models and actual
+              implementations.
+The outcome of this research will take an important step
+              towards making
+clusters more ubiquitous, multiprogrammed, manageable and
+              user-friendly.
+

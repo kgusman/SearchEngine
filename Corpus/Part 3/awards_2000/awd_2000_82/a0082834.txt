@@ -1,0 +1,55 @@
+Title       : ITR: Dynamic Code Enhancement and Scheduling Techniques for Complex Simulations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 14,  2002       
+File        : a0082834
+
+Award Number: 0082834
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : February 29,  2004   (Estimated)
+Expected
+Total Amt.  : $279994             (Estimated)
+Investigator: Zhiyuan Li   (Principal Investigator current)
+              Ananth Grama  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1658,1660,4080,9216,HPCC,
+Abstract    :
+              One of the most important classes of programs today is large-scale adaptive and
+              time-dependent simulations. These are increasingly important for solving
+              important scientific problems such as particle dynamics and boundary element
+              problems. An equally important environment for running any code is a cluster of
+              workstations. Such a system may include single-processor and SMP nodes
+              supporting a hybrid message passing/shared address space programming paradigm.
+              This project will provide automated and semi-automated tools for optimizing
+              serial performance, parallel performance, and overall resource utilization when
+              those complex codes are run in such complex environments.
+
+Technically, the
+              goal of the project is to develop a comprehensive dynamic code enhancement,
+              resource management, scheduling, and performance monitoring framework. This is
+              accomplished by relegating a number of code optimization and scheduling
+              decisions to run-time, where they can rely on performance traces. The framework
+              generalizes the process-thread model to a schedulable entity model in which
+              processes and threads are treated as free and bound entities respectively.
+              Either the programmer or the compiler can create these entities. In addition,
+              the dynamic code enhancer performs optimizations at run-time granularity
+              control for threads, and transformations between free and bound entities to
+              improve performance. The overhead of dynamic code enhancement is amortized over
+              several computation steps. An aggregate scheduler/resource manager maps the
+              specified entities to hosts, using performance data to optimize its decisions
+              for CPU, memory system, network, and parallel code performance. The dynamic
+              code enhancer/scheduler framework is triggered by online performance monitoring
+              that is automatically instrumented into the code.
+
+

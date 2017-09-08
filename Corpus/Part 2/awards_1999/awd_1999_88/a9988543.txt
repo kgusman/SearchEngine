@@ -1,0 +1,83 @@
+Title       : Compiling Knowledge for Tractable and Embedded Inference
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 8,  2002       
+File        : a9988543
+
+Award Number: 9988543
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael E. Lesk                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  2000     
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $391461             (Estimated)
+Investigator: Adnan Darwiche darwiche@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              Knowledge compilation has been emerging recently as a new direction of research
+              for dealing with the computational intractability of general propositional
+              reasoning.  In this approach, the reasoning process is split into two phases:
+              an off-line compilation phase and an on-line query-answering phase.   In the
+              off-line phase the propositional theory is compiled into some target language,
+              which is typically a tractable one. In the on-line phase, the compiled target
+              is used to efficiently answer a (potentially) exponential number of queries.  
+              The main motivation behind knowledge compilation is to push as much of the
+              computational overhead as possible into the off-line phase, in order to
+              amortize that overhead over all on-line queries.    Another motivation behind
+              compilation is to produce very simplistic on-line reasoning systems, which can
+              be embedded cost-effectively into primitive computational platforms, such as
+              those found in consumer electronics.
+
+The focus of this research is on a new
+              compilation target language, known as Decomposable Negation Normal Form (DNNF)
+              which is universal (contrary to Horn theories), supports more polynomial-time
+              operations than Horn theories and prime implicates, is more space-efficient
+              than OBDDs, and is very simplistic as far as its structure and algorithms are
+              concerned.  Therefore, DNNF represents a new, interesting point on the
+              four-dimensional structure of universality, tractability, efficiency and
+              simplicity.   The class of polynomial-time DNNF operations is sufficient to
+              fully implement relatively complex AI applications, such as model-based
+              diagnosers and universal planners.    Moreover, its space-efficiency
+              establishes a very significant bottom-line for the effectiveness of DNNF-based
+              compilations, given the current success of the OBDD community in compiling
+              quite complex propositional theories.
+
+There are four major objectives of
+              this proposal. The first, and most central objective, is to push the DNNF
+              compilation envelope along three dimensions:   to develop algorithms that
+              generate much smaller DNNF compilations than is currently possible;    to
+              develop a DNNF compiler which can incrementally change a DNNF compilation in
+              light of incremental changes to the underlying theory;    and to develop the
+              theory of approximate DNNFs, which can be used to answer only a predetermined
+              class of queries.   The second objective is to pursue the applicability of
+              DNNFs to the compilation of universal planners, an objective which is made
+              possible by recent advances on satisfiability-based planning.    The third
+              objective is to develop a hardware implementation of some DNNF operations using
+              Field Programmable Gate Arrays (FPGAs) in order to permit the compilation of
+              certain diagnosis and planning applications into hardware.   The fourth
+              objective of this proposal is to conduct an investigation on some of the
+              theoretical underpinnings necessary to fully understand the relationship
+              between DNNF and other tractable forms, such as Horn theories and
+              OBDDs.
+
+This project will make a strong impact on the theory and practice of
+              propositional reasoning in intelligent systems.   On the theoretical side, it
+              will shed new light on the compilability of propositional reasoning and on the
+              relationship between various target compilation languages, such as OBDDs, Horn
+              theories and prime implicates.    On the practical  side, it will yield on-line
+              reasoning systems which are more tractable than is currently  possible, and
+              will enable the migration of certain AI applications (diagnosis and planning in
+              particular) onto platforms with primitive computational resources.  This may
+              provide a solid foundation for embedded intelligence, as exercised in the
+              powerful framework of propositional reasoning.
+

@@ -1,0 +1,79 @@
+Title       : Monte Carlo Analysis: A New Paradigm not Requiring Apriori Probability
+               Distributions
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : October 25,  2002   
+File        : a9811051
+
+Award Number: 9811051
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $188300             (Estimated)
+Investigator: B. Ross Barmish barmish@engr.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9811051
+Barmish
+This is a proposal to set up a three year research
+              project. The motivation for this proposal is derived from the recent results in
+              the newly emergent area of Probabilistic Robustness. It is felt that a
+              successful project would have an impact on many fields which rely on Monte
+              Carlo simulation, The critical point distinguishing this proposed research from
+              existing literature is as follows: Unlike classical Monte Carlo simulation, the
+              new approach being considered requires almost no apriori information about the
+              probability distribution for the uncertain parameters. In this new framework,
+              the given data is exactly the same as in classical robustness theory with real
+              parametric uncertainty; i.e., only a mathematical input-output model and upper
+              and lower bounds for each uncertain parameter are assumed. This raises the
+              following questions: What probability distribution makes sense to use in a
+              Monte Carlo context? Is there a meaning way to 'prograrn" the random number
+              generator for Monte Carlo simulation when no probability distribution is
+              available? In the body of the proposal, these questions are examined in greater
+              detail and the proposed research aimed at their resolution.
+
+Preliminary
+              results motivating the proposed research suggest that sampling of uncertainty
+              should often be carried out in a way which is quite different from classical
+              Monte Carlo schemes. For example, in the body, a case study involving a 2-stage
+              amplifier is described. The sampling distribution turns out to require
+              truncation of the probability distribution for the two uncertain capacitors.
+              Such a distribution is not one which would normally be used in a Monte Carlo
+              circuit analysis. The end result is that a prediction of the 'probability of
+              successful operation" using a traditional Monte Carlo scheme is subjected to
+              challenge. One of the main objectives of the research is to demonstrate
+              applicability of the new ideas to many application areas and compare 'old style
+              Monte Carlo" results with the results obtained using the new approach. It is
+              felt that classical Monte Carlo analysis often leads to predictions which are
+              unduly optimistic.
+
+This situation (the availability of bounds but no
+              statistics) is quite typical in the Systems Science area when one approaches a
+              problem in a robustness context or via interval analysis methods. In summary,
+              the proposed research concentrates on problems for which a reliable probability
+              distribution is unavailable. Whereas Monte Carlo theory assumes a distribution
+              as input to the theory, the proposed work involves finding the 'appropriate"
+              distribution as the output of the theory; i.e., the theory first determines the
+              appropriate distribution, and, only then is computer simulation carried
+              out.
+
+The starting point for the proposed research is a new type of paradigm
+              to describe uncertainty - developed by the Principal Investigator in
+              collaboration with his graduate student. Consistent with the example above,
+              this new paradigm requires only apriori bounds on the percentage errors for the
+              random variables. The only other assumption required is that large deviations
+              from the mean are less probable than small deviations.  
+***  
+

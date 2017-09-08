@@ -1,0 +1,71 @@
+Title       : A New Wavelet Packet Based Approach to Efficient High Speed Controller Design
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 31,  1999    
+File        : a9970105
+
+Award Number: 9970105
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $209999             (Estimated)
+Investigator: Soura Dasgupta dasgupta@engineering.uiowa.edu  (Principal Investigator current)
+Sponsor     : University of Iowa
+	      
+	      Iowa City, IA  52242    319/335-2123
+
+NSF Program : 1519      INTEGRATIVE SYSTEMS
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              This proposal concerns a new wavelet packet based design methodology for
+              efficient implementation of digital controllers operating at very high sampling
+              rates, but for reasons of compactness fabricated on VLSI chips with limited
+              surface area. In VLSI technology there is a tradeoff between the chip surface
+              area, A, the number of computations, N,  that this chip can perform and the
+              time, T, taken to effect these computations.  In general under suitable
+              normalizations AT2 = N.  In a control setting, under fixed sampling rate and a
+              given controller this tradeoff limits the number of bits that can be processed
+              over each sampling interval.  Consequently, finite word length (FWL) effects
+              come into play, and fast sampling restricts the overall implementational
+              accuracy.  A motivating example where this happens is the stabilization and
+              control of semiconductor laser arrays whose coherent phase locking dynamics are
+              open loop unstable.  Stable locking would permit the use of such arrays in a
+              number of important applications.  The underlying dynamics are in hundreds of
+              MegaHertz.  Yet physical robustness requires a controller chip surface area
+              that compares with the small surfaces on which these arrays are
+              fabricated
+
+The methodology we propose involves wavelet packet based
+              techniques that exploit spectral disparities in different subbands of the input
+              to a desired controller, to minimize FWL effects caused by signal, as opposed
+              to coefficient quantization, while maintaining a desired chip surface area. 
+              This will be done through the judicious use of multirate techniques, under the
+              assumption of floating point computations.  The basic idea is to recognize that
+              to achieve the said level of quantization accuracy,  higher energy signals must
+              be assigned higher number of bits.  Our approach requires that the controller
+              input, be split into several subbands.  Since the subband signals have smaller
+              spectral support than the original controller input, each can be processed at
+              smaller sampling rates.  Each such signal is then processed at different bit
+              resolutions by different controller parts, according to the level of energy
+              that the subband contains.  The controller part is then recombined at the
+              original sampling rate.  The net effect is improved resolution in the control
+              input, without increasing the chip area. The goal is to minimize overall
+              quantizer induced distortions, by selecting the resolution assigned to each
+              subband signal, and the manner in which band splitting is performed.  The idea
+              is essentially similar to subband coding, that has led to substantially
+              improved data compression in signal processing.  We argue that the improvement
+              should be even more substantial in control setting, show that the technical
+              issues in the controller design context are very different than in the subband
+              coding literature, and formulate some precise technical problems that the
+              proposed research is directed toward.  Finally, some of the techniques to be
+              developed as part of this otherwise theoretical research will be validated on
+              an experimental laser array control test bed available at this University
+
+

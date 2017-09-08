@@ -1,0 +1,103 @@
+Title       : CAREER: A Statistical Framework For Reconstructing 3D Manifolds From Range Data
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2000    
+File        : a0092065
+
+Award Number: 0092065
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $225262             (Estimated)
+Investigator: Ross T. Whitaker whitaker@cs.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              Title --- CAREER:  A Statistical Approach to Estimating 3D Manifolds From Range
+              
+Data
+
+PI --- Ross T. Whitaker
+
+Institution --- University of
+              Utah
+
+
+This project addresses the question of how to automatically generate
+              3D 
+computer models of objects and scenes using data from a range finding
+              
+device, such as a laser range scanner, sonar, ultrasound, or radar.  Such
+              
+3D computer models are important in a wide range of applications including
+              
+defense surveillance, forensics, teaching, and medicine.  Range measuring
+              
+devices typically sweep a beam of energy to gather many millions of 3D
+              
+measurements from surfaces of objects but they have some limitations. 
+              
+First, because not all object are visible from a single point of view, a
+              
+single sweep is incomplete.  Second, each individual range measurement is
+              
+not necessarily accurate because the measurement process is inherently
+              
+noisy.  The strategy is to systematically fuse together many measurements
+              
+from different points of view in order to create accurate, complete 3D
+              
+models.  This project examines some of the fundamental mathematical
+              
+questions pertaining to this process and then studies how to implement and
+              
+demonstrate this theory on real data.
+
+Range-finding devices measure
+              distances to objects by reflecting energy off 
+of the interfaces between
+              different types of materials, but they provide a 
+noisy, mathematically
+              complex, and highly nonlinear transformation from a 
+collection of surfaces to
+              a set 2D depth maps.  This project will develop 
+statistical methods for
+              estimating manifolds from this kind of data, 
+thereby generalizing the current
+              state of the art in estimation theory, 
+which is primarily concerned with
+              estimating functions or fields.  Thus, 
+the goal is to provide a general,
+              complete, and practical foundation for 3D 
+surface reconstruction.  The
+              strategy is to find the surface that maximizes 
+the posterior probability
+              conditional on a collection of range measurements 
+taken from different points
+              of view.  The reconstruction framework is 
+Bayesian; it includes a sensor
+              model as well as prior knowledge about the 
+characteristics of the object or
+              scenes being modeled.  This work will 
+address a number of important issues
+              pertaining to this statistical 
+methodology for building 3D models, including
+              better sensor models, 
+high-order priors, fast and robust algorithms, and
+              broader applications.  
+These developments will comprise a fundamental
+              scientific result: the 
+generalization of the basic principles of estimation
+              theory to the 
+challenging and timely problem of 3D surface reconstruction.

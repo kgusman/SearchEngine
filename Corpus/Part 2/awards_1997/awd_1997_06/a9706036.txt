@@ -1,0 +1,71 @@
+Title       : Capacity and Protocols for Integrated Voice/Data CDMA Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 5,  1998   
+File        : a9706036
+
+Award Number: 9706036
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $328057             (Estimated)
+Investigator: Narayan Mandayam narayan@winlab.rutgers.edu  (Principal Investigator current)
+              Jack M. Holtzman  (Principal Investigator former)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                     The aim of this project is to develop an analytical framework that
+              provides new understanding of the interaction of voice and data in an
+              integrated voice/data CDMA system. The insights obtained from this study will
+              be further used to develop new algorithms. The effect of the variability of
+              data and its impact on the capacity and performance of the voice service in
+              such a multimedia wireless system will be analyzed. New easily implemented
+              real-time strategies for call admission, and control after call setup will be
+              derived for the data service with delay sensitive voice being given priority.
+              The effect of variable quality of service (QoS) the different classes of
+              service may require will be included in the analysis framework and methodology.
+              Further, the interaction between protocol layers will be included in the study
+              and design   of access control schemes for data. Specifically, we will analyze
+              the interactions of end-to-end protocols like TCP (Transmission Control
+              Protocol) with data access control schemes on the radio link.    Analytical
+              Methodology:  Analysis of these problems encounters two serious difficulties.
+              Even if all the information (e.g., distributions of relevant random variables)
+              was available, exact analysis appears to be beyond current theory leading to
+              computationally tractable solutions. Secondly, the needed distributions are
+              often not available. We develop instead simple, reasonably accurate, analytic
+              methodology  which uses only means and variances, when appropriate, and
+              distributional assumptions when necessary.     Data Control Strategies:
+              Recognizing that voice is delay sensitive, we develop  data access control
+              strategies.  One type of real-time control is based on readily measurable
+              quantities related to voice quality and uses broadcasted permission
+              probabilities to the data users. The proposal will investigate the varied
+              questions  associated with the optimization of the data control algorithms. We
+              will develop and analyze such control  strategies for both conve ntional and
+              multiuser receivers.    Interaction between Protocol Layers :  Serious problems
+              can arise when protocol layers are designed independently but end up with
+              unexpected interactions. We address this in the context of a data access
+              control strategy operating under TCP. We investigate the problems due to such
+              interactions and appropriate modifications in the light of the interactions.   
+              Significance of this Project: This project will provide a more complete
+              understanding of the complex   issues of voice/data integration. This will
+              include development of analytical methodology which is convenient to use and
+              consistent with the limited information expected to be available. New effective
+                real-time algorithms will be developed for both conventional and multiuser
+              receivers. Further, the study of the interactions between data link
+              retransmission schemes and higher layer reliability protocols (like TCP) should
+              provide valuable insights into system design for optimum coexistence of diverse
+              traffic.  The work will thus provide a better understanding of the complex
+              interactions both between service types with different traffic characteristics
+              and different QoS requirements, and between different protocol layers. This
+              will lead to improved design of real-time algorithms for data.

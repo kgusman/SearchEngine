@@ -1,0 +1,62 @@
+Title       : Hybrid Symbolic-Numeric Computing in Distributed LSC Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 27,  2001    
+File        : a0098175
+
+Award Number: 0098175
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  2001      
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $55366              (Estimated)
+Investigator: Markus A. Hitz mahitz@ngcsu.edu  (Principal Investigator current)
+Sponsor     : North Georgia College
+	      College Avenue
+	      Dahlonega, GA  30597    404/864-3391
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0098175
+Hitz, Markus A.
+North Georgia College
+
+Data collected in
+              experiments, or constants in physics and other sciences are of limited
+              precision, introducing some degree of uncertainty in computations. Traditional
+              exact methods fail to reveal the entire set of solutions to algebraic problems
+              that have uncertain parameters. Often, these problems are inherently
+              ill-conditioned, such that numerical methods become sensitive to small
+              perturbations of the input parameters.
+
+Hybrid symbolic-numeric algorithms
+              have proven to be successful for finding "nearest" solutions of problems that
+              cannot be solved exactly. Efficient (polynomial time) algorithms have been
+              developed for common problems, such as computing approximate GCDs of univariate
+              polynomials. For other problems, e.g., finding the nearest singular Hankel or
+              Toeplitz matrix, it is currently unknown whether there exist efficient
+              algorithms. This project will continue research in this area, in particular on
+              the problem of approximate bivariate and multivariate factorization.
+
+For
+              both areas, symbolic and numeric computing, vast software libraries and
+              programming environments are readily available. For hybrid computing those
+              libraries either have features that are computationally expensive (symbolic),
+              or lack symbolic support at all (numeric). A new class of systems adds Limited
+              Symbolic Capabilities (LSC) to existing libraries that have optimized
+              implementations of rational and floating point arithmetic. We will investigate,
+              and contribute to, LSC systems.
+
+This is an RUI project.  Undergraduate
+              students will engage in research that is appropriate for their level of
+              expertise. In the process they will also gain valuable skills in configuring
+              local area networks, and in operating clusters of computers which become more
+              and more important in server applications.
+

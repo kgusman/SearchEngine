@@ -1,0 +1,52 @@
+Title       : Adaptive Reduced-Rank Interference Suppression: Algorithms, Performance, and Low
+               Power VLSI
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0073686
+
+Award Number: 0073686
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $295369             (Estimated)
+Investigator: Majid Sarrafzadeh   (Principal Investigator current)
+              Michael L. Honig  (Co-Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+               This research is concerned with algorithmic, performance, and hardware issues
+              related to reduced-rank adaptive filtering.  Reduced-rank filters project the
+              incoming received signal onto a lower dimensional subspace, which reduces the
+              amount of training data needed relative to a conventional full-rank
+              algorithm.
+ Algorithmic techniques will be studied initially within the
+              context of interference suppression for Direct Sequence (DS)-Code-Division
+              Multiple Access (CDMA),  although they can be applied to any adaptive linear
+              filter. The focus of the research is on a recently developed class of
+              reduced-rank adaptive algorithms based on the multi-stage Wiener filter of
+              Goldstein and Reed. This technique can achieve full-rank performance
+with a
+              very low filter rank, which enables rapid convergence and tracking. 
+              Furthermore, these algorithms
+do not rely on an explicit estimate of the
+              signal subspace. The project is multi-disciplinary in that it combines the
+              expertise of the two co-PIs in the areas of adaptive signal processing and low
+              power VLSI design.
+The main objective of the research is to build a low-power
+              special purpose hardware prototype, which can serve as the computational engine
+              for reduced-rank filtering in a variety of applications.  Algorithmic issues to
+              be studied include selection of filter rank, performance in different adaptive
+              filtering applications, such as equalization, and numerical stability and
+              dynamic range problems.

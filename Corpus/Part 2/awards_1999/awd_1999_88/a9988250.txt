@@ -1,0 +1,48 @@
+Title       : Exploiting Object Relationships for More Deterministic Management of Distributed
+               Objects
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 13,  2002      
+File        : a9988250
+
+Award Number: 9988250
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $66141              (Estimated)
+Investigator: Craig E. Wills cew@cs.wpi.edu  (Principal Investigator current)
+Sponsor     : Worcester Polytech Inst
+	      100 Institute Road
+	      Worcester, MA  016092247    508/831-5000
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Caching and replication of objects on the Internet and the World Wide Web are
+              frequently used techniques to reduce latencies for clients accessing these
+              objects while reducing network and server load.  This work investigates the
+              potential of managing objects where servers supply more complete information to
+              client caches and use the information to manage replicated content.  The idea
+              is to exploit composite objects, which group a set of distinct objects where
+              each object has a uniform type and change characteristic.  Relationships
+              between these objects can be "compiled" at a server into information that the
+              server can pass to clients.  Such information ranges from explicit expiration
+              times for caching/replicating a list of objects to invalidations based on the
+              object membership in a volume of related objects.
+
+A client/server
+              environment consisting of objects with different types and relationships will
+              be used to test the approach.  It is expected to yield more effective and
+              predictable caching as well as drive placement and removal of replicated
+              content, particularly when combined with client access counts.  The work will
+              have continued impact as distributed object environments continue to grow in
+              size with increasing diversity in the type of objects grouped together and
+              served.
+

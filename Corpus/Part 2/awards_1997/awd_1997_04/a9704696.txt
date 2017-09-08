@@ -1,0 +1,49 @@
+Title       : Postdoc: Parallel Adaptive Partition of Unity Methods
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 10,  1997     
+File        : a9704696
+
+Award Number: 9704696
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1997     
+Expires     : March 31,  1999      (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Mark S. Shephard shephard@scorec.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              The postdoctoral associate will work with researchers in Rensselaer's Scientific
+              Computation Research Center (SCOREC) on the development of parallel adaptive
+              partition of unity methods.  These methods represent a new class of
+              discretization techniques for solving partial differential equations, which do
+              not require the traditional grids of disjoint, non-overlapping cells, as used
+              in typical finite element, finite difference or finite volume methods. However,
+              they do require a discretization of the domain from which an appropriate set of
+              partition cells interact with themselves and the domain boundary.  Key to the
+              construction of the partitions is determining how the partition cells interact
+              with themselves and the domain boundary.  The ultimate effectiveness of these
+              methods will depend on efficient construction and control of the partitions. 
+              Building on expertise on the development of scalable parallel algorithms for
+              automated adaptive finite element analysis over general three-dimensional
+              domains, the proposed research program will consider alternative methodologies
+              for the automatic construction and adaptive solution, in parallel, of partition
+              of unity discretizations for geometric domains defined in terms of solid
+              models. Specific areas of development include: (i) examination of alternative
+              methods to use distributed octree structures on parallel computers to define
+              basic partitions over the domain of the octree, (ii) effective techniques to
+              perform the required integrations over partition of unity cells, with
+              particular concern for integrating those cells that intersect boundaries of the
+              domain, and (iii) develop parallel adaptive partition of unity solution
+              methodologies

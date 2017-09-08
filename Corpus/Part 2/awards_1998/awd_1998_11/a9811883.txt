@@ -1,0 +1,40 @@
+Title       : Inference of Structure from Sparse Data in 2-D and 3-D
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : December 3,  2001   
+File        : a9811883
+
+Award Number: 9811883
+Award Instr.: Continuing grant                             
+Prgm Manager: Vladimir J. Lumelsky                    
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : November 30,  2001   (Estimated)
+Expected
+Total Amt.  : $240000             (Estimated)
+Investigator: Gerard G. Medioni medioni@iris.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              The PI has developed a methodology to group token elements in 2-D or 3-D, in the
+               presence of noise and outliers.  These tokens can take form of points, edgels,
+              surface elements, or any combination of these.  Each site collects all the
+              votes cast at its location and encodes them.  A local, parallel routine then
+              simultaneously detects junctions, curves, regions and surfaces.  The method is
+              non-iterative, requires no initial guess, and the only free parameter is scale.
+               This research will extend the foundation work in three directions:
+              formalization, validation, and extensions.  Formalization will unify the
+              different elements using tensor calculus for representation, and non-linear
+              polling for  data communication, and produce integrated descriptions for
+              features.  Validation will be performed via controlled experiments, with
+              various inputs and known amounts of noise, and results will be compared with
+              imagery and methods from other sites.  Extensions will be applied to stereo,
+              motion segmentation, and shape description.

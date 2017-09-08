@@ -1,0 +1,85 @@
+Title       : ITR: Adaptive Unitary Matrices For High-Speed Communications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 29,  2002      
+File        : a0082329
+
+Award Number: 0082329
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $329633             (Estimated)
+Investigator: John R. Barry barry@ee.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1656,1660,4096,4097,9218,HPCC,
+Abstract    :
+              
+A fundamental problem in a wide variety of wideband communications
+              applications is that of adapting a unitary matrix.  For example, consider an
+              array-to-array AWGN wireless communications link in which the transmitter has
+              knowledge of the channel. To achieve the Shannon capacity of such a link, the
+              optimal transmitter prefilters the vector of transmitted symbols by the right
+              unitary factor in the channel singularvalue decomposition. This prefilter,
+              coupled with a matrix-valued matched filter at the receiver, converts the
+              matrix channel into an equivalent bank of independent scalar channels, greatly
+              simplifying the modulation, coding, and other signal processing tasks needed to
+              maximize throughput. Despite the optimality of the unitary prefilter, however,
+              the high complexity of the SVD (especially for rapidly varying channels) makes
+              it difficult to realize in practice. A low-complexity algorithm for adapting a
+              unitary matrix could be the catalyst that brings such optimal space-time
+              processing closer to reality. Other applications requiring an adaptive unitary
+              matrix include blind fractionally spaced equalization; blind multiuser
+              detection for CDMA; blind combining for narrowband arrays; and signal-noise
+              subspace separation and subspace tracking.  
+
+The objective of this proposal
+              is to develop low complexity and robust strategies for adapting unitary
+              matrices, to assess their performance, convergence properties, and complexity,
+              and to compare them to existing alternatives. The proposal is built around
+              three core algorithms for adapting a unitary matrix U k T he MPLL algorithm,
+              the subspace separator, and the adaptive SVD algorithm. All three take the
+              form:
+
+U k + 1 = U kR l {g(z k )  z k },
+
+where z k = U k * y k and y k is
+              the receiver observation vector, and where R l {x  z} denotes a particular
+              unitary matrix that rotates x / || x || a fraction l of the way to z / || z ||.
+              The memoryless function g(z) is anonlinear decision device for the MPLL, while
+              it is a linear matrix for the subspace separator and the adaptive SVD
+              algorithm.
+
+This recursion has a number of nice properties; it is
+              conceptually simple, and simple algorithms are often the most robust; it
+              ensures that U k is always unitary, since R l is unitary; there exists a lower
+              complexity implementation that does not require full-rank matrix
+              multiplication; and the recursion has a useful geometric interpretation that
+              facilitates its application to new areas. Furthermore, as discussed in this
+              proposal, preliminary results indicate that the recursion has excellent
+              convergence properties.  
+
+The inspiration for the proposed algorithms came
+              from the scalar phase-locked loop (PLL). The PLL is clearly the workhorse for
+              adapting unitary scalars, primarily because of its robustness, low
+              complexity,good performance. It stands to reason, therefore, that some of these
+              properties might carry over into the higher-dimensional problem of adapting
+              unitary matrices.  
+
+The proposed research constitutes a significant
+              advancement in the theory of signal processing and its application to
+              communication theory, and is applicable to a wide variety of signal processing
+              applications beyond communications. The project will provide two Ph.D. students
+              with extensive physical-layer training for next-generation wideband
+              communications systems.
+

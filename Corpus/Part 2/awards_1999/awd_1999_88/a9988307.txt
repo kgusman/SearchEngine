@@ -1,0 +1,43 @@
+Title       : Technologies for Lightweight, Generative, Binary Software Components
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 6,  2000  
+File        : a9988307
+
+Award Number: 9988307
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Samuel N. Kamin kamin@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              A "software component" is any code that a programmer can use as part of a larger
+              piece of code.  Components may be classified along three dimensions:  (1)
+              Source-level components are delivered as source code, while binary-level
+              components are delivered as executables.  (2) Lightweight components extract
+              little run-time cost, while heavyweight components extract a large run-time
+              cost.  (3) Generative components create new code fragments at the time that the
+              component is used, while non-generative components simply copy code from the
+              component.  Subroutine and class libraries are binary-level, medium-weight, and
+              non-generative; macros and C++ templates are source-level, lightweight, and
+              generative.  Broadly speaking, binary-level components are more convenient,
+              while generative components are more powerful.  The goal of this project is to
+              produce a technology for lightweight, generative, binary-level components.  It
+              is based on two principles: Higher-order macros, used as a powerful component
+              language, and compositional semantics, to permit macros to be rendered as
+              executables.  The goal of the research is to raise the level of programming by
+              allowing programs to be built from more powerful and general components than
+              current component technologies admit.

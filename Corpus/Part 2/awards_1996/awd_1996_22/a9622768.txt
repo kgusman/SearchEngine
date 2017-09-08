@@ -1,0 +1,51 @@
+Title       : Implicitization of Rational Surfaces with Base Points
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 17,  1996 
+File        : a9622768
+
+Award Number: 9622768
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Thomas W. Sederberg tom@cs.byu.edu  (Principal Investigator current)
+Sponsor     : Brigham Young University
+	      D 341 Asb
+	      Provo, UT  846021043    801/378-6177
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9218,HPCC,
+Abstract    :
+              The objective of this proposal is to investigate a new technique  for finding
+              the implicit equation of a rational surface.  Standard implicitization
+              techniques for rational surfaces are  based on resultants.  But resultants
+              vanish in the presence of  base points.  Therefore, when base points are
+              present, the  implicit equation can be recovered using resultants only by 
+              carefully perturbing the parametric equations to eliminate the  base points. 
+              But such perturbations generally introduce  extraneous factors, which then need
+              to be painstakingly removed.  Thus base points seriously complicate
+              implicitization using  resultants.  On the other hand, base points simplify the
+              implicit  equation of a rational surface by lowering its degree.    Preliminary
+              work has roughed out a new implicitization technique  based on algebraic
+              "moving surfaces" that "follow" a rational  surface.  Not only is this new
+              implicitization technique  impervious to base points, it also simplifies in the
+              presence of  base points.  Moreover this new method generates a more compact 
+              matrix representation for the implicit equation than methods  based on
+              resultants.  Currently this new method is substantiated  only by several
+              Mathematica examples and some preliminary  theorems.  It is proposed to develop
+              the theoretical foundations  of the new method and then to apply the method to
+              solve a variety  of practical problems in computer graphics, geometric
+              modeling,  and symbolic computation.    A wide variety of additional problems
+              in elimination theory might  also be attacked by these new techniques
+              including, but not  limited to, inverting a rational map, computing the
+              singular  locus of a rational surface, intersecting rational curves and 
+              surfaces, and intersecting algebraic curves and surfaces.  ***

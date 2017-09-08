@@ -1,0 +1,70 @@
+Title       : Career: A Prediction-based Approach to Responsive Distributed Interactive
+               Applications
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0093221
+
+Award Number: 0093221
+Award Instr.: Standard Grant                               
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2006     (Estimated)
+Expected
+Total Amt.  : $499949             (Estimated)
+Investigator: Peter A. Dinda pdinda@cs.northwestern.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1045,9218,HPCC,
+Abstract    :
+              	Over the next few years, large high resolution displays and immersive displays
+              will enable and popularize new kinds of interactive applications that will
+              drive a vast increase in the demand for computational and communications
+              resources.  These demands will be met by using increasingly wider area
+              distributed computing environments such as computational grids.  Unfortunately,
+              there is a mismatch between the aperiodic soft real-time requirements of these
+              distributed interactive applications and the shared, unreserved, highly dynamic
+              and competitive environments they will run in.  To achieve responsiveness these
+              applications will have to adapt their behavior to the vagaries of their
+              execution environments.
+	A number of adaptation mechanisms have been developed
+              or proposed, but there is comparatively little work on how to control these
+              mechanisms to achieve soft real-time constraints.  The goal of this project is
+              to develop a control system that can competently advise an application as to
+              how to make use of its adaptation mechanisms to achieve such constraints.  The
+              approach is to apply rigorous statistical prediction techniques to predict both
+              how the application's resource demands will vary over time and how the
+              environment's resource availability will vary over time.  Such predictions,
+              which are computed on demand at run-time, can then be used by the application
+              or other user-level middleware services to choose an appropriate mapping for
+              the application's tasks with which they can meet their constraints with high
+              probability.
+	The contributions of this project will include a statistical
+              characterization of the dynamic behavior and predictability of the demand for
+              CPU and network resources in distributed interactive applications, a
+              statistical characterization of the dyunamic behavior and predictability of the
+              availability of these resources in distributed computing environments,
+              practical tools for predicting resource demand and availability online and
+              providing application-level performance predictions and adaptation advice to
+              distributed interactive applications, and courses that will introduce graduate
+              students and undergraduates to statistical prediction techniques and data
+              analysis within the context of computer systems research and practice.  The
+              project will also produce at least two Ph.D. dissertations.
+	This project will
+              build on the researcher's earlier work, which has shown , for a simplified
+              problem, namely scheduling compute-bound real-time tasks using time series
+              predictions of host load, that the approach described in this proposal can work
+              and can lead to the kinds of contributions described above.  In addition to
+              producing scientific results, software artifacts, and educating students, the
+              researcher believes that the path shown here will develop his reputation as the
+              authority on prediction-based services for distributed interactive applications
+              within the high performance distributed computing community.
+

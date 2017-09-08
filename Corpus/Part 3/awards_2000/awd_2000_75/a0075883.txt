@@ -1,0 +1,102 @@
+Title       : GOALI: Combining Discontinuous Molecular Dynamics and Chemical Process
+               Simulation
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0075883
+
+Award Number: 0075883
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert M. Wellek                        
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  2000  
+Expires     : February 28,  2003   (Estimated)
+Expected
+Total Amt.  : $109879             (Estimated)
+Investigator: J. Richard Elliott dickelliott@uakron.edu  (Principal Investigator current)
+              Nathan Massey  (Co-Principal Investigator current)
+Sponsor     : University of Akron
+	      302 East Buchtel Avenue
+	      Akron, OH  443250001    330/972-7666
+
+NSF Program : 1414      INTERFAC TRANS,& THERMODYN PRO
+Fld Applictn: 
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              ABSTRACT
+CTS-0075883
+J. R Elliott
+
+In this two-year exploratory grant
+              prospects will be evaluated for integrating molecular modeling tools with a
+              chemical process simulation package to provide a complete, rigorous, and
+              accurate framework for physical property prediction and correlation.  Chemical
+              process simulators are becoming the primary interface for industry chemical
+              knowledge.  It has been recently discovered that perturbation theory is much
+              more accurate than previously appreciated, especially for polyatomic molecules.
+               Discontinuous molecular dynamics (DMD) simulation combines with perturbation
+              theory and virial expansion to provide a basis for highly leveraged
+              computational effort in all aspects of molecular modeling.  An existing DMD
+              program will run the minimal number of simulations necessary with reasonable
+              speed on low-cost microprocessors.  The resulting segmental potential models
+              will act as molecular scale group contributions, analogous to conventional
+              engineering group contribution models.  Although these segmental potentials act
+              essentially as first group contributions, higher order effects derived from
+              molecular geometry will be explicitly addressed through the connectivity of the
+              first order groups in the user-designated molecular structure.
+
+The initial
+              goal will be to test the transferability of discontinuous potential models for
+              the equilibrium properties of pure fluids and mixtures.  A database of
+              fluctuation populations for spheres, dimers, trimers, 6mers, 8mers, and benzene
+              will be developed and be used to develop optimal step potentials for
+              representing experimental values for vapor pressures, density, and internal
+              energy for methane, ethane, n-hexane, n-octane, benzene, water, methanol and
+              ethanol.  The transferability of the resulting potentials will be evaluated in
+              terms of the accuracy of predictions for n-butane, n-pentane, n-heptane,
+              n-nonane, and n-decane.  For mixtures, the transferability will be evaluated in
+              terms of the accuracy of predictions for ternary mixtures and mixtures like
+              n-propanol+methanol, for which the hydroxyl group in n-propanol was
+              specifically regressed.
+
+The second goal will be to implement methods of
+              calculating transport properties like viscosity, thermal conductivity, and
+              diffusivity in addition to the equilibrium and coexistence properties that have
+              been computed in the past.  Resulting simulations will probe the extent to
+              which potential models developed solely on the basis of equilibrium properties
+              can be applied to estimating transport properties.  It is sought to "dissect"
+              model intermolecular potential functions in the sense of identifying which
+              pieces of the potential correlate most strongly with specific physical
+              properties.  Also sought will be broadly applicable mappings of attractive
+              effects on transport properties given DMD simulated properties for reference
+              fluids, by analogy to the perturbation perspective for equilibrium properties. 
+              For example, the extent to which the diffusivity of n-decane can be predicted
+              from correlated results for the diffusivity of n-octane and DMD simulations for
+              purely repulsive n-decane will be examined.  The work will be performed with
+              collaboration between The University of Akron and ChemStations, Inc.  
+
+If
+              this exploratory work shows promise, the ultimate goal will be an internet site
+              which clients can access for zero cost up front and relatively low hourly fees
+              varying according to the intensity of the server side computation requested. 
+              Services provided will include molecular modeling of transport and equilibrium
+              properties like vapor pressure, activity, water solubility, octanol partition
+              coefficients, viscosity, and the ability to infer knowledge about one property
+              from measurements of other properties through a common molecular model.  Within
+              the range of options will be a comprehensive collection of semi-empirical
+              methods with estimates of the accuracy of each property.  The scope of this
+              project includes a thorough evaluation of the accuracy all the semi-empirical
+              models and the molecular based models against a database of approximately 1300
+              compounds.  Those evaluations will comprise a significant portion of the work
+              beyond the exploratory phase.  Also included in the web-accessible version will
+              be flowsheeting and process simulation based on shortcut unit operation models.
+               The sensitivity of the process capital and production costs to the estimated
+              physical properties will be a menu option.  The shortcut model will serve as a
+              precursor for rigorous process simulations directly within a web-based
+              environment.        
+
+
+

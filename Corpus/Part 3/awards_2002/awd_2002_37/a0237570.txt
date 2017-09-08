@@ -1,0 +1,79 @@
+Title       : CAREER:Exploiting Binary Rewriting to Analyze and Alleviate Memory Bottlenecks
+               for Scientific Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 29,  2003   
+File        : a0237570
+
+Award Number: 0237570
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2003       
+Expires     : May 31,  2008        (Estimated)
+Expected
+Total Amt.  : $400000             (Estimated)
+Investigator: Frank Mueller mueller@cs.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,1187,9216,HPCC,
+Abstract    :
+              Today, high-performance clusters of shared-memory multiprocessors (SMPs)
+are
+              employed to cope with large data sets for scientific
+applications. On these
+              SMPs, hybrid programming models combing
+message passing and shared memory are
+              often less efficient than pure
+message passing although the former fits SMP
+              architectures more
+closely.
+
+The objective of this work is to determine the
+              sources of
+inefficiencies in utilizing memory hierarchies of SMPs and to
+              optimize
+memory behavior. The novelty lies in the reliance on
+dynamic binary
+              rewriting, i.e., performance analysis and tuning are
+performed on the
+              application while it executes.
+
+The technical challenges are to
+
+1) develop
+              a framework for dynamic binary rewriting,
+2) determine coherence traffic
+              resulting in misses for
+non-deterministic orders of executions in the presence
+              of parallelism,
+3) identify memory bottlenecks,
+4) determine data
+              dependencies between data references for
+hot-spots for binaries,
+5) study the
+              potential for memory-improving program transformations
+on the executing binary
+              and
+6) evaluate the merits of optimizations for large-scale benchmarks
+among
+              others.
+
+The key intellectual merit is in providing additional,
+              dynamic
+optimizations for long-running applications.  The broader impact
+              of
+this work lies in its contribution to counter the increasing gap
+between
+              processor and main memory speeds by fully
+exploiting software
+              optimizations.
+
+

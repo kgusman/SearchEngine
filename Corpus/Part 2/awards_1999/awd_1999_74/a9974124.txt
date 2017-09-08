@@ -1,0 +1,65 @@
+Title       : The Performance of Iterative Search Strategies for Maximum-Likelihood Estimation
+               of Phylogeny from DNA Sequences
+Type        : Award
+NSF Org     : DEB 
+Latest
+Amendment
+Date        : June 19,  2001      
+File        : a9974124
+
+Award Number: 9974124
+Award Instr.: Continuing grant                             
+Prgm Manager: James E. Rodman                         
+	      DEB  DIVISION OF ENVIRONMENTAL BIOLOGY       
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $128976             (Estimated)
+Investigator: John (Jack) M. Sullivan jacks@uidaho.edu  (Principal Investigator current)
+              David L. Swofford  (Co-Principal Investigator current)
+Sponsor     : University of Idaho
+	      
+	      Moscow, ID  838443010    208/885-2259
+
+NSF Program : 1171      SYSTEMATIC BIOLOGY
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9150,9169,EGCH,
+Abstract    :
+              9974124
+Sullivan and Swofford
+	The construction or estimation of phylogenetic
+              branching structure (trees) from DNA sequence data, whether for organisms or
+              their constituent genes, is increasingly important in a wide array of
+              biological studies. Maximum-likelihood (ML) estimation methods are also
+              increasingly being used to construct phylogenetic trees because of several
+              desirable statistical properties of the methods, including the capacity to
+              modify parameters of nucleotide substitution that are thought to influence the
+              rates and patterns of DNA base changes. Realistic models describing the process
+              of nucleotide substitution are now available for use in calculating likelihood
+              values; for example, all six reversible nucleotide substitution types can be
+              allowed to evolve at a unique relative rate, base frequencies can deviate from
+              equality, and different sites (and different codon positions) can be allowed to
+              evolve at different rates. The most complex time-reversible models currently in
+              use thus incorporate the estimation of ten parameters to describe the process
+              of nucleotide substitution, in addition to the calculation of branch lengths
+              for the tree under examaination. The penalty in this complexity is the sheer
+              computational time required to calculate the maximum likelihood score, which
+              becomes prohibitive for nearly all researchers working with more than 20
+              species in an analysis. Yet, gene-sequencing and genomic sequencing projects
+              are underway for vastly more species, and the analysis of these huge datasets
+              requires improvement in maximum-likelihood search methods.
+	Dr. Jack Sullivan
+              at the University of Idaho, working with his colleague Dr. David Swofford, is
+              exploring the option of parallel processing of ML searches using the widely
+              available software package PAUP*, in order to conduct iterative searches on the
+              huge numbers of possible trees from large datasets. A multi-step approach will
+              start with published datasets and trees for phylogenies involving small numbers
+              of taxa, then move to larger numbers of taxa, and then add simulation studies
+              on the iterative-search strategy focused on a target dataset of 50 or so taxa.
+              The general goal is to improve upon current ML methods for finding both the
+              optimum tree structure and the optimal combination of topology, branch lengths,
+              and parameters of the model for nucleotide substitution during evolutionary
+              change of a group.
+
+

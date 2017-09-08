@@ -1,0 +1,51 @@
+Title       : RIA: Asynchronous Computer Architecture
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 9,  1991     
+File        : a9111793
+
+Award Number: 9111793
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1991     
+Expires     : January 31,  1994    (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Erik L. Brunvand elb@cs.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0308000   Industrial Technology                   
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              Computer architecture is becoming a well-understood science.                   
+              However, it is currently dominated by traditional synchronous                  
+              implementations of architectural ideas.  As techniques for building            
+              asynchronous circuits, and self-timed circuits in particular,                  
+              improve, it becomes more reasonable to ask what effect these                   
+              circuit techniques might have on the architecture of computers.                
+              Clocked synchronous circuits, for example, tend to reflect worst-              
+              case behavior because the clock cycle must be long enough for the              
+              worst-case path through some component of the system.  Asynchronous            
+              systems, on the other hand, tend to reflect average-case                       
+              performance because results from one component are available as the            
+              computation completes.  Asynchronous systems can also take direct              
+              advantage of incremental process or technology improvements and can            
+              thus remain productive over longer periods of time.  This research             
+              studies the ways in which asynchrony can be used to increase                   
+              performance at an architectural level.                                         
+                                                                                             
+              A framework is developed that allows different processor                       
+              organizations to be considered.  The result of this study proposed             
+              architecture that uses asynchrony to improve processor performance.            
+              Parts of the proposed architecture are tested by using an automatic            
+              translation system to generate circuits from program descriptions.

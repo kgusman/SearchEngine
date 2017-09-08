@@ -1,0 +1,63 @@
+Title       : CAREER: Signal Processing Tools for Dynamic Geometry
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : December 28,  2001  
+File        : a0133554
+
+Award Number: 0133554
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 15,  2002   
+Expires     : December 31,  2006   (Estimated)
+Expected
+Total Amt.  : $309714             (Estimated)
+Investigator: Igor Guskov guskov@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 1045,9216,HPCC,
+Abstract    :
+              0133554
+Guskov, Igor
+U of MIchigan-Ann Arbor
+
+Medical imaging systems and
+              computational modeling of physical processes produce vast amounts of surface
+              data for analysis and visualization purposes. Often such data are
+              time-dependent and describe surfaces that evolve in time, for example, a
+              developing interface between two fluids or moving walls of the heart
+              ventricles. This project will develop processing tools for such dynamic surface
+              data. In particular, massively redundant and noisy raw data coming from
+              applications will be converted into compact form useful for extensive
+              interactive manipulation, especially within remote collaboration environments.
+              The developed technology will also be useful for applications in tele-presence
+              and animation. This research effort will be integrated with educational
+              initiatives via student involvement in research projects, development of new
+              curriculum in Digital Geometry Processing, and collaboration with external
+              researchers.
+
+The focus of this project will be on converting raw application
+              data into hierarchical surface representations that are temporally coherent and
+              spatially (semi-)regular, and further processing and compression of the
+              constructed data representations. Specifically, a sequence of irregular meshes
+              produced by a frame-by-frame marching cubes extraction of isosurfaces from a
+              time-dependent volumetric field is an example of geometric data that cannot be
+              efficiently processed without first establishing temporal coherence and spatial
+              regularity of the surface sampling. The development of a fully automated
+              compression system for dynamic geometry in this scenario will include the
+              following components: constrained parameterization method for establishing
+              temporal coherence of surface sampling, patch layout generation and maintenance
+              routine to deal with possible topology changes, efficient topological event
+              detection procedure, predictive coding of dynamic geometry streams, geometric
+              and topological denoising of raw application data, and possible integration of
+              the regular mesh extraction into the simulation (or shape acquisition)
+              environment. The developed technology will also be useful in the areas of
+              scientific visualization and computer aided geometric design.
+

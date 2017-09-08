@@ -1,0 +1,77 @@
+Title       : ITR: Self-Stabilizing Networking Protocols for Distributed Systems
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 13,  2002 
+File        : a0218495
+
+Award Number: 0218495
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2002 
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $394433             (Estimated)
+Investigator: Pradip Srimani srimani@cs.clemson.edu  (Principal Investigator current)
+              David P. Jacobs  (Co-Principal Investigator current)
+              Stephen T. Hedetniemi  (Co-Principal Investigator current)
+Sponsor     : Clemson University
+	      Box 345702
+	      Clemson, SC  296345702    864/656-2424
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+              Fault tolerant protocols are essential for providing various services (routing,
+              group communication, broadcasting, multi-casting, etc.) in large, dynamic,
+              distributed systems, where both processors and communication links can
+              malfunction intermittently.  For example, in mobile and ad hoc networks,  the
+              communication links are unreliable and some nodes may be unreachable for
+              certain amounts of time. Such networks, consisting of mobile hosts that 
+              communicate via wireless radio channels, are being increasingly  used for local
+              area networks, law enforcement, military operations and a myriad of other
+              applications. 
+
+The traditional approach in designing fault tolerant
+              protocols assumes an upper bound on the number of faults and involves a worst
+              case design by fault masking.  While this approach
+provides 100% system
+              availability under assumed conditions, the implementation becomes very
+              expensive.  At the same time there are numerous applications for which the lack
+              of system availability for very short periods is acceptable. 
+              Self-stabilization is an ``optimistic'' model to design 
+distributed fault
+              tolerant systems; no upper bound on the number of faults is necessary, systems
+              always reach a legitimate global state starting from any arbitrary (possibly
+              illegitimate) state, and no central control is needed.  However, system
+              availability is not guaranteed during  the convergence period.
+
+This research
+              addresses the design and analysis of fault tolerant self-stabilizing protocols
+              for global communication primitives for dynamic distributed systems, especially
+              suitable for mobile ad hoc networks. The research focuses on several
+              aspects:
+
+-- Create paradigms and guiding principles for designing
+              self-stabilizing distributed algorithms;
+-- Explore methodologies for
+              translating a conventional algorithm into a self-stabilizing analog;
+--
+              Discover and analyze self-stabilizing protocols for global communication
+              primitives (resource center location, leader election, etc.) in a network;
+--
+              Explore fractional (rational) valued self-stabilizing algorithms as a way to
+              obtain improved approximate solutions to otherwise NP-hard problems;
+--
+              Measure the degree to which self-stabilizing algorithms can contain a single
+              fault.
+
+The research takes a combined theoretical and experimental approach,
+              and applies its results to emerging distributed applications for ad hoc
+              networks.
+
+

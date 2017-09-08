@@ -1,0 +1,49 @@
+Title       : Multicast Congestion Control Protocols
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 8,  2000     
+File        : a0082294
+
+Award Number: 0082294
+Award Instr.: Standard Grant                               
+Prgm Manager: Mari Maeda                              
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $600000             (Estimated)
+Investigator: Harrick M. Vin vin@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Multicast is a network service for delivering the same data to multiple
+              destinations. A wide range of emerging network applications - such as
+              multi-participant video conferencing, multi-party interactive games, distance
+              learning, group collaboration, and resource location - can greatly benefit from
+              this service.
+     In this project, the researchers will develop congestion
+              control protocols for IP multicast to support scalable and efficient
+              dissemination of layered data to a large number of receivers in heterogeneous,
+              dynamic networks. The researchers will investigate the use of an integrated set
+              of three distinct mechanisms - per-group feedback-based transmission
+              adjustment, selective participation, and menu adaptation - to solve the general
+              multicast congestion control problem. These mechanisms will operate at
+              different time-scales and distribute the responsibility of adaptation to
+              different entities in the network. The researchers will experimentally evaluate
+              the scalability and performance of protocols in a large-scale network
+              environment where the multicast session shares network with other unicast and
+              multicast sessions, receivers join and leave the network, and the bottleneck
+              links and bandwidths fluctuate over time. The researchers will implement
+              multicast congestion control protocol in the network testbed of programmable
+              routers, based on the Internet eXchange Architecture (IXA). The outcome of the
+              research will be a family of algorithms, protocols, and prototype
+              implementations that will significantly advance the state of art in designing
+              multicast congestion control protocols.

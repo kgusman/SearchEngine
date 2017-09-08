@@ -1,0 +1,50 @@
+Title       : Mining Databases Across Multiple Tables
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : October 22,  2001   
+File        : a9978510
+
+Award Number: 9978510
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1999    
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $211000             (Estimated)
+Investigator: Nandit R. Soparkar soparkar@umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+               Current mining technology typically applies to centrally stored data (i.e., in
+              one single repository, with central administration, etc.). However, real-life
+              datasets are often decentralized (i.e., consisting of several tables, perhaps
+              obtained via normalization or partitioning / allocation, stored in several
+              repositories). The goal of this research project is to develop mining
+              techniques for decentralized data. The key idea is that in contrast to
+              traditional techniques (where the data is joined first to form a single table),
+              the decentralized approach concurrently generates partial results on the
+              separate tables, and thereafter, the foreign key relationships are utilized to
+              merge these results. A similar approach is examined for classification in
+              decentralized datasets, and the techniques chosen are those most amenable to
+              decentralization, or as indicated by the applications. Efficiency analyses is
+              used to assess the techniques, and empirically validated on available synthetic
+              and real datasets. The effect of different database design choices on the
+              decentralized mining algorithms is also considered. Systematic techniques are
+              developed to use, together with the catalog statistics, the details of database
+              design (e.g., normalization, and partitioning/allocation information) to
+              optimize for efficient execution. Furthermore, the techniques can be applied to
+              mining distributed relational metadata for public information repositories;
+              e.g., it can help simple web searching as well as allow programming advanced
+              applications, such as information mining, for the datasets referenced -
+              initially for those by students, and thereafter, users of any Web-based
+              datasets. This research also benefits educational activities and provides
+              research experience for graduate students involved in project.

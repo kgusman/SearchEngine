@@ -1,0 +1,49 @@
+Title       : A Query-Based Approach to Database Mining: Database Tools for Rule Discovery
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : December 23,  1996  
+File        : a9509819
+
+Award Number: 9509819
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1995  
+Expires     : February 28,  1998   (Estimated)
+Expected
+Total Amt.  : $384036             (Estimated)
+Investigator: Tomasz Imielinski imielins@cs.rutgers.edu  (Principal Investigator current)
+              Haym Hirsh  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 2891,9139,HPCC,
+Abstract    :
+                      Many  government and commercial organizations  possess  extremely  large
+               databases, with sizes  often  measured  in  terabytes,  containing such
+              information  as  consumer  data,  astronomical  observations, biological
+              sequences,  etc.  The  extraction  of  information from such  large  databases 
+              has  become known as database mining and is an area where machine  learning 
+              techniques must meet performance  requirements  of  very  large database
+              systems. This research focuses  on  one  particular  database-mining  task, 
+              the  problem   of   rule  discovery.  Rule  discovery  is  viewed  as  an 
+              interactive  process  with  a  human in the loop , an  iterative  process 
+              where  the  user is not only trying to discover  interesting  results, but also
+              interesting questions to ask. The approach  is based on the key idea that rules
+              can themselves be viewed  as  objects.  Under  this view the space of  possible
+               rules  supported by a database can itself be treated as a database,  and  the 
+              rule-discovery  process can  be  approached  as  a  process of querying the
+              rule base implicitly defined by each  database. The human in the loop user of
+              the discovery system  would interact with  the system via ad hoc rulebase
+              queries,  designing the desired query interactively as various results  are 
+              returned during a rule discovery session. The  proposed  implementation of the
+              data mining system is  tested  on  the  data from the health-care field,
+              obtained through an ongoing  collaboration with a major provider of managed
+              health care.

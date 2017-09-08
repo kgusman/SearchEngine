@@ -1,0 +1,59 @@
+Title       : Optimization Algorithms For a Class of Engineering Design Problems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 22,  1999      
+File        : a9900985
+
+Award Number: 9900985
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  1999     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $150000             (Estimated)
+Investigator: Elijah Polak polak@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0112000   System Theory                           
+Program Ref : 0000,OTHR,
+Abstract    :
+              This proposal is for the continuation of long standing efforts in developing
+              special purpose algoritluns for the solution of important engineering
+              optimization problems that are not tractable by standard mathematical
+              programming or optimal control algorithms.  The problems include design
+              centering, tolerancing and post manufacture tuning, robot and vehicle path
+              planning in the presence of obstacles with coners, described by max-min type
+              inequalities, optimal control and pursuit-evasion problems arising in
+              air-traffic control, various shape optimization problems, and problems of
+              seismic resistant structural design subject reliability constraints.  These
+              problems are invariably characterized by nonsmoothness and infinite
+              dimensionality of either variables or constraints or both, and often involve
+              ordinary or partial differential equations.  The proposed research will exploit
+              several tools developed, such as (i) the theory of consistent approximations,
+              (ii) reformulation techniques for converting seemingly intractable problems
+              into tractable forms.
+
+The framework of consistent approximations ensures the
+              convergence of local and global minimizers and stationary points of
+              approximating problems to those of the original problem.  Also, it provides
+              master algorithm models with discretization adjustment procedures, which can be
+              used in conjunction with highly polished, mathematical programming libraries. 
+              Furthermore, these algorithms can be made to converge superlinearly by calling
+              superlinearly converging mathematical programming subroutines from the master
+              algorithms.  By contrast, the problem reformulation techniques that we envisage
+              must be developed on an ad hoc basis, as we have already done for some path
+              planning and reliability constrained problems.
+
+The chances for success of
+              the proposal research will be considerably enhanced by the fact that we have
+              already obtained some results on which we can build and the multidisciplinary
+              setting provided by the ongoing interactions and collaborations of the
+              principal investigator and others.
+

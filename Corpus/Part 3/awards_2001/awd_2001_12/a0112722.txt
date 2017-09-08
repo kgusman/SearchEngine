@@ -1,0 +1,135 @@
+Title       : ITR/SI Collaborative Research: Investigations on CDMA Systems using Multiple
+               Level Sequences and Partitioned Reduced Complexity Multiuser Detection
+               Receivers
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 18,  2002      
+File        : a0112722
+
+Award Number: 0112722
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2001    
+Expires     : September 30,  2004  (Estimated)
+Expected
+Total Amt.  : $224968             (Estimated)
+Investigator: Qingchong Liu qliu@oakland.edu  (Principal Investigator current)
+Sponsor     : Oakland University
+	      520 O'Dowd Hall
+	      Rochester, MI  483094401    248/370-4924
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,9218,HPCC,
+Abstract    :
+                   CDMA systems have achieved great commercial success in wireless
+              communications since the first
+IS-95 system was deployed in Seattle in 1994.
+              In fact, most of the future wireless communication
+systems will be using CDMA
+              technology. Yet, as far as reaching the great potential of CDMA in terms
+of
+              higher system capacity, lower bit error rate, and lower packet loss rate, the
+              problem of demodulation in
+the presence of multiple access interference
+              remains as a significant bottleneck for all CDMA systems.
+To solve this
+              multiple access interference problem, researchers and engineers have worked
+              since the early
+1980's on so-called multiuser detectors (MUD). Unfortunately,
+              thus far none of the multiuser detectors
+has been implemented in a real CDMA
+              system, because of the prohibitive complexity of these structures.
+     There
+              are two major factors that contribute to this situation. First, CDMA systems
+              must use long
+spreading sequences for several practical reasons, whereas
+              multiuser detectors must use short spreading
+sequences. Second, the complexity
+              of even the simplest multiuser detector is still too great to be
+implemented
+              in the fastest electronics, for all but the smallest of data rates. In this
+              work, we propose to
+address both of these problems in a collaborative effort.
+              The collaboration will be organized so that Dr.
+Qingchong Liu of Oakland
+              University in Rochester, Michigan, will initially focus on the first
+              objective,
+and Dr. David W. Matolak of Ohio University in Athens, Ohio, will
+              initially (and concurrently) focus on
+the second objective. Results will be
+              exchanged frequently, and meetings will be held quarterly. After
+some early
+              progress, our collaboration will grow closer as we combine the work objectives
+              and consider
+system (transmitter and receiver) performance.
+     We propose
+              first to extend some recent results obtained for the construction of long
+              spreading
+sequences from short sequences. This can be termed the system
+              objective. These new sequences will
+be appropriate for both conventional CDMA
+              systems and for multiuser detectors. This method was
+invented by one of us and
+              has been implemented in possibly the fastest wireless network running
+              at
+400Mbps in the Spaceway system by Hughes Electronics. It has significantly
+              reduced receiver
+complexity and cost, and gives essentially optimum
+              performance. By measuring sequence correlations at
+multiple levels, the method
+              provides new insights on sequence design and tremendously reduces
+complexity
+              in signal design and detection for broadband wireless communications. This
+              method has the
+potential to help bridge a gap between current CDMA systems and
+              multiuser detectors.
+     We also propose to study reduced complexity
+              multiuser receivers from the perspective of reduced
+complexity trellis search
+              techniques, combined with one of the most promising MUD receiver
+              structures,
+in a partitioned manner. This can be termed the receiver
+              objective. The MUD receiver of interest is
+the minimum mean-squared error
+              (MMSE) receiver, which is attractive for its good performance and
+modest
+              complexity. The partitioning approach will aim to share the detection tasks
+              between the MMSE
+front-end and the reduced-complexity trellis processor. These
+              receivers will make use of the new
+spreading sequences specified for use in
+              future 3 rd and 4 th -generation CDMA wireless communication
+system standards,
+              and the multiple level sequences developed in the system objective. The
+              reduced
+complexity trellis search techniques will explore use of the analogous
+              techniques researched for
+equalization, but not fully applied to the problem
+              of CDMA multiuser detection. Our goal for these two
+objectives is to create a
+              fundamental bridge to connect the existing and planned CDMA systems with
+              the
+theoretical multiuser detectors so that the bottleneck of the multiple
+              access interference problem in
+CDMA systems can be surmounted.
+     Both
+              objectives of this proposed work will employ analysis, followed by computer
+              simulations.
+Both objectives will also require the assistance of graduate and
+              undergraduate students. The modeling
+work will aim to reconcile theory with
+              practical implementation and thus provide engineering education
+in the best
+              sense: connecting principles and practice. Training students in both system
+              design and
+receiver design for CDMA will also naturally be valuable to the
+              wireless industry. In addition, the
+research will provide material for
+              inclusion in several new graduate courses, and in undergraduate
+              design
+projects, at both universities.

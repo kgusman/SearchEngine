@@ -1,0 +1,65 @@
+Title       : Subgrid Scale Models Based on the Estimation of Unresolved Scales of Turbulence
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : July 22,  1999      
+File        : a9704728
+
+Award Number: 9704728
+Award Instr.: Continuing grant                             
+Prgm Manager: John F. Foss                            
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1997 
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $224867             (Estimated)
+Investigator: Julian A. Domaradzki jad@spock.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 1443      FLUID DYNAMICS & HYDRAULICS
+Fld Applictn: 0100000   Special Interest                        
+              0308000   Industrial Technology                   
+Program Ref : 9146,MANU,
+Abstract    :
+              The main goal of this project is to transform a new modeling procedure into a
+              general large eddy simulations tool for engineering and geophysical flows.  To
+              accomplish this goal the following tasks will be performed.  The modeling
+              procedure will be further investigated and validated for several non-stationary
+              flows and flows with additional physical effects like rotation.  The
+              performance of the model for high Reynolds number flows will be evaluated.  The
+              model will be extended to the physical space representation and to general
+              finite difference codes.  Finally, the numerical implementation of the model
+              will be optimized in terms of the computer memory and CPU time.    The
+              motivation for this effort is the fact that  numerical simulations of
+              turbulence at very high Reynolds numbers require models to account  for small
+              scales which cannot be resolved explicitly because of inadequate capabilities
+              of current as well as future supercomputers.  In large eddy simulations (LES)
+              several competing subgrid-scale (SGS) models are currently in use, e.g. the
+              classical Smagorinsky model, several variants of the dynamic model, the
+              structure function model, the renormalization group model, similarity models,
+              etc.  While these models successfully capture some features of turbulent flows
+              they often fail to predict other, equally important features.  For instance,
+              correct  predictions of backscatter present  a significant challenge for all
+              eddy viscosity models while similarity models usually under-predict SGS
+              dissipation.  In addition, the existing models require the calibration of
+              adjustable constants and various ad hoc averaging procedures which depend on
+              simulated flows.  Deficiencies of the models may be traced to inadequate
+              representation of nonlinear  interactions between resolved and subgrid scales
+              in the modeling procedures.    The model to be utilized represents a new
+              approach to the problem of subgrid-scale modeling in turbulent that makes
+              maximum use of the knowledge of nonlinear interactions acquired  during last
+              several years through the analyses of direct numerical simulations databases. 
+              This model has several important properties which distinguish it favorably from
+              the traditional models: it does not contain any adjustable constants; no wall
+              functions are required; the modeled SGS stresses exhibit very high correlations
+              (50 - 90 %) with the exact stresses for all six SGS stress components; mean and
+              rms values of modeled quantities (stresses, SGS forces, SGS dissipation, etc.)
+              are accurately predicted; significant local backscatter is predicted in a
+              numerically stable manner without any averaging procedures; and all the SGS
+              stress components have correct near-wall behavior.    The model has already
+              been implemented and tested for turbulent channel flow and for isotropic
+              turbulence in statistically steady state.

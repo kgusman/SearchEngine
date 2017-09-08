@@ -1,0 +1,66 @@
+Title       : KDI: Global Adaptive Optimization for Structural Biology anand Other Complex
+               Signal Reconstruction, Pattern Recognition and System Design Problems
+Type        : Award
+NSF Org     : MCB 
+Latest
+Amendment
+Date        : September 16,  1998 
+File        : a9873139
+
+Award Number: 9873139
+Award Instr.: Standard Grant                               
+Prgm Manager: Kamal Shukla                            
+	      MCB  DIV OF MOLECULAR AND CELLULAR BIOSCIENCE
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : January 1,  1999    
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $307200             (Estimated)
+Investigator: Peter C. Doerschuk   (Principal Investigator current)
+              Saul B. Gelfand  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 1164      MOLECULAR BIOPHYSICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1337,1339,9183,9263,BIOT,
+Abstract    :
+              Doerschuck
+The resolution of many important questions in science, engineering,
+              and operations research requires the solution of a global optimization problem.
+               The objective of this research is to apply state-of the art methodology in
+              global optimization to several hard problems of scientific or engineering
+              interest, and to develop, analyze, and implement new methodology which is
+              capable of achieving a new level of performance on these and other complex
+              applications.
+
+This project will focus on three areas: 1) structural biology
+              problems, especially 3D virus reconstructions from x-ray scattering and
+              cryo-electron microscopy data, 2) pattern classification for seismic oil
+              exploration problems, and 3) system design and evaluation for nonlinear
+              satellite communications links.  These problems exhibit cost functions with
+              multiple local minima and a wide variety of characteristics which complicate
+              their optimization, including: a) cost functions that are driven by data that
+              has a multi-scale structure, b) cost functions that are computed analytically
+              but at great expense, c) cost functions that are computed by simulation or by a
+              combination of analytical formulas and simulation (so-called semi-analytical
+              simulation), and d) cost functions that are driven by changing data, where the
+              global minimum must be tracked, possibly in real time.
+
+The first part of the
+              work involves applying current global random search algorithms to get a
+              baseline for the performance and computational characteristics of these methods
+              which have not been studied extensively in the problem areas described above. 
+              The second part of the work will involve developing and analyzing algorithms
+              with improved efficiency.  
+
+Much of the practicality of global optimization
+              stems from the extraordinary (and still growing) computation resources that are
+              now available.  The most cost-effective resources are clusters of off-the-shelf
+              computers.  This research group has access to a leading edge machine of this
+              type.  Because local searches and simulations can be carried out in parallel
+              with minimal communication overhead, the algorithms to be developed here are
+              ideal candidates for implementation on such computers.  Implementation efforts
+              will be focused in this direction.
+

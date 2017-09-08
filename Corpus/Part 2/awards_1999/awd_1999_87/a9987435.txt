@@ -1,0 +1,43 @@
+Title       : Software Reengineering via Method Extraction
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 22,  2000 
+File        : a9987435
+
+Award Number: 9987435
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $175696             (Estimated)
+Investigator: Susan Horwitz horwitz@cs.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Programs written in non-object-oriented languages often include conceptual
+              objects.  Making the objects explicit makes the program easier to understand
+              and to maintain, and increases opportunities for code reuse.  However, manually
+              transforming a non-objected -oriented program into an object-oriented one is a
+              difficult and time-consuming task.  
+
+The goal of this project is the design
+              and implementation of a software-reengineering tool that will improve legacy
+              code by making it more object-oriented.  In particular, given a set of
+              variables that are to become the fields of a class, the tool will identify code
+              segments that should be "extracted out" to become methods of the class.  This
+              process will be guided by a set of heuristics for identifying candidate code
+              segments, a set of correctness criteria for determining which candidates are
+              feasible (i.e., can be extracted into methods while preserving program
+              semantics), and a set of evaluation criteria for choosing the best
+              candidates.
+

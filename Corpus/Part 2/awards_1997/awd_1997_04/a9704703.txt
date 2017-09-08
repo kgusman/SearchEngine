@@ -1,0 +1,47 @@
+Title       : Postdoc: Data-Flow Testing for Difficult-To-Find Bugs
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : April 10,  1997     
+File        : a9704703
+
+Award Number: 9704703
+Award Instr.: Standard Grant                               
+Prgm Manager: Stephen R. Mahaney                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1997  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $33168              (Estimated)
+Investigator: Barbara G. Ryder ryder@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9192,9216,9218,HPCC,
+Abstract    :
+                9704703  Ryder, Barbara G.  Rutgers University    CISE Postdoctoral Research
+              Associates in Experimental CS :Data-Flow Testing for Difficult-to-Find Bugs   
+              Data-flow coverage criteria are heuristics for judging the quality of software 
+              test suites and determining when enough testing has been done. The analysis
+              required for data-flow testing of programs in languages such as C is currently
+              impractical on large programs.  Achieving near 100% satisfaction of the
+              coverage requirements constitutes the real expense of data-flow testing.
+              However, this is not necessarily related to the real expense of testing, which
+              is looking for the difficult-to-find bugs.     With the hypothesis that
+              difficult-to-find bugs are correlated with statement hazard level, statement
+              hazard is introduced to measure the unexpected effects of executing a program
+              statement.  Preliminary experiments indicate that a small proportion of program
+              statements are highly hazardous. Hazard of a side-effect is defined as the
+              degree to which its side-effects are unexpected by the programmer. Thus,
+              experiments to determine the relation between hazardous statements and bug
+              detection are described. These experiments build on other successful
+              experiments in analyzing data-flow testing effectiveness, but additionally pay
+              special attention to those bugs that are difficult to find. Determining the
+              correlation between hazardous statements and difficult-to-find bugs will
+              improve the effectiveness of data-flow testing and reduce its cost, making 
+              data-flow testing feasible in an industrial environment.

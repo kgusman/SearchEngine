@@ -1,0 +1,72 @@
+Title       : NetSolve: Enabling Environment for Fault Tolerant, High Performance Network
+               Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : March 24,  1999     
+File        : a9876895
+
+Award Number: 9876895
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1999        
+Expires     : April 30,  2002      (Estimated)
+Expected
+Total Amt.  : $398101             (Estimated)
+Investigator: Jack J. Dongarra dongarra@cs.utk.edu  (Principal Investigator current)
+              James S. Plank  (Co-Principal Investigator current)
+Sponsor     : U of Tennessee Knoxville
+	      404 Andy Holt Tower
+	      Knoxville, TN  379960140    865/974-3466
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The concept of a Computational Power Grid has emerged as a way of capturing the
+              vision of a network computing system that provides broad access, not only to
+              massive information resources, but to massive computational resources as well. 
+              Such computational power grids will use high-performance networking to connect
+              hardware, software, instruments, databases, and people into a seamless web that
+              supports a new generation of computation-rich problem solving environments for
+              scientists and engineers.  NetSolve is a software environment for network
+              computing that addresses the complexities of such systems. 
+
+NetSolve uses a
+              modular, client-agent-server architecture.  Moreover, it is designed to be
+              highly composable in that it readily permits new resources to be added.  In
+              these respects NetSolve is to the Grid what the World Wide Web is to the
+              Internet.  But like the Web, the design that makes these features possible can
+              also impose significant limitations on the performance and robustness of a
+              NetSolve system.  This project explores design innovations that push the
+              performance and robustness of the NetSolve paradigm as far as possible without
+              sacrificing the Web-like ease of use and composability that make it so
+              powerful.
+
+This work will focus on issues of fault-tolerance and computation
+              migration in the NetSolve environment. NetSolve's composable architecture and
+              dynamic access to heterogeneous resources make it ideal for investigating a
+              variety of approaches to fault-tolerance, and then for deploying any valuable
+              results that ensue. The research on NetSolve aims to improve NetSolve's design
+              by exploring the following techniques:
+
+
+-	Fault-tolerance and migration
+              between resources.  This is termed inter-serverfault-tolerance, in which a
+              computation is moved off a server that falls or is not progressing fast
+              enough.
+-	Introduction of storage servers to store checkpointed state, so that
+              if a given server falls, the NetSolve agent can send its state to a new
+              server.
+-	Data logistics for improved performance through techniques that
+              manage user data, for example to eliminate redundant transmissions of large
+              data sets across the network.
+- Dynamic loading of new software componet ts
+              from network repositories to satisfy user requests. 
+
+
+
+

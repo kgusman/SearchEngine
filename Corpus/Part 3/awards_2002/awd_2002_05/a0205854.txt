@@ -1,0 +1,64 @@
+Title       : SGER: Exploring Massive Chip Level Active Deskewing for VLSI Chips Beyond 20GHz
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  2002     
+File        : a0205854
+
+Award Number: 0205854
+Award Instr.: Standard Grant                               
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2002     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $28800              (Estimated)
+Investigator: Thomas Chen chen@engr.colostate.edu  (Principal Investigator current)
+              Peter M. Young  (Co-Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,9237,HPCC,
+Abstract    :
+              During the last several decades, the clock rate and the level of integration of
+              VLSI chips have reached a level that distributing clocks has become an
+              increasingly difficult task. The most recently released chips run at more than
+              2GHz-clock rate. The performance projection for future ULSI chips will be up to
+              20GHz in the next 5-10 years. This implies that the overall clock skew needs to
+              be kept under 5ps across the chip in order to control the amount of clock skew
+              to be within 10% of the total clock cycle. This problem will be further
+              exacerbated by the steep increase in process variations in future processing
+              technologies beyond 50nm generations. Furthermore, when chips contain more and
+              more components (gates), the disparity of switching activities on chip will
+              vary more widely resulting in greater on-chip variations of temperature and
+              supply noise, which are time-variant. 
+
+The research proposed here is
+              intended to explore a dramatically different design paradigm for designing and
+              distributing clock signals for the future where the clocking networks will be
+              dynamically adapted to chip's operating environment to perform a deskewing
+              function in real-time. Active deskewing uses on-chip active devices such as
+              delay-locked loops (DLLs) to detect and reduce skews between any two points on
+              the chip. The issues the proposed research addresses include: 
+Given a chip
+              architecture and the characteristics (switching, leakage, and density) of the
+              blocks used on the chip, what is the optimal topology of the self-adjusting
+              deskewing network that must be stable?
+Given the performance requirements for
+              the chip, what is the maximum latency of the deskewing network the chip can
+              tolerate?
+What is the resolution of deskewing circuits? And how does this
+              affect the overall performance of the clock network?
+Research includes an
+              extensive exploration theoretically to determine the practicality of such a
+              deskewing approach. A mathematical model for the entire deskewing system is
+              formulated as a multi-input, multi-output (MIMO) discrete-time dynamic system.
+              A stability analysis based upon the model is being developed. This approach
+              uses results from robust control theory that can guarantee stability even for
+              perturbed systems.
+

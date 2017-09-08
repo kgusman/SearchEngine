@@ -1,0 +1,98 @@
+Title       : ITR: Procedures for the Rigorous Comparison of Vector and Tensor Fields
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 31,  2002      
+File        : a0082898
+
+Award Number: 0082898
+Award Instr.: Continuing grant                             
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $489998             (Estimated)
+Investigator: Lambertus Hesselink bert@kaos.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              During the last decade, researchers in our Scientific Visualization Group at
+              Stanfor University
+have been developing general data analysis techniques for
+              vector and tensor fields
+based on rigorous mathematical approaches. The work
+              has systematically explored direct
+visualizations and feature extractions of
+              both vector and tensor fields in two and three
+dimensions using computers.
+              Recently, we have been developing the next stage of our
+visualization efforts:
+              automated atad comparisons.
+
+Traditional techniques for vector field
+              comparison fall into three basic categories: image,
+data, and feature based
+              comparison. In most instances, comparisons are made visually,
+not
+              automatically. In addition, there are fundamental limitations with these
+              existing comparison
+techniques. Image base comparisons suffer from difficulty
+              in representing datasets
+beyond two-dimensional vector fields, data based
+              comparisons suffer from grid alignment
+problems, and feature base comparisons,
+              while providing excellent location of specific features,
+may not show all the
+              global information in the field.
+
+Our new approach to this problem is
+              essentially a feature-based comparison technique,
+with the important
+              stipulation that our features attempt to represent the topological
+              structure
+of the field. This ensures that we do not overlook any important
+              structures in the
+field. Our paradigm is to analytically study vector and
+              tensor fields to extract topologically
+critical information, transfer this
+              knowledge into effective computer programs, and then to
+visualize the fields
+              using the results of our analysis.
+
+We have successfully implemented our
+              ideas for two-dimensional vector fields and for
+three-dimensional vector
+              fields. We now intend to study tensor fields associated with white
+matter
+              brain functions.
+
+Our fundamental technique for the comparison of vector and
+              tensord ata would be
+applicable to almost every field of science and
+              engineering, ranging from the magnetic field of
+the sun to airflow over a
+              wing. In addition, time varying fields can be studied by comparing
+a field at
+              a fixed time with its state at later times. Our approach is unique in the field
+              of
+scientific visualization because it is based on rigorous mathematical
+              analysis, and it is the
+only approach available to quantitatively study NMR
+              tensor brain data. Our methodology
+in the analysis of tensor and vector
+              datasets allows better design of air vehicles, better
+understanding of
+              electromagnetic problems, and provides substantial time savings when
+dealing
+              with large experimental datasets. Quantitative understanding of white matter
+              brain
+functions has the potential to open up a whole new area of medical
+              research.

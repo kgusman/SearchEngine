@@ -1,0 +1,80 @@
+Title       : Turbo Coding for CPM Signals and ISI Channels
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 10,  2001     
+File        : a9903297
+
+Award Number: 9903297
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $360714             (Estimated)
+Investigator: Gordon L. Stuber stuber@ece.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              
+This research investigates new signaling techniques for power and bandwidth
+              efficient digital communications.  Our approaches rely on the use of Turbo
+              coding and iterative decoding principles which were first introduced in 1993.
+              Turbo codes are remarkable because they can operate very close to the channel
+              capacity (a theoretical limit on the maximum data rate for
+              reliablecommunication over a given channel).  In this research, we are
+              investigating the use of Turbo coding in conjunction with bandwidth-efficient
+              modulation schemes that are suitable for satellite and land mobile radio
+              communications.  Such schemes make efficient use of the limited bandwidth
+              resources, while at the same time allowing communication at very low power
+              levels, thereby conserving the battery power in mobile and portable terminals. 
+              We are also investigating the application of Turbo codes to channels that
+              exhibit time dispersion, such as wire-line channels used for voice band
+              telephony and wireless channels used for cellular radio communications.  We are
+              devising new signaling schemes and receiver structures, and performance
+              analysis tools when Turbo codes are used on these types of channels.
+
+Many
+              practical systems like mobile satellite communications and land mobile
+              communications employ non-linear amplifiers at the receiver and, therefore, 
+              require a very small peak-to-average power ratio for the modulated signal. 
+              Continuous phase modulation (CPM) is an attractive technique for such
+              systems
+because of its constant envelope and compact power density spectrum. 
+              We are investigating the use of Turbo codes in combination with trellis coded
+              modulation (TCM) and CPM.   Our objective is to achieve large coding gains
+              without bandwidth expansion and a constant envelope for the modulated
+              signal,
+making our schemes ideal for use in power and bandwidth limited
+              communication systems. Also many physical channels exhibit inter-symbol
+              interference (ISI), including static (wire-line telephone) ISI channels, and
+              fading (cellular and PCS) ISI channels. It is important to devise techniques to
+              either combat
+the effects of ISI through efficient equalizer structures, or,
+              mitigate the effects of ISI through the use of techniques like orthogonal
+              frequency division multiplexing (OFDM).  Recently, iterative equalization and
+              decoding has been considered by some researchers and shown to provide large
+              coding gains on static ISI channels.  We are considering the application of
+              Turbo codes to fading ISI channels and developing analytical tools to evaluate
+              the performance of Turbo coding on ISI channels.  Some specific problems that
+              we are investigating include:
+Novel approaches to the design and performance
+              analysis of Turbo TCM schemes with CPM for AWGN, flat Rayleigh fading and flat
+              Rician fading channels.
+Receiver design for coherent and non-coherent
+              reception of Turbo Trellis coded CPM.
+Performance analysis of Turbo coded
+              systems for ISI channels and receiver structures for joint equalization,
+              decoding and channel estimation.
+Practical receiver structures for Turbo-coded
+              OFDM systems with adaptive parameter estimation.
+
+

@@ -1,0 +1,43 @@
+Title       : An Application-Specific Computer for Laplace's Equation
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : December 20,  1990  
+File        : a9061185
+
+Award Number: 9061185
+Award Instr.: Standard Grant                               
+Prgm Manager: Ritchie B. Coryell                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1991    
+Expires     : September 30,  1991  (Estimated)
+Expected
+Total Amt.  : $49998              (Estimated)
+Investigator: Gregory L. Wojcik   (Principal Investigator current)
+Sponsor     : Weidlinger Associates, Inc
+	      4410 El Camino Real, Suite 110
+	      Los Altos, CA  94022    415/949-3010
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 4710,
+Abstract    :
+              The proposal is to investigate an application-specific computer                
+              architecture to solve a class of computer aided design simulation              
+              computations based on the Laplace equation.  The goal is to solve              
+              typical problems in the class at five times the speed and one                  
+              hundredth the cost of current supercomputers.  The intent is to                
+              provide 0 (109) floating point operations per second for the                   
+              solution of 0(106) node 3-D elliptic problems.  Research being                 
+              conducted is: (1) analyze and diagram the arithmetic operations and            
+              memory accesses of the iterative Laplace solver; (2) design the                
+              corresponding multi-FPU pipelined processor; (3) insure suitability            
+              of an existing memory board design and determine the number of                 
+              vector memory ports (boards) necessary to sustain the pipeline; (4)            
+              program a simulator of the pipeline; and (5) plan wirewrap                     
+              fabrication of the pipelined processor

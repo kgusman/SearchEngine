@@ -1,0 +1,64 @@
+Title       : Parallel and Distributed Algorithms for Caching, Scheduling, and Sorting
+               Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  1999     
+File        : a9821053
+
+Award Number: 9821053
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: C. Greg Plaxton plaxton@cs.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project is concerned with the design and analysis of simple and efficient
+              algorithms for a number of basic problems arising in parallel and distributed
+              computing.  Problems related to caching, scheduling and sorting are
+              considered.
+
+Efficient caching strategies are critical to the performance of
+              virtually any computing system, be it sequential, parallel, or distributed.  As
+              a consequence, such strategies have been intensively studied for decades. 
+              Unfortunately, the time-tested techniques that successfully optimize cache
+              performance in many existing systems do not seem to scale well to complex
+              wide-area networks such as the Internet.  Two major goals of this project are
+              to develop suitable abstract models of such complex networks, and to design
+              simple and efficient caching strategies for these abstract models.
+
+Efficient
+              scheduling of dynamically generated tasks is a central problem in parallel
+              computing.  Scheduling determines when and where to execute each task and can
+              dramatically affect performance.  Traditionally, such scheduling decisions are
+              left to the programmer, an approach that allows for the possibility of optimal
+              performance, but makes parallel programming difficult.  The work-stealing
+              algorithm is a simple and provably efficient "automatic" task-scheduling
+              method.  However, the practical utility of such a scheduler depends critically
+              on the amount of overhead that it incurs.  This project explores methods for
+              improving the performance of distributed data structures as the concurrent
+              deque used in the work-stealing algorithm.
+
+Two sorting-related problems are
+              addressed in this project.  The first is concerned with the analysis of a
+              simple periodic scheme for sorting on a two-dimensional mesh.  The scheme is
+              well-suited for VLSI implementation and is conjectured to achieve optimal
+              average-case performance.  The second sorting-related problem is concerned with
+              the analysis of a simple randomized n-imput circuit that is conjectured to map
+              the inputs to the outputs according to a near-uniform random permutation.  Such
+              a circuit has a number of applications in cryptography and in the design of
+              efficient routing networks.
+
+

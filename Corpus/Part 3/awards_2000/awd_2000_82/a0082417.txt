@@ -1,0 +1,88 @@
+Title       : ITR: Adaptive Protocols for a Distributed Java Virtual Machine
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 3,  2001       
+File        : a0082417
+
+Award Number: 0082417
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $210000             (Estimated)
+Investigator: Dan I. Moldovan   (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9218,HPCC,
+Abstract    :
+              Java is a language of growing importance but so far parallelism in Java has been
+              limited to either multi-threading on symmetric multiprocessors (SMP) or
+              distributed computing using Remote Method
+Invocation (RMI).  The number and
+              size of Java-based Internet-related applications require more and more
+              parallelism and system scalability.  This proposal addresses the problem of
+              designing memory consistency
+protocols for a distributed Java Virtual Machine
+              capable of self-adapting at runtime to different application characteristics.
+              
+
+The proposed work is divided into five tasks: (1) the definition of the
+              memory consistency model, (2) the development of consistency protocols, (3) the
+              definition of an analytical performance model on which
+adaptive protocols are
+              based,  (4) the development of processor allocation algorithms for load
+              balancing, and (5) the evaluation of the system performance using four classes
+              of applications.
+
+A correct distributed Java Virtual Machine specification
+              must be first defined. The correctness issue is especially important for a
+              distributed shared memory Java Virtual Machine due to the incompatibilities
+              between the Sun specification and distributed memory architectures. Preliminary
+              work indicates that Sun's JVM specification is too strong for DSM
+              architectures. A thorough analysis of the JVMS requirements will produce the
+              set of constraints that have to be relaxed from the original Sun's JVMS to
+              allow an efficient distributed implementation. 
+
+Once a theoretical memory
+              consistency model is established, the next step is to develop consistency
+              protocols. An analytical model is proposed to analyze the application behavior
+              for various protocols. The application profile can be abstracted by the object
+              granularity, temporal locality of accesses, and object access
+patterns. A
+              novelty of the proposed work is the mapping of application parameters into
+              protocol parameters using the analytical model parameters: thread creation
+              time, synchronization time, and execution
+overhead. These parameters can be
+              estimated analytically and measured.  The correlation between model parameters
+              and adaptive protocols needs to be investigated. It is necessary to develop
+              heuristics that link
+parameters with the protocols. 
+
+As part of the
+              preliminary work, a distributed Java Virtual Machine called DISK has been
+              implemented in our network-of-workstations laboratory consisting of sixteen
+              Pentium III computers connected by a
+100 Mbps network. DISK currently supports
+              two memory consistency protocols: an invalidate and an update lazy release
+              consistency protocol. 
+
+Several Java-specific applications will be
+              investigated to measure and tune the performance of the adaptive protocols
+              developed. Four different classes of applications from the Internet and
+              knowledge 
+processing technology will be used as new benchmarks:  (1)
+              client-side I/O intensive applications, (2) server-side I/O intensive
+              applications, (3) computational intensive applications, and
+(4) computational
+              and I/O intensive applications. 
+
+

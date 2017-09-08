@@ -1,0 +1,49 @@
+Title       : Robustness of Source Coding
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a9805342
+
+Award Number: 9805342
+Award Instr.: Continuing grant                             
+Prgm Manager: Julia Abrahams                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1998  
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $98822              (Estimated)
+Investigator: Zhen Zhang zzhang@csi.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              Under certain circumstances such as in mobile communication, one  needs to
+              transmit compressed data through a very noisy channel.  Unless a very powerful
+              error control coding technique is used,  the misdecoding error probability for
+              a very noisy channel is  usually high. Since the use of very powerful error
+              control coding  technique will offset a large part of the gain obtained in data
+               compression, this is not what we are willing to do.  On the other hand, most
+              of the efficient data compression  algorithms are very sensitive to channel
+              errors. The  contradiction between high decoding error probability and 
+              catastrophic behavior of compression algorithms is the main  problem we need to
+              resolve in the study of transmission of  compressed data through very noisy
+              channels.    In this project, we are examining an alternative approach to this 
+              problem.   Instead of using source codes of small block length,  or powerful
+              error control coding techniques, we are developing  robust data compression
+              algorithms - algorithms which are  insensitive to channel errors. We give two
+              definitions of  robustness of lossless data compression - the asymptotical mean
+               robustness and the asymptotical mean semi-robustness - defined  with respect
+              to certain distortion measures. The most important  distortion measures we use
+              are Hamming distance and the so-called  insertion-deletion distance. In this
+              project, we propose    1) to study the existence of asymptotical mean robust
+              lossless  data compression algorithm that is also asymptotically optimal;  2)
+              to develop practical asymptotically mean robust (semi-robust)  lossless data
+              compression algorithms;  3) to study various important properties of
+              asymptotically mean  robust (semi-robust) lossless data compression algorithms.

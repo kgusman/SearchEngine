@@ -1,0 +1,77 @@
+Title       : Assist Thread Compilation for Multi-threaded Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 13,  2002      
+File        : a0208677
+
+Award Number: 0208677
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $249972             (Estimated)
+Investigator: Charles N. Fischer Fischer@CS.wisc.edu  (Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : ,9215,HPCC,
+Abstract    :
+              The next generation of computers will be multi-threaded,
+allowing the
+              simultaneous execution of several programs.
+Most computer workloads are
+              difficult to recast into
+multi-threaded form, under-utilizing multi-threading
+              capabilities.
+
+This research studies a new approach to program
+              translation:
+Assist Threads.
+
+An assist thread is a specialized version of
+              an application program that,
+when run as an independent thread, assists (and
+              optimizes) the application.
+Roles for assist threads include program
+              profiling, monitoring, pre-execution,
+and memory management.
+
+Experiments
+              show that assist threads
+can effectively implement garbage collection.
+An
+              assist thread mimics an application's execution,
+tracking memory accesses and
+              recycling unused memory as it is recognized.
+The main application thread
+              ignores memory management concerns,
+becoming simpler, faster and more
+              reliable.
+
+Other varieties of assist threads execute slightly in advance of
+              an
+application program, precomputing and preloading needed data
+              values.
+
+This research makes both theoretical and practical contributions
+              to
+compiler technology. It explores how to generate the
+              computations
+necessary to implement assist threads. It also experiments with a
+              variety
+of assist threads, evaluating their effectiveness and
+              efficiency.
+
+In summary, this research opens new avenues of application for
+              multi-threaded
+processors, making them more effective in supporting the needs
+              of a wide
+variety of computer users.

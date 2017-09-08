@@ -1,0 +1,55 @@
+Title       : Core Segmentation Tools for Computer Assisted Surgery
+Type        : Award
+NSF Org     : BES 
+Latest
+Amendment
+Date        : November 4,  1996   
+File        : a9631710
+
+Award Number: 9631710
+Award Instr.: Standard Grant                               
+Prgm Manager: Gilbert B. Devey                        
+	      BES  DIV OF BIOENGINEERING & ENVIRON SYSTEMS 
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : November 15,  1996  
+Expires     : October 31,  1997    (Estimated)
+Expected
+Total Amt.  : $50028              (Estimated)
+Investigator: Ron Kikinis kikinis@bwh.harvard.edu  (Principal Investigator current)
+              William Wells  (Co-Principal Investigator current)
+Sponsor     : Brigham & Womens Hosp Inc
+	      75 Francis Street
+	      Boston, MA  021156195    617/525-3160
+
+NSF Program : 5345      BIOMEDICAL ENGINEERING
+Fld Applictn: 0203000   Health                                  
+              59        Engineering NEC                         
+Program Ref : 0000,OTHR,
+Abstract    :
+              9631710  Kikinis  In surgery it is necessary to recognize the boundary between 
+              healthy and diseased tissues.  This is especially true for  surgery in the
+              brain where it is important to preserve as much  healthy tissue as possible in
+              the process of removing all of the  diseased matter.  Also, the boundary, which
+              is irregularly  shaped, must be identified in three dimensions.  Surgeons 
+              typically examine medical images from magnetic resonance (MR) and  computerized
+              x-ray tomographic (CT) scanners to extract  diagnostic information for surgical
+              procedures.  Currently  surgeons are forced to imagine the three-dimensional
+              situation  for presurgery planning, something the human brain is not well 
+              suited to performing in a precise and reproducible manner.  In  order to
+              provide a complete engineering solution to this problem  using high performance
+              computers, the following steps have to be  performed: (1) acquisition of data
+              in a suitable geometric  raster; (2) generation of three-dimensional (3D)
+              reconstructions;  (3) registration of the 3D reconstructions to the patient on
+              the  operating room table; and, (4) labeling of relevant tissue  structures in
+              the data (segmentation).  The technology required  for achieving steps (1) -
+              (3) is being developed outside of  medicine.  However, this is not true for
+              segmentation, which is  the least advanced of the four steps; this
+              investigation seeks to  develop core segmentation algorithms for solving the
+              problem.    Work during this investigation is to concentrate on template- 
+              based segmentation and operator-driven segmentation in  neurosurgical
+              applications.  In template-based segmentation the  goal is to improve the
+              ability to establish correspondence  structures automatically in cases with
+              moderate pathology.  The  operator-based segmentation portion of the
+              investigation would  develop a working platform for the integration of a volume
+              editor  and a force feedback device needed for algorithmically more  complex
+              projects such as segmentation in three-dimension s.  ***

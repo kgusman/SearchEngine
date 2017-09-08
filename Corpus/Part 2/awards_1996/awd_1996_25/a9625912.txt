@@ -1,0 +1,50 @@
+Title       : Postdoc: Stability Issues in the Parallel Solution of Certain Generalized
+               Eigenvalue and Singular Value Problems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 13,  1996    
+File        : a9625912
+
+Award Number: 9625912
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Elizabeth R. Jessup jessup@cs.colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              The proposed work involves the design, analysis, and implementation of serial
+              and parallel algorithms for certain eigenvalue and singular value problems.  A
+              primary goal of this work is to devise algorithms that are fully accurate and
+              stable when implemented in floating point arithmetic.  Because the singular
+              value and eigenvalue problems arising in real-life applications are often of
+              very large order, a second goal of this work is to develop variants of these
+              algorithms that are efficient on distributed-memory MIMD multiprocessors
+              without loss of accuracy.  This class of machines provides both the
+              computational power and the extensive memory required by large linear algebra
+              problems.  The work will proceed in four phases of increasing complexity.  To
+              begin, the PI will identify and construct stable building blocks for numerical
+              algorithms and software.  For example, they will study the computation of the
+              angle between two vectors for use in various kinds of elementary plane
+              transformations.  The next phase will be to refine existing algorithms and
+              software  to reflect our newest understanding of accuracy and stability issues.
+               The PI will be particularly interested in the symmetric eigenproblem and the
+              singular value decomposition.  The third phase will be to develop new
+              algorithms and provide software for numerical libraries such as LAPACK.  The
+              problems of interest include the generalized and the product singular value
+              problems, and the cosine-sine decomposition.   The final  phase will be to map
+              our algorithms efficiently to distributed-memory multiprocessors while
+              balancing the tradeoff between parallelism and numerical stability.

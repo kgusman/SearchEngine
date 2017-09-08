@@ -1,0 +1,91 @@
+Title       : Traffic Control for Networks with Aggregate Quality-of-Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 24,  2001 
+File        : a9903001
+
+Award Number: 9903001
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $252446             (Estimated)
+Investigator: Stephen D. Patek sdp5f@virginia.edu  (Principal Investigator current)
+              Jorg Liebeherr  (Co-Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 400195
+	      Charlottesville, VA  229044195    434/924-4275
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+              As the Internet continues to expand into new application domains, there is a
+              growing demand for differentiated services that provide varying degrees of
+              Quality of Service (QoS).  Until recently, the approach for service
+              differentiation in the Internet has focused on providing QoS guarantees to
+              individual traffic flows.  This per-flow model has not been widely embraced,
+              largely due to the vast amount of state information that needs to be maintained
+              in the network.  As a consequence, the network community is currently
+              redefining the notion 
+of QoS for the Internet, leading to a new service model
+              where guarantees are made to appropriate flows, rather than to individual
+              flows.
+
+The notions of aggregate QoS which are being defined, e.g., by the
+              Differentiated Services (DiffServ) working group in the IETF, are very
+              different from traditional networking concepts and require novel 
+algorithms
+              for traffic control and provisioning.  The objective of the proposed research
+              is to give fundamental insights into the nature and delivery of QoS to traffic
+              aggregates, henceforth called aggregate QoS.
+
+A central feature of service
+              models for aggregate QoS is that there is no requirement for users to specify
+              the composition or the destination of traffic.  This significantly complicates
+              the provisioning of network resources and suggests that new, feedback-intensive
+              traffic control algorithms must be developed to 
+mitigate uncertainty about
+              network loading.  At present there is little or no theory available to guide
+              the development of such algorithms.  The proposed research will remedy this
+              situation by developing analytical tools that will make aggregate QoS possible
+              for the next-generation Internet.
+
+The three main research components of this
+              proposal involve development of analysis techniques and computational
+              simulation experimentation.
+
+1. The projectl proposes to develop a novel
+              fluid-flow, network-optimization model that will facilitate (a) rapid analysis
+              of aggregate QoS networks and (b) improved routing, based on feedback about
+              network 
+traffic patterns.
+
+2. Using a new construct of so-called effective
+              envelopes, the project will develop a method for computing the statistical
+              multiplexing gain in a network with aggregate QoS.  Knowledge of the
+              statistical multiplexing gain is essential for determining the amount of
+              traffic with aggregate QoS that can be supported in a network.
+
+3. The
+              project will build a packet-level simulation environment, which will enable the
+              development and testing of a wide variety of traffic control algorithms for
+              aggregate QoS networks.  This research will 
+help to identify metrics for
+              comparing the effect of traffic control algorithms to support aggregate QoS. 
+              An important part of our work is to determine the extent to which feedback-base
+              traffic control can 
+alleviate the provisioning problem.
+
+By providing a
+              theoretical reference frame for aggregate QoS, which provides tools and
+              techniques for capacity provisioning and admission control, the proposed
+              research will complement the currently ongoing 
+standardization efforts for
+              differentiated services on the Internet.
+

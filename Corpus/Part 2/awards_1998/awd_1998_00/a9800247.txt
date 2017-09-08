@@ -1,0 +1,91 @@
+Title       : Simultaneous Recurrent Neural Networks for Static Optimization
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 29,  1999      
+File        : a9800247
+
+Award Number: 9800247
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $64087              (Estimated)
+Investigator: Gursel Serpen gserpen@eng.utoledo.edu  (Principal Investigator current)
+Sponsor     : University of Toledo
+	      2801 West Bancroft
+	      Toledo, OH  436063328    419/530-2844
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9800247	
+Serpen
+The well-known difficulty with a wide array of static
+              optimization
+problems is that their search spaces become too large to search
+              for
+an optimal solution within reasonable time and computational
+resource
+              bounds once the size of these static optimization problems
+increases to
+              real-life dimensions.  Algorithms implemented on
+conventional computing
+              systems lack the computational power to
+search for an optimal solution of a
+              large set of real-life size static
+optimization problems in a time efficient
+              manner since they are not
+able to utilize the inherent parallelism that may
+              exist.  Artificial
+Neural Networks offer key advantages over conventional
+              computing
+systems as optimization problem solvers: they can take advantage
+              of
+the inherent parallelism of the optimization problem and offer very
+fast
+              computation cycles for a hardware realization of the neural
+network algorithm.
+               These advantages make Artificial Neural
+Networks a very attractive choice for
+              addressing the static
+optimization problems of real-life complexity.   At the
+              present time,
+the scaleability properties of current Artificial Neural
+              Network
+algorithms employed for static optimization are far from the
+desired
+              state, which establishes the motivation for the proposed
+research
+              project.
+
+The goal of this project is to address and solve the scaling
+              problem
+which Artificial Neural Network algorithms currently experience
+              for
+static optimization problems.  Towards that goal, computational
+promise
+              of the Simultaneous Recurrent Network, a trainable and
+recurrent Artificial
+              Neural Network algorithm, for static
+optimization problems will be explored
+              and assessed.  Existing
+neural optimizer algorithms are either trainable
+              feedforward
+architectures or recurrent architectures with
+              preprogrammed
+weight structures.  This proposed research project will use a
+              neural
+algorithm which is both a recurrent architecture and trainable will
+be
+              employed to address the difficulties related to the scaling
+problem.  It is
+              hoped that recurrency and learning will form a very
+potent combination to
+              address the challenging problem of scaling.
+

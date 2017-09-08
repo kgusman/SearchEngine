@@ -1,0 +1,47 @@
+Title       : Postdoc: Research Training for CS&E Postdoctoral Associate in Electronic
+               Structure Theory
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 14,  1996    
+File        : a9625885
+
+Award Number: 9625885
+Award Instr.: Standard Grant                               
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: David H. Vanderbilt dhv@physics.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              First-principle electronic structure calculations have proven to be a very
+              powerful and accurate tool for investigating the properties of matter at
+              microscopic scales, where they extend or complement the domain of experiments. 
+              Their strength comes from the precision and predictive power that is inherent
+              in a parameter-free quantum-mechanical approach, from the fine level of detail
+              of the spatial and temporal description they provide at the atomic level, and
+              from the recent expansion in the availability of powerful computational
+              resources.  However, the time needed to solve a given system using conventional
+              implementations of these methods is proportional to the third power of the
+              number of atoms, thus preventing the extension of this otherwise extremely
+              successful approach to a great many systems of interest.  This limitation is
+              algorithmic in nature; the physics and its associated complexity inherently
+              scale linearly with the number of atoms.  The project will implement and test a
+              new algorithm which holds the promise of providing a computational scheme of
+              comparable accuracy, but which scales only linearly with system size.  This
+              scheme is built implicitly on the physical localization of the one-particle
+              density matrix.  This same localizational property makes such an algorithm
+              highly appropriate for implementation on a massively parallel computer
+              architecture.

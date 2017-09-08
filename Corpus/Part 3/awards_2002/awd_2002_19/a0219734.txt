@@ -1,0 +1,61 @@
+Title       : State-Time Approach for Analysis and Simulation of Complex Multicomponent
+               Systems Using Future Massively Parallel Computing Systems
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : October 28,  2002   
+File        : a0219734
+
+Award Number: 0219734
+Award Instr.: Continuing grant                             
+Prgm Manager: Alison Flatau                           
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  2003    
+Expires     : December 31,  2006   (Estimated)
+Expected
+Total Amt.  : $234920             (Estimated)
+Investigator: Kurt S. Anderson anderk5@rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 1632      DYNAMIC SYSTEMS AND CONTROL
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : ,1039,1057,CVIS,
+Abstract    :
+              Kurt S. Anderson
+Department of Mechanical, Aerospace and Nuclear
+              Engineering
+Rensselaer Polytechnic Institute
+NSF Proposal No.
+              0219734
+State-Time Approach for Analysis and Simulation of Complex
+              Multicomponent Systems Using Future Massively Parallel Computing
+              Resources
+
+The principal objectives of this work are to research state-time
+              methods for performing analysis, simulation, and optimization of complex
+              dynamic systems. The goal is to produce dynamic systems analysis formulations
+              which will be able to more effectively and fully exploit anticipated massively
+              parallel computing resources (i.e. > 106 processors). The proposed space-time
+              formulation permits the treatment of time within the equations of motion as a
+              generalized coordinate. This permits the problem of performing the computer
+              simulation, and associated analysis to be parallelized over both space and
+              time, resulting in a far greater level of coarse grain parallelization with an
+              associated decrease in simulation turnaround time. This significant increase
+              arises from the fact that the most advanced of today's parallel dynamics
+              analysis algorithms are sequential in time. Thus parallelization over the
+              domain of the system using currently promoted methods is only beneficial when
+              using a surprisingly limited number of processors, even if many are available.
+              Parallelizing over both space and time results in a drastic increase in the
+              number of coarse grain calculations that may be distributed over the available
+              processors. By forming the equations and solving them in the proposed
+              state-time manner, the level of required sequential calculation relative that
+              which may be performed in parallel is reduced by a factor approximately equal
+              to the number of temporal integration steps (often > 105) which would have been
+              performed using current approaches. The proposed method, if successful, will
+              allow the use of more detailed models, for more complex systems, with results
+              obtained at a small fraction of the time required using current formulations.
+

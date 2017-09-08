@@ -1,0 +1,56 @@
+Title       : Image Compression Using Models of Human Visual System and Subband Vector
+               Quantization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 29,  1992     
+File        : a9016331
+
+Award Number: 9016331
+Award Instr.: Continuing grant                             
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  1991      
+Expires     : March 31,  1994      (Estimated)
+Expected
+Total Amt.  : $113886             (Estimated)
+Investigator: V. John Mathews mathews@ee.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              The focus of this research is on perceptually lossless or very low             
+              distortion, low-rate image coders using subband vector quantization            
+              and models of the human visual system (HVS).  The use of visual                
+              models in the image coders attempts to remove the psychophysical               
+              redundancies present in the images in addition to the statistical              
+              redundancies that most image coders attempt to remove.  Two                    
+              different strategies that make use of the current knowledge of the             
+              HVS are being employed in the data compression systems:  (1)                   
+              Quantize the intensity image after processing it with a homomorphic            
+              visual model.  The idea behind this approach is that the intensity             
+              image, when processed with the visual model, will look more like               
+              the image that the "eye sees" and therefore minimizing the                     
+              distortion in the transformed image is appropriate.  (2) The second            
+              approach is to define a masking function for the image to be                   
+              quantized.  This function defines threshold values for each pixel              
+              of the image such that distortions of magnitude smaller than the               
+              threshold function will not be perceived by the eye.  The approach             
+              then is to develop a data compression system such that the                     
+              quantization produces errors of magnitude smaller than this                    
+              threshold function.  The specific problems that are being studied              
+              are: (1) Development of a subband vector quantizer that is equipped            
+              with a multichannel, homomorphic model of the HVS.  (2) Development            
+              of a subband vector quantizer that used a perceptual masking                   
+              function.  A combination of the two schemes, as well as                        
+              incorporation of predictive vector quantization and/or optimum pre-            
+               post-processing filters into the subband coder is being explored.             
+              Preliminary work on extending the ideas to color image sequence                
+              coding problems are also being conducted.

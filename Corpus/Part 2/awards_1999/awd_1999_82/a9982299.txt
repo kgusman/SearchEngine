@@ -1,0 +1,75 @@
+Title       : Integrating 3D Dynamic Meteorological Data and Algorithms into a Scalable
+               Geospatial Framework
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 2,  2000        
+File        : a9982299
+
+Award Number: 9982299
+Award Instr.: Standard Grant                               
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  2000        
+Expires     : April 30,  2003      (Estimated)
+Expected
+Total Amt.  : $1902066            (Estimated)
+Investigator: Martin W. Ribarsky ribarsky@cc.gatech.edu  (Principal Investigator current)
+              Tad R. Thurston  (Co-Principal Investigator current)
+              Nickolas L. Faust  (Co-Principal Investigator current)
+              Thomas E. Vaughan  (Co-Principal Investigator current)
+              Valliappa Lakshmanan  (Co-Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1595,9216,HPCC,
+Abstract    :
+              People, governments, manufacturers, airlines, and others rely more and more on
+              accurate and timely weather forecasting. An increased population, especially in
+              areas prone to flooding or severe weather, requires pinpoint weather warnings
+              and longer range predictions. This project will help operational weather
+              forecasters in making decisions about severe weather situations by developing
+              tools to visualize and analyze large data sets, including real-time weather
+              observations. Staff of the National Severe Storm Lab also will participate,
+              especially in the evaluation and testing of visual analysis and
+              decision-support tools and in the insertion of those tools in operational
+              software for forecasters and weather researchers. These tools will provide a
+              framework for the future that can be used not only by weather forecasters but
+              also by researchers. The weather prediction and warning capabilities built on
+              the methods proposed here may ultimately result in many billions of dollars
+              saved in lost products, equipment, and time. Lives, too, can be saved and
+              injuries reduced.
+
+Technically, the project will bring together, for the
+              purposes of analysis and forecast decision-making, 3D time-dependent volumes
+              from multiple overlapping Doppler radars, and simultaneous satellite
+              information for the same and wider coverage areas. These will be combined with
+              accurate terrain elevations, multiple image layers, maps, and other geospatial
+              thematic data. This universal data collection will be organized for integrated
+              visual analysis and made available for interactive navigation, exploration, and
+              discovery by weather forecasters, researchers, and other users. These
+              observational data will be displayed for the first time on accurate 3D terrain
+              so that the correlation of landscape and weather can be revealed in detail,
+              thus enabling new predictions of flood extents, inclusion of the effects of
+              mountains on weather phenomena, and other new capabilities. To support fast,
+              scalable visualization, a "geo-layered volume" will be introduced that will
+              take advantage of the underlying terrain global quadtree organization and
+              out-of-core paging structure. Hierarchical visual models will be developed
+              within the geo-layered volume structure to produce several visual
+              representation including volume rendering, isosurfaces, simple 3D
+              time-dependent feature representations, and iconic annotations. A fast and
+              scalable cluster-based feature analysis method will form a dynamic feature
+              hierarchy also. This hierarchy will be used to produce levels of detail for the
+              volume and isosurface visualization of the 3D time-dependent observational
+              data. The visual analyses will be put in a decision-support framework. Since
+              the analyses attach meaning and importance to the various observations, the
+              observational data can be displayed in the right form for easy use. Important
+              phenomena can be given visual forms that catch the eye, and more detail can be
+              given to objects that the analysis says are important or to objects that the
+              user looks at more closely. 
+

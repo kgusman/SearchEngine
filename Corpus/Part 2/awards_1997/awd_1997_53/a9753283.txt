@@ -1,0 +1,74 @@
+Title       : POWRE: Combining Data Mining and Information Visualization Techniques with a
+               Molecular Biology Sequence Similarity Database System
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : September 23,  1997 
+File        : a9753283
+
+Award Number: 9753283
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : January 1,  1998    
+Expires     : December 31,  1999   (Estimated)
+Expected
+Total Amt.  : $70573              (Estimated)
+Investigator: Elizabeth G. Shoop shoop@ahc.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 1165,1592,9215,HPCC,
+Abstract    :
+                The main objective of this project is to aid genome  researchers with the 
+              task of elucidating patterns and clusters in large amounts  of biological 
+              data.  For genome researchers who are interested in  comparing gene or  protein
+              sequences to the sequences within one genome or  across genomes,  this task
+              involves executing hundreds of thousands of  similarity searches  that produce
+              text output.  This project involves the  development of two  specific software
+              tools for visualizing and exploring the  similarity data  in a database of
+              biological sequence similarity results.    The first tool will be an
+              Interactive Categorization Tool.  This tool will  display attributes of
+              selected similarity database objects  in a 2D scatterplot and enable dynamic
+              manipulation of the  display. This will  enable the genome researcher to
+              explore the attributes of  similarities  and categorize the similarities based
+              on those attributes.  For example,  the genome researcher will be able to vary
+              the input  parameters of a  function for computing the strength of each
+              detected  similarity and  display a plot with the strength of each similarity
+              shown as  the color of  each point, and the points situated in the 2D space
+              based on  score and  statistical significance as the X and Y axes.  The tool
+              will  enable  genome researchers to dynamically manipulate the generation  of
+              higher-  level concepts or categories for detected similarities  (strong,
+              marginal,  and weak similarities as opposed to individual similarities  with
+              particular values of score and statistical significance  that are more 
+              difficult to compare). This will lead to their ability to  categorize hits  as
+              orthologous or paralogous, based on various attributes of  the detected 
+              similarities. Score and p-value are not the only attributes  that can be  used
+              -- the system is general enough that other attributes,  such as  percent
+              identity, percent conserved, and length of  alignment, among  others, could be
+              used in functions. Thus, genome researchers  can cond uct  exploration at
+              different stages of the genome comparison  research process.    The second tool
+              will be a Cluster Exploration Tool. Using  the results  from data mining
+              techniques that cluster like sequences  together, genome  researchers will be
+              able to visualize the similarities among  the sequences in the clusters. For
+              example, the tool can be  used for a cluster of new unknown sequences that were
+              found  similar to members of a  group of known sequences. The new sequences can
+              be  positioned as nodes on  the left in a bipartite graph, and the known
+              sequences that  they are  similar to can be positioned along the right. Lines
+              drawn  between the  nodes, colored differently based on the strength of the 
+              hits, will enable  the researcher to visualize the connectedness of the 
+              sequences in the  cluster. Details about each sequence and each similarity in 
+              the cluster  can be obtained from the DBMS. This will enable genome 
+              researchers to  study groups of orthologous or parologous sequences.    A key
+              feature of these tools is that they will be 'thin'  clients (often  referred to
+              as applets) that communicate with the underlying  DBMS via  queries formulated
+              visually by the genome researchers. The  use of Java-  based components for
+              these tools will enable them to be  easily used and  shared by the
+              bioinformatics community and the genome  research community.  The development
+              of these tools will demonstrate the  feasibility of the  thin-client approach
+              that is the hallmark of the network  computing architecture philosophy.

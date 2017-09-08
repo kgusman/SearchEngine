@@ -1,0 +1,102 @@
+Title       : Asymptotic Methods in Financial Mathematics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 31,  2000      
+File        : a0071744
+
+Award Number: 0071744
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $114896             (Estimated)
+Investigator: Jean-Pierre Fouque fouque@math.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Title:  Asymptotic Methods in Financial Mathematics (NSF-DMS-0071744 revised
+              5/23/00)
+
+Principal Investigator/Project Director:  Jean-Pierre
+              Fouque
+
+
+Technical Description:
+Pricing and hedging derivatives in
+              financial markets with fast mean-reverting stochastic volatility lead to
+              singular perturbations of parabolic partial differential equations such as 
+              Black-Scholes equation in the case of stock markets. This research consists in
+              developing the  mathematical tools necessary to implement this new methodology
+              in various situations such as American and exotic options in equity markets or
+              term-structures of interest rates in fixed income markets.
+The first step in
+              this method requires an identification of the time scales present in the hidden
+              stochastic volatility processes. This has been done for S&P500 by using
+              variograms and spectral analysis methods. Other tools and markets will be
+              investigated 
+The second step consists in modeling the evolution of the price
+              process by means of stochastic differential equations with volatility
+              coefficients  driven by additional general ergodic processes running on faster
+              time-scales. Risk-neutral probabilities are parameterized by market prices of
+              volatility risk. In the Markovian case, derivative prices are obtained as
+              solutions of partial differential equations, which are singular perturbations
+              of the corresponding classical constant volatility equations. Asymptotic
+              expansions are performed. The zero-order terms correspond to classical constant
+              volatility situations. The first-order terms are shown to depend only on
+              current prices and they are computed either explicitly or through the
+              resolution of a partial differential equation. The case of American options
+              leads to singular perturbations of free-boundary value problems that will be
+              studied in detail. The hedging problem will be treated by a martingale
+              decomposition approach also used in non-Markovian cases or infinite dimensional
+              situations arising in fixed income markets.
+The next step consists in the
+              calibration of the few parameters revealed in the first correction obtained in
+              the expansion. This is done by using observed derivative prices in liquid
+              markets and used for pricing other exotic derivatives.
+This new methodology to
+              handle incomplete stochastic volatility markets gives rise to model independent
+              pricing and hedging formulas easy to calibrate and to compute. Its mathematical
+              analysis, the heart of this proposal, touches various fields of applied
+              mathematics and leads to far reaching new tools and results.
+Non-Technical
+              Description:
+This project addresses problems in financial mathematics of
+              pricing and hedging derivative securities in an environment of uncertain and
+              changing market volatility. These risk management problems are important to
+              investors from large trading institutions to pension funds and to regulators of
+              financial markets and economic activity such as the federal reserve.
+It is
+              widely recognized that the simplicity of the famous Black-Scholes model which
+              relates derivative prices to current stock prices and quantifies risk through a
+              constant volatility parameter is no longer sufficient to capture modern market
+              phenomena, especially since the 1987 crash.
+This research consists in the
+              investigation of a new method for modeling, analysis and estimation that
+              exploits the random nature and fast intrinsic time scale of the volatility.
+              These observed volatility properties are used to derive corrections to the
+              classical constant volatility formulas. These corrections reveal important
+              groupings of market parameters, which otherwise are not obvious, and it turns
+              out that estimation of these composites from market data is extremely efficient
+              and stable.
+Much attention will be devoted to the more mathematically involved
+              cases of American options, which can be exercised at any time before maturity,
+              or other increasingly popular exotic options, which depend on the history of
+              the underlying asset.
+New and original methods, based on the fundamental
+              concept of martingale in probability theory, are developed to handle complex
+              fixed income markets, for which the understanding of the time evolution of
+              yield curves of interest rates is a real challenge. 
+The goal of this research
+              is to produce sophisticated mathematical results, which can be efficiently
+              implemented and used by practitioners in quantitative finance.
+

@@ -1,0 +1,52 @@
+Title       : World-wide Web Traffic Characterization with Application in In-network Caching
+               and Prefetching
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 17,  1998    
+File        : a9627922
+
+Award Number: 9627922
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $325659             (Estimated)
+Investigator: Marc Abrams abrams@cs.vt.edu  (Principal Investigator current)
+              Edward A. Fox  (Co-Principal Investigator current)
+              John F. Pollard  (Co-Principal Investigator current)
+Sponsor     : VA Polytechnic Inst & St U
+	      301 Burruss Hall
+	      Blacksburg, VA  240610249    540/231-6000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9217,9218,HPCC,
+Abstract    :
+                The original World-Wide Web (WWW) architecture--which requires a network 
+              connection from a client to a possible distant server for each document 
+              retrieved--is not scalable.  Servers and network have limited bandwidth  that
+              cannot keep pace with continuing growth in Web usage, particularly as  the
+              popularity of bandwidth-intensive media types, such as video, grows.  This
+              project addresses Web scalability by characterizing WWW traffic and  applying
+              that characterization to design and evaluating algorithms to cache  and
+              prefetch documents within networks.    The project has five objectives: to 1)
+              collect traces from four disparate  traffic sources; 2) prepare to handle the
+              large volume of collected traces  by extending methods to collect, visualize,
+              analyze, and model Web traffic  using the Chitra trace analysis tool; 3) use
+              techniques from objective two  to characterize Web traffic based on the traces
+              collected for objective  one; 4) develop a predictive model and simulation of
+              clients, servers, and  Web traffic in the context of universities and community
+              networks that  permits the design and evaluation of algorithms for in-network
+              document  caching to reduce the bandwidth requirements of Web servers and
+              networks.  The simulation will use results from workload characterization. The
+              model  will allow a network manager to place and configure in network caches
+              (e.g.  proxy servers) within an existing network; and 5) design and evaluate, 
+              through simulation, algorithms to prefetch documents, thereby partially  hiding
+              latency.

@@ -1,0 +1,92 @@
+Title       : Diagnosis and Control of Network Variability by Massively Accessed Servers
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 17,  2000    
+File        : a9986397
+
+Award Number: 9986397
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $1210768            (Estimated)
+Investigator: Azer Bestavros best@cs.bu.edu  (Principal Investigator current)
+              John W. Byers  (Co-Principal Investigator current)
+              Mark E. Crovella  (Co-Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   This proposal seeks funding to investigate a number of basic research
+              problems within the general framework of network-aware server protocols and
+              services.  Tackling these problems is critical for the continued scalability of
+              the Internet.
+     Mass servers are popular Internet servers which produce a
+              substantial fraction of the traffic flowing through the network.  Currently,
+              such Mass servers are tuned to optimize their own performance (e.g. capacity,
+              latency, I/O utilization), while overlooking the opportunity to monitor network
+              conditions and to use that information advantageously.  This information could
+              be used both to improve network behavior  (e.g. alleviate the problems
+              resulting from congestion) and in further optimizing the performance of
+              servicing requests.  Thus, Mass servers are uniquely positioned (1) to observe
+              and diagnose network conditions by tracking the flows that they generate, and
+              (2) to manage and control network resources by better regulating and scheduling
+              the traffic they inject into the network.  These goals must be pursued over a
+              wide spectrum of time scales to maximize the beneficial impact that can be
+              achieved.
+     On the shortest time scales, a Mass server can minimize packet
+              loss by smoothing the otherwise bursty process of injecting packets into the
+              network.  At medium time scales, a Mass server can perform aggregate congestion
+              management by bundling like connections to avoid the burstiness that results
+              from competition among flows.  At even longer time scales, a Mass server can
+              map persistent hotspots in the network and optimize scheduling of connections
+              to mitigate the impact of overusing those resources.  These objectives are
+              representative of projects which the researchers intend to undertake on these
+              various time scales.  
+     The research work outlined in this proposal aims
+              at achieving these benefits through the derivation of new measurement and
+              analysis techniques to enable diagnosis of network conditions, and the
+              development of new services and protocol to enable efficient network resource
+              management and control.
+     Proposed work in network measurement and
+              diagnosis at Mass servers focuses on the use of passive and active probing
+              techniques for the identification of network bottlenecks (e.g. congestion
+              conditions) along various time scales.  The techniques to be used range from
+              multi-resolution analysis using discrete wavelet transforms, to maximum
+              likelihood estimators for packet loss estimation.
+     Empowered with such
+              diagnostic information, the proposed work in network resource management and
+              control at Mass servers focuses on alleviating the problems associated with
+              network bottlenecks (e.g. large delays and jitters, low and unfair resource
+              utilization) along various time scales.  The techniques to be used range from
+              the development of traffic pacing protocols to alleviate burstiness at the
+              sub-round-trip-time scale, to aggregate congestion control algorithms for
+              improving utilization of network resources and reducing jitter.
+     A key
+              component of the proposed work is implementation and prototyping.  To that end,
+              the utility of the tools and protocols developed will be demonstrated by
+              integrating them into three modular components for distribution to the research
+              community, namely: (1) BEACON: A collection of network measurement and
+              diagnosis tools, (2) TURNPIKE: A collection of network management and control
+              protocols and services, and (3) BACKBAY: A platform that supports the
+              integration of BEACON and TURNPIKE functionality into a high performance web
+              server architecture.
+     The pursuit of the research goals outlined in this
+              proposal is timely.  Achieving these goals will leapfrog current piecemeal
+              attempts aiming at supporting Internet growth.  The research team assembled to
+              pursue these ambitious goals has made significant, nationally-recognized
+              contributions to the understanding of Internet traffic characteristics and has
+              an established record in software development and technology transfer.  Boston
+              University is committed to supporting this team through substantial financial
+              and infrastructural commitments that complement and leverage the support sought
+              from NSF.
+

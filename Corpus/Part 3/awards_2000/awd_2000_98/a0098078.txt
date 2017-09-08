@@ -1,0 +1,69 @@
+Title       : Fault-Tolerant Distributed Resource Location
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 17,  2001 
+File        : a0098078
+
+Award Number: 0098078
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $200940             (Estimated)
+Investigator: James Aspnes aspnes@cs.yale.edu  (Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              James Aspnes
+"Fault-Tolerant Distributed Resource Location"
+
+Resource
+              location is a fundamental problem in distributed computing.
+Examples include
+              such basic tasks as translating URLs into machine
+addresses, mapping telephone
+              numbers to individual telephones, and
+searching for documents on the Web. 
+              Typical current solutions involve
+maintaining centralized directories that
+              become bottlenecks that
+impair speed and reliability; such solutions are also
+              unsuited to
+peer-to-peer systems where individual machines come and go freely.
+              The
+research examines how to distribute directory information
+holographically
+              throughout the network, so that the costs of searches
+are spread evenly, no
+              specialized server machines are needed, and
+resources can still be found even
+              if a large fraction of the machines
+leave the system.
+
+The main technique is
+              the construction of random graphs whose nodes
+(representing resources and
+              machines) are assigned coordinates in some
+space based on their keys. 
+              Searching for a resource involves moving a
+token from some initial node to
+              adjacent nodes closer to the target
+until the target is reached.  Core
+              components of the project are the
+design of graph structures that provide the
+              correct mix of
+short-distance and long-distance edges for fast searching and
+              the
+design of local mechanisms for building and repairing such
+              structures
+quickly without central coordination.

@@ -1,0 +1,49 @@
+Title       : Formal Methods for Extensible Object-Oriented Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 29,  2001     
+File        : a0097907
+
+Award Number: 0097907
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  2001       
+Expires     : May 31,  2003        (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Gary T. Leavens leavens@cs.iastate.edu  (Principal Investigator current)
+              Don Pigozzi  (Co-Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project advances the theory and practice of extensible object-oriented (OO)
+              software by investigating how to support careful design, specification, and
+              reasoning. Enhancing theoretical understanding for specifying and verifying
+              extensible OO software forms the first subproblem.  The project investigates
+              several avenues: the soundness of proof techniques for behavioral subtyping
+              among abstract data types with mutable objects, whose operations may have
+              nondeterministic specifications; the extent to which the use of multimethods
+              affects one's ability to prove behavioral subtyping; and the soundness of a
+              specification and verification technique that allows the implementation of a
+              subclass from a superclass's specification, without seeing the superclass's
+              code.
+
+The second subproblem comprises enhancing Java and a specification
+              language for Java to better support extensible OO frameworks and libraries. The
+              project implements and refines MultiJava, an extension to Java that supports
+              both open classes and multimethods.  The former allow one to extend existing
+              classes with new methods, while the latter allow one to easily extend both a
+              set of data types and the methods that work on them.  The project also extends
+              and refines JML, which is a behavioral interface specification language
+              tailored to Java.
+
+

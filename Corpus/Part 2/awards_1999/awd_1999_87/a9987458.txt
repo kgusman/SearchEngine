@@ -1,0 +1,125 @@
+Title       : SGER: Gradual Compilers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 10,  2000    
+File        : a9987458
+
+Award Number: 9987458
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  2000    
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Daniel P. Friedman dfried@cs.indiana.edu  (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,9237,HPCC,
+Abstract    :
+              CCR-9987458
+Abstract:
+
+With the increasing demands of users for ever more
+              complex features in
+their systems, interfaces to these systems necessarily
+              also become
+complex.  At some point, the interfaces approximate a
+              programming
+language, and the system can reasonably use a compiler to
+              efficiently
+handle the users' directions.  We thus expect that
+              compiler-writing
+technology will increasingly be demanded of software
+              engineering
+professionals.  Unfortunately, compilers are often large,
+              mysterious
+programs, and compiler-writing somewhat of a black art. 
+
+We are
+              developing a new approach to the development and exposition of
+compilers for
+              mostly functional languages.  Courses on compilers are
+generally centered
+              around an extensive project through which a
+compiler is developed.  Some
+              attempt is often made to divide the
+compiler into phases.  Traditionally,
+              however, the early phases merely
+cover scanning and parsing and most of the
+              real work is left as a
+single task.  This makes compiler courses either
+              difficult, if
+students are left to deal with this problem on their own,
+              or
+contrived, if they are given substantial amounts of help from
+              their
+instructor.  The primary advantage of our approach is that students
+can
+              build a compiler in incremental stages and understand how each
+stage
+              contributes to the project.  Thus, at any point in time, the
+students are only
+              concerned with a single aspect of the target
+architecture.  In this way, they
+              gain an understanding of how the
+source and target architectures relate to
+              each other and no longer
+view them as totally disparate worlds.  An additional
+              advantage of our
+approach is that instructions at different levels can be
+              interleaved,
+so that transformations can be written and debugged for one
+              language
+form at a time.  All of this will make compiler-writing far
+              less
+mysterious and make compiler courses accessible to many more
+              students.
+
+We are submitting this request under Small Grants for
+              Exploratory
+Research because we wish to pursue this research immediately. 
+              This
+new approach, if further developed, could greatly affect
+              Indiana
+University's undergraduate compiler course this spring.  We will
+              also
+make the results of our efforts available to the larger
+              educational
+community through submissions to education-oriented conferences
+              and/or
+the publication of relevant texts.
+
+Although our primary motivation
+              at this point is educational, the
+benefits of our approach are likely to range
+              much further.  They
+should include the ability to reuse components in
+              compilers with a
+different source or target language, to the point where
+              writing a
+compiler involves plotting a course through a variety of
+              intermediate
+languages or programming styles or architectures.  Then, a change
+              to
+any one architecture will have minimal impact on the family of
+compilers. 
+              A second advantage is that optimizations can be added
+individually, at the
+              highest appropriate level.  Finally, support for
+the interleaving of
+              instructions at different levels should make the
+development of compilers much
+              less expensive and error-prone.  It
+should also help to improve intuitions and
+              understanding of 
+issues of just-in-time compililation that have become
+              pressing with
+the increased popularity of the Java programming language.

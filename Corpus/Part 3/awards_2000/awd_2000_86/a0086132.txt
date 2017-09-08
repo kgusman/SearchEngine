@@ -1,0 +1,84 @@
+Title       : ITR: Framenet++: An On-Line Lexical Semantic Resource and its Application to
+               Speech and Language Understanding
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 2,  2002     
+File        : a0086132
+
+Award Number: 0086132
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $2098356            (Estimated)
+Investigator: Charles J. Fillmore fillmore@icsi.berkeley.edu  (Principal Investigator current)
+              Jean M. Gawron  (Co-Principal Investigator current)
+              Daniel S. Jurafsky  (Co-Principal Investigator current)
+              Srinivas Narayanan  (Co-Principal Investigator current)
+Sponsor     : Internationl CompSci Inst
+	      1947 Center Street
+	      Berkeley, CA  947041105    510/666-2900
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 1654,1661,9218,HPCC,
+Abstract    :
+              This is the first year funding of a three-year continuing award.   Robust
+              domain-independent language understanding is essential for multilingual
+              information extraction, summarization, question answering, and automatic
+              translation.   With pervasive computing environments soon to come, language
+              understanding will become even more indispensable for interacting with
+              artifacts of widely different functionalities.   The field of natural language
+              understanding has made significant progress in the last fifteen years.  A large
+              part of this gain is due to the sophisticated combination of statistical
+              algorithms with template-based algorithms tailored to specific domains like
+              air-traffic information, travel scheduling, and business news.  But any real
+              solution to the problem of domain-independent understanding will require moving
+              beyond template-based monolingual systems to more flexible, general purpose HCI
+              systems via three key innovations:    (1) a domain-independent semantic
+              language as the back end for these understanding systems, replacing the current
+              domain-restricted templates and slots;    (2) rich semantic lexical databases
+              which are broad enough to cover the necessary words for language engineering
+              tasks, and deep enough in usable semantic information to support true
+              domain-independent understanding;    and (3) sophisticated techniques for
+              performing this mapping.
+
+This project will develop these three components:  
+               a very large lexical database FrameNet++, a semantic language designed for
+              domain-independent understanding tasks, and the tools for applying it to and
+              evaluating it on key NLU applications.   The semantic language and lexical
+              database are based on formalizing the semantic frames and the semantic and
+              syntactic combinatory properties - the valences - of a significant portion of
+              the English lexicon.    FrameNet++ will offer significantly richer semantic
+              information than is available in current databases like COMLEX and WordNet, by
+              characterizing the conceptual frames within which words are defined and
+              identifying the semantic roles which the arguments of these words can take.  
+              These roles and frames are key to building domain-independent language
+              understanding applications.    The project will focus from the start on
+              specific NLU applications:    word sense disambiguation, information
+              extraction, multilingual information extraction, and an eventual extension to
+              text data mining.    For each application, the PI and his team will apply the
+              FrameNet++ system to improve the domain independence of the semantic
+              components, using statistical algorithms for semantic annotation that we have
+              already begun to implement.    These applications will in turn provide a rich
+              and realistic evaluation framework to guide FrameNet++ development, and will
+              encourage potential users to apply it to a wide variety of tasks.
+
+The
+              FrameNet++ database will be capable of serving many purposes.    Provided with
+              statistical information about frequencies of words, word/sense mappings, and
+              combinatorial patterns linked to word senses, it will be usable in various
+              automatic language understanding processes, including word sense disambiguation
+              and information extraction.    Since the formal semantic annotations are keyed
+              to conceptual structures which are independent of any individual language, they
+              are available for the creation of parallel lexicon databases of other
+              languages.    The semantic structures in the databases will facilitate matches
+              from one language to another, in machine translation and machine-assisted
+              translation, while the syntactic structures allow the production of appropriate
+              grammatical sentences in the target language.
+

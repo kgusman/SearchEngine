@@ -1,0 +1,46 @@
+Title       : Instruction Set Architecture for Pervasive Security
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 26,  2002      
+File        : a0105677
+
+Award Number: 0105677
+Award Instr.: Continuing grant                             
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $256554             (Estimated)
+Investigator: Ruby Lee rblee@ee.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              This research investigates core architectural features for secure and private
+              communications and computations over the public Internet and wireless
+              infrastructures.  It focuses on what instruction-set architecture (ISA)
+              features general-purpose processors would have, if secure information
+              processing is the default pervasive mode of operation, with non-secure
+              processing the optional mode, rather than vice versa.  It proposes ISA features
+              for very fast, flexible, software cryptographic processing, not only for
+              current algorithms but also to enable algorithm designers to create new
+              cryptographic algorithms that are more secure and more efficient. 
+              Word-oriented, programmable processors can be radically more effective for
+              cryptographic functions with new instructions for sub-word manipulations, as
+              well as for multi-word arithmetic.  Novel bit permutation instructions are
+              proposed for providing superior diffusion capabilities for current and future
+              symmetric key algorithms.  Their performance, area and latency tradeoffs, and
+              scalability with superscalar organizations are studied.   Very fast table
+              lookup and other ISA features are also studied for algorithms like Rijndael,
+              the recent Advanced Encryption Standard winner, and for public-key algorithms
+              like Elliptic Curve Cryptography.  The research also investigates architectural
+              features for secure key management, and other ISA features designed to enhance
+              or enforce system security. 

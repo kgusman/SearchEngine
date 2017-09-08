@@ -1,0 +1,71 @@
+Title       : A New Asymptotic Theory for Heteroskedasticity Autocorrelation Robust Tests
+Type        : Award
+NSF Org     : SES 
+Latest
+Amendment
+Date        : January 16,  2002   
+File        : a0095211
+
+Award Number: 0095211
+Award Instr.: Continuing grant                             
+Prgm Manager: Kwabena Gyimah-Brempong                 
+	      SES  DIVN OF SOCIAL AND ECONOMIC SCIENCES    
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : April 1,  2001      
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $230003             (Estimated)
+Investigator: Timothy J. Vogelsang tjv2@cornell.edu  (Principal Investigator current)
+              Nicholas M. Kiefer  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1320      ECONOMICS
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              One of the most widely used statistical tools in empirical social sciences is
+              regression models. By its very nature, social science and economic data is
+              non-experimental and this leads to a host of statistical issues that are not
+              encountered with data generated from controlled experiments. In particular, in
+              cross section models a common problem is non-constancy of error variances
+              across observations (heteroskedasticity) while in time series regressions a
+              common problem is serial correlation (correlation across errors). It is now a
+              well known textbook result that in regression models with heteroskedasticity
+              and/or serial correlation, ordinary least squares (OLS) estimation of
+              regression parameters often yields good estimates (e.g. unbiased). The problem
+              is that the usual formulas for standard errors are invalid. This means that
+              hypothesis tests (e.g. tests of statistical significance) are also invalid.
+              This fact has long been known in the econometrics literature and over the past
+              20 years there has been intensive research devoted to finding ways of computing
+              standard errors that are valid in the presence of heteroskedasticity or serial
+              correlation of unknown form. Such standard errors are very useful to applied
+              practitioners because the form of heteroskedasticity or serial correlation is
+              rarely known in practice.
+	
+Standard errors valid for regressions with
+              heteroskedasticity (White standard errors) are now widely implemented in
+              statistical programs and are covered by undergraduate econometrics texts. The
+              appeal of White standard errors is that they are easy to compute and work for
+              very general forms of heteroskedasticity. In models with serial correlation,
+              computing robust standard errors is more difficult in practice. The practical
+              problem with these standard errors is that the practitioner is required to make
+              choices of so-called tuning parameters. According to the standard asymptotic
+              theory (approximation theory) these choices are, for the most part, arbitrary.
+              This leaves room for one researcher to use one tuning parameter while another
+              researcher uses a different one. These researchers could very likely draw
+              different conclusions from the same regression model. Unfortunately, there is
+              no established standard for the computation of serial correlation robust
+              standard errors. (The statistical packages SAS and E-Views, for example, use
+              different tuning parameters).
+	
+This project develops a new asymptotic theory
+              that explicitly captures, in a practical sense, the choice of tuning
+              parameters.  This new theory allows a systematic treatment of the tuning
+              parameter choice and has the potential for developing a standard of practice
+              for the computation of serial correlation robust standard errors.  The research
+              generated from this project will make inference in regression models more
+              reliable and easier to implement for practitioners.  This will lead to higher
+              quality empirical studies in economics and other social sciences.
+

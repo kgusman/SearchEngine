@@ -1,0 +1,100 @@
+Title       : A Finite Difference Approach to Pseudospectral Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 26,  2000      
+File        : a0073048
+
+Award Number: 0073048
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2000     
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $125000             (Estimated)
+Investigator: Bengt Fornberg bengt.fornberg@colorado.edu  (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              Pseudospectral (PS) methods are high-accuracy alternatives to finite
+difference
+              (FD) and finite element methods (FEM) for the numerical solution
+of PDEs. They
+              are particularly effective for solving convection-dominated
+equations over
+              long times and in relatively simple geometries. Both the
+algorithms themselves
+              and the analysis of them have traditionally been
+closely tied to expansions in
+              different classes of orthogonal functions.
+The recent book "A Practical Guide
+              to Pseudospectral Methods" (by the
+present investigator) notes that a large
+              body of generalizations,
+enhancements and insights can be gained by viewing PS
+              methods instead as
+special cases of FD methods. Several such opportunities
+              were explored under
+the grant DMS-9706916. Building on these experiences, we
+              will now introduce
+radial basis functions (RBFs) as an additional component to
+              be integrated
+with PS schemes. Although computationally quite costly, the
+              spectral
+accuracy of RBFs, combined with their extreme geometric flexibility,
+              would
+seem to make them ideally suited to complement PS methods in the
+              vicinity
+of irregular boundaries. To realize this requires much research
+              regarding
+the basic features of RBF approximations, as well as research on
+              issues
+related to interfacing them with PS and FD methods. 
+
+Pseudospectral
+              (PS) methods were first proposed in the early 1970's (in
+connection with
+              meteorology and turbulence modeling). They have since been
+shown to be
+              extraordinary effective for high-accuracy calculations in
+numerous other
+              fields, such as computational electromagnetics and nonlinear
+waves.
+              Strategically important application areas include simulating the
+radar
+              scattering from airplanes, the electrical interference between
+components on
+              computer chips, and the transmissions of signals in optical
+fibres. The main
+              weakness with PS methods has been the difficulty to apply
+them in complex
+              geometries. Some of this has been overcome in recent years
+(usually by
+              splitting a complicated domain in simpler parts, and then
+applying some
+              suitable computational means for coupling of the subdomains).
+A quite
+              different and highly promising approach will be introduced and then
+explored
+              under this grant. This involves combining 'classical' PS methods
+with the
+              geometrically extremely flexible approach known as radial basis
+functions
+              (RBFs). This has never been attempted, and the research falls in
+the 'high
+              risk, high gain' category. Success is by no means certain, but if
+it happens,
+              it could have a major impact, particularly on computational
+electromagnetics
+              in applications such as simulation of radar scattering /
+stealth properties of
+              objects. 
+

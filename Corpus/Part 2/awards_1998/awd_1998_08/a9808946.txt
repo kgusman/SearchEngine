@@ -1,0 +1,44 @@
+Title       : Coordinated Restructuring of Programs and Storage
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 21,  2000     
+File        : a9808946
+
+Award Number: 9808946
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $401356             (Estimated)
+Investigator: Jeanne Ferrante jferrante@ucsd.edu  (Principal Investigator current)
+              Larry Carter  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Tiling is a well-known optimization technique that has been used  to obtain
+              orders of magnitude performance improvements on certain  types of computer
+              programs -- ones with nicely structured loops  and regular memory accesses. 
+              This research will extend tiling and  related optimization techniques to a
+              larger class of programs.  The methods employed to carry out these goals are:
+              (1) Collect a  corpus of scientific applications, including unstructured
+              programs  and programs with irregular memory accesses. (2) Build a high-  level
+              analysis tool to study this corpus and to provide  information that can be used
+              to guide program transformations. (3)  Develop more powerful transformations to
+              extend tiling to this  corpus. These transformations will be embodied in a
+              source-to-  source program restructurer. (4) Build an architecturally-driven 
+              guidance system to guide the choice of transformations. This  system will model
+              the multitiered parallelism and memory  hierarchies of modern computers. (5)
+              Evaluate the new  transformations compared to hand-optimized versions of the 
+              applications. The projected impact of the work is the development  of compiler
+              technology that will automatically improve the  performance of a broad class of
+              computer programs for scientific  applications.

@@ -1,0 +1,68 @@
+Title       : Mechanisms for Providing Optical Bypass in WDM-based Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : June 6,  2000       
+File        : a0073730
+
+Award Number: 0073730
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  2001   
+Expires     : January 31,  2004    (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Eytan Modiano modiano@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Over the past decade the growth in the use and capabilities of
+              communication networks has transformed the way we live and work.  As we
+              progress further into the information age, the reliance on networking will
+              increase.  With the expected explosive growth in data traffic, networks will be
+              strained in terms of both transport and processing requirements.  Wavelength
+              Division Multiplexing (WDM) is emerging as a dominant
+technology for use in
+              backbone and access networks.  With WDM, the capacity of a fiber is
+              significantly increased by allowing simultaneous transmission on multiple
+              wavelengths (channels), each operating at the maximum electronic rate.  Systems
+              with between 40 and 80 wavelengths are presently being deployed for
+              point-to-point transmission.  With tens of wavelengths per fiber and
+              transmission rates of up to 10 Gbps per wavelength, capacities that approach a
+              Tera-bit per second can be achieved.  While these WDM systems are likely to
+              meet future transport demands, electronically processing all of this traffic at
+              network nodes will present a significant bottleneck.  Fortunately, it is not
+              necessary to electronically process all traffic entering and leaving each node.
+               For example, much of the traffic passing through a node is neither sourced at
+              that node nor destined to that node.  To reduce the amount of traffic that must
+              be electronically processed at  ntermediate nodes, future WDM systems will
+              employ WDM Add/Drop multiplexers (WADMs) and cross-connects, that allow each
+              wavelength to either be dropped and electronically processed at the node or to
+              optically bypass the node's electronics.
+     This project will develop
+              mechanisms for providing optical bypass to the electronic layer thereby
+              reducing the size and cost of electronic switches and routers in the network. 
+              A number of techniques will be explored, each of which is appropriate for
+              different traffic scenarios.  For the case of low rate stream traffic, grooming
+              algorithms will be developed to selectively multiplex multiple low rate traffic
+              streams onto wavelengths such that the number of wavelengths that must be
+              processed at each node is minimized.
+For bursty packet traffic, topology
+              reconfiguration algorithms will be developed to reduce the load on the
+              electronic switches and routers via dynamic load balancing.  Lastly, for large
+              data transfers, Optical Flow Switching protocols that bypass all of the
+              electronics in the network using all-optical end-to-end connections will be
+              developed.  The combination of the above mechanisms will reduce the size, cost
+              and complexity of electronic switches and routers and will lead to a dramatic
+              increase in the traffic capacity that can be
+supported by the Next Generation
+              Internet (NGI).
+

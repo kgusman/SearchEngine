@@ -1,0 +1,50 @@
+Title       : Parallel Implementation of the Immersed Boundary Method
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : January 6,  1993    
+File        : a9224743
+
+Award Number: 9224743
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter W. Arzberger                      
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : December 1,  1992   
+Expires     : May 31,  1994        (Estimated)
+Expected
+Total Amt.  : $48585              (Estimated)
+Investigator: Charles Peskin peskin@cims.nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/598-3131
+
+NSF Program : 1107      COMPUTATIONAL BIOLOGY ACTIVITI
+Fld Applictn: 0000912   Computer Science                        
+              21        Mathematics                             
+              30        Computer Science & Engineering          
+              61        Life Science Biological                 
+Program Ref : 9216,
+Abstract    :
+              This SGER award will support the parallel implementation of the                
+              immersed boundary method in the application of a three-                        
+              dimensional heart model.  The immersed boundary method is a                    
+              computational technique for the simulation of systems in which a               
+              viscous incompressible fluid interacts with an immersed elastic                
+              boundary  Such systems are ubiquitous in biological fluid                      
+              dynamics, and the immersed boundary method has already been                    
+              applied to problems of blood flow in the cardiac chambers,                     
+              platelet aggregation during blood clotting, aquatic animal                     
+              locomotion, and wave propagation in the inner ear.  Current                    
+              implementation of the immersed boundary method are fully                       
+              vectorized on Cray computers, but only a single processor is used              
+              although several are available.  The aim of  the proposed                      
+              research is to create a parallel implementation which maintains                
+              full vectorization while making effective use of all available                 
+              processors.  This work will be done on the Cray C-90 Computer, a               
+              16-processor machine which is scheduled to arrive at the                       
+              Pittsburgh Supercomputing Center this fall.  The scientific                    
+              utility of the immerse boundary method will be enormously                      
+              enhanced by the anticipated speedup resulting from                             
+              parallelization.

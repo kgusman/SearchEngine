@@ -1,0 +1,60 @@
+Title       : Mathematical Sciences: Exploitation of Symmetry in Discretization Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : February 16,  1996  
+File        : a9403392
+
+Award Number: 9403392
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1994      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $272000             (Estimated)
+Investigator: Eugene L. Allgower allgower@math.colostate.edu  (Principal Investigator current)
+              Kurt Georg  (Co-Principal Investigator current)
+              Rick Miranda  (Co-Principal Investigator current)
+Sponsor     : Colorado State University
+	      
+	      Fort Collins, CO  805232002    970/491-1101
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,1038,9139,9146,9216,9263,CVIS,HPCC,MANU,OTHR,
+Abstract    :
+              9403392  Allgower         Many problems in science display symmetries with
+              respect to  a group of transformations.  The equations describing such 
+              problems are then said to be `equivariant' with respect to this  symmetry
+              group.  The focus of this project is to continue to  study systematic
+              techniques for exploiting symmetry in the  numerical solution of such
+              equivariant equations.  This  exploitation leads to more stable solution
+              methods and to a  greatly increased numerical efficiency.  One of the methods 
+              studied by the investigators (the symmetry reduction method) can  be viewed as
+              a generalization of Fourier Transform methods (which  exploit symmetry under a
+              cyclic group).  Among other projects,  the investigators further develop the
+              symmetry reduction method  and study hidden symmetries, optimal equivariant
+              preconditioners  for problems that are only `nearly'equivariant, domain
+              reduction  via symmetries, the numerical solution of nonlinear equivariant 
+              equations and bifurcation phenomena.  Preliminary numerical codes  are further
+              developed into a collection of codes for a range of  important applications.   
+                   Geometric symmetries have always played an important role in  theoretical
+              physics and some branches of applied mathematics.  However, exploiting these
+              symmetries has only lately been  developed in the areas of numerical analysis
+              and computational  mathematics.  The aim of this project is to use geometric
+              and  algebraic techniques to give efficient algorithms for solving  large
+              numerical problems that enjoy such symmetries.  Very large  problems are broken
+              down (via symmetry considerations) into  smaller problems that can be handled
+              independently and more  efficiently on modern architectures of high-performance
+               computing. Problems that are only `nearly' equivariant (i.e.,  where certain
+              symmetry structures have imperfections) occur quite  frequently in engineering
+              (e.g., in elasticity or flow problems,  or in structural mechanics).  An
+              efficient exploitation of these  imperfect sym metries would reduce the
+              computational effort for  solving such problems.  This has two direct benefits:
+              firstly,  one can solve moderately sized problems much faster, possibly in 
+              real time; secondly, very large problems that are inaccessible  via standard
+              methods can be solved with this symmetry reduction  method.

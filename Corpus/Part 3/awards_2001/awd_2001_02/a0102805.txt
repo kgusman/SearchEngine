@@ -1,0 +1,49 @@
+Title       : Parallel Adaptive Lagrangian Discontinuous Galerkin Simulation of Pediatric
+               Brain Injury
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 3,  2002        
+File        : a0102805
+
+Award Number: 0102805
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2001       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $262173             (Estimated)
+Investigator: Abani K. Patra abani@eng.buffalo.edu  (Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The overall goal of this work is to develop the computational tools to better
+              study "shaken baby syndrome". This project will develop highly accurate
+              parallel adaptive Lagrangian discontinuous Galerkin techniques for the
+              simulation of fluid mechanics and solid mechanics. These techniques will be
+              central to the development of high fidelity simulation tools for investigation
+              of pediatric brain injury mechanisms and preventative strategies. Even the most
+              powerful computers today using the best available codes would need weeks or
+              months to do these calculations. Moreover, even those heroic calculations would
+              not provide reasonable simulations due to the poor numerical accuracy of the
+              lower order (O(h)) finite element / finite difference schemes and explicit time
+              integration schemes (O(Dt)) used.
+
+The key element of the new strategy is the
+              development and use of parallel adaptive hp Lagrangian discontinuous Galerkin
+              schemes that provide the accuracy and efficiency necessary for dealing with the
+              complex geometric and material structure of the brain tissue, associated
+              membranes, and blood vessels. These schemes will enable the use of higher order
+              approximations to obtain accuracies that are O(hp) and O(Dtk), for p, k > 1.
+              While the pediatric brain injury application will drive the research into this
+              new class of parallel computational techniques, the codes and methodology
+              should be useful for a much wider class of problems.
+

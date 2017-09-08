@@ -1,0 +1,62 @@
+Title       : An Integrated Method for Simultaneous Recognition and Segmentation of Deformable
+               Objects
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 21,  1998    
+File        : a9530768
+
+Award Number: 9530768
+Award Instr.: Continuing grant                             
+Prgm Manager: Jing Xiao                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1996       
+Expires     : May 31,  2000        (Estimated)
+Expected
+Total Amt.  : $245000             (Estimated)
+Investigator: James S. Duncan james.duncan@yale.edu  (Principal Investigator current)
+              Amit Chakrabroty  (Co-Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 2891,9218,HPCC,
+Abstract    :
+              This  research is primarily aimed at robustly locating deformable 
+              structures/objects  of  approximately known  shape  from  natural  images.  
+              The  problem  of  locating and  recognizing  underlying  object  structures  in
+              an image is of importance  in  many  image  analysis and computer vision
+              applications including robot vision,  pattern  recognition and biomedical image
+              processing.  Algorithms  that can reliably perform these basis tasks are at the
+              core of  a  variety  of  systems that will permit humans to more  effectively 
+              interact  with  pictorial data for the purposes of visualization,  analysis, 
+              control or, as in the case of image database  systems,  retrieval  of
+              task-specific information within these applications  areas.   The  robust 
+              identification  and  measurement  of   such  structure  is  not  always 
+              achievable using  a  single  analysis  technique  that  depends  on a single 
+              image  derived  source  of  information.  This is especially true when one is
+              dealing with  a  wide  range of images obtained under different conditions 
+              having  different  image content.  The approach in this research  project 
+              utilizes two different sources of image-derived information:  1.)  gray-level
+              gradients and ii.) homogeneity of intensity or texture  elements,   etc.,   as 
+              well  as  model-based  information   (i.e  approximate    object   shape).   
+              Furthermore,   two   different  processing  methods are combined in this
+              approach,  in  order  to  integrate the above-mentioned information sources: a)
+              regionbased  methods, which are primarily based on homogeneity properties  and 
+              b.)   boundary   methods  which  capitalize  on   both   gradient 
+              (imagederived)  and  shape  (model  based)  properties.   A  game  theoretic 
+              framework  will  be used,  where,  unlike  the  global  objective approach
+              which is widely used as an integration  method  in  computer vision, the
+              modularity of the underlying  objectives  are retained.  The integration
+              problem is then framed as a family  of  coupled and coex isting objectives
+              whereby the output  of  one  module  depends  upon the previous outputs of the
+              other  modules.  This  effort  will build on initial work which has been  able 
+              to  locate  structure in two dimensional images.  It will also extend  the 
+              concept  to  analyzing three dimensional image  data.   Both  theoretical  and
+              experimental investigations will be carried  out  regarding the applicability
+              and the limits of the approach.

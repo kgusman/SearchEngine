@@ -1,0 +1,63 @@
+Title       : Digital Protocol Hierarchy Analysis and Synthesis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 30,  2001     
+File        : a9971152
+
+Award Number: 9971152
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $249000             (Estimated)
+Investigator: Forrest D. Brewer forrest@ece.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              A fundamental problem in system level synthesis is the difficulty
+              of
+incorporating interfaces with pre-defined protocols as constraints.
+              This
+has lead to a mixed level specification approach that is difficult
+              to
+create, limited in generality and difficult to verify. In this research,
+              a
+alternative hierarchical model for a generic digital system design is
+              being
+developed based on a non-deterministic finite automata to capture
+              system
+protocol and communication constraints as well as the required control
+              and
+data-flow activity. Such models are suitable for exploration using
+              BDD
+symbolic traversal techniques. They provide a mechanism for
+              systematic
+data-flow synthesis that meets complex communication constraints.
+              Issues
+addressed in this project are: a) formulating an efficient
+              representation for
+a "causal automata" which represents the essential control
+              and data-flow
+dependencies for the system; b) formulating a mechanism for
+              hierarchical
+abstraction to support large, complex systems; c) pruning
+              techniques on
+implicit state traversal when used in synthesis; d) distributed
+              controller
+synthesis meeting scheduling goals imposed by the above analysis.
+              
+Software tools developed under this project are being distributed via
+              the
+Internet.
+
+

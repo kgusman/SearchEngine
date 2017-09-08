@@ -1,0 +1,70 @@
+Title       : Distributed Algorithms for Mobile Ad Hoc Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 25,  2002      
+File        : a9972235
+
+Award Number: 9972235
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Jennifer L. Welch welch@cs.tamu.edu  (Principal Investigator current)
+              Nitin H. Vaidya  (Co-Principal Investigator former)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal Number:  CCR-9972235
+PI:  Jennifer Welch
+co-PI:  Nitin Vaidya
+
+In a
+              mobile ad hoc network, nodes communicate solely via a wireless
+medium, without
+              any infrastructure such as base stations.  The
+topology graph of such a
+              network connects two nodes that are within
+each other's communication range. 
+              The topology can change whenever a
+node moves.  Such networks are useful for
+              disaster recovery,
+search-and-rescue in remote areas, and military operations.
+               The
+proposed research will develop efficient distributed primitives
+              for
+mobile ad hoc networks, to perform mutual exclusion, group
+communication,
+              and leader election.  Existing algorithms for these
+problems do not take into
+              account all characteristics of ad hoc
+networks, such as highly dynamic
+              topology, constraints on energy
+consumption, and variable transmission error
+              rates.  The proposed
+research will involve characterization of appropriate
+              performance
+metrics for evaluating algorithms on ad hoc networks, such as
+              energy
+consumption and impact of node mobility; design of
+              efficient
+distributed algorithms for mutual exclusion, leader election,
+              and
+group communication; performance evaluation of distributed algorithms
+for
+              ad hoc networks, based on simulations and analytical
+              techniques;
+proof-of-concept prototype implementation of a distributed
+              blackboard
+on a small ad hoc network consisting of wireless laptops. 
+

@@ -1,0 +1,56 @@
+Title       : External Memory Algorithms: Dealing with MASSIVE Data
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 17,  2001       
+File        : a9877133
+
+Award Number: 9877133
+Award Instr.: Continuing grant                             
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $290000             (Estimated)
+Investigator: Jeffrey S. Vitter   (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Problems involving massive amounts of data arise naturally in a variety of
+              disciplines, such as spatial databases, geographic information systems,
+              constraint logic programming, object-oriented databases, statistics, virtual
+              reality systems, and computer graphics.  NASA's Earth Observing System project,
+              the core part of the Earth Science Enterprise (formerly Mission to Planet
+              Earth), produces petabytes (1015  bytes) of raster data per year!  A major
+              challenge is to develop mechanisms for processing the data efficiently, or else
+              much of it will be useless
+The bottleneck in many applications that process
+              massive amounts of data is the 
+Input/Output (or I/O) communication between
+              internal memory and external memory.  The bottleneck is accentuated as
+              processors get faster and parallel processors are used.  Parallel disk arrays
+              are often used to increase the I/O bandwidth.  The goal of this research is to
+              deepen the understanding of the limits of I/O systems and to construct external
+              memory algorithms that are provably efficient.  The three measures of
+              performance are number of I/Os, disk storage space, and CPU time.
+Theoretical
+              work will consist of the development and analysis of provably efficient
+              
+external memory algorithms for a variety of important application areas. 
+              Several batched and on-line geometric problems will be addressed, including
+              real-life problems from environmental applications.  Techniques for innovative
+              use of wavelets in an external memory setting will be explored.  Models and
+              technique will be developed to answer practical issues such as how to design
+              algorithms to be robust to changing memory allocations.  Focus is both on
+              theoretical development and experimental validation.  The TPIE programming
+              environment will be enhanced and used to implement the external memory
+              algorithms that are developed.
+

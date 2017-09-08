@@ -1,0 +1,68 @@
+Title       : Solution of Large Markov Models for Computer Performance and Dependability
+               Analysis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 1,  1994      
+File        : a9215064
+
+Award Number: 9215064
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1993    
+Expires     : December 31,  1995   (Estimated)
+Expected
+Total Amt.  : $119699             (Estimated)
+Investigator: Richard R. Muntz muntz@cs.ucla.edu  (Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,HPCC,
+Abstract    :
+              The ability to evaluate options early in the design phase is                   
+              essential for today's complex computer-communication systems.                  
+              Models are required to be able to specify and analyze designs                  
+              prior to expending large amounts of capital on actual                          
+              construction of the system.  Performance and reliability are                   
+              two of the major criteria for system design evaluation, and                    
+              the main approaches to evaluation are simulation and                           
+              stochastic modeling.  The most widely used class of stochastic                 
+              models is Markov chains.  Markov models have their                             
+              limitations, but where applicable they are generally less                      
+              costly than simulation and also have a theoretical foundation                  
+              that permits one to consider formal error bounds, sensitivity                  
+              analysis, etc.  The main limitation of Markov models is the                    
+              amount of computer memory and processor time required for                      
+              representing and solving the models.  The amount of required                   
+              resources grows very rapidly with the complexity of the model                  
+              and unfortunately, models of real systems are often quite                      
+              complex.  The thrust of this research is to develop analysis                   
+              techniques which greatly extend the range of models that can                   
+              be analyzed with Markov chain numerical methods.  The only way                 
+              to deal with the state space explosion problem is to exploit                   
+              properties of the particular class of problems of interest.                    
+              Although it is often effective to identify and take advantage                  
+              of special problem structures, the success of this research                    
+              will also be judged by the generality of the results, i.e.,                    
+              the ability to handle as wide a class of problems as possible.                 
+                                                                                             
+              The approach taken here is to examine several classes of                       
+              important problems in computer system performance and                          
+              reliability modeling and show that certain properties of each                  
+              of these problem classes suggest methods of analysis that will                 
+              permit computation of tight bounds on the solution of models                   
+              that would be impossible to solve via standard numerical                       
+              solution methods.  The results of this research will provide                   
+              both specific results on a set of applications (dependability                  
+              analysis, load balancing, parallel processing and protocol                     
+              analysis) that are of great interest by themselves but even                    
+              more importantly will contribute to the body of formal                         
+              techniques that will provide the basis for advanced design                     
+              analysis tools.

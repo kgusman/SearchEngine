@@ -1,0 +1,113 @@
+Title       : Particle Simulations in Fluid Dynamics and Molecular Dynamics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 21,  2001    
+File        : a0107187
+
+Award Number: 0107187
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2001  
+Expires     : February 28,  2005   (Estimated)
+Expected
+Total Amt.  : $239500             (Estimated)
+Investigator: Robert Krasny krasny@umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9178,9251,9263,OTHR,SMET,
+Abstract    :
+              Krasny
+0107187
+     The investigator develops new computer algorithms
+              for
+particle simulations in fluid dynamics and molecular dynamics,
+and he
+              employs the algorithms to study important application
+problems.  The main
+              technical tool is a new adaptive treecode
+algorithm for solving the N-body
+              problem in the context of
+long-range particle interactions.  In this
+              algorithm, the particle
+forces or velocities are evaluated using Taylor
+              approximation in
+Cartesian coordinates, and the necessary Taylor coefficients
+              are
+computed by a recurrence relation.  The adaptive features include
+a
+              divide-and-conquer evaluation strategy, nonuniform rectangular
+clusters,
+              variable order approximation, and a run-time choice
+between Taylor
+              approximation and direct summation.  The
+investigator develops an optimal
+              strategy for choosing the
+parameters in the code, in order to maximize the
+              accuracy and
+efficiency of the algorithm.  The application problems to
+              be
+studied in fluid dynamics include the onset of chaotic dynamics
+in vortex
+              cores, high precision computation of vortex sheet
+roll-up and spiral formation
+              in the Kelvin-Helmholtz problem, and
+breakdown and transition in vortex rings.
+               An important component
+of the work is to compare regularized particle
+              simulations with
+experiments and with genuine viscous flows computed by
+              finite
+difference schemes.  The application problems to be studied
+              in
+molecular dynamics involve potential energy and force field
+evaluation for
+              electrostatic interactions.
+     The results of this research affect several
+              areas of
+strategic national interest, including civil and military
+aviation
+              and biotechnology.  One outstanding problem in aviation
+is the simulation of
+              the trailing vortex wake that forms behind
+an aircraft on takeoff and landing.
+               The vortex wake is a serious
+hazard to other aircraft, especially in crowded
+              airports.  It
+imposes a minimum time and distance between takeoffs and
+              landings
+on a given runway, and it is a source of wind shear, which has
+been
+              implicated in accidents.  The project sheds light on the
+structure and
+              dynamics of vortex cores, and this helps
+aeronautical engineers in designing
+              vortex wake remediation
+systems.  In the area of biotechnology, one
+              far-reaching problem
+is to simulate protein folding in a physically accurate
+              way.  This
+is in fact the next step required to make use of the
+              data
+collected in the human genome project.  The project contributes
+              by
+enhancing the computer algorithms that are used by biochemists to
+study
+              protein folding.  In the area of education and human
+resources, the
+              investigator directs an applied honors calculus
+course for freshman science
+              and engineering students, develops a
+new graduate course on scientific
+              computing, and mentors the
+professional development of undergraduate and
+              graduate students
+and postdocs.
+

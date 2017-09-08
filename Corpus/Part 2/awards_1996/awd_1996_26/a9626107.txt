@@ -1,0 +1,77 @@
+Title       : Moving Mesh Methods for Numerical Solution of Time Dependent Partial
+               Differential Equations in Two and Three Spatial Dimensions
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 20,  1997       
+File        : a9626107
+
+Award Number: 9626107
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $57750              (Estimated)
+Investigator: Weizhang Huang   (Principal Investigator current)
+Sponsor     : U of Kansas Main Campus
+	      2385 Irving Hill Road
+	      Lawrence, KS  660447552    785/864-3441
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              9626107  Huang       The investigator develops a moving mesh method for the 
+              numerical solution of two- and three-dimensional time-dependent  PDEs (partial
+              differential equations) that extends the MMPDE  (Moving Mesh PDE) approach
+              introduced by the investigator and his  coworkers for PDEs in one spatial
+              dimension.  With this approach,  an MMPDE is formulated explicitly based upon
+              the heat flow  equation and the theory of harmonic maps.  The MMPDE is employed
+               to move the mesh, to concentrate nodes in regions where the  physical solution
+              has large variations, and to control certain  mesh qualities, in particular the
+              skewness.  Techniques are  investigated to discretize and solve efficiently the
+              extended  system consisting of the underlying physical PDE and the MMPDE.  A 
+              number of related issues are considered - e.g., the computation  of a reference
+              mesh for an arbitrary connected domain, the use of  flow directional control,
+              the study of preconditioning  techniques, the examination of the space-time
+              finite element  method, and the investigation of robustness and reliability of 
+              the method.  Moreover, the method is applied to problems in  airfoil analysis
+              and wing design, moving boundary problems, and  problems involving blow-up
+              solutions.  The new algorithms and  computational techniques are simultaneously
+              implemented in  mathematical software that could find widespread usage among 
+              scientists and engineers.       This project is concerned with the development
+              of new  computational methods that are essential to enhance the ability  of
+              scientists and engineers to solve large scale computational  problems that are
+              crucial to our economy, environment, and  security.  The research is focused on
+              development of so-called  adaptive numerical techniques, where the special
+              features of the  particular problem being solved are adapted to.  More 
+              specifically, the places (mesh points) where the solution to the  scientific
+              problem is being approximated are moved with time to  adapt to the changes in
+              the solu tion.  Mesh adaptation has  recently played an indispensable role in
+              the numerical solution  of the problems, as, supercomputers notwithstanding,
+              such  problems can generally not otherwise be solved satisfactorily.  This is
+              because in many problems of science and engineering,  there is a small portion
+              of the physical domain where large  changes in the solution occur over very
+              small separations in the  mesh.  Numerical solution of these problems using
+              fixed uniform  meshes is formidable because millions of mesh points are
+              required  to resolve the physical phenomena.  On the other hand, use of 
+              adaptive mesh methods can significantly reduce the number of mesh  points and
+              thus economies can be gained.  Unlike other adaptive  mesh methods, the moving
+              mesh method under study changes the mesh  smoothly in time to adapt to the key
+              solution features.  It is  suitable for parallel computing.  The moving mesh
+              method should be  very useful in the numerical simulation of many industrial 
+              manufacturing problems.  A particular area is airfoil analysis and  wing
+              design.  For example, in the airfoil and wing design the  airfoil or wing shape
+              is computed when a pressure distribution is  specified.  It will save computing
+              resources tremendously if the  flow solution and the computational mesh, and
+              hence the airfoil  shape, can be updated simultaneously, as these methods do. 
+              This  advantage holds for a variety of other applications as well, such  as the
+              problem of studying how and why industrial and house fires  start.  The
+              investigator believes that a `moving mesh' approach is  the best way to reduce
+              computing time and improve accuracy, and  that the actual technology transfer
+              for these methods is close at  hand.

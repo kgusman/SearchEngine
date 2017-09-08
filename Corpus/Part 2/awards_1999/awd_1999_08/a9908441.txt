@@ -1,0 +1,57 @@
+Title       : Invariant, Intra-Class Retrieval in Digital Image Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : November 6,  2002   
+File        : a9908441
+
+Award Number: 9908441
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $210999             (Estimated)
+Investigator: Yuan-Fang Wang yfwang@cs.ucsb.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Barbara
+	      Office of Research
+	      Santa Barbara, CA  93106    805/893-4188
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              Many image databases employ image features that describe the aggregate shape and
+              color properties of a class of objects, and hence, are only capable of
+              "inter-classes" discrimination (e.g., airplanes vs. butterflies). These
+              features are sensitive to incidental changes in camera viewpoint and scene
+              illumination, which severely constrain the appearance of query objects. The
+              goal of this project is to design a set of new image-derived features which
+              utilize detailed local image analysis to enable discriminating objects of very
+              similar appearance within the same class (e.g., "intra-class" discrimination of
+              different species of butterflies in a database of butterflies). These new
+              features capture the essential traits of imaged objects in a way that is
+              insensitive to incidental changes in both global environmental factors, such as
+              viewpoint and illumination, and local configuration, such as shape deformation
+              and articulated motion. The project addresses the efficiency and utility issues
+              in deploying these invariant features in large, real-world image databases. In
+              particular, flexible class templates are constructed for automating image
+              segmentation and cataloging of database objects. Invariant image features are
+              organized in a hierarchical manner, using both image-derived and
+              domain-specific information, for efficient pruning of unlikely matches. A
+              representation strategy, which combines global structure models with local
+              invariant features, is used to achieve recognition insensitive to incidental
+              articulated motion and deformation. As a result, the new image features are
+              highly discriminative yet insensitive to incidental changes in shape,
+              viewpoint, and illumination. In  particular, they enable invariant, intra-class
+              image retrieval, i.e., highly precise recognition and retrieval of images in
+              large databases of similar objects (e.g., retrieving images of Old World
+              Swallowtails from a database of butterflies) with few constraints on the
+              appearance of query images. The results of the project will be disseminated by
+              scientific papers, software that can be downloaded, and prototype image
+              databases that can be queried on the Web.  
+http://www.cs.ucsb.edu/~yfwang
+

@@ -1,0 +1,43 @@
+Title       : Postdoc: Quantized First-Principles Quantum Dynamical Simulations of Condensed
+               Matter Systems
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 25,  1997    
+File        : a9704690
+
+Award Number: 9704690
+Award Instr.: Standard Grant                               
+Prgm Manager: Charles H. Koelbel                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $41520              (Estimated)
+Investigator: Gregory A. Voth voth@chemistry.chem.utah.edu  (Principal Investigator current)
+Sponsor     : University of Utah
+	      1471 Federal Way
+	      Salt Lake City, UT  84102    801/581-7200
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4083,9178,9218,HPCC,
+Abstract    :
+              A computational strategy will be used to carry out the first completely
+              quantized first-principles quantum dynamical simulations of condensed matter
+              systems, in which both the electronic and nuclear quantization are effectively
+              included.  The computational strategy combines the Centroid Molecular Dynamics
+              (CMD) approach and the Car-Parrinello  (CP) method within a scalable algorithm.
+               The quantum dynamical information will be obtained by running classical-style
+              CMD trajectories for the quantum particles on an effective,
+              temperature-dependent ab initio potential. The ab initio effective potential
+              will be calculated by performing equilibrium Car-Parrinello quantum
+              path-integral averaging simultaneously with the time-integration of the MD
+              equations. This methodology will be implemented in a parallel CMD algorithm,
+              which should be capable of near linear performance scaling.  A key element in
+              the simulation methodology will be the implementation of a cumulant averaging
+              strategy to significantly reduce the computational workload.  The success of
+              the project will rely on the development of intrisically scalable computational
+              methods implemented on highly parallel computing platforms.

@@ -1,0 +1,41 @@
+Title       : Modular Program Analyses for Higher-Order Programming Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 28,  2001     
+File        : a9619756
+
+Award Number: 9619756
+Award Instr.: Continuing grant                             
+Prgm Manager: Jon S. Rugaber                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1997        
+Expires     : April 30,  2002      (Estimated)
+Expected
+Total Amt.  : $230001             (Estimated)
+Investigator: Matthias Felleisen   (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9619756  The basic goal of the project is to develop an automatic theorem 
+              prover that can reason about properties of programs in high-  level,
+              mathematical programming languages.  The theorem prover  will supply the
+              results of its analysis to programmers by adding  hyperlinks to annotations and
+              drawing diagrams to the program  text.  The annotations will describe sets of
+              values; the diagrams  will explain the anticipated flow of these values.  Both
+              can be  used to understand the program's behavior before it runs.  As a 
+              result, programmers will be able to create programs that either  do not fail at
+              all or only fail at a small, well-defined set of  program points.  While many
+              of the basic properties of such  theorem provers are understood, it is an open
+              question whether  they can be applied to programs of hundreds or thousands of 
+              modules with mutual dependencies.  Hence, the central goal of the  project is
+              to design a modular, scalable proof system, to prove  its correctness, to
+              engineer a suitable programming environment,  and to apply the theorem prover
+              to itself and its programming  environment.  ***

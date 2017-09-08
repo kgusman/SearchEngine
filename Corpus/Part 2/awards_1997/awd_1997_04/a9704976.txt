@@ -1,0 +1,65 @@
+Title       : Numerical Capturing of Multiscale Solutions in Partial Differential Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 5,  1997     
+File        : a9704976
+
+Award Number: 9704976
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2001       (Estimated)
+Expected
+Total Amt.  : $145500             (Estimated)
+Investigator: Thomas Y. Hou hou@ama.caltech.edu  (Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    818/795-4571
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9148,9216,HPCC,MANU,OTHR,
+Abstract    :
+                        Numerical Capturing of Multiscale Solutions in PDEs                   
+               Thomas Y. Hou                    Applied Math                       Caltech   
+                           Abstract of Proposed Research      We propose developing a new
+              finite element method of computing  multiscale and multicomponent problems in
+              composite materials and  porous media.  In this method, the base functions are
+              constructed in  such a way that they contain the local microscopic properties
+              of the  differential operators. These oscillatory bases are independent from 
+              each other and can be constructed independently. In effect, we  break a large
+              scale computation into many smaller and independent pieces,  which can be
+              carried out perfectly in parallel. Thus, the size of  the computation is
+              drastically reduced. Due to this drastic memory saving,  numerical computations
+              of practical problems with  many small scales, which were previously
+              unobtainable using a  traditional finite element method, now become possible
+              using our method.  An advantage of our approach is that it can handle general
+              multiscale  problems without the requirement of scale separation, a property
+              which is very  important for practical applications. Several numerical examples
+              are included  to demonstrate this effect. We will perform a careful numerical
+              error analysis   of our method. The effect of grid resonance, and geometric
+              singularities  of local inclusions, such as corners, cusps, will be analyzed.  
+               Effective numerical simulations of multiscale phenomena play an essential 
+              role in many engineering and industrial applications. A direct numerical  
+              solution of the multiple scale problems is difficult even with modern  
+              supercomputers. The major difficulty of direct solutions is the scale of  
+              computation.  For oil reservoir simulations, it is common that millions of  
+              grid blocks are involved, with each block having a dimension of tens of  
+              meters, whereas the permeability measured from cores is at a scale of several  
+              centimeters. This gives more th an hundred thousands of degrees of freedom per 
+              spatial dimension in the computation.  Therefore, a tremendous amount  of 
+              computer memory and CPU time are required, and they can easily exceed  the
+              limit of today's computing resources. The goal of this proposed research   is
+              to provide a coarsened reservoir model which gives simulation results in  
+              close agreement with those of the original fine scale description but at  
+              considerable computational savings. Many existing up-scaling methods  
+              currently used in the oil industry are based on the homogenization theory  with
+              periodic structures and separable scales. There is no guarantee that   they
+              work for general random permeability without scale separation. In  comparison,
+              our approach is more systematic and general.  We are very hopeful that this
+              proposed research will provide an  effective alternative to perform oil
+              reservoir simulations.

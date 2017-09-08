@@ -1,0 +1,84 @@
+Title       : A Model for Combustion in Strongly Stratified Environments
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 30,  2002      
+File        : a0202485
+
+Award Number: 0202485
+Award Instr.: Continuing grant                             
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2002     
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $274426             (Estimated)
+Investigator: Alvin Bayliss a-bayliss@northwestern.edu  (Principal Investigator current)
+              Ronald E. Taam  (Co-Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              DMS Award Abstract
+Award #: 		0202485
+PI: 			Bayliss, Alvin
+Institution:
+              		Northwestern University 
+Program: 		Applied Mathematics
+Program Manager:
+              	Catherine Mavriplis
+
+Title: A Model for Combustion in Strongly Stratified
+              Environments
+
+We develop and solve numerically a low Mach number model for
+              deflagrations in stellar envelopes. For many stellar environments the Mach
+              number, the ratio of flame or convection speed to the sound speed, is very
+              small (order .01 or less) so that for explicit computations based on full
+              hydrodynamics timesteps are limited by the acoustic speeds, thus requiring
+              excessive computation time to simulate the relatively long timescales
+              associated with the deflagrations and associated convection flows.  Our model
+              filters out the sound waves while accounting for strong vertical pressure
+              stratification (of the order of ten orders of magnitude).  The model is based
+              on initially pre-computing a strongly stratified hydrostatic solution by
+              solving a boundary value problem in the vertical coordinate. The hydrodynamic
+              equations are then expanded about this solution. The resulting system for the
+              velocities and the non-hydrostatic pressure is then expanded in Mach number,
+              effectively filtering out sound waves and yielding a system where timesteps are
+              restricted by fluid and flame speeds rather than the sound speed.  The new
+              model will be applied to the study of convection in the envelope of an
+              accreting white dwarf during a nova outburst.  The model will allow simulation
+              over convective timescales and thus allow a theoretical description of the
+              multi-dimensional nuclear burning development of novae.
+
+We propose to
+              simulate the hydrodynamics of nuclear fluids in a stellar envelope in which
+              sound waves are filtered out.  It is typical of such environments that energy
+              is released via nuclear reactions in a manner similar to terrestrial combustion
+              (nuclear combustion). In many such configurations the flame speed and
+              associated fluid speeds are much smaller than the sound speed. This limits the
+              length of time for which these models can be solved and effectively precludes a
+              simulation of phenomena associated with the burning and convection.  For
+              example, a simulation of burning in a neutron star envelope required
+              approximately 30,000 hours net processor time, i.e., the time for all
+              processors on a parallel Silicon Graphics computer, for  approximately 200
+              milliseconds of simulated time.  For this problem, the burning and convection
+              timescales were of the order of minutes, e.g., about 5 minutes.  Thus, a
+              simulation and computer analysis of such phenomena would be prohibitive using
+              current models. We anticipate that such analyses would be feasible with the
+              proposed new model, because acoustic effects would be eliminated.  The model
+              will be used to study the nature of white dwarf novae, and in particular to
+              resolve competing theories regarding the role of mixing of different species in
+              promoting nova outbursts.  The numerical solution of the model will employ
+              parallel algorithms and computers and thus the project will entail the use of
+              high performance computing to explain observed astrophysical
+              phenomena.
+
+Date: June 21, 2002
+

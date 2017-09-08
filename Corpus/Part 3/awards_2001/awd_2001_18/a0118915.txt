@@ -1,0 +1,63 @@
+Title       : VISUALIZATION: Integrated Compression and Out-of-Core Techniques for Large
+               Time-Varying Data Visualization
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : September 20,  2001 
+File        : a0118915
+
+Award Number: 0118915
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $381992             (Estimated)
+Investigator: Yi-Jen Chiang yjc@poly.edu  (Principal Investigator current)
+              Nasir Memon  (Co-Principal Investigator current)
+              Han-Wei Shen  (Co-Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Scientific Visualization is fast becoming a key technology that provides
+              scientists with insights that enable them to steer their numerical simulations
+              towards solving previously unsolvable problems. However, the size of scientific
+              datasets has witnessed exponential growth in the past few years. This sheer
+              size often makes interactive exploration impossible, as only a small portion of
+              data can fit into main memory at a time and the computation cost is often too
+              high to run in real-time. Despite the importance of time-varying datasets, most
+              previous research has focused on the visualization of steady-state data (i.e.,
+              data with only a single time step). This project will attack the challenges of
+              large input sizes posed by time-varying data visualization. There are two
+              important and promising research directions towards handling large-scale
+              problems: data compression techniques and out-of-core techniques. This project
+              will develop integrated lossless compression and out-of-core techniques for
+              large time-varying data visualization, including isosurface extraction and
+              direct volume rendering. It will mainly consider the class of irregular-grid
+              volume datasets represented as tetrahedral meshes, which often arises in
+              computational fluid dynamics, partial differential equation solvers, and other
+              fields.
+
+Specifically, the project will develop new lossless compression
+              techniques for vertex coordinates and scalar values for tetrahedral
+              time-varying volume data. It will also develop new out-of-core isosurface
+              extraction and direct volume rendering techniques for tetrahedral time-varying
+              volume data, and integrate the compression and out-of-core visualization
+              techniques together under a unified infrastructure. The expected results would
+              be a collection of new techniques and a unified, proof-of-the-concept
+              visualization system that will minimize the disk space requirement and the
+              visualization rendering time cost. If successful, the system will efficiently
+              support full visualization functionalities (isosurface extraction and volume
+              rendering) for time-varying datasets much larger than can fit in main memory,
+              with performance expected to be independent of the main memory size
+              available.
+ 
+

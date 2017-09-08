@@ -1,0 +1,50 @@
+Title       : Dynamically Extensible Computational Reflection
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 10,  1997      
+File        : a9633109
+
+Award Number: 9633109
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $187294             (Estimated)
+Investigator: Daniel P. Friedman dfried@cs.indiana.edu  (Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              Reflection has been explored in an interpreted framework and  has tended to
+              assume the availability of particular pieces  of the state of a program's
+              interpretation, even the current  source code expression. Instead of programs,
+              this research  emphasizes computations as the primary elements of  reflection.
+              The research has two facets. The first is to  formalize and continue the
+              theoretical development of a  system for computational reflection that is free
+              from  interpreter-based constraints. This system supports the  introduction of
+              multiple user-defined reflective properties  that can be designed independently
+              and combined in arbitrary  fashion. Furthermore, new reflective properties can
+              be  introduced after the programs in which they are to be used  have already
+              been compiled. The second facet is to explore  the many uses of such a system.
+              In addition to the simple,  but powerful, uses already explored, the system is
+              expected  to be useful for rapid prototyping of language features, 
+              collaborative software development, and static analysis of  programs for
+              intense optimization.    Prior research in programming with first-class
+              contexts has  investigated the meaning and use of static meta-level  contextual
+              information. The word static here is intended to  refer to that information
+              available in the text of a  program, without running it. The current research
+              extends  the previous work by exploring the meaning and use of  dynamic
+              meta-level contextual information, which is that  information available in the
+              meta-level of a running  process. As in the previous work, this project
+              emphasizes  modularity, allowing many different kinds of meta-level  knowledge
+              to be utilized simultaneously.  ***

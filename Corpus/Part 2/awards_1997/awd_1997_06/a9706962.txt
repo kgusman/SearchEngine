@@ -1,0 +1,39 @@
+Title       : High Performance Memory System: Narrowing the CPU-Memory Speed Gap
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 14,  2001      
+File        : a9706962
+
+Award Number: 9706962
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1997      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $398726             (Estimated)
+Investigator: Gershon Kedem kedem@cs.duke.edu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              In recent years CPU execution speed has increased at a much greater rate than 
+              DRAM access speed.  This disparity has produced a large speed penalty for
+              access  to memory by today's computer systems, which may reach several hundred 
+              instructions within a few years.  Performance of future computer systems may be
+               limited by this effect to the speed of memory rather than the speed of logic. 
+                This project investigates a new memory architecture which reduces the speed
+              gap.   By integrating a small, wide cache on each DRAM IC, expected DRAM access
+              time  will be reduced.  By employing dedicated high-performance connections
+              between  processor and memory, memory-bus latency will be eliminated.  Finally,
+              by  incorporating hardware to predict memory access and prefetch data, DRAM
+              latency  will be further hidden.  These innovations will be evaluated using 
+              architectural-level simulations based on traces of memory-intensive programs.

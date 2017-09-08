@@ -1,0 +1,86 @@
+Title       : ITR/SY: QoS-Aware Execution Environments for Multi-tier Network Services
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 26,  2002    
+File        : a0216977
+
+Award Number: 0216977
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $159942             (Estimated)
+Investigator: Kang G. Shin kgshin@eecs.umich.edu  (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 1652,9215,HPCC,
+Abstract    :
+              
+Modern, componentized Internet services allow server consolidation 
+by
+              sharing common service components. 
+Such sharing can potentially reduce the
+              installation cost, 
+space, and energy consumption.  However, to date, services
+              
+are seldom shared across server applications to avoid
+possible interference
+              between them.  Service providers often run
+multiple instances of shared
+              services, one for each frontend
+service. The only benefit gained thus far,
+              from the deployment of
+multi-tier services is that new services can be
+              composed quickly using
+existing service components. Since these
+              service
+components may execute on different machines, each optimally
+              configured
+for its services, multi-tiered services tend to be more
+scalable
+              than monolithic counterparts.
+
+The proposed research aims to address the
+              shortcoming of current
+OSs in executing multi-tiered services. We will focus
+              on OS extensions 
+that correlate and trace service activities across the tiers
+              of a 
+multi-tiered server farm. We will develop mechanisms for
+              online
+classification of activities (e.g., premium vs.~basic service classes),
+              
+as well as mechanisms that allow system administrators to insulate
+              
+(performance-wise) different service classes even when the 
+activities of
+              different service classes may overlap and 
+share backend services. 
+
+The
+              same OS mechanisms that are used to manage multi-tiered 
+services can be used
+              to analyze the interactions between different 
+tiers and the interferences
+              between different service classes. 
+We will show that a combination of service
+              interaction analysis 
+and service policing minimizes performance invasiveness
+              
+between services/applications. 
+We will also investigate how to improve
+              insulation between 
+services in this environment. 
+We will explore how
+              service implementations may take 
+advantage of an improved OS infrastructure
+              for multi-tiered 

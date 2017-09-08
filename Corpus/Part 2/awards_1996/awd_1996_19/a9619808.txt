@@ -1,0 +1,52 @@
+Title       : Constraint-Based Analysis of Infinite-State Programs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 18,  1997    
+File        : a9619808
+
+Award Number: 9619808
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1997    
+Expires     : June 30,  1999       (Estimated)
+Expected
+Total Amt.  : $135000             (Estimated)
+Investigator: Richard R. Gerber rich@cs.umd.edu  (Principal Investigator current)
+              William Pugh  (Co-Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              9619808  The core technology used in this project is called "model  checking," a
+              term embracing a large family of automated  analysis methods. To date, these
+              methods have been primarily  used in domains like VLSI and protocol
+              verification, i.e.,  problems which possess an inherent finite-state structure.
+               Model-checking has proved less useful for analyzing general,  concurrent
+              programs realized in software, where many basic  properties are undecidable.
+              The PIs are developing  algorithms to help attack this problem, by combining a 
+              variety of techniques used in model-checking, program  analysis,
+              constraint-solving and graph theory. The resulting  methods guarantee
+              convergence by allowing false negatives;  often, these conservative
+              approximations are sufficient to  prove the properties under investigation. To
+              date, the tools  developed in the project have automatically verified some 
+              classical infinite-state programs. Examples are (1) the well  known Bakery
+              Algorithm which handles fair mutual-exclusion  between multiple processes; and
+              (2) FIFO queuing via  circular, N-place buffers, where N is not bounded a
+              priori.  The analysis tools proved relevant safety and liveness  properties in
+              a matter of seconds; the same properties  usually take several hours for
+              advanced students to prove by  hand. The PIs are now developing strategies for
+              scaling  these results. Methods under investigation are (1) finding  more
+              precise approximation techniques, specifically for  abstracting path relations
+              as transitive closures of  infinite programs; (2) developing compositional
+              strategies  to help conquer state-explosion due to concurrency; and (3) 
+              unifying the automatic tools with a "proof shell," to let  the user combine
+              automatic verification results into a  higher-level, global proof structure. 
+              ***

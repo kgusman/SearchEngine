@@ -1,0 +1,78 @@
+Title       : Robust and Scalable On-Line NDP Designs and Applications to Semiconductor
+               Process Optimization
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 21,  2000 
+File        : a0002098
+
+Award Number: 0002098
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  2000    
+Expires     : September 30,  2003  (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Jennie Si si@asu.edu  (Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,1504,OTHR,
+Abstract    :
+              0002098
+Si
+
+Despite all the technical advances today in the fields of
+              micro-processors and control system design, one key component is still missing,
+              the design of a generic learning system (which will be referred to as a
+              'learner' hereafter in the proposal).  The learner will have a final product in
+              the form of either software or hardware that learns to improve its performance
+              through interactions with the environment.  In addition to the lack of an
+              explicit model for the environment, explicit performance feedbacks are delayed,
+              i.e., they are only available at the end of a long sequence of actions and
+              consequences.  A problem of this nature is beyond the scope of classical
+              adaptive control theory.
+
+In recent decades, new schools of thinking
+              represented by Reinforcement Learning (RL) based on Neural Dynamic Programming
+              (NDP) have surfaced.  In this approach, the learner observes an input state
+              (which can be the current state or a predicted future state) and then produces
+              an 'action' or 'control' signal to apply back to the environment. 
+              Consequently, an 'evaluation' signal is created by a critic network to comment
+              on the effectiveness of the action taken .  The goal of learning is to generate
+              optimal actions leading to a maximal reward.  Layered neural networks are the
+              key implementation blocks for the learner.  Neural networks are used to provide
+              both the action signal and the evaluation signal.
+
+Learners have demonstrated
+              their effectiveness in a number of difficult tasks.  However, learners are
+              usually neural networks performing predictive tasks such as generating action
+              values or action evaluation values.  When little is known about the environment
+              or the task, the learner must acquire a system level knowledge to first produce
+              the action and then the evaluation.  This requires the components inside the
+              learner to work together.  Furthermore, how can one implement a human-machine
+              interface for different applications without 'cheating' by letting the learner
+              truly learn on its own and 'on-the-fly'?
+
+This project will address these
+              basic issues, using problems from semiconductor manufacturing as a testbed.  It
+              will seek reliable system designs in the form of mathematical learning
+              algorithms.  It will try to achieve more stability and quicker outcomes from
+              the learner, namely higher success rates with fewer learning trials.  Attention
+              will be paid to the configuration, algorithm parameterization, system
+              input-output and performance measure specification, and all other issues
+              relevant to the learner design.  The learner will develop input releases and
+              queuing policies for an industrial scale semiconductor manufacturing facility. 
+              The purpose of this exercise is to examine the scalability, reliability, and
+              generality of the learner design.
+
+A successful implementation of this
+              research would represent a significant step toward a truly human-like system
+              that learns on its own and improves its performance over time.
+

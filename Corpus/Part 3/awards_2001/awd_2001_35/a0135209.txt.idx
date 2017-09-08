@@ -1,0 +1,58 @@
+Title       : International Workshop on Simulation and Evaluation Techniques for Modern
+               Processors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 12,  2001 
+File        : a0135209
+
+Award Number: 0135209
+Award Instr.: Standard Grant                               
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $20000              (Estimated)
+Investigator: Kevin Skadron skadron@cs.virginia.edu  (Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 9003
+	      Charlottesville, VA  229069003    804/924-0311
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Abstract    :
+              The workshop will consider both short-term and longer-term issues in processor
+              evaluation. The rationale for considering at least some short-term issues is
+              clear: the simulation crisis is already here. Even the SPEC95 benchmarks cannot
+              be run to completion using cycle-accurate simulation. The SPEC2000 benchmarks
+              are substantially longer. A variety of techniques for reducing simulation time
+              are currently in use, yet there is no agreement on which techniques are most
+              appropriate. Some clearly-invalid evaluation techniques are in use simply
+              because there are no alternatives that offer scientifically-valid results with
+              the necessary turnaround times.  We propose to use the following questions as
+              a starting point for discussion.  Metrics: What are the proper metrics to use
+              for various architectural studies?  Benchmarks: What are the appropriate
+              benchmarks to use for various architectural studies in the next 5
+              years?  Abstractions: How can researchers determine when abstractions that
+              accelerate simulation (but may reduce accuracy) are appropriate and when they
+              are not? How can their accuracy and precision be characterized?  Sampling:
+              How/when/whether can researchers use mixed-mode simulations that vary between
+              high and low amounts of detail in a single simulation? How can the accuracy of
+              such simulations be verified?  Sensitivity: How can researchers structure
+              sensitivity studies to determine when a low-level error will translate into
+              large errors, as opposed to when the low-level error's effect will be masked
+              when aggregated into the full simulation?  Validation methods: How can a
+              processor simulation be validated before a similar processor is
+              built?  Hardware assists: How can simulations make use of hardware
+              performance counters and other hardware assists for evaluating next-generation
+              processors (which may have different organizations than the systems from which
+              we are obtaining hardware counts)?  Portability: Processor models are complex
+              and often closely tied to the simulation infrastructure (e.g., SimpleScalar,
+              ATOM) on which they are developed, and once a model has been validated, it
+              becomes expensive to develop new models. Yet different simulator platforms are
+              best suited for different experiments. How can the portability of processor
+              models best be accomplished?  Power: What new simulation questions are raised
+              by the growing interest among architects in power modeling? 

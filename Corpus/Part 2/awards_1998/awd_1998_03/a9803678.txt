@@ -1,0 +1,46 @@
+Title       : Efficiently Implementing Wait-Free Shared Objects on Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  1998      
+File        : a9803678
+
+Award Number: 9803678
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1998     
+Expires     : July 31,  2002       (Estimated)
+Expected
+Total Amt.  : $186628             (Estimated)
+Investigator: Prasad Jayanti prasad.jayanti@dartmouth.edu  (Principal Investigator current)
+Sponsor     : Dartmouth College
+	      11 Rope Ferry Road #6210
+	      Hanover, NH  037551404    603/646-3007
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              The goal of this research is to make it possible for  parallel programs, running
+              on asynchronous shared-memory  multiprocessors, to share data flexibly,
+              efficiently, and  reliably.  Specifically, the research seeks to develop 
+              algorithms for building system software that (1) make it  easy to  implement
+              any shared data structure, (2) ensure  that accesses to  implemented shared
+              data structures are  fast, and (3) ensure that  the implemented shared data 
+              structures are fault-tolerant.  A wait-free implementation  of a shared data
+              structure ensures that the data structure  remains accessible to correct
+              processes even if some  processes in the system crash.  A universal
+              construction is  an algorithm that makes it easy to design a wait-free 
+              implementation of any shared data structure.  To realize the  goal stated in
+              the previous paragraph, this research seeks a  universal construction with low
+              worst-case time complexity  and strong parallelism: concurrent operations run
+              in  parallel even if they access common parts of the data  structure, provided
+              that the commonly accessed parts are  only read, and not modified. Universal
+              constructions often  require strong synchronization operations, such as compare
+              &  swap.  Porting these constructions to weaker architectures  that do not
+              support such operations is another objective of  this research.  A final
+              objective is to understand the intrinsic limitations  of universal
+              constructions.

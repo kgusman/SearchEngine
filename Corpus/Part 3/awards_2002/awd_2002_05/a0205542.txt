@@ -1,0 +1,87 @@
+Title       : ITR: A Framework for Rapid Development of Reliable Robotics Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 11,  2002   
+File        : a0205542
+
+Award Number: 0205542
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $510344             (Estimated)
+Investigator: Paul Hudak paul.hudak@yale.edu  (Principal Investigator current)
+              Walid M. Taha  (Principal Investigator former)
+              Valery Trifonov  (Co-Principal Investigator current)
+              Brian M. Scassellati  (Co-Principal Investigator current)
+Sponsor     : Yale University
+	      P.O. Box 208337
+	      New Haven, CT  065208337    203/432-2460
+
+NSF Program : 1687      ITR MEDIUM (GROUP) GRANTS
+Fld Applictn: 
+Program Ref : 1667,9216,HPCC,
+Abstract    :
+              Taha, Walid
+CCR-0205542
+"ITR:  A Framework for Rapid Development of Reliable
+              Robotics Software"
+
+Robots are entering daily life.  Commercially available
+              systems are
+delivering medication to patients in hospitals, mowing lawns,
+              vacuuming
+floors, and finding wide applications in the entertainment industry.
+               In the future, they will play a more substantial role in areas such as space
+              exploration, health care, and search and rescue.  But as
+these applications
+              grow, so does the complexity of these robots, making
+the reliability of their
+              software and the productivity of their
+programmers a priority. It is not clear
+              that current techniques for
+programming robots are sufficient for building
+              systems that are orders of magnitude more complex than the ones available
+              today.  The vast majority of programming methods in current use focus on
+              high-level planning and task and behavioral aspects.  By contrast, there are no
+              widely-accepted specialized software processes or programming languages for the
+              integrated development of robotics applications.
+
+This project explores the
+              impact of state-of-the-art programming languages techniques in a small-scale
+              robotics setting.  The project applies domain-specific languages methods and
+              automatic program generation techniques.  The framework exploits core
+              technologies such as multi-stage programming with simple, high-level
+              annotations
+to avoid unnecessary runtime overheads yet provide a natural and
+              algorithmic approach to program generation, where generation occurs in a first
+              stage, and the execution of the synthesized program occurs in a second stage.
+              Because (even when the final goal is embedded software) the first stage does
+              not need to be resource-bounded, conventional programming techniques can be
+              used. 
+
+The challenge, then, becomes ensuring that the generated programs are
+              suitable for execution on an embedded platform. Multi-stage languages already
+              provide significant safety guarantees. For example, a program generator written
+              in such a language not only is type-safe in the traditional sense, but we are
+              guaranteed that any generated program will also be type safe.  This provides a
+              noteworthy degree of assurance about the quality of the generated code.  But
+              like most traditional high-level programming techniques, multi-stage
+              programming was designed to satisfy functional requirements rather than
+              operational ones, and existing multi-stage languages do not provide any
+              guarantees about the behavior of programs in the presence of bounded resources.
+               The focus of this project is ways to address this problem by
+              strengthening
+``traditional'' multi-stage type systems using a number of
+              state-of-the-art techniques from type theory and functional reactive
+              programming (FRP) to create resource-aware multi-stage programming. Linear and
+              alias types (in conjunction with dependent typing) will be used to ensure
+              space-boundedness, new typing techniques are used to ensure time-boundedness,
+              and signals and behaviors from FRP allow for a natural style of reactive
+              programming.
+

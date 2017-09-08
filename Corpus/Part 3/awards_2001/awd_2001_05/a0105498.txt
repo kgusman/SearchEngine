@@ -1,0 +1,87 @@
+Title       : Competitive Analysis of Online Algorithms for Computer Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 18,  2001 
+File        : a0105498
+
+Award Number: 0105498
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $164041             (Estimated)
+Investigator: Sandra Irani irani@ics.uci.edu  (Principal Investigator current)
+Sponsor     : U of Cal Irvine
+	      300 University Tower
+	      Irvine, CA  926977600    949/824-4768
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 0000,9216,OTHR,
+Abstract    :
+              
+Project Title: Competitive Analysis of Online Algorithms for Computer
+              
+Systems
+
+This research focuses on algorithms that work
+with limited
+              information. Each topic is motivated by an application
+in on-line resource
+              allocation in computer systems and is studied
+using theoretical analysis as
+              well as empirical evaluation.
+The first topic is focuses on
+designing
+              protocols for power management.
+The second topic  of this research addresses
+              problems
+that arise in scheduling and load balancing for multimedia
+              servers.
+The third topic focuses on the problem of balancing the use
+              of
+bandwidth and storage in caching continuous multi-media objects
+for Web
+              proxy servers.
+
+
+For the power management topic, the question addressed is
+              when to move
+an idle  device to a lower power consumption state so as
+              to
+conserve power usage while minimizing the latency experienced by the
+user.
+               The investigator expands upon previous work on power management
+              by
+introducing the notion of latency and by studying systems with
+              multiple
+levels of power usage.  The work on multimedia scheduling and
+              load
+balancing focuses on two problems.  The first is scheduling
+              transmission
+of data that must be viewed continuously when clients have
+              large
+buffers that can store data transmitted ahead of time.
+The second
+              problem is to perform load balancing in assigning
+tasks to servers when there
+              are multiple resource requirements
+that need to be balanced. For the topic of
+              caching continuous
+multi-media objects for Web proxy servers, the
+              challenge
+is that continuous data must be transmitted to the client in
+              a
+continuous sequential stream. To support the real time requirements
+of
+              streaming, web caches need to reserve bandwidth as well as space
+for each
+              request for a continuous data object.
+This research investigates algorithms
+              for balancing these
+two resources.

@@ -1,0 +1,58 @@
+Title       : Scalable Multilevel Algorithms in Computational Sciences
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 29,  2002      
+File        : a0072112
+
+Award Number: 0072112
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2000       
+Expires     : June 30,  2004       (Estimated)
+Expected
+Total Amt.  : $446124             (Estimated)
+Investigator: Tony F. Chan chan@math.ucla.edu  (Principal Investigator current)
+              Wing L. Wan  (Co-Principal Investigator current)
+              Timothy J. Barth  (Co-Principal Investigator current)
+              Bjorn Engquist  (Co-Principal Investigator current)
+Sponsor     : U of Cal Los Angeles
+	      10920 Wilshire Blvd.
+	      Los Angeles, CA  900241406    310/794-0102
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,HPCC,
+Abstract    :
+              Solvers for Partial Differential Equations (PDEs) are the backbone of much of
+              scientific computing. In particular, they are the basis of Computational Fluid
+              Dynamics (CFD), the modeling of liquid and gas flows. This project studies new,
+              efficient methods for solving PDEs and implements those methods on modern
+              high-performance parallel computers. These solvers are useful in areas other
+              than their original CFD home - in particular, surprising applications to
+              diverse areas such as image restoration and VLSI placement will be studied as
+              well.
+
+Technically, this project will investigate efficient algebraic
+              multiscale algorithms for elliptic and non-elliptic PDE and CFD problems on
+              arbitrary unstructured meshes which are suitable for distributed and shared
+              memory parallel computing architectures. In addition, it will study how these
+              algorithms can be extended to other large scale non-PDE problems, including
+              image restoration and VLSI placement problems. Three aspects of these
+              multiscale algorithms will be emphasized in this work: (1) Issues arising from
+              making these algorithms more algebraic (for ease of use) including robustness
+              to anisotropy, jumps and oscillations in coefficients, homogenization, etc. (2)
+              Extension of these algorithms from their normal elliptic setting to
+              non-elliptic and more generally non-PDE, graph-based settings. (3) Performance
+              on modern high performance computer architectures with particular attention
+              paid to communication and cache memory latency. Particular attention will be
+              placed on algorithms appropriate for solving discretization matrices arising
+              from a variety of large scale scientific computing problems such as CFD for
+              advection dominated problems, VLSI placement an image processing. The
+              non-elliptic behavior of these practical problems renders the known multilevel
+              theory inadequate and serves to motivate a balanced effort consisting of
+              algorithmic development, theoretical analysis, and practical application.
+

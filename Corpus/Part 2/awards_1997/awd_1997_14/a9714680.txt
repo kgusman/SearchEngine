@@ -1,0 +1,65 @@
+Title       : A Scalable and Robust Multicast Architecture for the Internet
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 21,  1998       
+File        : a9714680
+
+Award Number: 9714680
+Award Instr.: Standard Grant                               
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : October 1,  1997    
+Expires     : March 31,  1999      (Estimated)
+Expected
+Total Amt.  : $320000             (Estimated)
+Investigator: Virginia M. Lo lo@cs.uoregon.edu  (Principal Investigator current)
+              David M. Meyer  (Co-Principal Investigator current)
+              Arthur M. Farley  (Co-Principal Investigator current)
+              Marilynn L. Livingston  (Co-Principal Investigator current)
+              Andrzej Proskurowski  (Co-Principal Investigator current)
+Sponsor     : U of Oregon Eugene
+	      5219 University of Oregon
+	      Eugene, OR  974035219    541/346-5131
+
+NSF Program : 4095      SPECIAL PROJECTS IN NET RESEAR
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                 A critical challenge for development of the Internet is how to support
+              efficient and effective multicast communication in response to the intense pace
+              of growth of the Internet and the concomitant demand for communication services
+              from its users. Current multicast protocols, while well-suited to local or
+              smaller scale communication, have suffered from serious shortcomings with
+              respect to scalability, stability, and inter-domain coordination.    Our
+              approach to the multicast routing problem involves the introduction of new
+              graph theoretic structures as underlying abstract communication topologies for
+              multicast and the integration of these new structures with current
+              technologies.  There are two key elements to our new multicast architecture: 
+              a) 3-layer hierarchical multicast protocol  and b) a virtual topologies model. 
+              Together these two elements provide a flexible architecture for multicast that
+              has the potential to overcome the shortcomings described above.    In this
+              proposal, we focus on the virtual topologies element of the architecture.
+              Certain graph structures have great potential to serve as underlying topologies
+              for multicast communication, due to properties of connectivity, symmetry,
+              limited vertex degree, and small diameter.  Under the proposed model, an
+              abstract communication topology, such as the k-tree or the k-ary n-cube, is
+              used as basis for the execution and routing of the multicast protocols.  The
+              mapping of the virtual topology to physical routes in the Internet occurs
+              dynamically, as is done under current, shared-tree approaches to multicasting. 
+              More robust topologies can be expected to provide greater flexibility and fault
+              tolerance than simple tree structures.  Scalability comes from the fact that
+              these virtual topologies are limited to intradomain application.  Our proposed 
+              3-level, hierarchical multicast protocol follows the Internet domain structure,
+              interconnecting domain-specific virtual topologies into an overall multicast
+              structure.    We plan to develop new pr otocols for multicast under the
+              architectural model described above and to test their feasibility and
+              performance through simulation.  Our interdisciplinary team of researchers in
+              graph theory, parallel computing, and networking brings a new synergy to the
+              multicast problem.  Our theoretic work will be guided by an understanding of
+              the pragmatic issues involved in today's Internet protocols.  We hope to define
+              and develop fundamental new multicast structures and algorithms that can
+              ultimately serve as the foundations for a realistic, effective multicast
+              architecture for the Internet.

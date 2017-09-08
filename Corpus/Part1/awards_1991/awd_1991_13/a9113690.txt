@@ -1,0 +1,52 @@
+Title       : Shape from Shading Without Regularization
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 9,  1993     
+File        : a9113690
+
+Award Number: 9113690
+Award Instr.: Continuing grant                             
+Prgm Manager: Howard Moraff                           
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : February 28,  1995   (Estimated)
+Expected
+Total Amt.  : $252000             (Estimated)
+Investigator: John Oliensis   (Principal Investigator current)
+              Allen R. Hanson  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,
+Abstract    :
+              Shape from shading is a central, difficult problem of machine                  
+              vision.  Although its formulation is precise, its solution has                 
+              usually been considered ill-posed, possible only with additional               
+              assumptions.  In recent papers, however, the PIs gave the first                
+              proof that shape form shading is not only well-posed but solvable              
+              uniquely, for general objects, when the illumination is from the               
+              direction of the camera.  For general illumination direction, it               
+              was shown that the solution is determined effectively up to a                  
+              finite ambiguity.  Thus, regularization the standard technique                 
+              for selecting a single `physically reasonable' surface solution                
+              by imposing additional requirements such as smoothness is                      
+              generally unnecessary.  The aim of the proposed research is to                 
+              develop and implement algorithms for surface reconstruction                    
+              without regularization, which, unlike previous algorithms, will                
+              explicitly utilize the strong constraints on the surface                       
+              solutions that make shape from shading well posed.  Through                    
+              exploiting these constraints, the algorithms may be fast and                   
+              robust.  Two of the four algorithms proposed are non-variational               
+              unlike most previous ones, and are based on the novel                          
+              mathematical techniques of the viscosity solution, and dynamical               
+              systems theory.  The long term aim is to combine shape from                    
+              shading algorithms with techniques using other information, such               
+              as sparse depth data, for robust surface reconstruction from                   
+              shaded images.//

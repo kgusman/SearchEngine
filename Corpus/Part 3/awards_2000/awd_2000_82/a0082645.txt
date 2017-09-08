@@ -1,0 +1,58 @@
+Title       : ITR: Reduced Basis Methodologies for Computation, Analysis and Visualization of
+               Bio-Molecular Simulations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 3,  2002        
+File        : a0082645
+
+Award Number: 0082645
+Award Instr.: Continuing grant                             
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $420001             (Estimated)
+Investigator: Danny C. Sorensen sorensen@caam.rice.edu  (Principal Investigator current)
+              George N. Phillips  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              `The PIs will investigate and develop software and computational methods to
+              address one of the most challenging current problems in molecular dynamics (MD)
+              simulations - large proteins, consisting of tens of thousands of atoms in
+              solution over the physiological range of at least a microsecond of folding
+              time.  This will be accomplished using a reduced basis approach based on
+              singular value decomposition (SVD) of the MD trajectory.
+
+The work will
+              entail:
+
+- developing a block SVD updating scheme that will enable new
+              trajectory information to be adjoined to a current truncated SVD approximation
+              to a prior trajectory and avoid having to store the entire trajectory 
+-
+              developing, analyzing, and implementing a reduced basis integrator that will
+              work in concert with the SVD updating scheme to compute the reduced basis
+              simulation more rapidly
+- adapting the fast marching algorithms developed for
+              latent semantic indexing to develop the rapid graphical query tools to locate
+              sites that potentially match local structures of interest
+- developing the I/O
+              support and visualization capabilities to handle the extremely large data
+              manipulation and representation problems that will be generated
+
+The result
+              of the research will be an efficient time integration scheme that can
+              drastically limit storage and yet resolve detail on multiple scales.  It will
+              be demonstrated on a fully solvated protein molecule over a time scale of a
+              microsecond, and the high order, low frequency motions will be visualized.
+

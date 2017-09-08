@@ -1,0 +1,56 @@
+Title       : Priority Encoding Transmission
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 9,  1998  
+File        : a9416101
+
+Award Number: 9416101
+Award Instr.: Continuing grant                             
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1999        (Estimated)
+Expected
+Total Amt.  : $319920             (Estimated)
+Investigator: Andres Albanese aa@icsi.berkeley.edu  (Principal Investigator current)
+              Michael Luby  (Co-Principal Investigator current)
+Sponsor     : Internationl CompSci Inst
+	      1947 Center Street
+	      Berkeley, CA  947041105    510/666-2900
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              9416101  Albanese       This encoding technique was motivated by a trial
+              offering a  low cost "Best Effort" ATM/Cell Relay Service. The service is being
+               used to explore applications for ATM services with unpredictable 
+              (no-guarantees) Quality Of Service (QOS).  An initial contribution  was
+              submitted to the Enterprise Network Roundtable (ENR) user group  of the ATM
+              Forum describing the feasibility of a video multicast  application over
+              Unspecified Bit Rate (UBR) services.  Our  contribution proposes to implement a
+              new, optional and selective  multilevel Forward Error Correction (FEC) method
+              in the application  layer based on information priority levels versus having a
+              fixed  FEC implementation in the lower layers.       Preliminary research has
+              consisted in software simulation and  initial implementations of PET systems
+              using deterministic  algorithms like polynomial and linear independent
+              equations over  finite fields.  These algorithms are quadratic in complexity
+              and  the message-size/packet-size ratio limits its application to  recovering
+              IP packet losses only.        Proposed work includes: 1) exploring firmware
+              implementations  and the use of probabilistic algorithms to achieve faster
+              software  implementations required to recover IP packets and ATM cell losses 
+              in real-time MPEG-2 and JPEG video streams, where delay is a key  issue for
+              interactive applications;  2) exploring mechanisms based  on user priorities
+              for network routers to discard/filter large  amounts of packets that could
+              cause congestion in low performance  networks and receivers during video
+              multicast transmission by high  performance workstations, 3) realizing
+              performance analysis based  on benchmark studies consisting of tests and
+              measurements done in  heterogeneous wide area network (MBone/Internet/ATM)
+              scenarios; and  4) in collaboration with researchers at UC Berkeley and local 
+              industries, investigating integrating PET systems into specific  applications
+              such as MPEG-2.  ***

@@ -1,0 +1,76 @@
+Title       : Moving Node Finite Element Methods
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 5,  1997     
+File        : a9706768
+
+Award Number: 9706768
+Award Instr.: Standard Grant                               
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1997     
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Neil Carlson   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9216,9263,HPCC,
+Abstract    :
+              9706768   Neil N. Carlson     ABSTRACT (Moving Node Finite Element Methods)   
+              The gradient-weighted moving finite element method (GWMFE) is an adaptive 
+              method well-suited to problems which develop sharp moving fronts, especially 
+              those problems where one must resolve the fine-scale structure of the front. 
+              Three works related to the method are planned.  First, development of GWMFE  in
+              3-D will continue.  The recently completed scalar code will be extended  to
+              systems of equations and the direct linear solver will be replaced by 
+              iterative techniques based on the work of Miller and Xaba.  The code will be 
+              applied to a variety of difficult PDEs and PDE systems: Stefan-type problems, 
+              drift-diffusion equations from semiconductor device modeling, the time 
+              dependent Ginzburg-Landau equation, are some possible examples.  A parallel 
+              version of the code will also be developed.  Second, a new moving mixed finite 
+              element method will be implemented in 2-D and 3-D.  Here, in the spirit of  the
+              mixed finite element method, the diffusive flux is approximated in an 
+              independent finite element space (BDM or RT) and a coupled system of ODEs  is
+              then obtained via the same variational argument used in the moving finite 
+              element method.  This new method gives a more rigorous treatment of diffusion 
+              terms, and in 1-D gives superior grid adaptivity.  Third, in collaboration 
+              with Miller (Berkeley), global adaptivity will be added to GWMFE in 2-D.  This
+              global adaptivity will be achieved through the periodic addition,  deletion,
+              and reconnection of nodes based upon geometric criteria, which  are easily
+              identifiable through simple eigenvalue analysis, and upon local  projection
+              error estimates.  This complements the very fine local adaptivity  GWMFE
+              achieves through the continuous motion of its nodes, and is essential  for a
+              robust method.    Many physical processes are modeled by partial differential
+              equations.  A solution of such an equation might give, for example, the
+              concentration of  of arsenic in a semicon ductor substrate at each instant of
+              time and each  point in one, two, or three dimensional space.  Because it is
+              generally  impossible to find the exact solution of such an equation,
+              approximate  solutions must be sought using some computer-based technique.  For
+              a large  class of difficult problems standard techniques are extremely wasteful
+              and  inefficient, making computations in two, and especially three, dimensions 
+              very difficult if not altogether impossible.  More sophisticated adaptive 
+              techniques seek to overcome this difficulty.  The gradient-weighted moving 
+              finite element method (GWMFE) is one such technique, and it offers some 
+              significant advantages over more conventional adaptive methods.  This project 
+              seeks to advance GWMFE and related methods in several directions.  First,  a
+              full implementation of GWMFE in the computationally challenging three 
+              dimensional case will be completed, and applied to a variety of challenging 
+              problems.  Second, a variant of the method which gives a more accurate 
+              treatment of some problems will be investigated.  And last, a complementary 
+              global adaptivity will be added to GWMFE in two dimensions which will 
+              substantially enhance the robustness of the method.  GWMFE has been applied  to
+              a variety of difficult problems with great success, including problems  from
+              semiconductor device manufacture and device simulation, groundwater  transport
+              and oil reservoir engineering, and time dependent models of  superconductors. 
+              Being able to computationally model problems like these  is becoming ever more
+              important to scientists and engineers.  GWMFE shows  great promise in making
+              some of these difficult problems efficiently  computable in two and three
+              dimensions, some of which are currently  inaccessible with existing techniques.

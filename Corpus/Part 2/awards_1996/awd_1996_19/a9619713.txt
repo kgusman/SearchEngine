@@ -1,0 +1,52 @@
+Title       : Adding Domain Knowledge to Inductive Learning Methods for Classifying Texts
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : January 2,  2001    
+File        : a9619713
+
+Award Number: 9619713
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1997 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $162825             (Estimated)
+Investigator: Kevin D. Ashley ashley+@pitt.edu  (Principal Investigator current)
+Sponsor     : U of Pittsburgh
+	      4200 Fifth Avenue
+	      Pittsburgh, PA  152600001    412/624-4141
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,HPCC,
+Abstract    :
+              The research focuses on improving current methods for learning to classify texts
+              by incorporating knowledge from an expert domain model. The goal is
+              automatically to classify the texts of legal opinions in terms of the factors
+              that apply to the cases described. Factors -- stereotypical fact patterns
+              tending to strengthen or weaken the underlying legal claims in a case, and
+              their relations to legal issues -- are a kind of expert domain knowledge useful
+              in legal argumentation. The program takes as inputs the raw texts of legal
+              opinions and assigns as outputs the applicable factors. The program's training
+              instances are drawn from a corpus of legal opinions whose textual descriptions
+              of cases have been represented manually in terms of factors. The problem is
+              hard because the language of the opinions is complex; the mere fact that an
+              opinion discusses factors does not necessarily imply that those factors
+              actually apply to the case. Starting with several existing inductive and
+              statistical learning algorithms, this research assesses whether adding four
+              different kinds of domain knowledge improves the algorithms' performance: (1)
+              domain knowledge about factors and the legal issues to which they relate; (2)
+              general information about the structure of legal opinions; (3) information
+              about the statutes quoted in an opinion; (4) information about those cases
+              cited in an opinion whose factors are known. The work also explores (a) how to
+              combine inductive and analytical techniques to deal with small numbers of
+              training instances and (b) how best to combine successful inductive,
+              statistical, and knowledge-based methods. Using domain knowledge to guide
+              automatic text classification integrates information retrieval, machine
+              learning and AI knowledge-representation techniques, will help scale up
+              case-based reasoning systems, and alleviate the problem of assessing the
+              relevance of texts in increasingly large on-line databases.

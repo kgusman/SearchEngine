@@ -1,0 +1,112 @@
+Title       : Computation of Nearly Singular Integrals with Applications to Fluid Dynamics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 2,  2001     
+File        : a0102356
+
+Award Number: 0102356
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $165499             (Estimated)
+Investigator: J. Thomas Beale beale@math.duke.edu  (Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              0102356
+Beale
+
+The proposed work is concerned with the development of
+              improved 
+methods for computing singular or nearly singular integrals, and
+              with 
+applications to numerical methods for simulating fluid flow with moving
+              
+boundaries.  In many scientific problems, quantities of interest can be
+              
+written in terms of integrals such as a double layer potential on a
+              
+boundary. When such an integral is evaluated near the boundary, usual
+              
+quadrature rules are inaccurate because of large derivatives in the
+              
+integrand. It is desirable to calculate such values in a way that is simple
+              
+and efficient, without requiring a special choice of quadrature points. The
+              
+present approach uses regularization of the singularity and a standard
+              
+quadrature rule, followed by local corrections derived from asymptotic
+              
+analysis.  This technique will be used to design an alternate version of the
+              
+immersed boundary method of C. Peskin, a computational method which 
+has
+              been used to model various biological processes. In this method 
+viscous,
+              incompressible fluid is influenced by a membrane or interface 
+which exerts a
+              force on the fluid.  In two dimensions, the force can be 
+expressed in terms
+              of nearly singular integrals to which the proposed 
+approach can be applied. 
+              It is hoped that this modification will extend the 
+usefulness of the immersed
+              boundary method in realistic applications.  
+Application may also be made to
+              methods for computing flow with 
+moving boundaries separating different
+              fluids.  The technique for nearly 
+singular integrals will be extended to
+              surface integrals in three-space, 
+generalizing work already done for marker
+              points on surfaces.  Related 
+work will concern interfaces in inviscid,
+              potential flow using improved 
+regularizations of boundary integrals.
+
+Many
+              scientific processes involve moving boundaries, for example, the 
+boundary of
+              a drop of one fluid moving through another, or a membrane in 
+living tissue. 
+              Numerical models of such processes encounter special 
+difficulties, since it
+              is simplest to compute quantities at a set of points 
+which are regularly
+              spaced and unchanging.  There are presently several 
+numerical approaches
+              which avoid changing fundamentally the way the 
+region is approximated at each
+              new time. In some cases important 
+quantities can be written as integrals over
+              boundaries.  These integrals 
+arise as solutions of differential equations and
+              are usually singular, or 
+nearly singular; that is, large values appear,
+              representing the strong 
+interaction of nearby points, as in the inverse
+              square law of gravity.  
+Special techniques are needed to calculate such
+              integrals accurately and 
+efficiently.  This proposal is concerned with the
+              development and 
+application of methods of this type.  The use of integral
+              representations to 
+modify the design of existing methods for computing fluid
+              motion with 
+moving boundaries might improve the ability of these numerical
+              methods 
+to make reliable predictions.
+

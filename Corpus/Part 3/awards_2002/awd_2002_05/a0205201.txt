@@ -1,0 +1,78 @@
+Title       : ITR/AP: Collaborative Research - Enabling Microscopic Simulators to Perform
+               System-Level Analysis
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : August 1,  2002     
+File        : a0205201
+
+Award Number: 0205201
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 15,  2002    
+Expires     : July 31,  2005       (Estimated)
+Expected
+Total Amt.  : $290020             (Estimated)
+Investigator: Triantafillos J. Mountziaris tjm@eng.buffalo.edu  (Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+Program Ref : 0000,1403,1687,OTHR,
+Abstract    :
+              Research:
+
+An interdisciplinary research team, at four universities, is
+              collaborating on this medium-size Information Technology Research (ITR) project
+              aimed at systematically bridging the gap between microscopic descriptions of
+              complex material systems and systems-level analysis of direct engineering
+              importance.  A mathematics-assisted computational methodology will be developed
+              that will enable microscopic-level simulators to perform systems-level analysis
+              directly, without the need to pass through an intermediate level description of
+              the material system through macroscopic (partial differential or
+              integro-differential) evolution equations.  Specifically, an ensemble-averaged
+              "coarse" time-stepper-based computational superstructure will be "wrapped
+              around" state-of-the-art microscopic dynamic simulators, such as molecular
+              dynamics, kinetic Monte Carlo, Lattice-Boltzmann or hybrid codes.  This
+              methodology will enable microscopic simulators to perform advanced
+              systems-level analysis: stability, bifurcation, "coarse" integration,
+              sensitivity, and control tasks, of complex, nonlinear distributed processes. 
+              The planned algorithms will run on massively parallel machines.
+
+The
+              computational framework will consist of the following basic elements: (i)
+              choice of statistics of interest (e.g. distribution moments) for describing the
+              coarse behavior; (ii) "lifting" of a macroscopic initial condition to an
+              ensemble of consistent microscopic configurations; (iii) evolution over the
+              same (short) time period of each initial microscopic configuration in the
+              ensemble according to a microscopic simulator that embodies the best current
+              description of the physical system; (iv) averaging ("restriction") over the
+              ensemble of the evolved microscopic configurations to provide a macroscopic
+              evolved system state; and (v) execution of the previous three steps over a
+              finite set of macroscopic initial conditions.  This new approach is robust in
+              its implementation and portable in its range of scientific and engineering
+              applications.  It has general applicability to all systems for which a
+              macroscopic description is conceptually possible, yet unavailable in closed
+              form.  It circumvents the difficulty in obtaining and closing such macroscopic
+              models, while computationally extracting precisely the information that would
+              be obtained by a macroscopic model, had the model been available in closed
+              form.  This provides the link between ITR and a spectrum of application
+              areas.
+
+Impact:
+
+The impact of the research will be on establishing a
+              powerful and general link between state-of-the-art microscopic-level
+              simulations and fast systems level analysis capabilities.  Although the
+              research focuses on specific problems in heterogeneous hard materials and
+              complex fluids, the computational framework is applicable to a broad range of
+              complex systems, including biological systems, their processing and function. 
+              Since it has the potential to revolutionize engineering systems-level analysis,
+              it could have educational impact as well as furthering advances in
+              microelectronics, bioinformatics and nanotechnology.
+

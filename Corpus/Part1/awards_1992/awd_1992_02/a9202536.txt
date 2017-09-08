@@ -1,0 +1,73 @@
+Title       : Problem Solving Environments and Methods for the Developmentof PDE Based
+               Applications on Parallel Machines
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 19,  1994      
+File        : a9202536
+
+Award Number: 9202536
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1992 
+Expires     : February 28,  1997   (Estimated)
+Expected
+Total Amt.  : $460000             (Estimated)
+Investigator: Elias N. Houstis   (Principal Investigator current)
+              John R. Rice  (Co-Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 0000,2865,9216,OTHR,
+Abstract    :
+              This research project has three technical thrusts:                              
+                                                                                             
+                  1.  The design of knowledge based PSEs (Problem Solving                    
+                      Environments) for PDE (Partial Differential                            
+                      Equation) based applications.                                          
+                                                                                             
+                  2.  The development of a software engineering framework                    
+                      for solving PDE problems quickly and efficiently on                    
+                      a network of parallel machines with multimedia                         
+                      front-ends.                                                            
+                                                                                             
+                  3.  The development of an infrastructure of scalable                       
+                      algorithms to support the solution of certain                          
+                      PDEs on a variety of massively parallel machines.                      
+                                                                                            
+              PDEs are the fundamental mathematical tools for describing the                 
+              physical behavior of many application processes in science and                 
+              engineering.  Most of the existing PDE software systems deal                   
+              primarily with the solution of specific classes of PDE                         
+              problems on sequential or vector machines.  This project will                  
+              study the design and implementation of the software                            
+              engineering platform, ParPDElab, for generating PSEs and the                   
+              related algorithmic infrastructure for any class of PDE                        
+              problems and PDE based applications.  The hardware facility                    
+              assumed consists of a network of parallel processors with                      
+              different architectures and software environments.                             
+                                                                                             
+              The primary design goal in ParPDElab is to create a problem                    
+              solving and programming environment that shifts the emphasis                   
+              from programming and hardware issues to the analysis of                        
+              science and engineering issues.  This environment will be                      
+              almost machine independent and will attempt to unify some of                   
+              the well known parallel computational paradigms.  It will be                   
+              knowledge based in the sense that it will be aware of its                      
+              infrastructure and the compatibility requirements of the                       
+              atomic elements involved.  Furthermore, it will be capable of                  
+              making some decisions for the user.  The system will be open                   
+              ended and the easy interfacing of foreign systems will be one                  
+              of the primary considerations in the design of ParPDElab.  To                  
+              achieve the above design objectives, one must address the                      
+              issue of integration of numeric, symbolic, multimedia, and AI                  
+              processing.  This integration will be attempted by utilizing                   
+              existing technologies while developing some new methodologies                  
+              for the future.

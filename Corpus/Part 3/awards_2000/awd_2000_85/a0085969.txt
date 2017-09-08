@@ -1,0 +1,77 @@
+Title       : ITR: Adaptive Software for Field-driven Simulations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : October 3,  2002    
+File        : a0085969
+
+Award Number: 0085969
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $5000000            (Estimated)
+Investigator: Keshav Pingali pingali@cs.cornell.edu  (Principal Investigator current)
+              Bharat K. Soni  (Co-Principal Investigator current)
+              Joe F. Thompson  (Co-Principal Investigator current)
+              Stephen A. Vavasis  (Co-Principal Investigator current)
+              Anthony R. Ingraffea  (Co-Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1661,4080,9216,HPCC,
+Abstract    :
+              Successful life forms in nature adapt to changes in the environment in ways that
+              improve the efficiency of their activities or enhance their chances for
+              survival. In the context of computer software, opportunities for adaptation
+              arise from changes in the computational needs of an application as it executes,
+              changes in availability of resources, failure of hardware, etc. However, most
+              software today does not adapt to such changes, so its efficiency and
+              survivability may be far from optimal. This project will develop general
+              principles for building software systems that can adapt to such changes, and
+              will demonstrate the validity of those principles by building prototype
+              applications.
+
+Progress in this area can only by made by focusing on a
+              particular application domain that requires adaptive software, and assembling a
+              team of applications researchers and computer scientists to tackle the problems
+              in that domain at all levels. This project brings together a strong
+              interdisciplinary team to focus on Computational Field Simulation (CFS). In
+              particular, it will focus on computational fracture mechanics and reactive,
+              multiphase fluid flows, both of which have an enormous number of opportunities
+              for adaptive methods. These adaptations can be classified into three distinct
+              categories.
+Application-level adaptivity. A variety of mathematical models may
+              be available to describe the science of a problem, and it may be advantageous
+              to switch adaptively between them to trade accuracy for time or other
+              resources.
+Algorithm-level adaptivity. There are often multiple algorithms for
+              solving a given model (e.g. direct or iterative methods for solving linear
+              equations), and it may be advantageous to switch adaptively between them to
+              manage resource availability or properties of the desired output.
+System-level
+              adaptivity. The computational environment may change (e.g. more processors may
+              become available or some communications links may fail), and the computation
+              must adapt to these changes or risk crashing or taking significantly more time
+              than necessary.
+This project argues that a general architecture designed to
+              exploit these opportunities must have a set of interoperable components on a
+              software bus, hardware/software sensors for monitoring stimuli, and control
+              modules for orchestrating the components in response to the stimuli. It will
+              undertake algorithmic research in each of the component areas, and will
+              synthesize complete adaptive codes from the components using ideas similar to
+              those in hardware synthesis. Adaptivity will be exploited at all levels in the
+              resulting software. The project finally hopes to abstract a general theory of
+              adaptive software systems from its experience in building such systems for
+              field-driven simulations.
+
+
+
+

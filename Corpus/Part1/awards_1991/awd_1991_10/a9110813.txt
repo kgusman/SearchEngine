@@ -1,0 +1,47 @@
+Title       : Flexible Distributed Concurrency Control by Reasoning about Transactions
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : May 27,  1993       
+File        : a9110813
+
+Award Number: 9110813
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $64000              (Estimated)
+Investigator: Charles P. Elkan elkan@cs.ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9264,
+Abstract    :
+              Increased intelligence and flexibility in a distributed database               
+              system are achieved in this project using new automated reasoning              
+              algorithms.  In particular, concurrency control is done by                     
+              logical analysis of updates and queries to determine whether they              
+              conflict.  The specific focus of the project is the design and                 
+              implementation of a new database system that is fully distributed              
+              in the sense that neither concurrency control nor any other                    
+              function are necessarily performed at a central site.  Fully                   
+              distributed concurrency control is achieved by explicit agreement              
+              between sites as to which transactions may proceed, which should               
+              be delayed, and which should be restarted.  Explicit common                    
+              knowledge of active transactions allows the system to adapt                    
+              heuristically to changing patterns of access to the shared                     
+              database.  This explicit common knowledge is achieved by                       
+              syntactic and semantic reasoning about queries and updates at                  
+              individual sites which then execute a distributed consensus                    
+              algorithm to share their conclusions.  OPTIONAL:  The algorithms               
+              for reasoning about query and update conflict are based on a                   
+              comprehensive theory of query and update independence developed                
+              recently by the principal investigator.

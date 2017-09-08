@@ -1,0 +1,62 @@
+Title       : Programming-Language Structures for Representing and Optimizing Operating-System
+               Resources
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 6,  1996  
+File        : a9633438
+
+Award Number: 9633438
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1996    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Gerald J. Sussman gjs@mit.edu  (Principal Investigator current)
+              Olin Shivers  (Co-Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2891,9216,HPCC,
+Abstract    :
+              This research project seeks to demonstrate that fundamental  operating system
+              services and resources can and should be  represented directly in the natural
+              linguistic structures of  advanced programming languages. A component of this
+              effort is to  develop aggressive optimisation strategies making this modelling 
+              practical and efficient.    The central question underlying the research is:
+              how can the  benefits of advanced programming languages be brought to bear 
+              upon current systems-programming practice?  Modern computer  applications are
+              most commonly written in C, a language well-  known for its lack of support for
+              writing modular, robust  programs.  C has no module system, allows dangerous
+              "casting" of  data types, violates abstraction barriers, provides no garbage- 
+              collection support for automatic storage management, has no  concurrency
+              operators, and generally exposes the details of the  underlying machine to the
+              programmer. It is not defined in terms  of a mathematically sound underlying
+              semantics. As a result,  modern software is fragile, error-prone, and difficult
+              to build,  maintain or reuse.    Modern programming languages, such as the ML
+              family of languages,  provide much more support to the programmer for writing
+              large,  robust programs. Unfortunately, these languages are not yet  practical
+              tools for implementing real-world systems software.  In  practice, programs
+              written in these languages are slow, use large  amounts of memory, and have
+              awkward interfaces to OS services.  Providing access from programs written in
+              these languages to the  machine resources, in ways that are natural to the
+              language,  should help to address these shortcomings.  This research enables 
+              new optimisations and makes available new models to the  programmer, allowing
+              systems programs to be written that exploit  the expressive power of advanced
+              programming languages. A service  kernel provides access to the underlying
+              machine resources in a  way that is tightly integrated, both in architecture
+              and in  implem entation, with advanced languages. The research issue is to 
+              investigate the architecture of an operating system that is  symbiotic, not
+              with C,  but with a modern programming language,  and to develop technologies
+              for exploiting the tight integration  of the OS and the compiler to provide
+              efficient, high-level  services. The kernel is being developed in ML, on two
+              hardware  platforms: a bare Intel PC system, and a wireless, mobile  "personal
+              digital assistant" with limited on-board resources.  ***

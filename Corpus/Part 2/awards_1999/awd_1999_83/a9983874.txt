@@ -1,0 +1,103 @@
+Title       : CAREER: Robust Optimization and Applications
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : April 18,  2000     
+File        : a9983874
+
+Award Number: 9983874
+Award Instr.: Standard Grant                               
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : April 1,  2000      
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Laurent El Ghaoui elghaoui@eecs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,1045,OTHR,
+Abstract    :
+              Most models used in engineering are prone to errors: poor measurement of
+              physical
+parameters, complexity of phenomena at hand making "exact" models too
+              hard to handle,
+etc. These uncertainties are now an important limiting factor
+              in the use of optimization,
+which by nature tends to finely tune solutions to
+              problem data.
+I propose a general framework for decision problems with
+              uncertainty, based on a robust
+optimization approach. In this framework,
+              uncertainty on problem data is treated as 
+deterministic, unknown-but-bounded.
+              A robust solution is one which tolerates changes in the
+problem data, up to
+              the given bound. Such a solution is too hard to compute in general,
+              but
+relaxation techniques based on convex optimization can be devised to
+              approximate the 
+problem in an exhaustive manner. An efficient trade-off
+              between computer effort and accuracy
+is obtained by finely exploiting the
+              uncertainty structure in the relaxation process.
+The idea of robustness is
+              well-known in the area of feedback control systems analysis
+and design, where
+              I and others have developed very effective relaxation methods based on
+Linear
+              Matrix Inequalities and related convex optimization. Obviously, robust
+              optimization 
+is relevant far beyond feedback control, for example to the
+              combinatorial optimization
+problems with uncertain data arising in
+              communications network design. This opens new
+avenues of research where
+              seemingly very different problems are analyzed and solved in a
+unified
+              framework.
+My proposal centers around theory and algorithms for robust
+              optimization: convex 
+optmization relaxations, large-scale problems,
+              accuracy/complexity trade-offs, software. A
+specific target of this research
+              is the development ofvarious ellipsoidal approximation tools,
+with
+              applications to data fitting and estimation, simulation, and control of systems
+              with
+structured uncertainty. In addition, I seek to apply these techniques to
+              several important
+design problems in engineering, including timing analysis of
+              RC circuits,  filter and antenna
+array design, communications network design,
+              and others.
+In addition to robust optimization tools and engineering
+              applications, I plan to study sev-
+eral important problems in finance and
+              management under the viewpoint of robustness and
+worst-case risk-notions that
+              begin to stir great interest in the community. I intend to develop fast and
+              efficient robust optimization tools that are specific to finance and
+              management
+issues, based on ellipsoidal techniques for worst-case simulation
+              and control.
+My education plans aims at providing a solid theoretical and
+              practical basis for our
+students in the area of optimization, emphasizing the
+              crucial issues of uncertainty and 
+robustness. This goal will be implemented
+              by course development intwo subjects: an advanced
+course in robust
+              optimization, and a basic graduate course in convex optimization. An
+              
+important aspect of this plan is the development of user-friendly robust
+              optimization software
+tools that complement those I have developed in the past
+              for convex optimization.
+

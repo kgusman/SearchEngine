@@ -1,0 +1,61 @@
+Title       : ITR: Design Conformant Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 9,  2002       
+File        : a0086154
+
+Award Number: 0086154
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2000 
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $3700000            (Estimated)
+Investigator: Daniel Jackson dnj@lcs.mit.edu  (Principal Investigator current)
+              Martin Rinard  (Co-Principal Investigator current)
+              Robert J. Hansman  (Co-Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1661,1667,9216,HPCC,
+Abstract    :
+              The proposed research will investigate new software engineering
+techniques and
+              tools for infrastructural software that will improve
+its reliability, safety,
+              and predictability.  The key idea is to use
+abstract design models to drive
+              new static analyses that check that
+the software correctly implements its
+              design (and if not, identify the
+source of the problem).  To ensure that our
+              research addresses the
+important issues that developers face in the field, we
+              will conduct
+our research in the context of the development of an air
+              traffic
+control system component. Specifically, the research will
+              investigate
+the use of object models to express important design properties
+              and
+new pointer analysis algorithms to verify that the code
+              correctly
+implements the object models.  Object models describe essential
+              object
+in the heap and the relationships between them; pointer
+              analysis
+automatically analyzes code to extract information about how
+              objects
+refer to each other.  The research will investigate techniques
+              that
+improve the precision of the pointer analysis by using the object
+model
+              to focus the analysis on the properties of interest.
+

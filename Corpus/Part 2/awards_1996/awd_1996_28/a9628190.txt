@@ -1,0 +1,59 @@
+Title       : Efficient Fair Queuing and Load Balancing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : November 19,  1999  
+File        : a9628190
+
+Award Number: 9628190
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $284587             (Estimated)
+Investigator: Subhash Suri   (Principal Investigator current)
+              George Varghese  (Co-Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9217,9218,HPCC,
+Abstract    :
+                  Internet traffic is growing rapidly due to the immense popularity of the 
+              World Wide Web and new multimedia services such as video-conferencing.  The
+              increased traffic volume requires higher speed (Gigabit/sec or higher)  links,
+              while some of the new traffic varieties (such as audio and video)  also demand
+              quality-of-service guarantees.  This proposal addresses the  problem of
+              providing high speed links by combining multiple low speed links  and
+              performing load balancing.  It also address the problem of providing  quality
+              of service guarantees for high speed links through the design of  efficient
+              fair queuing algorithms.    The proposal is concerned with the design,
+              evaluation, and implementation  of new and efficient fair queuing and load
+              balancing algorithms.   Although  these two problems may look quite different
+              at a first glance, the Pis show  that fair queuing algorithms can be converted
+              into load balancing  algorithms using a time-reversal argument.    Existing
+              mechanisms for fair queuing either are computationally expensive,  or they fail
+              to provide the necessary service guarantees  (e.g., good  bounds on latency and
+              throughput) required by many applications.  The PIs  develop a new fair queuing
+              scheme called Tandem Clock Fair Queuing, which  offers quality-of-service
+              guarantees comparable to those of the best  previous schemes (such as Weighted
+              Fair Queuing), and yet appears to admit  efficient implementations.    Existing
+              methods for load balancing provide inadequate load sharing in the  presence of
+              variable length packets, and may result in non-FIFO delivery of  data if packet
+              headers are not allowed to be modified.  The PIs describe  new load balancing
+              schemes that solve these two problems by transforming  fair queuing schemes
+              into load balancing schemes, and by using the twin  mechanisms of logical
+              reception and sender simulation.    The investigators propose to refine and
+              extend these new directions in fair  queuing and load balancing algorithms into
+              complete and workable schem es  that can be deployed in the Internet and other
+              real networks.  They plan to  evaluate and refine our schemes using a
+              combination of mathematical  analysis, simulations, and actual implementation
+              using a testbed.

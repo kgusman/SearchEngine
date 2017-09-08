@@ -1,0 +1,47 @@
+Title       : A General and Powerful Method for Program Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 22,  2001     
+File        : a0196148
+
+Award Number: 0196148
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $130038             (Estimated)
+Investigator: Yanhong A. Liu liu@cs.synusb.edu  (Principal Investigator current)
+              Scott D. Stoller  (Co-Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This project studies a general and powerful method for  program optimization. 
+              This method is based on  incrementalization, which allows repeated computations
+              on  slightly changing inputs to be performed efficiently by  updating their
+              values incrementally from one computation to  the next.  Since all non-trivial
+              computations proceed in an  iterative fashion, which requires repeated updates
+              of  program states, incrementalization underlies essentially all  loop
+              optimizations.  This project focuses on an important  application of
+              incrementalization, namely, loop optimization  for aggregate computations on
+              arrays.  This optimization  can produce drastic speedups of programs for
+              problems in  image processing, computational geometry, computer graphics, 
+              multimedia, matrix computation, etc.  The method captures  aggregate array
+              computations in loop bodies and  incrementally updates their results over
+              iterations.  Part  of the analysis is reduced to symbolic simplification of 
+              constraints on loop variables and array subscripts.  Analytical and
+              experimental results both show drastic  speedups compared to previous
+              techniques.  Work specifically  planned for this project includes: refining and
+              extending  the techniques and algorithms, implementing the algorithms, 
+              analyzing the performance of the optimization algorithm and  the optimized
+              programs, and developing models for the time  and space complexity and data
+              locality of the programs that  will enable us to tune the optimizations.

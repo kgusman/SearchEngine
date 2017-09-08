@@ -1,0 +1,51 @@
+Title       : SBIR Phase II: An Aspect-Oriented Solution for Unit Test Generation
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : February 14,  2003  
+File        : a0238697
+
+Award Number: 0238697
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan E. Figueroa                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : February 15,  2003  
+Expires     : January 31,  2005    (Estimated)
+Expected
+Total Amt.  : $498243             (Estimated)
+Investigator: Paul Anderson Paul@grammatech.com  (Principal Investigator current)
+Sponsor     : GrammaTech
+	      317 North Aurora Street
+	      Ithaca, NY  148502073    607/273-7340
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0510403   Engineering & Computer Science          
+Program Ref : 9216,HPCC,
+Abstract    :
+              This  Small Business Innovation Research  Phase II project aims to make it much
+              easier to create unit-level regression tests for Java programs. Their benefits
+              are clear, but existing techniques for creating them are flawed because they
+              are difficult to apply to existing code, and tool support requires modification
+              of the target code. The innovation is to instrument a gold-standard version of
+              the module of interest so that when a client application executes, all events
+              that cross the boundary to the module are intercepted and logged to a file.
+              Later, after the unit has been modified or extended, and without any further
+              need for the client application, the events can be reconstructed and fed to the
+              unit. The results are checked for consistency with the log, and discrepancies
+              flagged as faults. This makes it much easier for a user to create a test suite
+              for a module. The approach is made feasible by using Aspect-Oriented
+              Programming, and object mocking. The research challenges are: how to devise
+              techniques for tolerating permitted changes in the target module, and how to
+              reduce the chances of a single failure triggering a profusion of cascading
+              failures. The use of advanced static analysis techniques, including dependence
+              analysis, is the key to solving these problems.
+
+If successful,  this  system
+              will help software development organizations reduce the cost of development and
+              maintenance of their software assets while at the same time increasing its
+              quality. It will help increase assurance of safety-critical software, such as
+              in medical equipment, or flight-control systems, thus reducing the risk of
+              damage to property and loss of life.
+

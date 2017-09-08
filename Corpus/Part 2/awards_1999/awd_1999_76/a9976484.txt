@@ -1,0 +1,74 @@
+Title       : Full-Band Particle Based Simulation for Three Dimensional Device Structures
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 9,  2001     
+File        : a9976484
+
+Award Number: 9976484
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $389999             (Estimated)
+Investigator: Stephen M. Goodnick stephen.goodnick@asu.edu  (Principal Investigator current)
+              Dragica Vasileska  (Co-Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9976484
+Goodnick
+
+Scaling of future semiconductor device technologies towards
+              0.1gm and below is placing new demands on semiconductor device simulation tools
+              in terms of the physical models employed, and the computational demands of
+              increased physical accuracy. At the same time, the exponential increase of
+              semiconductor manufacture costs as device technology shrinks below this
+              critical feature size mandates an increased dependence on simulation prior to
+              manufacture. Important issues which will occur as devices continue to shrink
+              include full three-dimensional geometry effects, new material systems, random
+              dopant effects, discrete electron charging effects, and ultimately quantum
+              mechanical effects at the smallest dimensions.
+Herein is proposed funding for
+              a three year program of research with the goal of developing the necessary
+              device simulation tools to meet the challenges of device scaling along the
+              projected Semiconductor Industry Association (SIA) roadmap and beyond with
+              special attention given to the requirements of modularity, robustness and
+              reliability. These device tools will employ full-band Cellular Automata and
+              Monte Carlo particle-based techniques developed under previous NSF funding for
+              efficient solution of the semi-classical Boltzmann transport equation and
+              beyond. These techniques will be combined with robust field solvers based on
+              multi-grid and Bi-conjugate gradient stabilized methods including non-uniform
+              grids for arbitrary two- and three-dimensional device geometries. Discrete
+              impurity effects and intercarrier interactions will be included in this
+              simulation level through a coupled mesh/particle force model to assess the
+              fluctuation in device operating characteristics based on random impurity
+              distributions. Collaboration with industrial partners will be undertaken for
+              comparison and calibration with state of the art device technologies. Due to
+              the computational demands of 3D semi-classical modeling, the proposed research
+              will be supported by investigation of high-performance computing environments
+              based on multi-processor systems, and clusters of workstations. Distributed
+              algorithms for both the transport simulation tools and the coupled field
+              solvers will be developed and applied for high-end computing as developed under
+              previous funding.
+We will focus on comparison and calibration of the
+              simulation tools with three particular technology areas in collaboration with
+              industry and experimental groups, although the scope of the project goes far
+              beyond these. One area involves EEPROM device technology, where 3D effects are
+              prevalent, and where elevated electric fields necessitate full-band
+              consideration as well. Another effort will focus on scaled Si MOS devices below
+              0.1 gm gate length, where a variety of new problems arise in terms of device
+              scaling. Finally, we will consider newer material systems such as SOI and
+              Si/SiGe technology, where little is known for example about hole transport, and
+              improved transport models including full-band effects' are necessary.
+***
+

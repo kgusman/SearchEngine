@@ -1,0 +1,63 @@
+Title       : Implementation of Accurate Estimation Methodology for Compartmental Models
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 6,  2001       
+File        : a9710081
+
+Award Number: 9710081
+Award Instr.: Standard Grant                               
+Prgm Manager: Lloyd E. Douglas                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : December 15,  1997  
+Expires     : November 30,  2001   (Estimated)
+Expected
+Total Amt.  : $18000              (Estimated)
+Investigator: Martha Contreras   (Principal Investigator current)
+Sponsor     : Cornell University State
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 1260      INFRASTRUCTURE PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,9136,OTHR,
+Abstract    :
+                My research interests are in the design of experiments and  the  development
+              of statistically meaningful yet computationally  tractable estimation methods
+              for compartmental models.    Compartmental models provide a valuable tool in
+              analyzing  a wide variety of problems, such as the the kinetics of drugs 
+              through a body or the flow of nutrients through an ecosystem via  the design of
+               tracer experiments.  In most cases,  cost and/or feasibility  are issues when
+              designing a tracer  experiment since such experiment is often non-repeatable
+              due to  high cost, ethical issues,  or possible damage to the organism. 
+              Nonetheless, the careful design of an experiment involving  compartmental
+              models can be accomplished through proper  collaboration between the scientist
+              who has  understanding  of the biological or physiological  mechanism of the
+              system  and the compartmental analyst who has knowledge of the   mathematical
+              and computational issues that arise in the  identifiability and stability of
+              the parameters or flow rates  which describe the system.    Once a model,
+              deemed reasonable for the process under study,     has been proposed, the
+              objective is to estimate the parameters   of the model from a set of
+              observations gathered through time.  However,  the commonly-occurring
+              non-constant variance of  biological data and/or the presence of outlying
+              observations  discourage standard application of ordinary least squares  or 
+              equally weighted L_2 estimation.  Although  L_1-norm estimation  would reduce
+              the influence of outliers, for statistical reasons,  it is generally not
+              preferred.   To obtain statistically optimal  estimators, workers often perform
+              weighted least squares using   empirical  weights, iteratively reweighted least
+              squares,  or  transform the data and/or  the model often using  the logarithm 
+              transformation.    However, in practice, the optimal weights are not known,
+              thus  application of weighted or iteratively reweighted  least squares  is not
+              straightforward.  Moreover, methods involving  current  transformation
+              methodology, such as Box-Cox transformations,  while succeeding in stabilizing
+              the variance, often do not yield  a computationally more desirable problem to
+              solve.  My immediate  research consists of investigating the use and properties
+              of  integral transform methods in estimation.  Such integral  transform  should
+              be  `natural' to a given problem; natural,  in  that applying such
+              transformation should yield a problem which  would be computationally no more 
+              costly than current methods but  more amenable to the model, in that such
+              transformation should  stabilize the variance yet be computationally simple. 
+              Currently,  I am looking at these issues with the Laplace transform applied  to
+              linear time invariant compartmental models.

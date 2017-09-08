@@ -1,0 +1,71 @@
+Title       : Colorings and List Colorings: Contrasts and Similarities
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 12,  2002     
+File        : a0099608
+
+Award Number: 0099608
+Award Instr.: Continuing grant                             
+Prgm Manager: Sylvia M. Wiegand                       
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $103203             (Estimated)
+Investigator: Alexandr V. Kostochka kostochk@math.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1264      ALGEBRA,NUMBER THEORY,AND COM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              A(n ordinary) proper coloring of a (hyper)graph is an assignment of colors to
+              the vertices of this hypergraph in such a way that no edge becomes
+              monochromatic.  The chromatic number of a hypergraph is the minimum number of
+              colors used in a proper coloring.  Finding proper colorings using only few
+              colors can be useful in many applications.  The assignment of colors can model
+              resource allocation; the edges represent conflicts in usage of resources. 
+              Areas of application include scheduling, database access, assignment of
+              computer registers, data clustering, computer aided design of printed circuits,
+              positional games, DNA sequencing, etc.  The more general model of list coloring
+              allows to restrict the colors available for each vertex.  Each vertex is
+              assigned a list of available colors.  The color for each vertex must be chosen
+              from its list, but the constraints imposed by edges must still be satisfied by
+              the chosen coloring.  List coloring can be used to model problems such as
+              extension of colorings of subgraphs.  The list chromatic number of the
+              hypergraph is the minimum k such that whenever all lists have size at least k,
+              it is possible to choose a proper coloring from the assigned lists. A proper
+              coloring with k colors can be considered as a list coloring with all the lists
+              of vertices being the same (of size k).  Thus, the list chromatic number of a
+              hypergraph always is at least the chromatic number.  Although one might think
+              that the most difficult case of list coloring is when all the lists are the
+              same (giving more conflicts for colors), this is not always the case.  Vizing
+              and Erdos, Rubin, and Taylor gave examples of 2 colorable graphs with
+              arbitrarily large list chromatic number.  On the other hand, in some classes of
+              (hyper)graphs the list chromatic number behaves similarly to the (ordinary)
+              chromatic number.
+
+The main thrust of this project is to explore the analogs
+              for list coloring of many results about ordinary coloring.  The issue is under
+              what conditions there are similar bounds for related list coloring and coloring
+              problems.  Upper bounds on coloring parameters can lead to efficient
+              algorithms; lower bounds impose limits on what can be accomplished.  One
+              question is when the list chromatic number actually equals the chromatic
+              number.  Another is how many edges are needed to form a (hyper)graph with a
+              given chromatic number, subject to various additional conditions; here a list
+              coloring analogue will also be explored.  For classes of graphs obtained using
+              intersections of geometric objects of special types, bounds on (list) chromatic
+              number in terms of the maximum number of pairwise adjacent vertices are sought.
+               Many coloring problems have analogs using lists, and this project will begin
+              the exploration of many of these list coloring problems.  For example, many
+              generalized coloring parameters have bounded values on important classes of
+              graphs such as the  planar graphs (those that embed in the plane without edge
+              crossings).  Do such colorings still exist when the vertices are assigned color
+              lists of bounded size?  Most of the work is planned to be done jointly with
+              Douglas B. West (University of Illinois at Urbana-Champaign)
+

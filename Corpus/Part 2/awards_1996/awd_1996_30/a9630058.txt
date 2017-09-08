@@ -1,0 +1,48 @@
+Title       : Extent and Effects of Error Propagation and Recovery Mechanisms in Cache Memory
+               Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  1997       
+File        : a9630058
+
+Award Number: 9630058
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $186615             (Estimated)
+Investigator: Arun K. Somani   (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 2891,9215,9218,HPCC,
+Abstract    :
+              Commercial microprocessor systems are being operated at higher and higher clock 
+              rates. Faster clocks impact the time that is available to fetch data from cache
+               memory, and increases the probability of transient error occurrence in cache 
+              memory systems. Besides data reading error, an error may also occur in the 
+              processor subsystem, and it may write erroneous data into the cache memory. 
+              Error-correcting codes allow detection and recovery from some of these errors 
+              within the code word limits. Fast error detection allows damage containment and
+               reduces the recovery time, which otherwise could be very expensive in time.
+              The  goals of this project are: (1) to study the extent of error propagation
+              due to  transient faults in computer system when a fault originates either in a
+              processor  register or a cache location; and (2) to develop techniques and
+              hardware support  needed for early detection and recovery from such errors in
+              computation tasks  with low overhead and low performance loss. The proposed
+              techniques will cover  a broad spectrum from only detection to full error
+              recovery. This research will  identify architectural features which, when
+              provided in commercial  microprocessors, will make them suitable for use in
+              fault-tolerant applications.  The intent is to keep the performance impact in
+              the normal operation to a  minimal.

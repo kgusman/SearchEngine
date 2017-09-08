@@ -1,0 +1,53 @@
+Title       : Scalable Trigger Processing
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 27,  2001      
+File        : a9820839
+
+Award Number: 9820839
+Award Instr.: Continuing grant                             
+Prgm Manager: Bhavani Thuraisingham                   
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : September 30,  2002  (Estimated)
+Expected
+Total Amt.  : $197837             (Estimated)
+Investigator: Eric N. Hanson hanson@cise.ufl.edu  (Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              Database triggers are rules that monitor a database for interesting changes to
+              the data. These rules can take action based on these changes. For example, the
+              action can be to notify a person by email or pager, update the database, or run
+              a program. This project is developing new techniques for processing database
+              triggers that are fast and can support many times more triggers than can be
+              handled now. Current database trigger processing systems are synchronous. In
+              other words, triggers run inside the same transactions that are updating the
+              data. This project is developing scalable trigger processing capability in a
+              number of ways, including: (1) testing trigger conditions and running trigger
+              actions after database update transactions complete; (2) developing special
+              algorithms and data structures for fast trigger condition checking; (3)
+              applying parallel processing on shared-memory multiprocessor computers to test
+              trigger conditions and run trigger actions more quickly; and (4) developing a
+              timer-driven trigger capability that checks trigger conditions periodically
+              rather than after each update. This project's vehicle for developing,
+              demonstrating, testing and refining new, scalable trigger processing
+              architectures and algorithms is the TriggerMan prototype. TriggerMan is being
+              implemented as an extension module to a commercial, object-relational database
+              management system, a driver program, and an application programming interface
+              library. The high-performance, scalable trigger processing capability being
+              developed by this research will give people more timely notification of
+              important new information in databases. This is more important than ever given
+              the pervasiveness of corporate databases and networks, and the Internet.
+              
+http://www.cise.ufl.edu/~hanson/TriggerMan/
+
+

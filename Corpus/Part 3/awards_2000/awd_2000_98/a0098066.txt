@@ -1,0 +1,95 @@
+Title       : Lower Bounds for Time-space Tradeoffs, Data Structures, and Proof Complexity
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2001      
+File        : a0098066
+
+Award Number: 0098066
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $297000             (Estimated)
+Investigator: Paul W. Beame beame@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              This research addresses several problems in three areas of computational
+              
+complexity.   The overall objective in each case is to understand the limits
+              
+of the capabilities of computers and the algorithms that run on them.  
+The
+              first area of research concerns tradeoffs between the processing time and
+              
+storage requirements of computations: 
+When can one solve problems using
+              algorithms that are both fast and 
+use small amounts of storage and when is
+              one limited to trading off these
+two resources, reducing storage requirements
+              only at the cost of 
+additional running time?
+The second area of research
+              concerns the increased efficiencies in data 
+structures that are possible by
+              taking advantage of the wide range of 
+instructions in modern processors that
+              operate on entire computer words at 
+once.
+The third area of research
+              involves the analysis of algorithms to solve 
+NP-hard search problems.
+When
+              many such algorithms search but do not find a solution to a problem,
+they
+              implicitly provide proofs that no such solution exists.
+In this portion of the
+              research, the investigators analyze the form of these 
+implicit proofs to show
+              the limits of the efficiencies of these search 
+algorithms.
+
+More
+              specifically, the research in time-space tradeoffs builds on the
+              
+investigators' previous work on time-space tradeoff lower bounds and is aimed
+              
+at extending these results to other natural problems such as graph
+              
+connectivity and improving the complexity limits shown by current lower bound
+              
+techniques.
+The research in data structures works in the model of
+              random-access machines 
+with arbitrary unit-cost operations on word-size
+              quantities.
+The goal of this data structure research is to understand the
+              limits of the
+algorithmic improvements possible in this model, particularly
+              for 
+nearest-neighbor queries, priority queues, sorting, and garbage
+              collection.
+The research on the complexity of NP-search algorithms focuses
+              on
+the proof complexity of co-NP properties of random structures.
+The goal is
+              to show that for randomly-chosen inputs, natural proof systems 
+such as
+              resolution almost always require exponential-size proofs of membership 
+in the
+              co-NP sets corresponding to the duals of natural NP problems.
+A consequence of
+              this would be proofs that large classes of algorithms for 
+solving the NP
+              problems require exponential time on large numbers of inputs.

@@ -1,0 +1,59 @@
+Title       : SBIR Phase II: Optimal Shape Design by the Boundary Contour Method
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : August 15,  1997    
+File        : a9629076
+
+Award Number: 9629076
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Patrick Johnson                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1997  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Yu X. Mukherjee DeHaneng@aol.com  (Principal Investigator current)
+Sponsor     : DeHan Engineering Numerics
+	      95 Brown Road, Box 1016, Rm 119
+	      Ithaca, NY  148509610    607/277-4648
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0108000   Software Development                    
+              0510403   Engineering & Computer Science          
+              21        Mathematics                             
+Program Ref : 1464,9102,9148,MANU,
+Abstract    :
+              ***  9629076  Mukherjee    This Small Business Innovation Research Phase II
+              project will develop a next-generation Computer Aided Design (CAD) software
+              package for three-dimensional (3D) stress analysis and optimal shape design of
+              solid structural components.  Although use of CAD is quite common, the
+              currently used finite element method (FEM) based approach has serious
+              shortcomings.  The primary obstacle is the need to discretize (mesh) the entire
+              domain of the 3D body into (volume) finite elements.  This task, which cannot
+              be reliably and efficiently automated for bodies of complex shape, becomes
+              particularly onerous during optimal shape design where the shape of the body
+              changes during successive design iterations and, therefore, the body must be
+              remeshed during each iteration.  Also, volume discretization is not naturally
+              compatible with either solid modeling or with shape design algorithms.  This
+              project uses an entirely new computational engine - the boundary contour method
+              (BCM).  This approach only requires meshing of the bounding surface of a body
+              and numerical evaluation of regular line integrals for 3D problems.  Therefore,
+              automatic meshing, both initially and between design iterations, becomes
+              straightforward and the need to evaluate only regular 1D integrals makes the
+              process very efficient.  Also, the BCM approach, being surface based, is
+              naturally compatible with both solid modeling and shape design algorithms.  The
+              feasibility of the BCM approach, for stress and sensitivity analysis in 3D
+              linear elasticity, has been demonstrated in the Phase I project.  The primary
+              research tasks in Phase II, in addition to further code development and
+              testing, are (a) coupling of the code with optimization software in order to
+              carry out shape optimization, (b) adaptive meshing - both initially and during
+              each design iteration and (c) development of a parallel version of the code for
+              operation on a network of desk-top computers.    If the research is successful,
+              the resulting package is expected  to be a significant advance in CAD
+              technology.  It should help to blur the current artificial and costly
+              distinction between analysis and design engineers, greatly reduce product time
+              to market and product development cost, and should be in great demand
+              throughout the industrial sector.  ***

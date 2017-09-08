@@ -1,0 +1,89 @@
+Title       : Fast Algorithms for Wave Scattering in Layered Media for Electronic Packaging
+               and Geophysical Exploration
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 25,  2003  
+File        : a0098140
+
+Award Number: 0098140
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $255000             (Estimated)
+Investigator: Qing Huo Liu qhliu@ee.duke.edu  (Principal Investigator current)
+              Wei Cai  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Proposal #0098140
+Duke University
+Liu, Qing Huo
+
+In this interdisciplinary
+              project, we propose to develop fast algorithms for electromagnetic and elastic
+              wave scattering in layered media. The impetus for such a joint effort is the
+              ever increasing demand for efficient and accurate numerical simulation tools
+              for electronic packaging and geophysical exploration where wave phenomenon
+              plays an important role for design, evaluation, prediction and production. In
+              both applications, there is a pressing need for fast solution techniques for
+              full wave equations in layered media, namely, Maxwell's equations for
+              electronic packaging and  both electromagnetic and elastic wave equations for
+              geophysical exploration.  As the numerical issues involved in the solution of
+              both wave equations share many common features, a concerted effort to develop
+              fast algorithms for wave scattering in layered media will have a significant
+              impact in both areas.
+
+In a high-speed electronic package, interconnects are
+              one of the determining factors for the speed performance of the system.  Such a
+              high order effect is not easily captured in either equations or tables,
+              rendering conventional timing driven layout techniques inaccurate and obsolete.
+               One must fully characterize
+the interconnect structures to ensure on-chip
+              signal integrity and to achieve the expected high-speed system performance. 
+              Therefore,  there is a strong need for faster and more accurate full-wave
+              electromagnetic analysis tools to extract parasitic parameters such as
+              resistance,  capacitance, and inductance.
+
+On the other hand, in geophysical
+              exploration for oil and gas, electromagnetic and acoustic sensors are widely
+              used to probe complex geologic structures. The goal of electromagnetic and
+              acoustic subsurface sensing is to infer from these measurements the
+              electromagnetic and mechanical properties of the formation,
+and to combine
+              with other, such as nuclear, measurements to determine the petrophysical
+              characteristics of the reservoir. The interpretation of these easurements,
+              however, remains a challenging problem because of the complicated interaction
+              of waves with the complex geologic structures and wellbore.  The interpretation
+              and processing of these measurements depend on fast and accurate forward and
+              inverse solutions of lectromagnetic and acoustic waves in large-scale, highly
+              heterogeneous media.
+
+The main emphasis of this proposal is on numerical
+              algorithm development relevant to direct problems for electromagnetic and
+              elastic waves propagation in layered media. A frequency domain integral
+              equation formulation will be used.  Major tasks include fast calculation of
+              dyadic Green's functions for general
+layered media; fast matrix-vector
+              multiplication and robust preconditioner for matrix solver; construction and
+              study of high order basis functions for large targets; application of the
+              obtained numerical algorithms in electronic packaging and geophysical
+              exploration.
+
+Both PI's have extensive experience in the proposed application
+              areas---parameter extraction for VLSI and RF component design (Cai) and
+              geophysical subsurface sensing and electronic packaging (Liu). 
+              The
+collaborated research will greatly benefit the electronics and oil
+              exploration industry, and our research and educational programs in electrical
+              engineering and applied mathematics and scientific computation.

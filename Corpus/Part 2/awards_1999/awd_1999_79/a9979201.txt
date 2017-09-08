@@ -1,0 +1,54 @@
+Title       : SGER: MCMC Algorithms for Object Recognition
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 17,  1999    
+File        : a9979201
+
+Award Number: 9979201
+Award Instr.: Standard Grant                               
+Prgm Manager: Jing Xiao                               
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1999  
+Expires     : August 31,  2000     (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: David A. Forsyth daf@cs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9139,9237,HPCC,
+Abstract    :
+              Abstract
+ 
+IIS-9979201
+Hollerbach, John
+University of Utah
+$50,000 - 12
+              mos.
+
+MCMC Algorithms for Object Recognition
+
+This is a standard SGER
+              award.  This exploratory research is about finding clothed people in images
+              with a mixture of probabilistic and geometric techniques. Current theories of
+              object recognition cannot be used to recognize such complex deformable objects,
+               particularly because they do not allow exact geometric models and are on
+              cluttered backgrounds.  In this study, a bottom-up approach based on learning
+              will be used to assemble image primitives (defined by invariant filters) into
+              regions that could be clothing, and then to assemble these regions into regions
+              that could be body segments, which will be assembled further into limbs, and so
+              on, until a region is sufficiently large to indicate that a person is present.
+              This purely bottom-up approach will be complemented by Markov chain Monte Carlo
+              (MCMC) techniques to modify existing groups. The intention is to obtain cases
+              that have high posterior probability. In particular, collections of segments
+              that do not on their own pass assembly tests will be randomly advanced past
+              those tests anyway, if the group that results has high posterior probability.
+              
+
+

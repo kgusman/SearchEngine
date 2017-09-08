@@ -1,0 +1,98 @@
+Title       : Critical Path Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  2001    
+File        : a0105743
+
+Award Number: 0105743
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Dean M. Tullsen tullsen@cs.ucsd.edu  (Principal Investigator current)
+              Bradley G. Calder  (Co-Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              
+Critical path prediction is a processor architecture technique that uses 
+the
+              past behavior of instructions in the instruction stream to predict
+              which
+fetched instructions will be on the critical path; that is, which
+              
+instructions will have a significant impact on processor performance, and
+              
+which will not.  This information can then be used to guide the selective
+              
+application of a variety of processor optimizations.
+
+Modern processors
+              remove most artificial constraints on execution
+throughput.  Therefore, the
+              bottleneck for many workloads on current 
+processors is the true dependences
+              in the code.  Chains of dependent 
+instructions constrain the overall
+              throughput of the machine, often leaving 
+aggressive processor technology
+              highly underutilized.  These chains of 
+dependent instructions constitute the
+              critical performance path, or 
+critical path (CP), though the code.
+
+The
+              performance of the processor is thus determined by the speed at
+which it
+              executes the instructions along this critical path.  In our
+efforts to get the
+              maximum performance from the processor, it is no
+longer reasonable to treat
+              all instructions the same.  If we can know
+which instructions are critical to
+              performance, we can accelerate
+their execution, possibly at the expense of
+              instructions not on the
+critical path.
+
+This research will attempt to
+              identify these critical instructions
+dynamically in hardware.  We call this
+              critical path prediction.  This 
+prediction is based on the behavior of
+              previous invocations of the 
+instruction in the pipeline.  This prediction
+              will enable the processor to 
+make better decisions about where to apply
+              certain policies and 
+optimizations.  A variety of critical path predictors
+              will be examined.
+
+In many cases, critical path prediction will enable more
+              effective 
+application of other resources or optimizations.  Possible
+              applications of 
+critical path prediction include guiding value prediction,
+              instruction 
+reuse, instruction issue priority, instruction scheduling on a
+              clustered 
+architecture, speculation control on a power-constrained processor,
+              
+arbitration between instructions or threads on a multithreaded
+              
+architecture, or to guide the spawning of speculative threads in a
+              
+speculative multithreaded processor.
+
+

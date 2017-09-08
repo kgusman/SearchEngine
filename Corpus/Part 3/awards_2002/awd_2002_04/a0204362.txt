@@ -1,0 +1,73 @@
+Title       : Second-order Automated Deduction
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  2002       
+File        : a0204362
+
+Award Number: 0204362
+Award Instr.: Continuing grant                             
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  2002       
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $188137             (Estimated)
+Investigator: Michael J. Beeson   (Principal Investigator current)
+Sponsor     : San Jose State Univ Fdn
+	      Post Office Box 720130
+	      San Jose, CA  951720130    408/924-1400
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              ABSTRACT
+0204362
+Beeson, Michael
+San Jose State Univ Fdn
+
+This award will
+              enhance the theorem-prover Otter to cope better with second-order logic. It
+              will use this enhanced version of Otter to formalize a small amount of
+              elementary number theory, a small amount of set theory, and theorems about the
+              cardinality of finite sets, as required to proceed to theorems in group theory
+              as usually presented in an undergraduate course in algebra, up to and perhaps
+              (but not necessarily) including the Sylow theorems.   It will also enhance
+              Otter by adding a capability for polynomial simplification,  which in turn will
+              enable it to proceed further in number theory.  Although first-order group
+              theory has been a source of many test problems for automated deduction, the
+              material in an undergraduate course typically begins with theorems about
+              subgroups and homomorphisms, and uses the concept of a prime number,  so
+              second-order logic (or set theory) and induction are essential ingredients to
+              even sophomore-level mathematics. It is high time that theorem-provers be made
+              able to cope with these fundamental areas of mathematics, which are naturally
+              multi-sorted (elements, numbers, functions, and sets) and second-order
+              (elements, cosets, subgroups).
+
+
+The long-term aim of automated deduction is
+              to make the computer useful as a "mathematician's assistant".   The goal is
+              that the computer could check proofs,  filling in any missing details, and
+              verify their correctness.  Perhaps the computer could carry out some of the
+              simpler parts of the mathematics mechanically.  Maybe (in the distant future)
+              the computer might even prove interesting new theorems on a regular basis.   At
+              present computers can be used for some kinds of calculations,  but their use
+              for helping with proofs is in its infancy, in spite of half a century of
+              research.   Part of the problem is the richness of mathematical language;  part
+              of the problem is the complicated relationship between calculations and proofs;
+              and part of the problem is the "needle-in-the-haystack" difficulty of finding a
+              proof or disproof of an unsolved conjecture.    Otter  is a theorem-proving
+              program developed at Argonne National Laboratories. This research will provide
+              some enhancements to Otter that should help it deal with the "richness of
+              language" problem and the "calculations within proofs"  problem.   To test the
+              effectiveness of our efforts, the PI will try to "computerize" some theorems in
+              mathematics that are usually taught in the sophomore or junior year to
+              mathematics majors.   These are theorems in an area of mathematics called
+              "group theory", which usually comes after calculus and is widely used in many
+              branches of mathematics and physics.  Many of the theorems found in the first
+              course in this subject have so far resisted attempts to get computers to prove
+              them.  
+

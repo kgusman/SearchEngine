@@ -1,0 +1,64 @@
+Title       : Approximate Reasoning in Stochastic Concurrency: Applications to Secure
+               Substitution and Stochastic Hybrid Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 7,  2002   
+File        : a0244901
+
+Award Number: 0244901
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : July 31,  2003       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Radhakrishnan Jagadeesan rjagadeesan@cs.depaul.edu  (Principal Investigator current)
+Sponsor     : DePaul University
+	      1 East Jackson Boulevard
+	      Chicago, IL  606042218    312/341-8000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Stochastic programs involve time, probability and concurrency. The classical
+              research into reasoning about probabilistic models of concurrency provides
+              methods to establish when two processes can be considered the same and be
+              inter-substituted for each other.  Such equivalences are too exact since they
+              are usually not robust under even slight perturbation of probabilities. This is
+              particularly unfortunate since practice dictates that probability numbers are
+              to be viewed as numbers with some error estimate. The focus of this proposal is
+              approximations and approximate reasoning for stochastic concurrent systems. The
+              PI proposes to use metric based frameworks to formalize approximation schemes
+              and develop compositional reasoning methods to study robust notions of
+              ''approximately inter-substitutable'' programs. 
+
+The  first  intended
+              application is the exploration of ''secure substitution'' in mobile code
+              applications, where programs (such as tax software) are downloaded as needed,
+              executed on a trusted host (the home computer), require access to sensitive
+              local data (such as financial information) and yet should not be permitted to
+              leak information. Probabilistic modeling is used in such applications to
+              quantify the amount of information flow between systems. A permissible secure
+              substitution of one component for another in a program context has to preserve
+              such information flow properties in addition to the usual observations.  The
+              goal of this project is to define a robust notion of secure substitution, and
+              develop compositional proof rules and algorithms to determine if a component
+              can be securely substituted for another.
+
+The second intended application is
+              the design and implementation of StochCC, an executable specification language
+              for stochastic hybrid systems.   This research will build on the PI's prior
+              work into HybridCC, a declarative language for specifying and simulating hybrid
+              systems. Users of HybridCC(in biological systems modeling) have already found
+              it useful to add limited forms of discrete probabilistic specification to
+              HybridCC.  StochCC will perform a full and general integration of probabilities
+              into HybridCC. In order to come to computational grips with such systems, one
+              needs a notion of discrete approximation. Such discrete approximants play a
+              role in both simulation (executing the system within some error bound) and
+              approximate reasoning (calculating the observations of the system within some
+              error bound).

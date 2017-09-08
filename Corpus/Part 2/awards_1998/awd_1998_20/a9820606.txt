@@ -1,0 +1,80 @@
+Title       : Feasibility of a Qunatum Dot Neural Network
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 8,  1999  
+File        : a9820606
+
+Award Number: 9820606
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1999 
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $199177             (Estimated)
+Investigator: Elizabeth C. Behrman elizabeth.behrman@wichita.edu  (Principal Investigator current)
+              James E. Steck  (Co-Principal Investigator current)
+              Steven R. Skinner  (Co-Principal Investigator current)
+Sponsor     : Wichita State University
+	      1845 Fairmount
+	      Wichita, KS  67260    316/689-3456
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 0000,OTHR,
+Abstract    :
+              9820606
+Behrman
+
+Most artificial neural networks are simulations, running on
+              algorithmic computers. With this setup some of the inherent advantage of a
+              neural network is lost; namely, the speed due to distributed computing. Clearly
+              it would be better to utilize the intrinsic physics of a physical system to
+              perform the computation. Many efforts have been expended in this direction,
+              using systems ranging from nonlinear optical materials to proteins to DNA. At
+              the same time, many other researchers have been exploring the possibility of
+              building quantum computers. In previous work, using the real time evolution of
+              quantum dot molecules, the investigators have shown by simulation that such an
+              architecture could act as a recurrent temporal quantum neural network. Inputs
+              were prepared by fixing the initial states of two such quantum dot molecules,
+              and outputs determined by reading their values at a given time T later. The dot
+              molecules were assumed to interact with the substrate phonons and with an
+              externally applied time dependent electric field. Trainable parameters were the
+              numbers of phonons, optically excited, their frequencies, and the value of the
+              electric field as a function of time. This network could perform any classical
+              logic gate, and, in addition, could calculate a purely quantum gate, for which
+              there is no classical equivalent. Unfortunately the physical problems to be
+              surmounted in actual construction of this device seemed beyond present
+              technology. For example, the reading and writing of the final and initial
+              states at sufficiently precise times, on this scale, might be very difficult.
+              
+
+This new project will explore by simulation the possibility of a spatial,
+              rather than temporal, design. The new network will consist of a regular array
+              of quantum dot molecules on a suitable substrate. The molecules interact with
+              each other directly through Coulombic interactions and indirectly through their
+              mutual interaction with local and phononic modes of the substrate. These modes
+              can be preferentially excited by optical excitation, and, therefore, controlled
+              externally. The number of excitations can thus be used as trainable "weight"
+              parameters for a neural network. As with the temporal net, the spatial net has
+              none of the "wiring problems" of traditional neural nets: the necessary
+              connections are supplied by the physical system itself. The long range
+              character of the phononic interactions takes the net beyond traditional
+              connectionist structures.
+
+This work will involve three successive phases.
+              The first phase will be a complete rederivation of the neural net setup to the
+              spatial case, in one and two dimensions, and an extension of the training
+              algorithm from the temporal to the equilibrium state. The second will be the
+              simulation of large networks of neurons, in one and two dimensions, to perform
+              benchmark neural network tasks. The physical system will be progressively more
+              accurately modeled, to include the effects of noise, defects, and finite
+              temperature. The third will develop a backpropagation training scheme to enable
+              the network to train itself and to develop a hardware implementation at the end
+              of the project. A working quantum neural computer is expected to have wide
+              application and interest.
+***
+

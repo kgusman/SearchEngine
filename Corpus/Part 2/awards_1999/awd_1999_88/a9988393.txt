@@ -1,0 +1,91 @@
+Title       : Projection Methods for Balanced Model Reduction
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 20,  2000      
+File        : a9988393
+
+Award Number: 9988393
+Award Instr.: Standard Grant                               
+Prgm Manager: John Staudhammer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2000       
+Expires     : December 31,  2003   (Estimated)
+Expected
+Total Amt.  : $360212             (Estimated)
+Investigator: Danny C. Sorensen sorensen@caam.rice.edu  (Principal Investigator current)
+              Athanasios C. Antoulas  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2865      GRAPH & SYMB & GEO COMPUTATION
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+This project proposes the development of reduced models for
+              large-scale
+linear time invariant (LTI) systems of the form
+ 
+   dx/dt = Ax
+              + Bu, y = Cx
+
+through low rank approximation of certain system Grammians.
+              Complex systems 
+of this form arise in circuit simulation; they also arise
+              through spatial 
+discretization of certain time dependent PDE control
+              systems.
+
+A new approach to model reduction will be studied, that will
+              address some 
+fundamental difficulties with existing dimension reduction
+              techniques. 
+These issues are central to the potential development of robust
+              and widely 
+applicable software. We intend to develop a computational
+              methodology that 
+will:
+
+(1) Provide rigorous bounds on the response error
+              of the reduced system; 
+(2) Naturally preserve fundamental system properties
+              such as stability;
+(3) Be fully automatic once a desired error tolerance is
+              specified. 
+
+We propose to investigate subspace projection methods of Krylov
+              and 
+non-Krylov type.  Our primary goal will be to develop implicit
+              restarting
+methods that will iteratively produce low rank approximations to
+              
+controllability-, observability-, and cross-Grammians which are near best
+              
+approximations of reduced rank to the full Grammians.
+
+The methods proposed
+              will provide balanced partial realizations of large 
+state space systems. Our
+              computational experience with model problems 
+indicates that the Hankel
+              singular values of many systems decay extremely 
+rapidly. Hence very low rank
+              approximations to the system Grammians are  
+possible and accurate low order
+              reduced models will result. 
+
+We expect to find important applications in
+              circuit simulation and in 
+the control of systems governed by partial
+              differential equations,
+particularly parabolic equations subject to boundary
+              control. There is 
+great potential in such problems for extensive dimension
+              reduction. This 
+will enable the design of real-time controllers for complex
+              systems.
+

@@ -1,0 +1,52 @@
+Title       : Modeling Pronunciation Variation for Universal Access to Speech Understanding
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 7,  2003   
+File        : a9978025
+
+Award Number: 9978025
+Award Instr.: Continuing grant                             
+Prgm Manager: Ephraim P. Glinert                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1999 
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $503956             (Estimated)
+Investigator: Daniel S. Jurafsky jurafsky@colorado..edu  (Principal Investigator current)
+              Alan Bell  (Co-Principal Investigator current)
+              Wayne H. Ward  (Co-Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 6846      UNIVERSAL ACCESS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              In order for speech-based interfaces to be universally accessible - that is,
+              available to all citizens in all situations - they must deal successfully with
+              massive variability in pronunciation, as studies have shown that this is by far
+              the single largest source of error in machine speech recognition.  This project
+              will address that issue by building dynamic pronunciation models which use
+              context to predict the most likely pronunciations of a word in a particular
+              utterance.  The PIs' previous work has established that speakers are more
+              likely to delete certain sounds (e.g., the final "t" in "about") in a variety
+              of situations:  if the next word starts with certain consonants;   if they are
+              speaking quickly;  if the word is unsurprising (has a high trigram
+              probability);  if they are young and male;   if the word is not followed by a
+              pause or a word-repetition;  or if they are speakers of certain dialects.  They
+              have further shown how confidence metrics can be used to identify inaccurate
+              dictionary pronunciations based on actual pronunciations in speech. This
+              project will extend and combine both of these lines of research, by using
+              phonetic-confidence models to identify words with incorrect pronunciations that
+              contribute to word-error, and then building statistical (decision-tree) models
+              of pronunciation variation for these words.  The PIs' model provides a general
+              engine which they will apply to several specific classes of pronunciation
+              variation,  including dialect and speaker type, embedded in the Sphinx-II
+              speech recognizer.  The application of computational models to the study of
+              pronunciation variation is an important new research area in linguistics and
+              cognitive modeling, with implications for and potential benefits to many areas
+              of science and pedagogy, including universal access.

@@ -1,0 +1,45 @@
+Title       : Presidential Young Investigator Award: Parallel Logic Programming Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 22,  1994    
+File        : a9057930
+
+Award Number: 9057930
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1990    
+Expires     : June 30,  1996       (Estimated)
+Expected
+Total Amt.  : $191900             (Estimated)
+Investigator: Evan Tick   (Principal Investigator current)
+Sponsor     : U of Oregon Eugene
+	      5219 University of Oregon
+	      Eugene, OR  974035219    541/346-5131
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9215,9218,9227,9251,HPCC,
+Abstract    :
+              This project involves the development and analysis of a new parallel           
+              logic programming system.  The system is based on a flat variation of          
+              the Pandora language, incorporating both stream communication with             
+              backtracking nondeterminism.  A reduced instruction-set architecture           
+              and storage model for efficient implementations of backtracking and            
+              memory management are major concerns.  In addition, methods of                 
+              scheduling implicit parallelism with graphical tools will be explored.         
+              The radically new approach is based on decompiling the programmer's            
+              interaction with a graphical execution summary.  The goal of the               
+              trace-driven graph is to summarize only the program execution                  
+              characteristics relevant to performance:  granularity and                      
+              dependencies.  This abstraction is necessary to summarize large                
+              programs.  Programmer annotations of the graph made by mouse can be            
+              generalized to explicit pragma within the source program.  This                
+              approach is used on top of other schedulers (e.g., on-demand                   
+              schedulers or explicit schedulers) for fine tuning applications                
+              performance.  Empirical analysis of benchmark performance is a                 
+              critical factor throughout the design process.

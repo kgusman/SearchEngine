@@ -1,0 +1,95 @@
+Title       : Feedforward Control of Data Rate in Wireless Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : April 11,  2002     
+File        : a0106716
+
+Award Number: 0106716
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $299998             (Estimated)
+Investigator: Semyon M. Meerkov smm@eecs.umich.edu  (Principal Investigator current)
+              Pierre T. Kabamba  (Co-Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    734/764-1817
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   Modern wireless networks use feedback control of transmit power to
+              accommodate changing channel conditions, such as propagation loss, shadowing,
+              multi-user interference, etc. This proposal suggests the utilization of
+              feedforward control of data rate, in addition to the existing power control
+              schemes, in order to more effectively combat these disturbances and, in
+              addition, accommodate channel model uncertainties. These controllers use the
+              bit error frequency, observed in the previous packet, in order to calculate the
+              data rate of the packet to be transmitted next. Our preliminary results
+              indicate that ideally this approach leads to a minimum of 20% throughput
+              improvement, without additional power expenditures, or to a minimum of 30%
+              decrease of transmit power, without decreasing the throughput. In some
+              scenarios, this approach may lead to as much as 300% of throughput improvement
+              or to 600% of power saving. Moreover, the efficacy of this
+approach is
+              independent of whether a single or multi-user environment is considered, and no
+              data rate wars take place.
+     The efficacy of feedforward data rate control
+              is mainly due to the following two reasons:
+(a) Unlike feedback power control,
+              which adapts relatively slowly due to a finite step of power increase/decrease,
+              feedforward data rate control adapts in the span of one packet transmission
+              time. This leads to a more effective rejection of fast disturbances, such as
+              the level of shadowing. The above-mentioned minima of throughput increase and
+              power decrease are due to this fast adaptation capability.
+(b) Unlike feedback
+              power control, which does not adapt to channel uncertainties (e.g., whether the
+              channel is AWGN or Rayleigh), feedforward data rate control does accommodate
+              these effects. The above-mentioned three-fold in-crease of the throughput and
+              six-fold decrease of power are exactly due to this fact.
+The approach to the
+              development of feedforward data rate controllers, considered in this proposal,
+              is based on the following three steps:                                         
+                                                                                             
+                        (i) First, a non-causal and non-realistic but optimal feedforward
+              data rate controller is designed. It is non-causal because it calculates the
+              optimal data rate as a function of bit error probability in the packet yet to
+              be transmitted.  It is non-realistic, because it uses the probability of bit
+              error rather than the frequency of this event. It is designed solely in order
+              to derive the least upper bound of the achievable throughput.
+(ii) Next, this
+              controller is causified and made realistic. The causification is achieved by
+              making the data rate of each packet a function of bit error probability in the
+              previous packet. It is made realistic by using the frequency of bit error
+              rather than its probability. Thus, an implementable controller is obtained and
+              its performance is evaluated. It is shown that causification leads to a
+              relatively small decrease of performance for all practical speeds of mobiles.
+              However, using frequencies instead of probabilities may lead to a substantial
+              performance loss. Thus, a certain level of filtering of bit error frequency is
+              necessary.
+(iii) Finally, a filtered version of the above implementable
+              controller is introduced and it is shown that a right level of filtering leads
+              to an efficient performance. At this point, this level of filtering is
+              investigated only experimen-tally (i.e., numerically), and a rigorous method
+              for designing right filters is, along with others, a problem to be addressed in
+              the proposed research.
+     Based on the results to-date briefly mentioned
+              above, the main tasks of the proposed research are as follows:
+1. Develop
+              methods for design of implementable feedforward data rate controllers for
+              wireless networks.
+2. Quantify the level of throughput increase and/or
+              transmit power decrease when this technology is used.
+3. Develop an
+              architecture in which feedforward data rate control can be used in both
+              cellular and ad-hoc environ-ments.
+     The impact of the proposed research is
+              in providing wireless network designers with a new method for combating channel
+              disturbances and uncertainties.

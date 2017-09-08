@@ -1,0 +1,47 @@
+Title       : Interactive, Semi-Automated, Lagrangean Relaxation and Decomposition Modeling
+               System for Linear and Mixed Integer Programming
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : December 18,  1991  
+File        : a9160722
+
+Award Number: 9160722
+Award Instr.: Standard Grant                               
+Prgm Manager: Ritchie B. Coryell                      
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : January 1,  1992    
+Expires     : September 30,  1992  (Estimated)
+Expected
+Total Amt.  : $49998              (Estimated)
+Investigator: Robert J. Kimble   (Principal Investigator current)
+Sponsor     : Daniel H Wagner Assocs
+	      40 Lloyd, Suite 200
+	      Malvern, PA  19355    215/644-3400
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2845,
+Abstract    :
+                   This project addresses the need of the applications specialist            
+              for advanced mathematical programming methods without the heavy                
+              investment of time which is normally required.  It aims to provide             
+              advanced modeling aids for setting up Lagrangean Techniques which are          
+              usually indispensable when dealing with large complex problems.  This          
+              will be accomplished by imbedding Lagrangean Modeling into an                  
+              interactive environment under state-of-the-art systems such as GAMS            
+              and MPSX/370.  The user will be guided in setting up models and                
+              associated Lagrangean Techniques without having to code the details.           
+              He will be led by the system and will be able to try out various               
+              options before committing to a final set of decisions (how to                  
+              decompose, how to set the various parameters, how to select from a set         
+              of specialized solvers, how to guide the Lagrangean Dual solution              
+              procedures, etc.)  Various algorithmic devices will be provided as             
+              needed, including: solving the Lagrangean Dual by subgradient                  
+              optimization or dual ascent; providing an overall Branch and Bound             
+              shell; making available special purpose algorithms; modifying GAMS to          
+              take advantage of the decomposition; introducing advanced integer              
+              programming (logical processing, probing) and heuristics.

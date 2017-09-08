@@ -1,0 +1,49 @@
+Title       : Collaborative Research: Integrating Pointer Confinement and Access Control for
+               Encapsulation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  2002    
+File        : a0208984
+
+Award Number: 0208984
+Award Instr.: Standard Grant                               
+Prgm Manager: Carl E. Landwehr                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2002  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $160002             (Estimated)
+Investigator: David A. Naumann naumann@cs.stevens-tech.edu  (Principal Investigator current)
+Sponsor     : Stevens Inst of Technology
+	      Castle Point on Hudson
+	      Hoboken, NJ  07030    201/216-5000
+
+NSF Program : 2802      Trusted Computing
+Fld Applictn: 
+Program Ref : 9218,HPCC,
+Abstract    :
+              In modern computer systems, computation is distributed over many host machines.
+              Mutually untrusted machines and users coexist, and software is built using
+              plug-and-play components downloaded from remote hosts. Multiple users share
+              resources so it is critical to ensure, e.g., that private information is not
+              compromised.  Languages like Java and C# are designed to provide such security
+              by enforcing encapsulation boundaries that restrict interdependencies and
+              information flows between program components.  Such boundaries are undercut,
+              however, by ubiquitous pointer aliasing which can be maliciously exploited to
+              leak sensitive information.
+
+This project studies ways to confine pointers to
+              their intended scopes.  The focus is on the interplay between static analysis
+              and dynamic access control to achieve confinement.  The technical goal is to
+              find confinement regimes that can be used to assure secure information flow in
+              systems implemented using dynamic binding, multithreading, inheritance,
+              class-based encapsulation, and access control.  Analyses and transformations to
+              minimize run-time performance costs for confinement and access control are also
+              investigated.  This work will lead to better programming methods and tools for
+              development of web-based services and other distributed applications that
+              require a high level of assurance.  The work will contribute to technology for
+              implementing programming languages and for checking for security flaws in
+              application programs.

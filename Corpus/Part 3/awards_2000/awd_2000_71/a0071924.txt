@@ -1,0 +1,86 @@
+Title       : Experimental Partnership-Experimental Research in Speculative Multithreading
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : July 16,  2002      
+File        : a0071924
+
+Award Number: 0071924
+Award Instr.: Continuing grant                             
+Prgm Manager: Gregory R. Andrews                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2000 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $1859948            (Estimated)
+Investigator: Gurindar S. Sohi sohi@cs.wisc.edu  (Principal Investigator current)
+              James E. Smith  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1659,1661,4725,9218,HPCC,
+Abstract    :
+              EIA-0071924
+Gurindar S. Sohi
+University of Wisconsin-Madison
+
+Experimental
+              Partnership-Experimental Research in Speculative Multithreading
+
+Speculative
+              threads do not depend on conservative guarantees of safe data communications
+              among threads.  Rather, threads are dispatched speculatively, and data can be
+              communicated speculatively. i.e. by assuming that it is correct.  Incorrect
+              speculations are detected later, and whenever they occur, recovery is under
+              taken to assure correctness.   This less conservative approach to defining and
+              dispatching threads find parallelism in ways that conservative methods
+              cannot.
+
+In this research, the principal investigators will build a
+              comprehensive, integrated experimental infrastructure and use it to carry out
+              an investigation of issues related to the design of speculative multithreaded
+              processors. Along with their graduate students the principal investigators will
+              conduct experimental research in speculative multithreaded processors.  Modern
+              parallel processing systems decompose a program into multiple threads that
+              execute in parallel to provide high performance.  The convention method is to
+              specify parallel threads where all communication of data is carefully
+              synchronized to guarantee correctness a priori.  This approach often means that
+              a conservative approach must be used to provide the necessary guarantees, there
+              by constraining parallelism.  
+
+Using this infrastructure, the investigators
+              will conduct experimental research in three primary areas.
+
+(1) Speculative
+              Thread Identification and Usage.   This will include conventional
+              "control-driven" threads where the focus will be on new opportunities provided
+              by object-oriented programs and commercial workloads.  It will also include
+              "data-driven" threads, a new form of speculative thread, which promises to open
+              new opportunities for extracting parallelism from conventional programs.
+
+(2)
+              Software/Hardware Interaction.  Dynamic program characteristics of threads are
+              likely to be critical
+for managing their identification, scheduling, and data
+              communication.  Dynamic linking will be done as well, in many large
+              network-based applications and will very much limit the static compiler's view.
+                 The investigators will research new methods by which hardware and software
+              can interact to compile and execute speculative multithreaded programs.  This
+              will include architecture features to permit efficient communication and the
+              use of dynamic profiling and re-compilation techniques.
+
+(3) Hybrid "Mixed
+              Thread" Processing.   In future processors and systems, it is likely that
+              several thread types will co-exist.  This includes the speculative threads that
+              are the central focus of the proposed research.  It also includes the
+              traditional non-speculative threads, which may be either explicitly programmed
+              or implicitly extracted b software compilation tools and/or hardware. 
+              Consequently, processors and systems that integrate the complementary thread
+              types into a cohesive "mixed thread" processing model will be developed and
+              studied.
+

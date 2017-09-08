@@ -1,0 +1,52 @@
+Title       : Interior Point Methods: Semidefinite and Nonlinear Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 21,  1997     
+File        : a9700448
+
+Award Number: 9700448
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1997      
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $120000             (Estimated)
+Investigator: Renato D. C. Monteiro monteiro@isye.gatech.edu  (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 9147,9216,HPCC,MANU,
+Abstract    :
+              In a semidefinite programming (SDP) problem, a linear function of  a symmetric
+              matrix variable X is minimized subject to linear  equality constraints on X and
+              the essential constraint that X be  positive semidefinite.  Several problems
+              can be cast as SDP  problems including linear programs, convex quadratic
+              problems  with convex quadratic inequality constraints, matrix norm 
+              minimization and a variety of maximum and minimum eigenvalue  problems. In
+              addition, SDP has many applications in enginnering,  combinatorial optimization
+              and statistics.    It is known that several interior point algorithms for
+              linear  programs can be extended to SDP problems. As in linear  programming,
+              many of these methods are polynomially convergent  and perform very efficiently
+              in practice. In particular,  the class of primal-dual interior point methods
+              and their higher-  order variants are the most effective interior point
+              methods.  In contrast to linear programming, there are many ways one can 
+              compute the Newton search directions used in primal-dual  algorithms for SDP.
+              For this reason, the theory of primal-dual  methods for SDP is substantially
+              more difficult than that for LP.    This project addresses the development of
+              the theory and  implementation of primal-dual interior point algorithms for SDP
+               problems.    The objectives of this research project include:  1) developing a
+              new primal-dual interior point algorithm for SDP;  2) advancing the knowledge
+              of the theory of polynomial and  superlinear convergence analysis of
+              primal-dual methods for SDP;  3) studying the existence and asymptotic behavior
+              of continuous  trajectories for SDP;  4) developing new higher-order
+              primal-dual methods for SDP;  5) implementing the new proposed algorithm and
+              comparing it  against existing primal-dual interior point methods; and  6)
+              extending primal-dual interior point algorithms to the context  of nonlinear
+              SDP and complementarity problems.

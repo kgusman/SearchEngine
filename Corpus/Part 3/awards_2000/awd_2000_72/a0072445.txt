@@ -1,0 +1,62 @@
+Title       : Statistical Numerics
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 23,  2002      
+File        : a0072445
+
+Award Number: 0072445
+Award Instr.: Continuing grant                             
+Prgm Manager: John Stufken                            
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $209952             (Estimated)
+Investigator: Art B. Owen owen@stat.stanford.edu  (Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra Street
+	      Stanford, CA  94305    650/723-2300
+
+NSF Program : 1269      STATISTICS
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              Owen
+0072445
+Abstract
+
+The focus of this project is the application of
+              statistical ideas to high dimensional numerical problems, such as approximation
+              and noisy or nonsmooth optimization.  This work follows on earlier successes in
+              integration.  Standard Monte Carlo sampling integrates with a slowly decreasing
+              error.  Deterministic quasi-Monte Carlo sampling can achieve a much more
+              accurate answer, but without a practical error estimate.  Re-injecting some
+              randomness allows one to estimate the error, and gave rise to a surprising
+              further large improvement in the quality of the answer.  The first problem is
+              to use integration methods on approximation problems.  One expands the function
+              in a basis (polynomials, Fourier functions, or wavelets), and finds that the
+              coefficients are high dimensional integrals.  Estimates of these coefficients,
+              with statistical uncertainty attached, can be used to give approximations with
+              error estimates.  It is also possible to address qualitative issues such as:
+              effective dimension of the function, smoothness of the function, number of
+              important inputs, and so on.  The second problem is to optimize the expected
+              value of a function over some variables in the face of randomness in some
+              others.  An example is how to design an experiment for a nonlinear model.  The
+              third problem is to predict binary functions learned from data.  An example is
+              whether to hold or exercise an American type option.
+
+Computer codes that
+              depend on a great many inputs are becoming ubiquitous.  They are used in the
+              design of semiconductors, airplanes and automobiles, in climate models, and in
+              financial risk management.  On any given task, it can be a great challenge to
+              extract the relevant knowledge buried within this software.  It is also
+              necessary to attach uncertainty estimates to the findings.  For even a few
+              dozen input factors, it becomes necessary to employ statistical methods, of the
+              type being researched in this project.  This project also considers functions
+              that depend on one million or more input factors.  Advances in computer power
+              will bring more attention to such functions, and new methods, such as those
+              investigated in this project, will be required.
+

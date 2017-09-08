@@ -1,0 +1,62 @@
+Title       : Knowledge Transfer and Reuse in Multiclassifier Systems
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : September 27,  1999 
+File        : a9900353
+
+Award Number: 9900353
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 15,  1999 
+Expires     : August 31,  2001     (Estimated)
+Expected
+Total Amt.  : $137389             (Estimated)
+Investigator: Joydeep Ghosh ghosh@ece.utexas.edu  (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              9900353
+Ghosh
+
+Simultaneous and coordinated use of multiple learning
+              components is often needed for satisfactory and robust solutions to difficult
+              problems involving learning, adaptation, recognition/classification and dynamic
+              control.  In popular multi-learner approaches such as ensembles, Bayesian model
+              averagers and mixtures of experts, each component model tries to solve
+              (possibly localized versions of) the same task.  However, in practice, one is
+              often faced by a series of (possibly related) tasks, or a task whose nature
+              changes substantially with time due to nonstationarities, new data/sensors or
+              new domain knowledge.  Moreover, these tasks are solved at different points in
+              time, and at any given time, we may know about what future tasks will need to
+              be solved.
+
+This project will study how existing "support" models can be
+              leveraged to help solve new, and possible related tasks.  It will focus on
+              classification problems, though many of the approaches extend to a much wider
+              variety of tasks.  Issues to be examined include:  (i) how to select from among
+              several support models and measure their relevance vis a vis the new task; (ii)
+              transfer/reuse mechanisms that only use input/output behavior of support
+              models, and (iii) mechanisms that exploit internal structural information of
+              support models.  Certain special issues that arise when dealing with sequence
+              classifiers will also be investigated.  The main goal is to exploit knowledge
+              encapsulated in support models for quicker, more accurate learning with fewer
+              new training examples, along with better understanding of the new
+              problem.
+
+This project will also establish a benchmarking facility in the
+              proposed areas for the benefit of the research community, based on engineering
+              related datasets.  This work will facilitate the application of more versatile
+              and powerful multi-component approaches to engineering smart, adaptive systems.
+               It will also create an evolving knowledge base of support models that are
+              developed collaboratively and are reusable for future tasks.
+***
+

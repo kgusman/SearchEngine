@@ -1,0 +1,71 @@
+Title       : New High-Resolution Semi-Discrete Central Schemes: Derivation, Applications and
+               Local Error Analysis
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 6,  2001     
+File        : a0196439
+
+Award Number: 0196439
+Award Instr.: Standard Grant                               
+Prgm Manager: Thomas W. Fogwell                       
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $65000              (Estimated)
+Investigator: Alexander Kurganov   (Principal Investigator current)
+Sponsor     : Tulane University
+	      6823 St. Charles Avenue
+	      New Orleans, LA  701185665    504/865-4000
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 
+Abstract    :
+              Central schemes may serve as universal finite-difference methods for
+              numerically solving hyperbolic conservation laws, Hamilton-Jacobi equations
+              and closely related convection-diffusion equations. Such schemes are not tied
+              to the specific eigen-structure of the problem, and hence can be implemented
+              in a straightforward manner as black-box solvers for a wide variety of
+              nonlinear equations governing the spontaneous evolution of large gradient
+              phenomena. The first-order  Lax-Friedrichs scheme is the forerunner for
+              suchcentral schemes. The  second-order Nessyahu-Tadmor scheme offers high
+              resolution while  retaining the simplicity of Riemann-solver-free approach. In
+              the  convective regime the improved resolution of the Nessyahu-Tadmor  scheme
+              and its generalizations is achieved by using high-order  piecewise polynomial
+              reconstructions and high-order quadrature  formulas for computing the flux
+              integrals. At the same time, this  family of staggered central schemes suffers
+              from excessive numerical viscosity when a sufficiently small time step is
+              enforced, e.g., due to the presence of (degenerate) diffusive term. Recently
+              Kurganov and Tadmor introduced a new family of central schemes, which retain
+              the simplicity of staggered central schemes, yet they enjoy a smaller
+              numerical viscosity. In particular, these schemes admit a simple semi-discrete
+              formulation. This project aims  to develop new, minimally dissipative fully-
+              and semi-discrete central  schemes for conservation laws. The main ideas
+              behind the construction  of these new schemes is the use of more precise
+              information of the local propagation speed, and realizing the (non-smooth part
+              of the) approximate solution in terms of its cell averages integrated over the
+              nonsymmetric  Riemann fans of varying size.  Hyperbolic conservation laws,
+              Hamilton-Jacobi equations and convection- diffusion equations are of great
+              practical importance. They govern a variety of physical phenomena that appear
+              in fluid mechanics, gas dynamics, magnetohydrodynamics, astrophysics,
+              groundwater flow, meteorology, semiconductors, reactive flows, two-phase flow
+              in oil reservoirs, non-Newtonian flows, front propagation and several
+              other areas. Financial modeling, traffic flow, differential games,
+              optimal control and image enhancement are among the most recent
+              applications of the above models.Genuinely multidimensional high-resolution
+               semi-discrete central schemes provide a rather simple and universal  method
+              for solving these problems. At the same time, the computational efficiency of
+              central schemes is extremely high. For example, recent  numerical experiments
+              in three-dimensional magnetohydrodynamics  demonstrate that using central
+              schemes allows to achieve the desired  resolution about 25 times faster in
+              comparison with other methods. In  general, the advantage of the new
+              semi-discrete central schemes over  alternative upwind methods is particularly
+              amplified when they are used  to solve complicated multidimensional systems
+              arising in practice. The proposed schemes will be also applied to such
+              important problems as compressible and incompressible Euler and Navier-Stokes
+              equations, multi-phase model of geometric optics, multicomponent flow
+              and compressible bubbles models, moving boundaries problems, shock reflection
+              problem for the unsteady transonic small disturbance equation and others. 

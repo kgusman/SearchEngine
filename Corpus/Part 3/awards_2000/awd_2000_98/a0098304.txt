@@ -1,0 +1,64 @@
+Title       : Digital Spectral Analysis for Mixed-Signal System-on-a-Chip Testing and
+               Verification
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 6,  2003   
+File        : a0098304
+
+Award Number: 0098304
+Award Instr.: Continuing grant                             
+Prgm Manager: Sankar Basu                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 15,  2001       
+Expires     : April 30,  2004      (Estimated)
+Expected
+Total Amt.  : $513521             (Estimated)
+Investigator: Michael L. Bushnell bushnell@caip.rutgers.edu  (Principal Investigator current)
+              Michael S. Hsiao  (Co-Principal Investigator current)
+              Vishwani D. Agrawal  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 4710      DES AUTO FOR MICRO & NANO SYS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              We investigate a new application of the theory of signals and systems to test
+              and verification of mixed-signal systems-on-a-chip.  Both digital and analog
+              input signals are considered as a set of time-varying waveforms, characterized
+              by a correlation matrix.  The matrix elements are the auto-correlation and
+              cross-correlation coefficients.  Auto-correlation indicates how much a signal
+              resembles its prior values in time. Cross-correlation indicates how similar or
+              dissimilar two signals are.  The matrix is determined from circuit inputs
+              having "good" fault detection properties.  Auto-correlation was used on tests
+              for a sequential digital circuit.  Random vectors were generated, and only
+              those detecting faults were retained during vector compaction.  The correlation
+              matrix (generated from the vectors) was used to create additional test vectors.
+               The results were spectacular -- more faults were detected, using significantly
+              fewer vectors, and with less computation, than by any other known method.  The
+              shorter vector length significantly reduces testing costs, which are typically
+              one third of integrated circuit costs.
+
+We apply this idea to analog and
+              mixed-signal circuits.  We compose the Hadamard matrix (which describes the
+              time history of prior vectors) for a digital circuit with an analog circuit
+              transfer function.  The matrix expresses successful digital test waveforms in
+              terms of their digital spectrum.  Analog circuits are tested using spectral
+              analysis, but this is the first time that digital circuits have been tested
+              spectrally.  In a mixed digital/analog system, we arrange digital test
+              waveforms to configure the digital part as a "programmable tone generator" to
+              test the analog part. Likewise, the analog part is configured to provide the
+              appropriate signal spectrum to test the digital part.  The possible benefits
+              would be: (1) Removal of isolation test hardware between digital and analog
+              circuits, which are now tested together; (2) Elimination of delays and
+              distortion due to test hardware; (3) Lower cost; and (4) Simpler test
+              generation algorithms.  We also are applying spectral testing ideas to formal
+              hardware verification, which determines whether a circuit, as implemented, is
+              consistent with its specification.
+
+
+

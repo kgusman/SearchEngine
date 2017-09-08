@@ -1,0 +1,62 @@
+Title       : LCE: Parallel Algorithms for Large-Scale Simulation-Based Optimization
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 14,  2000    
+File        : a9732301
+
+Award Number: 9732301
+Award Instr.: Continuing grant                             
+Prgm Manager: Radhakisan S. Baheti                    
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1998  
+Expires     : August 31,  2002     (Estimated)
+Expected
+Total Amt.  : $754230             (Estimated)
+Investigator: Omar Ghattas oghattas@cs.cmu.edu  (Principal Investigator current)
+              Lorenz T. Biegler  (Co-Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 0000,OTHR,
+Abstract    :
+              9732301
+Ghattas
+The emergence of scalable highly parallel supercomputers has
+              opened up new possibilities for modeling complex physical systems in the
+              engineering sciences. Significant strides have been made over the past 20 years
+              in the development, analysis, and implementation of parallel numerical methods
+              for solution of the partial differential equations (PDEs) that govern the
+              behavior of many of these complex physical systems. For many broad classes of
+              simulation problems in the engineering sciences, parallel algorithms are
+              sufficiently mature so that one may move beyond the simulation problem to
+              optimization of systems governed by PDEs.
+
+In contrast to the large body of
+              work on parallel PDE solution, very little research has been conducted on
+              parallel algorithms for optimization of PDEs.  However, given the maturing
+              state of parallel PDE solvers, time is ripe to mount a concerted effort to
+              develop, analyze, implement, apply, and study parallel numerical methods for
+              optimization of systems governed by PDEs or "simulation-based
+              optimization."
+
+Parallel algorithms for solving large-scale optimization
+              problems governed by complex PDE systems will be developed.  Efforts will focus
+              on addressing two barriers that arise in very large scale optimization
+              problems: large numbers of constraints and large numbers of decision variables.
+              For the former, interior point methods will be developed and to address
+              complexity stemming from growth in decision variables; tailor reduced- and
+              full-space Newton-Krylov methods for the optimality system will be developed,
+              with several choices for preconditioners including those based on infinite
+              dimensional approximations of the reduced Hessian. The optimization methods
+              will be implemented on highly parallel supercomputers, and applied to several
+              challenging problems in engineering science, including inverse problems in
+              seismic wave propagation and optimal design/control of biomedical
+              devices.
+***
+

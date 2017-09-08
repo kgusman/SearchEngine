@@ -1,0 +1,88 @@
+Title       : High Order Boundary Perturbation Methods for Boundary Value and Free Boundary
+               Problems
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : August 6,  2001     
+File        : a0196452
+
+Award Number: 0196452
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 1,  2001       
+Expires     : June 30,  2003       (Estimated)
+Expected
+Total Amt.  : $85421              (Estimated)
+Investigator: David P. Nicholls nicholls.2@nd.edu  (Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 
+Program Ref : 0000,OTHR,
+Abstract    :
+              DMS 0072462
+ABSTRACT.
+
+The subject of this proposal is the development (both
+              numerical and analytical) of a new class of 
+perturbative methods for
+              estimating solutions of boundary value problems (BVP) and free boundary
+              problems (FBP) arising in mathematical physics.  Oscar Bruno and Fernando
+              Reitich recently proposed a new class of perturbation methods for approximating
+              solutions of BVP and FBP which are based on the ideas of classical perturbation
+              theory applied to domains which are small deviations from exactly solvable
+              geometries.  These methods are interesting because they are fast, easy to
+              implement, and translate into three and higher dimensions without major
+              modification.  Of course, such schemes are limited by the extent of their
+              domain of convergence, which may be quite small, and the fact that in many BVP
+              and FBP of interest, the domain is a large perturbation of a simple geometry. 
+              This obstacle has been effectively overcome in recent work of Bruno & Reitich
+              in the setting of acoustic and electromagnetic scattering via the introduction
+              of analytic continuation techniques, in particular the use of Pade
+              approximants.  A second challenge faced by the current class of perturbative
+              methods is that they suffer from problems of numerical ill-conditioning due to
+              subtle cancellations which take place in their evaluation.  This drawback has
+              been overcome by the PI & Reitich, for the problem of computing
+              Dirichlet-Neumann operators (DNO) for Laplace's equation, via a straightforward
+              change of variables which simply flattens the domain.  The PI proposes to
+              extend the above results by developing a general purpose perturbative method
+              for solving BVP and FBP which incorporates
+both analytic continuation and
+              domain flattening techniques.  To date, the techniques have only been applied
+              independently to BVP.  The first objective is to first implement them
+              simultaneously for the BVP of computing DNO (for Laplace's equation), and then
+              extend these methods to the case of a genuine FBP (modeling the motion of the
+              interface of an ideal fluid) dimensions.  An investigation of the effects of
+              bottom topography and multiple fluid layers on the methods will follow, and
+              considerations will be made of other classical FBP (e.g. Hele-Shaw flows,
+              Stefan problems, etc.) whose geometries will pose their own challenges. 
+              Subsequently a thorough re-investigation of the problems of electromagnetic and
+              acoustic scattering will be completed with domain flattening techniques
+              implemented to overcome numerical ill-conditioning problems.  Finally, the
+              problem of implementing transparent boundary conditions in scattering problems
+              via DNO will be considered.
+
+Many important scientific problems are defined
+              on complicated domains that may or may not evolve in time.  These problems,
+              such as the scattering of electromagnetic radiation from a rough surface or the
+              evolution of surface waves on a fluid, pose severe theoretical and
+              computational difficulties for applied mathematicians and engineers. When the
+              domain of the problem is simple (rectangular, circular, etc.) the problem can
+              usually be solved explicitly by classical methods.  One approach to the
+              estimation of more general problems is to first consider domains which are
+              small deviations from simple geometries.  Many approaches along these lines
+              have been proposed, but unless great care is taken, they can result in
+              approximations that actually degrade as the approximation is refined.  A new
+              technique, developed by the PI & Fernando Reitich, avoids such difficulties and
+              provides an exciting new method for the estimation of problems on complicated
+              geometries.  However, challenges still remain and these are the subject of this
+              proposal.  One challenge is to extend our new methods for small domain
+              deviations to problems which are large deviations from a simple geometry. 
+              Another challenge is the fast and efficient implementation of these new methods
+              on high performance serial and parallel computers.
+

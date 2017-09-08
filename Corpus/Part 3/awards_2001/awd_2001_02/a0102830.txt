@@ -1,0 +1,77 @@
+Title       : Integrated Research and Education in High-Performance Parallel Optimization
+               Algorithms
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0102830
+
+Award Number: 0102830
+Award Instr.: Continuing grant                             
+Prgm Manager: Xiaodong Zhang                          
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $200806             (Estimated)
+Investigator: Nihar R. Mahapatra mahapatr@cse.buffalo.edu  (Principal Investigator current)
+Sponsor     : SUNY Buffalo
+	      501 Capen Hall
+	      Buffalo, NY  14260    716/645-2977
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 4080,9216,HPCC,
+Abstract    :
+              Abstract for 0102830 Mahapatra
+"Integrated Research and Education in
+              High-Performance Parallel Optimization Algorithms"
+
+This project will perform
+              integrated research and education activities in the multidisciplinary area of
+              parallel optimization. Given the enormous potential role of parallel computing
+              in solving large-scale optimization problems with great societal implications,
+              it is imperative that future scientists and engineers learn its fundamentals.
+              The education component of this project will contribute towards bridging the
+              current gap in knowledge of those professionals. The research activities center
+              around efficient parallelization of an important optimization method called
+              branch-and- bound (B&B), widely used for solving real-world combinatorial
+              optimization problems (COPs). B&B's applications run the gamut of Science,
+              Engineering, Mathematics, and Operations Research, with significant new uses
+              being discovered every year. Research in B&B is performed by two groups of
+              researchers: workers in parallel processing who use sophisticated
+              parallelization techniques in conjunction with simple B&B algorithms, and hence
+              are able to solve COPs of limited size; and workers in operations research who
+              develop and use sophisticated application-specific B&B algorithms with little
+              or no parallelism, to solve larger COPs. The overall objective of the proposed
+              research is to improve solution time and quality for some important
+              optimization problems by an order of magnitude, or to solve previously
+              intractable problems, by applying scalable, high-performance parallelization
+              techniques to application-specific B&B methods.
+
+Technically, the specific
+              goals of the proposed project are as follows. 
+(1) Adaptive Load Balancing: To
+              develop load balancing schemes that adapt to application and target-system
+              characteristics to maximize processor utilization. 
+(2) Efficient
+              Limited-Memory Search: To develop efficient search schemes that enable large
+              problems to be solved within the available memory of practical
+              parallel/distributed systems. 
+(3) Specialized B&B Methods: To develop
+              specialized B&B methods for some important COPs like mixed-integer programming
+              and the traveling salesman problem, and use these to demonstrate solution time
+              and quality improvements for real-world instances of those problems. 
+(4)
+              Parallel Optimization Course and Web Resource: To develop a model course on
+              parallel optimization for upper-level undergraduate and beginning graduate
+              students, as well as a comprehensive, searchable web resource on parallel
+              optimization useful for education. 
+(5) Parallel B&B Software Environment: To
+              incorporate the parallelization techniques developed in this project in a
+              software system for use as an educational and research tool for fast, efficient
+              solution of optimization problems using parallel B&B. 
+
+

@@ -1,0 +1,136 @@
+Title       : ITR: Simulating Extended Time and Length Scales using Parallel Kinetic Monte
+               Carlo and Parallel Accelerated Dynamics
+Type        : Award
+NSF Org     : DMR 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0219328
+
+Award Number: 0219328
+Award Instr.: Standard Grant                               
+Prgm Manager: G. Bruce Taggart                        
+	      DMR  DIVISION OF MATERIALS RESEARCH          
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  2002      
+Expires     : June 30,  2005       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Jacques G. Amar jamar@physics.utoledo.edu  (Principal Investigator current)
+Sponsor     : University of Toledo
+	      2801 West Bancroft
+	      Toledo, OH  436063328    419/530-2844
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 0106000   Materials Research                      
+Program Ref : 1652,1765,9161,AMPP,
+Abstract    :
+              This award is the result of a proposal submitted to the Information Technology
+              Research (ITR) initiative.  The research will be done in collaboration with Los
+              Alamos National Laboratory.  
+
+A long-standing obstacle to the understanding
+              of condensed phase systems is that many important processes occur on a
+              time-scale that is not easily accessible with conventional simulation methods. 
+              For example, molecular dynamics is generally limited to nanoseconds because of
+              the small time-step required for the integration of the equations of motion. 
+              However, relevant processes that are activated, i.e., infrequent events, often
+              take place on a time-scale of microseconds or even longer.  Examples include
+              the evolution of the surface morphology during crystal or film growth, the
+              diffusion of point defects in solids, and the migration of grain boundaries
+              during plastic strain.
+
+Recently, a variety of accelerated dynamics
+              techniques, including hyperdynamics, parallel replica dynamics, and
+              temperature-accelerated dynamics have been proposed in order to speed up the
+              simulation of infrequent events in molecular dynamics.  In particular,
+              temperature-accelerated dynamics has been quite successful in extending the
+              time-scales for simulations since it allows realistic simulations
+              oflow-temperature processes over time-scales as long as seconds and even hours.
+               However, due to the fact that the computational work required scales as the
+              square or even as the cube of the number of atoms N, this technique can only be
+              applied to extremely small systems.  As a result, realistic simulations of
+              materials over both extended time and extended length scales have not been
+              possible.
+
+The research here will use parallel computations in order to
+              extend accelerated dynamics so that both large system sizes and long
+              time-scales can be simulated simultaneously.  The development of such a
+              capability to simulate both mesoscopic systems sizes and long time-scales
+              should present a major breakthrough in our ability to carry out realistic
+              atomic simulations.
+
+In parallel with this effort, sparse-computational
+              algorithms will be developed in order to reduce the exponent corresponding to
+              the dependence of the computational work on the system size in accelerated
+              dynamics.  The development of such algorithms is based on the realization that
+              eliminating non-local moves or groups of non-local moves from the force
+              calculations involved in these methods during the search for saddle-points
+              should significantly reduce the dependence of the computational work required
+              on the cluster size N.  Parallel replica dynamics will also be used in both
+              techniques to extend the time-scales of the simulations.
+
+As a first specific
+              application of spatially parallel accelerated dynamics we will focus on
+              simulations of metal-on-metal epitaxial growth at low temperature using
+              temperature-accelerated dynamics.  This is a problem of great interest due to
+              the observation of a variety of unexplained phenomena including nanoscale
+              facetting and strain-induced mound regularization at low tempertures. The
+              methods developed here should be applicable to a much broader range of systems
+              as well.
+%%%
+ This award is the result of a proposal submitted to the
+              Information Technology Research (ITR) initiative.  The research will be done in
+              collaboration with Los Alamos National Laboratory.  
+
+A long-standing
+              obstacle to the understanding of condensed phase systems is that many important
+              processes occur on a time-scale that is not easily accessible with conventional
+              simulation methods.  For example, molecular dynamics is generally limited to
+              nanoseconds because of the small time-step required for the integration of the
+              equations of motion.  However, relevant processes that are activated, i.e.,
+              infrequent events, often take place on a time-scale of microseconds or even
+              longer.  Examples include the evolution of the surface morphology during
+              crystal or film growth, the diffusion of point defects in solids, and the
+              migration of grain boundaries during plastic strain.
+
+Recently, a variety of
+              accelerated dynamics techniques, including hyperdynamics, parallel replica
+              dynamics, and temperature-accelerated dynamics have been proposed in order to
+              speed up the simulation of infrequent events in molecular dynamics.  In
+              particular, temperature-accelerated dynamics has been quite successful in
+              extending the time-scales for simulations since it allows realistic simulations
+              oflow-temperature processes over time-scales as long as seconds and even hours.
+               However, due to the fact that the computational work required scales as the
+              square or even as the cube of the number of atoms N, this technique can only be
+              applied to extremely small systems.  As a result, realistic simulations of
+              materials over both extended time and extended length scales have not been
+              possible.
+
+The research here will use parallel computations in order to
+              extend accelerated dynamics so that both large system sizes and long
+              time-scales can be simulated simultaneously.  The development of such a
+              capability to simulate both mesoscopic systems sizes and long time-scales
+              should present a major breakthrough in our ability to carry out realistic
+              atomic simulations.
+
+In parallel with this effort, sparse-computational
+              algorithms will be developed in order to reduce the exponent corresponding to
+              the dependence of the computational work on the system size in accelerated
+              dynamics.  The development of such algorithms is based on the realization that
+              eliminating non-local moves or groups of non-local moves from the force
+              calculations involved in these methods during the search for saddle-points
+              should significantly reduce the dependence of the computational work required
+              on the cluster size N.  Parallel replica dynamics will also be used in both
+              techniques to extend the time-scales of the simulations.
+
+As a first specific
+              application of spatially parallel accelerated dynamics we will focus on
+              simulations of metal-on-metal epitaxial growth at low temperature using
+              temperature-accelerated dynamics.  This is a problem of great interest due to
+              the observation of a variety of unexplained phenomena including nanoscale
+              facetting and strain-induced mound regularization at low tempertures. The
+              methods developed here should be applicable to a much broader range of systems
+              as well.
+***
+

@@ -1,0 +1,50 @@
+Title       : Mathematical Sciences: Numerical Linear Algebra - Accuracy and Parallelism
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 2,  1997       
+File        : a9504795
+
+Award Number: 9504795
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1995      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $76303              (Estimated)
+Investigator: Roy Mathias mathias@math.wm.edu  (Principal Investigator current)
+Sponsor     : College of William & Mary
+	      Grants & Research Admin.
+	      Williamsburg, VA  231878795    757/221-3967
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9216,HPCC,
+Abstract    :
+              Mathias       The investigator studies the accuracy of parallel algorithms  for
+              finding the eigenvalues and eigenvectors of linear systems and  develops
+              efficient parallel algorithms for eigenvalue problems,  especially the
+              nonsymmetric case.  The first part of the project  focuses on analysing the
+              accuracy of parallel algorithms -- in  particular  1. parallel prefix type
+              algorithms  2. Jacobi algorithms for the (possibly generalized) symmetric    
+              eigenvalue and singular value problems  3. implementations of the Hessenberg QR
+              algorithm.  The question of accuracy is important, though little work has been 
+              done on it, because some parallel algorithms can be much less  accurate than
+              the corresponding serial algorithm -- so much so  that the results that they
+              produce are meaningless.  The second  part of the project seeks efficient
+              parallel algorithms for the  nonsymmetric eigenvalue problem and to improve the
+              efficiency of  the parallel algorithms for the symmetric eigenvalue problem. 
+              The  nonsymmetric case is especially important as there is no algorithm  for
+              this problem that can properly exploit the capabilities of a  parallel
+              computer.       Parallel algorithms are widely used and studied because they 
+              allow one to solve a computational problem in much less time than  if one were
+              to use a serial algorithm.  As parallel computing  becomes increasing common it
+              is important to have parallel  algorithms that are both accurate and efficient.
+               The goal of this  project is to provide such algorithms for problems in
+              numerical  linear algebra.  Eigenproblems arise naturally in every area of 
+              science and technology, so effective algorithms to solve them have  broad
+              impact.

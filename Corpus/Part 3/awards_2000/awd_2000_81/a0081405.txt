@@ -1,0 +1,64 @@
+Title       : ITR: Adaptive Fault Recovery for Networked Digital Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 30,  2002 
+File        : a0081405
+
+Award Number: 0081405
+Award Instr.: Standard Grant                               
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $179000             (Estimated)
+Investigator: Russell Tessier tessier@ecs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9218,HPCC,
+Abstract    :
+              In this project an integrated fault recovery system is developed that
+quickly
+              isolates faults in programmable digital components and
+determines new device
+              programming configurations to return them
+to full functionality. After
+              detection of a hardware fault in a digital
+component such as a digital signal
+              processor or a field-programmable
+gate array, an attempt to recover from the
+              fault is made at the local 
+embedded system affected by the fault. If the
+              local system is unable 
+to complete the recovery effort, a
+              computational-superior remote system
+may be accessed via a local network to
+              aid in the recovery effort.
+In either case, the result of the recovery
+              procedure is a new device
+configuration (instruction sequence or configuration
+              bitstream). This 
+configuration allows the affected system to perform the same
+              logical 
+function as the original configuration while avoiding the detected
+              
+functional hardware fault.
+
+The direct result of this work is a set of
+              compilation techniques for
+both DSPs and FPGAs that produce instruction and
+              bitstream
+configurations that avoid detected hardware faults.
+These tools are
+              directly integrated into a networked
+environment through the use of TCP/IP
+              transfer mechanisms built into
+operating systems frequently used for
+              scientific computing. 

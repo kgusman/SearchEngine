@@ -1,0 +1,50 @@
+Title       : Utilizing Control Independence and Multi-Threading to Exploit P
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 30,  2002     
+File        : a0073582
+
+Award Number: 0073582
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $200000             (Estimated)
+Investigator: Manoj Franklin manoj@eng.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              The primary objective of the project is to investigate techniques to utilize
+              control independence and compiler-directed multi-threading to exploit
+              instruction-level and thread-level parallelism from ordinary programs.  
+
+The
+              first step involves investigating the science of ILP that is present when
+              utilizing control independence and multi-threading.  Some of the questions that
+              are addressed are: what is required to exploit parallelism, how much of the
+              parallelism can be exploited by simple techniques such as predicated execution
+              or data value prediction, how far should instructions be moved (statically or
+              dynamically) to exploit it how is it impacted by practical considerations, how
+              can it be enhanced by software transformations, on which portions of the code
+              should software transformations be carried out and what should the nature of
+              these transformations be, and what are the characteristics of the storage
+              needed to exploit the available parallelism?
+
+The second step involves
+              investigating hardware and software techniques to exploit the benefits of
+              control independence and data speculation in a multi-threading environment.  In
+              particular, the use of novel methods to represent/specify control independence
+              (and data independence) is investigated.  Issues relevant to multi-threading,
+              such as tradeoffs between the number of speculative paths and performance are
+              also studied using detailed simulation models.
+

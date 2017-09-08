@@ -1,0 +1,66 @@
+Title       : Traveling Wave Based Fault Location for Complex Network Topologies
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : May 16,  2002       
+File        : a9821090
+
+Award Number: 9821090
+Award Instr.: Standard Grant                               
+Prgm Manager: James Momoh                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 1,  1999       
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $120633             (Estimated)
+Investigator: Ali Abur abur@ee.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+Program Ref : 0000,OTHR,
+Abstract    :
+              ECS-9821090
+Abur
+
+This project investigates the problem of determining the
+              exact location of power system faults based on the recorded fault transients. 
+              The potential of using traveling waves created by power system faults, as a
+              means of determining the location of faults has long been recognized.  However,
+              lack of suitable technological tools for high bandwidth monitoring of
+              transients as well as the limitations of existing Fourier based signal
+              processing methods in localizing abrupt changes in signals, have discouraged
+              the efforts of developing comprehensive traveling wave based fault location
+              methods so far.
+This project focuses on the use of the Discrete Wavelet
+              Transform in processing the traveling waves along the faulted transmission
+              lines.  The ability of the Wavelet Transform to capture the fault transients
+              with a high time resolution in lower scales, is exploited in order to develop a
+              fault location algorithm.  Essential idea behind the algorithm is to capture
+              the travel time of the modal components of the three phase transient signals
+              during the fault, as they travel between the fault point and the line terminal
+              at which the recording is done.  This information can then be translated into
+              an equivalent distance, based on the knowledge of the travel velocities of
+              various modes for the monitored line.  The project studies the behavior of the
+              traveling wave based methods' performance under difficult yet common network
+              topologies, such as mutually coupled lines, lines with series compensation
+              capacitors, parallel lines with loop flows, etc.  The effectiveness and
+              computational efficiency of the Wavelet Transform is also carefully examined in
+              terms of the optimal choice of the mother wavelet, number of scales, and the
+              modal signals to be processed.  Developed methods and the related algorithms
+              are critically evaluated based on digital simulation of actual fault transients
+              using the detailed models of power system components.
+The project's results
+              are expected to initiate a new way of processing fault transients, using the
+              information at the higher frequency end of their spectrum, as opposed to most
+              of the techniques currently in use today.  These results can potentially be
+              used in related applications such as harmonics monitoring, detection and
+              characterization of disturbances, distribution system fault monitoring and
+              incipient failure detection of power transformers.
+
+
+

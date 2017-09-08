@@ -1,0 +1,44 @@
+Title       : ITR: Translation Validation for Advanced Compiler Optimizations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 17,  2002      
+File        : a0081588
+
+Award Number: 0081588
+Award Instr.: Continuing grant                             
+Prgm Manager: A. Yavuz Oruc                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $499554             (Estimated)
+Investigator: George C. Necula necula@cs.berkeley.edu  (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9215,HPCC,
+Abstract    :
+              Compilers are an essential component in the software engineering process. They
+              bridge the abstraction gap between high-level programming languages, where the
+              design and reasoning about software takes place, and intermediate or machine
+              level, at which distribution or execution takes place.  This project explores
+              strategies for increasing the reliability of compilers by constructing a
+              compiler companion, called a translation validator, that watches the
+              compilation as it unfolds and checks that each transformation preserves the
+              operational meaning of the program being compiled. This promises to be a
+              feasible alternative to compiler verification since it is, in general, easier
+              to verify that a transformation has been performed correctly than to verify the
+              program that performs it.   Two major benefits are expected from translation
+              validation. One is a significant increase in the effectiveness of testing
+              during development and maintenance of compilers. The other is a methodology for
+              translating along with the source code the formal arguments obtained by
+              source-level static analyses into corresponding formal arguments at the level
+              of the executable that is being distributed and executed. This would allow a
+              code receiver to check quickly that the code has certain properties of
+              interest, such as secure behavior, without having access to source code.

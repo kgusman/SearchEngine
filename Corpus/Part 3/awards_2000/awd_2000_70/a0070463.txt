@@ -1,0 +1,57 @@
+Title       : Reasoning and Plannning with Sensing Actions and Their Applications
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 22,  2002  
+File        : a0070463
+
+Award Number: 0070463
+Award Instr.: Continuing grant                             
+Prgm Manager: William Bainbridge                      
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 1,  2000      
+Expires     : March 31,  2004      (Estimated)
+Expected
+Total Amt.  : $331714             (Estimated)
+Investigator: Chitta R. Baral chitta@asu.edu  (Principal Investigator current)
+Sponsor     : Arizona State University
+	      Box 3503
+	      Tempe, AZ  85287    480/965-9011
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+Program Ref : 9216,HPCC,
+Abstract    :
+              Sensing actions, which when executed change the state of an agent's knowledge
+              without changing the world. are necessary when planning in the presence of
+              incomplete knowledge about the world. The initial aim of this research is to
+              develop a formal characterization of reasoning and planning with sensing
+              actions.   Questions to be addressed include:  What kind of plans are necessary
+              when planning with incomplete information?   When is such a plan correct?  
+              What is the state-space in this case?   How do we compactly represent states?  
+               How do we characterize noise in sensing? How do we specify goals?    What is
+              the complexity of planning with sensing?   The answers to these questions will
+              be used to develop planning algorithms and planners that are more tractable,
+              and which use a sound (but not necessarily complete) reasoning about sensing
+              actions.
+
+Another thrust of this research is to use sensing actions for
+              diagnostic problem solving in dynamic domains.   The PI will formulate the
+              notion of a diagnosis, given a set of observations about different time points.
+                Since a particular set of observations may lead to multiple diagnoses, the PI
+              will develop the notion of a diagnostic plan which when executed will lead the
+              reasoner to a unique (or a smaller set of) diagnoses.  He will then study the
+              complexity of finding a diagnosis and constructing diagnostic plans, and
+              develop and implement corresponding algorithms for tractable
+              subclasses.
+
+This project will lead to a theory of actions that allows
+              sensing actions, which will allow us to: develop sound and complete planners as
+              well as sound, but incomplete, but more tractable planners.   It will extend
+              applications such as agent control and diagnosis to the incomplete world,
+              impacting diverse areas of computer science including the high-level control
+              aspects of mobile robots, active databases, and program verification.
+
+

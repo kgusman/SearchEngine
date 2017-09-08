@@ -1,0 +1,73 @@
+Title       : Inverse Problems via Layer Splitting
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 25,  2002      
+File        : a0099838
+
+Award Number: 0099838
+Award Instr.: Standard Grant                               
+Prgm Manager: Juan J. Manfredi                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $111305             (Estimated)
+Investigator: John Sylvester sylvest@math.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 1281      ANALYSIS PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 0000,OTHR,
+Abstract    :
+              The goal of this project is to develop "Layer Stripping", or more properly,
+              "Layer Splitting" techniques for inverse scattering problems in one or more
+              dimensions. We are working to create stable algorithms by utilizing the
+              principle of causality and by characterizing the scattering data, as much as we
+              possibly can. Inverse scattering problems are often posed in either the
+              "frequency
+domain" or in the "time domain". Theoretically, the two are
+              equivalent, one set of data being related to the other by the Fourier
+              transform. However, features that are easily seen in one domain can appear much
+              more complicated in the other. For example, the scattering operator, in the
+              frequency domain is easily seen to satisfy certain bounds.  The analogous
+              bounds in the time domain appear much more complicated.  Similarly, the timing
+              of reflections (i.e. you hear reflections from nearby objects before you hear
+              those from objects further away) becomes a property of ideals in spaces of
+              analytic functions when translated to the frequency domain.
+
+A main feature
+              of our approach is to carefully analyze how to express each such feature in
+              both contexts, and use these to help characterize the scattering data and
+              enforce stability.
+The fundamental task of science is to investigate the
+              world. Most often, we accomplish this goal by directing waves (e.g. light,
+              X-rays, sound) at an object and  observing the waves after they have interacted
+              with that object.  In some cases, the results of such an experiment can be
+              readily understood (e.g. a photograph, a single X-ray).  However, as our
+              technology becomes more and more complex, the data from an experiment are less
+              and less likely to be directly meaningful. More and more, sophisticated
+              mathematical and statistical techniques are necessary to translate data into
+              something which is meaningful to the human investigator (e.g. a CAT scan, a
+              neutron scattering experiment). This is the general role that Inverse Problems
+              plays in science today.  It is the mathematical science of interpreting
+              experiment. When we solve inverse problems we run physics backwards, deducing
+              the cause from the effect. While physical intuition often suggests the best
+              imaging experiments, an imaging algorithm is not a model of a natural process.
+              In particular, these problems are often ill-posed, and physical principles must
+              often be applied in ways that are radically different than how they would
+              function in a "forward problem" which directly models nature. Thus they offer a
+              unique opportunity for using  mathematical intuition to supplement physical
+              intuition. This project seeks to employ physical principles in novel ways to
+              develop stable imaging techniques. Here is an example, discovered under
+              previous NSF support. We observe reflections of waves from a layered lossless
+              medium with unknown wavespeed. If one makes a guess at the wave speed in part
+              of the medium and uses that guess to compute the reflection one would have seen
+              from the rest of the medium, then either the guess is correct or the computed
+              reflections violate the principle of causality by arriving back at the receiver
+              too soon. We used this principle to develop a very stable algorithm.
+

@@ -1,0 +1,76 @@
+Title       : CAREER: Automated Storage Manager - An Operating System for Input/Output Devices
+               on Storage Area Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 1,  2002      
+File        : a0093111
+
+Award Number: 0093111
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2006       (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Elizabeth Varki varki@cs.unh.edu  (Principal Investigator current)
+Sponsor     : U of New Hampshire
+	      Service Bldg., Room 111
+	      Durham, NH  03824    603/862-1234
+
+NSF Program : 2876      DISTRIBUTED SYSTEM & COMPILERS
+Fld Applictn: 
+Program Ref : 1045,9217,HPCC,
+Abstract    :
+              Storage systems have evolved from simple disks under the control of file servers
+              to large, indepen-
+dent disk-array systems connected to the network using
+              Network-Attached Storage (NAS) and Storage
+Area Network (SAN) technology. A
+              unique feature of these storage systems is that they are directly
+accessible
+              by applications running on independent computers without the intervention of
+              file servers.
+A downside, however, is that these systems are very difficult to
+              manage because of the increased de-
+mands placed on them by data intensive
+              applications and the number of storage devices connected to
+the network. We
+              propose to improve the management of such storage systems by automating
+              the
+storage management tasks and incorporating performance techniques to
+              provide the system with the
+\intelligence" to adapt to varying storage and
+              workload conditions. In essence, this storage manage-
+ment software system
+              will control and manage all access to storage devices on the network, much
+              as
+an operating system manages and controls all access to a computer system.
+              The storage manager will
+allow applications to express their response time,
+              availability, and bandwidth requirements, and then
+use this information along
+              with its knowledge of device behaviors and application access patterns
+              to
+decide how best to map data to devices such that application constraints
+              and storage system goals
+are met. Based on this work, we anticipate the
+              development of user-friendly, self-managed storage
+systems that are more
+              cost-effective, efficient, and available than current systems that are
+              configured
+and managed manually.
+Our education goal is to integrate
+              performance evaluation tools and techniques into the Computer
+Science
+              curriculum at the University of New Hampshire. Students who will work on the
+              storage
+management system will require performance evaluation skills and our
+              education plan addresses this
+issue. Our long-term goal is to coordinate with
+              industry and other institutions to implement a
+self-managing storage system
+              and make itavailable for research and educational purposes.

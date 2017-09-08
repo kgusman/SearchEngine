@@ -1,0 +1,60 @@
+Title       : ITR: Rate-based Scheduling Technology for Latency-Sensitive Graphics
+               Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 10,  2002      
+File        : a0082866
+
+Award Number: 0082866
+Award Instr.: Continuing grant                             
+Prgm Manager: Yuan-Chieh Chow                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $350001             (Estimated)
+Investigator: James H. Anderson anderson@cs.unc.edu  (Principal Investigator current)
+              Kevin Jeffay  (Co-Principal Investigator current)
+              Sanjoy K. Baruah  (Co-Principal Investigator current)
+              Russell M. Taylor  (Co-Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 
+Program Ref : 1658,1660,9218,HPCC,
+Abstract    :
+              Highly interactive graphics applications have stringent latency requirements to
+              ensure a compelling experience. These requirements are usually met by
+              overprovisioning hardware resources and are validated through ad-hoc testing. 
+              Recent advances in real-time scheduling technology could serve as the
+basis
+              for a more analytical approach. Unfortunately, conventional real-time
+              scheduling disciplines are quite rigid and are usually implemented only within
+              special-purpose real-time operating systems. For these reasons, real-time
+              scheduling techniques have been largely ignored within the graphics
+              community.
+
+In this project, a real-time scheduling and analysis framework
+              will be developed for latency-sensitive graphics applications.  This framework
+              will extend recent work on rate-based processor scheduling. The proposed
+              framework will allow timing requirements to be specified as average rates and
+              will be highly tolerant of any deviance from specified rates. 
+
+The proposed
+              rate-based framework will be evaluated through research involving the
+              nanoManipulator system (www.cs.unc.edu/Research/nano). The nanoManipulator
+              couples a scanning tunneling microscope or atomic force microscope to a
+              virtual-reality graphics display and a haptic interface to provide a
+              telepresence system.  The existing nanoManipulator is not multi-threaded, and
+              thus the system is difficult to modify and analyze.  In this project, a fully
+              multi-threaded version of the nanoManipulator will be developed using
+              the
+proposed framework.
+
+
+

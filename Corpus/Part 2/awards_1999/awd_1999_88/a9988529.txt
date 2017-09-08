@@ -1,0 +1,61 @@
+Title       : A Paradigm Shift in Program Analysis and Transformation via Intersection and
+               Union Types
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 29,  2000    
+File        : a9988529
+
+Award Number: 9988529
+Award Instr.: Standard Grant                               
+Prgm Manager: Sol J. Greenspan                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $170126             (Estimated)
+Investigator: Assaf J. Kfoury kfoury@cs.bu.edu  (Principal Investigator current)
+              Joseph B. Wells  (Co-Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              PI:  Kfoury, Assaf J.
+Proposal Number:  9988529
+Institution:  Boston
+              University
+
+The proposed research is, broadly speaking, in type theory and
+              rewriting theory, separately and in com-bination, motivated by issues of design
+              and implementation of programming languages. Topics of special interest
+              include: automated type inference, expressiveness of language features,
+              efficiency of implementations, reliability, and analysis of tradeoffs between
+              all of the preceding.
+
+Building on past research by the 2 principal
+              investigators and their collaborators in typed lambda calculi, functional
+              languages and rewriting systems, the proposed research will extend to richer
+              typed lambda calculi, mostly based on intersection and union types, towards
+              supporting better design and implementation of higher-order typed languages.
+              This is a shift from the use of universal and existential types in addressing
+              the same issues in the past. The proposed shift is justified by several
+              complications resulting from the use of universal types, discovered by the 2
+              principal investigators and many other researchers since the early 1990's; by
+              contrast, very recent research shows that these complications are not
+              encountered in typed lambda calculi based on intersection types.
+
+The
+              ultimate goal of the proposed research is to provide a rigorous and formal
+              foundation for the imple-mentation of a type-directed and flow-directed
+              compiler using an explicitly typed intermediate language. Such a compiler will
+              observe the invariant that at each stage of the compilation process the
+              intermediate representation of the program will be well typed. A typed
+              intermediate language is currently developed, based on a design to facilitate
+              both flow-directed and type-directed optimization.
+

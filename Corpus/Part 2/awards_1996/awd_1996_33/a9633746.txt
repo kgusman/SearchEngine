@@ -1,0 +1,47 @@
+Title       : Smart Programming Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 9,  1996  
+File        : a9633746
+
+Award Number: 9633746
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1996  
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $159980             (Estimated)
+Investigator: Robert S. Cartwright cork@rice.edu  (Principal Investigator current)
+              Matthias Felleisen  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              Type safety is an essential feature of advanced programming  environments for
+              the rapid development of reliable software,  but it is not sufficient.
+              Programmers try to eliminate as  many errors as possible by reasoning about the
+              program's  behavior. To support this activity, this research seeks to  design
+              and construct smart programming environments. A smart  programming environment
+              is a system for writing, editing,  executing, and analyzing programs. For the
+              latter, the  environment includes "soft type checkers", tools for  verifying
+              simple program invariants. Most notably, these are  the preconditions for each
+              program operation.  Two prototypes of soft type checkers for Scheme have been 
+              developed, based on different analysis methods. One uses an  adaptation of
+              Hindley-Milner type inference (for a non-  standard type algebra); the other
+              uses a form of set-based  analysis. This research would extend the tools, and
+              seeks  (1) to develop a new class of soft typers that combine the  advantages
+              of Hindley-Milner and set-based analysis, (2) to  incorporate additional
+              verification technology, (3) to  develop alternative interfaces for exploring
+              the verifier's  reasoning, and (4) to extend the tools for modular 
+              programming. In addition, ways are being explored to  transfer the technology
+              to lower-level languages, such as a  safe sublanguage of C++ (similar to Java)
+              in the programming  environment.  ***

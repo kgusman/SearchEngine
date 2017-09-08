@@ -1,0 +1,40 @@
+Title       : Order of Magnitude Instruction Level Parallelism
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2001      
+File        : a9708183
+
+Award Number: 9708183
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1997      
+Expires     : June 30,  2002       (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Augustus K. Uht uht@ele.uri.edu  (Principal Investigator current)
+Sponsor     : U of Rhode Island
+	      
+	      Kingston, RI  02881    401/792-1000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+Program Ref : 9215,HPCC,
+Abstract    :
+              This project is exploring a new approach to instruction-level parallelism. The 
+              new approach, disjoint eager execution, uses branch prediction and eager 
+              execution to maximize the number of instructions that can be usefully executed 
+              on each cycle.  The set of branch paths forms a tree, in which each node 
+              represents a branch instruction and each edge represents the code executed 
+              between branches.  In disjoint eager execution, all of the most likely code 
+              segments are candidates for speculative execution, rather than only those code 
+              segments on the most likely path.  In other words, a subtree of instructions is
+               executed that may not be a simple chain.    Preliminary research has included
+              some simulations on benchmarks suggesting that  speedup of about 30 is
+              possible.  This project includes more comprehensive  simulations to determine
+              the benefits, along with architectural studies to  determine the effects of
+              parallelism on cycle time of the machine.

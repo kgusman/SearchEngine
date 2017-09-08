@@ -1,0 +1,64 @@
+Title       : Interior Point Methods Semidefinite Programming
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 10,  2000      
+File        : a9996154
+
+Award Number: 9996154
+Award Instr.: Continuing grant                             
+Prgm Manager: John C. Strikwerda                      
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : November 1,  1998   
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $90705              (Estimated)
+Investigator: Florian A. Potra potra@math.umbc.edu  (Principal Investigator current)
+              Kendall E. Atkinson  (Principal Investigator former)
+Sponsor     : U of MD Baltimore County
+	      1000 Hilltop Circle
+	      Baltimore, MD  21250    301/455-1000
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              PI: Florian Potra    DMS-9706894    Interior Point Methods for Semidefinite
+              Programming    Abstract    Further investigation of interior point algorithms
+              for semidefinite  programming (SDP) is proposed with emphasis on the study of
+              global and  local convergence, infeasibility detection and software
+              development.  While the vast majority of interior point methods for linear 
+              programming (LP) have proven polynomial complexity, this is not the  case for
+              SDP. The iteration complexity of interior point algorithms for  SDP and its
+              dependence on the search direction as well as on the  central path neighborhood
+              used by the algorithm will be investigated.  Locally superlinearly convergent
+              algorithms will be identified within  the class of interior point methods for
+              SDP with proven polynomial  complexity. Superlinear convergence is especially
+              important for SDP  since no finite termination schemes exist for such problems.
+              The local  convergence analysis for interior point algorithms for SDP is much
+              more  challenging than those for LP and it will be a major focus point of the 
+              project.  A C++ package for solving large-scale SDP problems will be 
+              developed. The code will efficiently handle different sparsity patterns 
+              arising in applications, and will provide refined infeasibility  detectors.   
+              Semidefinite programming (SDP) represents one of the most important  classes of
+              optimization problems with many applications in science and  engineering
+              especially related to optimal control (in electrical  engineering), optimal
+              allocation of resources (in economics and  manufacturing), structural
+              optimization (in civil engineeering), etc.  According to a recent survey paper,
+              semidefinite programming is ``the  most exciting development in mathematical
+              programming in the 1990's''.  Until recently no efficient methods were known
+              for solving general  semidefinite programming problems. In the late 80's it has
+              been  realized that interior point methods, initially developed for linear 
+              programming, can be successfully used  for solving semidefinite  programming
+              problems. The advent of interior point methods has created  new opportunities
+              for the application of SDP in science and  engineering. In order for these
+              opportunities to materialize it is  important to provide the scientific
+              community with a good theoretical  understanding of the behaviour of interior
+              point methods for SDP and  with reliable and efficient software capable of
+              solving large-scale SDP  problems.  The project will investigate some of the
+              most critical  issues in the theory of semidefinite programming and will lead
+              to the  design of efficient practical algorithms. The software resulting from 
+              this project is likely to have a positive impact on several application  areas
+              in science and technology.

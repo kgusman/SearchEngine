@@ -1,0 +1,62 @@
+Title       : Architectural Support for Scalable High-Speed Routers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  2001    
+File        : a0105529
+
+Award Number: 0105529
+Award Instr.: Standard Grant                               
+Prgm Manager: Peter J. Varman                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2001  
+Expires     : August 31,  2005     (Estimated)
+Expected
+Total Amt.  : $300000             (Estimated)
+Investigator: Nian-Feng Tzeng tzeng@cacs.louisiana.edu  (Principal Investigator current)
+Sponsor     : Univ of Louisiana at Lafay
+	      104 University Circle
+	      Lafayette, LA  705032701    337/482-6203
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 
+Program Ref : 9215,HPCC,
+Abstract    :
+              Scalable high-speed routers are necessary to handle rapidly growing traffic in
+              the Internet at the aggregated packet forwarding rates expected to reach
+              terabits per second.  This proposal deals with a novel router architecture with
+              good scalability and capable of forwarding hundreds of millions of packets per
+              second, in order to keep up with future transmission technologies.  It aims to
+              help advance the state-of-the-art of router design and to enable large
+              networking configurations.  The project contains both basic research and
+              experimental systems activities, including the major objectives of (1)
+              developing a fast packet classification subsystem (PCS), (2)pursuing a scalable
+              switching fabric (SSF) for interconnecting line cards,
+(3) assessing the use
+              of a simultaneous multithreading SMT) processor to replace the conventional
+              processor(s) in each forwarding engine, and 4) investigating into effective
+              fault-tolerant schemes for key router components.  The first three objectives
+              are related to router scalability and performance,
+whereas the last one is for
+              reliability improvement, which is especially crucial as the router sizes grow. 
+              The fast PCS proposed comprises multiple forwarding engines and a novel
+              cache-oriented multistage structure (COMS), which directs packets arriving at
+              line cards to those forwarding engines for table lookups.  The COMS caches
+              lookup results at its constituent switching elements to enable fast and
+              concurrent lookups of subsequent packets.  Each forwarding engine keeps only
+              partial routing/filter lookup tables, rather than full ones (as in any other
+              router design).  The SSF is based on PI's earlier switching fabric work, with
+              an appropriate set of wrap-around connections and additional logics for
+              hardware multicast support. An initial study on the use of an SMT processor to
+              handle multiple table-lookup processes, with one thread for a process, is
+              encouraging, and its extensive assessment will be conducted in this project. 
+              Caching lookup outcomes optimally in COMS will be modeled formally as a graph
+              optimization problem, with its solution being developed.  Research results from
+              this project are likely to have material, positive impacts on future router
+              design, advancing networking technologies to facilitate the continuous
+              expansion of the Internet for years to come.  They will also enrich the
+              lecturing materials of such courses as computer communications and networks,
+              network computing, and distributed systems.
+

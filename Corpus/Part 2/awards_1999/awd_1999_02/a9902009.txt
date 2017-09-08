@@ -1,0 +1,93 @@
+Title       : Lumigraphs and Manifolds
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 11,  2000 
+File        : a9902009
+
+Award Number: 9902009
+Award Instr.: Standard Grant                               
+Prgm Manager: William Randolph Franklin               
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1999    
+Expires     : July 31,  2000       (Estimated)
+Expected
+Total Amt.  : $150363             (Estimated)
+Investigator: Cindy Grimm   (Principal Investigator current)
+              John F. Hughes  (Co-Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              Introdurtion and Objectives.  Image-based rendering (IBR) is a relatively new
+              computer graphics technique in which multiple images (either computer-generated
+              or photographs) of a scene are modified and combined to produce an image
+              representing a novel view of the scene.  The resulting images often have great
+              detail but are sometimes incorrect, partly because of the lack of an underlying
+              geometric model.  Traditional graphics, by contrast, uses geometric and
+              lighting models to generate correct views of a scene from an arbitrary
+              view-point; but because of modeling costs, they often lack detail.
+An ideal
+              geometric model would have both the complete geometry of the object plus a BRDF
+              (bidirectional reflectance distribution function) at every point on the surface
+              to describe how light interacts with the object, allowing computation of any
+              view of the object under any lighting conditions.  A simple approximation to
+              this ideal is a geometric model with a single color; texture maps improve this
+              approximation by mapping an image onto the geometry.  This project is to devlop
+              a new modeling paradigm, based on IBR, that extends this idea further by adding
+              an approximation to the BRDF at every point on the surface.
+This new modeling
+              paradigm improves upon the efficiency of generating and storing image-based
+              rendering models by combining them with geometric model information, thus
+              bridging the gap between the two methods.  The intent is to construct geometric
+              models which are visually complex and geometrically faithful, but avoid the
+              overhead of geometrically modeled surface detail.
+Just as important as
+              developing an underlying model is the ability to use real-world objects to
+              create the models.  Many of today's complicated geometric models were captured,
+              using a laser scan or a 3D digitizer, from physical objects.  One goal of this
+              research is a similar mechanism for capturing and rendering objects or scenes
+              with complex visual properties.
+
+Methods.  The two disciplines to be merged
+              are image-based rendering and geometric modeling.  The project will use the
+              lumigraph for IBR, partly because it already incorporates a limited geometric
+              model, and will use a manifold-based models for the geometric component.  The
+              lumigraph is a very general method for capturing the behavior of light as it
+              leaves an object.  Manifold-based geometry supports construction of
+              arbitrary-topology surfaces by blending small surface pieces.  The result of
+              combining a lumigraph with a manifold is a geometric model that has information
+              about how light rays are emitted from it.
+With this structure, any local
+              constancy in emitted light along the surface is easily recognized, leading to
+              considerable data-compression advantages.  Thus, in addition to an interesting
+              geometric model, this structure allows for efficient storage of IBR datasets. 
+              This same local-constancy can be used as a guide to goodness-of-fit of the
+              surface to the actual geometry of the object being modeled.  Each of these
+              operations requires a homogeneous representation of the underlying geometry -
+              one in which all of the points can be treated equally, rather than, for
+              example, the division of the points into the vertices, edges, and faces of
+              polyhedra, or the abutting patches of B-spline models.  The manifold structure
+              provides exactly this homogeneity.
+
+Impact.  Many image-based rendering
+              approaches use some knowledge of geometry, usually depth.  The addition of
+              explicit geometry object has two potential benefits; a richer modeling type, in
+              which global lumigraph-like data is attached to a geometric foundation, and a
+              means for explicitly exploring the relationship between geometry and the
+              compression of data gathered from images.
+The resulting models will be useful
+              in multiple applications, particularly those in which high image quality is
+              essential, but where explicit modeling is impossible.  These include
+              special-effects production and educational applications (e.g., on-line medical
+              models), as well as possible applications in reverse engineering and
+              architectural lighting simulation.
+
+
+

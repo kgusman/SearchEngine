@@ -1,0 +1,56 @@
+Title       : Channel Coding Techniques for Low-Complexity Source Coding Applications
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 9,  1998    
+File        : a9618629
+
+Award Number: 9618629
+Award Instr.: Standard Grant                               
+Prgm Manager: Rodger E. Ziemer                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1997  
+Expires     : July 31,  1999       (Estimated)
+Expected
+Total Amt.  : $51000              (Estimated)
+Investigator: Kenneth A. Zeger zeger@ucsd.edu  (Principal Investigator current)
+Sponsor     : U of Cal San Diego
+	      9500 Gilman Drive, Dept. 0934
+	      La Jolla, CA  920930934    858/534-0246
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                The goal of the project is to develop effective joint source-channel coding
+              techniques.  The main objectives are to achieve a deep theoretical
+              understanding of combined source-channel codes and to develop practical
+              algorithms that can effectively be used in real applications such as
+              low-bandwidth video compression and low-delay speech coding.  Very narrow
+              bandwidth transmission channels, such as mobile cellular telephony, require
+              efficient coding schemes to protect the transmitted source information from the
+              corruptive effects of channel errors.  Some previous work on joint
+              source-channel coding has yielded limited success at protecting source coded
+              information.  In particular, low complexity techniques are needed for low delay
+              real time implementations.  This project will investigate channel coding
+              techniques for source coding applications with an emphasis on image, video, and
+              speech coding applications.  A summary of the topics to be investigated is: 
+              Classes of low-complexity redundancy free codes for discrete memoryless
+              channels; error control coding will be incorporated into the source code design
+              and the index assignment problem will be addressed for codes with redundancy. 
+              High resolution quantizer theory will be studied for sources transmitting
+              across noisy channels.  Some preliminary results give useful formulas for
+              randomized index assignments, but a much stronger theory is needed for optimal
+              index assignment.  Lattice codes will be studied both for quantization and
+              channel coding.  A goal will be to develop efficient encoding algorithms for
+              lattice source codes (respectively, decoding algorithms for channel codes). 
+              Preliminary results so far have yielded very fast algorithms for the leech
+              lattice, as well as some of the best-known low dimensional lattices.  Efficient
+              decoding techniques will be developed for channel codes in Euclidean space
+              using specific source coding information.  In particular, trellis decoding
+              algorithms and theory will be studied for unequal input probabilitie s and
+              unequal error protection.  This is currently an unsolved problem though
+              extensions of techniques from traditional decoding algorithms have yielded some
+              limited preliminary success.

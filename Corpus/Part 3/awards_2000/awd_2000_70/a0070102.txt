@@ -1,0 +1,53 @@
+Title       : Lyapunov Methods for Reinforcement Learning
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : July 3,  2000       
+File        : a0070102
+
+Award Number: 0070102
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  2000       
+Expires     : December 31,  2002   (Estimated)
+Expected
+Total Amt.  : $119405             (Estimated)
+Investigator: Andrew G. Barto barto@cs.umass.edu  (Principal Investigator current)
+              Sascha E. Engelbrecht  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 0000,OTHR,
+Abstract    :
+              0070102
+Barto
+
+Reinforcement learning is a summary term for a collection of
+              methods for approximating solutions to stochastic optimal control problems.  RL
+              methods leave been successfully applied to a large array of such problems in a
+              diversity of domains, including finance, logistics, telecommunications, and
+              robot control.  Although similar problems have been studied intensively for
+              many years in control engineering and operations research, the methods
+              developed by RL researchers have added new elements to the classical solution
+              methods.  RL methods offer novel ways to approximate solutions to problems that
+              are too large or ill-defined for the classical solution methods to be
+              feasible.
+
+A significant part of RL research is directed at increasing
+              on-line performance and speed of convergence by providing RL systems with
+              domain knowledge.  This project is concerned with knowledge related to the
+              design of stabilizing controllers for complex dynamical systems.  It will try
+              to develop a general theory for incorporating this knowledge into RL systems. 
+              The basic idea is to mathematically define policy subspaces that have certain
+              known stability and safety properties and to focus exploration on control laws
+              that lie within these policy subspaces.  The means by which this is achieved
+              are based on the theory of Lyapunov stability and the associated methods of
+              Lyapunov control design.
+***
+

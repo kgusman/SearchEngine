@@ -1,0 +1,38 @@
+Title       : Scalable Computational Algorthims for Accurate Quantum Scattering Studies of
+               Four and Five-Atom Systems (Postdoc)
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 27,  1995     
+File        : a9504071
+
+Award Number: 9504071
+Award Instr.: Standard Grant                               
+Prgm Manager: Richard S. Hirsh                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1997        (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Edward F. Hayes hayes.76@osu.edu  (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Rd
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,9218,HPCC,
+Abstract    :
+              Hayes  9504071  The object of this proposal is to test innovative variations of
+              the IRAM approach so as to extend the range of systems that  can be studied
+              efficiently and accurately using the Miller's cumulative reaction probability
+              method.  Preliminary tests of these variations in the Miller approach, which is
+              based on the use of absorbing boundary conditions, have demonstrated that it is
+              possible to obtain accurate eigenvalues for the cumulative reaction probability
+              matrix without assembling the full, dense matrix.  As a result, the basic
+              algorithm is both scalable and very efficient in an MPP environment because
+              standard sparse-matrix concepts can be used to assemble the matrix-vector
+              products required to execute the preconditioned IRAM approach.

@@ -1,0 +1,71 @@
+Title       : ITR/SY(CISE): Why algorithms work well in practice: pertubation-based
+               average-case analysis of the simplex algorithm and beyond
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 23,  2001      
+File        : a0112487
+
+Award Number: 0112487
+Award Instr.: Standard Grant                               
+Prgm Manager: Ding-Zhu Du                             
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  2001     
+Expires     : July 31,  2004       (Estimated)
+Expected
+Total Amt.  : $272040             (Estimated)
+Investigator: Daniel A. Spielman spielman@mit.edu  (Principal Investigator current)
+Sponsor     : MIT
+	      77 Massachusetts Avenue
+	      Cambridge, MA  021394307    617/253-1000
+
+NSF Program : 1686      ITR SMALL GRANTS
+Fld Applictn: 
+Program Ref : 9216,HPCC,
+Abstract    :
+              
+  Computer Scientists have been challenged by the existence of
+remarkable
+              algorithms that work well in practice, but whose
+theoretical analyses suggest
+              that these algorithms should perform
+poorly or are inconclusive.  The root of
+              this problem is that
+traditional theoretical analyses measure the performance
+              of
+algorithms on their worst inputs.  This research analyzes the
+performance
+              of algorithms using smoothed analysis, a new measure of
+the performance of
+              algorithms that can better predict practical
+performance.  Using smoothed
+              analysis, this research aims to explain
+the good practical performance of some
+              algorithms that are famous
+for outperforming pessimistic worst-case
+              analyses.
+
+
+  In particular, algorithms that take real or complex inputs,
+              such as
+those that usually occur in scientific and engineering
+              applications,
+are examined under random perturbations of their worst-case
+              inputs.
+The most famous of these, the simplex method for linear
+              programming,
+was the subject of the paper introducing smoothed analysis.  Yet,
+              this
+work only investigated one rarely-used pivot rule.  This
+              research
+attempts smoothed analyses of the simplex method under more
+              commonly
+used pivot rules.  It also considers smoothed analyses of
+              interior
+point methods and algorithms for convex programming.  An attempt
+              is
+being made to extend this analysis to algorithms that take
+              discrete
+inputs.

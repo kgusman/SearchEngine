@@ -1,0 +1,53 @@
+Title       : SBIR PHASE II: Gridless Density Functional Calculations
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : January 23,  2002   
+File        : a9708206
+
+Award Number: 9708206
+Award Instr.: Standard Grant                               
+Prgm Manager: T. James Rudd                           
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : December 1,  1999   
+Expires     : February 28,  2002   (Estimated)
+Expected
+Total Amt.  : $301366             (Estimated)
+Investigator: Jing Kong jkong@q-chem.com  (Principal Investigator current)
+Sponsor     : Q-Chem, Inc.
+	      317 Whipple Street
+	      Pittsburgh, PA  15218    412/268-1056
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0108000   Software Development                    
+Program Ref : 9139,HPCC,
+Abstract    :
+              This Small Business Innovation Research  (SBIR) Phase II  project seeks to
+              construct new density functionals for use in quantum chemistry.  All of the
+              popular functionals in use today lead to difficult three-dimensional integrals
+              that cannot be computed exactly and which are estimated approximately using 
+              large three-dimensional grids. This project approaches the problem by devising
+              functionals which, by construction, can be integrated exactly and which,
+              therefore, require no grids.  The work will proceed in a number of stages and
+              should yield "gridless" functionals for the exchange and correlation energies. 
+              It should also yield "gridless" functionals for the kinetic energy. The results
+              will be published in respected journals and presented at international
+              scientific conferences.
+The use of gridless density functionals offers two
+              advantages over present methods:  (1) The results will not be contaminated by
+              "grid noise", the error introduced by the imperfect quadrature afforded by a
+              finite numerical grid.  (2) Exact integration is much more efficient than
+              quadrature on a three-dimensional grid (with thousands of grid points per atom)
+              and, as a result, gridless calculations should require much less computing time
+              than   grid-based ones.  The new functionals, will be implemented within the 
+              software package and made available commercially to computational scientists in
+              a future release.  Because gridless density functional calculations will be
+              both more numerically robust and more computationally efficient than grid-based
+              calculations, their availability will allow computational scientists to
+              undertake first principles quantum mechanical studies of larger and more
+              complicated systems than were previously accessible.  This will benefit
+              research in biochemistry, pharmaceuticals, new materials and elsewhere.
+
+

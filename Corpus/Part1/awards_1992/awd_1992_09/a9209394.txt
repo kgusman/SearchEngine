@@ -1,0 +1,66 @@
+Title       : Rational Machine Learning for AI Planning
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : September 9,  1997  
+File        : a9209394
+
+Award Number: 9209394
+Award Instr.: Continuing grant                             
+Prgm Manager: Larry H. Reeker                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1993   
+Expires     : October 31,  1997    (Estimated)
+Expected
+Total Amt.  : $216168             (Estimated)
+Investigator: Gerald F. DeJong dejong@cs.uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 6856      KNOWLEDGE & COGNITIVE SYSTEMS
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9218,HPCC,
+Abstract    :
+                   This research seeks to build a theoretical framework for when             
+              to learn.  Machine learning, which studies the automatic                       
+              acquisition of new concepts, has largely focussed on developing                
+              mechanisms for learning.  Questions such as "How can an AI computer            
+              system come to form a general concept in response to a relatively              
+              few observed training examples?"  and "What prior knowledge is                 
+              required to support such concept acquisition?"  have dominated the             
+              field.  However, it has become clear that the unbridled acquisition            
+              of concepts (even correct concepts) can degrade the performance of             
+              the AI system that they are intended to help.  In sophisticated                
+              applications, such as arise in AI planning, a performance penalty              
+              for learning can be the rule rather than the exception.  Thus,                 
+              machine learning mechanisms cannot be successful unless suitably               
+              restrained.  Unfortunately, the judgement of when to learn is                  
+              itself complex.  The benefit of a new concept depends on features              
+              of the performance system as well as the machine learning                      
+              mechanism.  It can also be strongly influenced by the expected                 
+              profile of tasks to be given to the performance system and by the              
+              concepts that have previously been acquired.                                   
+                                                                                             
+                   The proposed research is intended to produce a fist theory of             
+              rational learning.  The learning component of an AI system is a                
+              rational learner if the AI system's behavior is guaranteed, on                 
+              average, to be improved by the acquisition of any new concepts.                
+              Such a theory must provide a general framework for the interactions            
+              between a machine learning system, the performance system that                 
+              employs the acquired concepts, and characteristics of the estimated            
+              distribution of tasks.  The research will explore both empirical               
+              and analytic approaches to estimating expected concept utility.                
+              The area of planning will serve as a vehicle for the work, but the             
+              results will likely be applicable to other performance systems.                
+              Explanation-based methods form the nucleus of learning methods                 
+              since it, more than the inductive approach, seems liable to the                
+              phenomenon of detrimental learning.  The benefits of the research              
+              will include an enumeration and taxonomy of the types of rational              
+              learning.  It will shed light on which machine learning mechanisms             
+              may be most useful to which type of AI systems, and represents some            
+              first steps towards making machine learning a service area for the             
+              rest of AI.

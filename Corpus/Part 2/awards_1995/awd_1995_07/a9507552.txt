@@ -1,0 +1,88 @@
+Title       : Moving the Ribosome Database Project (RDP) to a DBMS Foundation
+Type        : Award
+NSF Org     : DBI 
+Latest
+Amendment
+Date        : June 19,  1997      
+File        : a9507552
+
+Award Number: 9507552
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Gilna                              
+	      DBI  DIV OF BIOLOGICAL INFRASTRUCTURE        
+	      BIO  DIRECT FOR BIOLOGICAL SCIENCES          
+Start Date  : August 15,  1995    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $321445             (Estimated)
+Investigator: Sakti Pramanik pramanik@cse.msu.edu  (Principal Investigator current)
+              Carl R. Woese  (Co-Principal Investigator current)
+              Gary J. Olsen  (Co-Principal Investigator current)
+Sponsor     : Michigan State University
+	      
+	      East Lansing, MI  48824    517/355-1855
+
+NSF Program : 1165      BIOLOGICAL DATABASES & INFORMA
+Fld Applictn: 0108000   Software Development                    
+              0510204   Data Banks & Software Design            
+              61        Life Science Biological                 
+Program Ref : 9139,9184,BIOT,HPCC,
+Abstract    :
+              Ribosomal RNA (rRNA) sequences are central to biology from both  the basic and
+              the methodological perspectives. As the key  elements in the cellular
+              translation process they are subjects of  detailed structure/function studies
+              in their own right. In  addition, their evolutionary characteristics make them
+              extremely  useful as tools in other areas, microbiology in particular. 
+              Comparative analysis of rRNA sequences has (i) provided the  secondary
+              structure of the rRNAs; (ii) led to the inference of  the universal tree of
+              life--a basis for a natural microbial  classification--and the discovery of the
+              Archaea, (iii) provided  the basis for new and powerful approaches to microbial
+              ecology;  (iv) defined targets for much of the organism-specific probe 
+              development in medical diagnosis; and (v) provided new methods  for
+              environmental impact and bioremediation assessment. Such  studies require large
+              amounts of the rRNA data, and these can be  used effectively only in the
+              context of the appropriate database  of rRNA sequences and related data. It is
+              not sufficient to  provide just the raw sequence data; many analyses require
+              that  the data be organized into alignments, that there be a  phylogenetic
+              overview, and that tools and (for many users) ser  vices be available for data
+              handling and analysis.    In that an rRNA sequence database this useful, this
+              versatile,  did not exist, the Ribosome Database Project (RDP) has been 
+              established at the University of Illinois with support from the  NSF. Through
+              its E-mail (server@rdp.life.uiuc.edu), ftp  (rdp.life.uiuc.edu), gopher
+              (rdpgopher.life.uiuc.edu) and World  Wide Web
+              (http://rdpwww.life.uiuc.edu/index.html) servers, the  RDP offers aligned and
+              phylogenetically ordered rRNA sequences in  a variety of user-selectable
+              formats, as well as various software  for handling and analysis of the data. In
+              addition, services  including automated sequence alignment, organism-specific
+              (or  group-specific) probe design checking, retrieval of  user-selectable
+              subsets of t he sequence data and phylogenetic  trees, and rRNA secondary
+              structure diagrams are provided.    The RDP currently maintains its data in
+              files with formats that  are appropriate for the tools used by the RDP and by
+              the  researchers served. As the volume of data increases, the need for  a more
+              robust and structured system is clear. A properly designed  and implemented
+              version of the RDP on a database management  system (DBMS) will: (i) ensure
+              smooth growth of the RDP; (ii)  provide a uniform and efficient interface to
+              the RDP data for  data accumulation, curation and querying; and (iii)
+              facilitate  the addition of new modes of access to the RDP data and services. 
+              The increased structuring of the data is being carried out with  an eye toward
+              linkage of the RDP's resources with other available  data, facilitating the
+              creation of a federated database. In  addition to increasing the value of the
+              RDP (and the data that  will be linked to it), the proposed work will explore
+              methods for  efficient storage and retrieval of aligned sequence data (the 
+              largest component of the RDP), and for performing the kinds of  complex queries
+              that are used in curating and exploiting these  data.    Specific objectives of
+              this proposal are: (i) complete a detailed  design and implementation of a
+              DBMSbased version of the RDP; (ii)  provide the graphical user interfaces
+              (GUIs) necessary for the  efficient curation of the data; (iii) use the
+              increased data  structuring to further automate the RDP's data updating and 
+              management procedures; (iv) provide all existing user access  modes through the
+              DBMS implementation (v) improve and expand the  access modes and query
+              capabilities available to users of the  RDP; and (v provide the necessary
+              "hooks" for integration of the  RDP with other data, initially the federation
+              of microbial  databases being proposed by the Center for Microbial Ecology 
+              (CME) at Michigan State University (MSU).    Given the present volume of rRNA
+              sequence data l approximately  3500 sequences) and the e stimated future level
+              (tens of thousands  of sequences, or more), the RDP has essential roles to play
+              in  biological, medical and environmental research in the future. To  fill
+              these roles, it is necessary to update its design without  interfering with
+              current services. This proposal addresses this  need.

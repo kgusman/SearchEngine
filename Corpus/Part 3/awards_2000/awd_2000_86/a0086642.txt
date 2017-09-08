@@ -1,0 +1,87 @@
+Title       : INBOUNDS: The Integrated Network-Based Ohio University Network Detective Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 30,  2002 
+File        : a0086642
+
+Award Number: 0086642
+Award Instr.: Standard Grant                               
+Prgm Manager: Admela Jukan                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  2001 
+Expires     : August 31,  2004     (Estimated)
+Expected
+Total Amt.  : $290751             (Estimated)
+Investigator: Shawn D. Ostermann osterman@cs.ohiou.edu  (Principal Investigator current)
+              Brett C. Tjaden  (Principal Investigator former)
+              Lonnie R. Welch  (Co-Principal Investigator current)
+Sponsor     : Ohio University
+	      
+	      Athens, OH  45701    614/594-5511
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 9218,HPCC,
+Abstract    :
+                   This document describes a proposed software system, called INBOUNDS
+              (Integrated
+Network-Based Ohio University Network Detective Service), that
+              will address the
+difficult research problem of security in the dynamic
+              real-time Internet environment
+populated by both legitimate users and hostile
+              intruders.
+    Internet security is becoming more critical by the day.
+              Successful attacks on banks,
+schools, government agencies, and corporations
+              that do business online are becoming
+more and more common, and the frequency
+              of these attacks and the amount of damage
+done is rising rapidly. Commercially
+              available firewalls and intrusion detection systems
+are currently the only
+              weapons with which to defend against the threat, but they are
+obviously not
+              capable of keeping up with the ever-changing attack strategies of hackers.
+   
+               Thus, we propose INBOUNDS a real-time network based intrusion detection
+              and
+response system under development at Ohio University's Laboratory for
+              Real-Time,
+Secure Systems and Applications. INBOUNDS detects and responds to
+              suspicious
+behavior by using TCPTrace (a network traffic analysis tool) and
+              DeSiDeRaTa (dynamic,
+real-time resource management middleware). INBOUNDS is
+              intended to function in a
+heterogeneous environment with fault tolerance, very
+              low overhead, and a high degree of
+scalability. A prototype of INBOUNDS is
+              currently being used for around-the-clock
+intrusion detection and response at
+              Ohio University and we propose to add functionality
+that will enable INBOUNDS
+              to deal with the following important types of attacks:
+    Large-scale,
+              distributed denial-of-service attacks
+    Abnormal network protocol behavior
+              including SYN and RESET attacks
+    Suspicious keywords in interactive
+              sessions/email
+    Suspicious patterns of data, such as the fan-out patterns
+              commonly seen with
+    email viruses
+    Communication over unusual network
+              ports, which are common when attackers
+    target seldom used and insecure
+              servers
+    Connections from unknown/unusual hosts
+    Abnormal data patterns
+              for a particular time of day
+    Unusual data patterns on known ports, such as
+              would be seen when at attacker
+    installs programs using the fingerd port as
+              in the Morris Worm

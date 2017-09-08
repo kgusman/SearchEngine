@@ -1,0 +1,53 @@
+Title       : ITR: Algorithms for Irregular Discrete Computations on SMPs
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 22,  2002      
+File        : a0081404
+
+Award Number: 0081404
+Award Instr.: Continuing grant                             
+Prgm Manager: Barbara M. Fossum                       
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $452051             (Estimated)
+Investigator: Bernard M. Moret moret@cs.unm.edu  (Principal Investigator current)
+              David A. Bader  (Co-Principal Investigator current)
+Sponsor     : University of New Mexico
+	      MSC05 3370
+	      Albuquerque, NM  87131    505/277-2256
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0000099   Other Applications NEC                  
+Program Ref : 1652,1660,4080,9216,HPCC,
+Abstract    :
+              Parallel computing has promised very high performance, but has delivered it only
+              in a narrow range of applications. Exploiting parallelism at the level of large
+              distributed-memory systems is hampered by the cost of message-passing, while
+              shared-memory systems remain mostly small-scale. With the advent of symmetric
+              multiprocessors (SMPs), however, shared-memory on a modest scale is becoming
+              the standard for desktop scientific and engineering applications. Yet very
+              little has been done yet to support effective parallel computing on an SMP
+              beyond basic linear algebra and fast Fourier transforms.  Fortunately,
+              preliminary work by the investigators indicates that it is possible to design
+              and implement algorithms for irregular (i.e. graph-based) computations that
+              provide efficient, scalable performance on SMPs. This project will further
+              develop, implement, assess, and refine those algorithms.
+
+Technically, the
+              project will focus on science-driven problems that are graph- or geometry-based
+              (e.g. phylogeny tees and watershed modeling) and thus involve irregular
+              computation. It will provide three main benefits for these problems. First, it
+              will develop new algorithms and a library of basic routines to support graph
+              and computational geometry algorithms, leveraging insights from nearly twenty
+              years of theoretical work on Parallel Random Access Memory (PRAM). Second, it
+              will produce an assessment methodology for SMP-based computations using both
+              generated test instances and real-world data, extending recent developments in
+              algorithmic engineering and experimental algorithmics. Finally, it will provide
+              a practical demonstration of high performance computing on desktop SMPs for
+              scientific problems.
+

@@ -1,0 +1,89 @@
+Title       : ITR: Active Queue Management for Scalable Network Services: Theory and Internet
+               Practice
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : July 19,  2002      
+File        : a0082870
+
+Award Number: 0082870
+Award Instr.: Continuing grant                             
+Prgm Manager: Taieb F. Znati                          
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  2000  
+Expires     : August 31,  2003     (Estimated)
+Expected
+Total Amt.  : $451903             (Estimated)
+Investigator: Kevin Jeffay jeffay@cs.unc.edu  (Principal Investigator current)
+              Frank D. Smith  (Co-Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      440 West Franklin Street
+	      Chapel Hill, NC  27514    919/966-3411
+
+NSF Program : 1640      INFORMATION TECHNOLOGY RESEARC
+Fld Applictn: 0206000   Telecommunications                      
+Program Ref : 1656,1660,4097,9218,HPCC,
+Abstract    :
+                   Two of the largest issues facing the Internet today are the problems of (1)
+              providing quality-of-service to applications that require some form of
+              "guarantee" of bandwidth availability and/or end-to-end delay, and (2) the
+              problem of avoiding congestion between traditional best-effort flows. Packet
+              scheduling has been the mechanism traditionally used for quality-of-service
+              guarantees while end-system adaptations in the transport layer have been the
+              dominant form of congestion control. Typically, the problems of congestion
+              control and quality-of-service have been addressed as largely independent
+              concerns and separate mechanisms have been developed for each .
+     The
+              essence of this project is to study the interplay between congestion control
+              and quality-of-service and the mechanisms that have been employed for realizing
+              each. The starting point is an investigation of using active queue
+              management(AQM) techniques in network routers to provide both congestion
+              control and quality-of-service for IP flows. Active queue management refers to
+              the practice of manipulating the queue of packets at an outbound network
+              interface on a router to bias the performance of network flows. For example,
+              discarding packets from the queue is an active queue management mechanism that
+              is used in the RED (random early detection) congestion avoidance mechanism.
+  
+                There does not yet exist any fundamental theoretical understanding of how
+              individual AQM mechanisms effect the performance of network flows. From the
+              perspective of Internet service providers this problem is compounded by the
+              fact that there is little, if any, understanding of how AQM mechanisms can be
+              tuned to realize specific performance goals. The impact of AQM mechanisms on
+              broader measures of network performance is unknown because a framework for
+              analyzing AQM performance does not yet exist. This is in contrast to other
+              approaches for quality-of-service such as packet scheduling. Packet schedulers
+              have been carefully analyzed and frameworks exist for computing bounds on
+              performance metrics such as delay, delay-jitter, packet loss, etc.  
+     The
+              main goal of this project is to develop the theoretical underpinnings and
+              engineering principles to guide the construction and deployment of AQM for the
+              Internet. This requires an analytic and empirical study of AQM mechanisms for
+              the purpose of understanding the costs, benefits, and scalability limitations
+              of using AQM for congestion control and quality-of-service. The project also
+              contributes to the overall understanding of principles of resource management
+              in routers. In addition, novel AQM schemes that provide new, scalable solutions
+              for quality of service and congestion control are developed.
+Specific
+              objectives include the following:
+     1. Develop an analysis framework for
+              understanding the performance of AQM mechanisms. A novel aspect is
+              consideration of both network-centric performance metrics such as link
+              utilization, and end-system
+or user-centric measures such as response time.
+ 
+                 2. Develop and analyze novel AQM and hybrid AQM-packet scheduling schemes
+              that realize a spectrum of quality-of-service and congestion control services.
+              A key contribution here is a demonstration of the costs
+and benefits of using
+              packet scheduling v. AQM for scalable implementations of services.
+     3.
+              Demonstrate the effectiveness of the AQM schemes through a case study in
+              managing a research network and supporting an advanced, real-time,
+              distributed-virtual-environment application.
+     The results of this project
+              can have a significant impact on the evolution of the Internet to support new
+              levels of service quality and control congestion while ensuring scalability for
+              very large numbers of users and devices.
+
