@@ -1,36 +1,31 @@
-from nltk import word_tokenize
+import datetime
 import collections
 from nltk.stem import WordNetLemmatizer
 import glob, os
 from configs import documents_dir
 from nltk.corpus import stopwords
 
-def lemmatize(doc_path):
+def lemmatize(words):
     wordnet_lemmatizer = WordNetLemmatizer()
-    inverted_index = collections.defaultdict(set)
-
-    test_string = 'Hello. We are test strings which should be tokenized'
-    res = word_tokenize(test_string)
     res_lemma = []
-    for word in res:
-        res_lemma.append(wordnet_lemmatizer.lemmatize(word, pos='v'))
+    for word in words:
+        res_lemma.append(wordnet_lemmatizer.lemmatize(word))
 
-
-    print(res)
-    print(res_lemma)
+    return res_lemma
 
 def open_docs_in_directories():
+    docs = []
     for root, dirs, files in os.walk(documents_dir):
         for file in files:
             if file.endswith(".txt"):
-                 print(os.path.join(root, file))
-
+                 docs.append(os.path.join(root, file))
+    return docs
 
 def parse_abstract(doc_name):
     text = ""
     with open(doc_name, 'r') as f:
         for line in f:
-            if line.startswith("Abstract    :"):
+            if line.startswith("Abstract"):
                 for l in f:
                     text += l.lower()
 
@@ -58,7 +53,15 @@ def parse_abstract(doc_name):
 
     filtered_words = [word for word in text_list if word not in stopwords.words('english')]
 
-    print(filtered_words)
+    return lemmatize(filtered_words)
 
-# open_docs_in_directories()
-# parse_abstract("./Corpus/Part1/awards_1994/awd_1994_96/a9496308.txt")
+def create_inverted_index():
+    inverted_index = collections.defaultdict(set)
+    docs_list = open_docs_in_directories()
+    for doc in docs_list:
+        lemma_words = parse_abstract(doc)
+        print(doc)
+        if lemma_words != None:
+            for word in list(lemma_words):
+                inverted_index[word].add(doc)
+    return inverted_index

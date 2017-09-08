@@ -1,1 +1,1 @@
-documents_dir = "./Corpus"
+documents_dir = "./Corpus/Part 1/awards_1990/"
