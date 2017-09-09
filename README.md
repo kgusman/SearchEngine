@@ -21,6 +21,7 @@ python3 engine.py
 ```
 
 ## Screenshots
+![Alt text](./Screenshots/queryEx.png?raw=true "Example of a query")
 
 ## Authors
 - **Kamill Gusmanov** - [camilldesmoulins](https://github.com/camilldesmoulins)
