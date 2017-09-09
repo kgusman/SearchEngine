@@ -1,7 +1,7 @@
 # SearchEngine
 Simple SearchEngine using NLTK and inverted index. Corpus based on documents from open [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php).
 
-Dataset - [NSF Research Award Abstracts 1990-2003 Data Set ](http://archive.ics.uci.edu/ml/datasets/NSF+Research+Award+Abstracts+1990-2003) - consists 112 000 documents with necessary onfromation about articles incuding abstracts.
+Dataset - [NSF Research Award Abstracts 1990-2003 Data Set ](http://archive.ics.uci.edu/ml/datasets/NSF+Research+Award+Abstracts+1990-2003) - consists 112 000 documents with necessary infromation about articles incuding abstracts.
 In my case, I search information from this abstracts.  
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
