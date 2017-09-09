@@ -1,6 +1,6 @@
 from invInd import create_inverted_index
-import sys
 from search import *
+import sys
 
 class CommandLine():
     def __init__(self):
@@ -12,11 +12,20 @@ class CommandLine():
             sys.stdout.write(line)
         f.close()
 
+    def print_result(self, path):
+        doc_list = path.split('/')
+        print("Document: %s     Path: %s" %(doc_list[len(doc_list) - 1], path))
+
     def execute_search(self):
-        print("Please, use boolean query type for serchin in corpus.\nExample: 'dogma & population'\nFor more \\"
-              "examples within github repo.")
+        if self.inverted_index == None:
+            print("Initialize inverted index...")
+            self.create_index()
+        print("Please, use boolean query type for search in corpus.\nExample: 'dogma AND population'\nFor more examples use github repo.")
         query = input("Enter query: ")
-        pass
+        result = list(process_query(query, self.inverted_index))
+        print("Number of results: %d" %(len(result[0])))
+        for r in result[0]:
+            self.print_result(r)
 
     def change_index(self):
         type = input("Enter type for an index (1, 2 or 3): ")
