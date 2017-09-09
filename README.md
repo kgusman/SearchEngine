@@ -22,6 +22,8 @@ python3 engine.py
 
 ## Screenshots
 ![Alt text](./Screenshots/queryEx.png?raw=true "Example of a query")
+![Alt text](./Screenshots/getDoc.png?raw=true "Example of a doc")
+![Alt text](./Screenshots/Helper.png?raw=true "Help command")
 
 ## Authors
 - **Kamill Gusmanov** - [camilldesmoulins](https://github.com/camilldesmoulins)
