@@ -1,11 +1,16 @@
 from invInd import create_inverted_index
+import sys
+from search import *
 
 class CommandLine():
     def __init__(self):
         self.inverted_index = None
 
     def print_help(self):
-        pass
+        f = open('help.txt')
+        for line in f:
+            sys.stdout.write(line)
+        f.close()
 
     def execute_search(self):
         print("Please, use boolean query type for serchin in corpus.\nExample: 'dogma & population'\nFor more \\"
@@ -14,15 +19,30 @@ class CommandLine():
         pass
 
     def change_index(self):
-        pass
+        type = input("Enter type for an index (1, 2 or 3): ")
+        if type == str(1):
+            self.inverted_index = create_inverted_index()
+        elif type == str(2):
+            self.inverted_index = create_inverted_index(2)
+        elif type == str(3):
+            self.inverted_index = create_inverted_index(3)
+        else:
+            print("Wrong type of the index. Start again.")
 
     def create_index(self):
         if self.inverted_index == None:
-            inverted_index = create_inverted_index()
+            self.inverted_index = create_inverted_index()
 
     def get_document(self):
         id = input("Enter the document name: ")
-        pass
+        doc = get_doc_by_name(id)
+        if doc == None:
+            print("File not dound.")
+        else:
+            for line in doc:
+                sys.stdout.write(line)
+        print()
+        doc.close()
 
 
     """
@@ -47,7 +67,7 @@ class CommandLine():
             elif response == "\d":
                 self.get_document()
             else:
-                print("Wring command. Type '\h' for help.")
+                print("Wrong command. Type '\h' for help.")
 
         print("Quitting...\nBye!")
 

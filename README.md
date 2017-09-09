@@ -4,6 +4,7 @@
 
 ### Prerequisites
 - [NLTK](http://www.nltk.org/) installed
+- [Python 3](https://www.python.org/downloads/) installed
 
 ### Installing
 
