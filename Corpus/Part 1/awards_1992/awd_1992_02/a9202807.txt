@@ -1,0 +1,48 @@
+Title       : Parallel Algorithms for Geometric Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 5,  1994       
+File        : a9202807
+
+Award Number: 9202807
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $212457             (Estimated)
+Investigator: Mikhail J. Atallah   (Principal Investigator current)
+Sponsor     : Purdue Research Foundation
+	      
+	      West Lafayette, IN  47907    317/494-6200
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2865,9216,HPCC,
+Abstract    :
+              The goal of this project is to investigate the design of                       
+              parallel algorithms for geometric problems, both for shared-                   
+              memory (PRAM) models and the (more realistic) network models.                  
+              The network models of interest include the situation where the                 
+              number of processors available p is fixed (i.e., does not                      
+              depend on the size n of the problem being solved).  In such a                  
+              framework, one needs to bring into the picture the sequential                  
+              "front end" to the parallel machine, since the parallel                        
+              machine is too small to even store the problem being solved.                   
+              Thus the techniques used are both parallel and sequential,                     
+              since a substantial part of the computation may take place in                  
+              the sequential machine.  Attention will be given to  problems                  
+              that are still open within the traditional frameworks (i.e.,                   
+              assuming massive rather than limited parallelism), with                        
+              special emphasis on problems whose solution would impact the                   
+              parallel complexity of many geometric problems (for example,                   
+              multisearching and matrix searching).  The project will also                   
+              initiate investigation of parallelism for computational                        
+              algebraic geometry and geometric modeling.  The research                       
+              undertaken involves implementations on commercially available                  
+              parallel hardware.

@@ -1,0 +1,57 @@
+Title       : Soft Decision Decoding For Block Codes Using Artificial Neural Networks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 3,  1994       
+File        : a9216686
+
+Award Number: 9216686
+Award Instr.: Continuing grant                             
+Prgm Manager: Tatsuya Suda                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1993     
+Expires     : January 31,  1996    (Estimated)
+Expected
+Total Amt.  : $125291             (Estimated)
+Investigator: Stephen B. Wicker   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              9216686  Wicker       The revival of interest in artificial neural networks
+              (ANN's)  in the early 1980's has spurred research into their application in 
+              many engineering fields, including digital signal processing and 
+              communications.  The pattern recognition capabilities of ANN's  allows them to
+              emulate a variety of functions. This emulation is  enhanced through the use of
+              training algorithms, such as  back-propagation, that allow some types of ANN's
+              to ""learn"  desired functions.  This research is an investigation into the 
+              application of ANN's to the soft decision decoding of block error  control
+              codes.  In the past two years, experimental studies have  demonstrated that
+              certain ANN's can perform error control decoding  for some block codes.  The
+              experimental results have so far shown  that ANN's can perform hard decision
+              decoding, but soft decision  decoding results have been extremely limited.  In
+              this  investigation, the error control problem is first translated into  the
+              terms of functional analysis.  Decoding is viewed as a mapping  from a
+              continuous received signal space onto a discrete information  word space. 
+              Decoder design is thus translated into a problem of  functional approximation. 
+              The next step is to use a highly  promising class of ANN's, feedforward neural
+              networks (FFNN's), to  implement the decoding function in an efficient manner. 
+              The  operation of FFNN's can be viewed geometrically, with each layer in  the
+              network carving up the received signal space into increasingly  lower
+              dimensional subspaces, culminating in an output decision  layer that provides
+              estimates of the transmitted information bits.   The functional approximation
+              approach thus allows for ideal soft  decision decoding, while the FFNN design
+              uses the algebro-geometric  redundancy within the block code to reduce the
+              decoder complexity.   The performance of these decoders will be further
+              enhanced through  the use of ANN training techniques that will match input
+              layer  decision metrics to channel conditions w hile the decoder is  operating.
+               The result will be a series of efficient soft decision  decoders for a variety
+              of block codes in a variety of applications.  ***

@@ -1,0 +1,46 @@
+Title       : Algorithms Based on Partial Obstruction Sets
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 1,  1990     
+File        : a9008725
+
+Award Number: 9008725
+Award Instr.: Standard Grant                               
+Prgm Manager: Krishna M. Kavi                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1990     
+Expires     : January 31,  1992    (Estimated)
+Expected
+Total Amt.  : $11508              (Estimated)
+Investigator: Nancy G. Kinnersley   (Principal Investigator current)
+Sponsor     : U of Kansas Main Campus
+	      2385 Irving Hill Road
+	      Lawrence, KS  660447552    785/864-3441
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9221,
+Abstract    :
+              Until recently, one could expect the proof that a problem has a                
+              polynomial time solution to include an algorithm that could be used to         
+              obtain the solution.  Now, however, a number of problems, including            
+              many from the VLSI domain, are known to have low degree                        
+              polynomial-time decision algorithms, yet the algorithms themselves             
+              are not known. These algorithms depend on the existence of a finite            
+              but unknown number of forbidden graphs (an obstruction set).  This             
+              research examines the question of whether full knowledge of an                 
+              obstruction set is really required to solve problems in practice.              
+                                                                                             
+              This research focuses on the gate matrix layout problem.  Since some           
+              obstruction sets for the problem are known, the feasibility of                 
+              designing algorithms that utilize only part of those sets of graphs            
+              will be studied.  This will include identification of those                    
+              obstructions likely to be found in practice and the design and                 
+              implementation of algorithms to test for containment of those graphs.          
+              It also examines which techniques used to isolate the ostructions for          
+              gate matrix layout can be applied to other layout permutation                  
+              problems as well.

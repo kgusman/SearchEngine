@@ -1,0 +1,66 @@
+Title       : Accelerated Vonvergence and Structure Determination of the Backpropagation
+               Neural Network
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : February 4,  1993   
+File        : a9211691
+
+Award Number: 9211691
+Award Instr.: Standard Grant                               
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : August 1,  1992     
+Expires     : January 31,  1996    (Estimated)
+Expected
+Total Amt.  : $99961              (Estimated)
+Investigator: Luke E. Achenie achenie@engr.uconn.edu  (Principal Investigator current)
+Sponsor     : Univ of Connecticut
+	      14 Dog Lane
+	      Storrs, CT  062694133    203/486-2000
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+              53        Engineering-Chemical                    
+Program Ref : 
+Abstract    :
+                                                                                             
+              Neural nets can identify and learn correlative patterns                        
+              between sets of input data and corresponding target values.                    
+              The most widely used neural net architecture, the back-                        
+              propagation net, loosely mimics the human learning process and                 
+              "learns" to recognize patterns relating input and output                       
+              variables.  Such nets are trained by being repeatedly fed                      
+              input data together with corresponding target outcomes.  After                 
+              a sufficient number of training iterations, the net learns to                  
+              recognize patterns in the data and, effectively, creates an                    
+              internal model of the process governing the data.  The net can                 
+              then use this internal model to make predictions for new input                 
+              conditions.  Supervised training of back-propagation neural                    
+              networks is usually achieved through the solution of an                        
+              appropriate optimization problem.  Subsequently, training                      
+              times are affected by the nonlinear programming algorithms                     
+              used.  The training algorithm that is often used is the delta                  
+              rule, which is a steepest descent derivative and as such                       
+              exhibits a linear rate of convergence around a local minimum.                  
+              This results in very long training time, often on the order of                 
+              hours or days for practical problems.                                          
+                                                                                             
+              In this project the PI plans to: (1) accelerate training of                    
+              the back-propagation network using Newton type algorithms, (2)                 
+              determine network structure through the use of the singular                    
+              value decomposition of the analytic hessian, (3) use the                       
+              concept of a Minimal Spanning Network to derive a network of                   
+              linear elements that will provide a performance lower bound on                 
+              the neural network, and (4) impose appropriate bounds (or                      
+              constraints) on design variables to enhance convergence.  He                   
+              hopes that the results will significantly speed up the                         
+              training of neural networks.  The structure of both the                        
+              analytic gradients and the analytic hessian will be exploited                  
+              in an implementation of the back-propagation algorithm on                      
+              parallel computers, resulting in further increases in speed                    
+              up.  With such speed up, it will be possible to tackle                         
+              difficult industrially relevant problems in a reasonable time                  
+              frame.

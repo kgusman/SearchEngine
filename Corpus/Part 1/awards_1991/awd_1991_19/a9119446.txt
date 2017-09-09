@@ -1,0 +1,53 @@
+Title       : Collaborative Research: The REVELATION Project Query Processing In Behavioral
+               Object-Oriented Databases
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : February 6,  1995   
+File        : a9119446
+
+Award Number: 9119446
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $127000             (Estimated)
+Investigator: Leonard D. Shapiro len@cs.pdx.edu  (Principal Investigator current)
+              Goetz Graefe  (Principal Investigator former)
+Sponsor     : Portland State University
+	      P O BOX 751
+	      Portland, OR  972070751    503/725-3423
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 6855,9216,HPCC,
+Abstract    :
+              Many new data management systems are being developed to support                
+              applications with advanced data management requirements, such as               
+              extended relational models, persistent programming languages and               
+              object-oriented databases. Such systems enhance semantic                       
+              expressiveness, but they must offer good performance to be viable              
+              commercial technologies. An area particularly needful of improved              
+              performance is query processing, where new modeling features such              
+              as encapsulation, type hierarchies, complex values and object                  
+              identity make conventional set-processing methods difficult or                 
+              ineffective to apply. The overall goal of the Revelation project               
+              is to expand query processing to address and exploit these new                 
+              modeling extensions at all levels of query processing, from                    
+              schema management, through optimization and physical planning, to              
+              runtime support. For encapsulation, a Revealer is incorporated, a              
+              trusted system component that can access type implementations.                 
+              Heterogeneity in collections arising from subtyping and                        
+              polymorphism is handled by an Annotater that reasons across                    
+              schema definitions. Complex values and identity are addressed                  
+              both at the logical algebra level, with new operations to deal                 
+              with ordered structures such as sequences and arrays, and at the               
+              physical level with new operators such as one to assemble complex              
+              objects. This project will construct a prototype query processor,              
+              exploiting existing software technology such as the Volcano                    
+              optimizer generator and the Volcano query evaluation system.

@@ -1,0 +1,47 @@
+Title       : RIA: Tolerating Synchronization Delays Using Multithreadings
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1993  
+File        : a9308981
+
+Award Number: 9308981
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Rafael H. Saavedra saavedra@usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9218,9264,
+Abstract    :
+              9308981  Saavedra  Multithreading, along with software prefetching, lock-up free
+               caches, and weak consistency models, has been proposed as an  effective
+              hardware mechanism for mitigating the pernicious  effects of the large
+              latencies expected to be present in massive  parallel machines.  This research
+              focuses in studying the extent  to which virtual multithreading can be used to
+              hide the long  delays incurred by synchronization events.  Virtual 
+              multithreading gives the illusion that the processor is executing  a large
+              number of threads using only a small amount of resources.  Preliminary results
+              indicate that, with sufficient hardware  support, the combined execution of the
+              virtual threads can be  used effectively to hide extremely large
+              synchronization delays.    The goals of this research are: 1) explore new
+              hardware  mechanisms for the support of virtual threads and evaluate their 
+              cost-performance tradeoffs;  2) develop analytical formulas to  model the
+              effectiveness of virtual multithreading in terms of the  most relevant machine
+              and program parameters;  3) investigate the  dynamic behavior of fine-grain
+              parallel programs with respect to  synchronization and use this information to
+              construct models of  program execution; and 4) develop a detailed simulator of
+              a  virtual multithreaded-based parallel machine and run an extensive  set of
+              experiments in order to validate the analytical models and  hardware
+              mechanisms.  ***

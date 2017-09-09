@@ -1,0 +1,42 @@
+Title       : RUI: A Portable Environment for Parallel Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 31,  1992   
+File        : a9121875
+
+Award Number: 9121875
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1992        
+Expires     : August 31,  1995     (Estimated)
+Expected
+Total Amt.  : $79060              (Estimated)
+Investigator: Ralph M. Butler rbutler@unf.edu  (Principal Investigator current)
+Sponsor     : U of North Florida
+	      4567 St Johns Bluff Rd S
+	      Jacksonville, FL  322242646    904/646-2666
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9229,
+Abstract    :
+                   This award is for software capitalization of a set of software            
+              tools being written to support the development of parallel programs            
+              that are portable across a wide variety of commercially available              
+              multiprocessors.  The tools support development of programs that               
+              utilize both shared memory machines and distributed memory machines.           
+              A prototype has been written that provides for process creation and            
+              termination, shared memory operations such as simple locking and high-         
+              level monitor operations, message passing via send/receive, and                
+              logging for debugging.  The tools use shared memory operations                 
+              internally whenever possible (even for message passing), and use the           
+              Berkeley socket mechanism for communication when shared memory is not          
+              available.  On machines that provide a local communication mechanism           
+              (such as some mesh machines), the local mechanism is employed                  
+              internally.  The tools provide several advantages over existing                
+              systems that have similar functionality.

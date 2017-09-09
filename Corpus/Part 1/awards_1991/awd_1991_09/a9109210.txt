@@ -1,0 +1,51 @@
+Title       : A Framework For Studying Extended Transaction Models
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 6,  1992       
+File        : a9109210
+
+Award Number: 9109210
+Award Instr.: Continuing grant                             
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $125000             (Estimated)
+Investigator: Krithi Ramamritham krithi@cs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 
+Abstract    :
+              Although powerful, the transaction model adopted in traditional                
+              database systems is found lacking in functionality and                         
+              performance when used for applications that involve reactive,                  
+              long-lived and collaborative activities.  The following are some               
+              of the issues that arise in the context of the extended                        
+              transaction models that have been proposed to address this lack:               
+              correctness properties of a model vis a vis visibility,                        
+              consistency, recovery, and permanence (e.g., traditional                       
+              transactions guarantee failure atomicity, serializability, and                 
+              permanence.); similarities  and differences between two                        
+              transaction models; constraints on using two models in                         
+              conjunction; and, mechanisms needed for managing extended                      
+              transactions.  These issues motivated the development of ACTA, a               
+              comprehensive formalism which characterizes the effects of                     
+              transactions on each other and on objects in the database.                     
+              ACTA's ability to deal with existing extended transaction models               
+              and correctness notions is indicative of its generality.  The                  
+              need for extended transactions emerges from the demands of                     
+              applications, such as CAD/CAM, software development environments,              
+              object-oriented databases, and distributed operating systems. By               
+              providing a formal framework in which to capture the properties                
+              of extended transactions, and thereby identifying the needed                   
+              transaction management mechanisms, this work is producing results              
+              that will impact these information-intensive application areas.

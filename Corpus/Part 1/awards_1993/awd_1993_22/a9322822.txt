@@ -1,0 +1,46 @@
+Title       : Ab Initio Quantum Chemistry on Parallel and Distributed Computers with Gaussian
+               92
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : September 23,  1994 
+File        : a9322822
+
+Award Number: 9322822
+Award Instr.: Standard Grant                               
+Prgm Manager: Joseph E. Hennessey                     
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : October 1,  1994    
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $299865             (Estimated)
+Investigator: Stephen B. Weston weston@sca.com  (Principal Investigator current)
+Sponsor     : Scientific Comput Assocs
+	      One Century Tower, 265 Church St
+	      New Haven, CT  065101070    203/777-7442
+
+NSF Program : 5373      SMALL BUSINESS PHASE II
+Fld Applictn: 0000099   Other Applications NEC                  
+              12        Chemistry                               
+Program Ref : 1978,9148,MANU,
+Abstract    :
+              The goal of the proposed Phase II research is to adapt a variety of high
+              accurate, computationally expensive ab initio methods to run efficiently in
+              parallel on a network of workstations.  This will extend the capacity and
+              availability of electronic structure theory methods to researchers, by
+              multiplying the computing resources applied to the problem.  Feasibility was
+              established by Phase I research that parallelized Hartree-Fock SCF in Gaussian
+              92 through the use of the Linda parallel programming model and software,
+              resulting in good speedups on networks of 4-6 workstations.    Working with the
+              Gaussian and Linda software, the principal objective is to parallelize (to the
+              same level as in Phase I) the computation of MP2, MP3, CID, CISD, MP4, CCD, BD,
+              QCISD, and CCSD energies, including non-interative triple excitation
+              corrections, and gradients up to QCISD.  In the process we plan to develop
+              associated strategies for ERI transformations and iterative energy and gradient
+              methods, to minimize data movement and redundant computations.  A second Phase
+              II objective is to enhance the parallel performance of SCF functions on larger
+              numbers of workstations.  Candidates for parallelization include ERI (shell
+              quartet) selection, matrix diagonalization and other matrix operations used in
+              the ERI transformation and back-transformation.

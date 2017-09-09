@@ -1,0 +1,62 @@
+Title       : Mathematical Sciences: Parallel Algorithms for Surface Water Flows and Transport
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 19,  1995      
+File        : a9408151
+
+Award Number: 9408151
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1994     
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $340000             (Estimated)
+Investigator: Mary F. Wheeler   (Principal Investigator current)
+              Clinton N. Dawson  (Co-Principal Investigator current)
+              Balasubramania Ramaswamy  (Co-Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 1038,1317,9189,9216,9263,CVIS,EGCH,HPCC,
+Abstract    :
+              Wheeler         The investigator and her colleagues study scalable parallel 
+              algorithms for the solution of the hydrodynamic flow and transport  equations. 
+              The mathematical model is based on the generalized  wave-continuity equation
+              for wave height, the non-conservative  form of the momentum equations for
+              velocity, and the  advection-diffusion equation for transport.  The numerical 
+              solution techniques are based on mixed and Galerkin finite element  methods. 
+              For advection processes they study both characteristic  and higher-order
+              Godunov methods.  These algorithms are  implemented on parallel platforms,
+              including clusters of  workstations and massively parallel systems.  Domain
+              decomposition  techniques are used to achieve parallelism.  Once the codes are 
+              developed and validated, they are applied to bay and estuarine  modeling and
+              modeling of storm surges along the Gulf of Mexico.       The objective of this
+              research is to formulate, analyze and  implement accurate and efficient
+              parallel algorithms for modeling  flow and transport in surface water
+              environments.  The impetus for  this research is the need for state and federal
+              agencies and  private industry to understand the effects of tides on coastal 
+              regions and offshore structures, and to study the effects of  industrial and
+              municipal development on bays and estuaries.  More  specifically, this work has
+              applications in several areas,  including 1) calculating tidal ranges and
+              surges caused by extreme  storm events such as hurricanes in order to plan
+              development in  coastal areas and predict potential hazards from flooding; 2) 
+              modeling tidal fluctuations for those interested in capturing  tidal energy for
+              commercial purposes; 3) estimating forces on  offshore structures; 4)
+              predicting influence of dredging of  intercoastal waterways or constructing
+              breakwaters; 5) studying  effects of pollution on bays and estuaries, including
+              possible  remediation strategies; and 6) allocating allowable discharges for 
+              municipalities in order to meet spec ific water quality objectives.  The
+              algorithms developed under this grant improve upon existing  algorithms by
+              effectively using massively parallel computers to  increase resolution and
+              reduce the computational time for a  simulation.  The code to be developed
+              serves as paradigm for a new  generation of software that takes advantage of
+              the trend in  high-performance computing toward massively parallel 
+              architectures.

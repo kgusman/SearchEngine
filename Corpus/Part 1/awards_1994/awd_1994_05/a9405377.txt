@@ -1,0 +1,46 @@
+Title       : Parallel and Distributed Integration Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 2,  1994  
+File        : a9405377
+
+Award Number: 9405377
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1994 
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $122156             (Estimated)
+Investigator: Elise H. deDoncker elise@cs.wmich.edu  (Principal Investigator current)
+              Ajay K. Gupta  (Co-Principal Investigator current)
+Sponsor     : Western Michigan Univ
+	      1903 West Michigan Avenue
+	      Kalamazoo, MI  49008    616/387-8298
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9259,HPCC,
+Abstract    :
+              9405377  deDoncker  Numerical integration has many applications in various areas
+              of  science and engineering.  Computationally intensive multiple  integrals
+              arise in areas such as atomic and nuclear physics,  statistics and the analysis
+              of sensory data.  This project  involves the design, analysis and development
+              of a set of coarse  grain parallel and distributed algorithms for multivariate 
+              numerical integration.    The main focus is on adaptive integration strategies
+              layered over  a system for distributed queue management.  Implementations are 
+              targeted to loosely coupled systems.  Adaptive integration is  used as the main
+              tool for integrals over regions of low to  moderate dimension.  The queue
+              management incorporates the  insertion and deletion of subregions (tasks) into
+              and from the  distributed task pool while retaining balanced or approximately 
+              balanced loads in the local queues.  It will be adapted to the  problem as well
+              as the types of processors and the speed of  communications in the loosely
+              coupled system.  For low  dimensionality special attention will be paid to the
+              use of  (near) optimal degree rules and techniques dedicated to the  treatment
+              of specific integration problems such as singularities  or particular weight
+              functions.  Number theoretic methods will be  included for high dimensions,
+              irregular regions or erratic  function behavior.  ***

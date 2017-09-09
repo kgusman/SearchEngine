@@ -1,0 +1,39 @@
+Title       : Block Multigrid Implicity Solution of the Three-Dimensional Euler Equations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 7,  1990     
+File        : a9015157
+
+Award Number: 9015157
+Award Instr.: Standard Grant                               
+Prgm Manager: Barbara MelvinAA                        
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1990    
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $40000              (Estimated)
+Investigator: David A. Caughey dac5@cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,
+Abstract    :
+                                                                                             
+              Research into the implementation of multigrid on block-structured              
+              grids will be conducted.  The major area of investigations is the              
+              intergrid boundaries, common to block-structured grids.  The                   
+              treatment of the boundary conditions is a crucial component in                 
+              achieving efficient and accurate numerical schemes.                            
+              Investigation into new ways of implementing the boundary                       
+              conditions in a multigrid multiblock scheme is proposed here.                  
+              Areas of investigation are data structure, interpolation and                   
+              restriction operators and conservation across boundaries. The                  
+              resulting new method will be implemented on shared-memory                      
+              parallel computers to achieve high turn around times.

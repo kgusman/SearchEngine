@@ -1,0 +1,47 @@
+Title       : Hierarchical Constraint Logic Programming Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  1991     
+File        : a9107395
+
+Award Number: 9107395
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1991    
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $85633              (Estimated)
+Investigator: Alan H. Borning borning@cs.washington.edu  (Principal Investigator current)
+              Molly Wilson  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+                   Constraint Logic Programming (CLP) is a general scheme for                
+              extending logic programming languages to include constraints.                  
+              However, CLP languages, as well as most other constraint-based                 
+              languages and systems, only allow the programmer to specify                    
+              constraints that must hold.  In many applications, such as interactive         
+              graphics, page layout, and decision support, one needs to express              
+              preferences as well as strict requirements.  The authors have designed         
+              a generalization of the CLP scheme, Hierarchical Constraint Logic              
+              Programming (HCLP), which allows a programmer to express both required         
+              and preferential constraints, with an arbitrary number of strengths of         
+              preference.  Development of HCLP will continue on the practical side,          
+              a goal is to improve the implementation of an instance of the language         
+              scheme, including incorporating efficient constraint solvers and               
+              adding new ways of comparing potential solutions.  Its utility will be         
+              tested by using interactive graphics, as well as document formatting,          
+              decision support, and scheduling, as test applications.  On the                
+              theoretical side, it is planned to extend the constraint hierarchy             
+              formalism to include read-only variables and partially ordered                 
+              hierarchies.

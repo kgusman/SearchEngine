@@ -1,0 +1,48 @@
+Title       : Systems of Variable Type
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : October 25,  1994   
+File        : a9302923
+
+Award Number: 9302923
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1994 
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $173390             (Estimated)
+Investigator: Solomon Feferman sf@csli.standford.edu  (Principal Investigator current)
+              Carolyn Talcott  (Co-Principal Investigator current)
+Sponsor     : Stanford University
+	      651 Serra St.
+	      Stanford, CA  94305    415/723-2300
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              9302923  Feferman  Modern programming languages manipulate potentially infinite 
+              objects (streams, arbitrary precision reals, etc.).  Examples  include:
+              Haskell, ML, and other functional languages, Ada (for  example tasks and
+              processes), and C++ (objects being essentially  higher-order entities). 
+              Real-time applications have  specifications that involve both analog/continuous
+              and discrete  entities and relations between these domains.  To develop formal 
+              methods for functional programming languages for such  applications, and to
+              enforce modular construction of  specifications and programs for
+              programming-in-the-large, one  needs more general (non-algebraic) notions of
+              abstract data types  (ADTs) than have been treated in most of the literature. 
+              Several  questions must then be addressed, including the following:  How  can
+              the notion of ADT be enriched (generalized ADTs) to encompass  such objects? 
+              What does it mean to compute with these objects?  It is important to have an
+              understanding beyond just manipulation  of finite representations.  What is a
+              suitable formal notation  for enriching logical theories by declaring such
+              ADTs?  This  research would focus on the following three closely related 
+              topics: computation over generalized ADTs, systems for definition  of
+              generalized ADTs, and substantial verification examples worked  out within the
+              generalized ADT setting.  The project will  continue work within the framework
+              of variable type (VT)  theories.  ***

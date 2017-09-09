@@ -1,0 +1,43 @@
+Title       : Error Detection and Recovery in High-Performance Fault-Tolerant Processor
+               Systems Employing Caches
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 2,  1993       
+File        : a9224462
+
+Award Number: 9224462
+Award Instr.: Standard Grant                               
+Prgm Manager: John R. Lehmann                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1993       
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $159332             (Estimated)
+Investigator: Arun K. Somani   (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0108000   Software Development                    
+              0308000   Industrial Technology                   
+              0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9148,9215,
+Abstract    :
+              Somani         This is a project to mitigate the effects of transient  faults in
+              redundant computer systems that use cache memories.   Redundant computer
+              systems typically employ a voting circuit as  part of the processor-memory
+              interface to check for consistency  in all bus transactions.  If cache memories
+              are used, many  operations do not use the processor-memory interface, and so 
+              escape the scrutiny of the voter.  In this project new cache  protocols are
+              being designed that provide for fault tolerance in  redundant systems.  The new
+              protocols require the cache  controllers to broadcast the contents of cache
+              lines on occasion,  and require cache controllers to respond to requests from
+              the  memory system to replace erroneous data.  The project covers the 
+              development, analysis, and application of fault-tolerant cache  protocols.     
+                                                                 

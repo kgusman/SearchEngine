@@ -1,0 +1,47 @@
+Title       : Semantics-Based Program Integration
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 19,  1995      
+File        : a9100424
+
+Award Number: 9100424
+Award Instr.: Continuing grant                             
+Prgm Manager: Anand R. Tripathi                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : June 30,  1996       (Estimated)
+Expected
+Total Amt.  : $331211             (Estimated)
+Investigator: Thomas W. Reps reps@cs.wisc.edu  (Co-Principal Investigator current)
+Sponsor     : U of Wisconsin Madison
+	      750 University Ave
+	      Madison, WI  537061490    608/262-3822
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2875,9216,HPCC,
+Abstract    :
+              This award is for continued research on the design and implementation          
+              of tools for interactive computer programming.  Specifically, support          
+              is to continue the research being carried out by the Wisconsin                 
+              Program-Integration Project, which is currently supported by the               
+              National Science Foundation under PYI grant DCR-8552602.                       
+                   The goal of the project is the development of a tool for                  
+              semantics-based program integration.  By program integration is meant          
+              the merging process that one has to go through when a program's source         
+              code diverges into multiple variants (supporting different features,           
+              different operating systems, or incorporating different bug-fixes, for         
+              example).  Semantics-based program integration means that the tool             
+              must determine whether the changes that were made to the base program          
+              to create the variants have undesirable semantic interactions.                 
+              (Becuase problems such as program equivalence are undecidable, an              
+              integration system must use techniques that are safe approximations to         
+              such undecidable problems.)                                                    
+                   The research explores ways to create a system that tests whether          
+              several different, but related, variants of a base program interfere,          
+              and, if there is no interference, automatically merges tham into a             
+              common version that combines their separate features.

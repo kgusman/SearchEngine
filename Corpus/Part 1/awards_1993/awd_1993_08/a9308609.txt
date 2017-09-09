@@ -1,0 +1,46 @@
+Title       : RIA: Parallel Projection Methods for Set Theoretic Signal Restoration &
+               Reconstruction
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 26,  1993       
+File        : a9308609
+
+Award Number: 9308609
+Award Instr.: Standard Grant                               
+Prgm Manager: John Cozzens                            
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1993       
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Patrick L. Combettes   (Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/690-6741
+
+NSF Program : 4720      SIGNAL PROCESSING SYS PROGRAM
+Fld Applictn: 0206000   Telecommunications                      
+              55        Engineering-Electrical                  
+Program Ref : 9216,
+Abstract    :
+              Combettes         The goal of this research is to lay a theoretical and 
+              computational foundation for the use of parallel projection  methods in set
+              theoretic signal/image restoration and  reconstruction.  Its main motivation is
+              to overcome the  shortcomings of the Method of Successive Projections (MOSP,
+              POCS  in the Convex case) that currently prevail in the field: MOSP is  not
+              well suited for implementation on parallel processors due to  its serial
+              structure; it provides poor solutions if the sets do  not intersect
+              (inconsistent formulations); and it converges  slowly and there is no general
+              rule for adapting the relaxation  coefficients to speed up the iterations.     
+                 A general Method Of Parallel Projections (MOPP) is being  developed in which
+              the current iterate is projected  simultaneously onto selected sets and the
+              update is a relaxed  convex combination of the projections.  Research
+              objectives  include, a formal study of the convergence properties of MOPP for 
+              convex and nonconvex, as well as for the consistent and  inconsistent
+              formulations; development of iteration-dependent,  extrapolated overrelaxations
+              to achieve very fast convergence;  and investigation of the practical and
+              computational issues  pertaining to signal/image recovery applications.        
+                                                          

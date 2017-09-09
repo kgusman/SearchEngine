@@ -1,0 +1,49 @@
+Title       : SHRIMP: Architectural and Systems Support for Inexpensive, High-Performance
+               Multicomputers
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : April 27,  1998     
+File        : a9420653
+
+Award Number: 9420653
+Award Instr.: Continuing grant                             
+Prgm Manager: Mita D. Desai                           
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1995     
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $1549995            (Estimated)
+Investigator: Kai Li li@cs.princeton.edu  (Principal Investigator current)
+              Douglas W. Clark  (Co-Principal Investigator current)
+              Edward W. Felten  (Co-Principal Investigator current)
+              Richard J. Lipton  (Co-Principal Investigator current)
+              Margaret Martonosi  (Co-Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+Program Ref : 2891,9215,HPCC,
+Abstract    :
+              This project is building a high-performance multiprocessor from  commodity
+              desktop computer systems and off-the-shelf interconnects.   Commercial Intel
+              Pentium workstation boards, each with attached  memory, disk, and I/O, are
+              attached to a Paragon backplane.   Communication uses a new mechanism called
+              virtual memory-mapped  communication, which disguises interprocessor
+              communication as  write operations to memory.  The node interface maps physical
+              pages  in the memories of individual nodes to each other, so that a write  to
+              one mapped page results in messages to other nodes that share  the mapped page.
+               The operating systems on the individual nodes use  their ordinary virtual
+              memory mechanism to support virtual page  mapping.  In addition to this
+              word-by-word communication, DMA  transfers are available, with control
+              registers located in the  address space of individual processes.  This allows
+              high bandwidth  communication that maintains user-level protection.  Research
+              to be  addressed in the project includes the achievement of high-bandwith 
+              low-latency communication between processes, the structure of an  I/O system
+              supported by the new communication mechanism, and  performance evaluation of
+              the resulting system.

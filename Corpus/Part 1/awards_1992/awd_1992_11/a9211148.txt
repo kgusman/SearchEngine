@@ -1,0 +1,52 @@
+Title       : Parallel Adaptive Finite Element Methods for Parabolic Partial Differential
+               Equations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 29,  1992       
+File        : a9211148
+
+Award Number: 9211148
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1992       
+Expires     : November 30,  1994   (Estimated)
+Expected
+Total Amt.  : $44000              (Estimated)
+Investigator: Joseph E. Flaherty flaherje@cs.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9218,
+Abstract    :
+                Adaptive finite element techniques provide a reliable, robust,               
+              and efficient means of solving the complex partial differential                
+              equations that arise in practice.  Likewise, parallel computation              
+              is becoming indispensable in the solution of modern large-scale                
+              scientific engineering computational problems.  We propose to                  
+              investigate parallel and adaptive procedures for solving vector                
+              systems of three-dimensional time-dependent parabolic equations.               
+              With a goal of developing the most efficient techniques, we will               
+              emphasize adaptive procedures that include both mesh modification              
+              (refinement and coarsening) and variation of the order of the                  
+              finite element procedure.  In a similar spirit, we will                        
+              concentrate on massive parallelism using SIMD and MIMD                         
+              architectures.                                                                 
+                Resulting software will be capable of solving problems on                    
+              arbitrary three-dimensional problem domains using a finite octree              
+              automatic mesh generation procedure.  This tree structure, which               
+              manages data associated with mesh generation and adaptive mesh                 
+              refinement, with further be used to schedule parallel processors               
+              so that loading is balanced and to map spatial regions to various              
+              parallel architectures.  Likewise, we will explore procedures                  
+              that utilize the a posteriori error estimates, furnished with the              
+              adaptive software, to estimate the work remaining in different                 
+              portions of the problem domain and schedule processors                         
+              accordingly.

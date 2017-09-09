@@ -1,0 +1,83 @@
+Title       : Parrallel I/O Methodologies for I/O-Intensive Grand Challenge Applications
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : September 1,  1998  
+File        : a9318145
+
+Award Number: 9318145
+Award Instr.: Continuing grant                             
+Prgm Manager: Stephen R. Mahaney                      
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : August 31,  1999     (Estimated)
+Expected
+Total Amt.  : $3316464            (Estimated)
+Investigator: Paul Messina messina@ccsf.caltech.edu  (Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    818/795-4571
+
+NSF Program : 2885      CISE RESEARCH INFRASTRUCTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              9318145  Messina        The Grand Challenge Application Groups competition
+              provides one mechanism  for the support of multidisciplinary teams of
+              scientists and engineers to meet  the goals of the High Performance Computing
+              and Communications (HPCC) Initiative  in Fiscal Year 1993.  The ideal proposal
+              provided not only the opportunity to  achieve significant progress on (1) a
+              fundamental problem in science or  engineering whose solution could be advanced
+              by applying high performance  computing techniques and resources, (2) enabling
+              technologies which facilitate  those advances, but also significant
+              interactions between scientific and  computational activities, usually
+              involving mathematical, computer or  computational scientist, that would have
+              impact in high performance computational  activities beyond the specific
+              scientific or engineering problem areas(s) or  discipline being studied.  This
+              multi-disciplinary project will investigate and  develop strategies for
+              efficient implementation of I/O intensive applications in  computational
+              science and engineering.  Scalable parallel I/O approaches will be  pursued by
+              a team of computer scientist and applications scientists who will work 
+              together to:          * Characterize the I/O behavior of specific application
+              programs running          on large massively parallel computers        *
+              Abstract and define I/O models (templates)        * Implement and test
+              application-level I/O tools on large-scale          computations               
+              The Pablo performance analysis environment will provide the foundation for  the
+              performance instrumentation and analysis.  The application programs are 
+              already fully operational on advanced architecture systems and their authors
+              are  all co-investigators in this project.  The principal computers used will
+              be the  Intel Touchstone Delta and Paragon systems at Caltech, each with over
+              500  computational nodes.  Five application areas will be included:  fluid
+              dynamics,  chemistry, astronomy, neuroscience, and modelling of m
+              aterials-processing  plasmas.  The parallel programs for these applications
+              cover a range of I/O  patterns and volume, and the techniques that will be
+              developed in this project  will be of relevance to a broad spectrum of
+              engineering and science applications.   In addition, by overcoming their
+              current I/O limitations, the specific  applications targeted in this award will
+              achieve significant new science and  engineering results.  By the end of the
+              project, sustained teraFlops computers  will become available.  The project
+              will devise and implement general methods for  scalable I/O using today's
+              advanced computers, immediately apply those methods  to carry out unprecedented
+              applications in several fields, and use the methods  and experience gained in
+              the first half of the project to tackle the I/O issues  in future sustained
+              teraFlops computers.  This project will be carried out by a  team of
+              researchers who have many years of experience in using parallel computers  for
+              large-scale applications, in measuring and characterizing the behavior of 
+              applications on such computers, and in creating methods and tools that
+              facilitate  the use of such systems.  Building on this considerable experience,
+              the project  will concentrate initially on exploring the I/O behavior of
+              existing applications  and on devising ways to get adequate and scalable I/O
+              performance.  The five  application areas included in this award cover a wide
+              range of I/O needs and  behavior, including the use of out-of-core methods,
+              reading data from high-speed  instruments, interactive and irregular data flows
+              in modelling, and pipelining  of data from distributed computing resources on
+              high-speed networks.  A key part  of the approach is an integration effort that
+              will concentrate on ensuring close  communication and synergy among the
+              components of the project and on integrating  the results.  The primary
+              objective of the project is to develop methods and  insights that are as
+              generally applicable as possible.  This award is being  suppo rted by the
+              Advanced Projects Research Agency as well as NSF programs in  engineering and
+              computer science.

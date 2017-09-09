@@ -1,0 +1,75 @@
+Title       : A Unified Approach to Inter-Domain Multiple-TOS Routing
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : September 29,  1992 
+File        : a9219216
+
+Award Number: 9219216
+Award Instr.: Standard Grant                               
+Prgm Manager: George O. Strawn                        
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : February 28,  1995   (Estimated)
+Expected
+Total Amt.  : $323431             (Estimated)
+Investigator: Jacob Rekhter   (Principal Investigator current)
+Sponsor     : IBM T J Watson Res Ctr
+	      
+	      Yorktown Heights, NY  10598    /   -
+
+NSF Program : 4090      ADVANCED NET INFRA & RSCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9217,
+Abstract    :
+              The Internet today has evolved from a model based on a hierarchy               
+              to one mainly based on a richly interconnected mesh.  Due to this              
+              change in topology, in addition to the exponential growth the                  
+              Internet is currently experiencing, there exists a dire need for               
+              new protocols that support both the ability to route traffic                   
+              based on policy (PB) and/or type of service (TOS) and the ability              
+              to scale well with respect to the memory, computational,                       
+              and bandwidth resources necessary to provide for adaptive routing              
+              of traffic.  This proposal addresses these requirements by                     
+              combining the best of three current routing protocols.  The                    
+              Border Gateway Protocol (BGP) was first implemented on the NSFNET              
+              backbone as a direct response to the need for a new exterior                   
+              gateway protocol in the late 1980s to handle the increase in size              
+              of the Internet and the non-hierarchical peering that was                      
+              beginning to appear. It is based on a path-vector routing model                
+              which uses static routes with accompanying policies per network                
+              and is intended for use with IP-based networks. It is currently                
+              being adapted and implemented by major routing vendors in their                
+              products.  The Inter Domain Routing Protocol (IDRP) is BGP with                
+              additional capabilities and adapted for use in the OSI world                   
+              using CLNP.  IDRP is very close to passing its last international              
+              standards vote and will then be an ISO/CCITT standard.  Its                    
+              emergence will be very helpful in the deployment of U.S. GOSIP                 
+              compliant networks.   The Inter Domain Policy Routing (IDPR) is a              
+              model that allows for the pre-selection of the networks a packet               
+              will transit based on the policies and TOS supported by the                    
+              transit networks in addition to the policies or TOS required by                
+              the source.  This capability is one that many Federal agencies                 
+              need in order to select network paths based on security,                       
+              cost factors, guaranteed bandwidth for multi-media and real                    
+              time experimental control, in addition to providing the agencies               
+              with the tools necessary for implementing their acceptable                     
+              use policies.  The IDPR uses dynamic installation of routes to                 
+              accomplish its goals.  The combination of BGP, IDRP, and                       
+              IDPR would provide the best of all worlds. Economy of resources                
+              would be gained using the aggregation features found in BGP/IDRP,              
+              there by reducing routing table sizes, reducing the                            
+              computational cycles required to calculate routes, and the                     
+              bandwidth necessary for transmitting the routing information. In               
+              addition, the flexibility found in IDPR, required to handle                    
+              special cases such as those defined by the federal agencies, and               
+              both quality of service and type of service support will be                    
+              provided.  This proposal aims at building on the currently                     
+              deployed infrastructure and protocols in a manner that would not               
+              require a mass scale replacement of current technologies and                   
+              equipment, and therefore provide for a phased evolution to an                  
+              Internetwork with enhanced capabilities.

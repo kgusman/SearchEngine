@@ -1,0 +1,46 @@
+Title       : Maximum-Likelihood Soft-Decision Decoding of Linear Codes Using Algorithm A*
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : November 22,  1995  
+File        : a9205422
+
+Award Number: 9205422
+Award Instr.: Continuing grant                             
+Prgm Manager: Thomas E. Fuja                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1992    
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $325637             (Estimated)
+Investigator: Carlos R. Hartmann hartmann@ecs.syr.edu  (Principal Investigator current)
+Sponsor     : Syracuse University
+	      113 Bowne Hall
+	      Syracuse, NY  132441200    315/443-2807
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+                   This project aims to develop new efficient                                
+              maximum-likelihood soft-decision decoding algorithms for linear                
+              block codes and convolutional codes. The approach used here is to              
+              convert the decoding problem into a search problem through a                   
+              graph which is a trellis for an equivalent code of the                         
+              transmitted code.  Algorithm A*, which is widely used in                       
+              Artificial Intelligence search problems, is used to search                     
+              through this graph.  This search is guided by an evaluation                    
+              function f defined to take advantage of the information provided               
+              by the received vector and the inherent properties of the                      
+              transmitted code.  This function f is used to drastically reduce               
+              the search space and to make the decoding efforts of these                     
+              decoding algorithms adaptable to the noise level.  Preliminary                 
+              results indicate a possible breakthrough in the decoding of                    
+              linear block codes. Successful application to convolutional codes              
+              should make possible the use of maximum-likelihood  soft-decision              
+              decoders for large constraint length convolutional codes in                    
+              practical communications systems.

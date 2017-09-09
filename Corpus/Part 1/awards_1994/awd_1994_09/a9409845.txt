@@ -1,0 +1,46 @@
+Title       : RIA: Resource Management in Parallel Database Systems
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 27,  1996      
+File        : a9409845
+
+Award Number: 9409845
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Zemankova                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1994    
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $96409              (Estimated)
+Investigator: Valery Soloviev   (Principal Investigator current)
+Sponsor     : North Dakota State U Fargo
+	      P O Box 5405
+	      Fargo, ND  581055405    701/231-7211
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+                Multiprocessor database machines, with their promise of high  availability,
+              scalability and performance, are increasingly the  systems of choice for large
+              applications.  Efficient resource  utilization is crucial for maximizing both a
+              response time of  individual queries and the overall system throughout. 
+              Resource  utilization issues include how to allocate memory to workload 
+              components, how many and which queries to run in parallel, how to  share the
+              system resources to improve the system performance.  We  restrict our attention
+              to parallel shared-nothing database systems.   In our previous research, batch
+              scheduling of the query workload  was studied.  We demonstrated that sharing
+              low-level query  operators can provide significant savings.  In this project,
+              we  shall perform research into the following areas: 1)  Memory  Management for
+              Mixed Workloads.  These workloads mix simple queries  and short ad-hoc read
+              transactions.  We shall study an incremental  memory allocation method for
+              processing a mixed workload.  2)  Data  Placement.  For a system consisting of
+              several hundred nodes, full  declustering can lead to a performance
+              degradation.  Alternative  placement methods will be examined.  The proposed
+              research will  involve both the development of algorithms for problems in these
+               areas and their experimental analysis using a precise simulation of  a
+              parallel shared-nothing system.

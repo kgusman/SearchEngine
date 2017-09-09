@@ -1,0 +1,48 @@
+Title       : Interval Methods for Nonlinear Algebraic Systems--Techniquesand Software Based
+               on Decomposition of Arithmetic Expressions and Preconditioning
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 16,  1994     
+File        : a9203730
+
+Award Number: 9203730
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1992 
+Expires     : February 29,  1996   (Estimated)
+Expected
+Total Amt.  : $118536             (Estimated)
+Investigator: R B. Kearfott rbk@louisiana.edu  (Principal Investigator current)
+Sponsor     : Univ of Louisiana at Lafay
+	      104 University Circle
+	      Lafayette, LA  705032701    337/482-6203
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,
+Abstract    :
+              Since, in contrast to other methods, interval computations give results        
+              with mathematical certainty, even in the presence of uncertainty in the        
+              data, roundoff error, and nonlinearities, they are of unique potential         
+              importance throughout science, engineering, and operations research.           
+              The work in this project will advance realization of this potential in         
+              the following ways.                                                            
+                                                                                             
+                   o  A modern, portable, standardized library of elementary functions       
+                      will be developed, compatible with the operator overloading            
+                      feature of Fortran 90, to be used in conjunction with interval         
+                      arithmetic computations.                                               
+                                                                                             
+                   o  A parsing technique for nonlinear systems of algebraic equations       
+                      will be implemented to better take advantage of the structure of       
+                      such systems, and thus avoid much of the overestimation and            
+                      resulting inefficiency in interval nonlinear system solvers.           
+                                                                                             
+                   o  The methods will be applied to various practical problems,             
+                      including robust geometric computation, robot kinematics,              
+                      chemical kinetics equilibrium, and chemical refinery models.

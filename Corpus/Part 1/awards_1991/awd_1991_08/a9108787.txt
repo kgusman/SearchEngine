@@ -1,0 +1,53 @@
+Title       : Structural Optimization and Parallel Computation
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 30,  1991      
+File        : a9108787
+
+Award Number: 9108787
+Award Instr.: Standard Grant                               
+Prgm Manager: Maxine Hynson                           
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : June 30,  1993       (Estimated)
+Expected
+Total Amt.  : $40000              (Estimated)
+Investigator: Thomas F. Coleman   (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 4083,
+Abstract    :
+                   The proposed research will exploit parallelism in                         
+              unconstrained structural optimization problems involving Finite                
+              Element Analysis (FEA).  Typical engineering problems involve                  
+              large finite element models and optimization algorithms take                   
+              several hundred iterations.  Parallel finite element analysis and              
+              optimization cannot be decoupled because calculation of gradients              
+              is closely tied with the function evaluation (FEA), requiring                  
+              proper distribution of data such as global stiffness matrix and                
+              displacement solution across processors.  Since the total                      
+              computational cost is dominated by the cost of function                        
+              evaluation, methods that result in fewer function evaluations at               
+              the expense of more linear algebraic operations per iteration                  
+              might be preferred.  This might require the calculation of second              
+              derivatives in order to obtain a better quadratic model.  The                  
+              parallelization of linear elastic finite element analysis and                  
+              parallel calculation of first and/or second derivatives will be                
+              considered.                                                                    
+                   In the area of biomechanics, researchers are using                        
+              optimization methods to predict the distribution of material                   
+              properties in the human femur due to the presence of artificial                
+              implants.  Several theoretical models have been proposed.  A                   
+              typical model would formulate bone remodeling as an optimization               
+              problem where the objective function is strain energy and the                  
+              independent variables are the material properties in each finite               
+              element.  Parallel structural optimization will be used to solve               
+              some problems in this field.

@@ -1,0 +1,64 @@
+Title       : A New Connectionist Model for Time-Varying Signal Classification
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : August 11,  1994    
+File        : a9208789
+
+Award Number: 9208789
+Award Instr.: Continuing grant                             
+Prgm Manager: Paul Werbos                             
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : September 1,  1992  
+Expires     : August 31,  1995     (Estimated)
+Expected
+Total Amt.  : $183211             (Estimated)
+Investigator: Jose C. Principe principe@cnel.ufl.edu  (Principal Investigator current)
+Sponsor     : University of Florida
+	      219 Grinter Hall
+	      Gainesville, FL  32611    352/392-1582
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 0000,OTHR,
+Abstract    :
+              This project will seek a unifying                                              
+              connectionist framework for the                                                
+              classification of time varying signals                                         
+              based on the gamma model proposed by                                           
+              (de Vries and Principe, 1990, 1991,                                            
+              1992).  The gamma model extends the                                            
+              conventional additive model because the                                        
+              multiplication of output activations with                                      
+              weights is subsituted by a temporal                                            
+              convolution, yielding a computationally                                        
+              improved additive model.  This research                                        
+              will have theoretical and practical                                            
+              components.                                                                    
+              New insights on the role of temporal                                           
+              weights will be sought, using the theory                                       
+              of recursive estimation.  Likewise, a                                          
+              paradigm to study how the neural                                               
+              network is representing the history of                                         
+              the input signal will be sought, using                                         
+              Hilbert spaces.  The gamma memory                                              
+              projects a vector of unconstrained                                             
+              dimension onto a predefined subspace.                                          
+              This same principle will be extended to                                        
+              learning, producing a backpropagation                                          
+              through time algorithm that has memory                                         
+              requirements independent of the length                                         
+              of the input signal.                                                           
+              As an application, the gamma network                                           
+              will be implemented in a multiprocessor                                        
+              system for speech recognition.  The P.I.                                       
+              will contrast the gamma model with two                                         
+              of the best available paradigms, Lang's                                        
+              time delay neural network and Tank's                                           
+              and Hopfield concentration in time                                             
+              networks, in terms of performance,                                             
+              network complexity and learning                                                
+              effectiveness.

@@ -1,0 +1,46 @@
+Title       : Memory Management Issues in Large Scale Shared Memory MIMD Multiprocessors
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 26,  1992  
+File        : a9113170
+
+Award Number: 9113170
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 15,  1992  
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $245000             (Estimated)
+Investigator: Carla S. Ellis carla@cs.duke.edu  (Principal Investigator current)
+              Mark A. Holliday  (Co-Principal Investigator current)
+Sponsor     : Duke University
+	      327 North Building
+	      Durham, NC  277080077    919/684-3030
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              Nonuniformity of memory access is an almost inevitable feature of the          
+              memory architecture in shared memory designs that can scale to large           
+              numbers of processors, creating the increasingly important class of            
+              NUMA (nonuniform memory access time) multiprocessors.  Managing the            
+              placement and movement of code and data is crucial to performance in           
+              NUMA architectures.  This has been called the NUMA Problem.  The I/O           
+              bottleneck problem is also exacerbated by parallel architectures which         
+              widen the gap between processing speed and disk speed even beyond that         
+              created by improved processor technology.                                      
+                                                                                             
+              This project investigates operating system mechanisms and policies for         
+              the management of the various levels of shared storage in such large-          
+              scale shared memory multiprocessors.  The specific projects divide             
+              into the following classes:  main memory management (both traditional          
+              virtual memory and the migration and replication of pages among                
+              various main memory modules), parallel file system design, workload            
+              characterization and performance evaluation methodology and the role           
+              of the programming environment in solving the NUMA Problem.

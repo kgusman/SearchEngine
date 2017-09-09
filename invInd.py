@@ -1,9 +1,10 @@
-import datetime
 import collections
 from nltk.stem import WordNetLemmatizer
-import glob, os
-from configs import documents_dir
+from configs import *
 from nltk.corpus import stopwords
+import re
+import os
+import time
 
 def lemmatize(words):
     wordnet_lemmatizer = WordNetLemmatizer()
@@ -14,8 +15,22 @@ def lemmatize(words):
 
     return res_lemma
 
-def open_docs_in_directories():
+def get_docs(type):
+    if type == 1:
+        return documents_dir_easy
+    elif type == 2:
+        return documents_dir_medium
+    elif type == 3:
+        return documents_dir_hard
+    else:
+        print("Wrong type of directory.")
+        input_type = input("Enter type of a directory (1, 2, 3): ")
+        return get_docs(input_type)
+
+
+def open_docs_in_directories(type):
     docs = []
+    documents_dir = get_docs(type)
     for root, dirs, files in os.walk(documents_dir):
         for file in files:
             if file.endswith(".txt"):
@@ -56,13 +71,15 @@ def parse_abstract(doc_name):
 
     return lemmatize(filtered_words)
 
-def create_inverted_index():
+def create_inverted_index(type=1):
+    start_time = time.time()
     inverted_index = collections.defaultdict(set)
-    docs_list = open_docs_in_directories()
+    docs_list = open_docs_in_directories(type)
     for doc in docs_list:
         lemma_words = parse_abstract(doc)
-        print(doc)
         if lemma_words != None:
             for word in list(lemma_words):
                 inverted_index[word].add(doc)
+    est_time = time.time() - start_time
+    print("Inverted index created in %d seconds." %(est_time))
     return inverted_index

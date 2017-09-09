@@ -1,0 +1,49 @@
+Title       : RIA: Designing Concurrent Systems Using Hierarchy of Communication Speeds
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 18,  1991      
+File        : a9111045
+
+Award Number: 9111045
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : July 1,  1992        (Estimated)
+Expected
+Total Amt.  : $21900              (Estimated)
+Investigator: Mohan Ahuja ahuja@cis.ohio-state.edu  (Principal Investigator current)
+Sponsor     : Ohio State Univ Res Fdn
+	      1960 Kenny Rd
+	      Columbus, OH  432101016    614/292-3732
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              The layered approach to system design has become popular in                    
+              designing correct systems because of the ease of visualizing the               
+              execution as a sequence of processes each resulting from the                   
+              execution of a layer.  This research aims at a lighter-weight                  
+              approach compared to sequentialization of processes.  It defines               
+              a notion of communication speed as it is relevant to distributed               
+              systems, and a hierarchy of communication speeds as an alternative             
+              to sequentialization of processes.  It also defines some                       
+              synchronization abstractions that combine the concept of hierarchy             
+              of communication speeds and some channel primitives.  These                    
+              abstractions result in the same ease as sequentialization of                   
+              processes and are expected to improve the system efficiency in a               
+              layered system.  They are also useful for designing concurrent                 
+              programs.  This research has several objective. 1) Develop a                   
+              framework of thinking based on speeds of communication.  2) Develop            
+              some implementations of these abstractions. 3) Develop a scheme for            
+              decentralized control using hierarchical channel Primitives.  4)               
+              Implement a distributed operating system using hierarchical channel            
+              primitives and evaluate its performance.  5) Develope concurrent               
+              algorithms that use and a concurrent programming environment that              
+              supports hierarchical channel primitives.

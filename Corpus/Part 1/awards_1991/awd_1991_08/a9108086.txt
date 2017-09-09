@@ -1,0 +1,46 @@
+Title       : RIA: Designing VLSI Arithmetic Arrays to Satisfy Precision Constraints
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  1991      
+File        : a9108086
+
+Award Number: 9108086
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Wayne P. Burleson burleson@ecs.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              Digital signal processing (DSP) structures introduce arithmetic                
+              error due to finite wordlength effects.  Different number                      
+              representations and arithmetic methods have their associated                   
+              precision.  This research provides a unifying framework within                 
+              which many different design alternatives can be compared.  It                  
+              studies various VLSI architectures which satisfy constraints on                
+              arithmetic precision while maximizing performance and minimizing               
+              VLSI system cost.  It uses a statistical state-space model to                  
+              evaluate the precision of fixed-point, floating -point, signed-                
+              digital, residue, logarithmic and rational number systems and                  
+              distributed and CORDIC arithmetics.  Unlike conventional                       
+              microprocessors, dedicated systems can have a multitude of distinct            
+              internal wordlengths.  The choice of an adequate wordlength can be             
+              defined as an integer optimization problem in which arithmetic                 
+              precision is a constraint and some measures of system cost such as             
+              VLSI area (A), latency (L), or period (P), as the objective                    
+              function.  CAD tool will be built to explore the large design space            
+              of alternate arithmetic, architectures and wordlengths.

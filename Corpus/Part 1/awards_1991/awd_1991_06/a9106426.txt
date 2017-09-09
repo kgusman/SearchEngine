@@ -1,0 +1,49 @@
+Title       : A Supercompiler with Recursive Restrictions on Configuations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 14,  1994      
+File        : a9106426
+
+Award Number: 9106426
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1991      
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $54585              (Estimated)
+Investigator: Valentin Turchin   (Principal Investigator current)
+Sponsor     : CUNY City College
+	      Convent Ave at 138th St
+	      New York, NY  10031    212/690-6741
+
+NSF Program : 2875      SYSTEM SOFTWARE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              A supercompiler is a program transformer of a certain type.  It traces         
+              the possible generalized histories of computation by the original              
+              program, and compiles an equivalent program, reducing in the process           
+              the redundancy that could be present in the original program.  This            
+              may lead to a deep restructuring of the program and a great increase           
+              in its efficiency.  A single supercompiler program can serve as a              
+              powerful partial evaluator; as a converter of multi-pass scanning              
+              algorithms into one-pass algorithms; as a means of program                     
+              verification and theorem proving.                                              
+              The underlying language used is Refal.  The tracing of computation             
+              histories is done by operations over the graph of states and                   
+              transitions of the abstract Refal machine.  The states are                     
+              configurations of the Refal machine.  In the current supercompiler a           
+              configuration is a combination of nested function calls with the               
+              values of free variables restricted by a Refal equivalent of certain           
+              inequalities.  These restrictions are, however, nonrecursive.  This            
+              work will upgrade the system so as to allow arbitrary recursive                
+              predicates as restrictions on configuration variables.  The                    
+              supercompiler so improved will be then used for a wide range of                
+              practical and theoretical problems, such as partial evaluation,                
+              automatic construction of compilers, functional inversion, and theorem         
+              proving.

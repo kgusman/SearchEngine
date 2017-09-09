@@ -1,0 +1,44 @@
+Title       : Hybrid Approaches to Loosely-Synchronized Parallel Discrete-Event Simulation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 28,  1990      
+File        : a9010672
+
+Award Number: 9010672
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : June 30,  1993       (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: David Wagner   (Principal Investigator current)
+Sponsor     : U of Colorado Boulder
+	      3100 Marine Street, Room 481
+	      Boulder, CO  803090572    303/492-6221
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              This project explores methods for improving the performance of                 
+              parallel discrete-event simulation by combining features of both               
+              conservative and optimistic synchronization strategies.  Rather than           
+              attempting to avoid rollback, which is accomplished by slowing down            
+              the fastest components of the simulation, the strategy is to avoid             
+              state checkpointing, which should speed up the slowest components.             
+                                                                                             
+              The project is experimental in nature.  A single implementation will           
+              allow one to make fair comparisons between the performance of pure             
+              conservative synchronization, and a hybrid method.  Furthermore, by            
+              adding a mechanism for limiting the degree of optimism in both the             
+              pure optimistic and the hybrid cases, it will be possible to verify or         
+              refute the hypothesis that the overhead of optimistic rollback is a            
+              second-order effect compared to the overhead of state checkpointing.           
+              Subject to the successful verification of this hypothesis, this                
+              research will continue with heuristics for dynamically adapting the            
+              degree of optimism in a simulation during its execution.

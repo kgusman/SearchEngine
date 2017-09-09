@@ -1,0 +1,45 @@
+Title       : Optimal Parallel Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 19,  1995   
+File        : a9106062
+
+Award Number: 9106062
+Award Instr.: Standard Grant                               
+Prgm Manager: Dana May Latch                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1992    
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $61092              (Estimated)
+Investigator: Yaacov Yesha   (Principal Investigator current)
+Sponsor     : U of MD Baltimore County
+	      1000 Hilltop Circle
+	      Baltimore, MD  21250    301/455-1000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              It is not always clear how to use parallel machines in an optimal way.         
+              Intuitively, parallelism may help because we may be able to perform            
+              several components of the computation simultaneously.  However, such           
+              components usually are subject to precedence relations that do not             
+              allow some components to be started before some other components have          
+              been completed.  The reason is that each component may need results            
+              produced by some other components in order to start.  A major open             
+              problem is how to map programs to parallel architectures so that the           
+              total time (computation plus communication) is minimized (up to a              
+              constant factor), and the number of processors used to achieve this            
+              optimal time is minimized (up to a constant factor).  The PI will              
+              investigate this problem.  Another important problem that will be              
+              investigated is optimizing the time and number of processors if only           
+              the problem, rather than a program that solves it, is given.  To the           
+              extent possible, a general method, that works for every architecture,          
+              will be designed.  However, some important aspects of parallel                 
+              computation seem to require a closer look at the particular                    
+              architectures.

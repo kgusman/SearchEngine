@@ -1,0 +1,52 @@
+Title       : Parallel Evaluation Of Deductive Database Queries
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 7,  1992     
+File        : a9106450
+
+Award Number: 9106450
+Award Instr.: Continuing grant                             
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $165262             (Estimated)
+Investigator: Abraham Silberschatz   (Principal Investigator current)
+Sponsor     : U of Texas Austin
+	      P.O Box 7726
+	      Austin, TX  787137726    512/471-6424
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 
+Abstract    :
+              This project concerns parallel evaluation of deductive database                
+              queries by processors interconnected by a communication network.               
+              Deductive database systems are key to the future design of                     
+              complex applications like knowledge bases, expert systems, and                 
+              scientific applications. Yet the potential of such systems is                  
+              compromised by poor performance in environments where the data                 
+              cannot fit in main memory. Parallelization is investigated as the              
+              means to improve performance, with attention on Datalog, a logic-              
+              based deductive language that naturally expresses queries that                 
+              arise in advanced database applications. Based on three                        
+              parameters of discriminating functions, discriminating variables               
+              and hash functions, a framework for the parallelization of                     
+              Datalog programs is designed. Discriminating functions and                     
+              variables which establish only required interconnections between               
+              parallel processors, thereby minimizing the overhead of                        
+              unnecessary communication, are investigated. Hash functions are                
+              designed which capture the division of labor between processors                
+              and provide maximum performance by effectively balancing the                   
+              workload. Although parallel systems promise enormous computing                 
+              resources, their performance rests on the design of sophisticated              
+              parallelizing compilers that can make effective use of such                    
+              resources. This research makes a pragmatic contribution to                     
+              parallel system performance by providing an approach to the                    
+              automatic parallel evaluation of an important subset of deductive              
+              database programs, Datalog.

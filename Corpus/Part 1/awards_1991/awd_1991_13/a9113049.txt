@@ -1,0 +1,74 @@
+Title       : The Conceptual Design of Chemical Processes with Waste Minimization
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : January 10,  1994   
+File        : a9113049
+
+Award Number: 9113049
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : December 15,  1991  
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $241434             (Estimated)
+Investigator: James M. Douglas   (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+              53        Engineering-Chemical                    
+Program Ref : 9148,MANU,
+Abstract    :
+                                                                                             
+              It is not unusual in the chemical industry to initiate the                     
+              first design study within one week of a chemist's,                             
+              biochemist's, microbiologist's or polymer scientist's                          
+              discovery of a new reaction system or a new material.  The                     
+              goals of this first design are to see if the process is                        
+              profitable, to see if environmental problems will be                           
+              encountered, to determine the best few process flowsheets, and                 
+              to guide the development of a database that is needed for a                    
+              final design.  Thus, the focus is on understanding the                         
+              problem, rather than obtaining a rigorous solution.  For this                  
+              reason, short-cut models normally are used for the evaluations                 
+              in the initial study, and then rigorous design calculations                    
+              are introduced in subsequent design studies after the best                     
+              alternatives have been identified.  The method can be                          
+              approximated on the computer by using hierarchical methods,                    
+              going from a conceptual design to a detailed design to a final                 
+              design.                                                                        
+                                                                                             
+              This work involves automatic implementation of the first step,                 
+              the conceptual design phase of the procedure.  In this stage,                  
+              the designer identifies the possible process alternatives,                     
+              selects process units, identifies possible pollution problems,                 
+              etc.  This conceptual design problem is often characterized by                 
+              a very large number of possible processes that can use a given                 
+              reaction chemistry to transform the raw materials to the                       
+              desired product (and some by-products).  Both a large number                   
+              of structural alternatives (that is, equipment selection and                   
+              streams), as well as values of the design variables (which                     
+              effect the stream flows and equipment sizes) are encountered.                  
+              Rules based on artificial intelligence will be developed to                    
+              choose between these numerous alternatives.  Specifically, the                 
+              PI plans to develop new synthesis procedures for  the                          
+              separation of vapor-liquid-liquid-solid mixtures that will                     
+              make the hierarchical decision procedure applicable to the                     
+              conceptual design of most chemical processes.  The code he                     
+              plans to develop will include a systematic procedure for                       
+              exploring process alternatives, as well as the quick screening                 
+              of these alternatives; and, be a good starting point for more                  
+              detailed algorithmic synthesis studies (mixed integer                          
+              nonlinear programming and simulated annealing).  The code will                 
+              also indicate when pollution problems will result from the                     
+              design decisions and suggest process alternatives to avoid                     
+              environmental problems.  In addition, the software will be                     
+              shared with other undergraduate and graduate institutions (it                  
+              is to be distributed by the CACHE Corporation) to be used for                  
+              the teaching of process design.

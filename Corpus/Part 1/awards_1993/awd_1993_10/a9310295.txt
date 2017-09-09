@@ -1,0 +1,38 @@
+Title       : New Algorithms for Large Time-Step Molecular Dynamics Simulations and their
+               Application to Protein and Nucleic Acids
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : August 19,  1993    
+File        : a9310295
+
+Award Number: 9310295
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : February 29,  1996   (Estimated)
+Expected
+Total Amt.  : $46200              (Estimated)
+Investigator: Tamar Schlick schlick@nyu.edu  (Principal Investigator current)
+Sponsor     : New York University
+	      
+	      New York, NY  10012    212/598-3131
+
+NSF Program : 4083      POST DOC RESRCH ASSOC COMP S&E
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9218,
+Abstract    :
+              9310295   Schlick   The goal in this proposal is to extend this work further so
+              that  is can be applied routinely to protein and nucleic acids.  We  propose to
+              develop and implement a new algorithm that combines  implicit-integration and
+              normal-mode techniques.  The new  algorithm will maintain the large time-step
+              stability inherited  in the implicit scheme, but also resolve the
+              high-frequency  components of the motion so that the activities of
+              high-frequency  modes can be retained.  With parallel implementations on 
+              state-of-the-art machines, this will make possible simulations at  time-steps
+              of order 100 femtoseconds; the total simulation time  will then approach the
+              millisecond range.

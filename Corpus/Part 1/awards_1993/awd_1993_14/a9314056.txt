@@ -1,0 +1,47 @@
+Title       : Partial Order Transport Service
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : December 6,  1996   
+File        : a9314056
+
+Award Number: 9314056
+Award Instr.: Continuing grant                             
+Prgm Manager: Tatsuya Suda                            
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1994        
+Expires     : October 31,  1997    (Estimated)
+Expected
+Total Amt.  : $144658             (Estimated)
+Investigator: Paul D. Amer amer@cis.udel.edu  (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              9314056  Amer       Motivated in particular by multimedia applications, a
+              Partial  Order Connection (POC) service/protocol is proposed for end-to-end 
+              communication.  Unlike classic transport services that deliver  objects either
+              in the exact order transmitted or according to no  particular order, POC
+              provides a service that requires some, but  not all objects to be received in
+              the order transmitted.  Two  versions of POC are proposed: reliable, which
+              requires that all  transmitted objects are eventually delivered, and
+              unreliable, which  permits the service to control the loss of a subset of the
+              objects.   In the unreliable version, objects are more finely categorized into 
+              one of three reliability classes depending on their temporal value.   Further
+              understanding of POC is accomplished by using Estelle (ISO  Standard 9074) and
+              Estelle development tools to formally specify a  protocol that provides POC
+              service.  The expected performance gains  of a POC service will be studied both
+              analytically and with an  OPNET simulation.  To be studied are the expected 
+              memory/bandwidth/delay performance improvements using POC when  compared with
+              an ordered service for various combinations of: (1)  different partial orders
+              and loss tolerances, (2) different  distributions of disorder and loss supplied
+              by the underlying  service and (3) different sized sender-receiver buffers. 
+              ***

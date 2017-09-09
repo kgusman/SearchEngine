@@ -1,0 +1,52 @@
+Title       : RUI: Chaos in Computer Memories
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 6,  1993     
+File        : a9212032
+
+Award Number: 9212032
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1992 
+Expires     : February 28,  1995   (Estimated)
+Expected
+Total Amt.  : $74406              (Estimated)
+Investigator: Dominique F. Thiebaut   (Principal Investigator current)
+Sponsor     : Smith College
+	      Elm Street
+	      Northampton, MA  01063    413/584-2700
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9229,
+Abstract    :
+              Recent published results show that fractal geometry can be                     
+              effectively used to model the skewness and degree of self-                     
+              similarity exhibited by the memory-access patterns generated                   
+              by processors.  The fact that the fractal model can be used to                 
+              predict the behavior of programs at many levels of the memory                  
+              hierarchy, and that the performance of those levels can be in                  
+              turn predicted, implies that memory access patterns are highly                 
+              structured.                                                                    
+                                                                                             
+              Unfortunately, this structure is also highly irregular, and                    
+              the vast majority of models that have been proposed to                         
+              simulate program behavior must rely on over-simplifying and                    
+              unrealistic assumptions of uniformity of access and/or of                      
+              independence of access.  Some preliminary results show that                    
+              under some conditions, in particular when a process is                         
+              allocated too little cache storage, its memory access pattern                  
+              results in chaos in the cache, yielding poor cache                             
+              performance.                                                                   
+                                                                                             
+              This research investigates the conditions under which chaos                    
+              occurs, how cache design parameters influence it, how chaotic                  
+              behavior influences cache performance, and applies these                       
+              results to threading and cache partitioning, two methodologies                 
+              that present potentially favorable conditions for chaos to                     
+              appear.

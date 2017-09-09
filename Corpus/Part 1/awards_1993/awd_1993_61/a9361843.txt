@@ -1,0 +1,48 @@
+Title       : Exact Constraint Method for Molecular Dynamics
+Type        : Award
+NSF Org     : DMI 
+Latest
+Amendment
+Date        : February 28,  1994  
+File        : a9361843
+
+Award Number: 9361843
+Award Instr.: Standard Grant                               
+Prgm Manager: Darryl G. Gorman                        
+	      DMI  DIV OF DESIGN,MANUFAC & INDUSTRIAL INNOV
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : February 1,  1994   
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $64997              (Estimated)
+Investigator: Hon M. Chun   (Principal Investigator current)
+Sponsor     : Moldyn Inc
+	      5720 Oberlin Drive
+	      San Diego, CA  921211723    619/455-9741
+
+NSF Program : 5371      SMALL BUSINESS PHASE I
+Fld Applictn: 0108000   Software Development                    
+              12        Chemistry                               
+Program Ref : 0000,1978,9256,OTHR,
+Abstract    :
+              9361843  Chun    This Small Business Innovation Research (SBIR) Phase I project
+              is in the general area of  computational chemistry.The goal of the research is
+              to develop an algorithm which recursively  finds an exact solution to Lagrange
+              multipliers. Simple unconstrained molecular dynamics  simulations need to use
+              small steps to track the high frequency dynamics that result from stiff 
+              springs representing chemical bonds and angles. To increase the step size,
+              constraints are often  introduced in the particle equations by including a term
+              representing the constraint gradient  multiplied by a Lagrange multiplier.
+              While rigorous, this method introduces new computational  overheads, which has
+              led to the approximate and not entirely satisfactory SHAKE algorithm.   SHAKE
+              works well with bonds and angles, but fails to generalize arbitrary
+              constraints. In this  feasibility research, an algorithm, called EXACT which
+              represents an exact constraint technique,  will be developed which will handle
+              open and closed loops, is highly efficient, can generalize  arbitrary
+              constraints and will be well-suited for parallel implementation.  %%% 
+              Computationally efficient molecular dynamics algorithms are an enabling
+              technology to deal with  practical problems such as rational drug design and
+              design of advanced polymer composites. The  EXACT algorithm will be directly
+              useful for real-world applications and, if successful, by the  end of Phase II
+              will be incorporated into various commercial software systems for dissemination
+               to the computational chemistry community.  ***

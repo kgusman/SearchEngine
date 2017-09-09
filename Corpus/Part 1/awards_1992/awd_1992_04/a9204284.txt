@@ -1,0 +1,51 @@
+Title       : Self-Organizing Fault-Tolerant Cellular Automata
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 8,  1994       
+File        : a9204284
+
+Award Number: 9204284
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1992    
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $208769             (Estimated)
+Investigator: Peter Gacs gacs@cs.bu.edu  (Principal Investigator current)
+Sponsor     : Boston University
+	      881 Commonwealth Avenue
+	      Boston, MA  021182394    617/353-2000
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9218,HPCC,
+Abstract    :
+              This research will continue investigation into the theory of                   
+              fault-tolerant computation.  Of particular interest are                        
+              devices made of a large number of elementary components each                   
+              of which can fail independently of the others, with a certain                  
+              constant probability.  The faults are transient:  they chance                  
+              the local state but not the local transition rule.                             
+                                                                                             
+              A fault-tolerant computer of this kind must use massive                        
+              parallelism.  The simplest model of a massively parallel                       
+              computer is the cellular automation:  a homogenous array (of                   
+              dimension one, two or higher) of identical, locally                            
+              communicating finite-state automata.  The model is identical                   
+              to the interactive particle system in statistical                              
+              physics.  It is an important object of investigation in                        
+              statistical physics and theoretical biology as well as                         
+              computer science.                                                              
+                                                                                             
+              As the number of components that can fail increases it does                    
+              not help to run two computers simultaneously (as it is done                    
+              now in many critical situations), comparing their results                      
+              periodically; indeed, faults will occur in both of them                        
+              between comparisons with high probability.  In cellular                        
+              automata, the self-correction mechanism must be built into the                 
+              transition rule of the cells.

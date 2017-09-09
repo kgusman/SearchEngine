@@ -1,0 +1,67 @@
+Title       : Nonlinear Inverse Scattering Methods for Large Objects
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : February 25,  1998  
+File        : a9302145
+
+Award Number: 9302145
+Award Instr.: Continuing grant                             
+Prgm Manager: Magdy F. Iskander                       
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 15,  1994     
+Expires     : August 31,  1998     (Estimated)
+Expected
+Total Amt.  : $203022             (Estimated)
+Investigator: Weng C. Chew w-chew@uiuc.edu  (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 1517      ELECT, PHOTONICS, & DEVICE TEC
+Fld Applictn: 0510403   Engineering & Computer Science          
+              50        Engineering                             
+Program Ref : 0000,9197,ENVI,OTHR,
+Abstract    :
+               WPC                2 R         B         J     Z         X       Courier  #| x 
+                                x   6 X      @    K   X @                                   
+              QMS JetScript                        QMSJETSC.PRS   x            @        h h h
+              h     }X @T     ? x x x            x   6 X      @    K   X @                   
+                              T   R & H H H            H   6 X      @    K   h @             
+                                          2       u     6~  ;   ) ! < t  -  S      :t  @     
+              ,` ;     &  %    t : u  >         2   4 "                  >   u$     u   t    
+                   3   y    u O >      >   t        2                                        
+                    9302145 Chew The previous support period under the 5 year PYI grant
+              enabled the investigator to make significant progress in both inverse and
+              forward scattering theory.  New non linear inverse scattering methods were
+              developed to account for multiple scattering effects within the scattering
+              object.  The Born iterative method (BIM) and distorted Born iterative method
+              (DBIM) were developed that demonstrated the inversion of objects with contrasts
+              as great as 10:1 and exhibited super resolution on the order of 0.1
+              wavelengths.  Another new technique known as the local shape function (LSF)
+              method was developed to perform inverse scattering on metallic scatters where
+              previous methods failed to produce a convergent solution due to extremely
+              strong nonlinearities.  Recently it was found that the LSF method could also be
+              used for the inversion of dielectric scatters and bypass the 10:1 contrast
+              limitation. The need to invert very large scattering objects stimulated
+              research in fast forward scattering solvers.  These fast algorithms solve the
+              scattering problem exactly and achieve computational savings by exploiting
+              inherent redundancies in the scattering calculations.  The first of these
+              algorithms (RTMA) solved the         ? 0     scattering problem valid for all
+              incidence sources in )(N   2.5   ) operations by exploiting translational
+              properties of wave phenomenon.  T he next algorithm (RATMA) exploited an
+              aggregation         ?       property resulting in an O(N   2   ) algorithm. 
+              The new algorithm (NEPAL) instead uses the surface equivalence principle
+              resulting in         ?       an O(N   1.5   ) algorithm that is amenable to
+              parallel processing. The current proposal is to continue progress in developing
+              new nonlinear inverse scattering theories.  We plan to move away for the Born
+              type methods and exploit new ways of parameterizing the scattering object in
+              order to achieve the best possible reconstruction.  We will use our progress in
+              fast forward scattering solvers as building blocks to speed up the inversion
+              and solve much larger objects.  Other means of solving large objects,
+              particularly objects buried in a slowly varying inhomogeneous background would
+              be investigated as well.  Finally, we wish to develop new experimental
+              apparatus that can achieve high fidelity measurements so that the full
+              potential of these new inverse methods could be achieved in a practical system.

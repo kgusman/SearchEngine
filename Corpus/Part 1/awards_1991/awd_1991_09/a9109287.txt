@@ -1,0 +1,50 @@
+Title       : Parallel Algorithms For Intelligent Imaging And Vision At Low SNR
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 26,  1991      
+File        : a9109287
+
+Award Number: 9109287
+Award Instr.: Standard Grant                               
+Prgm Manager: Howard Moraff                           
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : December 31,  1993   (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Badrinath Roysam roysam@ecse.rpi.edu  (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9264,
+Abstract    :
+              The objective of this project is to develop algorithms that will               
+              enable intelligent imaging add vision systems to operate robustly              
+              and rapidly with very noisy sensor data.  Current methods perform              
+              poorly in this regime due to a lack of well-defined optimality                 
+              properties, `brittleness' of the underlying  discrete                          
+              representations, and a deluge of processing inconsistencies and                
+              noise artifacts.  The improved performance is achieved by a                    
+              cooperative solution of low-level signal processing and high-                  
+              level object recognition tasks subject to numeric and symbolic                 
+              constraints, instead of the classical sequential processing                    
+              method.  The overall approach is Bayesian, and is formulated as                
+              the minimization of an energy surface.  All the image-processing               
+              operations result automatically as by products of a gradient-                  
+              based optimization process.  This includes the synergistic                     
+              interaction of low and high-level variables, satisfaction of                   
+              pattern constraints, and feedback of high-level modelling                      
+              information.  From an architectural standpoint, the proposed                   
+              method offers a valuable uniform strategy for parallel                         
+              computation, which is duly exploited.  This work is expected to                
+              fundamentally impact applications that are required to operate                 
+              with noisy sensor data in a limited time frame.  Encouraging                   
+              preliminary results have been computed on a DAP massively-                     
+              parallel processor.

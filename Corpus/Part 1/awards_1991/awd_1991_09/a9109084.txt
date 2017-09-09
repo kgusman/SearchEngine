@@ -1,0 +1,55 @@
+Title       : RIA: Hypercube-Based Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 7,  1992      
+File        : a9109084
+
+Award Number: 9109084
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : December 31,  1993   (Estimated)
+Expected
+Total Amt.  : $59999              (Estimated)
+Investigator: Sotirios G. Ziavras ziavras@mhz.njit.edu  (Principal Investigator current)
+Sponsor     : Foundation @ NJIT
+	      323 Martin Luther King Blvd.
+	      Newark, NJ  071021824    973/596-3430
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              The main objective of this research is to solve the problem of mapping         
+              application algorithms developed for multilevel architectures, which           
+              are more general than the standard-pyramid architecture, onto                  
+              hypercube-based systems.  Hypercube-based systems are commercially             
+              available and have widely been used by the scientific community                
+              because they are highly flexible, fault-tolerant, and efficient.               
+              Researchers have been trying with success, to solve the problem of             
+              embedding standard pyramids into hypercubes.  However, such embeddings         
+              do not guarantee very high performance for all of the multilevel               
+              algorithms, because the performance requirements of particular                 
+              algorithms are not taken into account by the embedding process.  This          
+              project will evolve through five phases.  The first phase will propose         
+              algorithms for embedding multilevel structures into hypercubes.  The           
+              second phase will be involved in the refinement of the embedding               
+              algorithms proposed in the first phase, in such a way that the exact           
+              computation and communication requirements of the application                  
+              algorithms should affect the embeddings.  The third phase will attempt         
+              modifications of the embedding algorithms proposed in the second               
+              phase, so that they will be taking into account statistical                    
+              performance data, in order to become suitable for the mapping of               
+              non-deterministic and data-dependent multilevel algorithms.                    
+              The fourth phase of this project will propose a class of "multicube"           
+              systems, which, while providing smaller numbers of communication               
+              channels, can yield performance comparable to that of the hypercube.           
+              To conclude techniques for mapping multilevel algorithms onto                  
+              hypercube-based and multicube systems will be developed.  Analytical           
+              techniques and simulation results will be used to prove the                    
+              effectiveness and efficiency of the mapping algorithms.

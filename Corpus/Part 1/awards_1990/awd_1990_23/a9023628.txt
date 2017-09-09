@@ -1,0 +1,52 @@
+Title       : Practical Compile-Time Analysis Algorithms: (FAW)
+Type        : Award
+NSF Org     : HRD 
+Latest
+Amendment
+Date        : December 14,  1995  
+File        : a9023628
+
+Award Number: 9023628
+Award Instr.: Continuing grant                             
+Prgm Manager: Margrete S. Klein                       
+	      HRD  DIVISION OF HUMAN RESOURCE DEVELOPMENT  
+	      EHR  DIRECT FOR EDUCATION AND HUMAN RESOURCES
+Start Date  : November 1,  1991   
+Expires     : April 30,  1997      (Estimated)
+Expected
+Total Amt.  : $250000             (Estimated)
+Investigator: Barbara G. Ryder ryder@cs.rutgers.edu  (Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 9292      FACULTY AWARDS FOR WOMEN
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 0000,2880,9179,OTHR,SMET,
+Abstract    :
+              Compile-time analysis techniques to aid the development of software            
+              in sequential and parallel programming environments will be the focus          
+              of this research.  There are two trusts:  (i) the maturation of work           
+              in designing incremental data flow algorithms for semantic impact              
+              analysis of source code changes in software systems, and (ii) the              
+              investigation of how compile-time analysis can aid the compilation and         
+              debugging of programs that have implicit and/or explicit parallelism.          
+                                                                                             
+              In debugging of concurrent systems, compile-time analysis is used to           
+              help programmers debug software written with explicit parallelism.             
+              Typical problems include races in shared memory machines,                      
+              indeterminately ordered accesses to the same memory location where at          
+              least one access is a write, and deadlocks, non-terminating                    
+              computations which cannot continue because of improper                         
+              synchronizations.  For detection on shared memory machines, use of             
+              interprocedural data flow information and good internal                        
+              representations of parallel primitives are being explored, as well as          
+              a case study analyzing Ada rendezvous mechanisms.  It is intended to           
+              combine compile-time analysis with run-time testing for these                  
+              problems, using the former to guide the latter.  This work will                
+              culminate in development of prototype software tools demonstrating the         
+              techniques on actual Ada and Fortran programs.  Desired extensions             
+              include studying the applicability to a broad range of synchronization         
+              primitives and classifying their properties with respect to these              
+              problems.

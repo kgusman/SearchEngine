@@ -1,0 +1,53 @@
+Title       : Optimization of High-Level Languages
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 20,  1993     
+File        : a9015988
+
+Award Number: 9015988
+Award Instr.: Continuing grant                             
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 15,  1990  
+Expires     : May 31,  1994        (Estimated)
+Expected
+Total Amt.  : $209040             (Estimated)
+Investigator: Steven P. Reiss spr@cs.brown.edu  (Principal Investigator current)
+Sponsor     : Brown University
+	      164 Angell Street
+	      Providence, RI  02912    401/863-2777
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,
+Abstract    :
+                   The goal of this project is the development of compiler                   
+              optimization techniques for high-level languages.  The primary                 
+              programming languages used today (C, Fortran and Pascal) are not very          
+              high-level.  A large portion of the effort in writing software in              
+              these languages is devoted to hand-tuning the individual application           
+              to the target machine, a process that is both costly and error-prone.          
+              Higher-level languages that abstract away many of the implementation           
+              details have been developed but are not yet in widespread use.  In             
+              spite of the benefits that higher-level languages promise, history             
+              suggests that they will not come into general use until programs               
+              written in them perform as well or better than those in existing low-          
+              level languages.                                                               
+                   Optimization of object-oriented programming languages, one class          
+              of high-level languages, is the major concern of this proposal.                
+              Object-oriented programming introduces two types of inefficiencies.            
+              First, many more subroutine calls are required than in normal                  
+              programming methodologies.  Second, these subroutines are typically            
+              more general than the code necessary to implement the function in              
+              line.                                                                          
+                   Optimization of object-oriented programs primarily involves               
+              tailoring instances of subroutines to the context in which they are            
+              invoked.  Automatic tailoring requires much more powerful analysis and         
+              transformation techniques than are generally available today.                  
+              Developing analysis and transformation techniques to do the tailoring          
+              of these programmer-constructed abstractions is the main focus of this         
+              project.

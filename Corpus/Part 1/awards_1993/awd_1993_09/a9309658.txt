@@ -1,0 +1,43 @@
+Title       : RIA: Partitioning of VLSI Systems for Distributed Simulation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 27,  1993       
+File        : a9309658
+
+Award Number: 9309658
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1993       
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Roger D. Chamberlain roger@ccrc.wustl.edu  (Principal Investigator current)
+Sponsor     : Washington University
+	      
+	      St. Louis, MO  63130    314/889-5100
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0108000   Software Development                    
+              0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9148,9215,
+Abstract    :
+              Chamberlain         This research is on approaches to partitioning VLSI systems 
+              for distributed simulation on multiprocessor architectures.  The  approach is
+              to use knowledge of a VLSI system and the distributed  simulation algorithms to
+              perform a partitioning and assignment of  system components to processors in a
+              manner that minimizes the  execution time of the distributed simulation.
+              Central to the  approach is an initial partitioning that is refined as 
+              information is gathered about the simulation workload.  In this  way assignment
+              of components to processors can take advantage of  measured data that is
+              unknown (and therefore unavailable) prior  to the simulation run.  The approach
+              has three phases:  1.     Algorithms for initial partitioning of the circuit 
+              components are being developed;  2.     Means of assigning partitions to
+              processors are being  developed; and  3.     Rules for migrating components
+              from one processor to another  are being devised.                              
+                                       

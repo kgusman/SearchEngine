@@ -1,0 +1,49 @@
+Title       : RIA: Combinational Optimization Algorithms for Scheduling and Module Selection
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 8,  1995       
+File        : a9211323
+
+Award Number: 9211323
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1992       
+Expires     : December 31,  1995   (Estimated)
+Expected
+Total Amt.  : $95000              (Estimated)
+Investigator: Robert A. Walker   (Principal Investigator current)
+Sponsor     : Rensselaer Polytech Inst
+	      110 8th Street
+	      Troy, NY  121803522    518/276-6000
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,
+Abstract    :
+              The objective of this research is to build a high-level synthesis              
+              system which maps behavioral descriptions into register-transfer               
+              level designs with guaranteed performance.  The approach is to                 
+              examine subtasks of the high-level synthesis problem using                     
+              theoretical tools necessary to understand the synthesis problem.               
+              Synthesis subtasks in the areas of scheduling and datapath                     
+              allocation are being examined.  Scheduling problems being                      
+              investigated include: finding good heuristics to bound the search              
+              space so that good quality schedules for large size designs can be             
+              found in a timely way; use an integer programming formulation to               
+              solve the module selection problem; and develop a powerful, integer            
+              programming based, algorithm to optimally group functions into                 
+              hardware modules.  Register allocation problems include: devising              
+              a register allocation algorithm which will minimize both the number            
+              of registers and register transfers in the presence of loops and               
+              conditionals while accounting for interconnect cost; formulate the             
+              module allocation problem along the same lines as the register                 
+              allocation; and investigate a good ordering of the allocation                  
+              subtasks so that interconnects play a major role in the design                 
+              process.

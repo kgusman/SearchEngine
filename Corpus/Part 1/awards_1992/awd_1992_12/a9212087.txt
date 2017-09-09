@@ -1,0 +1,49 @@
+Title       : User-Level Physical Memory Management
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : July 18,  1994      
+File        : a9212087
+
+Award Number: 9212087
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1992 
+Expires     : August 31,  1995     (Estimated)
+Expected
+Total Amt.  : $89996              (Estimated)
+Investigator: Stuart Sechrest   (Principal Investigator current)
+Sponsor     : University of Michigan
+	      3003 S State St. RM 1062
+	      Ann Arbor, MI  481091274    313/764-1817
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+              A machine's physical memory is a resource for which many                       
+              subsystems, including databases, persistent object storage                     
+              managers, and multimedia file systems, are potential competitors.              
+              As memory size grows, optimizing the diverse uses of physical                  
+              memory will require diverse management policies. These policies                
+              must, however, coexist, and the claims on memory for different                 
+              uses must be balanced. This research investigates a system                     
+              architecture for balancing the requirements of memory competitors,             
+              while allowing a greater variety of management policies to be                  
+              implemented.  The system architecture permits pageout daemons                  
+              situated outside the kernel to control pools of physical memory.               
+              This allows subsystems such as databases much greater control over             
+              memory management policy.  A balance manager within the kernel                 
+              controls the size of these pools.  A simulator is used to explore              
+              the interactions of management policies, while a prototype system,             
+              supported by an extended version of Mach 3.0, allows the                       
+              experimental validation of the simulation results. Successful                  
+              completion of this project will provide a framework for managing               
+              large physical memories in future machines.  Using the balancing               
+              strategies identified in this research, subsystems for memory-                 
+              intensive application will be more readily developed and installed             
+              on new machines without ad hoc performance tuning.

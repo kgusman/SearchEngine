@@ -1,0 +1,61 @@
+Title       : A Software Environment for High-Performance Parallel Computing
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 9,  1994        
+File        : a9201822
+
+Award Number: 9201822
+Award Instr.: Continuing grant                             
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1992     
+Expires     : July 31,  1996       (Estimated)
+Expected
+Total Amt.  : $453105             (Estimated)
+Investigator: Andrew S. Grimshaw grimshaw@Virginia.edu  (Principal Investigator current)
+              James C. French  (Co-Principal Investigator current)
+              James M. Ortega  (Co-Principal Investigator current)
+              Paul F. Reynolds  (Co-Principal Investigator current)
+              Thomas J. Olson  (Co-Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 9003
+	      Charlottesville, VA  229069003    804/924-0311
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+                                                                                             
+              Before high-performance MIMD architectures become commonplace in               
+              production scientific, engineering, and business applications,                 
+              three programming problems that plague current systems must be                 
+              solved.  First, writing parallel programs by hand is very                      
+              difficult.  The programmer must manage communication,                          
+              synchronization, and scheduling of tens to thousands of                        
+              independent processes.  The burden of correctly managing the                   
+              environment often overwhelms programmers.  Second, once                        
+              implemented on a particular MIMD architecture, the resulting                   
+              codes are usually not usable on other MIMD architectures,                      
+              necessitating a substantial effort to port.  This discourages                  
+              users from parallelizing their code, since new architectures are               
+              introduced so frequently.  Third, there is no software support                 
+              for transparently executing applications on heterogeneous "meta-               
+              systems" comprised of a variety of high-performance                            
+              architectures.                                                                 
+                                                                                             
+              This proposal addresses all three of these problems.  We have                  
+              attacked the first two with Mentat, an easy-to-use, object-                    
+              oriented, parallel processing system developed at the University               
+              of Virginia.  We plan to test the efficacy of the Mentat approach              
+              on a set of real applications on a variety of platforms.  The                  
+              objective is to determine whether Mentat is easy to use on real                
+              applications and to measure performance.  Our approach to the                  
+              third problem is evolutionary.  We will extend Mentat into a                   
+              heterogeneous environment, and use the extended Mentat as a test-              
+              bed for meta-systems experimentation.  Based on experimental                   
+              results, a prototype meta-system that provides an easy-to-use,                 
+              high performance abstraction for users will be constructed.

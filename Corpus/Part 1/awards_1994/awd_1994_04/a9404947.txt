@@ -1,0 +1,59 @@
+Title       : Algorithmic Analysis and Congestion Control of Connection-Oriented Services in
+               Large Scale Communication Networks.
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : October 23,  1998   
+File        : a9404947
+
+Award Number: 9404947
+Award Instr.: Standard Grant                               
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1994  
+Expires     : February 28,  1999   (Estimated)
+Expected
+Total Amt.  : $124671             (Estimated)
+Investigator: Hisashi Kobayashi hisashi@ee.princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,HPCC,
+Abstract    :
+              9404947  Kobayashi       Network technologies have been progressing rapidly
+              toward  faster and larger networks which are capable of providing  integrated
+              services.  These technical developments in turn require  advances in analytic
+              methodologies that can be effectively used in  the design and control of future
+              networks such as ATM-based B-ISDN,  all-optical networks and wireless
+              communication networks.  Emerging  high-speed integrated communication services
+              require us to analyze  network systems, in which information loss probabilities
+              range from  10**-2 (e.g., call connection loss) to as small as 10**-10 (e.g., 
+              ATM cell loss).       In this proposed study we will develop a theoretical
+              foundtion  for evaluation and control of connection-oriented services, which 
+              in particular will enable us to handle this wide range of loss  probabilities.
+              We begin by generalizing  the product form solutions  obtained for loss
+              networks with fixed routing.  Our formulation  encompasses a broad range of
+              state-dependent call generation  patterns, different types of network services,
+              and the whole range  of traffic levels. Using our experience in computational
+              algorithms  for closed queueing network models, we will develop new practical 
+              methods for estimating loss probabilities in connection-oriented  services.  In
+              order to insure the accuracy of approximate formulas,  we will develop 
+              appropriate error bounds.  A refinement and a  rigorous validation of the
+              reduced load approximation method,  also  referred to as the Erlang's fixed 
+              point method in the case of  Poisson arrivals, will be attempted for networks
+              with state  dependent arrivals.       In parallel with the above algorithmic
+              and asymptotic methods,  we will explore a model of connection-oriented network
+              services  based on a multi-dimensional Ornstein-Uhlenbeck  diffusion process. 
+              The diffusion process approach will allow  us not only to evaluate  more
+              general types of networks (i.e.,  loss/queueing networks not  amenable to
+              product form solutions) but  also to obtain  time-dependent, i.e., transient,
+              solutions for network behavior.   Finally, we will formulate and  solve network
+              control policy  problems such as call admission control and routing decisions. 
+              ***

@@ -1,0 +1,55 @@
+Title       : Main Memory Database Recovery Issues
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 23,  1994      
+File        : a9201596
+
+Award Number: 9201596
+Award Instr.: Continuing grant                             
+Prgm Manager: Y. T. Chien                             
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1992 
+Expires     : August 31,  1996     (Estimated)
+Expected
+Total Amt.  : $199000             (Estimated)
+Investigator: Le Gruenwald ggruenwald@ou.edu  (Principal Investigator current)
+Sponsor     : U of Oklahoma
+	      1000 Asp Avenue, Room 314
+	      Norman, OK  73019    405/325-4757
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 9216,HPCC,
+Abstract    :
+              This is the first of a three year continuing award.  The                       
+              increasing size and decreasing cost of semiconductor memory has                
+              prompted research into databases which are memory resident.                    
+              These Main Memory DataBase (MMDB) systems are aimed at high                    
+              throughput applications such as airline reservation systems,                   
+              phone switching databases, and other real time systems where the               
+              availability of the memory resident data is crucial.  To achieve               
+              this high availability with volatile RAM requires a backup                     
+              archive database on disk as well as efficient algorithms to                    
+              checkpoint the database to the archive and to recover it from the              
+              archive to main memory after a system failure.  It has been shown              
+              that MMDB systems often perform better with deferred update                    
+              techniques where data to be updated is first placed in a special               
+              nonvolatile shadow area and only at transaction commit time is                 
+              placed in main memory.  The authors are investigating both                     
+              checkpointing and reloading of MMDB databases with the use of                  
+              more conventional immediate update (IU) techniques as well as                  
+              deferred update (DU) strategies.  The best checkpointing                       
+              approaches are to be determined as are partial reloading                       
+              strategies.  A partial reload allows the database to be brought                
+              online after a system failure faster because not all of the MMDB               
+              is reloaded prior to bringing the system up.  This research                    
+              represents the first examination of techniques for partial                     
+              reloading of MMDB systems.  Due to the volatility of RAM, the                  
+              high throughput needs of MMDB applications, and the potential for              
+              partial reloading to dramatically increase the uptime of database              
+              systems, the results and impact of this research are both                      
+              widespread and significant.

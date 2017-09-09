@@ -1,0 +1,89 @@
+Title       : Inquiry Into Chaotic Routing
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : May 6,  1991        
+File        : a9013274
+
+Award Number: 9013274
+Award Instr.: Standard Grant                               
+Prgm Manager: Gerald Maguire                          
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : February 1,  1991   
+Expires     : July 31,  1992       (Estimated)
+Expected
+Total Amt.  : $224837             (Estimated)
+Investigator: Lawrence Snyder snyder@cs.washington.edu  (Principal Investigator current)
+              Carl Ebeling  (Co-Principal Investigator current)
+              Gaetano Borriello  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0104000   Information Systems                     
+              0308000   Industrial Technology                   
+              0510204   Data Banks & Software Design            
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              A chaotic router is a non-minimal, adaptive message router that                
+              uses randomization in routing and derouting decisions.  The use of             
+              randomization simplifies the router sufficiently that it's                     
+              conjectured chaotic routing can be competitive with oblivious                  
+              routing, achieving equivalent or better average-case performance,              
+              greatly improved worst-case performance and fault tolerance.                   
+              Though the principles of chaotic routing apply to some degree to               
+              any topology with multiple paths between nodes, chaotic routers for            
+              binary n-cubes are presently under investigation.                              
+                                                                                             
+              The goal of the research is to establish a compelling case for                 
+              constructing an experimental version of a hypercube chaotic router.            
+              Towards that end a series of studies are presently underway.                   
+                                                                                             
+              1.            The idealized router of the proposal is being converted          
+                            to practical engineering designs; the details of the             
+                            chaotic routing logic are being specified.  Alternatives         
+                            include sequential and parallel channel match algorithms,        
+                            a virtual cut-through alternative to the store-and-              
+                            forward of the proposal, various alternates for                  
+                            asynchronous channels, various queue sizes, etc.                 
+                                                                                             
+              2.            A detailed simulator (with a granularity of approximately        
+                            a half-dozen gate delays) has been created.  Experiments         
+                            are being run on a 256 node hypercube to compare the             
+                            different chaotic router designs with various alternative        
+                            routers, such as oblivious and priority routers.                 
+                                                                                             
+              3.            Simulations are being run to analyze the effect of               
+                            multiqueue size on the latency and throughput of the             
+                            network.  The role of message length on latency and              
+                            throughput is also being analyzed.                               
+                                                                                             
+              4.            Probabilistic analysis, completed last summer, shows that        
+                            an idealized hypercube chaotic router is                         
+                            deterministically deadlock free and probabilistically            
+                            livelock and starvation free.  The new engineering               
+                            designs are being abstracted and analyzed to assure that         
+                            they are consistent with the idealized model of this             
+                            theory.                                                          
+                                                                                             
+              5.            The first version of a custom CMOS channel design is back        
+                            from fabrication and is being tested.                            
+                                                                                             
+              6.            Alternate implementation strategies, besides custom CMOS,        
+                            are being investigated.                                          
+                                                                                             
+              7.            The generality of the chaotic routing principles are             
+                            being analyzed in the context of different topologies.           
+                            In particular, various forms of the mesh topology are            
+                            being studied as alternates.                                     
+                                                                                             
+              8.            The role of clocked and self-timed logic in chaotic              
+                            routing is being analyzed in light of the fact                   
+                            theoretical foundations are independent of the timing            
+                            policy.

@@ -1,0 +1,54 @@
+Title       : Design and Analysis Techniques for Future High-Speed Networks
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : August 17,  1993    
+File        : a9116183
+
+Award Number: 9116183
+Award Instr.: Continuing grant                             
+Prgm Manager: Darleen L. Fisher                       
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1992     
+Expires     : February 28,  1995   (Estimated)
+Expected
+Total Amt.  : $245272             (Estimated)
+Investigator: Donald F. Towsley towsley@cs.umass.edu  (Principal Investigator current)
+              James F. Kurose  (Co-Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 4097      NETWORKING RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9218,
+Abstract    :
+                 Unlike traditional data networks, future broadband-ISDN (BISDN)             
+              wide- area networks will be required to carry a broad range of                 
+              traffic classes ranging from bursty, variable-rate sources, such as            
+              voice and variable- rate coded video, to smooth, constant bit rate             
+              sources.  Moreover, these networks will have to do so while                    
+              providing a guaranteed performance or quality-of-service (QOS) to              
+              these traffic classes.  The problem of characterizing performance in           
+              such networks is thus particularly important since this must be done           
+              not only for traditional off-line tasks of dimensioning and design             
+              (e.g., determining link bandwidths, buffer capacities and processing           
+              capacities at network switchpoints) but also for on-line,                      
+              performance-driven traffic control purposes such as session- level             
+              admission control.  In this proposal the principal investigators               
+              outline research aimed at providing the analytical tools and                   
+              techniques for analyzing such networks and their diverse workloads             
+              and for designing and characterizing the properties of scheduling              
+              policies in these networks. The principal investigators propose to:            
+              1.develop techniques to upper bound a variety of per-session                   
+              performance measures such as probability of buffer overflow and the            
+              distribution of packet delay and to do so in a network environment             
+              in which sessions may traverse several hops,    2.develop                      
+              approximation techniques for estimating the probability of buffer              
+              overflows in a network handling diverse classes of (potentially                
+              bursty) traffic sources, and    3.develop a sample path based on               
+              methodology for characterizing optimal scheduling policies.

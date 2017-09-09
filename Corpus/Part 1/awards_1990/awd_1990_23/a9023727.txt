@@ -1,0 +1,44 @@
+Title       : Efficient Network Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 30,  1991       
+File        : a9023727
+
+Award Number: 9023727
+Award Instr.: Standard Grant                               
+Prgm Manager: Dana S. Richards                        
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : December 31,  1993   (Estimated)
+Expected
+Total Amt.  : $86589              (Estimated)
+Investigator: Charles Martel martel@cs.ucdavis.edu  (Principal Investigator current)
+Sponsor     : U of Cal Davis
+	      OVCR/Sponsored Programs
+	      Davis, CA  956168671    530/752-2075
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              Networks of computers have become very common, so it is very important         
+              to develop methods for reliable and efficient communication between            
+              computers.  One low cost scheme is to have a single shared                     
+              communication medium, called a multiple access channel, such that              
+              every computer can receive all messages sent over the channel.  This           
+              scheme is currently used by the Ethernet and other networks.                   
+              If two or more computers send messages simultaneously, they will               
+              interfere with each other, and no useful information will be                   
+              transmitted.  The main goal of this research project is to develop             
+              improved probabilistic and deterministic algorithms which coordinate           
+              the computers' access to the channel so that the percentage of time in         
+              which useful information is transmitted is maximized.  Also, the               
+              maximum possible percentage of useful time on multiple access channels         
+              will be determined.  The algorithms for multiple access channels will          
+              be used to develop efficient algorithms for parallel computers.  A             
+              second focus is to develop fast algorithms which design minimum cost           
+              network topologies that are resistant to failures.

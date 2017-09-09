@@ -1,0 +1,50 @@
+Title       : RIA: Automatic Design of Specialized Computer Instruction Sets
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 22,  1992       
+File        : a9210692
+
+Award Number: 9210692
+Award Instr.: Standard Grant                               
+Prgm Manager: John R. Lehmann                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : May 31,  1996        (Estimated)
+Expected
+Total Amt.  : $99997              (Estimated)
+Investigator: Bruce Holmer Holmer@eecs.nwu.edu  (Principal Investigator current)
+Sponsor     : Northwestern University
+	      633 Clark Street
+	      Evanston, IL  602081110    847/491-3003
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0108000   Software Development                    
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 9215,
+Abstract    :
+              The goal of this research is to provide a methodology for the                  
+              automatic construction of instruction sets for specialized                     
+              application domains.  Specialized, programmable computers are                  
+              useful in situations where a general purpose computer may be too               
+              slow or expensive for the application. This research augments                  
+              current high-level synthesis tools which derive a computer                     
+              implementation when given an algorithm or instruction set as input.            
+              The proposed technique takes benchmarks and a description of the               
+              computer data path as input and produces as output the instruction             
+              set that best uses the data path to run the benchmarks.  Topics of             
+              research include reducing the dependency of the results on the                 
+              compiler used, determining an adequate number of benchmarks needed             
+              to produce an instruction set well-matched to the application                  
+              domain, and investigating alternative methods of instruction set               
+              derivation.  The proposed tool, when coupled with current high-                
+              level synthesis systems, can provide a complete design system for              
+              quickly mapping a specialized problem domain into a high                       
+              performance processor.  This allows the realization of computation             
+              accelerators for a broad class of disciplines, including real time             
+              event processing, digital signal processing, and computational                 
+              chemistry, physics, and biology.

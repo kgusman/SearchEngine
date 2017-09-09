@@ -1,0 +1,54 @@
+Title       : RIA: Clock Distribution Design and Register Allocation in Pipelined Systems with
+               Application to Behavioral Synthesis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 18,  1992       
+File        : a9208165
+
+Award Number: 9208165
+Award Instr.: Standard Grant                               
+Prgm Manager: John R. Lehmann                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1992     
+Expires     : January 31,  1996    (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Eby G. Friedman friedman@ece.rochester.edu  (Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0108000   Software Development                    
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+Program Ref : 9215,
+Abstract    :
+              In this research effort, the effects of pipelining on the                      
+              performance of a high speed synchronous digital system are                     
+              investigated.  Pipelining, coupled with the design of the clock                
+              distribution network synchronizing the signal flow between each                
+              data path, can significantly effect system performance.  Timing                
+              characteristics of the clock distribution network are analyzed in              
+              terms of how system performance can be either enhanced or degraded.            
+              A graphical design paradigm relating latency and clock frequency               
+              as a function of the level of pipelining are enhanced to further               
+              study the performance of a synchronous system.                                 
+                                                                                             
+              Specifically, the following areas are investigated: 1) the                     
+              application of localized clock waveform lead/lag relationships to              
+              pipelined data paths so as to demonstrate the utility of these                 
+              relationships and to understand their limitations for increasing               
+              clock frequency in deeply pipelined systems, 2) the investigation              
+              of the effects of retiming and register allocation/scheduling on               
+              pipelined systems for application to behavioral synthesis and                  
+              analysis, 3) the application of the aforementioned graphical                   
+              approach to the analysis of clock frequency/latency tradeoffs in               
+              structures containing feedback, thereby providing a structured                 
+              theoretical basis for designing and implementing recursive circuit             
+              structures, and 4) the investigation of the effects of process                 
+              parameter variations on system level performance.

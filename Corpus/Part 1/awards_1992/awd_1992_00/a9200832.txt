@@ -1,0 +1,131 @@
+Title       : System Support for High Performance Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 9,  1995        
+File        : a9200832
+
+Award Number: 9200832
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1992  
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $1599262            (Estimated)
+Investigator: Edward D. Lazowska lazowska@cs.washington.edu  (Principal Investigator current)
+              Henry M. Levy  (Co-Principal Investigator current)
+              John Zahorjan  (Co-Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2876,9139,9148,9194,9215,9216,HPCC,MANU,
+Abstract    :
+                       The fundamental issue addressed in this work is the structuring  of
+              operating systems to take advantage of multiprocessors so as to  yield the best
+              possible application performance.  The division of  labor between the kernel
+              and the user level is different on a  multiprocessor than on a uniprocessor. 
+              On a uniprocessor, the kernel  is responsible for address spaces,
+              communication, resource allocation,  threads, and thread scheduling.  On a
+              shared memory multiprocessor,  the kernel iis left in charge of address spaces
+              and resource  allocation, but communication, threads, and thread scheduling are
+               implemented at user level through runtime support in each address  space. 
+              Furthermore, each address space is in direct control  over certain key aspects
+              of virtual memory management and file  management.  It is important to
+              understand that while ``micro-kernel'' designs such  as Mach 3.0 take the
+              important step of moving the file system, the  virtual memory system, etc., out
+              of the kernel to user-level  servers, they leave cross-address space
+              communication, threads, and  thread scheduling in the kernel.  There are
+              structural differences  between these monolithic kernels, micro-kernel designs
+              and the ``nano-kernel''  advocated here.  In experimental work over the past
+              several years, the researchers have  constructed proof-of-concept prototypes in
+              most of the essential areas  that must be addressed:  locking protocols,
+              user-level threads,  cross-address space communication, the kernel interface,
+              processor  allocation policies, and user-level virtual memory management.  The 
+              objectives in this work are of two kinds, direct and indirect.  Direct
+              objectives include:  (1) integrating these proof-of-concept prototypes into a
+              single  system, convincingly demonstrating the viability of the  overall
+              approach; and  (2) solving the problems that stand in the way of this 
+              integration, some of which are known and some of which  can only be discovered
+              by undertaking the task.  Indirect objectives include:  (a) using the ``core''
+              of the resulting system to study a number  of important policy questions
+              (thread scheduling,  processor allocation, virtual memory management) that can 
+              only be explored given such an experimental testbed, and  (b) using this core
+              as a base for exploring high performance  system support for more advanced
+              architectures,  specifically large scale machines with distributed  memory,
+              distributed/parallel programming using high band-width  low-latency networks,
+              and wide-address machines.                                                     
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                              

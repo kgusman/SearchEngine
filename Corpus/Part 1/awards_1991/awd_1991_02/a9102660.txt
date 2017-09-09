@@ -1,0 +1,55 @@
+Title       : Algorithms for Large Scale Stochastic Optimization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 15,  1995      
+File        : a9102660
+
+Award Number: 9102660
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1991      
+Expires     : March 31,  1996      (Estimated)
+Expected
+Total Amt.  : $199420             (Estimated)
+Investigator: John M. Mulvey mulvey@princeton.edu  (Principal Investigator current)
+Sponsor     : Princeton University
+	      
+	      Princeton, NJ  08544    609/452-3000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              This project continues previous work on nonlinear and stochastic               
+              networks.  The basic research involves the design of efficient                 
+              algorithms for large-scale network optimization problems.  Attention           
+              will be paid to the inclusion of uncertainty within the model -                
+              stochastic networks - and to nonlinearities in the objective function.         
+              Many problems in engineering and management can be represented as a            
+              network in which some (or all) of the parameters are stochastic.               
+              Examples include:  air-traffic control, hydroelectric power                    
+              scheduling, financial investment strategies, transportation planning,          
+              productions/distribution, and personnel planning systems.  Adding              
+              uncertainty to an optimization model greatly complicates the search            
+              for efficient algorithms.  This research will focus on a new                   
+              decomposition method, called diagonal quadratic approximation (DQA),           
+              that combines a penalty and an interior-point barrier approach.                
+              Initial results indicate that the DQA method is competitive with the           
+              leading stochastic programming algorithm - progressive hedging.  Both          
+              methods are amenable to parallel implementation.  The DQA method can           
+              be designed for a massively parallel computer.  Thus, DQA applies to           
+              the multi-stage stochastic program, whereby large numbers of scenarios         
+              are required.  The research will consider alternative versions of DQA          
+              and will study the theoretical aspects of convergence.  Extensive              
+              computational tests will be made on a variety of serial and parallel           
+              computers, including a massively parallel SIMD machine.  The research          
+              promises to make substantial progress in the handling of stochastic            
+              programming problems with a very large number of scenarios.  The               
+              significance of the project is indicated by the wide range of                  
+              applications that can be solved as network optimization problems               
+              under uncertainty.

@@ -1,0 +1,75 @@
+Title       : Mathematical Sciences: Numerical Analysis and Computation ofInvariant Manifolds
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : April 15,  1993     
+File        : a9107612
+
+Award Number: 9107612
+Award Instr.: Continuing grant                             
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : August 1,  1991     
+Expires     : July 31,  1995       (Estimated)
+Expected
+Total Amt.  : $74220              (Estimated)
+Investigator: Jens Lorenz lorenz@math.unm.edu  (Principal Investigator current)
+Sponsor     : University of New Mexico
+	      Sholes Hall
+	      Albuquerque, NM  87131    /   -
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9263,
+Abstract    :
+                   The principal investigator undertakes the analysis and                    
+              implementation of numerical methods for the computation of                     
+              invariant manifolds of dynamical systems and of invariant curves               
+              of maps.  A feature of this work is to implement certain                       
+              coordinate changes that will greatly extend the applicability of               
+              the algorithms.  In most applications, the dynamical systems                   
+              depend on one or more parameters; then the determination of                    
+              suitable coordinates will be combined with the idea of path                    
+              following.  As long as the manifolds deform smoothly when system               
+              parameters change, the proposed methods will permit following the              
+              manifolds computationally.  A longer-term goal is to study                     
+              bifurcations of invariant manifolds numerically, in particular                 
+              the breakdown of tori.  It is expected that the region of                      
+              breakdown will be characterized numerically by several turning                 
+              points of the discrete solution branch, and that the number of                 
+              turning points increases as the meshsize is refined.  The                      
+              proposed research will point the way towards the development of                
+              efficient algorithms for the computations of invariant manifolds,              
+              and will provide a valuable tool for the study of dynamical                    
+              systems.                                                                       
+                   Nonlinear dynamical systems play an important role in many                
+              areas of the applied sciences and of engineering and technology.               
+              For example, they are used to model flows around airplanes and                 
+              submarines, vibrations of engines, currents in electrical                      
+              networks, and blood flow in the heart.  All these systems                      
+              depend on parameters, which can partially be controlled or                     
+              monitored.  A practical problem of main importance is to predict               
+              the critical values of parameters, for which qualitative changes               
+              of the dynamical systems occur.  These changes are called                      
+              bifurcations.  For example, a long-outstanding problem is                      
+              to predict the transition from laminar to turbulent flow.                      
+              Similarly, a vibrating structure can bifurcate from quasiperiodic              
+              to chaotic motion; the latter is unpredictable and might lead to               
+              the breakdown of the structure.  The behavior of a dynamical                   
+              system is often characterized by its properties on an                          
+              invariant manifold.  This project will develop numerical software              
+              to compute invariant manifolds and to follow them computationally              
+              as system parameters change. Important cases are given by                      
+              invariant tori, which correspond to quasiperiodic (predictable)                
+              motion;  breakdown of the tori corresponds to the transition                   
+              to chaotic (unpredictable) motion.  With algorithms developed in               
+              this work, one will be able to compute values for bifurcation                  
+              parameters, i.e., one can predict parameter values for which                   
+              major qualitative changes of the dynamical system will occur.                  
+              The algorithms will be tested on systems of coupled                            
+              oscillators and vibrating mechanical structures, but they will                 
+              apply to other areas of the applied sciences where dynamical                   
+              systems are used for modelling.

@@ -1,0 +1,37 @@
+Title       : Research Initiation Award: Fast Checkpointing in Parallel Environments
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 23,  1994    
+File        : a9409496
+
+Award Number: 9409496
+Award Instr.: Standard Grant                               
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1994    
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $85928              (Estimated)
+Investigator: James S. Plank plank@cs.utk.edu  (Principal Investigator current)
+Sponsor     : U of Tennessee Knoxville
+	      404 Andy Holt Tower
+	      Knoxville, TN  379960140    865/974-3466
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9148,9216,9264,HPCC,
+Abstract    :
+              9409496  Plank  The main goal of this project is the evaluate several techniques
+               for providing efficient check-pointing in parallel processing  systems.
+              Check-pointing is the act of saving the execution state  of a program with the
+              purpose of restoring the system to a stable  state after a failure. The major
+              obstacle to providing general  purpose fault-tolerance for parallel programs is
+              the overhead  incurred by check-pointing. In an attempt to improve the 
+              performance of check-pointing, this project explores diskless  check-pointing,
+              user controlled check-pointing and meshing of  check-pointing with
+              log-structured file systems. The impact of  these approaches and their
+              subsequent implementations will be  investigated.  ***

@@ -1,0 +1,60 @@
+Title       : Multiagent Search Algorithms for Learning & Planning in Colony-Style Robots
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 2,  1991     
+File        : a9109298
+
+Award Number: 9109298
+Award Instr.: Standard Grant                               
+Prgm Manager: Howard Moraff                           
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1991     
+Expires     : January 31,  1994    (Estimated)
+Expected
+Total Amt.  : $59970              (Estimated)
+Investigator: Michael D. Lemmon Michael.D.Lemmon.1@nd.edu  (Principal Investigator current)
+Sponsor     : University of Notre Dame
+	      
+	      Notre Dame, IN  46556    219/631-7432
+
+NSF Program : 6840      ROBOTICS AND HUMAN AUGMENTATIO
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 6840,9264,
+Abstract    :
+              Direct implementation of the sensory-cognitive motor triad for                 
+              intelligent robotic systems will generally place severe demands                
+              on the computing, communication, and memory resources of these                 
+              systems.  One solution to this problem has been to distribute the              
+              triad's functionality among various physical components of the                 
+              robot.  The colony-style robot ?1! and its predecessor ?2!                     
+              (subsummation architecture) represent related methods for                      
+              achieving this functional distribution.  Colony-style robots use               
+              a collection(ie., colony) of hierarchically inhibited agents to                
+              control the robot.  Existing colony-style robots suffer several                
+              disadvantages limiting their utility as autonomous system.  These              
+              disadvantages involve problems in determining the robot's                      
+              underlying control hierarchy and the inability of  existing                    
+              systems to save and use prior experience.  This project uses                   
+              multiagent processing paradigms called multiagent search                       
+              strategies of MASS algorithms ?3! to solve the deficiencies of                 
+              current colony-style systems.  MASS algorithms ar inspired by                  
+              recent work with competitively and cooperatively inhibited neural              
+              networks ?3!?4!.  It can be shown, using statistical mechanical                
+              arguments, that competitive MASS algorithms can form minimum                   
+              entropy representations of density functions.  This project uses               
+              that analytical formalism to develop MASS algorithms capable of                
+              learning the components and structure of the colony-style control              
+              hierarchy.  The research also explores how "cooperative"  MASS                 
+              can be used to realize fully discretized solution of Bellman's                 
+              dynamic programming equation, and uses this capability to devise               
+              a method for implementing long term memory and path planning                   
+              capabilities in colony-style robots.  The project will fully                   
+              develop, through simulation and analysis, the MASS algorithms                  
+              needed to realize memory, learning, and planning in colony-style               
+              robots.  The research will also investigate extensions of this                 
+              approach to more complex systems such as flexible manufacturing                
+              systems.

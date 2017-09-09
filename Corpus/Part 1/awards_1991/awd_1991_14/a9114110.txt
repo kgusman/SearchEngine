@@ -1,0 +1,54 @@
+Title       : Implementation of a High Performance Microprocessor
+Type        : Award
+NSF Org     : EIA 
+Latest
+Amendment
+Date        : January 23,  1992   
+File        : a9114110
+
+Award Number: 9114110
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael J. Foster                       
+	      EIA  DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : January 1,  1992    
+Expires     : September 30,  1993  (Estimated)
+Expected
+Total Amt.  : $102206             (Estimated)
+Investigator: William A. Wulf   (Principal Investigator current)
+              James H. Aylor  (Co-Principal Investigator current)
+Sponsor     : University of Virginia
+	      Post Office Box 9003
+	      Charlottesville, VA  229069003    804/924-0311
+
+NSF Program : 4725      EXPERIMENTAL SYSTEMS PROGRAM
+Fld Applictn: 0108000   Software Development                    
+              0308000   Industrial Technology                   
+              0510204   Data Banks & Software Design            
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              The revised project scope is for a 12-month investigation of the               
+              SYSTEM performance utilizing a WM processor.  In particular, the               
+              investigation is to examine "two potential bottlenecks of WM                   
+              systems, namely memory bandwidth and operating system overhead--               
+              especially context switching".  Because superscalar and                        
+              superpipelined processors are memory "bandwidth hungry" (in the                
+              case of the WM processor up to 11 memory references can be                     
+              generated per processor cycle)--there is a need to examine the                 
+              memory system required to support such a processor.  An instruction            
+              cache can only eliminate one of these references, while for vector             
+              strides other than one a data cache may actually REDUCE the                    
+              effective bandwidth.                                                           
+                                                                                             
+              Due to the large amount of internal state which an implementation              
+              of the WM processor might have (greater than 700 bytes)--the cost              
+              of a context switch becomes very high as all of this context must              
+              be saved (typically off-chip as most of the on-chip real-estate is             
+              filled with registers, cache,...).                                             
+                                                                                             
+              The investigators will explore several design alternatives to                  
+              address each of these areas in order to determine if it is feasible            
+              to build a high-performance SYSTEM utilizing a WM processor.

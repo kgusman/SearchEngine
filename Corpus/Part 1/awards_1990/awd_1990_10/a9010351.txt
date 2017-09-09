@@ -1,0 +1,43 @@
+Title       : Adaptive Software Cache Management for Distributed Shared Memory Architectures
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 10,  1991    
+File        : a9010351
+
+Award Number: 9010351
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1990      
+Expires     : May 31,  1993        (Estimated)
+Expected
+Total Amt.  : $64400              (Estimated)
+Investigator: John K. Bennett   (Principal Investigator current)
+Sponsor     : William Marsh Rice Univ
+	      6100 Main Street, MS-16
+	      Houston, TX  772511892    713/348-4820
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              The objective of this work is to develop adaptive software cache               
+              management techniques that will allow programs written for shared              
+              memory multiprocessors to be executed efficiently on distributed               
+              memory machines.  These techniques will facilitate a system that               
+              overcomes the architectural limitations of shared memory machines,             
+              while maintaining their advantages in terms of ease of programming.            
+              Translation from the shared memory programming model to the                    
+              distributed memory hardware is done by runtime software, with the aid          
+              of hints provided by the user or by the compiler.  The runtime system          
+              implements an adaptive cache coherence mechanism that exploits                 
+              semantic information about the expected or observed access behavior of         
+              particular data objects.  Preliminary measurements on a adaptive               
+              caching outperforms static cache coherence mechanisms, while                   
+              extracting only limited cost when coherence is implemented in                  
+              software.  These experiments will be extended to include a broad range         
+              of programs.

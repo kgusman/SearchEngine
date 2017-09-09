@@ -1,0 +1,49 @@
+Title       : PYI: Computational Issues in the Solution of Partial Differential Equations
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : July 14,  1995      
+File        : a9057936
+
+Award Number: 9057936
+Award Instr.: Continuing grant                             
+Prgm Manager: John Van Rosendale                      
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1990     
+Expires     : July 31,  1997       (Estimated)
+Expected
+Total Amt.  : $297306             (Estimated)
+Investigator: Stephen A. Vavasis vavasis@cs.cornell.edu  (Principal Investigator current)
+Sponsor     : Cornell University-Endowed
+	      Office of Sponsored Programs
+	      Ithaca, NY  148532801    607/255-5014
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,9227,HPCC,
+Abstract    :
+                                                                                             
+              Numerical solution of partial differential equations is one of                 
+              the most computationally difficult tasks in existence, so only                 
+              the most efficient algorithms can be used.  The actual numerical               
+              formulas used in the algorithms are fairly well understood by                  
+              now, but the computational issues arising from geometrical issues              
+              are less so.                                                                   
+                                                                                             
+              One line of research is intended to determine the proper handling              
+              of grids for partial differential equations.  Solution techniques              
+              such as finite element methods require the subdivision of the                  
+              geometric domain into small polygonal elements.  This research                 
+              will establish the best ways to carry out this subdivision,                    
+              especially when the domain has a complicated shape.  It will                   
+              determine the proper method to partition the domain among                      
+              processors of a parallel computer.                                             
+                                                                                             
+              Boundary element techniques show great promise for handling                    
+              complicated geometries.  They are receiving recent attention                   
+              because of their newly-discovered links to wavelet                             
+              transformations.  The research seeks new algorithms that will                  
+              speed up boundary element calculations.

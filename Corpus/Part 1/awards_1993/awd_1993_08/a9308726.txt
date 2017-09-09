@@ -1,0 +1,46 @@
+Title       : Research Initiation Award: Formal and Contextual Analysis of Software
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 16,  1993    
+File        : a9308726
+
+Award Number: 9308726
+Award Instr.: Standard Grant                               
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1993      
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: Daniel Jackson   (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2880,9218,9264,
+Abstract    :
+              9308726  Jackson  Many of the tasks demanded by evolving software-maintenance, 
+              reverse engineering, restructuring, etc.-depend on analysis.  Large programs
+              confound any attempt at hand analysis, so  research has focused on tools that
+              analyze programs  automatically. Broadly speaking, two kinds of tools have 
+              been proposed: knowledge-based tools that can associate  properties of program
+              components with notions from the  problem domain, and compilerlike tools that
+              determine  relationships among components by calculating dependencies,  slices,
+              module hierarchies, etc.    Each approach has disadvantages.  The
+              knowledge-based tools,  because they only associate problem domain notions with
+               components informally, cannot provide rigorous analysis;  answers to queries
+              tend to be more like hints than sound  inferences. The compiler-like tools are
+              confined to low-  level analysis of the code, so the queries, and their 
+              responses, must be formulated in terms of code constructs  alone.    This work
+              combines some of the advantages of both  approaches. The key idea is contextual
+              abstraction.  The  user specifies an abstraction relationship between program 
+              components and problem domain notions.  A variety of  analyses then becomes
+              possible by interpreting properties of  the code in problem domain terms.  And
+              because the  abstraction relationship is formal, the analyses are  rigorous and
+              can include, for example, partial verification.  ***

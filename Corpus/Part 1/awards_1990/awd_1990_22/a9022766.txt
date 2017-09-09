@@ -1,0 +1,80 @@
+Title       : Robust Controller Design for Systems with Constraints
+Type        : Award
+NSF Org     : CTS 
+Latest
+Amendment
+Date        : May 10,  1993       
+File        : a9022766
+
+Award Number: 9022766
+Award Instr.: Continuing grant                             
+Prgm Manager: Maria Burka                             
+	      CTS  DIV OF CHEMICAL AND TRANSPORT SYSTEMS   
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : March 15,  1991     
+Expires     : February 28,  1995   (Estimated)
+Expected
+Total Amt.  : $305446             (Estimated)
+Investigator: Manfred Morari morari M@Caltech                        818-568-8743  (Principal Investigator current)
+Sponsor     : California Inst of Tech
+	      1201 E California Blvd
+	      Pasadena, CA  911250001    818/795-4571
+
+NSF Program : 1403      PROCESS & REACTION ENGINEERING
+Fld Applictn: 0308000   Industrial Technology                   
+              53        Engineering-Chemical                    
+Program Ref : 
+Abstract    :
+              This research project is aimed at developing process control                    
+                                                                                            
+              algorithms to handle both constraints and uncertainty.                         
+              Constraints affect controller design because while the dynamic                 
+                                                                                             
+              behavior of many processes can be accurately described by a                    
+              linear model, system operation is always subject to                            
+              constraints which are nonlinear elements.  The controller has                  
+                                                                                             
+              to be designed to handle these nonlinearities.  Such                           
+              constraints may arise from actuator saturation or processing                   
+                                                                                             
+              limitations (certain temperatures and pressures may not be                     
+              exceeded, for example).  Uncertainty is a factor because the                   
+                                                                                             
+              control designer never has a perfect dynamic description                       
+              (model) of any real industrial process.  The system is                         
+              approximated and model order and parameters always contain                     
+              some error, and may even change with operating conditions.                     
+                                                                                             
+              The PI plans to implement two techniques for dealing with such                 
+                                                                                             
+              problems, Model Predictive Control (MPC) and Anti-Windup                       
+              Bumpless-Transfer (AWBT).  MPC requires that the control                       
+              objective is expressed in terms of a single quadratic                          
+              objective function and the constraints are translated into                     
+              linear inequality constraints.  AWBT controller design                         
+              proceeds in two steps where first an acceptable linear robust                  
+                                                                                             
+              controller is designed neglecting all nonlinear loop elements                  
+                                                                                             
+              and objectives.  Then a compensation scheme is added which                     
+              deals with the nonlinear issues such as constraints.  This                     
+              research will proceed in three steps:                                          
+                                                                                             
+              (1) A new robust linear MPC controller will be designed.  It                   
+                                                                                             
+              will be implemented in a nonlinear manner through an optimizer                 
+                                                                                             
+              which aims at satisfying all process constraints while                         
+              minimizing the deviation from linear behavior.                                 
+                                                                                             
+              (2) Development of an AWBT synthesis procedure that balances                   
+              the                                                                            
+              trade-offs between smooth switching performance, measurement                   
+              noise                                                                          
+              sensitivity and robustness.                                                    
+                                                                                             
+              (3) Development of mechanisms to translate practical                           
+              objectives and constraints into an MPC or AWBT formalism in an                 
+                                                                                             
+                                                                                             
+              effective manner.

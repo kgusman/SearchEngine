@@ -1,0 +1,55 @@
+Title       : Formal Verification of Programs on Synchronous Parallel Machines
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 7,  1995      
+File        : a9123200
+
+Award Number: 9123200
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1992       
+Expires     : May 31,  1994        (Estimated)
+Expected
+Total Amt.  : $57097              (Estimated)
+Investigator: Philip M. Lewis pml@cs.sunysb.edu  (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              Synchronous machines are an important class of high performance                
+              computers.  Machines of this type include linear and systolic arrays           
+              such as the WARP machine, two dimensional arrays such as the Massively         
+              Parallel Computer, and machines with more complex interconnections             
+              such as the Connection Machine.  The importance of this class of               
+              machines is due in large measure to the scalability of the                     
+              architecture.  Synchronous machines can be built containing hundreds           
+              of thousands of processors.  This scalability, however, implies a              
+              corresponding increase in the complexity of the overall program                
+              running on the machine and, hence, in the difficulty of reasoning,             
+              either formally or informally, about the correctness of that program.          
+                                                                                             
+              The objective of this research is to develop methods for the formal            
+              verification of programs running on synchronous parallel machines--            
+              specifically machines consisting of a large number of processors that          
+              execute copies of the same program and communicate using message               
+              passing.  The basic approach is to prove assertions about a single             
+              copy of the program and, from this proof, infer properties of the              
+              entire assembly of programs.  The goal is to develop a complete                
+              formal theory based on this approach.                                          
+                                                                                             
+              As with all formal methods for reasoning about programs, the concepts,         
+              theorems, and general approach can be expected to have a significant           
+              benefit on software development for such machines--even when that              
+              software is developed informally.  The software designer must                  
+              certainly reason about the correctness of the software even if that            
+              reasoning is done informally.  Formal methods can provide a guide to           
+              how to perform that reasoning.

@@ -1,0 +1,55 @@
+Title       : File, Database and I/O Systems Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 11,  1996      
+File        : a9117028
+
+Award Number: 9117028
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1992     
+Expires     : February 28,  1997   (Estimated)
+Expected
+Total Amt.  : $174537             (Estimated)
+Investigator: Alan J. Smith   (Principal Investigator current)
+Sponsor     : U of Cal Berkeley
+	      
+	      Berkeley, CA  94720    415/642-6000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              There are two technology trends strongly impacting the design and              
+              performance of I/O systems.  First, processor power, especially for            
+              single (or few) chip designs, is increasing very rapidly, leading to:          
+              (a) (almost) corresponding increases in I/O load, (b) distributed              
+              systems with workstations (w/wo local disks), file servers and                 
+              computation nodes, and (c) multiprocessors with enormous                       
+              cost/performance advantages over uniprocessors providing the same              
+              aggregate performance.  Second, disk storage densities are increasing          
+              rapidly without any comparable increase in disk performance.  A number         
+              of design and optimization problems have become extremely important            
+              due to these trends: (a) Systems are becoming increasingly susceptible         
+              to I/O bottlenecks due to increasing I/O rates and the less quickly in         
+              creasing ability of the I/O system to respond to them.  (b)                    
+              Multiprocessor systems with shared I/O devices and/or databases are            
+              increasingly susceptible to I/O bottlenecks in referencing, locking            
+              and updating shared data.                                                      
+                                                                                             
+              This project continues research on a number of topics relating to              
+              file, I/O and database system performance.  These include: (a)                 
+              Development and analysis of algorithms for disk caching in distributed         
+              and hierarchical systems, taking into account both consistency and             
+              performance.  (b) Studies of the effect of disk caching in conjunction         
+              with disk striping and log structured file systems.  (c) Analysis and          
+              development of locking algorithms for shared, distributed database             
+              systems.  (d) Design, optimization and implementation of hierarchical          
+              and distributed file migration in a very large mass storage systems            
+              using optical disks to be built at UC Berkeley.  The work relies               
+              heavily on actual system measurement and trace driven simulation.

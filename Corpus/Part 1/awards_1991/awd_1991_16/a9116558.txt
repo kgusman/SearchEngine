@@ -1,0 +1,54 @@
+Title       : Object-Oriented Data Management for Interactive Visualiza- tion of Scientific
+               Data
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : August 7,  1992     
+File        : a9116558
+
+Award Number: 9116558
+Award Instr.: Continuing grant                             
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1991 
+Expires     : February 28,  1994   (Estimated)
+Expected
+Total Amt.  : $283000             (Estimated)
+Investigator: Sandra Walther   (Principal Investigator current)
+              Richard L. Peskin  (Co-Principal Investigator current)
+Sponsor     : Rutgers Univ New Brunswick
+	      ASB III, 3 Rutgers Plaza
+	      New Brunswick, NJ  08901    732/932-0150
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 
+Abstract    :
+              This project continues development of a data management strategy               
+              to organize scientific datasets into online (i.e. "in memory")                 
+              object-oriented numerical databases.  The strategy uses hashing                
+              maps based on the spatio-temporal coordinates of the dataset                   
+              itself and addresses a key issue in interactive data analysis -                
+              maintaining a retrieval route for the user between the visual                  
+              representation on the screen and the actual data.  This is                     
+              accomplished through a set of data structures that manage                      
+              computed data as "computational objects" at the nodes of a mesh                
+              organized as a single plane,  a volume of planes, or a                         
+              timeseries.  All  references to the data are resolved into                     
+              queries about the maps.  The hashing maps can be resident in a                 
+              workstation while managing a database that is itself distributed               
+              across numerous facilities.  Current extensions of this research               
+              include: (1) design of parallel storage and searching techniques               
+              of the distributed data objects; (2) interactive user                          
+              specification of filter functions (local or non-local) for                     
+              graphics and diagnostics; and (3) generalization of management                 
+              utilities to support conversion of any user specified data set to              
+              object-oriented database organization.  This research seeks to                 
+              alleviate the continuing user problem of "data glut" in science                
+              and engineering.  Equally important are its implications for the               
+              development of software strategies that can utilize the complex                
+              and diverse hardware developments promised for the next decade in              
+              massively parallel computing.

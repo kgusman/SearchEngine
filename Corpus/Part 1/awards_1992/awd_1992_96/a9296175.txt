@@ -1,0 +1,55 @@
+Title       : Collaborative Research: Hierarchically Parallel Algorithms for Portable and
+               Scalable Performance
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 18,  1993    
+File        : a9296175
+
+Award Number: 9296175
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 16,  1992      
+Expires     : October 31,  1994    (Estimated)
+Expected
+Total Amt.  : $65444              (Estimated)
+Investigator: Ahmed H. Sameh   (Principal Investigator current)
+Sponsor     : U of Ill Urbana-Champaign
+	      801 South Wright Street
+	      Champaign, IL  61820    217/333-2186
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              The goal of this research proposed is to develop parallel sparse               
+              system solvers for symmetric indefinite and non-symmetric linear               
+              systems such as those occurring in computational fluid dynamics,               
+              develop parallel techniques for solving time-dependent problems, and           
+              construct a rapid prototyping environment for developing and                   
+              experimenting with algorithms in sparse matrix computations on shared          
+              and distributed memory multiprocessors.  In particular, the following          
+              will be examined:                                                              
+                                                                                             
+                o  parallel solution schemes for solving Stokes-like linear problems         
+                   arising in CFD and other augmented Lagrangian problems such as            
+                   interior point methods of linear programming,                             
+                                                                                             
+                o  incomplete Newton methods with Krylov or row projection iterative         
+                   solvers for the inner iteration,                                          
+                                                                                             
+                o  solution of time-dependent problems using high-order parallel             
+                   methods in time,                                                          
+                                                                                             
+                o  defining and developing sparse matrix primitives analogous to the         
+                   highly effective BLAS-3's for dense computations, and                     
+                                                                                             
+                o  implementing sparse factorization and solution schemes.                   
+                                                                                             
+              The goal is portable efficiency and scalability, by exploiting                 
+              parallelism on multiple levels.  This in turn will allow the work to           
+              be used across a wide spectrum of existing and future computer                 
+              architectures, instead of simply a particular machine.

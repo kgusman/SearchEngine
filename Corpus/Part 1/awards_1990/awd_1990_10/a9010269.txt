@@ -1,0 +1,52 @@
+Title       : Parallel Programming with Equations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 13,  1990      
+File        : a9010269
+
+Award Number: 9010269
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1990      
+Expires     : May 31,  1993        (Estimated)
+Expected
+Total Amt.  : $60000              (Estimated)
+Investigator: Shaunak Pawagi   (Principal Investigator current)
+Sponsor     : SUNY Stony Brook
+	      
+	      Stony Brook, NY  117943362    631/632-9949
+
+NSF Program : 2875      SYSTEM SOFTWARE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              Nonprocedural programming, such as functional, has been an attractive          
+              approach to programming parallel computers.  Programs written in such          
+              languages exhibit implicit parallelism which can be exploited for              
+              their efficient parallel execution.  This project will investigate the         
+              applicability of equational style to parallel programming. Equational          
+              programming is a style of nonprocedural programming in which a system          
+              of oriented equations of the form l -> r, where l and r are terms,             
+              constitute a program.  Equational languages have logical semantics             
+              which is intuitive and easy to understand.  A new class of equations           
+              called path sequential systems has been identified.  This class of             
+              equations is naturally suitable for parallel execution of equational           
+              programs on both shared memory as well as message passing                      
+              architectures.  Efficient strictness analysis techniques have been             
+              developed which work well for flat parallelism in equational programs.         
+              In continuation of this research, a parallelizing compiler and run-            
+              time system for a first order equational language that is constructor          
+              based will be implemented.  The implementation will be done on a               
+              shared memory and on a message passing parallel computer.  A major             
+              thrust of this investigation will be on load balancing and minimizing          
+              inter-processor communications.  Specifically, dynamic load balancing          
+              strategies that are based on regular communication patterns of path            
+              sequential systems will be investigated.  Finally, the performance of          
+              the equational programming system will be examined by executing                
+              numerical and nonnumerical applications such as sparse matrix                  
+              computations and toy theorem provers.

@@ -1,0 +1,73 @@
+Title       : Trusted Interoperation of Health-Care Information Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 30,  1999     
+File        : a9422688
+
+Award Number: 9422688
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 1,  1995      
+Expires     : February 29,  2000   (Estimated)
+Expected
+Total Amt.  : $1303144            (Estimated)
+Investigator: Steven M. Dawson dawson@sdl.sri.com  (Principal Investigator current)
+              Xiaolei Qian  (Principal Investigator former)
+Sponsor     : SRI International
+	      333 Ravenswood Avenue
+	      Menlo Park, CA  940253493    650/859-3571
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0108000   Software Development                    
+              0203000   Health                                  
+              30        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9139,9216,HPCC,
+Abstract    :
+              9422688 Qian   This award is made in support of the NSF initiative
+              ENG-CISE-IITA94,  National Challenges.  It  is a joint initiative between the
+              Engineering Directorate and the Computer Information and Engineering
+              Directorate.  SRI International, in collaboration with Stanford University
+              Department of computer Science and Medicine, and Inova Health System,  will
+              develop and demonstrate techniques for the trusted interoperation of autonomous
+              heterogeneous health care databases containing sensitive data that mismatch in
+              semantics, representations, and security/privacy policies.  This effort will be
+              built on the query mediation framework developed under ARPA and Rome Laboratory
+              sponsorship.    The framework supports the automated and efficient mediation of
+              queries between autonomous heterogeneous databases.  Semantic connections
+              between component databases are encoded in a knowledge base, which are then
+              used by a mediator to automatically resolve mismatches and transform queries
+              between component databases using the local language and schema, making a local
+              database access data in multiple databases using the local language and schema,
+              making interoperable both the data and the applications accessing the data in
+              legacy databases. Technique will be developed and demonstrated for solving
+              three critical problems that hinder the trusted query mediation of autonomous
+              heterogeneous health care database containing sensitive data that mismatch in
+              semantics, representations, and security/privacy policies.  In particular, the
+              following questions will be answered:   1. A security/Privacy Policy Framework.
+               What is the relationship and   difference between security and privacy? How
+              can the security/privacy   policy of a health care database be characterized
+              and formalized?  How   can we compare the security/privacy policies of
+              autonomous    heterogeneous  health care databases?   2. Trusted Query
+              Mediation.  When autonomous heterogeneous health care   databases are
+              interoperating through query mediation, how c an we   guarantee the autonomy
+              and security/privacy of component databases. In   other words, how can queries
+              be mediated such  that neither the rights nor   the security/privacy of
+              components databases are compromised?   3. Schema Mediation.  In constructing a
+              physician's workstation as a uniform   interface to multiple autonomous
+              heterogeneous health care databases,   how can a consistent view (schema) be
+              constructed that (1) captures   exactly the data that are relevant to users of
+              the workstation, and (2)   resolves all the mismatches in the relevant data? 
+              These techniques will be implemented in a demonstration system that leverages
+              off an existing one developed for the query mediation framework, which
+              demonstrates query mediation between an clinic database and a hospital database
+              ( adopted for the T-helper database for Stanford University School of
+              Medicine).  Health care databases form Inova Health System and Stanford
+              University School  of Medicine will be used in the demonstration.  This effort
+              will contribute to the goal of developing and providing technology by which
+              health care providers can access and share patients medical records while
+              protecting the accuracy and privacy of  those records.

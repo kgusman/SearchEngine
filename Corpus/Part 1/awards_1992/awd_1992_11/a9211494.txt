@@ -1,0 +1,60 @@
+Title       : Algorithms for Scheduling and Load Balancing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 8,  1994       
+File        : a9211494
+
+Award Number: 9211494
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1992      
+Expires     : December 31,  1996   (Estimated)
+Expected
+Total Amt.  : $65125              (Estimated)
+Investigator: Joel Wein wein@mem.poly.edu  (Principal Investigator current)
+Sponsor     : Polytechnic Univ of NY
+	      Six Metrotech Center
+	      Brooklyn, NY  112013840    718/260-3550
+
+NSF Program : 2860      THEORY OF COMPUTING
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2860,9148,9216,9264,MANU,
+Abstract    :
+              The recent explosive growth in parallel and distributed                        
+              systems has brought new importance to the field of scheduling                  
+              theory.  In order for this technology to fulfill its potential                 
+              of providing tremendous computing power, it is crucial to                      
+              understand how to best schedule the components of a                            
+              computation on the resources of the parallel or distributed                    
+              system, so that the most efficient use possible of these                       
+              resources is achieved.  In this research algorithms will be                    
+              designed for the basic problems of scheduling a set of                         
+              machines.  Although this work is motivated by the application                  
+              of these problems to parallel and distributed computing, many                  
+              of the problems are of great importance in operations research                 
+              as well.                                                                       
+                                                                                             
+              The focus is on two fundamental models of scheduling more than                 
+              one machine:  the shop model, in which each job has a number                   
+              of operations, each of which must be processed by a particular                 
+              machine, and the parallel machine model, in which each job has                 
+              one operation which can be processed by any of the machines.                   
+              Most of these problems are NP-hard, and much remains to be                     
+              understood about how well they can be approximated in                          
+              polynomial time.                                                               
+                                                                                             
+              Further, work will be done on scheduling models that more                      
+              completely capture realistic parallel and distributed                          
+              scheduling questions.  Traditional models have largely ignored                 
+              any underlying parallel and distributed network; they have                     
+              also most often assumed that the entire specification of a                     
+              problem is given in advance of the beginning of the                            
+              construction of a schedule.  Problems of scheduling and load                   
+              balancing on specific networks and architectures and on-line                   
+              algorithms for both the traditional and more realistic                         
+              scheduling models will be studied.

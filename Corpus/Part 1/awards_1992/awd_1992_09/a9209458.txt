@@ -1,0 +1,54 @@
+Title       : Multiprocessor Memory Design for High-Performance Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 30,  1992      
+File        : a9209458
+
+Award Number: 9209458
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1992     
+Expires     : January 31,  1996    (Estimated)
+Expected
+Total Amt.  : $100000             (Estimated)
+Investigator: David J. Lilja lilja@ece.umn.edu  (Principal Investigator current)
+Sponsor     : U of Minnesota-Twin Cities
+	      450 University Gateway
+	      Minneapolis, MN  554151226    612/625-5000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9145,9264,
+Abstract    :
+              To produce the dramatic increases in computer system                           
+              performance needed to solve the "grand challenge"                              
+              computational problems, it will be necessary to incorporate                    
+              more parallel processing technology into new computer designs.                 
+                                                                                             
+              A major impediment to achieving high performance in a                          
+              multiprocessor, however, is the delay encountered when                         
+              accessing the data memory.  Current techniques for reducing                    
+              the memory delay, such as data prefetching, vector memory                      
+              fetches, and private data caches, have not been as effective                   
+              in multiprocessors as in traditional uniprocessors because                     
+              they have failed to use all of the available information.  In                  
+              particular, these techniques  typically rely only on the                       
+              information available at run-time, which is insufficient in                    
+              the complex environment of a multiprocessor system.  The                       
+              primary objective of this research project is to develop and                   
+              analyze new techniques for improving multiprocessor memory                     
+              performance by integrating hardware and software strategies to                 
+              utilize all of the memory referencing information.  The                        
+              project will explore both semantic information at compile-time                 
+              and dynamic information at run-time to improve data                            
+              prefetching, processor scheduling, data placement, and cache                   
+              coherence enforcement.  The new techniques generated through                   
+              this research will be validated using a unique combination of                  
+              trace-driven simulations, mathematical models, software                        
+              prototypes running on actual parallel machines, and                            
+              implementation of new algorithms in a parallelizing compiler.

@@ -1,0 +1,48 @@
+Title       : U.S.-Australia Cooperative Research: Partition Checkpointing and Recovery for
+               Distributed Databases
+Type        : Award
+NSF Org     : INT 
+Latest
+Amendment
+Date        : March 17,  1995     
+File        : a9417907
+
+Award Number: 9417907
+Award Instr.: Standard Grant                               
+Prgm Manager: W. Y. B. Chang                          
+	      INT  Office of Internatl Science &Engineering
+	      SBE  DIRECT FOR SOCIAL, BEHAV & ECONOMIC SCIE
+Start Date  : April 1,  1995      
+Expires     : February 29,  1996   (Estimated)
+Expected
+Total Amt.  : $10750              (Estimated)
+Investigator: Margaret H. Dunham mhd@engr.smu.edu  (Principal Investigator current)
+Sponsor     : Southern Methodist Univ
+	      
+	      Dallas, TX  75275    214/692-2000
+
+NSF Program : 5978      EAST ASIA AND PACIFIC PROGRAM
+Fld Applictn: 0102000   Data Banks                              
+              30        Computer Science & Engineering          
+Program Ref : 5912,9139,HPCC,
+Abstract    :
+              9417907  Eich    This award will partially support travel, living expenses   and
+              publication costs for Dr. Margaret H. Eich and a   graduate research assistant
+              from Southern Methodist University   to conduct cooperative research with Dr.
+              Maria Orlowska and  Dr. Robert Colomb, of the Department of Computer Science at
+              the  University of Queensland in Brisbane, Australia.  The  collaborative
+              research will focus on developing new checkpointing  and recovery algorithms
+              aimed at distributed databases.    Database checkpointing saves the state of a
+              database on a stable  memory separate from the primary database copy.  In the
+              event of  a failure of a primary copy, the loss can be restored using the 
+              backup copy of the log.  Checkpointing techniques so far examined  by the
+              Southern Methodist group require no synchronization  between transactions and
+              checkpointing, and also facilitate a  partial recovery of the database after
+              failure.  These features  are desirable for both a high throughput Main Memory
+              Database  (MMDB) system, and also for a distributed database environment.   
+              Objectives for this cooperative work are to examine techniques  for extending
+              MMDB recovery to distributed databases.  The  specific work to be conducted
+              will apply partition checkpointing  to distributed database environments, will
+              expand commit and  partial recovery algorithms for distributed environments,
+              and  will perform initial analytic studies validating the developed 
+              approaches.  ***

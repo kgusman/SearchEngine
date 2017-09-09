@@ -1,0 +1,128 @@
+Title       : Modular Semantics with Monads
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 17,  1995      
+File        : a9406793
+
+Award Number: 9406793
+Award Instr.: Standard Grant                               
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1995      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $75000              (Estimated)
+Investigator: Ernest G. Manes manes@math.umass.edu  (Principal Investigator current)
+Sponsor     : U of Massachusetts Amherst
+	      408 Goodell Building
+	      Amherst, MA  010033285    413/545-0698
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+                In principle, if an algorithm is given generalized input  (e.g. a  probability
+              distribution, a set of values, a list with no  repeats, or  values coupled with
+              CPU times)it should produce  correspondingly general output.  The `modular
+              semantics` studied  in this project provides formal machinery for a 
+              transparent  implementation. For example, given code to produce random 
+              outcomes  in {x1,...,xn}, a simple declaration that the ambient  environment is
+              to be  probabilistic prior to calling the code  is all that is needed to modify
+              the  output from a random single  output to an expression {{p1,x1},...,{pn,xn}}
+               wherein pi is the  probability of the outcome xi. The underlying programming 
+              system  must be altered so as to replace standard function evaluation  with 
+              Kleisli evaluation with respect to a finitary monad in the  category of sets. 
+              Universal algebra allows  for a uniform implementation  using tree processing. 
+                The primary research  goal is to understand the process by which  code is
+              transparently interpreted  relative to a monad. While  existing examples
+              demonstrate the viability of the  project, most  of the work remains to be
+              done.  A secondary research goal is to  develop creative applications of
+              monad-driven algorithms.                                                       
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                 

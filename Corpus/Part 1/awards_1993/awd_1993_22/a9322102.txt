@@ -1,0 +1,129 @@
+Title       : Sequential Monte Carlo Techniques for the Solution of Large Linear and
+               Non-Linear Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 5,  1996      
+File        : a9322102
+
+Award Number: 9322102
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1994     
+Expires     : July 31,  1998       (Estimated)
+Expected
+Total Amt.  : $218811             (Estimated)
+Investigator: John H. Halton   (Principal Investigator current)
+Sponsor     : U of NC Chapel Hill
+	      300 Bynum Hall
+	      Chapel Hill, NC  27514    919/962-5625
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9146,9216,HPCC,MANU,
+Abstract    :
+               Almost all mathematical problems in science and   engineering are  approximated
+              by linear and non-linear systems of integral   and/or  partial  differential
+              equations, which vary widely in number,  form,   and character.  Since
+              analytical solutions do not exist for  most problems of   interest,  numerical
+              approximation techniques,  such as finite element   and finite  difference
+              methods, are widely  used, ultimately resulting in   a system of linear  or
+              non-linear  algebraic equations, which must then be   solved.  In the realistic
+               representation of practical applications over large and/or    domains, such
+              systems may contain m=104 to 107  unknowns.    For non-linear or  transient
+              problems, the system  requires the repetitive   solution of  corresponding
+              linearized  problems for changing parameters.    Direct solution  methods often
+               cannot be used because of excessive storage   and time requirements  (the
+              latter are O(m3)).  Iterative methods (such as   multigrid,  conjugate 
+              gradients, SSOR, orthomin, and GMRES), which take time  O(m2)   per iteration,
+              are  almost universally applied.  Another  candidate for solving   very large
+              linear  systems is the Monte  Carlo method, which takes time O(m) per  
+              iteration; but the  high  variances of the estimates and the very slow  
+              convergence has  tended to  eliminate it from consideration.  The sequential
+              Monte  Carlo   method is a  promising modification which shows guaranteed 
+              convergence.    This method is  applied to broad classes of  large systems of
+              linear and non-  linear equations.  Preliminary  computations show promisingly
+              large improvements   in speed and  efficiency over both plain Monte Carlo and
+              deterministic   methods.                                                       
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                           

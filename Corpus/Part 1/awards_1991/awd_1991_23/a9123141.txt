@@ -1,0 +1,43 @@
+Title       : RUI: Compiling Fortran 90 for Distributed Memory Computers
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : April 13,  1993     
+File        : a9123141
+
+Award Number: 9123141
+Award Instr.: Continuing grant                             
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1992       
+Expires     : June 30,  1995       (Estimated)
+Expected
+Total Amt.  : $102228             (Estimated)
+Investigator: Jingke Li li@cs.pdx.edu  (Principal Investigator current)
+Sponsor     : Portland State University
+	      P O BOX 751
+	      Portland, OR  972070751    503/725-3423
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9216,9229,
+Abstract    :
+                                                                                             
+              It is clear that massively parallel computers offer the best path              
+              to the supercomputers of the future.  Unfortunately, they are                  
+              very difficult to program efficiently due to the lack of compiler              
+              support for the high level languages that exist.  The research                 
+              undertaken in this proposal will focus on one such language,                   
+              Fortran 90, with the intent of providing techniques to enhance                 
+              compilation for distributed memory computers.  Fortran 90 offers               
+              two advantages:  a rich set of array operations that enable the                
+              programmer to address complex applications, and a language that,               
+              as an extension of Fortran 77, is familiar to the broad                        
+              scientific community.  The research will focus on three key                    
+              compilation problems:  automatic array alignment, parameterized                
+              data layout, and generation of collective communications.                      
+              Emphasis will be placed on the development of general principles               
+              of compilation and the generation of efficient code.

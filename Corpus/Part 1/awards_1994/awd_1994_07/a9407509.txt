@@ -1,0 +1,61 @@
+Title       : Mathematical Sciences: Numerical Methods for Large-Scale Ocean Modeling
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : May 25,  1995       
+File        : a9407509
+
+Award Number: 9407509
+Award Instr.: Standard Grant                               
+Prgm Manager: Michael H. Steuerwalt                   
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 15,  1995      
+Expires     : May 31,  1998        (Estimated)
+Expected
+Total Amt.  : $65000              (Estimated)
+Investigator: Robert L. Higdon higdon@math.orst.edu  (Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 1303,EGCH,
+Abstract    :
+              Higdon       The investigator studies the numerical solution of partial 
+              differential equations that describe large-scale ocean  circulation.  The main
+              topic of investigation is operator splitting  for the governing equations. 
+              These equations admit wave velocities  having widely varying magnitudes, and
+              this situation creates  serious problems with the stability and efficiency of
+              numerical  algorithms.  One common approach to resolving these problems is to 
+              split the fast and slow dynamics into separate subproblems.  The  fast motions
+              are essentially independent of depth, and it is  natural to try to model these
+              motions with a two-dimensional  system of equations.  The slow motions would
+              then be modeled with a  three-dimensional system.  However, if the splitting is
+              inexact,  then the equations that supposedly model the slow motions may 
+              actually admit fast motions, to some degree.  There then arises the 
+              possibility that these fast motions might cause numerical  instabilities in the
+              computational algorithm.  The main goal of  this project is to develop a
+              stable, efficient, and accurate  operator splitting for the governing
+              equations.  Secondary goals  are to develop open boundary conditions for
+              limited-area models  and to examine higher-order difference methods for spatial
+               discretizations.       One of the major scientific challenges of the present
+              day is  to obtain high-resolution computer simulations of global ocean 
+              circulation over periods of many years.  Such simulations are of  great
+              interest because the ocean is a crucial component of the  earth's climate
+              system, so studies of possible global change must  include a careful
+              examination of the role of the ocean.  For  example, the ocean has a great
+              capacity to transport heat energy;  part of this transport is due to bulk
+              transport by major current  systems, and part is due to mixing caused by
+              smaller-scale eddies  that are shed from currents.  Comprehensive data on these
+              processes  are difficult to collect, and it appears that an accurate  
+              understanding of the earth's climate system will require numerical  simulations
+              based on an eddy-resolving model of the general  circulation of the ocean. 
+              Such simulations will present great  computational demands.  The goal of this
+              project is to contribute  to the development of suitable numerical methods for
+              these  computations.  This work is being performed in collaboration with 
+              members of the physical oceanography modeling group in the College  of
+              Atmospheric and Oceanic Sciences at Oregon State University.

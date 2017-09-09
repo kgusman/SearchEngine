@@ -1,0 +1,53 @@
+Title       : Use of Interval Arithmetic in Symbolic Computation
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 14,  1992      
+File        : a9211016
+
+Award Number: 9211016
+Award Instr.: Standard Grant                               
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1992       
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $44111              (Estimated)
+Investigator: Jeremy R. Johnson jjohnson@mcs.drexel.edu  (Principal Investigator current)
+Sponsor     : Drexel University
+	      32 and Chestnut Street
+	      Philadelphia, PA  19104    215/895-2000
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2865,9264,
+Abstract    :
+              This project explores the use of interval arithmetic in symbolic               
+              computation.  Interval arithmetic provides an efficient and error              
+              free method of combining floating point arithmetic with exact                  
+              computation.  The primary goal of this project is to develop and               
+              analyze hybrid interval/symbolic algorithms that provide a practical           
+              efficiency gain to time consuming algebraic algorithms such as                 
+              Collins' Cylindrical Algebraic Decomposition based Quantifier                  
+              Elimination.  Reduced execution times will allow more complicated and          
+              interesting problems to be solved.                                             
+                                                                                             
+              Example hybrid algorithms include Lehmer's multiprecision integer GCD          
+              algorithm, real algebraic number sign computation, algebraic number            
+              inequality tests, polynomial root bound computation, polynomial real           
+              root isolation, and potentially approximate algebraic polynomial GCD           
+              calcuation.  Preliminary study of some of these algorithms show the            
+              potential merits of this approach.                                             
+                                                                                             
+              An interval arithmetic package will be implemented for the SAC2-C              
+              computer algebra library.  Using this package all algorithms will be           
+              implemented and carefully analyzed empirically and theoretically.  The         
+              empirical study will be used to investigate the performance gain               
+              achieveable through the use of the proposed methods.  Furthermore,             
+              empirical results will provide useful information on the effectiveness         
+              and limitations of interval methods in exact compuation.  Programs             
+              with detailed documentation and analysis will be made available to the         
+              research community.

@@ -1,0 +1,60 @@
+Title       : Mathematical Sciences: Numerical Solution of Algebraic Problems Arising in
+               Fluids Models
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : June 16,  1995      
+File        : a9423133
+
+Award Number: 9423133
+Award Instr.: Standard Grant                               
+Prgm Manager: Alvin I. Thaler                         
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 15,  1995      
+Expires     : June 30,  1998       (Estimated)
+Expected
+Total Amt.  : $94000              (Estimated)
+Investigator: Howard C. Elman elman@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,9263,OTHR,
+Abstract    :
+              This work concerns the development and analysis of methods for computing the 
+              numerical solution of the linear and nonlinear algebraic systems arising in 
+              models of viscous incompressible fluid flow.  The emphasis is on iterative 
+              methods, specifically, preconditioned Krylov subspace methods, for solving the 
+              linear systems arising from discretization and linearization of the 
+              steady-state Navier-Stokes equations subject to incompressibility constraints.
+              Primary goals include the formulation and analysis of preconditioners that are 
+              effective for large Reynolds numbers, the construction of efficient methods for
+              parallel architectures, and the study of effects of linearization strategy on 
+              performance and overall costs.  The investigator studies these issues for a 
+              variety of stable finite element and finite difference discretization schemes 
+              and considers the influence of discretization on the algebraic properties of 
+              the discrete problems and on performance.  The methods are studied and compared
+              using both analytic bounds on convergence rates and assessment of performance 
+              in computational experiments with benchmark problems.   The equations to which
+              these solution algorithms are applied are fundamental in computational fluid
+              dynamics, for simulating the effects of flow (that is, estimating quantities
+              such as velocities, pressures and temperatures) in a wide variety of physical
+              settings.  Examples of areas where they can be applied  include vehicle
+              aerodynamics and aerospace models, models of environmental  flows, biomedical
+              models (blood flow), cooling models for nuclear reactors, and thin film coating
+              (e.g., of adhesives or optical fibers).  Mathematical  models of such processes
+              enable the study of the effects of different physical  parameters, for example,
+              wing shape in an airplane or chemical content of a  thin film.  Determination
+              of such effects using purely experimental techniques, i.e., through the
+              construction of prototypes and scale models, is prohibitively expensive, time
+              consuming  and subject to inaccuracies introduced by the presence of measuring
+              devices.  Mathematical models do not replace experimental work but complement
+              them and allow for efficient identification of promising prototypes.  Accurate
+              solution of the mathematical models is only feasible, however, if reliable and
+              fast computational algorithms are available.  The goal of the project is to
+              develop such algorithms for use with these models.

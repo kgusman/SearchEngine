@@ -1,0 +1,54 @@
+Title       : Universal Conference Information Server for Distributed Synchronous
+               Collaboration
+Type        : Award
+NSF Org     : ANI 
+Latest
+Amendment
+Date        : May 16,  1994       
+File        : a9313857
+
+Award Number: 9313857
+Award Instr.: Standard Grant                               
+Prgm Manager: Mark A. Luker                           
+	      ANI  DIV OF ADVANCED NETWOR INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1993 
+Expires     : August 31,  1995     (Estimated)
+Expected
+Total Amt.  : $65435              (Estimated)
+Investigator: Hussein Abdel-Wahab   (Principal Investigator current)
+Sponsor     : Old Dominion Research Fdn
+	      800 W. 46th Street
+	      Norfolk, VA  23508    757/683-4293
+
+NSF Program : 4090      ADVANCED NET INFRA & RSCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+Program Ref : 9217,
+Abstract    :
+              9313857  Abdel-Wahab       Traditionally the Internet has been used for
+              asynchronous  collaboration mostly using email, remote login and file transfer.
+                Recently we have seen the emergence of computer conferencing as a  new
+              Internet application to allow synchronous collaboration among  geographically
+              diverse users working together as a team on common  projects.  A process that
+              once would have taken days, with  documents being sent back and forth between
+              users, now can be  completed in a few minutes which increases the productivity
+              and  helps in making decisions quicker.       At this time there is no standard
+              protocol and mechanism  that allows computer conferences to register and
+              advertise about  themselves.  Therefore users have to depend on personal 
+              communications and other indirect methods to find out and locate  ongoing
+              conferences so that they can join and participate.         In this project a
+              system called Universal Conference  Information Server (UCIS) will be designed
+              and implemented to  solve this problem.  This implementation of UCIS will
+              stimulate  further research in this area and can be used as a basis for 
+              defining and ultimately the adoption of a standard Internet  protocol for 
+              computer-based conferencing.       The system has three major components:
+              Announcers, Servers,  and Queriers.  Announcers send conference information to
+              Servers,  while Queriers retrieve conference information stored at the 
+              Servers.  Like most Internet service, UCIS will offer its  services in both TCP
+              and UDP forms.  We will define the necessary  protocols used by all three
+              components and provide sample  implementation which can be used as a model by
+              computer  conference system builders.  The system is designed to be  scalable
+              to handle the expected growth in this form of  synchronous collaboration and to
+              provide reliable, accurate, and  fast access to any number of users anywhere in
+              the Internet.  ***

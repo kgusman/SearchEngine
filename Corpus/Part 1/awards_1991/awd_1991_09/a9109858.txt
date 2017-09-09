@@ -1,0 +1,52 @@
+Title       : RIA: Efficient ALgorithms for the Design of Systems with non-Gaussian Inputs
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : July 31,  1992      
+File        : a9109858
+
+Award Number: 9109858
+Award Instr.: Standard Grant                               
+Prgm Manager: Aubrey M. Bush                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1991  
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $79092              (Estimated)
+Investigator: Geoffrey C. Orsak   (Principal Investigator current)
+Sponsor     : George Mason University
+	      4400 University Drive
+	      Fairfax, VA  220304443    703/993-1000
+
+NSF Program : 4096      COMMUNICATIONS RESEARCH
+Fld Applictn: 0206000   Telecommunications                      
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+                   The objectives of this project are to develop highly                      
+              efficient iterative algorithms for use in system design                        
+              (especially communication systems) in the presence of non-Gaussian             
+              disturbances, and to extend these algorithms to the design of                  
+              systems which efficiently adapt to nonstationary environments.                 
+                   Analytic solutions to the design of systems with non-Gaussian             
+              inputs are typically intractable, therefore numerical methods are              
+              frequently required.  Stochastic approximation algorithms are                  
+              effective design alternatives which require only estimates of the              
+              system error at an iterated set of system parameters.                          
+                   This project merges concepts from Importance Sampling with                
+              existing stochastic approximation algorithms to dramatically                   
+              reduce the total required computations in the design of                        
+              parameterized systems and inputs.  In the situation where the                  
+              inputs are non-stationary, a selfmodifying Importance Sampling                 
+              strategy is developed for use with adaptive implementations of                 
+              these algorithms.  This requires the coupling of techniques in                 
+              estimation theory with Importance Sampling strategies derived from             
+              static systems.  Example of particular interest are communication              
+              systems operating in the presence of stationary and nonstationary              
+              non-Gaussian background noise.  Preliminary results demonstrate                
+              that for the scalar design case, the computational savings are                 
+              unbounded when designing detection systems whose error rates                   
+              diminish.

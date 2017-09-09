@@ -1,0 +1,129 @@
+Title       : Asynchronous Parallel Computing, Fault Tolerance, and Randomization
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 19,  1996     
+File        : a9313775
+
+Award Number: 9313775
+Award Instr.: Continuing grant                             
+Prgm Manager: Dana May Latch                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1994        
+Expires     : April 30,  1997      (Estimated)
+Expected
+Total Amt.  : $320174             (Estimated)
+Investigator: Michael O. Rabin rabin@deas.harvard.edu  (Principal Investigator current)
+Sponsor     : Harvard University
+	      1350 Massachusetts Ave.
+	      Cambridge, MA  021383826    617/495-1000
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+               An important class of practical parallel computers consists of  machines
+              comprising many large grained processors.  These  processors execute 
+              asynchronously and memory is assumed to be  distributed.  Trying to execute a 
+              general n-thread parallel  program P on such a parallel system poses
+              theoretical  and  practical challenges.  One must provide mechanisms for 
+              implementing the  synchronization barriers, for load sharing and  balancing
+              amongst the  processors, and for program executing that  respects memory
+              locality.    The  approach used in this research is to define algorithms  and a
+              program transformation  (compilation) T so that T(P) executes correctly and
+              efficiently on any P.  This simulated  execution does not require any
+              specialized hardware or operating  system mechanisms in the target machine.   
+              Of particular interest is the case  that the parallel program is 
+              large-grained, i.e. that in each parallel step a  substantial  block of
+              instructions is executed on some or most of the parallel  threads.  It is
+              assumed that the parallel program is already  optimized so as to  make the
+              blocks of code within the parallel  step quite large.  This project  studies
+              the most general case  of large grained parallel programs, paying  particular
+              attention  to memory locality and to memory fault-tolerance,  employing 
+              randomization.  A further goal is to achieve Las Vegas style  results, i.e.
+              small expected running time and no errors.                                     
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                           

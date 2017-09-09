@@ -1,0 +1,50 @@
+Title       : Physical Data Design In Multiprocessor Database System
+Type        : Award
+NSF Org     : IIS 
+Latest
+Amendment
+Date        : June 16,  1992      
+File        : a9110522
+
+Award Number: 9110522
+Award Instr.: Continuing grant                             
+Prgm Manager: Ron Ashany                              
+	      IIS  DIV OF INFORMATION & INTELLIGENT SYSTEMS
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1991     
+Expires     : July 31,  1993       (Estimated)
+Expected
+Total Amt.  : $70000              (Estimated)
+Investigator: Shahram Ghandeharizadeh shahram@pollux.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 6855      INFORMATION & DATA MANAGEMENT
+Fld Applictn: 0104000   Information Systems                     
+              99        Other Sciences NEC                      
+Program Ref : 6855,9264,
+Abstract    :
+              Machines During the past decade, parallel database systems                     
+              havegained increased popularity due to their high                              
+              performance,scalability, and availability characteristics.  With               
+              thepredicted future database sizes and complexity of queries,it                
+              is essential that these systems effectively utilizehundreds or                 
+              thousands of processors.  Several studies haverepeatedly                       
+              demonstrated that both the performance and scalability of a                    
+              parallel database system is contingent on the physical layout of               
+              the data across the processors of the system.Recently, the design              
+              of a new declustering strategy, termed Multi-Attribute GrId                    
+              deClustering (MAGIC), was introduced.  MAGIC is superior to the                
+              current declustering strategies because it can partition a                     
+              relation using two or more of its attributes.  In addition, it                 
+              minimizes the overhead of using parallelism to allow the system                
+              to scale to a large number of processors.  This project focuses                
+              on: (1) analysis and extension of MAGIC for executing complex                  
+              queries, and (2) incorporation of algorithms for dynamic on-line               
+              reorganization of a relation in the presence of update queries                 
+              and changing workload characteristics.The approach involves                    
+              development of analytical and simulation models first, followed                
+              by a prototype implementation.  This research enhances the                     
+              scalability of a parallel database machine and improve its                     
+              performance for executing complex queries.

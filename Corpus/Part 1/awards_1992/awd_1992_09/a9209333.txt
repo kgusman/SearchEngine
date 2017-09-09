@@ -1,0 +1,47 @@
+Title       : An Integrated Framework for Real-Time Specification and Analysis
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 4,  1994     
+File        : a9209333
+
+Award Number: 9209333
+Award Instr.: Continuing grant                             
+Prgm Manager: Frank D. Anger                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1992     
+Expires     : January 31,  1997    (Estimated)
+Expected
+Total Amt.  : $99996              (Estimated)
+Investigator: Richard Gerber rich@cs.umd.edu  (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2880,9148,9216,9264,MANU,
+Abstract    :
+                   The principal investigator is developing an integrated framework          
+              for the specification and analysis of real-time systems.  Since the            
+              timing behavior of a system critically depends on the availability of          
+              shared resources,the approach unites the areas of process                      
+              specification, concurrency theory and real-time scheduling.  The               
+              result is a layered framework called Communication Shared Resources.           
+              At the top layer is the CSR Application Language, which describes the          
+              functional and temporal requirements of a system.  At the next layer           
+              is the CSR Configuration Language, which maps process to resources,            
+              and specifies the system's interconnection network.  At the lowest             
+              level is the CCSR process algebra, which embraces a resource-based             
+              view of concurrency,and is defined by a prioritized operational                
+              semantics.                                                                     
+                   The researcher is constructing an integrated toolset based on             
+              this theory.  A reachability analyzer checks for violations of real-           
+              time constraints explicitly denoted within a finite-state                      
+              applications.  A model-checker is used to verify real-time safety              
+              assertions that are not denoted within an application.  Finally, a             
+              simulator tests the system, using test suites generated from the               
+              characteristics of the implementation environment.

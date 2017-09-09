@@ -1,0 +1,55 @@
+Title       : RIA: Design and Analysis of a Memory Module that Collects Garbage in Real Time
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 10,  1992     
+File        : a9010412
+
+Award Number: 9010412
+Award Instr.: Standard Grant                               
+Prgm Manager: John R. Lehmann                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $75574              (Estimated)
+Investigator: Kelvin D. Nilsen   (Principal Investigator current)
+Sponsor     : Iowa State University
+	      2207 Pearson Hall, Room 15
+	      Ames, IA  500112207    515/294-5225
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              Automatic garbage collection enhances programmer productivity by               
+              eliminating many of the low-level concerns associated with explicit            
+              reclamation of dynamic objects, by protecting programmers from having          
+              to deal with subtle bugs that result from dangling pointer problems, and       
+              by allowing programmers to select simple algorithms that might otherwise       
+              be rejected because of the perceived complexity of managing the dynamic        
+              creation and destruction of many short-lived objects.  The research            
+              pursued in this project focuses on:                                            
+                                                                                             
+              - generalization of an existing real-time garbage collection algorithm         
+              to deal effectively with arbitrarily long strings of characters and with       
+              arbitrarily long arrays of pointers to other objects.  Overlapping             
+              substrings and array slices would also be supported.                           
+                                                                                             
+              - design and prototype implementation of a CPU-independent memory module       
+              that executes the generalized real-time garbage collection algorithm in        
+              parallel hardware while application programs run on the host CPU.              
+                                                                                             
+              - analytical and empirical evaluation of software and hardware                 
+              prototypes to determine worst-case and average performance of particular       
+              memory management operations.                                                  
+                                                                                             
+              - development of general techniques to help programmers analyze their          
+              real-time programs in order to p?lace upper bounds on the programs'            
+              memory requirement and on the times required to perform particular             
+              memory operations.

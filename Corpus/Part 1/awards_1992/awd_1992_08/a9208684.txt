@@ -1,0 +1,71 @@
+Title       : Mathematical Sciences: Adaptive Numerical Methods for Singularly-Perturbed
+               Reaction-Diffusion Equations
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : March 8,  1993      
+File        : a9208684
+
+Award Number: 9208684
+Award Instr.: Standard Grant                               
+Prgm Manager: Alvin I. Thaler                         
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : June 15,  1993      
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $37132              (Estimated)
+Investigator: Donald J. Estep   (Principal Investigator current)
+Sponsor     : GA Tech Res Corp - GIT
+	      Office of Sponsored Programs
+	      Atlanta, GA  303320420    404/385-0866
+
+NSF Program : 1271      COMPUTATIONAL MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 9263,
+Abstract    :
+                Estep proposes to analyze and implement adaptive finite element              
+              methods for systems of singularly-perturbed reaction-diffusion                 
+              equations and dissipative ordinary differential equations.                     
+              Solutions of such problems typically evolve on multiple scales,                
+              and to be useful, numerical results need to be uniformly accurate              
+              for the physically meaningful range of the parameters. He is                   
+              attempting to overcome these difficulties by constructing a                    
+              theory of adaptive error control based on a posteriori and a                   
+              priori error analyses. A posteriori results measure the error in               
+              terms of the regularity of the approximation and the stability of              
+              the solution and provide a basis for adapting the discretization.              
+              A priori results bound the error in terms of the regularity of                 
+              the solution and the stability of the scheme and guarantee                     
+              convergence. Estep is also examining the dynamical properties of               
+              numerical schemes in the context of producing approximations with              
+              the correct dynamical behavior. Finally, he is studying the                    
+              implementation of adaptive error control in finite element codes               
+              for parallel computers. The ultimate goal of this project is the               
+              public release of a parallel code that can solve systems of                    
+              reaction-diffusion equations in two and three dimensions with                  
+              minimal user interface.                                                        
+                 Many models in applied science result in nonlinear                          
+              reaction-diffusion differential equations that contain source                  
+              terms balanced against terms that diffuse energy. This balance is              
+              usually delicate and difficult to handle mathematically,                       
+              consequently numerical approximation is an important tool. Yet,                
+              solutions of such problems typically evolve on several scales,                 
+              i.e. some interesting behavior occurs in very localized regions                
+              in space-time while other behavior evolves over long times and                 
+              over larger regions in space. The use of a uniform numerical                   
+              discretization for a real application results in huge                          
+              computations that tax even the largest computers. Estep's goal is              
+              to produce numerical schemes that adapt themselves to the                      
+              localized behavior of the target solution so as to make the                    
+              computations both as accurate as desired and as efficient as                   
+              possible. Mathematically, he is trying to understand how to use                
+              the information provided by an approximation to adapt the                      
+              discretization, that is, make the computations self-governing. He              
+              is also working on the implementation of this theory into a                    
+              parallel code that solves very general problems with minimum user              
+              input. Success of this project will lead to the public release of              
+              the code, to the great benefit of the engineering and scientific               
+              communities.

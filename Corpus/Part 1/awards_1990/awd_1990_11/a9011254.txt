@@ -1,0 +1,41 @@
+Title       : RIA: The Application of Boolean Satisfiability Test Pattern Generation for
+               Non-Stuck-At Faults
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 28,  1990    
+File        : a9011254
+
+Award Number: 9011254
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1990       
+Expires     : December 31,  1992   (Estimated)
+Expected
+Total Amt.  : $77393              (Estimated)
+Investigator: Tracy Larrabee larrabee@cse.ucsc.edu  (Principal Investigator current)
+Sponsor     : U of Cal Santa Cruz
+	      1156 High Street
+	      Santa Cruz, CA  950641077    408/429-0111
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              The Boolean satisfiability method for testing combinational circuits           
+              generates test patterns in two steps.  First, it constructs a formula          
+              expressing the Boolean difference between the unfaulted and faulted            
+              circuits.  Second, it applies a Boonlean satisfiability algorithm to the       
+              resulting formula.  This differs from most current approaches to testing       
+              which directly search the circuit data structure.  This method has been        
+              shown to be effective in identifying defective combinational circuits          
+              when the defects can be modeled by the single stuck at fault model.            
+              This research is extending the Boolean satisfiability method to handle         
+              a wide variety of nonclassical faults.  Modifications to the method to         
+              detect bridging and delay faults are being investigated.

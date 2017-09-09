@@ -1,0 +1,51 @@
+Title       : Memory Hierarchy in High-Performance Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 30,  1993     
+File        : a9101541
+
+Award Number: 9101541
+Award Instr.: Continuing grant                             
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : December 31,  1994   (Estimated)
+Expected
+Total Amt.  : $340781             (Estimated)
+Investigator: Jean-Loup Baer baer@cs.washington.edu  (Principal Investigator current)
+Sponsor     : U of Washington
+	      3935 University Way NE
+	      Seattle, WA  981056613    206/543-4043
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,
+Abstract    :
+              The principal investigator continues his research on the design and            
+              evaluation of the memory hierarchy of high-performance systems.                
+              Uniprocessors as well as shared-memory multiprocessors will be                 
+              studied.  The studies will cover innovative architectural features,            
+              compiler support, and protocols and hardware synchronization                   
+              primitives for several parallel programming models.                            
+                                                                                             
+              In case of uniprocessors, a hardware-based preloading scheme that              
+              should reduce the number of misses in data caches, will be                     
+              investigated.  Compiler support for this hardware function will also           
+              be investigated.                                                               
+                                                                                             
+              In the case of multiprocessors, various protocols and possibly                 
+              enhanced synchronization primitives to cater to several consistency            
+              models will be investigated.  The goal is to reduce the impact of the          
+              performance degradation components (large memory latency, processor            
+              stalling, network traffic) arising from the access to shared                   
+              variables.  Other topics include architectural features such as the            
+              use of the interconnection network, or one of its levels, as a                 
+              component of the memory hierarchy.                                             
+                                                                                             
+              Trace-driven simulation will be the choice performance evaluation              
+              tool.  Computer-intensive programs with large data sets drawn from             
+              scientific and CAD tool application will be instrumented.

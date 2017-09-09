@@ -1,0 +1,43 @@
+Title       : Software Support for Portable Parallel Computing
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 16,  1995  
+File        : a9415303
+
+Award Number: 9415303
+Award Instr.: Continuing grant                             
+Prgm Manager: Mukesh Singhal                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 15,  1994 
+Expires     : August 31,  1997     (Estimated)
+Expected
+Total Amt.  : $210441             (Estimated)
+Investigator: Gregory R. Andrews greg@cs.arizona.edu  (Principal Investigator current)
+Sponsor     : U of Arizona
+	      601 Administration Building
+	      Tucson, AZ  85721    602/621-2211
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,HPCC,
+Abstract    :
+              9415303  Andrews  The project addresses the problem of writing parallel programs
+               that are clear, portable, and efficient.  The three common  approaches to this
+              problem are parallelizing compiler, very high-  level languages and imperative
+              languages or software systems with  a single communication model.  This project
+              will develop a common  base of programming abstractions and underlying software
+              that  simplifies as well as supports all of these approaches.    The center
+              piece of the research is the Filaments package, which  supports efficient
+              execution of fine-grain parallelism and a  shared communication on both shred
+              and distributed memory  multiprocessors.  The specific topics to be
+              investigated by this  project are:  1) expanding and refining Filaments
+              package, 2)  designing and implementing MIF, a multi-paradigm intermediate for 
+              compilers that will be both language and architecture  independent; and 3)
+              designing and implementing a simple and  efficient programming language HPSR
+              (high performance SR).  Filaments and MIF address the problems of portability
+              and  efficiency, independent of the language used to write parallel  programs,
+              and HPSR addresses the problem of program clarity.  ***

@@ -1,0 +1,59 @@
+Title       : Synthesizing Energy Efficient Circuits and Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : September 10,  1993 
+File        : a9300936
+
+Award Number: 9300936
+Award Instr.: Standard Grant                               
+Prgm Manager: Paul T. Hulina                          
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1993  
+Expires     : February 29,  1996   (Estimated)
+Expected
+Total Amt.  : $137473             (Estimated)
+Investigator: Alexander Albicki   (Principal Investigator current)
+Sponsor     : University of Rochester
+	      
+	      Rochester, NY  14627    585/275-4031
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0108000   Software Development                    
+              0510204   Data Banks & Software Design            
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 4730,9215,
+Abstract    :
+              Most of the work in the field of logic synthesis has concentrated  on the topics
+              of logic minimization and synthesis for testability.   While both of these
+              issues are of great importance, it seems  natural to go beyond these
+              applications.  This effort aims to  expand the current applications of logic
+              synthesis to include the  domain of synthesis for reduced power dissipation.   
+              The work here is based on the assumption that switching activity,  the number
+              of internal nodes that are charged or discharged when a  new set of inputs is
+              applied to the system, is a strong indicator  of power dissipation in static
+              CMOS structures.  The proposal  builds on some novel results obtained in the
+              synthesis of two level  logic circuits, such that they exhibit, optimal
+              switching  activities.  The research advocated utilizes these results to 
+              explore procedures for the energy efficient synthesis of arbitrary 
+              combinational logic functions.  The methodology employed in the  study is based
+              on a rigorous analytical approach, with simulation  results and measurements on
+              actual fabricated circuits being used  for model verification and refinement.  
+               It is widely known that clocking frequency seriously effects the  power
+              dissipated in a system.  The utilization of double-edge-  triggered flip-flops,
+              which trade area for clock frequencies  operating at half the value, represent
+              a relatively inexpensive way  to reduce energy dissipation and naturally
+              complements research in  low-power logic synthesis.  This work advocates
+              studying techniques  to ensure that the systems built are fully testable.  The
+              methods  of Boolean space expansion, and modified input storing elements,  are
+              being explored to obtain full testability.    The goal of this research is the
+              development of a new synthesis  tool which will enable users to easily
+              implement digital functions  with reduced energy dissipation, while maintaining
+              full  testability.  When an integrated circuit is operating in the  testing
+              mode, the energy consumption may be far gr eater than during  normal operation
+              as many internal nodes which do not usually switch  are being tested.  The
+              proposed research will ensure that under  testing conditions the energy
+              consumption of the system is minimal  thus avoiding damage to the circuit.

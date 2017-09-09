@@ -1,0 +1,54 @@
+Title       : CEP-An Environment for Conditional Equational Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 1,  1990       
+File        : a9009755
+
+Award Number: 9009755
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : September 1,  1990  
+Expires     : February 28,  1993   (Estimated)
+Expected
+Total Amt.  : $51288              (Estimated)
+Investigator: G Sivakumar   (Principal Investigator current)
+Sponsor     : University of Delaware
+	      
+	      Newark, DE  19716    302/831-2136
+
+NSF Program : 2875      SYSTEM SOFTWARE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              The objective of this project is to build CEP, an environment for              
+              Conditional Equational Programming.  This will include a practical,            
+              efficient interpreter for the equational language, facilities for              
+              proving program correctness, and for doing program transformation and          
+              synthesis.                                                                     
+                                                                                             
+                Equational Programming is gaining wide popularity as the cleanest            
+              way to provide in a simple, well-understood, and uniform framework the         
+              features of both Lisp-like functional programming and Prolog-like              
+              logic programming.  A program is a set of (conditional) equations for          
+              example {0 + x = x, s(x) + y = s(x+y)} and a computation consists of           
+              solving an equation, for example x + y = s(s(0)) (finding                      
+              substitutions that make two terms equal in the theory).                        
+                                                                                             
+              A new procedure, formulated as a set of inference rules has been               
+              developed for equation solving.  This formulation not only improves            
+              current methods, but also permits easy incorporation of techniques,            
+              that are being developed, for detecting equations that are                     
+              unsatisfiable, thus pruning the search space even further. Also,               
+              building on previous results in the theory of conditional rewriting,           
+              methods will be investigated for proving the correctness of a given            
+              equational program.                                                            
+                                                                                             
+                Building CEP and distributing it to other researchers will have a            
+              significant impact in the fields of logic and functional programming.          
+              It will spur a lot more development and the use of this paradigm as            
+              the cleanest way to combine logic and functional programming.

@@ -1,0 +1,58 @@
+Title       : Numerical Control Structures for the Computation of Large Eigenvalue and
+               Singular Value Problems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : January 6,  1994    
+File        : a9496115
+
+Award Number: 9496115
+Award Instr.: Continuing grant                             
+Prgm Manager: S. Kamal Abdali                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 16,  1993    
+Expires     : July 31,  1995       (Estimated)
+Expected
+Total Amt.  : $50500              (Estimated)
+Investigator: Ilse C.F. Ipsen ipsen@math.ncsu.edu  (Principal Investigator current)
+Sponsor     : North Carolina State U
+	      Lower Level Leazar Hall
+	      Raleigh, NC  276957514    919/515-2444
+
+NSF Program : 2865      NUMER, SYMBOL & GEOMETRIC COMP
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              Among the components of a numerical program that have the greatest             
+              influence on accuracy are what can be called numerical control                 
+              structures: convergence tests, stopping criteria, deflation criteria,          
+              and identification of problem instances that require special                   
+              treatment.  In order to guarantee high accuracy in computations with           
+              large matrices these control structures must be algebraically sound            
+              and perform well in finite precision arithmetic.                               
+                                                                                             
+              This project will exploit the structure and geometry of a problem for          
+              the purpose of designing numerical control structures.  The structure          
+              of the singular value decomposition will be used to determine the              
+              directions of errors and develop a perturbation theory; and the                
+              geometry of subspaces and angles between them will be used to design           
+              numerical control structures.                                                  
+                                                                                             
+              The resulting perturbation theory and control structures are expected          
+              to lead to highly accurate implementations for the computation of              
+              eigenvectors of symmetric matrices and singular vectors by inverse             
+              iteration, for the computation of singular values by the (extended)            
+              Golub-Reinsch algorithm, and for the computation of eigenvalues by the         
+              QL algorithm.                                                                  
+                                                                                             
+              By design, the numerical control structures of the (extended) Golub-           
+              Reinsch algorithm are invariant under column scaling.  Since recent            
+              error bounds for linear system solution, singular value                        
+              decompositions, and eigendecompositions exhibit the same invariance,           
+              the numerical control structures will be employed to explain the               
+              significance and particular form of these error bounds.  The goal is           
+              to produce more realistic assessments of problem conditioning and              
+              algorithm stability, which is especially important for highly accurate         
+              solution of large problems.

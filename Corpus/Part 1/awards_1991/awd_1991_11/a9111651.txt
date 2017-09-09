@@ -1,0 +1,50 @@
+Title       : ROW: Parallel Communication Algorithms
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 26,  1992     
+File        : a9111651
+
+Award Number: 9111651
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : April 15,  1992     
+Expires     : September 30,  1993  (Estimated)
+Expected
+Total Amt.  : $50000              (Estimated)
+Investigator: Fillia S. Makedon makedon@cs.dartmouth.edu  (Principal Investigator current)
+Sponsor     : Dartmouth College
+	      11 Rope Ferry Road #6210
+	      Hanover, NH  037551404    603/646-1110
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9222,
+Abstract    :
+              The development of efficient packet routing algorithms is a very               
+              important task in the construction of parallel computers.  In a                
+              parallel architecture, different computing elements must be able to            
+              communicate with each other fast while the size of the message                 
+              (packet) queues created during the routing must be bounded, ideally,           
+              to a small constant.  Through packet routing, real machines are able           
+              to simulate idealized machines and theoretical models can be tested            
+              and tuned.  Up to now, the best existing permutation packet routing            
+              algorithm on the mesh architecture is by Leighton, Makedon and Tollis          
+              which routes the packets to their destination in optimal time and with         
+              constant size queues.  However, drastically new methodologies are              
+              needed to make these results practical.                                        
+                                                                                             
+              Two types of parallel communication algorithms will be considered,             
+              online and off-line on multidimensional meshes and tori.  Off-line             
+              packet routing is used in cases where the communication pattern is             
+              known in advance, before the execution, or for computations in which           
+              the data dependencies are fixed before run-time.  Universal                    
+              approximation algorithms for packet routing on meshes and tori will            
+              also be examined for completing the routing in the cases of actual             
+              problems.  A universal approach is also needed in the case of off-line         
+              routing, that can be applied to any pattern, such as many to one               
+              routing.

@@ -1,0 +1,50 @@
+Title       : Hybrid Task Assignment Strategies for Distributed Computer Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : June 19,  1991      
+File        : a9111292
+
+Award Number: 9111292
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 1,  1991       
+Expires     : December 31,  1993   (Estimated)
+Expected
+Total Amt.  : $63748              (Estimated)
+Investigator: Sub Ramakrishnan rama@cs.bgsu.edu  (Principal Investigator current)
+Sponsor     : Bowling Green U Main Cam
+	      
+	      Bowling Green, OH  43403    419/372-2531
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2876,9264,
+Abstract    :
+              The objective of this project is to design and characterize a new              
+              class of algorithms for allocating a set of computer programs to               
+              multiple computers in a distributed computer system.  Program                  
+              allocation strategies reduce the delay for a single user or maximize           
+              the throughput of the distributed system as a whole.                           
+                   Part 1:  Static Allocation.  The research will extend the work on         
+              throughput optimization and delay minimization strategies for                  
+              assigning programs to computers.  These optimization criteria have             
+              been studied independently by Stone and by Shen and Tsai but their             
+              interactions are not well understood.  The hybrid algorithms will              
+              integrate Stone's maximum flow/minimum cut strategy with Shen and              
+              Tsai's graph matching and A* strategies.  Because of a specific                
+              combination of improvements, the algorithms should outperform those of         
+              Shen and Tsai.  The work proposes to use a more realistic system               
+              description then the one assumed by Shen and Tsai.                             
+                   Part 2:  Dynamic Allocation. The research attempts to integrate           
+              sender-initiated with receiver-initiated strategies.  These strategies         
+              have been studied separately by many researchers but their                     
+              interactions are not well understood.  As with static allocation,              
+              hybrid algorithms should perform better than one based solely on any           
+              one strategy.  The project will demonstrate this advantage by using            
+              specific performance parameters.  Values for model parameters will be          
+              taken from actual measurements.

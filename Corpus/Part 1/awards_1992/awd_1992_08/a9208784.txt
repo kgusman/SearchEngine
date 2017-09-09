@@ -1,0 +1,56 @@
+Title       : Data Distribution and Routing in Shared and Distributed Memory Parallel
+               Computers
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 14,  1992    
+File        : a9208784
+
+Award Number: 9208784
+Award Instr.: Standard Grant                               
+Prgm Manager: Yechezkel Zalcstein                     
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 15,  1992    
+Expires     : January 31,  1995    (Estimated)
+Expected
+Total Amt.  : $32753              (Estimated)
+Investigator: Rajendra V. Boppana boppana@cs.utsa.edu  (Principal Investigator current)
+Sponsor     : U of Texas San Antonio
+	      6900 North Loop 1604 West
+	      San Antonio, TX  78249    210/458-4340
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9264,
+Abstract    :
+              Distribution of data of a parallel computation such that data                  
+              are accessed free of memory bank and interconnection network                   
+              conflicts, is a critical issue for efficient use of shared and                 
+              distributed memory computers.  Conflicts in memory banks and                   
+              interconnection networks increase inter-processor                              
+              communication delays, which in turn adversely affect the                       
+              execution times of parallel computations and cost-performance                  
+              ratio of parallel computers.                                                   
+                                                                                             
+              This research investigates hardware and software solutions,                    
+              which can be applied in the design of parallel architectures                   
+              for consistent high performance for a variety of parallel                      
+              computations and efficient execution of tasks in a transparent                 
+              manner, even in the presence of faults.  In the first part of                  
+              the research, recent work on hardware techniques, called                       
+              skewed storage schemes applicable at the time of task                          
+              execution, will be expanded upon.  The new techniques will be                  
+              useful to design and use efficiently fault-tolerant and                        
+              gracefully degrading memories, multidimensional memories, and                  
+              memory hierarchies for large data accesses in parallel                         
+              computations.  Suitability of the techniques will be                           
+              investigated with theoretical analysis, experiments on current                 
+              parallel computers, and simulations.  In the second part of                    
+              the research, software techniques, applicable at compile-time,                 
+              will be investigated to utilize and assist hardware techniques                 
+              for partitioning and allocation of data, including heavily                     
+              accessed and hotspot type data.  Effectiveness of these                        
+              results will be evaluated experimentally.

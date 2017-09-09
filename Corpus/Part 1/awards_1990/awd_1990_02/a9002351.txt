@@ -1,0 +1,45 @@
+Title       : Assignment and Allocation of Processors in Parallel Processing Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : March 5,  1993      
+File        : a9002351
+
+Award Number: 9002351
+Award Instr.: Continuing grant                             
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : December 1,  1990   
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $212991             (Estimated)
+Investigator: Satish K. Tripathi   (Principal Investigator current)
+Sponsor     : U of MD College Park
+	      3112 Lee Building
+	      College Park, MD  207425141    301/405-6269
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,
+Abstract    :
+                   Job scheduling in a multiprocessing system can be broken down             
+              into two major components; the processor allocation problem which              
+              determines the number of processors that should be allocated to a              
+              particular job, and the processor assignment problem which determines          
+              the physical assignment of the allocated processor to the parallel             
+              tasks in a job.  this research will study these two issues based on            
+              analytical models, simulation and experiments on some existing                 
+              multiprocessing systems.  the research thus involves finding a                 
+              suitable characterization of jobs based on which the processor                 
+              allocation problem can be formulated, identifying the appropriate              
+              performance indices and obtaining the allocation strategies that will          
+              optimize these indices, formulating the processor assignment problem           
+              considering both precedence relations and the communication among              
+              tasks into account, developing heuristic algorithms to generate                
+              assignment which will minimize the job execution time, and performing          
+              experiments on real multiprocessing systems to determine the                   
+              applicability of the allocation and assignment strategies and to study         
+              their effect on the performance of the multiprocessing system.

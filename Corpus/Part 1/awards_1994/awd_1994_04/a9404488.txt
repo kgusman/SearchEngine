@@ -1,0 +1,62 @@
+Title       : Mathematical Sciences: Boundary Conditions for Linear Wave Propagation on
+               Unbounded Domains
+Type        : Award
+NSF Org     : DMS 
+Latest
+Amendment
+Date        : July 8,  1994       
+File        : a9404488
+
+Award Number: 9404488
+Award Instr.: Standard Grant                               
+Prgm Manager: Deborah Lockhart                        
+	      DMS  DIVISION OF MATHEMATICAL SCIENCES       
+	      MPS  DIRECT FOR MATHEMATICAL & PHYSICAL SCIEN
+Start Date  : July 1,  1994       
+Expires     : June 30,  1997       (Estimated)
+Expected
+Total Amt.  : $40000              (Estimated)
+Investigator: Douglas B. Meade meade@math.sc.edu  (Principal Investigator current)
+Sponsor     : U of SC Columbia
+	      Byrnes Building, Room 511
+	      Columbia, SC  29208    803/777-7093
+
+NSF Program : 1266      APPLIED MATHEMATICS
+Fld Applictn: 0000099   Other Applications NEC                  
+              21        Mathematics                             
+Program Ref : 0000,OTHR,
+Abstract    :
+              9404488  Meade    The proposer will develop accurate and efficient numerical 
+              solution procedures for problems arising from the scattering of 
+              electromagnetic waves by an inhomogeneous body. The natural  domain for these
+              problems is unbounded --- the exterior of the  scatterer.  This work will
+              identify approximate reformulations of  the problem on a bounded domain which
+              can be solved by Galerkin  methods, in particular the finite element method. 
+              The general  idea is to truncate the unbounded domain through the selection of 
+              an appropriate artificial boundary and a corresponding boundary  condition.  An
+              exact boundary condition can be used, but its  non-local temporal and/or
+              spatial dependence is an obstacle to  efficient numerical computations.  The
+              primary objective of this  project is to find approximate boundary conditions
+              which are  defined locally, can be implemented numerically, and yield  accurate
+              approximations to the exact solution of the scattering  problem.  A major
+              challenge will be to develop the mathematical  tools which can be used to
+              balance the competing constraints of  computational complexity and the
+              different approximation errors.    When an electromagnetic signal hits an
+              obstacle, one portion of  the wave continues into the object while another part
+              of the wave  is reflected back into the surrounding medium.  The goal of this 
+              project is to devise accurate and efficient numerical algorithms  for
+              determining the different components of the electromagnetic  wave.  The
+              mathematical statement of this problem involves the  solution of partial
+              differential equations on an unbounded  domain.  The fact that the domain is
+              infinite complicates the  search for an efficient numerical solution of this
+              problem.  The  purpose of this research is to identify approximate 
+              reformulations of the problem which can be solved numerically  without
+              significantly degrading the quality of the computed  solution.  Initial studies
+              will be directed towards the  two-dimensional scalar problem.  The ulti mate
+              objective is to be  able to solve the vector-valued problem in
+              three-dimensional  space.  The numerical solution will call for the solution of
+              a  system of hundreds of thousands, if not millions, of equations.  For this
+              reason, the proposer will be developing codes which can  be used on
+              high-performance parallel computers.  The results from  this project can also
+              be applied in a variety of other  applications, including interface problems in
+              elasticity and the  scattering of acoustic, seismic, and water waves.

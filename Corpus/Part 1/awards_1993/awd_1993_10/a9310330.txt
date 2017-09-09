@@ -1,0 +1,46 @@
+Title       : Message Passing Interface Forum
+Type        : Award
+NSF Org     : ACI 
+Latest
+Amendment
+Date        : May 26,  1993       
+File        : a9310330
+
+Award Number: 9310330
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert G. Voigt                         
+	      ACI  DIV OF ADVANCED COMPUT INFRA & RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : May 1,  1993        
+Expires     : October 31,  1994    (Estimated)
+Expected
+Total Amt.  : $40000              (Estimated)
+Investigator: Jack J. Dongarra dongarra@cs.utk.edu  (Principal Investigator current)
+Sponsor     : U of Tennessee Knoxville
+	      404 Andy Holt Tower
+	      Knoxville, TN  379960140    865/974-3466
+
+NSF Program : 4080      ADVANCED COMP RESEARCH PROGRAM
+Fld Applictn: 0000099   Other Applications NEC                  
+              99        Other Sciences NEC                      
+Program Ref : 9237,
+Abstract    :
+              This research addresses the formation of a standard for                        
+              performing point-to-point message passing between pairs of                     
+              processes in a MIMD distributed memory computing systems.  A                   
+              small set of typed message passing routines form the core of the               
+              standard, and are augmented by support for features such as                    
+              noncontiguous messages, communication contexts, and process                    
+              groups.  The proposed standard activity is called Message Passing              
+              Interface Forum. (MPI).                                                        
+                                                                                             
+              The main advantages of establishing a message passing standard                 
+              are portability and ease-of-use.  In a distributed memory                      
+              communication environment in which the higher level routines                   
+              and/or abstractions are built upon lower level message passing                 
+              routines the benefits of standardization are particularly                      
+              apparent.  Furthermore, the definition of a message passing                    
+              standard, such as that proposed here, provides vendors with a                  
+              clearly defined base set of routines that they can implement                   
+              efficiently, or in some cases provide hardware support for,                    
+              thereby enhancing scalability.

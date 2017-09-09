@@ -1,0 +1,58 @@
+Title       : RIA: Synthesis and Implementation of Multi-Rate Arrays
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 28,  1993       
+File        : a9011227
+
+Award Number: 9011227
+Award Instr.: Standard Grant                               
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1990      
+Expires     : August 31,  1994     (Estimated)
+Expected
+Total Amt.  : $61967              (Estimated)
+Investigator: Sayfe Kiaei   (Principal Investigator current)
+Sponsor     : Oregon State University
+	      
+	      Corvallis, OR  973315503    503/754-0123
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9286,
+Abstract    :
+              The growing demand for high speed real-time signal and image processing        
+              has led to many new parallel architectures.  Among these systolic arrays       
+              is an important class of parallel architectures that has played a              
+              significant role in the VLSI implementation of algorithms of these             
+              applications.  Since systolic arrays are algorithmic specific, it is           
+              essential to develop methods for the synthesis and automatic mapping of        
+              algorithms onto these arrays.  Work by other researchers has addressed         
+              the synthesis problem based on uniform recurrence equations (URE) or           
+              equivalent specifications of algorithms.                                       
+                                                                                             
+              Local communication is an essential factor for effective realization of        
+              systolic arrays.  However, compared to global communication it requires        
+              extra delays which reduce the computation time.  Particularly, for many        
+              fine-grain operations where the PE has a simple structure the additional       
+              delay for the transmission of data becomes restrictive.  Furthermore,          
+              many algorithms can not be directly transformed to UREs or may not             
+              exhibit the property of locality.  The locality restriction can be             
+              solved by using Multi-Rate Arrays (MRA).  These arrays transmit the data       
+              in a multi-rate fashion and can be used for many DSP and matrix                
+              computations resulting in speed up over systolic arrays.                       
+                                                                                             
+              In this project we extend previous design methods for systolic arrays          
+              to MRAs in several directions.  First, we further develop our recent           
+              results on the synthesis of MRAs and obtain a formal procedure for the         
+              design automation of MRAs.  Secondly, we investigate the application of        
+              MRAs to DSP and image processing algorithms.  This includes a thorough         
+              comparison of MRAs with local broadcast (systolic,) bounded-broadcast,         
+              and global broadcast arrays in terms of speedup, efficiency,                   
+              architecture complexity, number of data paths, and VLSI chip area.

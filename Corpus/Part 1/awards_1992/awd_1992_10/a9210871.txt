@@ -1,0 +1,45 @@
+Title       : RIA: Comprehensive BIST Methodology for Delay and Stuck-at Faults
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 7,  1992        
+File        : a9210871
+
+Award Number: 9210871
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1992       
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $90000              (Estimated)
+Investigator: Sandeep K. Gupta sandeep@boole.usc.edu  (Principal Investigator current)
+Sponsor     : U of Southern California
+	      University Park
+	      Los Angeles, CA  900891147    213/740-2934
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,
+Abstract    :
+              This research is on developing efficient Built-In-Self-Test (BIST)             
+              schemes which detect delay as well as stuck at faults.  Goals are              
+              reasonable testing time and minimal BIST hardware.  The research               
+              has two thrusts.  First is exploration of two weighted test pattern            
+              generator designs.  Quaternary weighted test pattern generators,               
+              are being designed to be a good source of pseudo-random tests.                 
+              Another is an algorithm to generate temporally correlated test                 
+              patterns in such a way that the two vectors required to detect                 
+              delay faults are best.  The key idea is that the weights are used              
+              to generate correlations between consecutive vectors.  Second,                 
+              extensive fault simulations are being performed to develop an error            
+              model for the test pattern generators, as well as a composite fault            
+              model.  Analysis is being made to determine temporal correlation               
+              between errors due to consecutive vectors, and distribution of                 
+              errors in space.  Compression schemes based on this data are                   
+              planned.

@@ -1,0 +1,44 @@
+Title       : Design for Testability and Test Generation with Multiple Clocks
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : February 25,  1992  
+File        : a9015115
+
+Award Number: 9015115
+Award Instr.: Standard Grant                               
+Prgm Manager: Robert B. Grafton                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : March 15,  1991     
+Expires     : August 31,  1993     (Estimated)
+Expected
+Total Amt.  : $67953              (Estimated)
+Investigator: Sharad C. Seth seth@cse.unl.edu  (Principal Investigator current)
+              Jitender S. Deogun  (Co-Principal Investigator current)
+Sponsor     : U of Nebraska-Lincoln
+	      14th & R Streets
+	      Lincoln, NE  685880430    402/472-7211
+
+NSF Program : 4710      DESIGN AUTOMATION PROGRAM
+Fld Applictn: 0000912   Computer Science                        
+              0104000   Information Systems                     
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 
+Abstract    :
+              This research is on design for testability (DFT), and associated               
+              test generation algorithms for clocked synchronous circuits.  The              
+              research approach is to partition the flip-flops into tow groups,              
+              each controllable by its own independent clock line in the test                
+              mode.  The result is the decomposition of the original state                   
+              machine into two communicating submachines, with flip-flops grouped            
+              so as to simplify the test generation process.  Flip-flop                      
+              partitioning is stated in terms of a graph representation of flip-             
+              flop connectivity.  A two clock decomposition algorithm is being               
+              implemented.  In test generation, existing test generators are                 
+              being adapted to serve as an early proof of the DFT scheme.  Also,             
+              a test generation algorithm, based on a two dimensional                        
+              generalization of the standard time frame expansion is being                   
+              implemented and tested against benchmark circuits.

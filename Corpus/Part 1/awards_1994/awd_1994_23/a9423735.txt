@@ -1,0 +1,41 @@
+Title       : Bit/Byte Bounded Error Control Codes for Byte-Organized Systems
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 12,  1997       
+File        : a9423735
+
+Award Number: 9423735
+Award Instr.: Continuing grant                             
+Prgm Manager:                                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 1,  1995       
+Expires     : May 31,  1998        (Estimated)
+Expected
+Total Amt.  : $149899             (Estimated)
+Investigator: Nitin H. Vaidya   (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 4715      COMPUTER SYSTEMS ARCHITECTURE
+Fld Applictn: 0206000   Telecommunications                      
+              0510403   Engineering & Computer Science          
+              31        Computer Science & Engineering          
+              55        Engineering-Electrical                  
+Program Ref : 9215,HPCC,
+Abstract    :
+              The principal goal of this project is to design error control codes  for
+              "byte-organized" systems using a new error control model.  In  a byte-organized
+              system, the hardware is partitioned such that each  part produced a subset of
+              hits in the output.  For example, a  memory may be organized as one byte per
+              card.  In this case, each  card produces a byte in the memory word.  For such
+              systems, a new  error control model called the bit/byte bounded model is being 
+              developed.  Briefly, this model can be described using tow  parameters, say t
+              and u.  The codes designed using the bit/byte  bounded model can tolerate up to
+              t bit errors confined to a must u  bytes.  Unlike the existing approaches, the
+              bit/byte bounded model  can interpolate between the traditional bit and 1 byte
+              error  models.  Also, the proposed model can be used to reduce the number  of
+              checkbits by trading a small amount of error control capability.

@@ -1,0 +1,56 @@
+Title       : RESEARCH INITIATION AWARD: Distributed Implementation of Optimal Power Flow
+Type        : Award
+NSF Org     : ECS 
+Latest
+Amendment
+Date        : June 24,  1993      
+File        : a9308899
+
+Award Number: 9308899
+Award Instr.: Standard Grant                               
+Prgm Manager: Arthur R. Bergen                        
+	      ECS  DIV OF ELECTRICAL AND COMMUNICATIONS SYS
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : July 1,  1993       
+Expires     : December 31,  1997   (Estimated)
+Expected
+Total Amt.  : $95118              (Estimated)
+Investigator: Ross Baldick   (Principal Investigator current)
+Sponsor     : Worcester Polytech Inst
+	      100 Institute Road
+	      Worcester, MA  016092247    508/831-5000
+
+NSF Program : 1518      CONTROL, NETWORKS, & COMP INTE
+Fld Applictn: 0306000   Energy Research & Resources             
+              55        Engineering-Electrical                  
+Program Ref : 9216,
+Abstract    :
+              The proposed research is for                                                   
+              developing new algorithms for                                                  
+              distributed implementation of                                                  
+              "optimal power flow" (OPF) in a                                                
+              large power system.  In view of the                                            
+              size of the system a decomposition                                             
+              of the system is proposed.  "Shadow                                            
+              costs" on , among other things,                                                
+              interchanges of active and reactive                                            
+              power between regions would guide                                              
+              the distributed calculations in                                                
+              such a way that the economic                                                   
+              interpretations can be placed in                                               
+              the regional interchanges.  The                                                
+              regions would be relatively large                                              
+              to accommodate a coarse-grained                                                
+              processor architecture.  BY                                                    
+              dividing the processing into                                                   
+              regions, data communication can be                                             
+              largely localized to the regions.                                              
+              The interregional communications                                               
+              requirements can be considerably                                               
+              less than for a centralized                                                    
+              implementation of OPF.  However,                                               
+              the main advantage of distributed                                              
+              processing is the potential                                                    
+              decrease in solution time due to                                               
+              increased (distributed) computing                                              
+              power.

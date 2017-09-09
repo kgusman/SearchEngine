@@ -1,0 +1,63 @@
+Title       : Efficient Techniques for Monitoring Distributed Computations
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : April 5,  1994      
+File        : a9212020
+
+Award Number: 9212020
+Award Instr.: Continuing grant                             
+Prgm Manager: Anand R. Tripathi                       
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : June 15,  1992      
+Expires     : November 30,  1995   (Estimated)
+Expected
+Total Amt.  : $95000              (Estimated)
+Investigator: Madalene Spezialetti   (Principal Investigator current)
+Sponsor     : Lehigh University
+	      Alumni Building 27
+	      Bethlehem, PA  180153005    215/861-3000
+
+NSF Program : 2876      OPER SYSTEMS AND COMPILERS
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 9216,9264,HPCC,
+Abstract    :
+                   Given the inherent concurrent, non-centralized nature of                  
+              distributed systems, monitoring and analyzing their behavior is a              
+              complex and costly task.  However, it is a powerful capability, which          
+              can be utilized for such diverse purposes as process control, and the          
+              development and debugging of distributed computations.  This research          
+              is investigating the development of techniques to reduce the                   
+              computational, communication and storage costs related to the task of          
+              monitoring distributed computations to recognize user-defined event            
+              concurrences.  This is accomplished by utilizing such general                  
+              strategies as decentralizing analysis responsibilities and sharing             
+              monitoring data.                                                               
+                   Techniques are being developed to collect and organize                    
+              information pertaining to the monitored behavior.  These strategies            
+              incorporate timing knowledge available within the system into schemes          
+              to capture consistent views of the states of monitored components.             
+              Techniques to integrate separate views of the system state are being           
+              utilized to reduce the storage and processing overhead of constructing         
+              and maintaining the state views.                                               
+                   The placement of monitors throughout the system and the                   
+              assignment of recognition responsibilities to these monitors is being          
+              addressed.  Event hierarchies for detecting behavior related to                
+              specific process synchronization conditions are being defined.                 
+              Techniques are being developed to allocate to monitors the                     
+              responsibility of collecting, organizing and analyzing the data                
+              pertaining to the defined activity.  The techniques are designed and           
+              analyzed based on the interrelated (and sometimes conflicting) goals           
+              of limiting the impact of the monitoring activity on the processors            
+              where the monitored components reside and on the communication medium.         
+                   Finally, runtime optimizations are being developed to adapt the           
+              monitoring strategies to the actual behavior exhibited by the                  
+              computation while it is being monitored.  The possible use of such             
+              techniques as preprocessing and filtering state data is being studied.         
+              Techniques to transfer or suspend monitoring responsibilities are              
+              being developed as a means of adapting initial monitoring decisions to         
+              the behavior of the computation in order to increase the efficiency of         
+              the monitoring strategy.

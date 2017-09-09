@@ -1,0 +1,46 @@
+Title       : Temporal Logic, Hardware Verification, and Parallel Theorem Proving
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : August 2,  1991     
+File        : a9005992
+
+Award Number: 9005992
+Award Instr.: Continuing grant                             
+Prgm Manager: D. Helen Gill                           
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : August 1,  1990     
+Expires     : January 31,  1993    (Estimated)
+Expected
+Total Amt.  : $211961             (Estimated)
+Investigator: Edmund M. Clarke emc@cs.cmu.edu  (Principal Investigator current)
+Sponsor     : Carnegie Mellon University
+	      5000 Forbes Avenue
+	      Pittsburgh, PA  152133815    412/268-5835
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 
+Abstract    :
+              A procedure, called temporal logic model checking, for automatic               
+              verification of concurrent programs has been developed.  This                  
+              procedure determines if a collection of finite-state processes                 
+              satisfies its specification in a propositional temporal logic by               
+              methodically searching the global state graph determined by the                
+              processes.  The first part of this project deals with temporal logic           
+              model checking and how it can be extended to verify hardware                   
+              controllers, cache coherency protocols, and real-time programs.  In            
+              particular, new techniques (various methods for compositional model            
+              checking, alternative state space representations using binary                 
+              decision graphs and partial orders, etc.) will be developed to extend          
+              the size of the finite state programs that can be handled using this           
+              technique.                                                                     
+                                                                                             
+              The second part of this project deals with parallel theorem proving            
+              and symbolic computation. A parallel resolution theorem prover called          
+              Parthenon has been built.  In this project, a number of important              
+              algorithms for theorem proving and symbolic computation will be                
+              implemented on different types of multiprocessors.

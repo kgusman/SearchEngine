@@ -1,0 +1,53 @@
+Title       : A New Method for the Analysis of the Motion of Quasi-Static Systems of Bodies in
+               Contact
+Type        : Award
+NSF Org     : CMS 
+Latest
+Amendment
+Date        : June 1,  1990       
+File        : a9096250
+
+Award Number: 9096250
+Award Instr.: Standard Grant                               
+Prgm Manager: Elbert L. Marsh                         
+	      CMS  DIV OF CIVIL AND MECHANICAL SYSTEMS     
+	      ENG  DIRECTORATE FOR ENGINEERING             
+Start Date  : June 1,  1990       
+Expires     : November 30,  1992   (Estimated)
+Expected
+Total Amt.  : $57200              (Estimated)
+Investigator: Jeffrey Trinkle trink@cs.tamu.edu  (Principal Investigator current)
+Sponsor     : Texas Engineering Exp Sta
+	      332 Wisenbaker Engr. Res. Ctr.
+	      College Station, TX  778433000    979/862-1696
+
+NSF Program : 1632      DYNAMIC SYSTEMS AND CONTROL
+Fld Applictn: 
+Program Ref : 
+Abstract    :
+              This research addresses the analysis of the quasi static motion                
+              of systems of contacting bodies.  A robotic system in contact                  
+              with the local environment can in some sense be characterized                  
+              dynamically as a system of interacting rigid and flexible bodies.              
+              Some of these bodies are actively controlled while others respond              
+              in a passive manner.  If the accelerations of these bodies are                 
+              very small, then it is often useful to assume that acceleration                
+              to be zero in the analysis of the motion of the passive bodies.                
+              This type of system is said to be quasi static, and the law of                 
+              static equilibrium is assumed to hold.  Mechanical systems                     
+              amenable to quasi static modeling are those for which the motion               
+              is dominated by the effects of contacts, i.e., a robot hand                    
+              assembling workpieces into a fixture.  The approach used here is               
+              based on Peshkin's Minimum Power Principle which states that the               
+              instantaneous motion of the passive bodies is that which                       
+              simultaneously minimizes power dissipation and satisfies                       
+              kinematic constraints imposed by contact with active bodies.                   
+              Application of this principle results in an algorithm which can                
+              determine the velocities of the system's passive bodies and the                
+              contact forces as functions of time.  The algorithm is less                    
+              computationally intensive than traditional solution of the system              
+              differential equations, and integration of the algorithm into                  
+              existing mechanical assembly CAD/CAM systems will allow proposed               
+              assembly procedures to be evaluated for contact forces, joint                  
+              torques required, and stability and jamming conditions before                  
+              beginning assembly.

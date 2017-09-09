@@ -1,0 +1,46 @@
+Title       : Control Abstraction in Logic Programming
+Type        : Award
+NSF Org     : CCR 
+Latest
+Amendment
+Date        : May 24,  1991       
+File        : a9000597
+
+Award Number: 9000597
+Award Instr.: Standard Grant                               
+Prgm Manager: Forbes D. Lewis                         
+	      CCR  DIV OF COMPUTER-COMMUNICATIONS RESEARCH 
+	      CSE  DIRECT FOR COMPUTER & INFO SCIE & ENGINR
+Start Date  : July 15,  1990      
+Expires     : June 30,  1993       (Estimated)
+Expected
+Total Amt.  : $193498             (Estimated)
+Investigator: Daniel P. Friedman dfried@cs.indiana.edu  (Principal Investigator current)
+              Christopher T. Haynes  (Co-Principal Investigator current)
+Sponsor     : Indiana University
+	      P O Box 1847
+	      Bloomington, IN  474021847    812/855-0516
+
+NSF Program : 2880      SOFTWARE ENGINEERING AND LANGU
+Fld Applictn: 0000099   Other Applications NEC                  
+              31        Computer Science & Engineering          
+Program Ref : 2875,
+Abstract    :
+              The depth-first control behavior of most logic programming languages,          
+              such as Prolog, is powerful but inflexible.  The language Conlog has           
+              been developed to investigate the use of first-class continuations to          
+              express a wide variety of control behavior in the context of logic             
+              programming.  Conlog extends Prolog with extra-logical operators that          
+              allow alternate control behavior to be expressed, while retaining a            
+              default depth-first behavior.  The low-level operators, which allow            
+              programmers to directly manipulate first-class continuations, may be           
+              used to implement high-level operators that abstract breadth-first             
+              search and multitasking.  Research includes an implementation of               
+              Conlog, based on earlier work on logic state-spaces, and a                     
+              denotational semantics of the low-level operators.                             
+                                                                                             
+                   In future work, operators for heuristic-based search and                  
+              alternate approaches to synchronous and asynchronous multitasking will         
+              be investigated,  a semantics expressive of "phases" of goal                   
+              satisfaction will be developed, and current implementation techniques          
+              for efficient support of first-class continuations.
