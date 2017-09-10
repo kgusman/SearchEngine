@@ -40,10 +40,13 @@ def open_docs_in_directories(type):
 def parse_abstract(doc_name):
     text = ""
     with open(doc_name, 'r') as f:
-        for line in f:
-            if line.startswith("Abstract"):
-                for l in f:
-                    text += l.lower()
+        try:
+            for line in f:
+                if line.startswith("Abstract"):
+                    for l in f:
+                        text += l.lower()
+        except UnicodeDecodeError:
+            print("Bad doc - %s" %(doc_name))
 
     text = text.replace("%%%", "")
     text = text.replace("***", "")

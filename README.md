@@ -19,7 +19,19 @@ cd SearchEngine/
 
 python3 engine.py 
 ```
+## Architecture
+The whole system built using Python 3 language, because this language has a huge functionality and very handy for this kind of tasks. 
+Project files divided by their purposes. 
+- *engine.py* is a command-based interface for making dialogs with a user.
+- *invInd.py* consists necessary functions for working with a corpus and creating an inverted index.
+- *search.py* consists functions for searching document by his id and process queries for searching.
 
+For convenience, corpus divided to three parts, which can be chosen in inverted index settings:
+- Documents from 1990s. Size of a part: 10093
+- Documents from 1990-1994. Size of a part: 51663
+- Documents from 1990-2003. Size of a part: 132038
+
+By default, the engine creates the inverted index for the first part. An average time of creating the index for this part - 300 seconds.
 ## Screenshots
 ![Alt text](./Screenshots/queryEx.png?raw=true "Example of a query")
 ![Alt text](./Screenshots/getDoc.png?raw=true "Example of a doc")

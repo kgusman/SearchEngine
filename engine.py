@@ -29,6 +29,7 @@ class CommandLine():
 
     def change_index(self):
         type = input("Enter type for an index (1, 2 or 3): ")
+        print("Initialize inverted index...")
         if type == str(1):
             self.inverted_index = create_inverted_index()
         elif type == str(2):
