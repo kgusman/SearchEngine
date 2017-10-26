@@ -29,6 +29,8 @@ def process_query(query, index):
 def get_doc_by_name(name):
     if name == None:
         return name
+    name = name.replace('a', '')
+    name = name.replace('.txt', '')
     ints = list(name)
     year = ints[0] + ints[1]
     month = ints[2] + ints[3]
@@ -50,7 +52,7 @@ def get_doc_by_name(name):
         path += "a" + name + ".txt"
 
     try:
-        return open(path)
+        return path
     except FileNotFoundError:
         return None
 

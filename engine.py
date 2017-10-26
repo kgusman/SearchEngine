@@ -1,7 +1,8 @@
 from invInd import create_inverted_index
 from search import *
-from rankedRet import check
+from rankedRet import search
 import sys
+from configs import K
 
 class CommandLine():
     def __init__(self):
@@ -32,7 +33,10 @@ class CommandLine():
                 self.print_result(r)
         elif type_of_search == "\\rank":
             print("Initialize ranked retrieval")
-            check()
+            query = input("Enter query: ")
+            top = search(query, K)
+            for elem in top:
+                print("Document: %s -- score - %.2f" % (elem[0], elem[1]))
         else:
             print("Wrong type. Please try again.")
 
