@@ -22,6 +22,8 @@ def get_docs(type):
         return documents_dir_medium
     elif type == 3:
         return documents_dir_hard
+    elif type == 0:
+        return documents_dir_very_easy
     else:
         print("Wrong type of directory.")
         input_type = input("Enter type of a directory (1, 2, 3): ")

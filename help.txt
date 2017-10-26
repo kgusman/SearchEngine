@@ -1,10 +1,9 @@
-  _________                           .__    ___________              .__                 ____    _______
- /   _____/ ____ _____ _______   ____ |  |__ \_   _____/ ____    ____ |__| ____   ____   /_   |   \   _  \
- \_____  \_/ __ \\__  \\_  __ \_/ ___\|  |  \ |    __)_ /    \  / ___\|  |/    \_/ __ \   |   |   /  /_\  \
- /        \  ___/ / __ \|  | \/\  \___|   Y  \|        \   |  \/ /_/  >  |   |  \  ___/   |   |   \  \_/   \
-/_______  /\___  >____  /__|    \___  >___|  /_______  /___|  /\___  /|__|___|  /\___  >  |___| /\ \_____  /
-        \/     \/     \/            \/     \/        \/     \//_____/         \/     \/         \/       \/
-
+  _________                           .__    ___________              .__                ________     _______
+ /   _____/ ____ _____ _______   ____ |  |__ \_   _____/ ____    ____ |__| ____   ____   \_____  \    \   _  \
+ \_____  \_/ __ \\__  \\_  __ \_/ ___\|  |  \ |    __)_ /    \  / ___\|  |/    \_/ __ \   /  ____/    /  /_\  \
+ /        \  ___/ / __ \|  | \/\  \___|   Y  \|        \   |  \/ /_/  >  |   |  \  ___/  /       \    \  \_/   \
+/_______  /\___  >____  /__|    \___  >___|  /_______  /___|  /\___  /|__|___|  /\___  > \_______ \ /\ \_____  /
+        \/     \/     \/            \/     \/        \/     \//_____/         \/     \/          \/ \/       \/
 
 Welcome to SearchEngine 2.0! This is the online help utility.
 One of the best search engines in documents! We lies between Google and Yandex.
@@ -12,10 +11,11 @@ One of the best search engines in documents! We lies between Google and Yandex.
 This is a list of all possible queries.
 [query]
     \h                  print this helper
-    \i                  change index (by default, inverted index created for 12 000 docs)
+    \n                  change number of documents for inverted index
+    \nr                 change number of documents for ranked retrieval
     \s                  start command line search in corpus
-    \inv                initialize search by inverted index
-    \rank               initialize search by ranked retrieval
+    \i                  initialize search by inverted index
+    \r                  initialize search by ranked retrieval
     \d                  get document's info
     \q                  quit the program
 

@@ -1,6 +1,6 @@
 from invInd import create_inverted_index
 from search import *
-from rankedRet import search
+from rankedRet import RankedRetrieval
 import sys
 from configs import K
 
@@ -20,7 +20,7 @@ class CommandLine():
 
     def execute_search(self):
         type_of_search = input("Enter the type of a search: ")
-        if type_of_search == "\inv":
+        if type_of_search == "\i":
             if self.inverted_index == None:
                 print("Initialize inverted index...")
                 self.create_index()
@@ -31,10 +31,11 @@ class CommandLine():
             print("Number of results: %d" % (len(result[0])))
             for r in result[0]:
                 self.print_result(r)
-        elif type_of_search == "\\rank":
-            print("Initialize ranked retrieval")
+        elif type_of_search == "\\r":
+            ranked_retrieval = RankedRetrieval()
+            print("Initialize ranked retrieval...")
             query = input("Enter query: ")
-            top = search(query, K)
+            top = ranked_retrieval.search(query, K)
             for elem in top:
                 print("Document: %s -- score - %.2f" % (elem[0], elem[1]))
         else:
@@ -73,9 +74,10 @@ class CommandLine():
     '\h' - command for getting help
     '\q' - quit from the program
     '\s' - start searching in documents
-    '\inv' - initialize search by inverted index
-    '\rank' - initialize search by ranked retrieval
-    '\i' - change number of documents for inverted index
+    '\i' - initialize search by inverted index
+    '\r' - initialize search by ranked retrieval
+    '\n' - change number of documents for inverted index
+    '\nr' - cahnge number of documents fro ranked retrieval
     '\d' - get document by his name
     """
     def dialog(self):
@@ -88,7 +90,7 @@ class CommandLine():
                 break
             elif response == "\s":
                 self.execute_search()
-            elif response == "\i":
+            elif response == "\\n":
                 self.change_index()
             elif response == "\d":
                 self.get_document()
