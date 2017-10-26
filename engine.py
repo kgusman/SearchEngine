@@ -1,5 +1,6 @@
 from invInd import create_inverted_index
 from search import *
+from rankedRet import check
 import sys
 
 class CommandLine():
@@ -17,15 +18,24 @@ class CommandLine():
         print("Document: %s     Path: %s" %(doc_list[len(doc_list) - 1], path))
 
     def execute_search(self):
-        if self.inverted_index == None:
-            print("Initialize inverted index...")
-            self.create_index()
-        print("Please, use boolean query type for search in corpus.\nExample: 'dogma AND population'\nFor more examples use github repo.")
-        query = input("Enter query: ")
-        result = list(process_query(query, self.inverted_index))
-        print("Number of results: %d" %(len(result[0])))
-        for r in result[0]:
-            self.print_result(r)
+        type_of_search = input("Enter the type of a search: ")
+        if type_of_search == "\inv":
+            if self.inverted_index == None:
+                print("Initialize inverted index...")
+                self.create_index()
+            print(
+                "Please, use boolean query type for search in corpus.\nExample: 'dogma AND population'\nFor more examples use github repo.")
+            query = input("Enter query: ")
+            result = list(process_query(query, self.inverted_index))
+            print("Number of results: %d" % (len(result[0])))
+            for r in result[0]:
+                self.print_result(r)
+        elif type_of_search == "\\rank":
+            print("Initialize ranked retrieval")
+            check()
+        else:
+            print("Wrong type. Please try again.")
+
 
     def change_index(self):
         type = input("Enter type for an index (1, 2 or 3): ")
@@ -59,6 +69,8 @@ class CommandLine():
     '\h' - command for getting help
     '\q' - quit from the program
     '\s' - start searching in documents
+    '\inv' - initialize search by inverted index
+    '\rank' - initialize search by ranked retrieval
     '\i' - change number of documents for inverted index
     '\d' - get document by his name
     """
@@ -80,7 +92,3 @@ class CommandLine():
                 print("Wrong command. Type '\h' for help.")
 
         print("Quitting...\nBye!")
-
-if __name__ == "__main__":
-    app = CommandLine()
-    app.dialog()

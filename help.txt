@@ -6,7 +6,7 @@
         \/     \/     \/            \/     \/        \/     \//_____/         \/     \/         \/       \/
 
 
-Welcome to SearchEngine 1.0! This is the online help utility.
+Welcome to SearchEngine 2.0! This is the online help utility.
 One of the best search engines in documents! We lies between Google and Yandex.
 
 This is a list of all possible queries.
@@ -14,6 +14,8 @@ This is a list of all possible queries.
     \h                  print this helper
     \i                  change index (by default, inverted index created for 12 000 docs)
     \s                  start command line search in corpus
+    \inv                initialize search by inverted index
+    \rank               initialize search by ranked retrieval
     \d                  get document's info
     \q                  quit the program
 
