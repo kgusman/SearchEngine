@@ -33,7 +33,6 @@ class RankedRetrieval():
                 if file.endswith(".txt"):
                      docs.append(os.path.join(root, file))
                      length += 1
-        print(length)
         return docs, length
 
     """ Create idf of all documents of the corpus """
@@ -161,7 +160,8 @@ class RankedRetrieval():
     def search(self, query, K):
         query = query.split()
         words_query = lemmatize(query)
-        self.idf = self.create_idf()
+        if (self.idf == None):
+            self.idf = self.create_idf()
         ltc = self.ltc_query(self.create_tf(words_query))
         docs = self.get_documents_of_query(words_query)
         scores = self.get_scores(words_query, docs, ltc)
@@ -169,4 +169,3 @@ class RankedRetrieval():
         top_K = self.take(K, sorted_scores)
 
         return top_K
-

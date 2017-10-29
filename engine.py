@@ -7,6 +7,7 @@ from configs import K
 class CommandLine():
     def __init__(self):
         self.inverted_index = None
+        self.ranked_retrieval = None
 
     def print_help(self):
         f = open('help.txt')
@@ -32,10 +33,11 @@ class CommandLine():
             for r in result[0]:
                 self.print_result(r)
         elif type_of_search == "\\r":
-            ranked_retrieval = RankedRetrieval()
+            if self.ranked_retrieval == None:
+                self.ranked_retrieval = RankedRetrieval()
             print("Initialize ranked retrieval...")
             query = input("Enter query: ")
-            top = ranked_retrieval.search(query, K)
+            top = self.ranked_retrieval.search(query, K)
             for elem in top:
                 print("Document: %s -- score - %.2f" % (elem[0], elem[1]))
         else:

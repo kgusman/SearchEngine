@@ -20,17 +20,22 @@ This is a list of all possible queries.
     \q                  quit the program
 
 Inverted index
-    By default, inverted index cretaed for 12 000 docs in the corpus. This value can be changed.
+    By default, inverted index created for 12 000 docs in the corpus. This value can be changed.
     In inverted index menu set type:
         - 1 for 12 000 docs
         - 2 for 55 000 docs
         - 3 for 112 000 docs
 
+Ranked retrieval model
+    By default, model uses 379 docs from the Corpus. This value can be changed as in the inverted index.
+
 Command line search
     Search based on a boolean type query. Use keywords - AND|OR - for searching.
     Example: dogma AND population
 
+    For ranked retrieval model use natural language search.
+    Example: chemical stability and low viscosity
+
 Documents info:
     In menu type name of a document, e.g. "9407018".
     As a response come full file with all necessary fields.
-
